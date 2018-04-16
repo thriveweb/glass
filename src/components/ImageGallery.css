@@ -1,0 +1,124 @@
+.section--image-gallery {
+	display: flex;
+	flex-wrap: wrap;
+	position: relative;
+}
+
+.section--image-gallery-item {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	height: 20vw;
+	flex: 1.25;
+	margin: .5vw;
+	box-sizing: border-box;
+	z-index: 1;
+}
+
+.section--image-gallery .Two {
+	flex: 2;
+}
+
+.section--image-gallery .Three {
+	flex: 2.75;
+}
+
+.line-break {
+	flex: 0 0 100%;
+}
+
+.section--image-gallery-item h3 {
+	color: var(--secondary);
+	font-size: 3.6em;
+	font-weight: 300;
+	z-index: 1;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	opacity: 0;
+	transition: all ease-in-out .2s;
+	position: relative;
+	z-index: 1;
+}
+
+.section--image-gallery-item:before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	opacity: 0;
+	transition: all ease-in-out .2s;
+	z-index: 1;
+}
+
+.section--image-gallery-item:hover h3, .section--image-gallery-item:hover:before {
+	opacity: 1;
+}
+
+.section--image-gallery-item:first-of-type, .section--image-gallery-item:nth-of-type(5n+6) {
+	margin-left: 1vw;
+}
+
+.section--image-gallery-item:nth-of-type(4), .section--image-gallery-item:nth-of-type(9) {
+	margin-right: 1vw;
+}
+
+.section--image-gallery:after {
+	content: '';
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	left: 0;
+	width: 100%;
+	height: 50%;
+	background-color: var(--lightGrey);
+}
+
+@media only screen and (max-width: 1300px) {
+	.section--image-gallery-item h3 {
+		font-size: 3em;
+	}
+}
+
+@media only screen and (max-width: 1100px) {
+	.section--image-gallery-item {
+		height: 25vw;
+	}
+}
+
+@media only screen and (max-width: 900px) {
+	.section--image-gallery-item h3 {
+		font-size: 2.6em;
+		opacity: 1;
+	}
+
+	.section--image-gallery-item:before {
+		opacity: 1;
+	}
+}
+
+
+@media only screen and (max-width: 760px) {
+	.section--image-gallery-item {
+		flex: 1;
+	}
+
+	.section--image-gallery .Two {
+		flex: 1;
+	}
+
+	.section--image-gallery .Three {
+		flex: 1;
+	}
+
+	.section--image-gallery-item h3 {
+		font-size: 1.8em;
+	}
+}
+
+
+

@@ -1,0 +1,57 @@
+.section--default-template {
+	position: relative;
+	padding: 10rem 0;
+}
+
+.section--default-template .container {
+	box-shadow: 0 0 3rem 0 rgba(0,0,0,0.1);
+	padding: 8rem 10rem 4rem;
+	position: relative;
+	z-index: 1;
+	background-color: white;
+	margin-top: 8rem;
+}
+
+.section--default-template h1 {
+	font-size: 5em;
+	padding-bottom: 3rem;
+	margin-bottom: 5rem;
+	position: relative;
+}
+
+.section--default-template h1:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 24rem;
+	height: .15rem;
+	background-color: var(--secondary);
+}
+
+.section--default-template-content-item {
+	margin-bottom: 4rem;
+}
+
+.section--default-template h3 {
+	font-size: 2em;
+}
+
+.section--default-template p, .section--default-template li, .section--default-template a  {
+	line-height: 2rem;
+}
+
+.section--default-template li {
+	display: block;
+	list-style: bullet;
+}
+
+.section--default-template:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 95%;
+	height: 70%;
+	background-color: rgba(58,58,60,0.15);
+}

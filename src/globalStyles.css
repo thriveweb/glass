@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400i');
+
+:root {
+  --primary: #3A3A3C;
+  --secondary: #C0A872;
+  --lightGrey: rgba(58,58,60,0.07);
+  --font-primary: 'Nunito', sans-serif;
+  --font-secondary: 'Libre Baskerville', serif;
+  --font-system: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto',
+    'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  --borderRadius: 3px;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  min-height: 100%;
+  background: var(--lightGrey);
+  overflow-x: hidden;
+}
+
+body {
+  font-family: var(--font-primary);
+  min-height: 100%;
+  position: relative;
+  background: white;
+  color: var(--primary);
+  font-weight: 300;
+  letter-spacing: 0.01em;
+  line-height: 1;
+  font-size: inherit;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 4.2em;
+  font-weight: 300;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: all ease-in-out .2s;
+}
+
+a:hover {
+  color: var(--secondary);
+}
+
+strong {
+  font-weight: 600;
+}
+
+p, a, li {
+  font-size: 1.6em;
+  font-weight: 300;
+}
+
+p:first-of-type, li:first-of-type {
+  margin-top: 0;
+}
+
+p:last-of-type, li:last-of-type {
+  margin-bottom: 0;
+}
+
+.title-italic {
+  font-size: 2.2em;
+  line-height: 1.4em;
+  font-family: var(--font-secondary);
+  font-weight: 400;
+}
+
+.section-image {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+pre {
+  background: var(--lightGrey);
+  line-height: 1.45;
+  font-size: 85%;
+  border-radius: 3px;
+  padding: 16px;
+}
+
+code {
+  font-size: 85%;
+  padding: 0.15em 0;
+  background: var(--lightGrey);
+  border-radius: 3px;
+}
+
+code:before, code:after {
+  letter-spacing: -0.2em;
+  content: '\00a0';
+}
+
+pre code {
+  font-size: inherit;
+}
+
+pre code:before, pre code:after {
+  display: none;
+}
+
+blockquote {
+  margin-left: 0;
+  padding-left: 1em;
+  line-height: 1.1;
+  font-size: 1em;
+  font-style: italic;
+  border-left: 2px solid var(--primary);
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Utility Classes */
+.light {
+  background-color: var(--lightGrey);
+}
+.white {
+  background-color: white;
+}
+.dark {
+  background-color: var(--primary);
+  color: white;
+}
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+  color: white;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.taCenter {
+  text-align: center;
+}
+.taLeft {
+  text-align: left;
+}
+.taRight {
+  text-align: right;
+}
+
+/* Layout */
+
+.section {
+  width: 100%;
+  padding: 5rem 0;
+}
+.section.thick {
+  padding: 10rem 0;
+}
+.section.thin {
+  padding: 2.5rem 0;
+}
+.section.noPadding {
+  padding: 0;
+}
+
+.container {
+  max-width: 1222px;
+  width: 90%;
+  margin: 0 auto;
+}
+.container.skinny {
+  max-width: 888px;
+}
+.container.skinnier {
+  max-width: 555px;
+}
+
+/* Buttons */
+
+.button {
+  background: transparent;
+  color: var(--primary);
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  font-size: 1.5em;
+  display: inline-block;
+  padding: 1.3rem 3.2rem;
+  border: .2rem solid var(--primary);
+  border-radius: 5rem;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+.button:hover,
+.button:focus {
+  border-color: var(--secondary);
+  outline: none;
+}
+.button[disabled] {
+  opacity: 0.4;
+  pointer-events: none;
+  cursor: progress;
+}
+.button.button--inverted {
+  background: white;
+  border-color: white;
+  color: var(--primary);
+}
+.button.button--inverted:hover,
+.button.button--inverted:focus {
+  background: transparent;
+  border-color: currentColor;
+  color: white;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0)),
+    linear-gradient(
+      -32deg,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 0.05) 50%,
+      rgba(255, 255, 255, 0) 50%,
+      rgba(255, 255, 255, 0)
+    );
+}
+
+
+@media only screen and (max-width: 1100px) {
+    .title-italic {
+      font-size: 1.8em;
+    }
+
+    h2 {
+      font-size: 3.8em;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+  .title-italic {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 3em;
+  }
+}

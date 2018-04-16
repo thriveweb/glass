@@ -1,0 +1,175 @@
+.footer {
+  background: var(--primary);
+  color: white;
+  padding: 6rem 0 0;
+}
+
+.footer .container {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+
+.footer--col-left, .footer--col-middle, .footer--col-right {
+	flex: 0 0 30%;
+}
+
+.footer--col-left img {
+	width: 18rem;
+}
+
+.footer--col-left p {
+	font-size: 1.4em;
+	line-height: 1.7;
+}
+
+.footer--col-middle p {
+	margin-bottom: .5rem;
+}
+
+.footer--col-middle a {
+	color: white;
+	display: inline-block;
+	font-size: inherit;
+}
+
+.footer--social-media {
+	display: flex;
+	margin-top: 2rem;
+}
+
+.footer--social-media svg {
+	height: 1.3rem;
+	width: 1.3rem;
+}
+
+.footer--social-media a {
+	padding: .5rem 1rem;
+}
+
+.footer--social-media a:first-of-type {
+	padding-left: 0;
+}
+
+.footer--social-media a:hover svg {
+	fill: var(--secondary);
+}
+
+.footer--bottom {
+	margin: 4rem 0 0;
+}
+
+.footer--bottom .container {
+	border-top: .1rem solid white;
+	padding: 1.6rem 0;
+}
+
+.footer--bottom a, .footer--bottom p, .footer--bottom li {
+	color: white;
+	margin: 0;
+	font-size: 1.4em;
+	list-style-type: none;
+}
+
+.footer--bottom a:hover {
+	color: var(--secondary);
+}
+
+.footer--bottom ul {
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+.footer--bottom a {
+	font-size: inherit;
+	padding: .5rem;
+}
+
+@media only screen and (max-width: 1100px) {
+	.footer .container {
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.footer--col-left {
+		flex: 0 0 75%;
+		text-align: center;
+		align-items: center;
+		margin-bottom: 5rem;
+	}
+
+	.footer--col-middle, .footer--col-right {
+		flex: 0 0 48%;
+	}
+
+	.footer--col-left img {
+		margin: 0 auto;
+	}
+
+	.footer--bottom .container {
+		justify-content: space-between;
+	}
+}
+
+@media only screen and (max-width: 760px) {
+	.footer--bottom p, .footer--bottom li {
+		font-size: 1.2em;
+	}
+}
+
+@media only screen and (max-width: 680px) {
+	.footer--col-middle, .footer--col-right {
+		flex: 0 0 100%;
+		text-align: center;
+	}
+
+	.footer--social-media {
+		justify-content: center;
+	}
+
+	footer .EnquiryForm {
+		margin: 5rem auto 0 !important;
+	}
+
+	.form--footer {
+		justify-content: center !important;
+	}
+
+	.footer--bottom p, .footer--bottom li {
+		font-size: 1em;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.footer--col-left {
+		flex: 0 0 100%;
+	}
+
+	.footer--bottom .container {
+		flex-direction: column-reverse;
+	}
+
+	.footer--bottom p, .footer--bottom li {
+		font-size: 1.2em;
+		margin-bottom: 1rem !important;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

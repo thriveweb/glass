@@ -1,0 +1,127 @@
+# See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+# display_url: https://netlify-cms-react-starter.netlify.com # This url will display in the top-right of the CMS
+media_folder: "public/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "settings"
+    label: "Settings"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - file: "content/settings/global.yml"
+        label: "Global Settings"
+        name: "global-settings"
+        fields:
+          - {label: Site Title, name: siteTitle, widget: string}
+          - {label: Site Url, name: siteUrl, widget: string, required: false}
+          - {label: Site Description, name: siteDescription, widget: text, required: false}
+          - {label: Site Description, name: siteDescription, widget: text, required: false}
+          - {label: Phone, name: phone, widget: string, required: false}    
+          - {label: Email, name: email, widget: string, required: false}
+          - {label: Address, name: address, widget: string, required: false}
+          - {label: Latitude, name: latitude, widget: string, required: false}
+          - {label: Longitude, name: longitude, widget: string, required: false}
+          - {label: Twitter, name: twitter, widget: string, required: false}
+          - {label: Facebook, name: facebook, widget: string, required: false}
+          - {label: Linkedin, name: linkedin, widget: string, required: false}
+          - {label: Instagram, name: instagram, widget: string, required: false}    
+          - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
+          - {label: Pdf Menu, name: pdfMenu, widget: file, required: false}
+          - label: "Header Button"
+            name: "headerButton"
+            widget: "object"
+            fields:
+              - {label: Button Text, name: buttonText, widget: string}
+              - {label: Button Url, name: buttonUrl, widget: string}
+          - label: "Footer"
+            name: "footer"
+            widget: "object"
+            fields:
+              - {label: Content, name: content, widget: markdown}
+
+  - name: "pages"
+    label: "Page"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - file: "content/pages/home.md"
+        label: "Home Page"
+        name: "home-page"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Featured Image, name: featuredImage, widget: image}   
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: markdown}
+              - {label: Button Text, name: buttonText, widget: string}
+              - {label: Button Url, name: buttonUrl, widget: file}
+          - label: "Gallery"
+            name: "galleryImages"
+            widget: "list"
+            fields:
+              - {label: Image, name: image, widget: image}
+              - {label: Title, name: title, widget: string}
+              - label: "Image Ratio"
+                name: "imageRatio"
+                widget: "select"
+                options: ["One", "Two", "Three"]
+          - label: "Columns"
+            name: "columns"
+            widget: "list"
+            fields:
+              - {label: "Left Align", name: "leftAlign", widget: "boolean", default: true}
+              - {label: Image, name: image, widget: image}
+              - {label: Category, name: category, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Content, name: content, widget: markdown}
+          - label: "Contact"
+            name: "contact"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Intro Content, name: introContent, widget: markdown}
+              - label: "Info Items"
+                name: "infoItems"
+                widget: "list"
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: Content, name: content, widget: markdown}
+      - file: "content/pages/faq.md"
+        label: "FAQs"
+        name: "faqs"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - label: Content Section"
+            name: "contentSection"
+            widget: "list"
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Content, name: content, widget: markdown}
+      - file: "content/pages/terms-conditions.md"
+        label: "Terms Conditions"
+        name: "termsConditions"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - label: Content Section"
+            name: "contentSection"
+            widget: "list" 
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Content, name: content, widget: markdown}
+
+
+
+
+
+

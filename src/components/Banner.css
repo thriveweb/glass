@@ -1,0 +1,140 @@
+.section--banner {
+	padding: 20vw 0;
+	position: relative;
+}
+
+.section--banner .container {
+	position: relative;
+	z-index: 1;
+	text-align: center;
+}
+
+.section--banner h1 {
+	font-size: 24em;
+	font-weight: 300;
+	letter-spacing: 5rem;
+	color: white;
+	padding-bottom: 2rem;
+	margin: 0 0 3rem;
+	margin-right: -5rem;
+	line-height: 1;
+	position: relative;
+	text-align: center;
+}
+
+.section--banner h1:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	width: 24rem;
+	height: 1px;
+	background-color: white;
+}
+
+.section--banner-info p, .section--banner-info a {
+	color: white;
+	font-weight: 300;
+	margin: 0;
+}
+
+.section--banner-info a {
+	font-size: 1.6em;
+	margin-top: 1rem;
+	letter-spacing: .3rem;
+	display: block;
+}
+
+.section--banner:before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.6);
+	z-index: 1;
+}
+
+@media only screen and (max-width: 1100px) {
+	.section--banner h1 {
+		font-size: 18em;
+		letter-spacing: 4rem;
+		margin-right: -4rem;
+	}
+}
+
+@media only screen and (max-width: 900px) {
+	.section--banner {
+		padding: 30vw 0 25vw;
+	}
+
+	.section--banner h1 {
+		font-size: 14em;
+		letter-spacing: 3rem;
+		margin-right: -3rem;
+	}
+}
+
+@media only screen and (max-width: 680px) {
+	.section--banner h1 {
+		font-size: 10em;
+		letter-spacing: 2rem;
+		margin-right: -2rem;
+	}
+
+	.section--banner h1:after {
+		width: 18rem;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.section--banner {
+		padding: 40vw 0 25vw;
+	}
+
+	.section--banner h1 {
+		font-size: 7em;
+	}
+
+	.section--banner-info p {
+		font-size: 1.8em;
+	}
+
+	.section--banner-info a {
+		font-size: 1.4em;
+	}
+
+	.section--banner h1:after {
+		width: 14rem;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.section--banner {
+		padding: 45vw 0 25vw;
+	}
+
+	.section--banner h1 {
+		letter-spacing: 1rem;
+		margin-right: -1rem;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
