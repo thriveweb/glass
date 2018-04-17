@@ -56,7 +56,9 @@ collections: # A list of collections the CMS should be able to edit
         name: "home-page"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Featured Image, name: featuredImage, widget: image}   
+          - {label: Featured Image, name: featuredImage, widget: image} 
+          - {label: Button Text, name: buttonText, widget: string}
+          - {label: Button Url, name: buttonUrl, widget: file}  
           - label: "Intro"
             name: "intro"
             widget: "object"
@@ -65,60 +67,60 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Content, name: content, widget: markdown}
               - {label: Button Text, name: buttonText, widget: string}
               - {label: Button Url, name: buttonUrl, widget: file}
-          - label: "Gallery"
-            name: "galleryImages"
-            widget: "list"
-            fields:
-              - {label: Image, name: image, widget: image}
-              - {label: Title, name: title, widget: string}
-              - label: "Image Ratio"
-                name: "imageRatio"
-                widget: "select"
-                options: ["One", "Two", "Three"]
-          - label: "Columns"
-            name: "columns"
-            widget: "list"
-            fields:
-              - {label: "Left Align", name: "leftAlign", widget: "boolean", default: true}
-              - {label: Image, name: image, widget: image}
-              - {label: Category, name: category, widget: string}
-              - {label: Title, name: title, widget: string}
-              - {label: Sub Title, name: subTitle, widget: string}
-              - {label: Content, name: content, widget: markdown}
-          - label: "Contact"
-            name: "contact"
-            widget: "object"
-            fields:
-              - {label: Title, name: title, widget: string}
-              - {label: Intro Content, name: introContent, widget: markdown}
-              - label: "Info Items"
-                name: "infoItems"
-                widget: "list"
-                fields:
-                  - {label: Title, name: title, widget: string}
-                  - {label: Content, name: content, widget: markdown}
-      - file: "content/pages/faq.md"
-        label: "FAQs"
-        name: "faqs"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - label: Content Section"
-            name: "contentSection"
-            widget: "list"
-            fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Content, name: content, widget: markdown}
-      - file: "content/pages/terms-conditions.md"
-        label: "Terms Conditions"
-        name: "termsConditions"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - label: Content Section"
-            name: "contentSection"
-            widget: "list" 
-            fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Content, name: content, widget: markdown}
+      #     - label: "Gallery"
+      #       name: "galleryImages"
+      #       widget: "list"
+      #       fields:
+      #         - {label: Image, name: image, widget: image}
+      #         - {label: Title, name: title, widget: string}
+      #         - label: "Image Ratio"
+      #           name: "imageRatio"
+      #           widget: "select"
+      #           options: ["One", "Two", "Three"]
+      #     - label: "Columns"
+      #       name: "columns"
+      #       widget: "list"
+      #       fields:
+      #         - {label: "Left Align", name: "leftAlign", widget: "boolean", default: true}
+      #         - {label: Image, name: image, widget: image}
+      #         - {label: Category, name: category, widget: string}
+      #         - {label: Title, name: title, widget: string}
+      #         - {label: Sub Title, name: subTitle, widget: string}
+      #         - {label: Content, name: content, widget: markdown}
+      #     - label: "Contact"
+      #       name: "contact"
+      #       widget: "object"
+      #       fields:
+      #         - {label: Title, name: title, widget: string}
+      #         - {label: Intro Content, name: introContent, widget: markdown}
+      #         - label: "Info Items"
+      #           name: "infoItems"
+      #           widget: "list"
+      #           fields:
+      #             - {label: Title, name: title, widget: string}
+      #             - {label: Content, name: content, widget: markdown}
+      # - file: "content/pages/faq.md"
+      #   label: "FAQs"
+      #   name: "faqs"
+      #   fields:
+      #     - {label: Title, name: title, widget: string}
+      #     - label: Content Section"
+      #       name: "contentSection"
+      #       widget: "list"
+      #       fields:
+      #         - {label: Heading, name: heading, widget: string}
+      #         - {label: Content, name: content, widget: markdown}
+      # - file: "content/pages/terms-conditions.md"
+      #   label: "Terms Conditions"
+      #   name: "termsConditions"
+      #   fields:
+      #     - {label: Title, name: title, widget: string}
+      #     - label: Content Section"
+      #       name: "contentSection"
+      #       widget: "list" 
+      #       fields:
+      #         - {label: Heading, name: heading, widget: string}
+      #         - {label: Content, name: content, widget: markdown}
 
 
 
