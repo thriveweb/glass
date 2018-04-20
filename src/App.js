@@ -68,7 +68,6 @@ class App extends Component {
       footer,
       headerScripts,
       headerButton,
-      pdfMenu
     } = globalSettings
 
     return (
@@ -87,7 +86,6 @@ class App extends Component {
             description={siteDescription}
             headerScripts={headerScripts}
           />
-          <Nav pdfMenu={pdfMenu} buttonText={headerButton.buttonText} buttonUrl={headerButton.buttonUrl} />
           <Switch>
             <Route
               path='/'
@@ -112,7 +110,7 @@ class App extends Component {
             />
             <Route render={() => <NoMatch siteUrl={siteUrl} />} />
           </Switch>
-          <Footer content={footer.content} phone={phone} email={email} twitter={twitter} facebook={facebook} linkedin={linkedin} instagram={instagram} />
+          <Footer title={footer.title} footerNav={footer.footerNav} twitter={twitter} facebook={facebook} linkedin={linkedin} instagram={instagram} />
         </div>
       </Router>
     )

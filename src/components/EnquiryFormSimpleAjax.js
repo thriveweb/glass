@@ -8,7 +8,7 @@ const fetch = window.fetch
 
 class Form extends React.Component {
   static defaultProps = {
-    name: 'Enquiry Form',
+    name: 'Subcription Form',
     subject: '', // optional subject of the notification email
     action: '',
     successMessage: 'Thanks for your enquiry, we will get back to you soon',
@@ -72,27 +72,9 @@ class Form extends React.Component {
         <label className='EnquiryForm--Label'>
           <input
             className='EnquiryForm--Input'
-            type='text'
-            placeholder='Name'
-            name='name'
-            required
-          />
-        </label>
-        <label className='EnquiryForm--Label'>
-          <input
-            className='EnquiryForm--Input'
-            type='text'
-            placeholder='Phone'
-            name='phone'
-            required
-          />
-        </label>
-        <label className='EnquiryForm--Label textarea'>
-          <textarea
-            className='EnquiryForm--Input EnquiryForm--Textarea'
-            placeholder='Message'
-            name='message'
-            rows='10'
+            type='email'
+            placeholder='Email'
+            name='email'
             required
           />
         </label>
@@ -103,7 +85,7 @@ class Form extends React.Component {
           <input
             className='button EnquiryForm--SubmitButton'
             type='submit'
-            value='Enquire'
+            value='Subscribe'
             disabled={this.state.disabled}
           />
         </div>  
