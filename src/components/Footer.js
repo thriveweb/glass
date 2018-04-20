@@ -16,7 +16,7 @@ export default ({twitter, facebook, linkedin, instagram, title, footerNav, butto
         <div className='footer--nav-items'>
           {footerNav.map (navItem => {
             return (
-              <a href={`${navItem.buttonUrl}`}>{navItem.buttonText}</a>
+              <a key={navItem.buttonText} href={`${navItem.buttonUrl}`}>{navItem.buttonText}</a>
             )
           })}
         </div>
