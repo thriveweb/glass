@@ -30,20 +30,19 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Twitter, name: twitter, widget: string, required: false}
           - {label: Facebook, name: facebook, widget: string, required: false}
           - {label: Linkedin, name: linkedin, widget: string, required: false}
-          - {label: Instagram, name: instagram, widget: string, required: false}    
-          - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
-          - {label: Pdf Menu, name: pdfMenu, widget: file, required: false}
-          - label: "Header Button"
-            name: "headerButton"
-            widget: "object"
-            fields:
-              - {label: Button Text, name: buttonText, widget: string}
-              - {label: Button Url, name: buttonUrl, widget: string}
+          - {label: Instagram, name: instagram, widget: string, required: false}
           - label: "Footer"
             name: "footer"
             widget: "object"
             fields:
-              - {label: Content, name: content, widget: markdown}
+              - {label: Title, name: title, widget: string}
+              - label: "Footer Nav"
+                name: "footerNav"
+                widget: "list"
+                fields:
+                  - {label: Button Text, name: buttonText, widget: string}
+                  - {label: Button Url, name: buttonUrl, widget: file}
+          - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
 
   - name: "pages"
     label: "Page"
