@@ -1,5 +1,5 @@
 ---
-featuredImage: /images/uploads/IMG_5105.jpg
+featuredImage: /images/uploads/kris-atomic-73943-unsplash.png
 title: Heading Here
 content: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
