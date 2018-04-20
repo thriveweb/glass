@@ -3,13 +3,13 @@ import React from 'react'
 import './Footer.css'
 import LazyImage from './LazyImage'
 import {ICONTwitter, ICONFacebook, ICONLinkedin, ICONInstagram} from './Icons'
-import EnquiryFormSimpleAjax from './EnquiryFormSimpleAjax'
+import SignupFormSimpleAjax from './SignupFormSimpleAjax'
 
 export default ({twitter, facebook, linkedin, instagram, title, footerNav, buttonText, buttonUrl }) => (
   <footer className='footer'>
   	<div className='container'>
   		<div className='footer--col-left'>
-       <EnquiryFormSimpleAjax />
+       <SignupFormSimpleAjax />
   		</div>
   		<div className='footer--col-right'>
         {title && <h3>{title}</h3>}

@@ -59,7 +59,7 @@ class Form extends React.Component {
 
     return (
       <form
-        className='EnquiryForm'
+        className='SignupForm'
         name={name}
         action={action}
         onSubmit={this.handleSubmit}
@@ -69,26 +69,25 @@ class Form extends React.Component {
         {this.state.alert && (
           <div className='EnquiryForm--Alert'>{this.state.alert}</div>
         )}
+        <legend>Sign up for our journal</legend>
         <label className='EnquiryForm--Label'>
           <input
             className='EnquiryForm--Input'
             type='email'
-            placeholder='Email'
+            placeholder='your email'
             name='email'
             required
           />
         </label>
-        <div className='form--footer'>
-          <input type='text' name='_gotcha' style={{ display: 'none' }} />
-          {!!subject && <input type='hidden' name='subject' value={subject} />}
-          <input type='hidden' name='form-name' value={name} />
-          <input
-            className='button EnquiryForm--SubmitButton'
-            type='submit'
-            value='Subscribe'
-            disabled={this.state.disabled}
-          />
-        </div>  
+        <input type='text' name='_gotcha' style={{ display: 'none' }} />
+        {!!subject && <input type='hidden' name='subject' value={subject} />}
+        <input type='hidden' name='form-name' value={name} />
+        <input
+          className='button EnquiryForm--SubmitButton'
+          type='submit'
+          value='Subscribe'
+          disabled={this.state.disabled}
+        /> 
       </form>
     )
   }
