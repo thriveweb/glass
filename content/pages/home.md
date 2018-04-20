@@ -15,5 +15,7 @@ galleryImages:
     title: Girls
   - image: /images/uploads/Bitmap.png
     title: Classic
+  - image: /images/uploads/attractive-black-and-white-boy-25733.png
+    title: Boys
 ---
 
