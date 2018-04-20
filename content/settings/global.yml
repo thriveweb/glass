@@ -10,6 +10,9 @@ twitter: 'http://www.twitter.com'
 facebook: 'http://www.facebook.com'
 linkedin: 'http://www.linkedin.com'
 instagram: 'http://www.instagram.com'
+header:
+  buttonText: Book Models
+  buttonUrl: 'http://google.com'
 footer:
   footerNav:
     - buttonText: Become a Model
