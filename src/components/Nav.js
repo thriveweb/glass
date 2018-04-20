@@ -7,12 +7,12 @@ import './Nav.css'
 import {ICONMenu} from './Icons'
 
 
-export default ({ handlePopupOpen, pdfMenu, buttonUrl, buttonText }) => (
+export default ({ handlePopupOpen, buttonUrl, buttonText }) => (
 
 	<nav className='nav'>
 	 	<div className='nav--container container'>
-	   		<a className='nav--menu-link' href={pdfMenu}><ICONMenu/>Menu</a>
 	      	<a href='/'><Logo /></a>
+	      	<a className='client-login' href='/'>Join Us</a>
 	      	<a className='button' href={`${buttonUrl}`}>{buttonText}</a>
 	  	</div>
 	</nav> 

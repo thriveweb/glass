@@ -1,6 +1,7 @@
 .section--banner {
-	padding: 10rem 0;
+	padding: 24rem 0 20rem;
 	position: relative;
+	filter: grayscale(100%);
 }
 
 .section--banner .container {
@@ -11,6 +12,17 @@
 
 .section--banner * {
 	color: white;
+}
+
+.section--banner h1 {
+	font-size: 7em;
+	margin-bottom: 1.5rem;
+}
+
+.section--banner-content {
+	max-width: 50%;
+	margin: 0 auto 4rem !important;
+	line-height: 1.4;
 }
 
 .section--banner:before {

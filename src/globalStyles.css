@@ -46,6 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   margin-bottom: 0.5em;
   font-family: var(--font-primary);
+  font-weight: 400;
 }
 
 h2 {
@@ -67,7 +68,7 @@ strong {
 }
 
 p, a, li {
-  font-size: 1.6em;
+  font-size: 1.7em;
   font-weight: 300;
   font-family: var(--font-secondary);
 }
@@ -78,6 +79,15 @@ p:first-of-type, li:first-of-type {
 
 p:last-of-type, li:last-of-type {
   margin-bottom: 0;
+}
+
+.title {
+  font-size: 1.2em;
+  text-transform: uppercase;
+  color: var(-secondary);
+  letter-spacing: 0.3rem;
+  font-weight: 600;
+  margin: 0 0 1.5rem;
 }
 
 .section-image {
@@ -216,11 +226,12 @@ img {
 .button:hover,
 .button:focus {
   background-color: rgba(255,255,255,0.2);
-  color: ;
+  color: white;
   outline: none;
 
   &.button-black:hover {
     background-color: rgba(0,0,0,0.2);
+    color: var(--primary);
   }
 }
 .button[disabled] {
