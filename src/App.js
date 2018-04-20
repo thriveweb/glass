@@ -84,6 +84,7 @@ class App extends Component {
             description={siteDescription}
             headerScripts={headerScripts}
           />
+          <Nav />
           <Switch>
             <Route
               path='/'

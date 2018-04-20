@@ -6,7 +6,7 @@ export default ({ inverted }) => (
   <div
     className='Logo'
     style={{
-      backgroundImage: 'url(/images/uploads/logo.png)'
+      backgroundImage: 'url(/images/uploads/logo-white.png)'
     }}
   />
 )
