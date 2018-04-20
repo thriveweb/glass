@@ -71,10 +71,6 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Image, name: image, widget: image}
               - {label: Title, name: title, widget: string}
-              - label: "Image Ratio"
-                name: "imageRatio"
-                widget: "select"
-                options: ["One", "Two", "Three"]
           # - label: "Intro"
           #   name: "intro"
           #   widget: "object"
