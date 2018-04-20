@@ -10,10 +10,19 @@ twitter: 'http://www.twitter.com'
 facebook: 'http://www.facebook.com'
 linkedin: 'http://www.linkedin.com'
 instagram: 'http://www.instagram.com'
-headerScripts: <!-- Add your analytics scripts / verification meta here -->
-pdfMenu: ''
-headerButton:
-  buttonText: ''
-  buttonUrl: ''
 footer:
-  content: ''
+  footerNav:
+    - buttonText: Become a Model
+      buttonUrl: 'http://google.com'
+    - buttonText: About Us
+      buttonUrl: 'http://google.com'
+    - buttonText: FAQ
+      buttonUrl: 'http://google.com'
+    - buttonText: Book Models
+      buttonUrl: 'http://google.com'
+    - buttonText: Get in Touch
+      buttonUrl: 'http://google.com'
+    - buttonText: Terms & Conditions
+      buttonUrl: 'http://google.com'
+  title: Information
+headerScripts: <!-- Add your analytics scripts / verification meta here -->
