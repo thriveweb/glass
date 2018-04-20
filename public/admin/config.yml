@@ -41,7 +41,7 @@ collections: # A list of collections the CMS should be able to edit
                 widget: "list"
                 fields:
                   - {label: Button Text, name: buttonText, widget: string}
-                  - {label: Button Url, name: buttonUrl, widget: file}
+                  - {label: Button Url, name: buttonUrl, widget: string}
           - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
 
   - name: "pages"
