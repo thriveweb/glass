@@ -5,7 +5,7 @@ import LazyImage from './LazyImage'
 import {ICONTwitter, ICONFacebook, ICONLinkedin, ICONInstagram} from './Icons'
 import EnquiryFormSimpleAjax from './EnquiryFormSimpleAjax'
 
-export default ({twitter, facebook, linkedin, instagram, title, footerNav }) => (
+export default ({twitter, facebook, linkedin, instagram, title, footerNav, buttonText, buttonUrl }) => (
   <footer className='footer'>
   	<div className='container'>
   		<div className='footer--col-left'>
@@ -15,7 +15,9 @@ export default ({twitter, facebook, linkedin, instagram, title, footerNav }) => 
         {title && <h3>{title}</h3>}
         <div className='footer--nav-items'>
           {footerNav.map (navItem => {
-
+            return (
+              <a href={`${navItem.buttonUrl}`}>{navItem.buttonText}</a>
+            )
           })}
         </div>
   		</div>
