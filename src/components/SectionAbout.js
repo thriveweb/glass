@@ -1,18 +1,17 @@
 import React from 'react'
 
-import BackgroundImage from './BackgroundImage'
+import LazyImage from './LazyImage'
+import SectionAbout from './SectionAbout.css'
 
-export default (image, title, subTitle, content, buttonText, buttonUrl) => {
-
+export default ({ image, title, subTitle, content, buttonText, buttonUrl }) => 
 	<section className='section--about'>
 		<div className='container'>
-			<BackgroundImage src={image} imageSize='600' />
+			<LazyImage src={image} imageSize='800' />
 			<div className='section--about-content'>
 				<p className='title'>{title}</p>
 				<h2>{subTitle}</h2>
 				<p>{content}</p>
-				<a href={`${buttonUrl}`}>{buttonText}</a>
+				<a className='button' href={`${buttonUrl}`}>{buttonText}</a>
 			</div>
 		</div>
 	</section>
-}
