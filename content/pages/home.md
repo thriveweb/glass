@@ -11,9 +11,9 @@ galleryImages:
     title: Women
   - image: /images/uploads/attractive-black-and-white-boy-25733.png
     title: Men
-  - image: /images/uploads/janko-ferlic-303881-unsplash.png
-    title: Girls
   - image: /images/uploads/Bitmap.png
+    title: Girls
+  - image: /images/uploads/janko-ferlic-303881-unsplash.png
     title: Classic
   - image: /images/uploads/attractive-black-and-white-boy-25733.png
     title: Boys
