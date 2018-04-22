@@ -10,14 +10,14 @@ const masonryOptions = {
 
 class ImageGallery extends Component {
 	render() {
-		const { galleryItems } = this.props
+		const { galleryItems, title, subTitle } = this.props
 
 		return (
 			<section className='section--image-gallery'>
 				<div className='container'>
 					<div className='section--image-gallery-heading'>
-						<p className='title'>Our Models</p>
-						<h2>Explore Our Models</h2>
+						<p className='title'>{title}</p>
+						<h2>{subTitle}</h2>
 					</div>
 					<Masonry
 						className={'section--gallery-items'} // default ''

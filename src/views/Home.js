@@ -6,7 +6,7 @@ import ImageGallery from '../components/ImageGallery'
 import SectionAbout from '../components/SectionAbout'
 
 export default ({ page, globalSettings }) => {
-  const { featuredImage, title, content, buttonText, buttonUrl, galleryImages, about} = page
+  const { featuredImage, title, content, buttonText, buttonUrl, gallery, about} = page
 
 
   return (
@@ -18,8 +18,10 @@ export default ({ page, globalSettings }) => {
         buttonText={buttonText} 
         buttonUrl={buttonUrl} 
       />
-      <ImageGallery 
-        galleryItems={galleryImages} 
+      <ImageGallery
+        title={gallery.title}
+        subTitle={gallery.subTitle}
+        galleryItems={gallery.galleryImages} 
       />
       <SectionAbout 
         image={about.image} 
