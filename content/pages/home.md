@@ -18,6 +18,7 @@ galleryImages:
   - image: /images/uploads/attractive-black-and-white-boy-25733.png
     title: Boys
 about:
+  image: /images/uploads/brooke-cagle-65608-unsplash.png
   subTitle: Brief Mission Statement Here
   title: Our Story
   content: >-
