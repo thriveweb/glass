@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 
 import Banner from '../components/Banner'
 import ImageGallery from '../components/ImageGallery'
+import SectionAbout from '../components/SectionAbout'
 
 export default ({ page, globalSettings }) => {
   const { featuredImage, title, content, buttonText, buttonUrl, galleryImages} = page
@@ -11,6 +12,7 @@ export default ({ page, globalSettings }) => {
     <main className='Home'>
       <Banner image={featuredImage} heading={title} content={content} buttonText={buttonText} buttonUrl={buttonUrl} />
       <ImageGallery galleryItems={galleryImages} />
+
       <Helmet>
         <title>{title}</title>
       </Helmet>
