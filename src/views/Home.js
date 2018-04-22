@@ -6,7 +6,7 @@ import ImageGallery from '../components/ImageGallery'
 import SectionAbout from '../components/SectionAbout'
 
 export default ({ page, globalSettings }) => {
-  const { featuredImage, title, content, buttonText, buttonUrl, galleryImages} = page
+  const { featuredImage, title, content, buttonText, buttonUrl, galleryImages, about} = page
 
   return (
     <main className='Home'>
