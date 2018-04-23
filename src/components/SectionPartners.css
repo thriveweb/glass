@@ -1,0 +1,21 @@
+.section--partners {
+	padding-bottom: 4rem;
+}
+
+.section--partners .container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.section--partners-icon {
+	flex: 0 0 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.section--partners-icon img {
+	margin: 0;
+}

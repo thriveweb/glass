@@ -7,9 +7,10 @@ import SectionAbout from '../components/SectionAbout'
 import SectionTestimonials from '../components/SectionTestimonials'
 import SectionColumns from '../components/SectionColumns'
 import FeaturedPosts from '../components/FeaturedPosts'
+import SectionPartners from '../components/SectionPartners'
 
 export default ({ page, globalSettings }) => {
-  const { featuredImage, title, content, buttonText, buttonUrl, gallery, about, testimonials, columns, featuredBlog } = page
+  const { featuredImage, title, content, buttonText, buttonUrl, gallery, about, testimonials, columns, featuredBlog, partners } = page
 
 
   return (
@@ -45,6 +46,9 @@ export default ({ page, globalSettings }) => {
         title={featuredBlog.title}
         subTitle={featuredBlog.subTitle}
         blogPosts={featuredBlog.blogPosts}
+      />
+      <SectionPartners
+        partners={partners} 
       />
       <Helmet>
         <title>{title}</title>
