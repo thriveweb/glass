@@ -134,12 +134,12 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: image, widget: image}
 
       - file: "content/pages/models.md"
-              label: "archive-models"
-              name: "archive-models"
-              fields:
-                - {label: Title, name: title, widget: string}
-                - {label: Sub Title, name: subTitle, widget: string}
-                - {label: Featured Image, name: featuredImage, widget: string}
+        label: "Archive Models"
+        name: "archive-models"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Featured Image, name: featuredImage, widget: string}
 
 
 
