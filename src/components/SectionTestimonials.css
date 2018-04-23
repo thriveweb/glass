@@ -1,0 +1,58 @@
+.section--testimonials {
+	padding: 8rem 0;
+}
+
+.section--testimonials .container {
+	text-align: center;
+}
+
+.section--testimonials .LazyImage, .section--testimonials svg {
+	margin: 0 auto 2rem;
+}
+
+.section--testimonials .title {
+	margin-bottom: 4rem;
+}
+
+.section--testimonials-item h2 {
+	font-size: 3.2em;
+	margin: 0 0 2rem;
+}
+
+.section--testimonials-item-content {
+	font-size: 1.6em;
+	font-family: var(--font-primary);
+	color: var(--secondaryGrey);
+	font-style: italic;
+	max-width: 60%;
+	margin: 0 auto;
+	line-height: 1.6;
+	position: relative;
+	padding-bottom: 3rem;
+	margin-bottom: 4rem;
+}
+
+.section--testimonials-item-content:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	width: 4rem;
+	height: .1rem;
+	background-color: var(--secondaryGrey);
+}
+
+.section--testimonials-item .title {
+	color: var(--secondary);
+}
+
+
+
+
+
+
+
+
+

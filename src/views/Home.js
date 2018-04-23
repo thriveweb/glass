@@ -4,9 +4,10 @@ import Helmet from 'react-helmet'
 import Banner from '../components/Banner'
 import ImageGallery from '../components/ImageGallery'
 import SectionAbout from '../components/SectionAbout'
+import SectionTestimonials from '../components/SectionTestimonials'
 
 export default ({ page, globalSettings }) => {
-  const { featuredImage, title, content, buttonText, buttonUrl, gallery, about} = page
+  const { featuredImage, title, content, buttonText, buttonUrl, gallery, about, testimonials} = page
 
 
   return (
@@ -31,7 +32,10 @@ export default ({ page, globalSettings }) => {
         buttonText={about.buttonText} 
         buttonUrl={about.buttonUrl} 
       />
-
+      <SectionTestimonials
+        title={testimonials.title}
+        testimonials={testimonials.testimonial}
+      />
       <Helmet>
         <title>{title}</title>
       </Helmet>

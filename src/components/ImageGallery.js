@@ -16,8 +16,8 @@ class ImageGallery extends Component {
 			<section className='section--image-gallery'>
 				<div className='container'>
 					<div className='section--image-gallery-heading'>
-						<p className='title'>{title}</p>
-						<h2>{subTitle}</h2>
+						{ title && <p className='title'>{title}</p> }
+						{ subTitle && <h2>{subTitle}</h2> }
 					</div>
 					<Masonry
 						className={'section--gallery-items'} // default ''
@@ -28,7 +28,7 @@ class ImageGallery extends Component {
 					>
 						{galleryItems.map((galleryItem, index) => {
 							return <a href='/' key={galleryItem.title} className='section--image-gallery-item'>
-								{galleryItem.image ? <BackgroundImage src={galleryItem.image} imageSize='600' /> : ''}
+								{ galleryItem.image && <BackgroundImage src={galleryItem.image} imageSize='600' /> }
 								<h3>{galleryItem.title}</h3>
 							</a>
 						})}
