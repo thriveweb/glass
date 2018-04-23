@@ -53,6 +53,10 @@
 	margin-bottom: 0;
 }
 
+.slick-slide, .slick-slide * { 
+	outline: none !important; 
+}
+
 
 
 

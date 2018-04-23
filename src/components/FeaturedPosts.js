@@ -12,8 +12,8 @@ export default ({ title, subTitle, blogPosts }) =>
 			</div>	
 			<a className='archive-link title' href='/'>All News <span>&rarr;</span></a>
 			<div className='section--featured-posts-items'>
-				{ blogPosts.map(blogPost => {
-					return <a key={`${blogPost.title}`} className={`section--featured-posts-item ${!blogPost.topAlign ? 'post-reverse' : ''}`} href='/'>
+				{ blogPosts.map((blogPost, index) => {
+					return <a key={`post-${index}`} className={`section--featured-posts-item ${!blogPost.topAlign ? 'post-reverse' : ''}`} href='/'>
 						<BackgroundImage src={`${blogPost.image}`} ImageSize='400' />
 						<div className='section--featured-posts-item-content'>
 							{ blogPost.category && <p className='post-category'>{blogPost.category}</p> }

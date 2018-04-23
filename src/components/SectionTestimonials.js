@@ -15,30 +15,31 @@ class SimpleSlider extends Component {
 		const {title, testimonials} = this.props
 
 		var settings = {
-	      dots: false,
-	      infinite: true,
-	      speed: 500,
-	      slidesToShow: 1,
-	      slidesToScroll: 1
+		  dots: false,
+		  infinite: true,
+		  speed: 200,
+		  fade: true,
+		  cssEase: 'linear',
+		  autoplay: true
 	    };
 
 		return (
-			<Slider className='section--testimonials' {...settings}>
+			<section className='section--testimonials'>
 				<div className='container'>
 					<ICONQuotes />
 					{ title && <p className='title'>{title}</p> }
-					<div className='section--testimonials-slider'>
-						{ testimonials.map(testimonial => {
-							return <div className='section--testimonials-item testimonial-slide'>
+					<Slider className='section--testimonials-slider' {...settings}>
+						{ testimonials.map((testimonial, index) => {
+							return <div key={`testimonial-${index}`} className='section--testimonials-item testimonial-slide'>
 								{ testimonial.title && <h2>{testimonial.title}</h2> }
 								{ testimonial.content && <p className='section--testimonials-item-content'>{testimonial.content}</p> }
 								{ testimonial.logo && <LazyImage src={`${testimonial.logo}`} imageSize='300' /> }
 								{ testimonial.name && <p className='title'>{testimonial.name}</p> }
 							</div>
 						})}
-					</div>	
+					</Slider>	
 				</div>
-			</Slider>
+			</section>
 		)
 	}
 }

@@ -7,7 +7,7 @@ export default ({ columns }) =>
 
 	<section className='section--columns'>
 		{columns.map(column => {
-			return <div key={`${columns.title}`} className={`section--columns-item ${!column.leftAlign ? 'column-right' : ''}`}>
+			return <div key={`${column.title}`} className={`section--columns-item ${!column.leftAlign ? 'column-right' : ''}`}>
 				<div className='container skinny'>
 					{ column.image && <LazyImage src={`${column.image}`} /> }
 					<div className='section--columns-item-content'>
