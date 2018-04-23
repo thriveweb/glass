@@ -18,7 +18,7 @@
 	margin-bottom: 2rem;
 }
 
-.section--partners-icon:nth-of-type(5n+5) {
+.section--partners-icon:nth-of-type(5n+5), .section--partners-icon:last-of-type{
 	margin-right: 0;
 }
 
