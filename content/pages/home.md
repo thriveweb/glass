@@ -84,10 +84,10 @@ featuredBlog:
   subTitle: Read our latest news
   title: Our Journal
 partners:
-  - image: /images/uploads/Bitmap Copy.png
-  - image: /images/uploads/Bitmap Copy 5.png
-  - image: /images/uploads/Bitmap Copy 6.png
-  - image: /images/uploads/Bitmap Copy 2.png
-  - image: /images/uploads/Bitmap Copy 4.png
+  - image: /images/uploads/porter.png
+  - image: /images/uploads/glamour.png
+  - image: /images/uploads/instyle.png
+  - image: /images/uploads/vogue.png
+  - image: /images/uploads/vim.png
 ---
 
