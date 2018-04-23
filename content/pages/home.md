@@ -89,7 +89,5 @@ partners:
   - image: /images/uploads/instyle.png
   - image: /images/uploads/vogue.png
   - image: /images/uploads/vim.png
-  - image: /images/uploads/Bitmap Copy 4.png
-  - image: /images/uploads/Bitmap Copy 6.png
 ---
 
