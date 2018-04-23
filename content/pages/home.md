@@ -46,5 +46,16 @@ testimonials:
       logo: /images/uploads/Bitmap Copy 5.png
       name: Lawrence Perry
   title: What Our Clients Say
+columns:
+  - buttonTitle: Book Models
+    image: /images/uploads/kris-atomic-73935-unsplash.png
+    title: Let's Collarborate
+    content: Book a Model For Your Next Project
+    buttonUrl: 'http://google.com'
+  - buttonTitle: Join Us
+    image: /images/uploads/matthew-kane-365718-unsplash.png
+    title: Become a Model
+    content: Start Your  Modelling Career
+    buttonUrl: 'http://google.com'
 ---
 
