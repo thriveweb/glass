@@ -49,6 +49,7 @@ testimonials:
 columns:
   - buttonTitle: Book Models
     image: /images/uploads/kris-atomic-73935-unsplash.png
+    leftAlign: true
     title: Let's Collarborate
     content: Book a Model For Your Next Project
     buttonUrl: 'http://google.com'
