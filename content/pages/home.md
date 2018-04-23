@@ -45,6 +45,9 @@ testimonials:
         survived not only five centuries.
       logo: /images/uploads/Bitmap Copy 5.png
       name: Lawrence Perry
+    - logo: /images/uploads/Bitmap Copy 2.png
+      name: Author Name
+      title: Example Heading
   title: What Our Clients Say
 columns:
   - buttonTitle: Book Models
