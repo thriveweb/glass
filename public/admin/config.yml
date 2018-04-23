@@ -138,6 +138,13 @@ collections: # A list of collections the CMS should be able to edit
         name: "archive-models"
         fields:
           - {label: Featured Image, name: featuredImage, widget: image}
+          - label: "Models"
+                name: "models"
+                widget: "list"
+                fields: 
+                  - {label: Image, name: image, widget: image}
+                  - {label: Name, name: name, widget: string}
+                  - {label: Collection, name: collection, widget: select, options: ['women', 'men', 'girls', 'boys']}
 
 
 
