@@ -64,5 +64,10 @@ columns:
     title: Testing
     content: Start Your  Modelling Career
     buttonUrl: 'http://google.com'
+  - buttonTitle: test
+    image: /images/uploads/kris-atomic-73941-unsplash.png
+    title: Test
+    content: Start Your  Modelling Career
+    buttonUrl: 'http://google.com'
 ---
 
