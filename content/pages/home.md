@@ -64,17 +64,23 @@ featuredBlog:
       category: Fashion
       date: 2 day ago
       image: /images/uploads/flaunter-com-237609-unsplash.png
+      postUrl: 'http://singleposturl.com'
       title: How heritage fashion houses are drawing inspiration from history
+      topAlign: true
     - author: Amelia Reynolds
       category: Agency
       date: 3 day ago
       image: /images/uploads/kris-atomic-73941-unsplash.png
+      postUrl: 'http://singleposturl.com'
       title: Why Did Reed Krakoff Walk Away from His Brand?
+      topAlign: false
     - author: Carley Keener
       category: Life Style
       date: 5 day ago
       image: /images/uploads/jordan-mixson-372459-unsplash.png
+      postUrl: 'http://singleposturl.com'
       title: Why Did Reed Krakoff Walk Away from His Brand?
+      topAlign: true
   subTitle: Read our latest news
   title: Our Journal
 ---
