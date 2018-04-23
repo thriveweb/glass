@@ -46,7 +46,9 @@
     "react-markdown": "^2.5.0",
     "react-masonry-component": "^6.2.0",
     "react-router-dom": "^4.1.1",
-    "react-snapshot": "^1.1.0"
+    "react-slick": "^0.23.1",
+    "react-snapshot": "^1.1.0",
+    "slick-carousel": "^1.8.1"
   },
   "scripts": {
     "start": "npm-run-all prepare-content -p start:content start:app",
