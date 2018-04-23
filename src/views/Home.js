@@ -5,9 +5,10 @@ import Banner from '../components/Banner'
 import ImageGallery from '../components/ImageGallery'
 import SectionAbout from '../components/SectionAbout'
 import SectionTestimonials from '../components/SectionTestimonials'
+import SectionColumns from '../components/SectionColumns'
 
 export default ({ page, globalSettings }) => {
-  const { featuredImage, title, content, buttonText, buttonUrl, gallery, about, testimonials} = page
+  const { featuredImage, title, content, buttonText, buttonUrl, gallery, about, testimonials, columns} = page
 
 
   return (
@@ -35,6 +36,9 @@ export default ({ page, globalSettings }) => {
       <SectionTestimonials
         title={testimonials.title}
         testimonials={testimonials.testimonial}
+      />
+      <SectionColumns
+        columns={columns}
       />
       <Helmet>
         <title>{title}</title>
