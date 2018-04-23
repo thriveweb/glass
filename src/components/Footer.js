@@ -1,7 +1,6 @@
 import React from 'react'
 
 import './Footer.css'
-import LazyImage from './LazyImage'
 import {ICONTwitter, ICONFacebook, ICONLinkedin, ICONInstagram} from './Icons'
 import SignupFormSimpleAjax from './SignupFormSimpleAjax'
 

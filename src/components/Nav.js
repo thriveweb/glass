@@ -1,15 +1,13 @@
 import React, { Component } from 'react'
-import { Link } from 'react-router-dom'
 
 import Logo from './Logo'
-import NavLink from './NavLink'
 import './Nav.css'
 import {ICONLogin} from './Icons'
 
 
 class Nav extends Component {
 	render() {
-		const { handlePopupOpen, header } = this.props
+		const { header } = this.props
 
 		return (
 			<nav className='nav'>

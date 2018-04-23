@@ -1,7 +1,7 @@
 import React from 'react'
 
 import LazyImage from './LazyImage'
-import SectionAbout from './SectionAbout.css'
+import './SectionAbout.css'
 
 export default ({ image, title, subTitle, content, buttonText, buttonUrl }) => 
 	<section className='section--about'>
