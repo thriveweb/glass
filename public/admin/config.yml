@@ -121,11 +121,13 @@ collections: # A list of collections the CMS should be able to edit
                 name: "blogPosts"
                 widget: "list"
                 fields:
+                  - {label: Top Align, name: topAlign, widget: boolean, default: true}
                   - {label: Image, name: image, widget: image}
                   - {label: Title, name: title, widget: string}
                   - {label: Category, name: category, widget: string}
                   - {label: Author, name: author, widget: string}
                   - {label: Date, name: date, widget: string}
+                  - {label: Post Url, name: postUrl, widget: string}
 
 
 

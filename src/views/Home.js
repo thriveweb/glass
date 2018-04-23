@@ -6,9 +6,10 @@ import ImageGallery from '../components/ImageGallery'
 import SectionAbout from '../components/SectionAbout'
 import SectionTestimonials from '../components/SectionTestimonials'
 import SectionColumns from '../components/SectionColumns'
+import FeaturedPosts from '../components/FeaturedPosts'
 
 export default ({ page, globalSettings }) => {
-  const { featuredImage, title, content, buttonText, buttonUrl, gallery, about, testimonials, columns} = page
+  const { featuredImage, title, content, buttonText, buttonUrl, gallery, about, testimonials, columns, featuredBlog } = page
 
 
   return (
@@ -39,6 +40,11 @@ export default ({ page, globalSettings }) => {
       />
       <SectionColumns
         columns={columns}
+      />
+      <FeaturedPosts
+        title={featuredBlog.title}
+        subTitle={featuredBlog.subTitle}
+        blogPosts={featuredBlog.blogPosts}
       />
       <Helmet>
         <title>{title}</title>
