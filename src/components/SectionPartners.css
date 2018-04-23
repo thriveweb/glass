@@ -1,5 +1,5 @@
 .section--partners {
-	padding-bottom: 4rem;
+	padding-bottom: 2rem;
 }
 
 .section--partners .container {
@@ -10,10 +10,16 @@
 }
 
 .section--partners-icon {
-	flex: 0 0 20%;
+	flex: 0 0 16%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	margin-right: calc(20% / 4);
+	margin-bottom: 2rem;
+}
+
+.section--partners-icon:nth-of-type(5n+5) {
+	margin-right: 0;
 }
 
 .section--partners-icon img {
