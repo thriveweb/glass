@@ -100,6 +100,16 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Content, name: content, widget: markdown}
                   - {label: Logo, name: logo, widget: image}
                   - {label: Name, name: name, widget: string}
+                        - {label: Title, name: title, widget: string} 
+          - label: "Columns"
+            name: "columns"
+            widget: "list"  
+            fields: 
+              - {label: Image, name: image, widget: image}
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: string}
+              - {label: Button Title, name: buttonTitle, widget: string}
+              - {label: Button Url, name: buttonUrl, widget: string}
 
 
 

@@ -1,5 +1,5 @@
 .section--testimonials {
-	padding: 8rem 0;
+	padding: 10rem 0 15rem;
 }
 
 .section--testimonials .container {
@@ -10,8 +10,13 @@
 	margin: 0 auto 2rem;
 }
 
+.section--testimonials svg {
+	min-height: 6rem;
+}
+
 .section--testimonials .title {
 	margin-bottom: 4rem;
+	color: var(--secondary);
 }
 
 .section--testimonials-item h2 {
@@ -45,7 +50,7 @@
 }
 
 .section--testimonials-item .title {
-	color: var(--secondary);
+	margin-bottom: 0;
 }
 
 
