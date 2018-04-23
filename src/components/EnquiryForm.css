@@ -151,6 +151,7 @@ textarea:-ms-input-placeholder {
   padding: 1rem 2.5rem;
   border: .1rem solid var(--secondary);
   flex: 1;
+  min-width: auto;
 }
 
 

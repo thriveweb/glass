@@ -84,7 +84,7 @@ p:last-of-type, li:last-of-type {
 .title {
   font-size: 1.2em;
   text-transform: uppercase;
-  color: var(-secondary);
+  color: var(--secondary);
   letter-spacing: 0.3rem;
   font-weight: 600;
   margin: 0 0 1.5rem;
@@ -195,7 +195,7 @@ img {
   margin: 0 auto;
 }
 .container.skinny {
-  max-width: 888px;
+  max-width: 1100px;
 }
 .container.skinnier {
   max-width: 555px;
@@ -217,23 +217,26 @@ img {
   border: .2rem solid white;
   transition: all 0.2s ease;
   cursor: pointer;
+  min-width: 18rem;
+  text-align: center;
+}
 
-  &.button-black {
-    border-color: var(--primary);
-    color: var(--primary);
-  }
+.button-black {
+  border-color: var(--primary);
+  color: var(--primary);
 }
 .button:hover,
 .button:focus {
   background-color: rgba(255,255,255,0.2);
   color: white;
   outline: none;
-
-  &.button-black:hover {
-    background-color: rgba(0,0,0,0.2);
-    color: var(--primary);
-  }
 }
+
+.button-black:hover {
+  background-color: rgba(0,0,0,0.2);
+  color: var(--primary);
+}
+
 .button[disabled] {
   opacity: 0.4;
   pointer-events: none;
@@ -260,23 +263,3 @@ img {
 }
 
 
-
-@media only screen and (max-width: 1100px) {
-    .title-italic {
-      font-size: 1.8em;
-    }
-
-    h2 {
-      font-size: 3.8em;
-    }
-}
-
-@media only screen and (max-width: 320px) {
-  .title-italic {
-    font-size: 1.5em;
-  }
-
-  h2 {
-    font-size: 3em;
-  }
-}

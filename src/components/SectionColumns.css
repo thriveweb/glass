@@ -1,0 +1,60 @@
+.section--columns {
+	background-color: var(--lightGrey);
+}
+
+.section--columns-item {
+	padding: 12rem 0 9rem;
+}
+
+.section--columns-item .container {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.section--columns-item .LazyImage {
+	margin: 0;
+	position: absolute;
+	left: 0;
+	width: 55%;
+}
+
+.section--columns-item-content {
+	flex: 0 0 30%;
+}
+
+.section--columns-item-content .title {
+	margin-bottom: 1.5rem;
+}
+
+.section--columns-item-content h2 {
+	line-height: 1.2;
+	margin-bottom: 4rem;
+}
+
+.section--columns-item.column-right {
+	background: linear-gradient(to right, var(--primary) 60%, var(--lightGrey) 50%);
+	padding-top: 18rem;
+}
+
+.section--columns-item.column-right .container {
+	justify-content: flex-start;
+}
+
+.section--columns-item.column-right .LazyImage {
+	left: 50%;
+	width: auto;
+}
+
+.section--columns-item.column-right * {
+	color: white;
+}
+
+.section--columns-item.column-right .button {
+	border-color: white;
+}
+
+.section--columns-item.column-right .button:hover {
+	background-color: rgba(255,255,255,0.2);
+	color: white;
+}
