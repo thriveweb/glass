@@ -58,5 +58,24 @@ columns:
     title: Become a Model
     content: Start Your  Modelling Career
     buttonUrl: 'http://google.com'
+featuredBlog:
+  blogPosts:
+    - author: Lewis Bennett
+      category: Fashion
+      date: 2 day ago
+      image: /images/uploads/flaunter-com-237609-unsplash.png
+      title: How heritage fashion houses are drawing inspiration from history
+    - author: Amelia Reynolds
+      category: Agency
+      date: 3 day ago
+      image: /images/uploads/kris-atomic-73941-unsplash.png
+      title: Why Did Reed Krakoff Walk Away from His Brand?
+    - author: Carley Keener
+      category: Life Style
+      date: 5 day ago
+      image: /images/uploads/jordan-mixson-372459-unsplash.png
+      title: Why Did Reed Krakoff Walk Away from His Brand?
+  subTitle: Read our latest news
+  title: Our Journal
 ---
 
