@@ -58,16 +58,5 @@ columns:
     title: Become a Model
     content: Start Your  Modelling Career
     buttonUrl: 'http://google.com'
-  - buttonTitle: Testing
-    image: /images/uploads/flaunter-com-237609-unsplash.png
-    leftAlign: true
-    title: Testing
-    content: Start Your  Modelling Career
-    buttonUrl: 'http://google.com'
-  - buttonTitle: test
-    image: /images/uploads/janko-ferlic-303881-unsplash.png
-    title: Test
-    content: Start Your  Modelling Career
-    buttonUrl: 'http://google.com'
 ---
 
