@@ -16,7 +16,7 @@ gallery:
       title: Classic
     - image: /images/uploads/janko-ferlic-303881-unsplash.png
       title: Girls
-    - image: /images/uploads/attractive-black-and-white-boy-25733.png
+    - image: /images/uploads/boy.jpg
       title: Boys
   subTitle: Explore Our Models
   title: Our Models
