@@ -138,6 +138,12 @@ collections: # A list of collections the CMS should be able to edit
         name: "archive-models"
         fields:
           - {label: Featured Image, name: featuredImage, widget: image}
+          - label: "Models Nav"
+            name: "models-nav"
+            widget: "relation"
+            collection: "models"
+            searchFields: ["type"]
+            valueField: "type"
           - label: "Models"
             name: "models"
             widget: "list"
