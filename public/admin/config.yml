@@ -132,10 +132,9 @@ collections: # A list of collections the CMS should be able to edit
             widget: "list"
             fields:
               - {label: Image, name: image, widget: image}
-
       - file: "content/pages/models.md"
-        label: "Archive Models"
-        name: "archive-models"
+        label: "Models"
+        name: "models"
         fields:
           - {label: Featured Image, name: featuredImage, widget: image}
           - label: "Models Nav"
@@ -144,13 +143,23 @@ collections: # A list of collections the CMS should be able to edit
             collection: "models"
             searchFields: ["collection", "women", "men", "girls", "boys"]
             valueField: "collection"
-          - label: "Models"
-            name: "models"
+          - label: "Model"
+            name: "model"
             widget: "list"
             fields: 
               - {label: Image, name: image, widget: image}
               - {label: Name, name: name, widget: string}
-              - {label: Collection, name: collection, widget: select, options: ['women', 'men', 'girls', 'boys']}
+              - {label: Collection, name: collection, widget: relation, options: []}
+
+      - file: "content/pages/model-types.md"
+        label: "Model Types"
+        name: "model-types"
+        fields:
+          - label: "Type"
+            name: "type"
+            widget: "list"
+            fields:
+              - {label: Title, name: title, widget: string}
 
 
 
