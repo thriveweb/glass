@@ -142,7 +142,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "models-nav"
             widget: "relation"
             collection: "models"
-            searchFields: ["women", "men", "girls", "boys"]
+            searchFields: ["collection", "women", "men", "girls", "boys"]
             valueField: "collection"
           - label: "Models"
             name: "models"
