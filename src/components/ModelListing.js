@@ -16,7 +16,7 @@ class ModelListing extends Component {
 	}
 
 	render() {
-		let { models, modelTypes } = this.props
+		let { models, modelTypes, title } = this.props
 		const { selectedCollection } = this.state
 
 		if(selectedCollection) {
@@ -28,12 +28,16 @@ class ModelListing extends Component {
 		return (
 			<section className='section--models-listing'>
 				<div className='container'>
-					<ModelTypes modelTypes={modelTypes} handleSelect={this.selectCollection} />
+					<div className='model-list-heading'>
+						<p className='title'>Our Models</p>
+						<h2>{title}</h2>
+						<ModelTypes modelTypes={modelTypes} handleSelect={this.selectCollection} />
+					</div>	
 					{models.map((model, index) => {
 						return <a key={`model-${index}`} className='model-list-item' href='/'>
 							<BackgroundImage src={`${model.image}`}  imageSize='600' />
-							<p className='category'>{model.collection}</p>
-							<h2>{model.name}</h2>
+							{ model.collection && <p className='category'>{model.collection}</p> }
+							{ model.name && <h3>{model.name}</h3> }
 						</a>
 					})}
 				</div>
@@ -45,13 +49,6 @@ class ModelListing extends Component {
 
 
 
-
-
-
-
 export default ModelListing
 
-
-
-// export default ({ models }) =>
 

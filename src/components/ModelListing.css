@@ -8,6 +8,10 @@
 	justify-content: space-between;
 }
 
+.model-list-heading {
+	flex: 0 0 100%;
+}
+
 .model-list-item {
 	position: relative;
 	flex: 0 0 32%;
@@ -19,7 +23,7 @@
 	height: 20rem;
 }
 
-.model-list-item p, .model-list-item h2 {
+.model-list-item p, .model-list-item h3 {
 	color: white;
 	position: relative;
 	z-index: 1;

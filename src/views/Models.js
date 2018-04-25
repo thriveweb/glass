@@ -10,6 +10,7 @@ export default ({ page, modelTypes }) => {
 		<main className='Models'>
 			<ModelListing 
 				models={model}
+				title={title}
 				modelTypes={modelTypes}
 			/>
 			<Helmet>
