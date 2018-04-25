@@ -144,7 +144,8 @@ collections: # A list of collections the CMS should be able to edit
             widget: "list"
             fields: 
               - {label: Image, name: image, widget: image}
-              - {label: Name, name: name, widget: string}
+              - {label: First Name, name: firstName, widget: string}
+              - {label: Last Name, name: lastName, widget: string}
               - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title'}
   - name: "model-types"
     label: "Model Types"
