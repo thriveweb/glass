@@ -13,6 +13,11 @@ class Nav extends Component {
 			<nav className='nav'>
 			 	<div className='nav--container container'>
 			      	<a href='/'><Logo /></a>
+			      	<nav>
+			      		<ul>
+			      			<li><a href='/models'>Models</a></li>
+			      		</ul>
+			      	</nav>
 			      	<div className='client-nav'>
 			      		<a className='title' href='/'><ICONLogin /> Join Us</a>
 			      		<a className='button' href={`${header.buttonUrl}`}>{header.buttonText}</a>
