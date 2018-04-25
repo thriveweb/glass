@@ -1,6 +1,7 @@
 ---
 featuredImage: /images/uploads/kris-atomic-73935-unsplash.png
-title: Explore Our Models
+title: Our Models
+subTitle: Explore Our Models
 model:
   - collection: Men
     image: /images/uploads/attractive-black-and-white-boy-25733.png
