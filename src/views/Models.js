@@ -2,19 +2,15 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import ModelListing from '../components/ModelListing'
-import ModelTypes from '../components/ModelTypes'
 
-export default ({ page }) => {
+export default ({ page, modelTypes }) => {
 	const { title, featuredImage, model } = page
-	const { title } = modelTypes
 
 	return (
 		<main className='Models'>
 			<ModelListing 
 				models={model}
-			/>
-			<ModelTypes
-				title={title}
+				modelTypes={modelTypes}
 			/>
 			<Helmet>
         		<title>{title}</title>

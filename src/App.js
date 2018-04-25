@@ -69,6 +69,9 @@ class App extends Component {
       header,
     } = globalSettings
 
+    const modelTypes = this.getDocuments('model-types')
+
+
     return (
       <Router>
         <div className='React-Wrap'>
@@ -98,7 +101,7 @@ class App extends Component {
               path='/models'
               exact
               render={props => (
-                <Models page={this.getDocument('pages', 'models')} globalSettings={globalSettings} {...props} />
+                <Models page={this.getDocument('pages', 'models')} modelTypes={modelTypes} globalSettings={globalSettings} {...props} />
               )}
             />
             <Route render={() => <NoMatch siteUrl={siteUrl} />} />
