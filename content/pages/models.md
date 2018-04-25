@@ -1,7 +1,9 @@
 ---
 featuredImage: /images/uploads/kris-atomic-73935-unsplash.png
 model:
-  - collection: Women
-    name: test
+  - collection: Men
+    image: /images/uploads/attractive-black-and-white-boy-25733.png
+    name: Model Name
+  - {}
 ---
 
