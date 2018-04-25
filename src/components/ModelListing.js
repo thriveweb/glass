@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 
 import BackgroundImage from './BackgroundImage'
+import ModelTypes from './ModelTypes'
 import './ModelListing.css'
 
 class ModelListing extends Component {
@@ -27,16 +28,7 @@ class ModelListing extends Component {
 		return (
 			<section className='section--models-listing'>
 				<div className='container'>
-					<div className='model-list-nav'>
-						<h2>Explore Our Models</h2>
-						<ul>
-							<li onClick={() => this.selectCollection(null)}>All</li>
-							<li onClick={() => this.selectCollection('women')}>Women</li>
-							<li onClick={() => this.selectCollection('men')}>Men</li>
-							<li onClick={() => this.selectCollection('boys')}>Boys</li>
-							<li onClick={() => this.selectCollection('girls')}>Girls</li>
-						</ul>
-					</div>
+
 					{models.map((model, index) => {
 						return <a key={`model-${index}`} className='model-list-item' href='/'>
 							<BackgroundImage src={`${model.image}`}  imageSize='600' />

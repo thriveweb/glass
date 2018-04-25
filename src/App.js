@@ -6,7 +6,7 @@ import _merge from 'lodash/merge'
 import ScrollToTop from './components/ScrollToTop'
 import Meta from './components/Meta'
 import Home from './views/Home'
-import ArchiveModels from './views/ArchiveModels'
+import Models from './views/Models'
 import NoMatch from './views/NoMatch'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
@@ -98,7 +98,7 @@ class App extends Component {
               path='/models'
               exact
               render={props => (
-                <ArchiveModels page={this.getDocument('pages', 'models')} globalSettings={globalSettings} {...props} />
+                <Models page={this.getDocument('pages', 'models')} globalSettings={globalSettings} {...props} />
               )}
             />
             <Route render={() => <NoMatch siteUrl={siteUrl} />} />

@@ -144,15 +144,12 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: image, widget: image}
               - {label: Name, name: name, widget: string}
               - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title'}
-  - name: "model-types"
-    label: "Model Types"
-    delete: true # Prevent users from deleting documents in this collection
-    editor:
-      preview: false
-    folder: "content/model-types"
+  - label: "Model Types"
+    name: "modelTypes"
+    folder: "content/pages/model-types"
     create: true
     fields:
-      - {label: Title, name: title, widget: string}
+      - {label: "Title", name: "title", widget: "string"}
 
 
 
