@@ -44,11 +44,19 @@
 
 .section--model-list-item .name-rotate {
 	position: absolute;
-	top: 2rem;
-	left: -6rem;
-	color: var(--primary);
+	top: 40rem;
+	left: -4rem;
+	z-index: 1;
 	transform: rotate(270deg);
+	transform-origin: left top;
+	min-width: 40rem;
+}
 
+.section--model-list-item .name-rotate p {
+	text-align: right;
+	color: var(--primary);
+	font-family: var(--font-primary);
+	font-size: 1.4em;
 }
 
 .section--model-list-item:before {
