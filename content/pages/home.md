@@ -94,8 +94,8 @@ featuredBlog:
       postUrl: 'http://singleposturl.com'
       title: Why Did Reed Krakoff Walk Away from His Brand?
       topAlign: false
-  subTitle: Read our latest news
-  title: Our Journal
+  subTitle: Our Journal
+  title: Read our latest news
 partners:
   - image: /images/uploads/porter.png
   - image: /images/uploads/glamour.png
