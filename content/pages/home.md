@@ -1,6 +1,7 @@
 ---
 featuredImage: /images/uploads/kris-atomic-73943-unsplash.png
-title: Heading Here
+subTitle: Welcome To
+title: Insert Your Heading Here
 content: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
@@ -18,12 +19,12 @@ gallery:
       title: Girls
     - image: /images/uploads/boy.jpg
       title: Boys
-  subTitle: Explore Our Models
-  title: Our Models
+  subTitle: Our Models
+  title: Explore Our Models
 about:
   image: /images/uploads/brooke-cagle-65608-unsplash.png
-  subTitle: Brief Mission Statement Here
-  title: Our Story
+  subTitle: Our Story
+  title: Brief Mission Statement Here
   content: >-
     There are many variations of passages of Lorem Ipsum available, but the
     majority have suffered alteration in some form, by injected humour, or
