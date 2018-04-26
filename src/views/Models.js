@@ -2,12 +2,17 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import ModelListing from '../components/ModelListing'
+import Banner from '../components/Banner'
 
-export default ({ page, modelTypes }) => {
+export default ({ page, modelTypes, globalSettings }) => {
 	const { title, subTitle, featuredImage, model } = page
 
 	return (
 		<main className='Models'>
+		    <Banner 
+			    image={featuredImage}
+			    heading={title} 
+		    />
 			<ModelListing 
 				models={model}
 				title={title}

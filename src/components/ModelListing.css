@@ -29,34 +29,51 @@
 	margin-top: 4rem;
 	display: flex;
 	flex-wrap: wrap;
+	margin-left: 3rem;
 }
 
 .section--model-list-item {
 	position: relative;
-	flex: 0 0 29%;
+	flex: 0 0 28%;
 	margin: 0 6.5% 5rem 0;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
 	height: 50rem;
+	filter: grayscale(100%);
+	transition: all ease-in-out .2s;
 }
 
 .section--model-list-item .name-rotate {
 	position: absolute;
-	top: 40rem;
-	left: -4rem;
+	top: 30rem;
+	left: -3rem;
 	z-index: 1;
 	transform: rotate(270deg);
 	transform-origin: left top;
-	min-width: 40rem;
+	min-width: 30rem;
 }
 
 .section--model-list-item .name-rotate p {
 	text-align: right;
 	color: var(--primary);
 	font-family: var(--font-primary);
-	font-size: 1.4em;
+	font-size: 1.2em;
+}
+
+.section--model-list-item .category, .section--model-list-item h3 {
+	color: white;
+	position: relative;
+	z-index: 1;
+	font-size: 2.2em;
+	opacity: 0;
+	transition: all ease-in-out .2s;
+}
+
+.section--model-list-item .category {
+	font-size: .8em;
+	margin-bottom: 2rem;
 }
 
 .section--model-list-item:before {
@@ -66,8 +83,16 @@
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(0,0,0,0.6);
+	background-color: rgba(0,0,0,0.2);
 	z-index: 1;
+}
+
+.section--model-list-item:hover {
+	filter: grayscale(0%);
+}
+
+.section--model-list-item:hover .category, .section--model-list-item:hover h3 {
+	opacity: 1;
 }
 
 .section--model-list-item:nth-child(3n+3) {
