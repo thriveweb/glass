@@ -7,8 +7,8 @@ export default ({ title, subTitle, blogPosts }) =>
 	<section className='section--featured-posts'>
 		<div className='container'>
 			<div className='featured-posts-heading'>
-				{ title && <p className='title'>{title}</p> }
-				{ subTitle && <h2>{subTitle}</h2> }
+				{ subTitle && <p className='title'>{subTitle}</p> }
+				{ title && <h2>{title}</h2> }
 			</div>	
 			<a className='archive-link title' href='/'>All News <span>&rarr;</span></a>
 			<div className='section--featured-posts-items'>

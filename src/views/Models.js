@@ -11,7 +11,7 @@ export default ({ page, modelTypes, globalSettings }) => {
 		<main className='Models'>
 		    <Banner 
 			    image={featuredImage}
-			    heading={title} 
+			    subHeading={subTitle} 
 		    />
 			<ModelListing 
 				models={model}

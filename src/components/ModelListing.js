@@ -29,8 +29,8 @@ class ModelListing extends Component {
 			<section className='section--models'>
 				<div className='container'>
 					<div className='section--model-list-heading'>
-						<p className='title'>{title}</p>
-						<h2>{subTitle}</h2>
+						<p className='title'>{subTitle}</p>
+						<h2>{title}</h2>
 					</div>	
 					<ModelTypes modelTypes={modelTypes} handleSelect={this.selectCollection} />
 					<div className='section--model-list-items'>

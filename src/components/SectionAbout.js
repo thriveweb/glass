@@ -8,8 +8,8 @@ export default ({ image, title, subTitle, content, buttonText, buttonUrl }) =>
 		<div className='container'>
 			<LazyImage src={image} imageSize='800' />
 			<div className='section--about-content'>
-				<p className='title'>{title}</p>
-				<h2>{subTitle}</h2>
+				<p className='title'>{subTitle}</p>
+				<h2>{title}</h2>
 				<p>{content}</p>
 				<a className='button' href={`${buttonUrl}`}>{buttonText}</a>
 			</div>

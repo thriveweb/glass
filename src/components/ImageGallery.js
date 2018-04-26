@@ -16,8 +16,8 @@ class ImageGallery extends Component {
 			<section className='section--image-gallery'>
 				<div className='container'>
 					<div className='section--image-gallery-heading'>
-						{ title && <p className='title'>{title}</p> }
-						{ subTitle && <h2>{subTitle}</h2> }
+						{ subTitle && <p className='title'>{subTitle}</p> }
+						{ title && <h2>{title}</h2> }
 					</div>
 					<Masonry
 						className={'section--gallery-items'} // default ''
