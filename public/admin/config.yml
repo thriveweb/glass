@@ -115,8 +115,8 @@ collections: # A list of collections the CMS should be able to edit
             name: "featuredBlog"
             widget: "object"
             fields:
-              - {label: Title, name: title, widget: string}
               - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Title, name: title, widget: string}
               - label: "Blog Posts"
                 name: "blogPosts"
                 widget: "list"
