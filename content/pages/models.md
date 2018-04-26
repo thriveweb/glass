@@ -20,7 +20,7 @@ model:
     image: /images/uploads/janko-ferlic-303881-unsplash.png
     lastName: Name
   - collection: Boys
-    firstName: Modelalksdjfhalskdjhf
+    firstName: Long Model
     image: /images/uploads/boy.jpg
     lastName: Name
   - collection: Men
