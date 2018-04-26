@@ -26,20 +26,23 @@ class ModelListing extends Component {
 		}
 
 		return (
-			<section className='section--models-listing'>
+			<section className='section--models'>
 				<div className='container'>
-					<div className='model-list-heading'>
+					<div className='section--model-list-heading'>
 						<p className='title'>{title}</p>
 						<h2>{subTitle}</h2>
-						<ModelTypes modelTypes={modelTypes} handleSelect={this.selectCollection} />
 					</div>	
-					{models.map((model, index) => {
-						return <a key={`model-${index}`} className='model-list-item' href='/'>
-							<BackgroundImage src={`${model.image}`}  imageSize='600' />
-							{ model.collection && <p className='category'>{model.collection}</p> }
-							{ model.name && <h3>{model.name}</h3> }
-						</a>
-					})}
+					<ModelTypes modelTypes={modelTypes} handleSelect={this.selectCollection} />
+					<div className='section--model-list-items'>
+						{models.map((model, index) => {
+							return <a key={`model-${index}`} className='section--model-list-item' href='/'>
+								<p className='name-rotate'>{model.firstName}</p>
+								<BackgroundImage src={`${model.image}`}  imageSize='600' />
+								{ model.collection && <p className='category title'>{model.collection}</p> }
+								<h3>{model.firstName} {model.lastName}</h3>
+							</a>
+						})}
+					</div>	
 				</div>
 			</section>
 		)

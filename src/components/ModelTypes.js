@@ -1,10 +1,10 @@
 import React from 'react'
 
+import './NavList.css'
+
 export default ({modelTypes, handleSelect}) =>
-	<div className='nav--list-items'>
-		<ul>
-			{modelTypes.map(modelType => {
-				return <li onClick={() => handleSelect(`${modelType.title}`)}>{modelType.title}</li>
-			})}
-		</ul>
-	</div>
+	<ul className='nav--list-items'>
+		{modelTypes.map(modelType => {
+			return <li onClick={() => handleSelect(`${modelType.title}`)}>{modelType.title}</li>
+		})}
+	</ul>
