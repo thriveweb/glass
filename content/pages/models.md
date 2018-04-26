@@ -1,7 +1,7 @@
 ---
 featuredImage: /images/uploads/kris-atomic-73935-unsplash.png
-title: Our Models
-subTitle: Explore Our Models
+subTitle: Our Models
+title: Explore Our Models
 model:
   - collection: Men
     firstName: Model
