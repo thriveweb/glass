@@ -140,7 +140,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Sub Title, name: subTitle, widget: string}
           - {label: Title, name: title, widget: string}
-          - {label: Collection, name: collection, widget: relation, collection: 'model', searchFields: [featuredImage, 'firstName', 'lastName', 'collection'], valueField: 'featuredImage','firstName', 'lastName', 'collection'}
+          - {label: Collection, name: collection, widget: relation, collection: 'model', searchFields: ['featuredImage, firstName, lastName, collection'], valueField: 'featuredImage, firstName, lastName, collection'}
   - label: "Model"
     name: "model"
     delete: true # Prevent users from deleting documents in this collection
