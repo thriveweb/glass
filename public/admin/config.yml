@@ -140,14 +140,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Sub Title, name: subTitle, widget: string}
           - {label: Title, name: title, widget: string}
-          - label: "Model"
-            name: "model"
-            widget: "list"
-            fields: 
-              - {label: Image, name: image, widget: image}
-              - {label: First Name, name: firstName, widget: string}
-              - {label: Last Name, name: lastName, widget: string}
-              - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title'}
+          - {label: Collection, name: collection, widget: relation, collection: 'model', searchFields: [featuredImage, 'firstName', 'lastName', 'collection'], valueField: 'featuredImage','firstName', 'lastName', 'collection'}
   - label: "Model"
     name: "model"
     delete: true # Prevent users from deleting documents in this collection
@@ -167,6 +160,11 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Content, name: content, widget: string}
+      - label: "Image Portfolio"
+        name: "imagePortfolio"
+        widget: "list"
+        fields:   
+          - {label: Image, name: image, widget: image}
   - name: "model-types"
     label: "Model Types"
     delete: true # Prevent users from deleting documents in this collection
