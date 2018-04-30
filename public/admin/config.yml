@@ -134,8 +134,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Image, name: image, widget: image}
       - file: "content/pages/model.md"
-        label: "Single Model"
-        name: "singleModel"
+        label: "Model"
+        name: "model"
         fields:
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Sub Title, name: subTitle, widget: string}
