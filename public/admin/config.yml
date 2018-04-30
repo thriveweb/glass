@@ -139,19 +139,15 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Sub Title, name: subTitle, widget: string}
-          - label: "Model Profile"
-            name: "modelProfile"
+          - {label: First Name, name: firstName, widget: string}
+          - {label: Last Name, name: lastName, widget: string}
+          - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title'}
+          - label: "Model Specs"
+            name: "modelSpecs"
             widget: "list"
-            fields: 
-              - {label: First Name, name: firstName, widget: string}
-              - {label: Last Name, name: lastName, widget: string}
-              - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title'}
-              - label: "Model Specs"
-                name: "modelSpecs"
-                widget: "list"
-                fields:
-                  - {label: Title, name: title, widget: string}
-                  - {label: Content, name: content, widget: string}
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: string}
       - file: "content/pages/models.md"
         label: "Models"
         name: "models"
