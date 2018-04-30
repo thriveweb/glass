@@ -15,8 +15,9 @@
 .section--columns-item .LazyImage {
 	margin: 0;
 	position: absolute;
-	left: 0;
-	width: 55%;
+	right: 45%;
+	width: auto;
+	height: 50rem;
 }
 
 .section--columns-item-content {

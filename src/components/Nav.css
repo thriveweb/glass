@@ -4,19 +4,29 @@
   left: 0;
   width: 100%;
   z-index: 999;
-  padding: 2rem 0;
+  padding: .5rem 0;
+  transition: all ease-in-out .2s;
 }
 
 .nav--container {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative;
 }
 
 .nav--container .Logo {
 	width: 18rem;
 	height: 6.6rem;
   margin: 0;
+}
+
+.nav--container .LogoScroll {
+  opacity: 0;
+  visibility: 0;
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 
 .nav--container .client-nav {
@@ -28,13 +38,45 @@
   display: flex;
   align-items: center;
   margin: 0 2rem 0 0;
+  transition: all ease-in-out .2s;
 }
 
 .nav--container .title svg {
   margin-right: 1em;
+  transition: inherit;
 }
 
+.nav.active {
+  background-color: white;
+  box-shadow: 0 0 3rem 0 rgba(0,0,0,0.2);
+}
 
+.nav.active .nav--container .title {
+  color: var(--primary);
+}
+
+.nav.active .nav--container .title svg * {
+  fill: var(--primary);
+}
+
+.nav.active .button {
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+.nav.active .button:hover {
+  background-color: rgba(0,0,0,0.2);
+}
+
+.nav.active .nav--container .Logo {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.nav.active .nav--container .LogoScroll {
+  opacity: 1;
+  visibility: visible;
+}
 
 /*@media only screen and (max-width: 680px) {
   .nav--container .Logo {

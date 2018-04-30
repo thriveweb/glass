@@ -2,30 +2,36 @@
 	padding: 0;
 	margin: 0;
 	display: flex;
+	flex-direction: row-reverse;
 }
 
 .nav--list-items li {
+	margin-right: 2rem;
+	font-size: 1.2em;
+}
+
+.nav--list-items a {
 	list-style-type: none;
 	display: inline-block;
 	padding: 1.5rem 3.5rem;
 	min-width: 13rem;
 	border: 1px solid var(--primary);
 	color: var(--primary);
-	margin-right: 2rem;
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: 0.2em;
-	font-size: 1.2em;
+	font-size: inherit;
 	text-align: center;
 	transition: all ease-in-out .2s;
 }
 
-.nav--list-items li:last-of-type {
+.nav--list-items li:first-of-type {
 	margin-right: 0;
 }
 
-.nav--list-items li:hover {
+.nav--list-items a:hover {
 	background-color: var(--primary);
 	color: white;
 	border-color: transparent;
+	cursor: pointer;
 }

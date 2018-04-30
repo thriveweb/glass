@@ -1,10 +1,18 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import './NavList.css'
 
-export default ({modelTypes, handleSelect}) =>
+export default ({modelTypes, handleSelect, selectedModelType}) =>
 	<ul className='nav--list-items'>
 		{modelTypes.map(modelType => {
-			return <li onClick={() => handleSelect(`${modelType.title}`)}>{modelType.title}</li>
+			return <li
+				className={`nav--list-items ${selectedModelType ? 'active' : ''}`} 
+				key={modelType.title}
+			>
+				<Link to={`/models/${modelType.name}`}>
+					{modelType.title}
+				</Link>
+			</li>
 		})}
 	</ul>

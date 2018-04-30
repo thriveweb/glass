@@ -94,15 +94,41 @@ class App extends Component {
               path='/'
               exact
               render={props => (
-                <Home page={this.getDocument('pages', 'home')} globalSettings={globalSettings} {...props} />
+                <Home 
+                  page={this.getDocument('pages', 'home')} 
+                  globalSettings={globalSettings} 
+                  {...props} 
+                />
               )}
             />
             <Route
               path='/models'
               exact
               render={props => (
-                <Models page={this.getDocument('pages', 'models')} modelTypes={modelTypes} globalSettings={globalSettings} {...props} />
+                <Models 
+                  page={this.getDocument('pages', 'models')}
+                  modelTypes={modelTypes}
+                  globalSettings={globalSettings}
+                  {...props}
+                />
               )}
+            />
+            <Route
+              path='/models/:modelType'
+              exact
+              render={props => {
+                return modelTypes.map(selectedModelType => {
+                  if(selectedModelType.name === props.match.params.modelType) {
+                    return <Models 
+                      page={this.getDocument('pages', 'models')}
+                      modelTypes={modelTypes}
+                      globalSettings={globalSettings}
+                      selectedModelType={selectedModelType}
+                      {...props}
+                    />
+                  }
+                })
+              }}
             />
             <Route render={() => <NoMatch siteUrl={siteUrl} />} />
           </Switch>
