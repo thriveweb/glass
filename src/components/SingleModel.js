@@ -62,7 +62,7 @@ class AsNavFor extends Component {
           					slidesToShow={imagePortfolio.length < 3 ? imagePortfolio.length : 3}
 					        swipeToSlide={true}
 					        focusOnSelect={true}
-
+					        
           				>
 							{ imagePortfolio.map((portfolioItem, index) => {
 								return <div key={`slider-nav-${index}`} className='section--model-profile-slide'>

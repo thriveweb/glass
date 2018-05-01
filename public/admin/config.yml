@@ -133,6 +133,38 @@ collections: # A list of collections the CMS should be able to edit
             widget: "list"
             fields:
               - {label: Image, name: image, widget: image}
+
+      - file: "content/pages/about.md"
+        label: "About Page"
+        name: "about-page"
+        fields:
+          - {label: Featured Image, name: featuredImage, widget: image, required: false}
+          - {label: Sub Title, name: subTitle, widget: string, required: false}
+          - {label: Title, name: title, widget: string, required: false}
+          - label: "Team Members"
+            name: "teamMembers"
+            widget: "list"
+            fields:
+              - {label: Left Align, name: leftAlign, widget: boolean, default: true}
+              - {label: Image, name: image, widget: image}
+              - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: markdown}
+          - label: "Services"
+            name: "services"
+            widget: "object"
+            fields:
+              - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: markdown}
+              - label: "Service Items"
+                name: "serviceItems"
+                widget: "list"
+                fields:
+                  - {label: Image, name: image, widget: image}
+                  - {label: Sub Title, name: subTitle, widget: string}
+                  - {label: Title, name: title, widget: string}
+                  - {label: Content, name: content, widget: markdown}
       - file: "content/pages/models.md"
         label: "Models"
         name: "models"
@@ -145,6 +177,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: "list"
             fields:
               - {label: Collection, name: collection, widget: relation, collection: 'model', searchFields: ['title'], valueField: 'title'}
+
   - label: "Model"
     name: "model"
     delete: true # Prevent users from deleting documents in this collection
@@ -170,6 +203,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "list"
         fields:   
           - {label: Image, name: image, widget: image}
+
   - name: "model-types"
     label: "Model Types"
     delete: true # Prevent users from deleting documents in this collection

@@ -27,6 +27,7 @@
 .section--model-profile-info {
 	text-align: right;
 	margin-right: 4rem;
+	flex: 1;
 }
 
 .section--model-profile-info .title {
@@ -54,8 +55,8 @@
 }
 
 .section--model-profile-images {
-	max-width: 70%;
-	flex: 0 0 70%;
+	max-width: 65%;
+	flex: 0 0 65%;
 }
 
 
@@ -67,6 +68,10 @@
 
 .section--model-profile-slider-nav {
 	margin-top: 1rem;
+}
+
+.section--model-profile-slider-nav .slick-slide {
+	max-width: 33.33%;
 }
 
 .section--model-profile-slider-nav .slick-current .section--model-profile-slide {

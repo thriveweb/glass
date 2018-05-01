@@ -7,6 +7,7 @@ import _kebabCase from 'lodash/kebabCase'
 import ScrollToTop from './components/ScrollToTop'
 import Meta from './components/Meta'
 import Home from './views/Home'
+import About from './views/About'
 import Models from './views/Models'
 import Model from './views/Model'
 import NoMatch from './views/NoMatch'
@@ -98,6 +99,17 @@ class App extends Component {
               render={props => (
                 <Home 
                   page={this.getDocument('pages', 'home')} 
+                  globalSettings={globalSettings} 
+                  {...props} 
+                />
+              )}
+            />
+            <Route
+              path='/about'
+              exact
+              render={props => (
+                <About 
+                  page={this.getDocument('pages', 'about')} 
                   globalSettings={globalSettings} 
                   {...props} 
                 />
