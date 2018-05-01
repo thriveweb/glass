@@ -8,9 +8,9 @@ modelSpecs:
   - content: 6 '3
     title: Height
 imagePortfolio:
-  - image: /images/uploads/women-banner.jpg
+  - image: ''
   - image: /images/uploads/boy.jpg
   - image: /images/uploads/jordan-mixson-372459-unsplash.png
-  - image: /images/uploads/antony-sastre-631199-unsplash.png
+  - image: ''
 ---
 
