@@ -154,7 +154,6 @@ collections: # A list of collections the CMS should be able to edit
             name: "services"
             widget: "object"
             fields:
-              - {label: Sub Title, name: subTitle, widget: string}
               - {label: Title, name: title, widget: string}
               - {label: Content, name: content, widget: markdown}
               - label: "Service Items"
@@ -162,7 +161,6 @@ collections: # A list of collections the CMS should be able to edit
                 widget: "list"
                 fields:
                   - {label: Image, name: image, widget: image}
-                  - {label: Sub Title, name: subTitle, widget: string}
                   - {label: Title, name: title, widget: string}
                   - {label: Content, name: content, widget: markdown}
       - file: "content/pages/models.md"
