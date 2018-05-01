@@ -2,7 +2,7 @@
 title: Models Name 1
 featuredImage: /images/uploads/single-banner.jpg
 imageThumbnail: /images/uploads/thumbnail-example.png
-firstName: Model
+firstName: Model Really Long
 lastName: Name
 collection: Women
 modelSpecs:
