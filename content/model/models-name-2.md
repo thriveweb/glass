@@ -8,9 +8,7 @@ modelSpecs:
   - content: 6 '3
     title: Height
 imagePortfolio:
-  - image: ''
   - image: /images/uploads/boy.jpg
   - image: /images/uploads/jordan-mixson-372459-unsplash.png
-  - image: ''
 ---
 
