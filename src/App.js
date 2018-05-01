@@ -74,8 +74,6 @@ class App extends Component {
     const modelTypes = this.getDocuments('model-types')
     const models = this.getDocuments('model')
 
-    console.log(models)
-
     return (
       <Router>
         <div className='React-Wrap'>

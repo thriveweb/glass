@@ -7,8 +7,6 @@ import Banner from '../components/Banner'
 export default ({ page, modelTypes, selectedModelType, globalSettings, models }) => {
 	const { title, subTitle, featuredImage, model } = page
 
-	console.log(selectedModelType)
-
 	return (
 		<main className='Models'>
 		    <Banner 
