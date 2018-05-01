@@ -1,41 +1,42 @@
 import React, {Component} from 'react'
 import {Link} from 'react-router-dom'
-
-import 'slick-carousel/slick/slick.css'
-import 'slick-carousel/slick/slick-theme.css'
 import Slider from 'react-slick'
 
 import BackgroundImage from './BackgroundImage'
 import './SingleModel.css'
 
 
-class SimpleSlider extends Component {
+class AsNavFor extends Component {
+
+	constructor(props) {
+	    super(props);
+	    this.state = {
+	    	nav1: null,
+	    	nav2: null
+	    };
+	}
+
+	state = {
+		nav1: null,
+		nav2: null
+	}
+
+	componentDidMount() {
+		this.setState ({
+			nav1: this.slider1,
+			nav2: this.slider2
+		})
+	}
 
 	render() {
 		const { firstName, lastName, modelSpecs, imagePortfolio, collection, selectedModelType } = this.props
 
-		var settingsFor = {
-		  slidesToShow: 1,
-		  slidesToScroll: 1,
-		  arrows: false,
-		  fade: true,
-		  asNavFor: '.slider-nav'
-	    };
-
-	    var settingsNav = {
-		  slidesToShow: 3,
-		  slidesToScroll: 1,
-		  asNavFor: '.slider-for',
-		  dots: false,
-		  arrows: true,
-		  centerMode: true,
-		  focusOnSelect: true
-	    };
+		console.log(imagePortfolio)
 
 	    return (		
 		    <section className='section--model-profile'>
 				<div className='container'>
-					<Link className='archive-link title' to={`/models/${collection.toLowerCase()}`}>Back to All</Link>
+					<Link className='archive-link title' to={`/models/${collection.toLowerCase()}`}><span>&larr;</span> Back to All</Link>
 					<div className='section--model-profile-info'>
 						{ firstName && lastName && <h2>{firstName} {lastName}</h2> }
 						{ collection && <p className='category title'>{collection}</p> }
@@ -47,14 +48,25 @@ class SimpleSlider extends Component {
 						})}
 					</div>
 					<div className='section--model-profile-images'>
-						<Slider className='section--model-profile-slider slider-for' {...settingsFor}>
+						<Slider className='section--model-profile-slider'
+							asNavFor={this.state.nav2}
+          					ref={slider => (this.slider1 = slider)}
+						>
 							{ imagePortfolio.map((portfolioItem, index) => {
 								return <div key={`slider-${index}`} className='section--model-profile-slide'>
-									<BackgroundImage src={portfolioItem.image} />
+									<BackgroundImage src={portfolioItem.image} imageSize='910' />
 								</div>
 							})}
 						</Slider>
-						<Slider className='section--model-profile-slider-nav slider-nav' {...settingsNav}>
+						<Slider className='section--model-profile-slider-nav center' 
+							asNavFor={this.state.nav1}
+          					ref={slider => (this.slider2 = slider)}
+          					slidesToShow={3}
+          					slidesToScroll={3}
+					        swipeToSlide={true}
+					        focusOnSelect={true}
+
+          				>
 							{ imagePortfolio.map((portfolioItem, index) => {
 								return <div key={`slider-nav-${index}`} className='section--model-profile-slide'>
 									<BackgroundImage src={portfolioItem.image} />
@@ -68,4 +80,4 @@ class SimpleSlider extends Component {
 	}
 }
 
-export default SimpleSlider
+export default AsNavFor

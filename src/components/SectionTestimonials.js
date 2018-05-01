@@ -14,8 +14,8 @@ class SimpleSlider extends Component {
 
 		const {title, testimonials} = this.props
 
-		var settings = {
-		  dots: false,
+		const settings = {
+		  dots: true,
 		  infinite: true,
 		  speed: 200,
 		  fade: true,

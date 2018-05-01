@@ -11,6 +11,17 @@
 .section--model-profile .archive-link {
 	flex: 0 0 100%;
 	margin-bottom: 6rem;
+	display: flex;
+	align-items: center;
+	padding: .5rem;
+}
+
+.section--model-profile .archive-link span {
+	font-size: 1.4em;
+}
+
+.section--model-profile .archive-link:hover, .section--model-profile .archive-link:hover span {
+	color: var(--secondaryGrey);
 }
 
 .section--model-profile-info {
@@ -39,16 +50,18 @@
 	margin: 0;
 	padding: 0;
 	font-size: 1.5em;
+	letter-spacing: .1em;
 }
 
 .section--model-profile-images {
-	max-width: 65%;
+	max-width: 70%;
+	flex: 0 0 70%;
 }
 
 
 .section--model-profile-slide {
 	position: relative;
-	padding-bottom: 55rem;
+	padding-bottom: 60rem;
 	width: 100%;
 }
 
@@ -56,8 +69,13 @@
 	margin-top: 1rem;
 }
 
+.section--model-profile-slider-nav .slick-current .section--model-profile-slide {
+	filter: grayscale(0%);
+}
+
 .section--model-profile-slider-nav .section--model-profile-slide {
 	padding-bottom: 20rem;
+	filter: grayscale(100%);
 }
 
 
