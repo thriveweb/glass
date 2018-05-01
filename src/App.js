@@ -2,11 +2,13 @@ import React, { Component } from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Helmet from 'react-helmet'
 import _merge from 'lodash/merge'
+import _kebabCase from 'lodash/kebabCase'
 
 import ScrollToTop from './components/ScrollToTop'
 import Meta from './components/Meta'
 import Home from './views/Home'
 import Models from './views/Models'
+import Model from './views/Model'
 import NoMatch from './views/NoMatch'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
@@ -70,7 +72,9 @@ class App extends Component {
     } = globalSettings
 
     const modelTypes = this.getDocuments('model-types')
+    const models = this.getDocuments('model')
 
+    console.log(models)
 
     return (
       <Router>
@@ -88,7 +92,7 @@ class App extends Component {
             description={siteDescription}
             headerScripts={headerScripts}
           />
-          <Nav header={header} />
+          <Nav header={header} modelTypes={modelTypes} />
           <Switch>
             <Route
               path='/'
@@ -102,28 +106,33 @@ class App extends Component {
               )}
             />
             <Route
-              path='/models'
-              exact
-              render={props => (
-                <Models 
-                  page={this.getDocument('pages', 'models')}
-                  modelTypes={modelTypes}
-                  globalSettings={globalSettings}
-                  {...props}
-                />
-              )}
-            />
-            <Route
               path='/models/:modelType'
               exact
               render={props => {
-                return modelTypes.map(selectedModelType => {
+                return modelTypes.map(selectedModelType => {                  
                   if(selectedModelType.name === props.match.params.modelType) {
                     return <Models 
                       page={this.getDocument('pages', 'models')}
                       modelTypes={modelTypes}
                       globalSettings={globalSettings}
                       selectedModelType={selectedModelType}
+                      models={models}
+                      {...props}
+                    />
+                  }
+                })
+              }}
+            />
+            <Route
+              path='/model/:model'
+              exact
+              render={props => {
+                return models.map(model => {                  
+                  if(_kebabCase(model.title) === props.match.params.model) {
+                    return <Model 
+                      globalSettings={globalSettings}
+                      models={models}
+                      model={model}
                       {...props}
                     />
                   }
@@ -132,7 +141,14 @@ class App extends Component {
             />
             <Route render={() => <NoMatch siteUrl={siteUrl} />} />
           </Switch>
-          <Footer title={footer.title} footerNav={footer.footerNav} twitter={twitter} facebook={facebook} linkedin={linkedin} instagram={instagram} />
+          <Footer 
+            title={footer.title} 
+            footerNav={footer.footerNav} 
+            twitter={twitter} 
+            facebook={facebook} 
+            linkedin={linkedin} 
+            instagram={instagram} 
+          />
         </div>
       </Router>
     )
