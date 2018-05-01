@@ -1,7 +1,6 @@
 ---
 title: Models Name 1
-featuredImage: /images/uploads/dmitriy-ilkevich-449328-unsplash.png
-subTitle: Model's Profile
+featuredImage: /images/uploads/women-banner.jpg
 firstName: Model
 lastName: Name
 collection: Women
