@@ -1,6 +1,7 @@
 ---
 title: Models Name 1
 featuredImage: /images/uploads/single-banner.jpg
+imageThumbnail: /images/uploads/thumbnail-example.png
 firstName: Model
 lastName: Name
 collection: Women
