@@ -31,8 +31,6 @@ class AsNavFor extends Component {
 	render() {
 		const { firstName, lastName, modelSpecs, imagePortfolio, collection, selectedModelType } = this.props
 
-		console.log(imagePortfolio)
-
 	    return (		
 		    <section className='section--model-profile'>
 				<div className='container'>
@@ -61,8 +59,7 @@ class AsNavFor extends Component {
 						<Slider className='section--model-profile-slider-nav center' 
 							asNavFor={this.state.nav1}
           					ref={slider => (this.slider2 = slider)}
-          					slidesToShow={3}
-          					slidesToScroll={3}
+          					slidesToShow={imagePortfolio.length < 3 ? imagePortfolio.length : 3}
 					        swipeToSlide={true}
 					        focusOnSelect={true}
 

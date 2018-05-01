@@ -155,6 +155,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: Title, name: title, widget: string}
       - {label: Featured Image, name: featuredImage, widget: image}
+      - {label: Image Thumbnail, name: imageThumbnail, widget: image}
       - {label: First Name, name: firstName, widget: string}
       - {label: Last Name, name: lastName, widget: string}
       - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title'}
