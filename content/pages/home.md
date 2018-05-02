@@ -61,7 +61,7 @@ testimonials:
   title: What Our Clients Say
 featuredBlog:
   blogPosts:
-    - collection: How heritage fashion houses are drawing inspiration from history
+    - collection: ''
     - collection: Why Did Reed Krakoff Walk Away from His Brand?
     - collection: What Did Reed Krakoff Walk Away from?
   subTitle: Our Journal
