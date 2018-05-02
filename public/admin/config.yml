@@ -202,7 +202,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: Title, name: title, widget: string} 
       - {label: Image, name: image, widget: image}
-      - {label: Collection, name: collection, widget: relation, collection: 'post-catergories', searchFields: ['title'], valueField: 'title', required: false}
+      - {label: Collection, name: collection, widget: relation, collection: 'post-catergory', searchFields: ['title'], valueField: 'title', required: false}
       - {label: Author, name: author, widget: string}
       - {label: Date, name: date, widget: string}
       - {label: Content, name: content, widget: markdown}
