@@ -10,8 +10,11 @@ import FeaturedPosts from '../components/FeaturedPosts'
 import SectionPartners from '../components/SectionPartners'
 
 export default ({ page, globalSettings }) => {
-  const { featuredImage, title, subTitle, content, buttonText, buttonUrl, gallery, about, testimonials, columns, featuredBlog, partners } = page
+  const { featuredImage, title, subTitle, content, buttonText, buttonUrl, gallery, about, testimonials, columns, featuredBlog } = page
+  const { partners } = globalSettings
 
+
+  console.log(partners)
 
   return (
     <main className='Home'>

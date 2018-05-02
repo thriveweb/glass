@@ -48,6 +48,11 @@ collections: # A list of collections the CMS should be able to edit
                 fields:
                   - {label: Button Text, name: buttonText, widget: string}
                   - {label: Button Url, name: buttonUrl, widget: string}
+          - label: "Partners"
+            name: "partners"
+            widget: "list"
+            fields:
+              - {label: Image, name: image, widget: image}
           - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
 
   - name: "pages"
@@ -128,11 +133,6 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Author, name: author, widget: string}
                   - {label: Date, name: date, widget: string}
                   - {label: Post Url, name: postUrl, widget: string}
-          - label: "Partners"
-            name: "partners"
-            widget: "list"
-            fields:
-              - {label: Image, name: image, widget: image}
 
       - file: "content/pages/about.md"
         label: "About Page"
@@ -154,6 +154,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "services"
             widget: "object"
             fields:
+              - {label: Sub Title, name: subTitle, widget: string}
               - {label: Title, name: title, widget: string}
               - {label: Content, name: content, widget: markdown}
               - label: "Service Items"

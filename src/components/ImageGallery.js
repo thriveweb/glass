@@ -29,7 +29,7 @@ class ImageGallery extends Component {
 						{galleryItems.map((galleryItem, index) => {
 							return <a href='/' key={galleryItem.title} className='section--image-gallery-item'>
 								{ galleryItem.image && <BackgroundImage src={galleryItem.image} imageSize='600' /> }
-								<h3>{galleryItem.title}</h3>
+								<h3 className='title-fancy'>{galleryItem.title}</h3>
 							</a>
 						})}
 					</Masonry>

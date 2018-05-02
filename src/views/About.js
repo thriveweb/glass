@@ -3,12 +3,14 @@ import React from 'react'
 import Banner from '../components/Banner'
 import SectionTeam from '../components/SectionTeam'
 import SectionServices from '../components/SectionServices'
+import SectionPartners from '../components/SectionPartners'
 import './About.css'
 
 export default ({ page, globalSettings }) => {
   const { title, subTitle, featuredImage, teamMembers, services } = page
+  const { partners } = globalSettings
 
-  console.log(services)
+  // console.log(partners)
 
   return (
     <div className='About'>
@@ -21,7 +23,13 @@ export default ({ page, globalSettings }) => {
         teamMembers={teamMembers}
       />
       <SectionServices
-        services={services}
+        title={services.title}
+        subTitle={services.subTitle}
+        content={services.content}
+        serviceItems={services.serviceItems}
+      />
+      <SectionPartners
+        partners={partners} 
       />
     </div>
   )
