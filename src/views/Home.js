@@ -13,7 +13,7 @@ export default ({ page, globalSettings, post, postCategory, selectedCategory }) 
   const { featuredImage, title, subTitle, content, buttonText, buttonUrl, gallery, about, testimonials, featuredBlog } = page
   const { partners, columns } = globalSettings
 
-  console.log(post)
+  console.log(featuredBlog)
 
   return (
     <main className='Home'>
