@@ -57,7 +57,7 @@
 }
 
 .service-popup .container {
-	width: 50%;
+	width: 60%;
 	height: auto;
 	padding: 8rem 9rem;
 	background-color: white;
@@ -65,6 +65,39 @@
 	transition: all ease-in-out .3s;
 	position: relative;
 }
+
+.service-popup .popup-close {
+	padding: 1rem;
+	position: absolute;
+	top: 3.5rem;
+	right: 4rem;
+	width: 4rem;
+	height: 4rem;
+	cursor: pointer;
+	z-index: 999;
+}
+
+.service-popup .popup-close	span {
+	display: block;
+	height: .3rem;
+	background-color: var(--primary);
+	position: absolute;
+	width: 100%;
+	transition: all ease-in-out .2s;
+}
+
+.service-popup .popup-close	span:first-of-type {
+	transform: rotate(45deg);
+}
+
+.service-popup .popup-close	span:last-of-type {
+	transform: rotate(315deg);
+}
+
+.service-popup .popup-close:hover span {
+	background-color: var(--secondary);
+}
+
 
 .service-popup h3 {
 	font-size: 4em;
@@ -75,6 +108,11 @@
 	padding-bottom: 1.5rem;
 	border-bottom: .1rem solid var(--secondary);
 	margin-bottom: 4.5rem;
+}
+
+.service-popup p, .service-popup li {
+	line-height: 2.5rem;
+	list-style-type: circle;
 }
 
 .service-popup.active {
