@@ -1,30 +1,64 @@
-import React from 'react'
-
-import BackgroundImage from './BackgroundImage'
-import Content from './Content'
+import React, { Component, Fragment } from 'react'
 import './SectionServices.css'
 
-export default ({subTitle, title, content, serviceItems}) =>
+// Netlify
+	import BackgroundImage from './BackgroundImage'
 
-	<section className='section--services'>
-		<div className='container'>
-			<div className='section--services-heading'>
-				{ subTitle && <p className='title'>{subTitle}</p> }
-				{ title && <h2>{title}</h2> }
-				{ content && <p>{content}</p> }
-			</div>
-			<div className='section--services-items'>
-				{ serviceItems.map(service => {
-					return <div className='section-services-item'>
-						{ service.image && <BackgroundImage src={service.image} /> }
-						{ service.title && <h3 className='title-fancy'>{service.title}</h3> }
-						<div className='section-services-item-popup'>
-							{ service.title && <h3>{service.title}</h3> }
-							<p>Service Provided</p>
-							{ service.content && <Content source={service.content} /> }
-						</div>
+// Component
+	import ServicePopup from './ServicePopup'
+
+
+class SectionServices extends Component {
+	state = {
+		popupActive: null
+	}
+
+	handlePopup = (index = null) => {
+		this.setState({
+			popupActive: index
+		})
+	}
+
+	render() {
+		const { subTitle, title, content, serviceItems } = this.props
+
+		return (
+			<section className='section--services'>
+				<div className='container'>
+					<div className='section--services-heading'>
+						{subTitle && <p className='title'>{subTitle}</p>}
+						{title && <h2>{title}</h2>}
+						{content && <p>{content}</p>}
 					</div>
-				})}
-			</div>
-		</div>
-	</section>
+					<div className='section--services-items'>
+						{serviceItems.map((service, index) => {
+							return [
+								<div 
+									key={`service-${index}`}
+									className='section-services-item'
+									onClick={() => this.handlePopup(index)}
+								>
+									{service.image && 
+										<BackgroundImage 
+											src={service.image} 
+										/> 
+									}
+									{service.title && <h3 className='title-fancy'>{service.title}</h3>}
+								</div>,
+								<ServicePopup 
+									title={service.title} 
+									content={service.content}
+									active={this.state.popupActive === index}
+									handlePopup={() => this.handlePopup()}
+								/>
+							]
+						})}
+					</div>
+				</div>
+			</section>
+		)
+	}
+}
+
+
+export default SectionServices

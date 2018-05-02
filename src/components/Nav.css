@@ -29,17 +29,17 @@
   top: 0;
 }
 
-.nav--container nav ul {
+.nav--container nav >ul {
   display: flex;
   align-items: center;
 }
 
-.nav--container nav ul li, .nav--container nav ul li a {
+.nav--container nav >ul >li, .nav--container nav >ul >li >a {
   position: relative;
   color: white;
   font-size: 1.3em;
   font-weight: 600;
-  letter-spacing: .1rem;
+  letter-spacing: .2rem;
   list-style-type: none;
   text-transform: uppercase;
   padding-bottom: 1rem;
@@ -47,8 +47,12 @@
   transition: all ease-in-out .2s;
 }
 
-.nav--container nav ul li a {
+.nav--container nav >ul li >a {
   font-size: inherit;
+}
+
+.nav--container nav >ul >li:hover, .nav--container nav >ul >li >a:hover {
+  color: var(--secondary);
 }
 
 .nav--container nav ul li .subMenu {
@@ -75,10 +79,11 @@
 
 .nav--container nav ul li .subMenu li {
   padding-bottom: 0;
+  list-style-type: none;
 }
 
 .nav--container nav ul li .subMenu li a {
-  font-size: .6em;
+  font-size: .5em;
   color: white;
   font-weight: 600;
   text-transform: uppercase;
@@ -145,8 +150,12 @@
   visibility: visible;
 }
 
-.nav.active .nav--container nav ul li, .nav.active .nav--container nav ul li a {
+.nav.active .nav--container nav ul li, .nav.active .nav--container nav >ul >li >a {
   color: black;
+}
+
+.nav.active .nav--container nav >ul >li >a:hover, .nav.active .nav--container nav >ul >li:hover {
+  color: var(--secondary);
 }
 
 .nav.active .nav--container nav ul li .subMenu {
@@ -156,6 +165,11 @@
 
 .nav.active .nav--container nav ul li .subMenu li a {
   border-color: var(--primary);
+  color: var(--secondary);
+}
+
+.nav.active .nav--container nav ul li .subMenu li a:hover {
+  color: var(--primary);
 }
 
 /*@media only screen and (max-width: 680px) {
