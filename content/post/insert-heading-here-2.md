@@ -3,7 +3,7 @@ title: Insert Heading Here 2
 image: /images/uploads/brooke-cagle-65608-unsplash copy.png
 collection: Fashion
 author: Author Name
-date: 5 Days Ago
+date: 05/11/18
 content: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
