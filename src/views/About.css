@@ -1,2 +1,8 @@
-.About {
+.about-partners {
+	text-align: center;
+	padding-bottom: 16rem;
+}
+
+.about-partners h2 {
+	margin: 1rem 0 7rem;
 }
