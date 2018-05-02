@@ -164,6 +164,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Image, name: image, widget: image}
                   - {label: Title, name: title, widget: string}
                   - {label: Content, name: content, widget: markdown}
+
       - file: "content/pages/models.md"
         label: "Models"
         name: "models"
@@ -176,6 +177,35 @@ collections: # A list of collections the CMS should be able to edit
             widget: "list"
             fields:
               - {label: Collection, name: collection, widget: relation, collection: 'model', searchFields: ['title'], valueField: 'title'}
+      - file: "content/pages/blog.md"
+        label: "Blog"
+        name: "blog"
+        fields:
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
+          - label: "Posts"
+            name: "posts"
+            widget: "list"
+            fields:
+              - {label: Collection, name: collection, widget: relation, collection: 'single-post', searchFields: ['title'], valueField: 'title'}
+
+  # Custom Post Types
+
+  - label: "Single Post"
+    name: "single-post"
+    delete: true # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    folder: "content/single-post"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string} 
+      - {label: Image, name: image, widget: image}
+      - {label: Category, name: category, widget: string}
+      - {label: Author, name: author, widget: string}
+      - {label: Date, name: date, widget: string}
+      - {label: Content, name: content, widget: string}
 
   - label: "Model"
     name: "model"
