@@ -28,4 +28,10 @@ footer:
     - buttonText: Terms & Conditions
       buttonUrl: 'http://google.com'
   title: Information
+partners:
+  - image: /images/uploads/Bitmap Copy 2.png
+  - image: /images/uploads/Bitmap Copy 4.png
+  - image: /images/uploads/Bitmap Copy 5.png
+  - image: /images/uploads/Bitmap Copy 6.png
+  - image: /images/uploads/Bitmap Copy.png
 headerScripts: <!-- Add your analytics scripts / verification meta here -->
