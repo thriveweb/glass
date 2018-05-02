@@ -59,48 +59,12 @@ testimonials:
       logo: /images/uploads/Bitmap Copy 2.png
       name: Author Name
   title: What Our Clients Say
-columns:
-  - buttonTitle: Book Models
-    image: /images/uploads/kris-atomic-73935-unsplash.png
-    leftAlign: true
-    title: Let's Collarborate
-    content: Book a Model For Your Next Project
-    buttonUrl: 'http://google.com'
-  - buttonTitle: Join Us
-    image: /images/uploads/matthew-kane-365718-unsplash.png
-    title: Become a Model
-    content: Start Your  Modelling Career
-    buttonUrl: 'http://google.com'
 featuredBlog:
   blogPosts:
-    - author: Lewis Bennett
-      category: Fashion
-      date: 2 day ago
-      image: /images/uploads/flaunter-com-237609-unsplash.png
-      postUrl: 'http://singleposturl.com'
-      title: How heritage fashion houses are drawing inspiration from history
-      topAlign: false
-    - author: Amelia Reynolds
-      category: Agency
-      date: 3 day ago
-      image: /images/uploads/kris-atomic-73941-unsplash.png
-      postUrl: 'http://singleposturl.com'
-      title: Why Did Reed Krakoff Walk Away from His Brand?
-      topAlign: true
-    - author: Carley Keener
-      category: Life Style
-      date: 5 day ago
-      image: /images/uploads/jordan-mixson-372459-unsplash.png
-      postUrl: 'http://singleposturl.com'
-      title: Why Did Reed Krakoff Walk Away from His Brand?
-      topAlign: false
+    - collection: How heritage fashion houses are drawing inspiration from history
+    - collection: Why Did Reed Krakoff Walk Away from His Brand?
+    - collection: What Did Reed Krakoff Walk Away from?
   subTitle: Our Journal
   title: Read our latest news
-partners:
-  - image: /images/uploads/porter.png
-  - image: /images/uploads/glamour.png
-  - image: /images/uploads/instyle.png
-  - image: /images/uploads/vogue.png
-  - image: /images/uploads/vim.png
 ---
 
