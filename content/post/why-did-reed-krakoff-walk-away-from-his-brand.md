@@ -3,7 +3,7 @@ title: Why Did Reed Krakoff Walk Away from His Brand?
 image: /images/uploads/kris-atomic-73941-unsplash.png
 collection: Agency
 author: Amelia Reynolds
-date: 3 days ago
+date: 08/05/17
 content: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
