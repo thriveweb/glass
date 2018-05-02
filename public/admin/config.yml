@@ -130,9 +130,10 @@ collections: # A list of collections the CMS should be able to edit
                       name: collection, 
                       widget: relation, 
                       collection: 'post', 
-                      searchFields: ["title", "image", "author", "date", "collection"], 
-                      valueField: 'title', 
-                      displayFields: ["title", "image", "author", "date", "collection"] }
+                      searchFields: ["title"], 
+                      valueField: ["title"], 
+                      displayFields: ["title"] 
+                  }
 
       - file: "content/pages/about.md"
         label: "About Page"

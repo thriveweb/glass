@@ -9,7 +9,7 @@ import SectionColumns from '../components/SectionColumns'
 import FeaturedPosts from '../components/FeaturedPosts'
 import SectionPartners from '../components/SectionPartners'
 
-export default ({ page, globalSettings, post, postCategory, selectedCategory }) => {
+export default ({ page, globalSettings, posts, postCategories, selectedCategory }) => {
   const { featuredImage, title, subTitle, content, buttonText, buttonUrl, gallery, about, testimonials, featuredBlog } = page
   const { partners, columns } = globalSettings
 
@@ -49,8 +49,8 @@ export default ({ page, globalSettings, post, postCategory, selectedCategory }) 
         title={featuredBlog.title}
         subTitle={featuredBlog.subTitle}
         blogPosts={featuredBlog.blogPosts}
-        post={post}
-        postCategory={postCategory}
+        posts={posts}
+        postCategories={postCategories}
       />
       <SectionPartners
         partners={partners} 

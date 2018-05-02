@@ -82,8 +82,8 @@ class App extends Component {
 
     const modelTypes = this.getDocuments('model-types')
     const models = this.getDocuments('model')
-    const post = this.getDocuments('post')
-    const postCategory = this.getDocuments('post-category')
+    const posts = this.getDocuments('post')
+    const postCategories = this.getDocuments('post-category')
 
     return (
       <Router>
@@ -110,8 +110,8 @@ class App extends Component {
                 <Home 
                   page={this.getDocument('pages', 'home')} 
                   globalSettings={globalSettings}
-                  post={post}
-                  postCategory={postCategory}
+                  posts={posts}
+                  postCategories={postCategories}
                   {...props} 
                 />
               )}
@@ -142,11 +142,29 @@ class App extends Component {
               path='/blog/:post'
               exact
               render={props => {
-                return postCategory.map(selectedCategory => {                  
-                  if(selectedCategory.title === props.match.params.postCategory) {
+                return posts.map(selectedPost => {                  
+                  if(selectedPost.title === props.match.params.post) {
                     return <Blog 
                       page={this.getDocument('pages', 'blog')}
                       globalSettings={globalSettings}
+                      selectedPost={selectedPost}
+                      postCategories={postCategories}
+                      {...props}
+                    />
+                  }
+                })
+              }}
+            />
+            <Route
+              path='/blog/:postCategory'
+              exact
+              render={props => {
+                return postCategories.map(selectedCategory => {                  
+                  if(selectedCategory.title === props.match.params.postCategories) {
+                    return <Blog 
+                      page={this.getDocument('pages', 'blog')}
+                      globalSettings={globalSettings}
+                      posts={posts}
                       selectedCategory={selectedCategory}
                       {...props}
                     />
