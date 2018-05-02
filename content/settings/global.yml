@@ -34,4 +34,16 @@ partners:
   - image: /images/uploads/Bitmap Copy 5.png
   - image: /images/uploads/Bitmap Copy 6.png
   - image: /images/uploads/Bitmap Copy.png
+columns:
+  - buttonTitle: Book Models
+    buttonUrl: 'http://google.com'
+    content: Book a Model For Your Next Project
+    image: /images/uploads/kris-atomic-73935-unsplash.png
+    leftAlign: true
+    title: let’s collaborate
+  - buttonTitle: Join Us
+    buttonUrl: 'http://google.com'
+    content: Start Your Modelling Career
+    image: /images/uploads/matthew-kane-365718-unsplash.png
+    title: Become a Model
 headerScripts: <!-- Add your analytics scripts / verification meta here -->
