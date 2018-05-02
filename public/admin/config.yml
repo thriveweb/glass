@@ -202,10 +202,20 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: Title, name: title, widget: string} 
       - {label: Image, name: image, widget: image}
-      - {label: Category, name: category, widget: string}
+      - {label: Collection, name: collection, widget: relation, collection: 'post-catergories', searchFields: ['title'], valueField: 'title'}
       - {label: Author, name: author, widget: string}
       - {label: Date, name: date, widget: string}
       - {label: Content, name: content, widget: string}
+
+  - label: "Post Category"
+    name: "post-category"
+    delete: true # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    folder: "content/post-category"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string} 
 
   - label: "Model"
     name: "model"
