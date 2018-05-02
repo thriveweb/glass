@@ -122,7 +122,11 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Sub Title, name: subTitle, widget: string}
               - {label: Title, name: title, widget: string}
-              - {label: Collection, name: collection, widget: relation, collection: 'post', searchFields: ['title'], valueField: 'title'}
+              - label: "Blog Posts"
+                name: "blogPosts"
+                widget: "list"
+                fields:
+                  - {label: Collection, name: collection, widget: relation, collection: 'post', searchFields: ['title'], valueField: 'title'}
 
       - file: "content/pages/about.md"
         label: "About Page"
