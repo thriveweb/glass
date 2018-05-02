@@ -69,9 +69,11 @@ services:
         randomised words which don't look even slightly believable. 
 
 
-        All the Lorem Ipsum generators on the Internet tend to repeat predefined
-        chunks as necessary, making this the first true generator on the
-        Internet. 
+        * All the Lorem Ipsum generators on the 
+
+        * Internet tend to repeat predefined chunks as necessary 
+
+        * Making this the first true generator on the Internet 
 
 
         There are many variations of passages of Lorem Ipsum available, but the
