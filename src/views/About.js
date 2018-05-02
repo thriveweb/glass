@@ -4,11 +4,12 @@ import Banner from '../components/Banner'
 import SectionTeam from '../components/SectionTeam'
 import SectionServices from '../components/SectionServices'
 import SectionPartners from '../components/SectionPartners'
+import SectionColumns from '../components/SectionColumns'
 import './About.css'
 
 export default ({ page, globalSettings }) => {
   const { title, subTitle, featuredImage, teamMembers, services } = page
-  const { partners } = globalSettings
+  const { partners, columns } = globalSettings
 
   return (
     <div className='About'>
@@ -33,6 +34,9 @@ export default ({ page, globalSettings }) => {
           partners={partners} 
         />
       </div>
+      <SectionColumns
+        columns={columns}
+      />
     </div>
   )
 }

@@ -1,5 +1,6 @@
 .section--columns {
 	background-color: var(--lightGrey);
+	margin-bottom: 16rem;
 }
 
 .section--columns-item {
