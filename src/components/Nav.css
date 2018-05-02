@@ -29,7 +29,12 @@
   top: 0;
 }
 
-.nav--container nav ul li {
+.nav--container nav ul {
+  display: flex;
+  align-items: center;
+}
+
+.nav--container nav ul li, .nav--container nav ul li a {
   position: relative;
   color: white;
   font-size: 1.3em;
@@ -38,6 +43,12 @@
   list-style-type: none;
   text-transform: uppercase;
   padding-bottom: 1rem;
+  margin-right: 2rem;
+  transition: all ease-in-out .2s;
+}
+
+.nav--container nav ul li a {
+  font-size: inherit;
 }
 
 .nav--container nav ul li .subMenu {
@@ -134,7 +145,7 @@
   visibility: visible;
 }
 
-.nav.active .nav--container nav ul li {
+.nav.active .nav--container nav ul li, .nav.active .nav--container nav ul li a {
   color: black;
 }
 

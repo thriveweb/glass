@@ -36,6 +36,7 @@ class Nav extends Component {
 			      	<a href='/'><LogoScroll /></a>
 			      	<nav>
 			      		<ul>
+			      			<li><Link to='/about'>About</Link></li>
 			      			<li className='menu-item-has-children'>Models
 			      				<ul className='subMenu'>
 					      			{modelTypes.map(selectedModelType => {
