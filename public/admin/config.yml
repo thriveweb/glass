@@ -188,16 +188,16 @@ collections: # A list of collections the CMS should be able to edit
             name: "posts"
             widget: "list"
             fields:
-              - {label: Collection, name: collection, widget: relation, collection: 'single-post', searchFields: ['title'], valueField: 'title'}
+              - {label: Collection, name: collection, widget: relation, collection: 'post', searchFields: ['title'], valueField: 'title'}
 
   # Custom Post Types
 
-  - label: "Single Post"
-    name: "single-post"
+  - label: "Post"
+    name: "post"
     delete: true # Prevent users from deleting documents in this collection
     editor:
       preview: false
-    folder: "content/single-post"
+    folder: "content/post"
     create: true
     fields:
       - {label: Title, name: title, widget: string} 
