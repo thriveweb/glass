@@ -3,7 +3,7 @@ import React from 'react'
 import BackgroundImage from './BackgroundImage'
 import './FeaturedPosts.css'
 
-export default ({ title, subTitle, blogPosts }) =>
+export default ({ title, subTitle, blogPosts, posts, postCategory, selectedCategory }) =>
 	<section className='section--featured-posts'>
 		<div className='container'>
 			<div className='featured-posts-heading'>
@@ -13,10 +13,9 @@ export default ({ title, subTitle, blogPosts }) =>
 			<a className='archive-link title' href='/'>All News <span>&rarr;</span></a>
 			<div className='section--featured-posts-items'>
 				{ blogPosts.map((blogPost, index) => {
-					return <a key={`post-${index}`} className={`section--featured-posts-item ${!blogPost.topAlign ? 'post-reverse' : ''}`} href='/'>
-						<BackgroundImage src={`${blogPost.image}`} ImageSize='400' />
+					return <a key={`post-${index}`} className='section--featured-posts-item' href='/'>
 						<div className='section--featured-posts-item-content'>
-							{ blogPost.category && <p className='post-category'>{blogPost.category}</p> }
+							{ selectedCategory && <p className='post-category'>{selectedCategory}</p> }
 							{ blogPost.title && <h3>{blogPost.title}</h3> }
 							<div className='section--featured-posts-item-info'>
 								{ blogPost.author && <p className='author title'>{blogPost.author}</p> }

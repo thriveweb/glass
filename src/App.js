@@ -4,18 +4,26 @@ import Helmet from 'react-helmet'
 import _merge from 'lodash/merge'
 import _kebabCase from 'lodash/kebabCase'
 
+import data from './data.json'
+
+// Compontents
+
 import ScrollToTop from './components/ScrollToTop'
 import Meta from './components/Meta'
-import Home from './views/Home'
-import About from './views/About'
-import Models from './views/Models'
-import Model from './views/Model'
-import NoMatch from './views/NoMatch'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
 import AOS from './components/AOS'
 import Spinner from './components/Spinner'
-import data from './data.json'
+
+// Views
+
+import Home from './views/Home'
+import About from './views/About'
+import Models from './views/Models'
+import Model from './views/Model'
+import Blog from './views/Blog'
+import NoMatch from './views/NoMatch'
+
 
 class App extends Component {
   state = {
@@ -74,6 +82,8 @@ class App extends Component {
 
     const modelTypes = this.getDocuments('model-types')
     const models = this.getDocuments('model')
+    const post = this.getDocuments('post')
+    const postCategory = this.getDocuments('post-category')
 
     return (
       <Router>
@@ -99,7 +109,9 @@ class App extends Component {
               render={props => (
                 <Home 
                   page={this.getDocument('pages', 'home')} 
-                  globalSettings={globalSettings} 
+                  globalSettings={globalSettings}
+                  post={post}
+                  postCategory={postCategory}
                   {...props} 
                 />
               )}
@@ -114,6 +126,33 @@ class App extends Component {
                   {...props} 
                 />
               )}
+            />
+            <Route
+              path='/blog'
+              exact
+              render={props => (
+                <About 
+                  page={this.getDocument('pages', 'blog')} 
+                  globalSettings={globalSettings} 
+                  {...props} 
+                />
+              )}
+            />
+            <Route
+              path='/blog/:post'
+              exact
+              render={props => {
+                return postCategory.map(selectedCategory => {                  
+                  if(selectedCategory.title === props.match.params.postCategory) {
+                    return <Blog 
+                      page={this.getDocument('pages', 'blog')}
+                      globalSettings={globalSettings}
+                      selectedCategory={selectedCategory}
+                      {...props}
+                    />
+                  }
+                })
+              }}
             />
             <Route
               path='/models/:modelType'

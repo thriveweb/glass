@@ -126,7 +126,7 @@ collections: # A list of collections the CMS should be able to edit
                 name: "blogPosts"
                 widget: "list"
                 fields:
-                  - {label: Collection, name: collection, widget: relation, collection: 'post', searchFields: ['title'], valueField: 'title'}
+                  - {label: Collection, name: collection, widget: relation, collection: 'post', searchFields: ['title'], valueField: 'title', displayFields: ["title", "image", "author", "date", "collection"] }
 
       - file: "content/pages/about.md"
         label: "About Page"
