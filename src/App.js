@@ -22,6 +22,7 @@ import About from './views/About'
 import Models from './views/Models'
 import Model from './views/Model'
 import Blog from './views/Blog'
+import Post from './views/Post'
 import NoMatch from './views/NoMatch'
 
 
@@ -135,10 +136,28 @@ class App extends Component {
                   page={this.getDocument('pages', 'blog')}
                   posts={posts}
                   postCategories={postCategories} 
-                  globalSettings={globalSettings} 
+                  globalSettings={globalSettings}
                   {...props} 
                 />
               )}
+            />
+            <Route
+              path='/blog/:postCategory'
+              exact
+              render={props => {
+                return postCategories.map(selectedCategory => {
+                  if(selectedCategory.name === props.match.params.postCategory) {
+                    return <Blog 
+                      page={this.getDocument('pages', 'blog')}
+                      posts={posts}
+                      postCategories={postCategories}
+                      selectedCategory={selectedCategory} 
+                      globalSettings={globalSettings} 
+                      {...props}
+                    />
+                  }
+                })
+              }}
             />
             <Route
               path='/models/:modelType'
@@ -168,6 +187,22 @@ class App extends Component {
                       globalSettings={globalSettings}
                       models={models}
                       model={model}
+                      {...props}
+                    />
+                  }
+                })
+              }}
+            />
+            <Route
+              path='/blog-post/:post'
+              exact
+              render={props => {
+                return posts.map(post => {                  
+                  if(_kebabCase(post.title) === props.match.params.post) {
+                    return <Post 
+                      globalSettings={globalSettings}
+                      posts={posts}
+                      post={post}
                       {...props}
                     />
                   }

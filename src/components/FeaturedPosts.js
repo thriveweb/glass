@@ -6,7 +6,6 @@ import FeaturedPost from './FeaturedPost'
 
 export default ({ featuredPosts, posts, postCategory, selectedCategory }) => {
 	const { title, subTitle, blogPosts } = featuredPosts
-	const { collection } = blogPosts
 
 	const featuredPostTitles = [...blogPosts].map(featuredPost => {
 		return featuredPost.collection

@@ -10,9 +10,9 @@ export default ({ models, modelTypes, title, subTitle, selectedModelType}) => {
 		return model.collection.toLowerCase() === selectedModelType.toLowerCase()
 	})
 
-	return <section className='section--models'>
+	return <section className='section--models archive--listing'>
 		<div className='container'>
-			<div className='section--model-list-heading'>
+			<div className='archive--listing-heading'>
 				<p className='title'>{subTitle}</p>
 				<h2>{title}</h2>
 			</div>	

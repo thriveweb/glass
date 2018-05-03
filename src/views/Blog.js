@@ -4,7 +4,7 @@ import './Blog.css'
 import Banner from '../components/Banner'
 import Posts from '../components/Posts'
 
-export default ({ page, posts, postCategories }) => {
+export default ({ page, posts, postCategories, selectedCategory = 'all' }) => {
   const { featuredImage, title, subTitle } = page
 
   return (
@@ -18,6 +18,7 @@ export default ({ page, posts, postCategories }) => {
         posts={posts}
         postCategories={postCategories}
         subTitle={subTitle}
+        selectedCategory={selectedCategory}
       />
     </main>
   )

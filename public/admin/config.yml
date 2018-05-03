@@ -173,11 +173,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Sub Title, name: subTitle, widget: string}
           - {label: Title, name: title, widget: string}
-          - label: "Model Listing"
-            name: "modelListing"
-            widget: "list"
-            fields:
-              - {label: Collection, name: collection, widget: relation, collection: 'model', searchFields: ['title'], valueField: 'title'}
       - file: "content/pages/blog.md"
         label: "Blog"
         name: "blog"

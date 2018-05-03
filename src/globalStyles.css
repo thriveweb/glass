@@ -138,11 +138,10 @@ pre code:before, pre code:after {
 
 blockquote {
   margin-left: 0;
-  padding-left: 1em;
+  padding-left: 3em;
   line-height: 1.1;
   font-size: 1em;
-  font-style: italic;
-  border-left: 2px solid var(--primary);
+  border-left: .1rem solid var(--secondary);
 }
 
 img {
@@ -273,5 +272,3 @@ img {
       rgba(255, 255, 255, 0)
     );
 }
-
-

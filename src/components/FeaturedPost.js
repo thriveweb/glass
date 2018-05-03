@@ -1,5 +1,6 @@
 import React from 'react'
-import './FeaturedPost.css'
+import _kebabCase from 'lodash/kebabCase'
+import './FeaturedPosts.css'
 
 import BackgroundImage from './BackgroundImage'
 
@@ -7,7 +8,7 @@ export default({ posts }) =>
 
 	<div className='section--featured-posts-items'>	
 		{posts.map((post, index) => {
-			return <a key={index} className='section--featured-posts-item' href='/'>
+			return <a key={index} className='section--featured-posts-item' href={`/blog-post/${_kebabCase(post.title)}`}>
 				<BackgroundImage src={post.image} />
 				<div className='section--featured-posts-item-content'>
 					{post.collection && <p className='post-category'>{post.collection}</p>}

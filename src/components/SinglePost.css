@@ -1,0 +1,66 @@
+.section--single-post .container {
+	position: relative;
+	top: -10rem;
+	background-color: white;
+	padding: 8rem 12rem 4rem;
+	box-shadow: 0 0 3rem 0 rgba(0,0,0,0.1);
+	max-width: 1200px;
+}
+
+.section--single-post-heading, .section--single-post-info {
+	text-align: center;
+}
+
+.section--single-post-heading h1 {
+	font-size: 4em;
+	margin: 1.5rem auto 0;
+	padding-bottom: 4rem;
+	line-height: 1.4;
+	border-bottom: .1rem solid var(--secondary);
+	width: 90%;
+}
+
+.section--single-post-info {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem 0 8rem;
+}
+
+.section--single-post-info p {
+	margin: 0;
+}
+
+.section--single-post-info span {
+	margin: 0 1rem;
+}
+
+.section--single-post .Content {
+	padding-bottom: 4rem;
+	border-bottom: .1rem solid var(--secondary);
+}
+
+.section--single-post .Content p {
+	line-height: 1.4;
+}
+
+.section--single-post .Content blockquote {
+	margin: 3rem 0 3rem auto;
+  	max-width: 90%;
+}
+
+.section--single-post .Content blockquote p {
+	font-size: 1.2em;
+  	text-transform: uppercase;
+  	color: var(--secondary);
+  	letter-spacing: 0.3rem;
+  	line-height: 1.6;
+  	font-weight: 600;
+  	width: 75%;
+}
+
+
+
+
+
+

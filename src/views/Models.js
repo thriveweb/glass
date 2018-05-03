@@ -5,7 +5,7 @@ import ModelListing from '../components/ModelListing'
 import Banner from '../components/Banner'
 
 export default ({ page, modelTypes, selectedModelType, globalSettings, models }) => {
-	const { title, subTitle, featuredImage, model } = page
+	const { title, subTitle, featuredImage } = page
 
 	return (
 		<main className='Models'>
