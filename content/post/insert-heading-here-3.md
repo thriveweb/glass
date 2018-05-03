@@ -1,5 +1,5 @@
 ---
-title: Insert Heading Here 3
+title: Insert Your Heading in Here 2
 image: /images/uploads/flaunter-com-237609-unsplash copy 2.png
 collection: Agency
 author: Author Name
