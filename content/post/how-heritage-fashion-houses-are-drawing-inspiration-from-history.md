@@ -46,8 +46,7 @@ content: >-
   eum fugiat quo voluptas nulla pariatur?
 
 
-  ![woman on the
-  beach](/images/uploads/christopher-campbell-179452-unsplash.png)
+  ![woman getting hair and makeup done](/images/uploads/Group Copy.png)
 
 
   Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit
