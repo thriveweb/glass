@@ -18,7 +18,7 @@ export default ({ page, globalSettings, posts, postCategories, selectedCategory 
       <Banner 
         image={featuredImage}
         subTitle={subTitle}
-        heading={title} 
+        title={title} 
         content={content} 
         buttonText={buttonText} 
         buttonUrl={buttonUrl} 
