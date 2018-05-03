@@ -12,7 +12,8 @@ import Slider from 'react-slick'
 class SimpleSlider extends Component {
 	render() {
 
-		const {title, testimonials} = this.props
+		const {testimonials} = this.props
+		const { title, testimonial } = testimonials
 
 		const settings = {
 		  dots: true,
@@ -29,12 +30,12 @@ class SimpleSlider extends Component {
 					<ICONQuotes />
 					{ title && <p className='title'>{title}</p> }
 					<Slider className='section--testimonials-slider' {...settings}>
-						{ testimonials.map((testimonial, index) => {
+						{ testimonial.map((singleTestimonial, index) => {
 							return <div key={`testimonial-${index}`} className='section--testimonials-item testimonial-slide'>
-								{ testimonial.title && <h2>{testimonial.title}</h2> }
-								{ testimonial.content && <p className='section--testimonials-item-content'>{testimonial.content}</p> }
-								{ testimonial.logo && <LazyImage src={`${testimonial.logo}`} imageSize='300' /> }
-								{ testimonial.name && <p className='title'>{testimonial.name}</p> }
+								{ singleTestimonial.title && <h2>{singleTestimonial.title}</h2> }
+								{ singleTestimonial.content && <p className='section--testimonials-item-content'>{singleTestimonial.content}</p> }
+								{ singleTestimonial.logo && <LazyImage src={`${singleTestimonial.logo}`} imageSize='300' /> }
+								{ singleTestimonial.name && <p className='title'>{singleTestimonial.name}</p> }
 							</div>
 						})}
 					</Slider>	

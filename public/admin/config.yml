@@ -116,8 +116,8 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Content, name: content, widget: markdown}
                   - {label: Logo, name: logo, widget: image}
                   - {label: Name, name: name, widget: string}
-          - label: "Featured Blog"
-            name: "featuredBlog"
+          - label: "Featured Posts"
+            name: "featuredPosts"
             widget: "object"
             fields:
               - {label: Sub Title, name: subTitle, widget: string}
@@ -126,13 +126,14 @@ collections: # A list of collections the CMS should be able to edit
                 name: "blogPosts"
                 widget: "list"
                 fields:
-                  - {label: Collection, 
-                      name: collection, 
-                      widget: relation, 
-                      collection: 'post', 
-                      searchFields: ['title'], 
-                      valueField:  'title',
-                    }
+                  - {
+                    label: Collection, 
+                    name: collection, 
+                    widget: relation, 
+                    collection: 'post', 
+                    searchFields: ['title'], 
+                    valueField: 'title' 
+                  }
 
       - file: "content/pages/about.md"
         label: "About Page"

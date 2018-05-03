@@ -10,10 +10,8 @@ import FeaturedPosts from '../components/FeaturedPosts'
 import SectionPartners from '../components/SectionPartners'
 
 export default ({ page, globalSettings, posts, postCategories, selectedCategory }) => {
-  const { featuredImage, title, subTitle, content, buttonText, buttonUrl, gallery, about, testimonials, featuredBlog } = page
+  const { featuredImage, title, subTitle, content, buttonText, buttonUrl, gallery, about, testimonials, featuredPosts } = page
   const { partners, columns } = globalSettings
-
-  console.log(featuredBlog)
 
   return (
     <main className='Home'>
@@ -26,29 +24,19 @@ export default ({ page, globalSettings, posts, postCategories, selectedCategory 
         buttonUrl={buttonUrl} 
       />
       <ImageGallery
-        title={gallery.title}
-        subTitle={gallery.subTitle}
-        galleryItems={gallery.galleryImages} 
+        gallery={gallery}
       />
       <SectionAbout 
-        image={about.image} 
-        title={about.title} 
-        subTitle={about.subTitle} 
-        content={about.content} 
-        buttonText={about.buttonText} 
-        buttonUrl={about.buttonUrl} 
+        about={about}
       />
       <SectionTestimonials
-        title={testimonials.title}
-        testimonials={testimonials.testimonial}
+        testimonials={testimonials}
       />
       <SectionColumns
         columns={columns}
       />
       <FeaturedPosts
-        title={featuredBlog.title}
-        subTitle={featuredBlog.subTitle}
-        blogPosts={featuredBlog.blogPosts}
+        featuredPosts={featuredPosts}
         posts={posts}
         postCategories={postCategories}
       />

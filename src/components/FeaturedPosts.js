@@ -3,8 +3,10 @@ import React from 'react'
 import BackgroundImage from './BackgroundImage'
 import './FeaturedPosts.css'
 
-export default ({ title, subTitle, blogPosts, posts, postCategory, selectedCategory }) =>
-	<section className='section--featured-posts'>
+export default ({ featuredBlog, posts, postCategory, selectedCategory }) => {
+	const { title, subTitle, blogPosts } = featuredBlog
+
+	return <section className='section--featured-posts'>
 		<div className='container'>
 			<div className='featured-posts-heading'>
 				{ subTitle && <p className='title'>{subTitle}</p> }
@@ -28,3 +30,5 @@ export default ({ title, subTitle, blogPosts, posts, postCategory, selectedCateg
 			</div>
 		</div>
 	</section>
+
+}

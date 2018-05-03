@@ -10,8 +10,9 @@ const masonryOptions = {
 
 class ImageGallery extends Component {
 	render() {
-		const { galleryItems, title, subTitle } = this.props
-
+		const { gallery } = this.props
+		const { galleryImages, title, subTitle } = gallery
+		
 		return (
 			<section className='section--image-gallery'>
 				<div className='container'>
@@ -26,7 +27,7 @@ class ImageGallery extends Component {
 						disableImagesLoaded={false} // default false
 						updateOnEachImageLoad={false} // default false and works only if disableImagesLoaded is false
 					>
-						{galleryItems.map((galleryItem, index) => {
+						{galleryImages.map((galleryItem, index) => {
 							return <a href='/' key={galleryItem.title} className='section--image-gallery-item'>
 								{ galleryItem.image && <BackgroundImage src={galleryItem.image} imageSize='600' /> }
 								<h3 className='title-fancy'>{galleryItem.title}</h3>
