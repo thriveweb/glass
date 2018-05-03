@@ -46,7 +46,7 @@ content: >-
   eum fugiat quo voluptas nulla pariatur?
 
 
-  ![woman getting hair and makeup done](/images/uploads/Group Copy.png)
+  ![woman getting hair and makeup done](/images/uploads/women-banner.jpg)
 
 
   Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit
