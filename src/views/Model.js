@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React from 'react'
 import Helmet from 'react-helmet'
 
 import Banner from '../components/Banner'
@@ -11,8 +11,8 @@ export default ({ page, modelTypes, selectedModelType, globalSettings, model }) 
 		<main className='Model'>
 		    <Banner 
 			    image={featuredImage}
-			    heading={firstName + ' ' + lastName}
-			    subHeading={'Model\'s Profile'} 
+			    title={firstName + ' ' + lastName}
+			    subTitle={'Model\'s Profile'} 
 		    />
 		    <SingleModel
 		    	firstName={firstName}

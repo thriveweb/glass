@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react'
+import React, { Component } from 'react'
 import './SectionServices.css'
 
 // Netlify
@@ -20,7 +20,8 @@ class SectionServices extends Component {
 	}
 
 	render() {
-		const { subTitle, title, content, serviceItems } = this.props
+		const { services } = this.props
+		const { subTitle, title, content, serviceItems } = services
 
 		return (
 			<section className='section--services'>

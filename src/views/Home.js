@@ -17,7 +17,7 @@ export default ({ page, globalSettings, posts, postCategories, selectedCategory 
     <main className='Home'>
       <Banner 
         image={featuredImage}
-        subHeading={subTitle}
+        subTitle={subTitle}
         heading={title} 
         content={content} 
         buttonText={buttonText} 

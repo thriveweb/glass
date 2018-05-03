@@ -14,18 +14,15 @@ export default ({ page, globalSettings }) => {
   return (
     <div className='About'>
       <Banner
-        heading={title}
-        subHeading={subTitle}
+        title={title}
+        subTitle={subTitle}
         image={featuredImage}
       />
       <SectionTeam
         teamMembers={teamMembers}
       />
       <SectionServices
-        title={services.title}
-        subTitle={services.subTitle}
-        content={services.content}
-        serviceItems={services.serviceItems}
+        services={services}
       />
       <div className='about-partners'>
         <p className='title'>Friends of the Family</p>

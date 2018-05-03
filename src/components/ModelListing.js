@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import _kebabCase from 'lodash/kebabCase'
 import BackgroundImage from './BackgroundImage'
 import ModelTypes from './ModelTypes'

@@ -43,8 +43,11 @@
   list-style-type: none;
   text-transform: uppercase;
   padding-bottom: 1rem;
-  margin-right: 2rem;
   transition: all ease-in-out .2s;
+}
+
+.nav--container nav >ul >li {
+  margin-right: 4rem;
 }
 
 .nav--container nav >ul li >a {

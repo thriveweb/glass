@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React from 'react'
 import Helmet from 'react-helmet'
 
 import ModelListing from '../components/ModelListing'
@@ -11,8 +11,8 @@ export default ({ page, modelTypes, selectedModelType, globalSettings, models })
 		<main className='Models'>
 		    <Banner 
 			    image={featuredImage}
-			    heading={selectedModelType.name}
-			    subHeading={subTitle} 
+			    title={selectedModelType.name}
+			    subTitle={subTitle} 
 		    />
 			<ModelListing 
 				models={models}

@@ -139,40 +139,6 @@ class App extends Component {
               )}
             />
             <Route
-              path='/blog/:post'
-              exact
-              render={props => {
-                return posts.map(selectedPost => {                  
-                  if(selectedPost.title === props.match.params.post) {
-                    return <Blog 
-                      page={this.getDocument('pages', 'blog')}
-                      globalSettings={globalSettings}
-                      selectedPost={selectedPost}
-                      postCategories={postCategories}
-                      {...props}
-                    />
-                  }
-                })
-              }}
-            />
-            <Route
-              path='/blog/:postCategory'
-              exact
-              render={props => {
-                return postCategories.map(selectedCategory => {                  
-                  if(selectedCategory.title === props.match.params.postCategories) {
-                    return <Blog 
-                      page={this.getDocument('pages', 'blog')}
-                      globalSettings={globalSettings}
-                      posts={posts}
-                      selectedCategory={selectedCategory}
-                      {...props}
-                    />
-                  }
-                })
-              }}
-            />
-            <Route
               path='/models/:modelType'
               exact
               render={props => {
