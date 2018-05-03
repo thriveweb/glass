@@ -1,5 +1,5 @@
 ---
-title: Insert Heading Here
+title: Who Did Reed Krakoff Walk Away from?
 image: /images/uploads/flaunter-com-237609-unsplash copy.png
 collection: Fashion
 author: Author Name
