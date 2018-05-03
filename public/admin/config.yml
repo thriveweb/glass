@@ -185,12 +185,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Sub Title, name: subTitle, widget: string}
           - {label: Title, name: title, widget: string}
-          - label: "Posts"
-            name: "posts"
-            widget: "list"
-            fields:
-              - {label: Top Align, name: topAlign, widget: boolean, default: true}
-              - {label: Collection, name: collection, widget: relation, collection: 'post', searchFields: ['title'], valueField: 'title'}
 
   # Custom Post Types
 

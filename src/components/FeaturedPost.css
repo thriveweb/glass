@@ -62,16 +62,16 @@
 	margin: 0 1rem !important;
 }
 
-.section--featured-posts-item:nth-of-type(2n+3) {
+.section--featured-posts-item:nth-of-type(3n+3), .section--featured-posts-item:nth-of-type(4n+4), .section--featured-posts-item:nth-of-type(1) {
 	display: flex;
 	flex-direction: column-reverse;
 }
 
-.section--featured-posts-item:nth-of-type(2n+3) .post-category {
+.section--featured-posts-item:nth-of-type(3n+3) .post-category, .section--featured-posts-item:nth-of-type(4n+4) .post-category, .section--featured-posts-item:nth-of-type(1) .post-category {
 	margin-top: 0;
 }
 
-.section--featured-posts-item:nth-of-type(2n+3) .BackgroundImage {
+.section--featured-posts-item:nth-of-type(3n+3) .BackgroundImage, .section--featured-posts-item:nth-of-type(4n+4) .BackgroundImage, .section--featured-posts-item:nth-of-type(1) .BackgroundImage {
 	margin-top: 1.5rem;
 }
 

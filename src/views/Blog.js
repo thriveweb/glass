@@ -7,8 +7,6 @@ import Posts from '../components/Posts'
 export default ({ page, posts, postCategories }) => {
   const { featuredImage, title, subTitle } = page
 
-  console.log(postCategories)
-
   return (
     <main className='Blog'>
       <Banner
