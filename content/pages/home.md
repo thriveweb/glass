@@ -59,12 +59,12 @@ testimonials:
       logo: /images/uploads/Bitmap Copy 2.png
       name: Author Name
   title: What Our Clients Say
-featuredBlog:
+featuredPosts:
   blogPosts:
-    - collection: How heritage fashion houses are drawing inspiration from history
-    - collection: Why Did Reed Krakoff Walk Away from His Brand?
     - collection: What Did Reed Krakoff Walk Away from?
+    - collection: Why Did Reed Krakoff Walk Away from His Brand?
+    - collection: How heritage fashion houses are drawing inspiration from history
   subTitle: Our Journal
-  title: Read our latest news
+  title: Read Our Latest News
 ---
 
