@@ -1,27 +1,26 @@
 import React from 'react'
-import Helmet from 'react-helmet'
-import _sortBy from 'lodash/sortBy'
-
-import PageHeader from '../components/PageHeader'
-import PostCategoriesNav from '../components/PostCategoriesNav'
-import PostSection from '../components/PostSection'
-import Banner from '../components/Banner'
-
 import './Blog.css'
 
-export default ({ page, posts, postCategories, showFeatured = true }) => {
-  posts = _sortBy(posts, ['date']).reverse()
+import Banner from '../components/Banner'
+import Posts from '../components/Posts'
 
+export default ({ page, posts, postCategories }) => {
   const { featuredImage, title, subTitle } = page
+
+  console.log(postCategories)
 
   return (
     <main className='Blog'>
       <Banner
-        featuredImage={featuredImage}
+        image={featuredImage}
         title={title}
         subTitle={subTitle}
       />
-
+      <Posts
+        posts={posts}
+        postCategories={postCategories}
+        subTitle={subTitle}
+      />
     </main>
   )
 }

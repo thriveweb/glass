@@ -47,6 +47,7 @@ class SectionServices extends Component {
 									{service.title && <h3 className='title-fancy'>{service.title}</h3>}
 								</div>,
 								<ServicePopup 
+									key={`service-popup-${index}`}
 									title={service.title} 
 									content={service.content}
 									active={this.state.popupActive === index}

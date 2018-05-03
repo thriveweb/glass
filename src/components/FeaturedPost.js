@@ -3,7 +3,7 @@ import './FeaturedPost.css'
 
 import BackgroundImage from './BackgroundImage'
 
-export default({posts}) =>
+export default({ posts }) =>
 
 	<div className='section--featured-posts-items'>	
 		{posts.map((post, index) => {

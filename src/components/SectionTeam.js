@@ -8,7 +8,7 @@ export default ({ teamMembers }) =>
 
 	<section className='section--members'>
 		{teamMembers.map(member => {
-			return <div className={`section--members-column ${!member.leftAlign ? 'right-align' : ''}`}>
+			return <div key={member.title} className={`section--members-column ${!member.leftAlign ? 'right-align' : ''}`}>
 				<div className='container'>
 					<div className='section--members-column-image'>
 						<BackgroundImage src={member.image} />

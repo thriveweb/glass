@@ -62,16 +62,16 @@
 	margin: 0 1rem !important;
 }
 
-.section--featured-posts-item:nth-of-type(even) {
+.section--featured-posts-item:nth-of-type(2n+3) {
 	display: flex;
 	flex-direction: column-reverse;
 }
 
-.section--featured-posts-item:nth-of-type(even) .post-category {
+.section--featured-posts-item:nth-of-type(2n+3) .post-category {
 	margin-top: 0;
 }
 
-.section--featured-posts-item:nth-of-type(even) .BackgroundImage {
+.section--featured-posts-item:nth-of-type(2n+3) .BackgroundImage {
 	margin-top: 1.5rem;
 }
 

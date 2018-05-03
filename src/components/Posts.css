@@ -1,0 +1,28 @@
+.section--archive-posts {
+	margin-top: 10rem;
+}
+
+.section--archive-posts .container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.section--archive-posts-heading h2 {
+	margin-bottom: 0;
+}
+
+.section--archive-posts-heading {
+	margin-right: 8rem;
+}
+
+.nav--list-items {
+	align-self: flex-end;
+}
+
+.section--featured-posts-items {
+	flex-wrap: wrap;
+}
+
+.section--featured-posts-item {
+	margin-bottom: 5rem;
+}

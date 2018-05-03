@@ -201,6 +201,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "content/post"
     create: true
     fields:
+      - {label: Left Align, name: leftAlign, widget: boolean, default: true}
       - {label: Title, name: title, widget: string} 
       - {label: Image, name: image, widget: image}
       - {label: Collection, name: collection, widget: relation, collection: 'post-category', searchFields: ['title'], valueField: 'title', required: false}

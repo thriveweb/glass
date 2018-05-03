@@ -131,8 +131,10 @@ class App extends Component {
               path='/blog'
               exact
               render={props => (
-                <About 
-                  page={this.getDocument('pages', 'blog')} 
+                <Blog 
+                  page={this.getDocument('pages', 'blog')}
+                  posts={posts}
+                  postCategories={postCategories} 
                   globalSettings={globalSettings} 
                   {...props} 
                 />
