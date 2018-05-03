@@ -1,5 +1,5 @@
 ---
-title: Insert Heading Here 2
+title: Insert Your Heading in Here 3
 image: /images/uploads/brooke-cagle-65608-unsplash copy.png
 collection: Fashion
 author: Author Name
