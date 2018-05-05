@@ -23,6 +23,7 @@ import Models from './views/Models'
 import Model from './views/Model'
 import Blog from './views/Blog'
 import BlogPost from './views/BlogPost'
+import Contact from './views/Contact'
 import NoMatch from './views/NoMatch'
 
 
@@ -136,6 +137,17 @@ class App extends Component {
                   page={this.getDocument('pages', 'blog')}
                   posts={posts}
                   postCategories={postCategories} 
+                  globalSettings={globalSettings}
+                  {...props} 
+                />
+              )}
+            />
+            <Route
+              path='/contact'
+              exact
+              render={props => (
+                <Contact 
+                  page={this.getDocument('pages', 'contact')}
                   globalSettings={globalSettings}
                   {...props} 
                 />
