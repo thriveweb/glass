@@ -1,8 +1,8 @@
 import React from 'react'
-import './Blog.css'
 
 import Banner from '../components/Banner'
 import SinglePost from '../components/SinglePost'
+import SectionPartners from '../components/SectionPartners'
 
 export default ({ page, post, globalSettings }) => {
   const { title, image, author, collection, date, content } = post
@@ -14,6 +14,9 @@ export default ({ page, post, globalSettings }) => {
       />
       <SinglePost
         post={post}
+      />
+      <SectionPartners
+        partners={globalSettings.partners}
       />
     </main>
   )

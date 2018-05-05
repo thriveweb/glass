@@ -1,19 +1,35 @@
-import React from 'react'
+import React, { Component } from 'react'
 import _kebabCase from 'lodash/kebabCase'
+import Pagination from "react-js-pagination";
 import './FeaturedPosts.css'
 
 import FeaturedPost from './FeaturedPost'
 import PostCategory from './PostCategory'
 
-export default ({ posts, postCategories, subTitle, selectedCategory }) => {
+class Posts extends Component {
 
-	const filteredPosts = [...posts].filter(post => {
-		const collectionName = _kebabCase(post.collection)
+  	constructor(props) {
+    	super(props);
+    	this.state = {
+      		activePage: 1
+    	};
+  	}
+ 
+  	handlePageChange(pageNumber) {
+   		this.setState({
+   			activePage: pageNumber
+   		});
+  	}
 
-		return selectedCategory === 'all' || collectionName === selectedCategory.name
-	})
+	render() {
+		const { posts, postCategories, subTitle, selectedCategory } = this.props
 
-	return <section className='section--featured-posts archive--posts'>
+		const filteredPosts = [...posts].filter(post => {
+			const collectionName = _kebabCase(post.collection)
+			return selectedCategory === 'all' || collectionName === selectedCategory.name
+		})
+
+		return <section className='section--featured-posts archive--posts'>
 			<div className='container'>
 				<div className='archive--listing-heading'>
 					<p className='title'>{subTitle}</p>
@@ -21,6 +37,17 @@ export default ({ posts, postCategories, subTitle, selectedCategory }) => {
 				</div>
 				<PostCategory postCategories={postCategories} selectedCategory={selectedCategory} />
 				{filteredPosts && <FeaturedPost posts={filteredPosts} />}
-			</div>		
+			</div>	
+	        <Pagination
+	          activePage={this.state.activePage}
+	          itemsCountPerPage={9}
+	          totalItemsCount={9}
+	          pageRangeDisplayed={5}
+	          onChange={this.handlePageChange}
+	        />	
 		</section>
+
+	}
 }
+
+export default ( Posts )
