@@ -22,7 +22,7 @@ import About from './views/About'
 import Models from './views/Models'
 import Model from './views/Model'
 import Blog from './views/Blog'
-import Post from './views/Post'
+import BlogPost from './views/BlogPost'
 import NoMatch from './views/NoMatch'
 
 
@@ -199,7 +199,7 @@ class App extends Component {
               render={props => {
                 return posts.map(post => {                  
                   if(_kebabCase(post.title) === props.match.params.post) {
-                    return <Post 
+                    return <BlogPost 
                       globalSettings={globalSettings}
                       posts={posts}
                       post={post}

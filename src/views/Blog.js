@@ -1,5 +1,4 @@
 import React from 'react'
-import './Blog.css'
 
 import Banner from '../components/Banner'
 import Posts from '../components/Posts'

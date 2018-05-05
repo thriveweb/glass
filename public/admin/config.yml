@@ -173,6 +173,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Sub Title, name: subTitle, widget: string}
           - {label: Title, name: title, widget: string}
+
       - file: "content/pages/blog.md"
         label: "Blog"
         name: "blog"
@@ -180,6 +181,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Sub Title, name: subTitle, widget: string}
           - {label: Title, name: title, widget: string}
+
+      - file: "content/pages/contact.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
+
 
   # Custom Post Types
 

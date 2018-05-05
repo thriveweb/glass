@@ -1,10 +1,57 @@
-.section--single-post .container {
+.section--single-post .post-container {
 	position: relative;
 	top: -10rem;
 	background-color: white;
 	padding: 8rem 12rem 4rem;
 	box-shadow: 0 0 3rem 0 rgba(0,0,0,0.1);
 	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.section--single-post .share-buttons {
+	position: absolute;
+	top: 15%;
+	left: -8rem;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+.section--single-post .share-buttons li {
+	list-style-type: none;
+	color: #979797;
+	padding: .5rem;
+}
+
+.section--single-post .share-buttons li:first-of-type {
+	transform: rotate(270deg);
+	position: relative;
+	margin-bottom: 12rem;
+	font-size: 1.4em;
+}
+
+.section--single-post .share-buttons li:first-of-type:after {
+	content: '';
+	position: absolute;
+	top: 45%;
+	transform: translateY(-50%);
+	left: -8rem;
+	width: 7rem;
+	height: .1rem;
+	background-color: #979797;
+}
+
+.section--single-post .share-buttons svg {
+	height: 1.5rem;
+}
+
+.section--single-post .share-buttons svg * {
+	fill: #979797;
+	transition: all ease-in-out .2s;
+}
+
+.section--single-post .share-buttons svg:hover * {
+	fill: var(--primary);
 }
 
 .section--single-post-heading, .section--single-post-info {
