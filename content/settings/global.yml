@@ -1,9 +1,12 @@
 siteTitle: Glass Management
 siteUrl: 'https://glass.netlify.com'
-siteDescription: Modelling Agency
-phone: ''
-email: ''
-address: ''
+siteDescription: |+
+  Modelling Agency
+
+
+phone: 0712 345 678
+email: info@glassmanagement.com.au
+address: '123 Burleigh Rd, Burleigh Heads QLD, Australia'
 latitude: ''
 longitude: ''
 twitter: 'http://www.twitter.com'
