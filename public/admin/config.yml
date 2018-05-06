@@ -250,13 +250,13 @@ collections: # A list of collections the CMS should be able to edit
         name: "modelSpecs"
         widget: "list"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Content, name: content, widget: string}
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Content, name: content, widget: string, required: false}
       - label: "Image Portfolio"
         name: "imagePortfolio"
         widget: "list"
         fields:   
-          - {label: Image, name: image, widget: image}
+          - {label: Image, name: image, widget: image, required: false}
 
   - name: "model-types"
     label: "Model Types"
