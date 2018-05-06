@@ -11,12 +11,11 @@ export default ({ featuredPosts, posts, postCategory, selectedCategory }) => {
 		return featuredPost.collection
 	})
 
-	const filteredPosts = [...posts].filter(post => {
-		if(featuredPostTitles.indexOf(post.titles) > -1) {
+	const filteredPosts = [...posts].filter(post  => {
+		if(featuredPostTitles.indexOf(post.title) > -1) {
 			return post
 		}
 	})
-
 
 	return !!filteredPosts.length && 
 		<section className='section--featured-posts'>

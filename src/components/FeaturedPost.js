@@ -4,9 +4,9 @@ import './FeaturedPosts.css'
 
 import BackgroundImage from './BackgroundImage'
 
-export default({ posts }) =>
+export default({ posts }) => {
 
-	<div className='section--featured-posts-items'>	
+	return <div className='section--featured-posts-items'>	
 		{posts.map((post, index) => {
 			return <a key={index} className='section--featured-posts-item' href={`/blog-post/${_kebabCase(post.title)}`}>
 				<BackgroundImage src={post.image} />
@@ -22,3 +22,4 @@ export default({ posts }) =>
 			</a>
 		})}
 	</div>
+}

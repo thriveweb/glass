@@ -8,19 +8,6 @@ import PostCategory from './PostCategory'
 
 class Posts extends Component {
 
-  	constructor(props) {
-    	super(props);
-    	this.state = {
-      		activePage: 1
-    	};
-  	}
- 
-  	handlePageChange(pageNumber) {
-   		this.setState({
-   			activePage: pageNumber
-   		});
-  	}
-
 	render() {
 		const { posts, postCategories, subTitle, selectedCategory } = this.props
 
@@ -37,16 +24,8 @@ class Posts extends Component {
 				</div>
 				<PostCategory postCategories={postCategories} selectedCategory={selectedCategory} />
 				{filteredPosts && <FeaturedPost posts={filteredPosts} />}
-			</div>	
-	        <Pagination
-	          activePage={this.state.activePage}
-	          itemsCountPerPage={9}
-	          totalItemsCount={9}
-	          pageRangeDisplayed={5}
-	          onChange={this.handlePageChange}
-	        />	
+			</div>		
 		</section>
-
 	}
 }
 

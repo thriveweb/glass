@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Banner from '../components/Banner'
-import Posts from '../components/Posts'
+import ArchivePosts from '../components/ArchivePosts'
 
 export default ({ page, posts, postCategories, selectedCategory = 'all' }) => {
   const { featuredImage, title, subTitle } = page
@@ -13,7 +13,7 @@ export default ({ page, posts, postCategories, selectedCategory = 'all' }) => {
         title={title}
         subTitle={subTitle}
       />
-      <Posts
+      <ArchivePosts
         posts={posts}
         postCategories={postCategories}
         subTitle={subTitle}

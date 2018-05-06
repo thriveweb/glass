@@ -54,6 +54,11 @@ class Nav extends Component {
 			      		<Link className='title' to='/join-us'><ICONLogin /> Join Us</Link>
 			      		<a className='button' href={`${header.buttonUrl}`}>{header.buttonText}</a>
 			      	</div>	
+				   	<div id="mobile-menu">
+	                    <span></span>
+	                    <span></span>
+	                    <span></span>
+	                </div>
 			  	</div>
 			</nav> 
 		)

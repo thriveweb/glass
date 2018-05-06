@@ -6,3 +6,29 @@
 .about-partners h2 {
 	margin: 1rem 0 6rem;
 }
+
+@media only screen and (max-width: 1400px) {
+	.about-partners {
+		padding-bottom: 8rem;
+	}
+}
+
+@media only screen and (max-width: 760px) {
+	.about-partners {
+		padding-bottom: 4rem;
+	}
+
+	.About .section--columns {
+		margin-bottom: 0;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.about-partners {
+		padding-bottom: 2rem;
+	}
+	.about-partners h2 {
+		width: 90%;
+		margin: 0 auto 3rem;
+	}
+}

@@ -1,5 +1,5 @@
 .section--featured-posts {
-	padding: 0 0 12rem;
+	padding: 0 0 6rem;
 }
 
 .archive--posts {
@@ -11,6 +11,7 @@
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
+	justify-content: space-between;
 }
 
 .featured-posts-heading .title {
@@ -131,7 +132,80 @@
 } 
 
 
+@media only screen and (max-width: 1120px) {
+	.section--featured-posts-item {
+		margin: 0 5% 5vw 0;
+	}
+}
 
+@media only screen and (max-width: 1020px) {
+	.section--featured-posts-item-content h3 {
+		font-size: 18px;
+	}
+}
+
+@media only screen and (max-width: 850px) {
+	.section--featured-posts-item .post-category {
+		font-size: 9px;
+	}
+
+	.section--featured-posts-item-info .title {
+		font-size: 9px;
+	}
+}
+
+@media only screen and (max-width: 760px) {
+	.section--featured-posts-item {
+		flex: 0 0 85%;
+		margin: 0 auto 5rem !important;
+	}
+
+	.section--featured-posts-item:nth-of-type(3n+3), 
+	.section--featured-posts-item:nth-of-type(4n+3), 
+	.section--featured-posts-item:nth-of-type(1), 
+	.section--featured-posts-item:nth-of-type(4) {
+		display: block;
+	}
+
+	.section--featured-posts-item:nth-of-type(3n+3) .post-category, 
+	.section--featured-posts-item:nth-of-type(4n+3) .post-category, 
+	.section--featured-posts-item:nth-of-type(1) .post-category, 
+	.section--featured-posts-item:nth-of-type(4) .post-category {
+		margin-top: 1.5rem;
+	}
+
+	.section--featured-posts-item:nth-of-type(3n+3) .BackgroundImage, 
+	.section--featured-posts-item:nth-of-type(4n+3) .BackgroundImage, 
+	.section--featured-posts-item:nth-of-type(1) .BackgroundImage,
+	.section--featured-posts-item:nth-of-type(4) .BackgroundImage {
+		margin-top: 0;
+	}
+
+	.featured-posts-heading {
+		text-align: center;
+		flex: 0 0 100%;
+	}
+
+	.section--featured-posts .archive-link {
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (max-width: 415px) {
+	.section--featured-posts {
+		padding: 0 0 3rem;
+	}
+
+	.section--featured-posts-item-info {
+		margin-top: 2rem;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.section--featured-posts-item {
+		flex: 0 0 95%;
+	}
+}
 
 
 
