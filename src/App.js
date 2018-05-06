@@ -24,6 +24,7 @@ import Model from './views/Model'
 import Blog from './views/Blog'
 import BlogPost from './views/BlogPost'
 import Contact from './views/Contact'
+import JoinUs from './views/JoinUs'
 import NoMatch from './views/NoMatch'
 
 
@@ -149,6 +150,16 @@ class App extends Component {
                 <Contact 
                   page={this.getDocument('pages', 'contact')}
                   globalSettings={globalSettings}
+                  {...props} 
+                />
+              )}
+            />
+            <Route
+              path='/join-us'
+              exact
+              render={props => (
+                <JoinUs 
+                  page={this.getDocument('pages', 'join-us')}
                   {...props} 
                 />
               )}

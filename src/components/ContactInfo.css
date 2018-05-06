@@ -14,22 +14,14 @@
 
 .section--contact-info {
 	margin-right: 10rem;
+	flex: 0 0 30%;
 }
 
 .section--contact-info h2 {
-	position: relative;
 	padding-bottom: 2rem;
 	margin-bottom: 4rem;
-}
-
-.section--contact-info h2:after {
-	content: '';
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	width: 30rem;
-	height: .1rem;
-	background-color: var(--primary);
+	border-bottom: .1rem solid var(--primary);
+	display: block;
 }
 
 .section--contact-info p, .section--contact-info a {

@@ -51,7 +51,7 @@ class Nav extends Component {
 			      		</ul>
 			      	</nav>
 			      	<div className='client-nav'>
-			      		<a className='title' href='/'><ICONLogin /> Join Us</a>
+			      		<Link className='title' to='/join-us'><ICONLogin /> Join Us</Link>
 			      		<a className='button' href={`${header.buttonUrl}`}>{header.buttonText}</a>
 			      	</div>	
 			  	</div>

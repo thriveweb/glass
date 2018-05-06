@@ -2,7 +2,7 @@ import React from 'react'
 import { stringify } from 'qs'
 import { serialize } from 'dom-form-serializer'
 
-import './EnquiryForm.css'
+import './SignUpFormSimpleAjax.css'
 
 const fetch = window.fetch
 
@@ -11,7 +11,7 @@ class Form extends React.Component {
     name: 'Subcription Form',
     subject: '', // optional subject of the notification email
     action: '',
-    successMessage: 'Thanks for your enquiry, we will get back to you soon',
+    successMessage: 'Thanks for signing up, we will get back to you soon',
     errorMessage:
       'There is a problem, your message has not been sent, please try contacting us via email'
   }
@@ -67,12 +67,12 @@ class Form extends React.Component {
         data-netlify-honeypot='_gotcha'
       >
         {this.state.alert && (
-          <div className='EnquiryForm--Alert'>{this.state.alert}</div>
+          <div className='SignupForm--Alert'>{this.state.alert}</div>
         )}
         <legend>Sign up for our journal</legend>
-        <label className='EnquiryForm--Label'>
+        <label className='SignupForm--Label'>
           <input
-            className='EnquiryForm--Input'
+            className='SignupForm--Input'
             type='email'
             placeholder='your email'
             name='email'
@@ -83,7 +83,7 @@ class Form extends React.Component {
         {!!subject && <input type='hidden' name='subject' value={subject} />}
         <input type='hidden' name='form-name' value={name} />
         <input
-          className='button EnquiryForm--SubmitButton'
+          className='button SignupForm--SubmitButton'
           type='submit'
           value='Subscribe'
           disabled={this.state.disabled}
