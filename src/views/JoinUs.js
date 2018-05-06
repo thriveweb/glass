@@ -2,7 +2,7 @@ import React from 'react'
 import './JoinUs.css'
 
 import Banner from '../components/Banner'
-import EnquiryFormSimple from '../components/EnquiryFormSimple'
+import EnquiryFormSimpleAjax from '../components/EnquiryFormSimpleAjax'
 import Content from '../components/Content'
 
 
@@ -21,7 +21,7 @@ export default ({ page }) => {
 					{intro.title && <h2>{intro.title}</h2>}
 					{intro.content && <Content source={intro.content} />}
 				</div>
-				<EnquiryFormSimple/>
+				<EnquiryFormSimpleAjax/>
 			</div>
 		</section>
 	</div>

@@ -175,6 +175,36 @@
   color: var(--primary);
 }
 
+@media only screen and (max-width: 1020px) {
+  .nav--container .Logo {
+    width: 16rem;
+  }
+
+  .nav--container nav >ul >li {
+    font-size: 1.2em;
+    margin-right: 3rem;
+  }
+
+  .nav--container .title {
+    font-size: 1.2em;
+  }
+
+  .nav--container .title svg {
+    margin-right: .5em;
+    height: 1.5rem;
+  }
+
+  .nav--container .button {
+    padding: 1rem 2.5rem;
+    min-width: auto;
+    font-size: 1em;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+
+}
+
 /*@media only screen and (max-width: 680px) {
   .nav--container .Logo {
     height: 4.6rem;

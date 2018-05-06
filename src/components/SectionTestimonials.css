@@ -57,7 +57,33 @@
 	outline: none !important; 
 }
 
+@media only screen and (max-width: 850px) {
+	.section--testimonials-item-content {
+		max-width: 100%;
+	}
 
+	.section--testimonials {
+		padding: 8rem 0 10rem;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.section--testimonials-item-content {
+		font-size: 1.3em;
+	}
+
+	.section--testimonials {
+		padding: 4rem 0 8rem;
+	}
+
+	.section--testimonials .title {
+		margin-bottom: 2rem !important;
+	}
+
+	.section--testimonials-item h2 {
+		font-size: 2.5em;
+	}
+}
 
 
 

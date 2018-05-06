@@ -37,7 +37,7 @@ class Nav extends Component {
 			      	<nav>
 			      		<ul>
 			      			<li><Link to='/about'>About</Link></li>
-			      			<li className='menu-item-has-children'>Models
+			      			<li className='menu-item-has-children'>Models &#x25BE;
 			      				<ul className='subMenu'>
 					      			{modelTypes.map(selectedModelType => {
 					      				return <li key={selectedModelType.name}>

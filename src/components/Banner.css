@@ -39,3 +39,50 @@
 	background-color: rgba(0,0,0,0.5);
 	z-index: 1;
 }
+
+
+@media only screen and (max-width: 850px) {
+	.section--banner h1 {
+		font-size: 5em;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.section--banner {
+		padding: 18rem 0 14rem;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.section--banner-content {
+		max-width: 80%;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.section--banner {
+		padding: 14rem 0 10rem;
+	}
+
+	.section--banner h1 {
+		font-size: 3em;
+	}
+
+	.section--banner-content {
+		max-width: 100%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

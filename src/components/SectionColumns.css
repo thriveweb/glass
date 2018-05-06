@@ -60,3 +60,112 @@
 	background-color: rgba(255,255,255,0.2);
 	color: white;
 }
+
+
+@media only screen and (max-width: 1400px) {
+	.section--columns {
+		margin-bottom: 10rem;
+	}
+
+	.section--columns-item .LazyImage {
+		height: 40rem;
+	}
+
+	.section--columns-item-content {
+		flex: 0 0 35%;
+	}
+
+	.section--columns-item {
+		padding: 9rem 0 7rem;
+	}
+
+	.section--columns-item.column-right {
+		padding-top: 14rem;
+	}
+}
+
+@media only screen and (max-width: 1075px) {
+	.section--columns-item .LazyImage {
+		height: 35rem;
+	}
+
+	.section--columns-item-content {
+		flex: 0 0 40%;
+	}
+
+	.section--columns-item {
+		padding: 6rem 0 5rem;
+	}
+
+	.section--columns-item.column-right {
+		padding-top: 12rem;
+	}
+}
+
+@media only screen and (max-width: 950px) {
+	.section--columns-item-content h2 {
+		font-size: 3em !important;
+	}
+
+	.section--columns-item .LazyImage {
+		height: 30rem;
+	}
+
+	.section--columns-item {
+		padding: 4rem 0 3rem;
+	}
+
+	.section--columns-item.column-right {
+		padding-top: 10rem;
+	}
+}
+
+@media only screen and (max-width: 760px) {
+	.section--columns-item .LazyImage {
+		position: relative;
+		right: 0;
+		left: 0;
+		margin: 0 auto;
+		width: 40rem !important;
+		height: auto;
+	}
+
+	.section--columns-item-content {
+		flex: 0 0 100%;
+		text-align: center;
+		margin-top: 3rem;
+	}
+
+	.section--columns-item .container {
+		flex-wrap: wrap;
+	}
+
+	.section--columns-item.column-right {
+		background: var(--primary);
+	}
+
+	.section--columns-item.column-right .LazyImage {
+		left: 0;
+	}
+
+	.section--columns-item {
+		padding: 4rem 0 !important;
+	}
+
+	.section--columns {
+		margin-bottom: 5.5rem;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
