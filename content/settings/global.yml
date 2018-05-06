@@ -32,11 +32,13 @@ footer:
       buttonUrl: 'http://google.com'
   title: Information
 partners:
-  - image: /images/uploads/Bitmap Copy 2.png
-  - image: /images/uploads/Bitmap Copy 4.png
-  - image: /images/uploads/Bitmap Copy 5.png
-  - image: /images/uploads/Bitmap Copy 6.png
-  - image: /images/uploads/Bitmap Copy.png
+  - image: /images/uploads/TSS-Logo.png
+  - image: /images/uploads/st-Hilda's-school-logo.png
+  - image: /images/uploads/NICKELODEON_Logo.png
+  - image: /images/uploads/footlocker.png
+  - image: /images/uploads/tatts-logo.png
+  - image: /images/uploads/ubet-logo.png
+  - image: /images/uploads/seaworld logo.png
 columns:
   - buttonTitle: Book Models
     buttonUrl: 'http://google.com'
