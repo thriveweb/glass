@@ -1,0 +1,72 @@
+.section--contact {
+	padding: 8rem 0 14rem;
+}
+
+.section--contact .container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.section--contact .container .title {
+	flex: 0 0 100%;
+	margin-bottom: 2rem;
+}
+
+.section--contact-info {
+	margin-right: 10rem;
+}
+
+.section--contact-info h2 {
+	position: relative;
+	padding-bottom: 2rem;
+	margin-bottom: 4rem;
+}
+
+.section--contact-info h2:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 30rem;
+	height: .1rem;
+	background-color: var(--primary);
+}
+
+.section--contact-info p, .section--contact-info a {
+	color: var(--primary);
+	font-size: 1.7em;
+	margin: 0 0 1rem !important;
+	display: block;
+}
+
+.section--contact-info .social-media {
+	display: flex;
+	align-items: center;
+	padding: 0;
+	margin: 0;
+}
+
+.section--contact-info .social-media li {
+	list-style-type: none;
+}
+
+.section--contact-info .social-media a {
+	padding: .5rem 1.5rem;
+}
+
+.section--contact-info .social-media li:first-of-type a {
+	padding-left: 0;
+}
+
+.section--contact-info .social-media svg {
+	height: 2.5rem;
+}
+
+.section--contact-info .social-media svg * {
+	fill: var(--primary);
+	transition: all ease-in-out .2s;
+}
+
+.section--contact-info .social-media a:hover svg * {
+	fill: var(--secondary);
+} 

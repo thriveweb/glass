@@ -190,6 +190,20 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Sub Title, name: subTitle, widget: string}
           - {label: Title, name: title, widget: string}
 
+      - file: "content/pages/join-us.md"
+        label: "Join Us"
+        name: "joinUs"
+        fields:
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: markdown}
+
 
   # Custom Post Types
 
