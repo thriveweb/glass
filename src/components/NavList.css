@@ -36,6 +36,7 @@
 	margin-right: 2rem;
 	font-size: 1.2em;
 	list-style-type: none;
+	min-width: 16rem;
 }
 
 .nav--list-items a {
@@ -50,6 +51,7 @@
 	font-size: inherit;
 	text-align: center;
 	transition: all ease-in-out .2s;
+	width: 100%;
 }
 
 .nav--list-item:first-of-type {
@@ -62,3 +64,49 @@
 	border-color: transparent;
 	cursor: pointer;
 }
+
+@media only screen and (max-width: 1300px) {
+	.nav--list-items {
+		margin-top: 4rem;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.archive--listing .container {
+		justify-content: center;
+	}
+
+	.archive--listing-heading {
+		margin-right: 0;
+		text-align: center;
+	}
+
+	.nav--list-items {
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+
+	.nav--list-item {
+		margin: 0 .5rem 2rem !important;
+	}
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

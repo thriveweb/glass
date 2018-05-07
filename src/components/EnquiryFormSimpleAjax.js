@@ -22,6 +22,14 @@ class Form extends React.Component {
     disabled: false
   }
 
+  handleUpload = (event, target) => {
+    const file = event.target.files[0] ? event.target.files[0].name : this.state[target]
+
+    this.setState({
+      [target]: file
+    })
+  }
+
   handleSubmit = e => {
     e.preventDefault()
     if (this.state.disabled) return
@@ -131,39 +139,45 @@ class Form extends React.Component {
           />
         </label>
         <div className='file-download'>
-          <label className='EnquiryForm--Label title'>
-            <input
-              className='EnquiryForm--Input'
-              type='file'
-              placeholder='Upload Photo'
-              name='upload-photo'
-              onChange={() => console.log('test')}
-              required
-            />
-            <span>Upload Photo</span> please attach a full length bodyshot
-          </label>
-          <label className='EnquiryForm--Label title'>
-            <input
-              className='EnquiryForm--Input'
-              type='file'
-              placeholder='Upload Photo'
-              name='upload-photo'
-              onChange={() => console.log('test')}
-              required
-            />
-            <span>Upload Photo</span> please attach a current headshot
-          </label>
+          <div className='file-download-item'>
+            <label className='EnquiryForm--Label title'>
+              <input
+                className='EnquiryForm--Input'
+                type='file'
+                placeholder='Upload Photo'
+                name='upload-photo'
+                onChange={event => this.handleUpload(event, 'bodyShot')}
+                required
+              />
+              <span>Upload Photo</span> please attach a full length bodyshot
+            </label>
+            {this.state.bodyShot && <p>{this.state.bodyShot}</p>}
+          </div>
+          <div className='file-download-item'>
+            <label className='EnquiryForm--Label title'>
+              <input
+                className='EnquiryForm--Input'
+                type='file'
+                placeholder='Upload Photo'
+                name='upload-photo'
+                onChange={event => this.handleUpload(event, 'headShot')}
+                required
+              />
+              <span>Upload Photo</span> please attach a current headshot
+            </label>
+            {this.state.headShot && <p>{this.state.headShot}</p>}
           </div>  
-          <div className='form--footer'>
-            <input type='text' name='_gotcha' style={{ display: 'none' }} />
-            {!!subject && <input type='hidden' name='subject' value={subject} />}
-            <input type='hidden' name='form-name' value={name} />
-            <input
-              className='button EnquiryForm--SubmitButton'
-              type='submit'
-              value='Send'
-            />
-          </div> 
+        </div>  
+        <div className='form--footer'>
+          <input type='text' name='_gotcha' style={{ display: 'none' }} />
+          {!!subject && <input type='hidden' name='subject' value={subject} />}
+          <input type='hidden' name='form-name' value={name} />
+          <input
+            className='button EnquiryForm--SubmitButton'
+            type='submit'
+            value='Send'
+          />
+        </div> 
       </form>
     )
   }

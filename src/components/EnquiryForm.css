@@ -34,7 +34,7 @@ legend {
   font-weight: 400;
   font-size: 1.2em;
   text-transform: uppercase;
-  letter-spacing: 0.3rem;
+  letter-spacing: 0.2rem;
   line-height: 1;
   color: #2b2b2b !important;
   background-color: var(--lightGrey);
@@ -111,11 +111,15 @@ legend {
   flex: 0 0 100%;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   margin-top: 2rem;
 }
 
-.file-download .EnquiryForm--Label {
+.file-download-item {
   flex: 0 0 48.7%;
+}
+
+.file-download .EnquiryForm--Label {
   background-color: white;
   border: .1rem solid var(--primary);
   padding: 2rem 2.5rem;
@@ -134,12 +138,7 @@ legend {
 }
 
 .file-download .EnquiryForm--Input {
-  /*display: none;*/
-  position: absolute;
-  bottom: -3rem;
-  background-color: transparent;
-  padding: 0;
-
+  display: none;
 }
 
 .file-download .EnquiryForm--Select {
@@ -192,7 +191,86 @@ legend {
 }
 
 
+@media only screen and (max-width: 1100px) {
+  .EnquiryForm--Input {
+    font-size: 1em;
+    padding: 1.5rem 2.5rem;
+  }
 
+  .EnquiryForm input::-webkit-input-placeholder {
+    font-size: 1em;
+  }
+   
+  .EnquiryForm input:-moz-placeholder { /* Firefox 18- */
+    font-size: 1em; 
+  }
+   
+  .EnquiryForm input::-moz-placeholder {  /* Firefox 19+ */
+    font-size: 1em;
+  }
+   
+  .EnquiryForm input:-ms-input-placeholder {  
+    font-size: 1em;
+  }
+
+  .EnquiryForm textarea::-webkit-input-placeholder {
+    font-size: 1em;
+  }
+   
+  .EnquiryForm textarea:-moz-placeholder { /* Firefox 18- */
+    font-size: 1em;
+  }
+   
+  .EnquiryForm textarea::-moz-placeholder {  /* Firefox 19+ */
+    font-size: 1em;
+  }
+   
+  .EnquiryForm textarea:-ms-input-placeholder {  
+    font-size: 1em;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .EnquiryForm .form-description {
+    text-align: center;
+  }
+
+  .EnquiryForm {
+    flex: 0 0 100%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .EnquiryForm--Label, .file-download-item {
+    flex: 0 0 100% !important;
+    margin-bottom: 1rem;
+  }
+
+  .file-download .EnquiryForm--Label {
+    margin-bottom: 1rem;
+  }
+
+  .file-download .EnquiryForm--Label span {
+    flex: 0 0 100%;
+  }
+
+  .form--footer {
+    flex: 0 0 100%;
+    text-align: center;
+  }
+
+  .EnquiryForm--SubmitButton.button {
+    min-width: 20rem;
+    margin: 2rem auto 0;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .file-download .EnquiryForm--Label {
+    font-size: .8em;
+    padding: 1.5rem 2rem;
+  }
+}
 
 
 

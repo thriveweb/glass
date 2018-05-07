@@ -9,7 +9,21 @@ import {ICONLogin} from './Icons'
 class Nav extends Component {
 
 	state = {
-		navActive: null
+		navActive: null,
+		mobileActive: false,
+		menuItemActive: false
+	}
+
+	onMobileClick = () => {
+		this.setState({
+			mobileActive: !this.state.mobileActive
+		})
+	}
+
+	onMenuItemClick = () => {
+		this.setState({
+			menuItemActive: !this.state.menuItemActive
+		})
 	}
 
 	componentDidMount() {
@@ -28,16 +42,22 @@ class Nav extends Component {
 
 	render() {
 		const { header, modelTypes=[] } = this.props
+		const { mobileActive, navActive, menuItemActive } = this.state
 
 		return (
-			<nav className={`nav ${this.state.navActive ? 'active' : ''}`}>
+			<nav className={`nav ${navActive ? 'active' : ''} ${mobileActive ? 'mobile-active' : ''}`}>
 			 	<div className='nav--container container'>
-			      	<a href='/'><Logo /></a>
-			      	<a href='/'><LogoScroll /></a>
+			      	<Link to='/'><Logo /></Link>
+			      	<Link to='/'><LogoScroll /></Link>
 			      	<nav>
 			      		<ul>
 			      			<li><Link to='/about'>About</Link></li>
-			      			<li className='menu-item-has-children'>Models &#x25BE;
+			      			<li 
+			      				onClick={this.onMenuItemClick}
+			      				className={`menu-item-has-children ${menuItemActive ? 'active' : ''}`}>
+			      				<span className='menu-item-content'>
+			      					Models <span className='dropdown-arrow'>&#x25BE;</span>
+			      				</span>
 			      				<ul className='subMenu'>
 					      			{modelTypes.map(selectedModelType => {
 					      				return <li key={selectedModelType.name}>
@@ -54,7 +74,10 @@ class Nav extends Component {
 			      		<Link className='title' to='/join-us'><ICONLogin /> Join Us</Link>
 			      		<a className='button' href={`${header.buttonUrl}`}>{header.buttonText}</a>
 			      	</div>	
-				   	<div id="mobile-menu">
+				   	<div 
+				   		id="mobile-menu" 
+				   		onClick={this.onMobileClick}
+				   	>
 	                    <span></span>
 	                    <span></span>
 	                    <span></span>

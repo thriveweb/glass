@@ -189,6 +189,14 @@
 	.section--featured-posts .archive-link {
 		margin: 0 auto;
 	}
+
+	.section--featured-posts.archive--posts {
+		margin: 5rem 0;
+	}
+
+	.section--featured-posts.archive--posts .container {
+		justify-content: center;
+	}
 }
 
 @media only screen and (max-width: 415px) {

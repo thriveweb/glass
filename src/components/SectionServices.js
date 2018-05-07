@@ -17,6 +17,8 @@ class SectionServices extends Component {
 		this.setState({
 			popupActive: index
 		})
+
+		document.body.style.overflow = index ? 'hidden' : 'auto'
 	}
 
 	render() {

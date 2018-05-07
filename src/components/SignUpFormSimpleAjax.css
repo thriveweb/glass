@@ -154,7 +154,36 @@ textarea:-ms-input-placeholder {
   min-width: auto;
 }
 
+@media only screen and (max-width: 1220px) {
+  label {
+    flex: 0 0 60%;
+  }
+}
 
+@media only screen and (max-width: 1020px) {
+  .SignupForm {
+    margin: 0 auto;
+  }
+
+  legend {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  legend {
+    margin-bottom: 2rem;
+  }
+
+  label {
+    flex: 0 0 100%;
+    margin-bottom: 1rem;
+  }
+
+  .SignupForm--Input {
+    text-align: center;
+  }
+}
 
 
 

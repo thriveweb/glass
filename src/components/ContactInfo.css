@@ -17,6 +17,10 @@
 	flex: 0 0 30%;
 }
 
+.section--contact-info:last-of-type {
+	margin-right: 0;
+}
+
 .section--contact-info h2 {
 	padding-bottom: 2rem;
 	margin-bottom: 4rem;
@@ -29,6 +33,7 @@
 	font-size: 1.7em;
 	margin: 0 0 1rem !important;
 	display: block;
+	line-height: 1.4;
 }
 
 .section--contact-info .social-media {
@@ -62,3 +67,50 @@
 .section--contact-info .social-media a:hover svg * {
 	fill: var(--secondary);
 } 
+
+
+@media only screen and (max-width: 850px) {
+	.section--contact-info {
+		flex: 1;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.section-contact .container {
+		justify-content: center;
+	}
+
+	.section--contact-info {
+		flex: 0 0 100%;
+		margin-bottom: 4rem;
+	}
+
+	.section--contact-info:last-of-type {
+		margin-bottom: 0;
+	}
+
+	.section--contact-info h2 {
+		margin-bottom: 2rem;
+	}
+
+	.section--contact-info .social-media svg {
+		height: 1.5rem;
+	}
+
+	.section--contact-info .social-media a {
+		font-size: 1em;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.section--contact .container .title {
+		margin-bottom: 2rem !important;
+	}
+
+	.section--contact {
+		padding: 5rem 0 8rem;
+	}
+}
+
+
+

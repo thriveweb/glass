@@ -107,7 +107,87 @@
 }
 
 
+@media only screen and (max-width: 1000px) {
+	.section--single-post .share-buttons {
+		left: -7rem;
+	}
+}
 
+@media only screen and (max-width: 900px) {
+	.section--single-post .post-container {
+		padding: 6rem 8rem 4rem;
+	}
 
+	.section--single-post-heading h1 {
+		font-size: 3em;
+	}
 
+	.section--single-post-info {
+		margin-bottom: 5rem;
+	}
+}
+
+@media only screen and (max-width: 760px) {
+	.section--single-post .post-container {
+		padding: 4rem 5rem;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.section--single-post .post-container {
+		padding: 4rem 2rem;
+		box-shadow: none;
+		top: 0;
+	}
+
+	.section--single-post .share-buttons {
+		left: -6rem;
+	}
+
+	.section--single-post .Content blockquote {
+		padding-left: 2rem;
+		margin-left: 1rem;
+	}
+
+	.section--single-post .Content blockquote p {
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 415px) {
+	.section--single-post-heading h1 {
+		width: 100%;
+		font-size: 2.5em;
+	}
+
+	.section--single-post .share-buttons {
+		left: -4rem;
+	}
+
+	.section--single-post .share-buttons li:first-of-type {
+		font-size: 1em;
+	}
+
+	.section--single-post .share-buttons li a {
+		font-size: 1em;
+	}
+
+	.section--single-post .share-buttons svg {
+		height: 1rem;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.section--single-post .share-buttons .title {
+		margin-bottom: 12rem !important;
+	}
+
+	.section--single-post .post-container {
+		padding: 4rem 1rem 4rem 2rem;
+	}
+
+	.section--single-post-heading h1 {
+		font-size: 2em;
+	}
+}
 
