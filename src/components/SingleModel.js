@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import {Link} from 'react-router-dom'
-import Slider from 'react-slick'
+import Slider from 'react-id-swiper'
 
 import BackgroundImage from './BackgroundImage'
 import './SingleModel.css'

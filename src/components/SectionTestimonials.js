@@ -4,9 +4,9 @@ import LazyImage from './LazyImage'
 import './SectionTestimonials.css'
 import {ICONQuotes} from './Icons'
 
-import 'slick-carousel/slick/slick.css'
-import 'slick-carousel/slick/slick-theme.css'
-import Slider from 'react-slick'
+
+import 'react-id-swiper/src/styles/css/swiper.css'
+import Slider from 'react-id-swiper'
 
 
 class SimpleSlider extends Component {
@@ -32,10 +32,10 @@ class SimpleSlider extends Component {
 					<Slider className='section--testimonials-slider' {...settings}>
 						{ testimonial.map((singleTestimonial, index) => {
 							return <div key={`testimonial-${index}`} className='section--testimonials-item testimonial-slide'>
-								{ singleTestimonial.title && <h2>{singleTestimonial.title}</h2> }
-								{ singleTestimonial.content && <p className='section--testimonials-item-content'>{singleTestimonial.content}</p> }
-								{ singleTestimonial.logo && <LazyImage src={`${singleTestimonial.logo}`} imageSize='300' /> }
-								{ singleTestimonial.name && <p className='title'>{singleTestimonial.name}</p> }
+								{singleTestimonial.title && <h2>{singleTestimonial.title}</h2>}
+								{singleTestimonial.content && <p className='section--testimonials-item-content'>{singleTestimonial.content}</p>}
+								{singleTestimonial.logo && <LazyImage src={`${singleTestimonial.logo}`} imageSize='300' />}
+								{singleTestimonial.name && <p className='title'>{singleTestimonial.name}</p>}
 							</div>
 						})}
 					</Slider>	
