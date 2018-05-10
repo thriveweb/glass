@@ -10,7 +10,7 @@ export default({ post }) => {
 	return <section className='section--single-post'>
 			<div className='container'>
 				<div className='post-container'>
-					<ul class="share-buttons">
+					<ul className="share-buttons">
 						<li className='title'>SHARE ON</li>
 						<li><a href="https://www.facebook.com/sharer/sharer.php?u=&quote=" target="_blank" rel="noopener noreferrer" title="Share on Facebook"><ICONFacebook/></a></li>
 						<li><a href="https://twitter.com/intent/tweet?source=&text=:%20" target="_blank" rel="noopener noreferrer" title="Tweet"><ICONTwitter/></a></li>

@@ -1,34 +1,23 @@
 import React, { Component } from 'react'
 import _kebabCase from 'lodash/kebabCase'
-import Pagination from "react-js-pagination";
 import './FeaturedPosts.css'
 
 import FeaturedPost from './FeaturedPost'
 import PostCategory from './PostCategory'
+import Pagination from './Pagination'
+
 
 class Posts extends Component {
-
-	constructor(props) {
-	    super(props);
-	    this.state = {
-	      activePage: 10
-	    };
-	}
-	 
-	handlePageChange(pageNumber) {
-	    this.setState({
-	    	activePage: pageNumber
-	    });
-	}
-
 	render() {
-		const { posts, postCategories, subTitle, selectedCategory } = this.props
-
+		const { posts, postCategories, subTitle, selectedCategory, pageSearch } = this.props
 
 		const filteredPosts = [...posts].filter(post => {
 			const collectionName = _kebabCase(post.collection)
 			return selectedCategory === 'all' || collectionName === selectedCategory.name
 		})
+
+		const pageNumber = pageSearch ? parseInt(pageSearch.replace('?page=', '')) : 1
+		const paginatedPosts = filteredPosts.slice((9 * (pageNumber - 1)), (9 * pageNumber))
 
 		return <section className='section--featured-posts archive--posts'>
 			<div className='container'>
@@ -37,16 +26,12 @@ class Posts extends Component {
 					<h2>Read our Latest News</h2>
 				</div>
 				<PostCategory postCategories={postCategories} selectedCategory={selectedCategory} />
-				{filteredPosts && <FeaturedPost posts={filteredPosts} />}
-				<div className='pagination'>
-					<Pagination
-			          activePage={this.state.activePage}
-			          itemsCountPerPage={9}
-			          totalItemsCount={450}
-			          pageRangeDisplayed={5}
-			          onChange={this.handlePageChange}
-			        />
-			    </div>    
+				{paginatedPosts && <FeaturedPost posts={paginatedPosts} />}
+				<Pagination 
+					items={filteredPosts}
+					itemsPer={9}
+					pageNumber={pageNumber}
+				/>   
 			</div>		
 		</section>
 	}

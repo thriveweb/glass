@@ -59,12 +59,21 @@
 	flex: 0 0 65%;
 }
 
+.section--model-profile-images .profile-images-nav {
+	position: relative;
+	/*overflow: hidden;*/
+	/*white-space: nowrap;*/
+}
+
 .section--model-profile-slide {
 	padding-bottom: 60rem;
 }
 
 .section--model-profile-nav-slide {
 	padding-bottom: 20rem;
+	position: relative;
+	width: 25%;
+	display: inline-block;
 }
 
 @media only screen and (max-width: 1030px) {

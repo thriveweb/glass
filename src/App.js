@@ -122,23 +122,10 @@ class App extends Component {
             <Route
               path='/about'
               exact
-              render={props => (
+              component={props => (
                 <About 
                   page={this.getDocument('pages', 'about')} 
                   globalSettings={globalSettings} 
-                  {...props} 
-                />
-              )}
-            />
-            <Route
-              path='/blog'
-              exact
-              render={props => (
-                <Blog 
-                  page={this.getDocument('pages', 'blog')}
-                  posts={posts}
-                  postCategories={postCategories} 
-                  globalSettings={globalSettings}
                   {...props} 
                 />
               )}
@@ -165,9 +152,23 @@ class App extends Component {
               )}
             />
             <Route
+              path='/blog'
+              exact
+              component={props => (
+                <Blog 
+                  page={this.getDocument('pages', 'blog')}
+                  posts={posts}
+                  postCategories={postCategories} 
+                  globalSettings={globalSettings}
+                  pageSearch={props.location.search}
+                  {...props} 
+                />
+              )}
+            />
+            <Route
               path='/blog/:postCategory'
               exact
-              render={props => {
+              component={props => {
                 const category = postCategories.find(selectedCategory => {
                     return selectedCategory.name === props.match.params.postCategory
                 })
@@ -178,6 +179,7 @@ class App extends Component {
                   postCategories={postCategories}
                   selectedCategory={category} 
                   globalSettings={globalSettings} 
+                  pageSearch={props.location.search}
                   {...props}
                 />
 

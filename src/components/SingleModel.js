@@ -8,24 +8,8 @@ import './SingleModel.css'
 
 class AsNavFor extends Component {
 
-      constructor(props) {
-        super(props);
-        this.state = {
-          gallerySwiper: null,
-          thumbnailSwiper: null
-        };
-    
-        this.galleryRef = this.galleryRef.bind(this);
-        this.thumbRef = this.thumbRef.bind(this);
-      }
-    
-      componentWillUpdate(nextProps, nextState) {
-        if (nextState.gallerySwiper && nextState.thumbnailSwiper) {
-          const { gallerySwiper, thumbnailSwiper } = nextState
-    
-          gallerySwiper.controller.control = thumbnailSwiper;
-          thumbnailSwiper.controller.control = gallerySwiper;
-        }
+      state = {
+
       }
     
       galleryRef(ref) {
@@ -39,17 +23,6 @@ class AsNavFor extends Component {
 
 	render() {
 		const { firstName, lastName, modelSpecs, imagePortfolio, collection } = this.props
-
-		const gallerySwiperParams = {
-
-        }
-    
-        const thumbnailSwiperParams = {
-          centeredSlides: true,
-          slidesPerView: 4,
-          touchRatio: 0.2,
-          slideToClickedSlide: true,
-        }
 
 	    return (		
 		    <section className='section--model-profile'>
@@ -66,27 +39,14 @@ class AsNavFor extends Component {
 						})}
 					</div>
 					<div className='section--model-profile-images'>
-						<Slider 
-							{...gallerySwiperParams} 
-							ref={this.galleryRef}
-						>
-							{ imagePortfolio.map((portfolioItem, index) => {
-								return <div key={`slider-${index}`} className='section--model-profile-slide'>
-									<BackgroundImage src={portfolioItem.image} imageSize='910' />
-								</div>
-							})}
-						</Slider>
-						<Slider 
-							{...thumbnailSwiperParams} 
-							ref={this.thumbRef}
-          				>
-							{ imagePortfolio.map((portfolioItem, index) => {
+						<div className='profile-images-nav'>
+							{imagePortfolio.map((portfolioItem, index) => {
 								return <div key={`slider-nav-${index}`} className='section--model-profile-nav-slide'>
 									<BackgroundImage src={portfolioItem.image} />
 								</div>
 							})}
-						</Slider>
-					</div>	
+						</div>
+					</div>
 				</div>
 			</section>
 		)
@@ -94,3 +54,10 @@ class AsNavFor extends Component {
 }
 
 export default AsNavFor
+
+
+// { imagePortfolio.map((portfolioItem, index) => {
+// 							return <div key={`slider-${index}`} className='section--model-profile-slide'>
+// 								<BackgroundImage src={portfolioItem.image} imageSize='910' />
+// 							</div>
+// 						})}

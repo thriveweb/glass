@@ -3,7 +3,7 @@ import React from 'react'
 import Banner from '../components/Banner'
 import ArchivePosts from '../components/ArchivePosts'
 
-export default ({ page, posts, postCategories, selectedCategory = 'all' }) => {
+export default ({ page, posts, postCategories, selectedCategory = 'all', pageSearch }) => {
   const { featuredImage, title, subTitle } = page
 
   return (
@@ -18,6 +18,7 @@ export default ({ page, posts, postCategories, selectedCategory = 'all' }) => {
         postCategories={postCategories}
         subTitle={subTitle}
         selectedCategory={selectedCategory}
+        pageSearch={pageSearch}
       />
     </main>
   )

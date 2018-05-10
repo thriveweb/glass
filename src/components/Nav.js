@@ -27,21 +27,19 @@ class Nav extends Component {
 	}
 
 	componentDidMount = () => {
-		document.addEventListener('scroll', () => {
-			console.log('test')
+		document.body.addEventListener('scroll', () => {
 
-			if(window.pageYOffset > 20 && !this.state.navActive) {
+			if(document.body.scrollTop > 20 && !this.state.navActive) {
 				this.setState({
 					navActive: true
 				})
-			} else if(window.pageYOffset < 20 && this.state.navActive) {
+			} else if(document.body.scrollTop < 20 && this.state.navActive) {
 				this.setState({
 					navActive: null
 				})
 			}
 		})
 	}
-
 
 	render() {
 		const { header, modelTypes=[] } = this.props
