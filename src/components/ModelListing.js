@@ -22,7 +22,7 @@ export default ({ models, modelTypes, title, subTitle, selectedModelType}) => {
 					return <div key={`model-${index}`} className='section--model-list-item'> 
 						<p className='name-rotate'>{model.firstName}</p>
 						<a className='section--model-list-item-link' href={`/model/${_kebabCase(model.title)}`}>
-							<BackgroundImage src={model.imageThumbnail} imageSize='900' />
+							<BackgroundImage src={model.imageThumbnail} imageSize='600' />
 							{ model.collection && <p className='category title'>{model.collection}</p> }
 							<h3>{model.firstName} {model.lastName}</h3>
 						</a>

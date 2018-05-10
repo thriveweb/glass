@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 import {Link} from 'react-router-dom'
-import Slider from 'react-id-swiper'
 
 import BackgroundImage from './BackgroundImage'
 import './SingleModel.css'
@@ -61,7 +60,7 @@ class AsNavFor extends Component {
 										: ''
 									}`}
 								>
-									<BackgroundImage src={portfolioItem.image} />
+									<BackgroundImage src={portfolioItem.image} imageSize={900} />
 								</div>
 							})}
 						</div>
@@ -72,7 +71,7 @@ class AsNavFor extends Component {
 									className='section--model-profile-nav-slide'
 									onClick={() => this.setState({activeModel: index})}
 								>
-									<BackgroundImage src={portfolioItem.image} />
+									<BackgroundImage src={portfolioItem.image} imageSize={300} />
 								</div>
 							})}
 						</div>

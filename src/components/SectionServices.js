@@ -44,6 +44,7 @@ class SectionServices extends Component {
 									{service.image && 
 										<BackgroundImage 
 											src={service.image} 
+											imageSize={600}
 										/> 
 									}
 									{service.title && <h3 className='title-fancy'>{service.title}</h3>}

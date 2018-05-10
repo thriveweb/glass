@@ -75,9 +75,6 @@ class App extends Component {
       facebook,
       linkedin,
       instagram,
-      // phone,
-      // address,
-      // email,
       footer,
       headerScripts,
       header,
@@ -186,6 +183,23 @@ class App extends Component {
               }}
             />
             <Route
+              path='/blog-post/:post'
+              exact
+              component={props => {
+                const post = posts.map(post => { 
+                  console.log(post.title)
+                  console.log(props.match.params.post)
+                  return _kebabCase(post.title) === props.match.params.post
+                })
+                
+                return <BlogPost 
+                  globalSettings={globalSettings}
+                  post={post}
+                  {...props}
+                />
+              }}
+            />
+            <Route
               path='/models/:modelType'
               exact
               component={props => {
@@ -215,22 +229,6 @@ class App extends Component {
                   globalSettings={globalSettings}
                   models={models}
                   model={singleModel}
-                  {...props}
-                />
-              }}
-            />
-            <Route
-              path='/blog-post/:post'
-              exact
-              component={props => {
-                const post = posts.map(post => {                  
-                  return _kebabCase(post.title) === props.match.params.post
-                })
-                
-                return <BlogPost 
-                  globalSettings={globalSettings}
-                  posts={posts}
-                  post={post}
                   {...props}
                 />
               }}

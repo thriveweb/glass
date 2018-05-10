@@ -11,7 +11,7 @@ export default ({ teamMembers }) =>
 			return <div key={member.title} className={`section--members-column ${!member.leftAlign ? 'right-align' : ''}`}>
 				<div className='container'>
 					<div className='section--members-column-image'>
-						{member.image && <BackgroundImage src={member.image} />}
+						{member.image && <BackgroundImage src={member.image} imageSize={600} />}
 					</div>	
 					<div className='section--members-column-info'>
 						{member.subTitle && <p className='title'>{member.subTitle}</p>}
