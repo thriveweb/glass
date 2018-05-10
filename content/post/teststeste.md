@@ -1,9 +1,9 @@
 ---
-title: teststeste
+title: Insert Heading Here
 image: /images/uploads/Bitmap.png
-collection: wm
-author: eww
-date: weee
-content: wewe
+collection: Fashion
+author: Author Name
+date: 02.12.18
+content: text here
 ---
 
