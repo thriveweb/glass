@@ -145,7 +145,7 @@ class Form extends React.Component {
                 className='EnquiryForm--Input'
                 type='file'
                 placeholder='Upload Photo'
-                name='upload-bodyshot'
+                name='upload-photo'
                 onChange={event => this.handleUpload(event, 'bodyShot')}
                 required
               />
@@ -159,7 +159,7 @@ class Form extends React.Component {
                 className='EnquiryForm--Input'
                 type='file'
                 placeholder='Upload Photo'
-                name='upload-headshot'
+                name='upload-photo'
                 onChange={event => this.handleUpload(event, 'headShot')}
                 required
               />
