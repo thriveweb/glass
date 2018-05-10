@@ -2,13 +2,14 @@ import React from 'react'
 import _kebabCase from 'lodash/kebabCase'
 import './FeaturedPosts.css'
 
+import { Link } from 'react-router-dom'
 import BackgroundImage from './BackgroundImage'
 
 export default({ posts }) => {
 
 	return <div className='section--featured-posts-items'>	
 		{posts.map((post, index) => {
-			return <a key={index} className='section--featured-posts-item' href={`/blog-post/${_kebabCase(post.title)}`}>
+			return <Link key={index} className='section--featured-posts-item' to={`/blog-post/${_kebabCase(post.title)}`}>
 				<BackgroundImage src={post.image} imageSize={400} />
 				<div className='section--featured-posts-item-content'>
 					{post.collection && <p className='post-category'>{post.collection}</p>}
@@ -19,7 +20,7 @@ export default({ posts }) => {
 						{post.date && <p className='date title'>{post.date}</p>}
 					</div>
 				</div>
-			</a>
+			</Link>
 		})}
 	</div>
 }

@@ -1,6 +1,7 @@
 import React from 'react'
 import './FeaturedPosts.css'
 
+import { Link } from 'react-router-dom'
 import FeaturedPost from './FeaturedPost'
 
 
@@ -22,7 +23,7 @@ export default ({ featuredPosts, posts, postCategory, selectedCategory }) => {
 					{subTitle && <p className='title'>{subTitle}</p>}
 					{title && <h2>{title}</h2> }
 				</div>	
-				<a className='archive-link title' href='/blog'>All News <span>&rarr;</span></a>
+				<Link className='archive-link title' to='/blog'>All News <span>&rarr;</span></Link>
 				<FeaturedPost posts={filteredPosts} />
 			</div>
 		</section>
