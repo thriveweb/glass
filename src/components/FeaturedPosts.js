@@ -22,7 +22,7 @@ export default ({ featuredPosts, posts, postCategory, selectedCategory }) => {
 					{subTitle && <p className='title'>{subTitle}</p>}
 					{title && <h2>{title}</h2> }
 				</div>	
-				<a className='archive-link title' href='/'>All News <span>&rarr;</span></a>
+				<a className='archive-link title' href='/blog'>All News <span>&rarr;</span></a>
 				<FeaturedPost posts={filteredPosts} />
 			</div>
 		</section>
