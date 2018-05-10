@@ -26,8 +26,10 @@ class Nav extends Component {
 		})
 	}
 
-	componentDidMount() {
+	componentDidMount = () => {
 		document.addEventListener('scroll', () => {
+			console.log('test')
+
 			if(window.pageYOffset > 20 && !this.state.navActive) {
 				this.setState({
 					navActive: true
@@ -40,9 +42,11 @@ class Nav extends Component {
 		})
 	}
 
+
 	render() {
 		const { header, modelTypes=[] } = this.props
 		const { mobileActive, navActive, menuItemActive } = this.state
+
 
 		return (
 			<nav className={`nav ${navActive ? 'active' : ''} ${mobileActive ? 'mobile-active' : ''}`}>

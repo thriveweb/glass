@@ -12,9 +12,7 @@ export default ({ featuredPosts, posts, postCategory, selectedCategory }) => {
 	})
 
 	const filteredPosts = [...posts].filter(post  => {
-		if(featuredPostTitles.indexOf(post.title) > -1) {
-			return post
-		}
+		return featuredPostTitles.indexOf(post.title) > -1
 	})
 
 	return !!filteredPosts.length && 

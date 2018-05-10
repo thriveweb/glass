@@ -8,8 +8,22 @@ import PostCategory from './PostCategory'
 
 class Posts extends Component {
 
+	constructor(props) {
+	    super(props);
+	    this.state = {
+	      activePage: 10
+	    };
+	}
+	 
+	handlePageChange(pageNumber) {
+	    this.setState({
+	    	activePage: pageNumber
+	    });
+	}
+
 	render() {
 		const { posts, postCategories, subTitle, selectedCategory } = this.props
+
 
 		const filteredPosts = [...posts].filter(post => {
 			const collectionName = _kebabCase(post.collection)
@@ -24,6 +38,15 @@ class Posts extends Component {
 				</div>
 				<PostCategory postCategories={postCategories} selectedCategory={selectedCategory} />
 				{filteredPosts && <FeaturedPost posts={filteredPosts} />}
+				<div className='pagination'>
+					<Pagination
+			          activePage={this.state.activePage}
+			          itemsCountPerPage={9}
+			          totalItemsCount={450}
+			          pageRangeDisplayed={5}
+			          onChange={this.handlePageChange}
+			        />
+			    </div>    
 			</div>		
 		</section>
 	}

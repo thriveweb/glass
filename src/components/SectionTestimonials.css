@@ -19,6 +19,11 @@
 	color: var(--secondary);
 }
 
+.section--testimonials-item {
+	background-color: white;
+	padding: 0 5rem 5rem;
+}
+
 .section--testimonials-item h2 {
 	font-size: 3.2em;
 	margin: 0 0 2rem;
@@ -55,6 +60,10 @@
 
 .slick-slide, .slick-slide * { 
 	outline: none !important; 
+}
+
+.swiper-pagination-bullet-active {
+	background-color: var(--secondary) !important; 
 }
 
 @media only screen and (max-width: 850px) {

@@ -16,12 +16,17 @@ class SimpleSlider extends Component {
 		const { title, testimonial } = testimonials
 
 		const settings = {
-		  dots: true,
-		  infinite: true,
-		  speed: 200,
-		  fade: true,
-		  cssEase: 'linear',
-		  autoplay: true
+	      spaceBetween: 30,
+	      effect: 'fade',
+	      loop: true,
+	      autoplay: {
+	        delay: 3500,
+	        disableOnInteraction: false
+	      },
+	      pagination: {
+	        el: '.swiper-pagination',
+	        clickable: true
+	      },
 	    };
 
 		return (
@@ -34,7 +39,7 @@ class SimpleSlider extends Component {
 							return <div key={`testimonial-${index}`} className='section--testimonials-item testimonial-slide'>
 								{singleTestimonial.title && <h2>{singleTestimonial.title}</h2>}
 								{singleTestimonial.content && <p className='section--testimonials-item-content'>{singleTestimonial.content}</p>}
-								{singleTestimonial.logo && <LazyImage src={`${singleTestimonial.logo}`} imageSize='300' />}
+								{singleTestimonial.logo && <LazyImage src={`${singleTestimonial.logo}`} alt={title} imageSize='300' />}
 								{singleTestimonial.name && <p className='title'>{singleTestimonial.name}</p>}
 							</div>
 						})}

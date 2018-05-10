@@ -5,8 +5,6 @@ import './NavList.css'
 
 export default ({modelTypes, handleSelect, selectedModelType}) => {
 
-	console.log(selectedModelType)
-
 	return <ul className='nav--list-items'>
 			{modelTypes.map(modelType => {
 				return <li

@@ -9,7 +9,7 @@ export default ({ columns }) =>
 		{columns.map(column => {
 			return <div key={`${column.title}`} className={`section--columns-item ${!column.leftAlign ? 'column-right' : ''}`}>
 				<div className='container skinny'>
-					{ column.image && <LazyImage src={`${column.image}`} /> }
+					{ column.image && <LazyImage src={`${column.image}`} alt={column.title} /> }
 					<div className='section--columns-item-content'>
 						{ column.title && <p className='title'>{column.title}</p> }
 						{ column.content && <h2>{column.content}</h2> }

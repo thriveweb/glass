@@ -75,9 +75,9 @@ class App extends Component {
       facebook,
       linkedin,
       instagram,
-      phone,
-      address,
-      email,
+      // phone,
+      // address,
+      // email,
       footer,
       headerScripts,
       header,
@@ -168,68 +168,69 @@ class App extends Component {
               path='/blog/:postCategory'
               exact
               render={props => {
-                return postCategories.map(selectedCategory => {
-                  if(selectedCategory.name === props.match.params.postCategory) {
-                    return <Blog 
-                      page={this.getDocument('pages', 'blog')}
-                      posts={posts}
-                      postCategories={postCategories}
-                      selectedCategory={selectedCategory} 
-                      globalSettings={globalSettings} 
-                      {...props}
-                    />
-                  }
+                const category = postCategories.find(selectedCategory => {
+                    return selectedCategory.name === props.match.params.postCategory
                 })
+
+                return <Blog 
+                  page={this.getDocument('pages', 'blog')}
+                  posts={posts}
+                  postCategories={postCategories}
+                  selectedCategory={category} 
+                  globalSettings={globalSettings} 
+                  {...props}
+                />
+
               }}
             />
             <Route
               path='/models/:modelType'
               exact
               render={props => {
-                return modelTypes.map(selectedModelType => {                  
-                  if(selectedModelType.name === props.match.params.modelType) {
-                    return <Models 
-                      page={this.getDocument('pages', 'models')}
-                      modelTypes={modelTypes}
-                      globalSettings={globalSettings}
-                      selectedModelType={selectedModelType}
-                      models={models}
-                      {...props}
-                    />
-                  }
+                const modelType = modelTypes.find(selectedModelType => {                  
+                  return selectedModelType.name === props.match.params.modelType
                 })
+
+                return <Models 
+                  page={this.getDocument('pages', 'models')}
+                  modelTypes={modelTypes}
+                  globalSettings={globalSettings}
+                  selectedModelType={modelType}
+                  models={models}
+                  {...props}
+                />
               }}
             />
             <Route
               path='/model/:model'
               exact
               render={props => {
-                return models.map(model => {                  
-                  if(_kebabCase(model.title) === props.match.params.model) {
-                    return <Model 
-                      globalSettings={globalSettings}
-                      models={models}
-                      model={model}
-                      {...props}
-                    />
-                  }
+                const singleModel = models.find(model => {                  
+                  return _kebabCase(model.title) === props.match.params.model
                 })
+
+                return <Model 
+                  globalSettings={globalSettings}
+                  models={models}
+                  model={singleModel}
+                  {...props}
+                />
               }}
             />
             <Route
               path='/blog-post/:post'
               exact
               render={props => {
-                return posts.map(post => {                  
-                  if(_kebabCase(post.title) === props.match.params.post) {
-                    return <BlogPost 
-                      globalSettings={globalSettings}
-                      posts={posts}
-                      post={post}
-                      {...props}
-                    />
-                  }
+                const post = posts.map(post => {                  
+                  return _kebabCase(post.title) === props.match.params.post
                 })
+                
+                return <BlogPost 
+                  globalSettings={globalSettings}
+                  posts={posts}
+                  post={post}
+                  {...props}
+                />
               }}
             />
             <Route render={() => <NoMatch siteUrl={siteUrl} />} />

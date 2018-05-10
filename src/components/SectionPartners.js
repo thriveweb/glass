@@ -8,7 +8,7 @@ export default ({ partners }) =>
 		<div className='container skinny'>
 			{partners.map((partner, index) => {
 				return <div key={`partner-${index}`} className='section--partners-icon'>
-					<LazyImage src={`${partner.image}`} />
+					<LazyImage src={`${partner.image}`} alt='logo' />
 				</div>
 			})}
 		</div>

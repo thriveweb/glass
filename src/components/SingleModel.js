@@ -8,28 +8,48 @@ import './SingleModel.css'
 
 class AsNavFor extends Component {
 
-	constructor(props) {
-	    super(props);
-	    this.state = {
-	    	nav1: null,
-	    	nav2: null
-	    };
-	}
+      constructor(props) {
+        super(props);
+        this.state = {
+          gallerySwiper: null,
+          thumbnailSwiper: null
+        };
+    
+        this.galleryRef = this.galleryRef.bind(this);
+        this.thumbRef = this.thumbRef.bind(this);
+      }
+    
+      componentWillUpdate(nextProps, nextState) {
+        if (nextState.gallerySwiper && nextState.thumbnailSwiper) {
+          const { gallerySwiper, thumbnailSwiper } = nextState
+    
+          gallerySwiper.controller.control = thumbnailSwiper;
+          thumbnailSwiper.controller.control = gallerySwiper;
+        }
+      }
+    
+      galleryRef(ref) {
+        if (ref) this.setState({ gallerySwiper: ref.swiper })
+      }
+    
+      thumbRef(ref) {
+        if (ref) this.setState({ thumbnailSwiper: ref.swiper })
+      }
 
-	state = {
-		nav1: null,
-		nav2: null
-	}
-
-	componentDidMount() {
-		this.setState ({
-			nav1: this.slider1,
-			nav2: this.slider2
-		})
-	}
 
 	render() {
 		const { firstName, lastName, modelSpecs, imagePortfolio, collection } = this.props
+
+		const gallerySwiperParams = {
+
+        }
+    
+        const thumbnailSwiperParams = {
+          centeredSlides: true,
+          slidesPerView: 4,
+          touchRatio: 0.2,
+          slideToClickedSlide: true,
+        }
 
 	    return (		
 		    <section className='section--model-profile'>
@@ -46,9 +66,9 @@ class AsNavFor extends Component {
 						})}
 					</div>
 					<div className='section--model-profile-images'>
-						<Slider className='section--model-profile-slider'
-							asNavFor={this.state.nav2}
-          					ref={slider => (this.slider1 = slider)}
+						<Slider 
+							{...gallerySwiperParams} 
+							ref={this.galleryRef}
 						>
 							{ imagePortfolio.map((portfolioItem, index) => {
 								return <div key={`slider-${index}`} className='section--model-profile-slide'>
@@ -56,16 +76,12 @@ class AsNavFor extends Component {
 								</div>
 							})}
 						</Slider>
-						<Slider className='section--model-profile-slider-nav center' 
-							asNavFor={this.state.nav1}
-          					ref={slider => (this.slider2 = slider)}
-          					slidesToShow={imagePortfolio.length < 3 ? imagePortfolio.length : 3}
-					        swipeToSlide={true}
-					        focusOnSelect={true}
-					        
+						<Slider 
+							{...thumbnailSwiperParams} 
+							ref={this.thumbRef}
           				>
 							{ imagePortfolio.map((portfolioItem, index) => {
-								return <div key={`slider-nav-${index}`} className='section--model-profile-slide'>
+								return <div key={`slider-nav-${index}`} className='section--model-profile-nav-slide'>
 									<BackgroundImage src={portfolioItem.image} />
 								</div>
 							})}
