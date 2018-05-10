@@ -59,14 +59,32 @@
 	flex: 0 0 65%;
 }
 
+.section--model-profile-images .portfolio-images-slider {
+	position: relative;
+	height: 60rem;
+	margin-bottom: 50px;
+	display: block;
+}
+
 .section--model-profile-images .profile-images-nav {
 	position: relative;
-	/*overflow: hidden;*/
-	/*white-space: nowrap;*/
+	overflow: hidden;
+	white-space: nowrap;
 }
 
 .section--model-profile-slide {
-	padding-bottom: 60rem;
+	/*padding-bottom: 60rem;*/
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: all ease-in-out	0.2s;
+}
+
+.section--model-profile-slide.active {
+	opacity: 1;
 }
 
 .section--model-profile-nav-slide {

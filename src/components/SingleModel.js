@@ -7,19 +7,24 @@ import './SingleModel.css'
 
 
 class AsNavFor extends Component {
+	constructor(props) {
+		super(props)
+		this.slideNavRef = React.createRef()
 
-      state = {
+		this.state = {
+			activeModel: 0
+		}
+	}
 
-      }
-    
-      galleryRef(ref) {
-        if (ref) this.setState({ gallerySwiper: ref.swiper })
-      }
-    
-      thumbRef(ref) {
-        if (ref) this.setState({ thumbnailSwiper: ref.swiper })
-      }
+	handleSlideNav = (direction) => {
+		const sliderNav = this.slideNavRef.current
+		const sliderWidth = sliderNav.offsetWidth
 
+		sliderNav.scrollLeft = direction 
+			? sliderNav.scrollLeft + sliderWidth
+			: sliderNav.scrollLeft - sliderWidth
+	}
+	
 
 	render() {
 		const { firstName, lastName, modelSpecs, imagePortfolio, collection } = this.props
@@ -39,13 +44,36 @@ class AsNavFor extends Component {
 						})}
 					</div>
 					<div className='section--model-profile-images'>
-						<div className='profile-images-nav'>
+						<div className='portfolio-images-slider'>
 							{imagePortfolio.map((portfolioItem, index) => {
-								return <div key={`slider-nav-${index}`} className='section--model-profile-nav-slide'>
+								return <div 
+									key={`slider-nav-${index}`} 
+									className={`section--model-profile-slide ${this.state.activeModel === index 
+										? 'active'
+										: ''
+									}`}
+								>
 									<BackgroundImage src={portfolioItem.image} />
 								</div>
 							})}
 						</div>
+						
+						<span onClick={() => this.handleSlideNav(0)}>Previous</span>
+
+						<div className='profile-images-nav' ref={this.slideNavRef}>
+							{imagePortfolio.map((portfolioItem, index) => {
+								return <div 
+									key={`slider-nav-${index}`} 
+									className='section--model-profile-nav-slide'
+									onClick={() => this.setState({activeModel: index})}
+								>
+									<BackgroundImage src={portfolioItem.image} />
+								</div>
+							})}
+						</div>
+						
+						<span onClick={() => this.handleSlideNav(1)}>Next</span>
+
 					</div>
 				</div>
 			</section>
