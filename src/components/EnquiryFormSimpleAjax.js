@@ -3,7 +3,7 @@ import { stringify } from 'qs'
 import { serialize } from 'dom-form-serializer'
 
 import './EnquiryForm.css'
-import './JoinUs.css'
+import '../views/JoinUs.css'
 
 const fetch = window.fetch
 
