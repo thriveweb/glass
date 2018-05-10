@@ -6,7 +6,7 @@ content: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 buttonText: See our Models
-buttonUrl: 'http://google.com'
+buttonUrl: '#'
 gallery:
   galleryImages:
     - image: /images/uploads/thumbnail-example.png
@@ -34,7 +34,7 @@ about:
     All the Lorem Ipsum generators on the Internet tend to repeat predefined
     chunks as necessary, making this the first true generator on the Internet.
   buttonText: Why Choose Us
-  buttonUrl: 'http://google.com'
+  buttonUrl: '#'
 testimonials:
   testimonial:
     - title: Perfect Partner
