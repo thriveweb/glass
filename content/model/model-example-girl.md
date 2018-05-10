@@ -1,5 +1,5 @@
 ---
-title: Model Example Girl
+title: Model Name Girl
 featuredImage: /images/uploads/caique-silva-341076-unsplash.png
 imageThumbnail: /images/uploads/alexandru-zdrobau-200768-unsplash.png
 firstName: Model
