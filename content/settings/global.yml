@@ -17,17 +17,17 @@ header:
 footer:
   footerNav:
     - buttonText: Become a Model
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
     - buttonText: About Us
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
     - buttonText: FAQ
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
     - buttonText: Book Models
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
     - buttonText: Get in Touch
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
     - buttonText: Terms & Conditions
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
   title: Information
 partners:
   - image: /images/uploads/TSS-Logo.png
