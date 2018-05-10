@@ -20,7 +20,7 @@ class SimpleSlider extends Component {
 	      effect: 'fade',
 	      loop: true,
 	      autoplay: {
-	        delay: 3500,
+	        delay: 8000,
 	        disableOnInteraction: false
 	      },
 	      pagination: {
