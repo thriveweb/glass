@@ -14,19 +14,21 @@
 .pagination li span {
 	padding: 1rem;
 	font-size: 1em;
-	color: var(--secondary);
+	color: var(--primary);
 	cursor: pointer;
 	transition: all ease-in-out 0.2s;
 }
 
-.pagination li span.active-link {
-	color: var(--primary);
+.pagination li span.no-hover {
+	cursor: text;
+	color: var(--secondary);
 }
 
-/*.pagination li span {
+.pagination li span.active-link {
 	color: var(--secondary);
-}*/
+	cursor: text;
+}
 
-.pagination li span:hover {
+.pagination li span.active:hover {
 	color: var(--secondary);
 }

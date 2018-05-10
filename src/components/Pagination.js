@@ -20,6 +20,7 @@ class Pagination extends Component {
 				<li>
 					<span 
 						onClick={() => pageNumber - 1 > 0 && this.handlePageLink(`?page=${pageNumber - 1}`)}
+						className={pageNumber - 1 > 0 ? 'active' : 'no-hover'}
 					>
 						&#8592;
 					</span>
@@ -39,6 +40,7 @@ class Pagination extends Component {
 				<li>
 					<span 
 						onClick={() => pageNumber + 1 <= pageCount && this.handlePageLink(`?page=${pageNumber + 1}`)}
+						className={pageNumber + 1 <= pageCount ? 'active' : 'no-hover'}
 					>
 						&#8594;
 					</span>

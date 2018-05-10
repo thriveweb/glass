@@ -68,7 +68,10 @@ class AsNavFor extends Component {
 							{imagePortfolio.map((portfolioItem, index) => {
 								return <div 
 									key={`slider-nav-${index}`} 
-									className='section--model-profile-nav-slide'
+									className={`section--model-profile-nav-slide ${this.state.activeModel === index 
+										? 'active'
+										: ''
+									}`}
 									onClick={() => this.setState({activeModel: index})}
 								>
 									{portfolioItem.image && <BackgroundImage src={portfolioItem.image} imageSize={300} />}

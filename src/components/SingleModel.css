@@ -97,6 +97,11 @@
 	position: relative;
 	width: 25%;
 	display: inline-block;
+	filter: grayscale(100%);
+}
+
+.section--model-profile-nav-slide.active {
+	filter: grayscale(0%);
 }
 
 .navigation {
