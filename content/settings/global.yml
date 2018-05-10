@@ -17,15 +17,15 @@ header:
 footer:
   footerNav:
     - buttonText: Become a Model
-      buttonUrl: '#'
+      buttonUrl: join-us
     - buttonText: About Us
-      buttonUrl: '#'
+      buttonUrl: about
     - buttonText: FAQ
       buttonUrl: '#'
     - buttonText: Book Models
-      buttonUrl: '#'
+      buttonUrl: contact
     - buttonText: Get in Touch
-      buttonUrl: '#'
+      buttonUrl: contact
     - buttonText: Terms & Conditions
       buttonUrl: '#'
   title: Information
