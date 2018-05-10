@@ -28,6 +28,8 @@ class ImageGallery extends Component {
 						updateOnEachImageLoad={false} // default false and works only if disableImagesLoaded is false
 					>
 						{galleryImages.map((galleryItem, index) => {
+
+							console.log(galleryItem)
 							return <a href='/' key={galleryItem.title} className='section--image-gallery-item'>
 								{ galleryItem.image && <BackgroundImage src={galleryItem.image} imageSize='800' /> }
 								<h3 className='title-fancy'>{galleryItem.title}</h3>
