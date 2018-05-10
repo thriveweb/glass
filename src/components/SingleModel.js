@@ -38,7 +38,9 @@ class AsNavFor extends Component {
 	    return (		
 		    <section className='section--model-profile'>
 				<div className='container'>
-					<Link className='archive-link title' to={`/models/${collection.toLowerCase()}`}><span>&larr;</span> Back to All</Link>
+					<div className='archive-link title'>
+						<Link  to={`/models/${collection.toLowerCase()}`}><span>&larr;</span> Back to All</Link>
+					</div>	
 					<div className='section--model-profile-info'>
 						{ firstName && lastName && <h2>{firstName} {lastName}</h2> }
 						{ collection && <p className='category title'>{collection}</p> }

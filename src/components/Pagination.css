@@ -1,5 +1,26 @@
 .pagination {
+	flex: 0 0 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	padding: 0;
+	margin: 0;
+}
+
+.pagination li {
+	list-style-type: none;
+}
+
+.pagination li span, .pagination li a {
+	padding: 1rem;
+	font-size: 1em;
+	color: var(--primary);
+}
+
+.pagination li span {
+	color: var(--secondary);
+}
+
+.pagination li a:hover {
+	color: var(--secondary);
 }

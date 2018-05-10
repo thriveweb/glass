@@ -11,16 +11,21 @@
 .section--model-profile .archive-link {
 	flex: 0 0 100%;
 	margin-bottom: 6rem;
-	display: flex;
-	align-items: center;
+}
+
+.section--model-profile .archive-link a {
+	display: inline-block;
 	padding: .5rem;
+	color: var(--secondary);
+	font-size: 12px;
 }
 
 .section--model-profile .archive-link span {
 	font-size: 1.4em;
+	transition: inherit;
 }
 
-.section--model-profile .archive-link:hover, .section--model-profile .archive-link:hover span {
+.section--model-profile .archive-link a:hover, .section--model-profile .archive-link a:hover span {
 	color: var(--secondaryGrey);
 }
 
@@ -110,16 +115,21 @@
 	color: var(--secondary);
 }
 
-@media only screen and (max-width: 1030px) {
-	.section--model-profile-slide {
-		padding-bottom: 55vw;
+
+@media only screen and (max-width: 1400px) {
+	.section--model-profile-nav-slide {
+		padding-bottom: 15vw;
+	}
+
+	.section--model-profile-images .portfolio-images-slider {
+		height: 40vw;
 	}
 }
 
 @media only screen and (max-width: 900px) {
 	.section--model-profile-images {
-		flex: 0 0 90%;
-		max-width: 90%;
+		flex: 0 0 100%;
+		max-width: 100%;
 	}
 
 	.section--model-profile-info {
@@ -139,15 +149,16 @@
 		flex: 0 0 100%;
 	}
 
-	.section--model-profile-slide {
-		height: 56.25%;
+	.section--model-profile-nav-slide {
+		padding-bottom: 20vw;
+	}
+
+	.section--model-profile-images .portfolio-images-slider {
+		height: 60vw;
 	}
 }
 
 @media only screen and (max-width: 600px) {
-	.section--model-profile-slider-nav .section--model-profile-slide {
-		padding-bottom: 30vw;
-	}
 
 	.section--model-profile-images {
 		flex: 0 0 100%;

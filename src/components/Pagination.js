@@ -15,8 +15,8 @@ class Pagination extends Component {
 			<ul className='pagination'>
 				<li>
 					{pageNumber - 1 > 0 
-						? <Link to={`?page=${pageNumber - 1}`}>Previous</Link> 
-						: <span>Previous</span>
+						? <Link to={`?page=${pageNumber - 1}`}>&#8592;</Link> 
+						: <span>&#8592;</span>
 					}
 				</li>
 				
@@ -31,8 +31,8 @@ class Pagination extends Component {
 
 				<li>
 					{pageNumber + 1 <= pageCount
-						? <Link to={`?page=${pageNumber + 1}`}>Previous</Link> 
-						: <span>Previous</span>
+						? <Link to={`?page=${pageNumber + 1}`}>&#8594;</Link> 
+						: <span>&#8594;</span>
 					}
 				</li>
 			</ul>
