@@ -9,7 +9,7 @@ buttonText: See our Models
 buttonUrl: 'http://google.com'
 gallery:
   galleryImages:
-    - image: /images/uploads/dmitriy-ilkevich-449328-unsplash.png
+    - image: /images/uploads/thumbnail-example.png
       title: Women
     - image: /images/uploads/attractive-black-and-white-boy-25733.png
       title: Men
