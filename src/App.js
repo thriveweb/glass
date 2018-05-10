@@ -109,7 +109,7 @@ class App extends Component {
             <Route
               path='/'
               exact
-              render={props => (
+              component={props => (
                 <Home 
                   page={this.getDocument('pages', 'home')} 
                   globalSettings={globalSettings}
@@ -133,7 +133,7 @@ class App extends Component {
             <Route
               path='/contact'
               exact
-              render={props => (
+              component={props => (
                 <Contact 
                   page={this.getDocument('pages', 'contact')}
                   globalSettings={globalSettings}
@@ -144,7 +144,7 @@ class App extends Component {
             <Route
               path='/join-us'
               exact
-              render={props => (
+              component={props => (
                 <JoinUs 
                   page={this.getDocument('pages', 'join-us')}
                   {...props} 
@@ -188,7 +188,7 @@ class App extends Component {
             <Route
               path='/models/:modelType'
               exact
-              render={props => {
+              component={props => {
                 const modelType = modelTypes.find(selectedModelType => {                  
                   return selectedModelType.name === props.match.params.modelType
                 })
@@ -206,7 +206,7 @@ class App extends Component {
             <Route
               path='/model/:model'
               exact
-              render={props => {
+              component={props => {
                 const singleModel = models.find(model => {                  
                   return _kebabCase(model.title) === props.match.params.model
                 })
@@ -222,7 +222,7 @@ class App extends Component {
             <Route
               path='/blog-post/:post'
               exact
-              render={props => {
+              component={props => {
                 const post = posts.map(post => {                  
                   return _kebabCase(post.title) === props.match.params.post
                 })
@@ -235,7 +235,7 @@ class App extends Component {
                 />
               }}
             />
-            <Route render={() => <NoMatch siteUrl={siteUrl} />} />
+            <Route component={() => <NoMatch siteUrl={siteUrl} />} />
           </Switch>
           <Footer 
             title={footer.title} 
