@@ -63,7 +63,7 @@ featuredPosts:
   blogPosts:
     - collection: What Did Reed Krakoff Walk Away from?
     - collection: Why Did Reed Krakoff Walk Away from His Brand?
-    - collection: How heritage fashion houses are drawing inspiration from history
+    - collection: Example Single Post
   subTitle: Our Journal
   title: Read Our Latest News
 ---
