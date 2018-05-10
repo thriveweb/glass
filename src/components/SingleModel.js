@@ -20,9 +20,15 @@ class AsNavFor extends Component {
 		const sliderNav = this.slideNavRef.current
 		const sliderWidth = sliderNav.offsetWidth
 
-		sliderNav.scrollLeft = direction 
+		const scrollPos = direction 
 			? sliderNav.scrollLeft + sliderWidth
 			: sliderNav.scrollLeft - sliderWidth
+
+		sliderNav.scroll({
+		  top: 0, 
+		  left: scrollPos, 
+		  behavior: 'smooth' 
+		})
 	}
 	
 
@@ -57,9 +63,6 @@ class AsNavFor extends Component {
 								</div>
 							})}
 						</div>
-						
-						<span onClick={() => this.handleSlideNav(0)}>Previous</span>
-
 						<div className='profile-images-nav' ref={this.slideNavRef}>
 							{imagePortfolio.map((portfolioItem, index) => {
 								return <div 
@@ -71,9 +74,10 @@ class AsNavFor extends Component {
 								</div>
 							})}
 						</div>
-						
-						<span onClick={() => this.handleSlideNav(1)}>Next</span>
-
+						<div className='navigation'>
+							<span className='nav-link' onClick={() => this.handleSlideNav(0)}>&#8592;</span>
+							<span className='nav-link' onClick={() => this.handleSlideNav(1)}>&#8594;</span>
+						</div>
 					</div>
 				</div>
 			</section>

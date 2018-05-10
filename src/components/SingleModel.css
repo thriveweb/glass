@@ -62,7 +62,7 @@
 .section--model-profile-images .portfolio-images-slider {
 	position: relative;
 	height: 60rem;
-	margin-bottom: 50px;
+	margin-bottom: .5rem;
 	display: block;
 }
 
@@ -70,10 +70,10 @@
 	position: relative;
 	overflow: hidden;
 	white-space: nowrap;
+	transition: all ease-in-out 5s;
 }
 
 .section--model-profile-slide {
-	/*padding-bottom: 60rem;*/
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -92,6 +92,22 @@
 	position: relative;
 	width: 25%;
 	display: inline-block;
+}
+
+.navigation {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.navigation .nav-link {
+	padding: 1rem;
+	font-size: 2.3rem;
+	cursor: pointer;
+	transition: all ease-in-out .2s;
+}
+
+.navigation .nav-link:hover {
+	color: var(--secondary);
 }
 
 @media only screen and (max-width: 1030px) {
