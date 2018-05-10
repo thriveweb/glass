@@ -7,29 +7,27 @@ siteDescription: |+
 phone: 0712 345 678
 email: info@glassmanagement.com.au
 address: '123 Burleigh Rd, Burleigh Heads QLD, Australia'
-latitude: ''
-longitude: ''
 twitter: 'http://www.twitter.com'
 facebook: 'http://www.facebook.com'
 linkedin: 'http://www.linkedin.com'
 instagram: 'http://www.instagram.com'
 header:
   buttonText: Book Models
-  buttonUrl: 'http://google.com'
+  buttonUrl: 'https://glass.netlify.com/contact'
 footer:
   footerNav:
     - buttonText: Become a Model
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
     - buttonText: About Us
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
     - buttonText: FAQ
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
     - buttonText: Book Models
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
     - buttonText: Get in Touch
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
     - buttonText: Terms & Conditions
-      buttonUrl: 'http://google.com'
+      buttonUrl: '#'
   title: Information
 partners:
   - image: /images/uploads/TSS-Logo.png
