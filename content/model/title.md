@@ -1,9 +1,9 @@
 ---
-title: Models Name 1
+title: Single Model Example
 featuredImage: /images/uploads/single-banner.jpg
 imageThumbnail: /images/uploads/thumbnail-example.png
-firstName: Model Really Long
-lastName: Name
+firstName: Single Model
+lastName: ' Example'
 collection: Women
 modelSpecs:
   - content: 175 cm/5'9"
