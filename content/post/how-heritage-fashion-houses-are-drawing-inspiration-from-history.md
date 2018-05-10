@@ -1,5 +1,5 @@
 ---
-title: How heritage fashion houses are drawing inspiration from history
+title: Example Single Post
 image: /images/uploads/flaunter-com-237609-unsplash.png
 collection: Fashion
 author: Lewis Bennett
