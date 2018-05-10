@@ -26,5 +26,8 @@ imagePortfolio:
   - image: /images/uploads/jernej-graj-620022-unsplash.png
   - image: /images/uploads/antony-sastre-631199-unsplash.png
   - image: /images/uploads/brooke-cagle-65608-unsplash.png
+  - image: /images/uploads/Bitmap Copy.png
+  - image: /images/uploads/boy.jpg
+  - image: /images/uploads/Bitmap Copy 6.png
 ---
 
