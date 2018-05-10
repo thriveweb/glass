@@ -1,6 +1,7 @@
 import React from 'react'
-
 import './Footer.css'
+
+import { Link } from 'react-router-dom'
 import {ICONTwitter, ICONFacebook, ICONLinkedin, ICONInstagram} from './Icons'
 import SignupFormSimpleAjax from './SignupFormSimpleAjax'
 
@@ -15,7 +16,7 @@ export default ({twitter, facebook, linkedin, instagram, title, footerNav, butto
         <div className='footer--nav-items'>
           {footerNav.map (navItem => {
             return (
-              <a key={navItem.buttonText} href={`${navItem.buttonUrl}`}>{navItem.buttonText}</a>
+              <Link key={navItem.buttonText} to={`${navItem.buttonUrl}`}>{navItem.buttonText}</Link>
             )
           })}
         </div>

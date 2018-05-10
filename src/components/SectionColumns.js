@@ -1,7 +1,9 @@
 import React from 'react'
-
-import LazyImage from './LazyImage'
 import './SectionColumns.css'
+
+import { Link } from 'react-router-dom'
+import LazyImage from './LazyImage'
+
 
 export default ({ columns }) =>
 
@@ -13,7 +15,7 @@ export default ({ columns }) =>
 					<div className='section--columns-item-content'>
 						{ column.title && <p className='title'>{column.title}</p> }
 						{ column.content && <h2>{column.content}</h2> }
-						{ column.buttonTitle && column.buttonUrl && <a className='button button-black' href={`${column.buttonUrl}`}>{column.buttonTitle}</a> }
+						{ column.buttonTitle && column.buttonUrl && <Link className='button button-black' to={`${column.buttonUrl}`}>{column.buttonTitle}</Link> }
 					</div>
 				</div>	
 			</div>

@@ -1,7 +1,9 @@
 import React from 'react'
-
-import LazyImage from './LazyImage'
 import './SectionAbout.css'
+
+import { Link } from 'react-router-dom'
+import LazyImage from './LazyImage'
+
 
 export default ({ about }) => {
 	
@@ -14,7 +16,7 @@ export default ({ about }) => {
 					<p className='title'>{subTitle}</p>
 					<h2>{title}</h2>
 					<p>{content}</p>
-					<a className='button' href={`${buttonUrl}`}>{buttonText}</a>
+					<Link className='button' to={`${buttonUrl}`}>{buttonText}</Link>
 				</div>
 			</div>
 		</section>

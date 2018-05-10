@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import './ImageGallery.css'
+import _kebabCase from 'lodash/kebabCase'
+import { Link } from 'react-router-dom'
 import Masonry from 'react-masonry-component';
 import BackgroundImage from './BackgroundImage'
 
@@ -28,12 +30,10 @@ class ImageGallery extends Component {
 						updateOnEachImageLoad={false} // default false and works only if disableImagesLoaded is false
 					>
 						{galleryImages.map((galleryItem, index) => {
-
-							console.log(galleryItem)
-							return <a href='/' key={galleryItem.title} className='section--image-gallery-item'>
+							return <Link to={`/models/${_kebabCase(galleryItem.title)}`} key={galleryItem.title} className='section--image-gallery-item'>
 								{ galleryItem.image && <BackgroundImage src={galleryItem.image} imageSize='800' /> }
 								<h3 className='title-fancy'>{galleryItem.title}</h3>
-							</a>
+							</Link>
 						})}
 					</Masonry>
 				</div>	
