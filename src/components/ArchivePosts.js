@@ -9,7 +9,7 @@ import Pagination from './Pagination'
 
 class Posts extends Component {
 	render() {
-		const { posts, postCategories, subTitle, selectedCategory, pageSearch } = this.props
+		const { posts, postCategories, subTitle, selectedCategory, pageSearch, history } = this.props
 
 		const filteredPosts = [...posts].filter(post => {
 			const collectionName = _kebabCase(post.collection)
@@ -18,6 +18,7 @@ class Posts extends Component {
 
 		const pageNumber = pageSearch ? parseInt(pageSearch.replace('?page=', '')) : 1
 		const paginatedPosts = filteredPosts.slice((9 * (pageNumber - 1)), (9 * pageNumber))
+
 
 		return <section className='section--featured-posts archive--posts'>
 			<div className='container'>
@@ -31,6 +32,7 @@ class Posts extends Component {
 					items={filteredPosts}
 					itemsPer={9}
 					pageNumber={pageNumber}
+					history={history}
 				/>   
 			</div>		
 		</section>

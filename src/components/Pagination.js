@@ -7,6 +7,11 @@ class Pagination extends Component {
 
 	}
 
+	handlePageLink = (queryString) => {
+		const { history } = this.props
+		history.push(queryString)
+	}
+
 	render() {
 		const { items, itemsPer, pageNumber } = this.props
 		const pageCount = Math.ceil(items.length / itemsPer)
@@ -14,26 +19,30 @@ class Pagination extends Component {
 		return (
 			<ul className='pagination'>
 				<li>
-					{pageNumber - 1 > 0 
-						? <Link to={`?page=${pageNumber - 1}`}>&#8592;</Link> 
-						: <span>&#8592;</span>
-					}
+					<span 
+						onClick={() => pageNumber - 1 > 0 && this.handlePageLink(`?page=${pageNumber - 1}`)}
+					>
+						&#8592;
+					</span>
 				</li>
 				
 				{Array.from(Array(pageCount)).map((count, index) => 
 					<li key={index}>
 						{pageNumber === index + 1
 							? <span className='active-link'>{index + 1}</span>
-							: <Link to={`?page=${index + 1}`}>{index + 1}</Link>
+							: <span 
+								onClick={() => this.handlePageLink(`?page=${index + 1}`)}
+							>{index + 1}</span>
 						}
 					</li>
 				)}
 
 				<li>
-					{pageNumber + 1 <= pageCount
-						? <Link to={`?page=${pageNumber + 1}`}>&#8594;</Link> 
-						: <span>&#8594;</span>
-					}
+					<span 
+						onClick={() => pageNumber + 1 <= pageCount && this.handlePageLink(`?page=${pageNumber + 1}`)}
+					>
+						&#8594;
+					</span>
 				</li>
 			</ul>
 		)

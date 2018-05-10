@@ -11,16 +11,22 @@
 	list-style-type: none;
 }
 
-.pagination li span, .pagination li a {
+.pagination li span {
 	padding: 1rem;
 	font-size: 1em;
+	color: var(--secondary);
+	cursor: pointer;
+	transition: all ease-in-out 0.2s;
+}
+
+.pagination li span.active-link {
 	color: var(--primary);
 }
 
-.pagination li span {
+/*.pagination li span {
 	color: var(--secondary);
-}
+}*/
 
-.pagination li a:hover {
+.pagination li span:hover {
 	color: var(--secondary);
 }
