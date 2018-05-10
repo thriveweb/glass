@@ -7,6 +7,8 @@ import { ICONFacebook, ICONTwitter, ICONLinkedin } from './Icons'
 export default({ post }) => {
 	const { title, collection, author, date, content } = post
 
+	console.log(post)
+
 	return <section className='section--single-post'>
 			<div className='container'>
 				<div className='post-container'>

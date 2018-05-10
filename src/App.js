@@ -186,9 +186,7 @@ class App extends Component {
               path='/blog-post/:post'
               exact
               component={props => {
-                const post = posts.map(post => { 
-                  console.log(post.title)
-                  console.log(props.match.params.post)
+                const post = posts.find(post => { 
                   return _kebabCase(post.title) === props.match.params.post
                 })
                 
