@@ -13,7 +13,7 @@ linkedin: 'http://www.linkedin.com'
 instagram: 'http://www.instagram.com'
 header:
   buttonText: Book Models
-  buttonUrl: 'https://glass.netlify.com/contact'
+  buttonUrl: contact
 footer:
   footerNav:
     - buttonText: Become a Model
@@ -39,13 +39,13 @@ partners:
   - image: /images/uploads/seaworld logo.png
 columns:
   - buttonTitle: Book Models
-    buttonUrl: 'http://google.com'
+    buttonUrl: contact
     content: Book a Model For Your Next Project
     image: /images/uploads/kris-atomic-73935-unsplash.png
     leftAlign: true
     title: let’s collaborate
   - buttonTitle: Join Us
-    buttonUrl: 'http://google.com'
+    buttonUrl: join-us
     content: Start Your Modelling Career
     image: /images/uploads/matthew-kane-365718-unsplash.png
     title: Become a Model
