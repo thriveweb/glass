@@ -170,7 +170,7 @@ class App extends Component {
                     return selectedCategory && selectedCategory.name === props.match.params.postCategory
                 })
 
-                return <Blog 
+                return category ? <Blog 
                   page={this.getDocument('pages', 'blog')}
                   posts={posts}
                   postCategories={postCategories}
@@ -178,7 +178,7 @@ class App extends Component {
                   globalSettings={globalSettings} 
                   pageSearch={props.location.search}
                   {...props}
-                />
+                /> : <NoMatch siteUrl={siteUrl} />
 
               }}
             />
@@ -190,11 +190,11 @@ class App extends Component {
                   return _kebabCase(post.title) === props.match.params.post
                 })
                 
-                return <BlogPost 
+                return post ? <BlogPost 
                   globalSettings={globalSettings}
                   post={post}
                   {...props}
-                />
+                /> : <NoMatch siteUrl={siteUrl} />
               }}
             />
             <Route
@@ -205,14 +205,14 @@ class App extends Component {
                   return selectedModelType.name === props.match.params.modelType
                 })
 
-                return <Models 
+                return modelType ? <Models 
                   page={this.getDocument('pages', 'models')}
                   modelTypes={modelTypes}
                   globalSettings={globalSettings}
                   selectedModelType={modelType}
                   models={models}
                   {...props}
-                />
+                /> : <NoMatch siteUrl={siteUrl} />
               }}
             />
             <Route
@@ -223,12 +223,12 @@ class App extends Component {
                   return _kebabCase(model.title) === props.match.params.model
                 })
 
-                return <Model 
+                return singleModel ? <Model 
                   globalSettings={globalSettings}
                   models={models}
                   model={singleModel}
                   {...props}
-                />
+                /> : <NoMatch siteUrl={siteUrl} />
               }}
             />
             <Route component={() => <NoMatch siteUrl={siteUrl} />} />

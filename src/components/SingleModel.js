@@ -41,12 +41,12 @@ class AsNavFor extends Component {
 						<Link  to={`/models/${collection.toLowerCase()}`}><span>&larr;</span> Back to All</Link>
 					</div>	
 					<div className='section--model-profile-info'>
-						{ firstName && lastName && <h2>{firstName} {lastName}</h2> }
-						{ collection && <p className='category title'>{collection}</p> }
-						{ modelSpecs.map((spec, index) => {
+						{firstName && lastName && <h2>{firstName} {lastName}</h2>}
+						{collection && <p className='category title'>{collection}</p>}
+						{modelSpecs.map((spec, index) => {
 							return <div key={`spec-${index}`} className='section--model-profile-spec-info'>
-								<p className='spec-title title'>{spec.title}</p>
-								<p className='spec-content'>{spec.content}</p>
+								{spec.title && <p className='spec-title title'>{spec.title}</p>}
+								{spec.content && <p className='spec-content'>{spec.content}</p>}
 							</div>
 						})}
 					</div>
@@ -60,7 +60,7 @@ class AsNavFor extends Component {
 										: ''
 									}`}
 								>
-									<BackgroundImage src={portfolioItem.image} imageSize={900} />
+									{portfolioItem.image && <BackgroundImage src={portfolioItem.image} imageSize={900} />}
 								</div>
 							})}
 						</div>
@@ -71,7 +71,7 @@ class AsNavFor extends Component {
 									className='section--model-profile-nav-slide'
 									onClick={() => this.setState({activeModel: index})}
 								>
-									<BackgroundImage src={portfolioItem.image} imageSize={300} />
+									{portfolioItem.image && <BackgroundImage src={portfolioItem.image} imageSize={300} />}
 								</div>
 							})}
 						</div>

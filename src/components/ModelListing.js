@@ -13,8 +13,8 @@ export default ({ models, modelTypes, title, subTitle, selectedModelType}) => {
 	return <section className='section--models archive--listing'>
 		<div className='container'>
 			<div className='archive--listing-heading'>
-				<p className='title'>{subTitle}</p>
-				<h2>{title}</h2>
+				{subTitle && <p className='title'>{subTitle}</p>}
+				{title && <h2>{title}</h2>}
 			</div>	
 			<ModelTypes modelTypes={modelTypes} selectedModelType={selectedModelType} />
 			<div className='section--model-list-items'>
@@ -22,9 +22,9 @@ export default ({ models, modelTypes, title, subTitle, selectedModelType}) => {
 					return <div key={`model-${index}`} className='section--model-list-item'> 
 						<p className='name-rotate'>{model.firstName}</p>
 						<a className='section--model-list-item-link' href={`/model/${_kebabCase(model.title)}`}>
-							<BackgroundImage src={model.imageThumbnail} imageSize='600' />
+							{model.imageThumbnail && <BackgroundImage src={model.imageThumbnail} imageSize='600' />}
 							{ model.collection && <p className='category title'>{model.collection}</p> }
-							<h3>{model.firstName} {model.lastName}</h3>
+							{model.firstName && model.lastName && <h3>{model.firstName} {model.lastName}</h3>}
 						</a>
 					</div>
 				})}
