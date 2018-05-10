@@ -87,10 +87,3 @@ class AsNavFor extends Component {
 }
 
 export default AsNavFor
-
-
-// { imagePortfolio.map((portfolioItem, index) => {
-// 							return <div key={`slider-${index}`} className='section--model-profile-slide'>
-// 								<BackgroundImage src={portfolioItem.image} imageSize='910' />
-// 							</div>
-// 						})}

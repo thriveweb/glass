@@ -167,7 +167,7 @@ class App extends Component {
               exact
               component={props => {
                 const category = postCategories.find(selectedCategory => {
-                    return selectedCategory.name === props.match.params.postCategory
+                    return selectedCategory && selectedCategory.name === props.match.params.postCategory
                 })
 
                 return <Blog 
