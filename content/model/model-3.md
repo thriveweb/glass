@@ -18,5 +18,8 @@ imagePortfolio:
   - image: /images/uploads/imageedit_3_3077949080.jpg
   - image: /images/uploads/201804098477bw.jpg
   - image: /images/uploads/img_3750.jpg
+  - image: /images/uploads/201804098388bw.jpg
+  - image: /images/uploads/201804098449.jpg
+  - image: /images/uploads/201804098222.jpg
 ---
 
