@@ -10,6 +10,7 @@ bust: 83cm
 hips: 87cm
 size: '8'
 hair: Blonde
+eyes: Green
 imagePortfolio:
   - image: /images/uploads/201804098255.jpg
   - image: /images/uploads/201804098158bw.jpg
