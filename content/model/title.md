@@ -11,8 +11,6 @@ hips: 21cm
 size: '6'
 hair: Blonde
 eyes: Blue
-imagePortfolio:
-  - image: /images/uploads/201711013132.jpg
-  - image: /images/uploads/201711013097.jpg
+imagePortfolio: []
 ---
 
