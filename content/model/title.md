@@ -1,5 +1,5 @@
 ---
-title: Women
+title: Chelsea
 featuredImage: /images/uploads/amn_1231-2-.jpg
 imageThumbnail: /images/uploads/201711013092.jpg
 firstName: Chelsea
