@@ -15,5 +15,7 @@ imagePortfolio:
   - image: /images/uploads/201711013097.jpg
   - image: /images/uploads/201711013163.jpg
   - image: /images/uploads/201711013132.jpg
+  - image: /images/uploads/201711013092.jpg
+  - image: /images/uploads/amn_1231-2-.jpg
 ---
 
