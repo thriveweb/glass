@@ -1,14 +1,25 @@
 ---
-title: Model Name Girl
-featuredImage: /images/uploads/caique-silva-341076-unsplash.png
-imageThumbnail: /images/uploads/alexandru-zdrobau-200768-unsplash.png
-firstName: Model
-lastName: Name Here
-collection: Girls
-modelSpecs:
-  - content: '5, 1"'
-    title: Height
+title: Women
+featuredImage: /images/uploads/amn_9737-1-.jpg
+imageThumbnail: /images/uploads/amn_9745-1-.jpg
+firstName: Emily
+collection: Women
+height: 170cm
+waist: 64cm
+bust: 82cm
+hips: 91cm
+size: '8'
+hair: Blonde
+eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/antony-sastre-631199-unsplash.png
+  - image: /images/uploads/unspecified-11.jpeg
+  - image: /images/uploads/amn_9727.jpg
+  - image: /images/uploads/unspecified-2.jpeg
+  - image: /images/uploads/unspecified-6.jpeg
+  - image: /images/uploads/amn_9745-1-.jpg
+  - image: /images/uploads/unspecified-9.jpeg
+  - image: /images/uploads/amn_9737-1-.jpg
+  - image: /images/uploads/unspecified-8.jpeg
+  - image: /images/uploads/unspecified-14.jpeg
 ---
 
