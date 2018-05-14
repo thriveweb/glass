@@ -5,21 +5,28 @@ import Banner from '../components/Banner'
 import SingleModel from '../components/SingleModel'
 
 export default ({ page, modelTypes, selectedModelType, globalSettings, model }) => {
-	const { title, featuredImage, firstName, lastName, modelSpecs, imagePortfolio, collection } = model
+	const { title, featuredImage, firstName, height, waist, bust, hips, size, hair, eyes, imagePortfolio, collection } = model
+
+	console.log(collection)
 
 	return (
 		<main className='Model'>
 		    <Banner 
 			    image={featuredImage}
-			    title={firstName + ' ' + lastName}
+			    title={firstName}
 			    subTitle={'Model\'s Profile'} 
 		    />
 		    <SingleModel
 		    	firstName={firstName}
-		    	lastName={lastName}
-		    	modelSpecs={modelSpecs}
 		    	imagePortfolio={imagePortfolio}
 		    	collection={collection}
+		    	height={height}
+		    	waist={waist}
+		    	bust={bust}
+		    	hips={hips}
+		    	size={size}
+		    	hair={hair}
+		    	eyes={eyes}
 		    />
 			<Helmet>
         		<title>{title}</title>

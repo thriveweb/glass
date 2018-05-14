@@ -32,7 +32,7 @@ class AsNavFor extends Component {
 	
 
 	render() {
-		const { firstName, lastName, modelSpecs, imagePortfolio, collection } = this.props
+		const { firstName, height, waist, bust, hips, size, hair, eyes, imagePortfolio, collection } = this.props
 
 	    return (		
 		    <section className='section--model-profile'>
@@ -41,14 +41,24 @@ class AsNavFor extends Component {
 						<Link  to={`/models/${collection.toLowerCase()}`}><span>&larr;</span> Back to All</Link>
 					</div>	
 					<div className='section--model-profile-info'>
-						{firstName && lastName && <h2>{firstName} {lastName}</h2>}
+						{firstName && <h2>{firstName}</h2>}
 						{collection && <p className='category title'>{collection}</p>}
-						{modelSpecs.map((spec, index) => {
-							return <div key={`spec-${index}`} className='section--model-profile-spec-info'>
-								{spec.title && <p className='spec-title title'>{spec.title}</p>}
-								{spec.content && <p className='spec-content'>{spec.content}</p>}
-							</div>
-						})}
+						<div className='section--model-profile-spec-info'>
+							<p className='spec-title title'>Height</p>
+							{height && <p className='spec-content'>{height}</p>}
+							<p className='spec-title title'>Waist</p>
+							{waist && <p className='spec-content'>{waist}</p>}
+							<p className='spec-title title'>Bust</p>
+							{bust && <p className='spec-content'>{bust}</p>}
+							<p className='spec-title title'>Hips</p>
+							{hips && <p className='spec-content'>{hips}</p>}
+							<p className='spec-title title'>Size</p>
+							{size && <p className='spec-content'>{size}</p>}
+							<p className='spec-title title'>Hair</p>
+							{hair && <p className='spec-content'>{hair}</p>}
+							<p className='spec-title title'>Eyes</p>
+							{eyes && <p className='spec-content'>{eyes}</p>}
+						</div>
 					</div>
 					<div className='section--model-profile-images'>
 						<div className='portfolio-images-slider'>
