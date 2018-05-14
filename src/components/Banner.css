@@ -1,7 +1,10 @@
 .section--banner {
 	padding: 24rem 0 20rem;
 	position: relative;
-	filter: grayscale(100%);
+}
+
+.BackgroundImage {
+	filter: grayscale(100%) !important;
 }
 
 .section--banner .container {
@@ -12,6 +15,11 @@
 
 .section--banner * {
 	color: white;
+}
+
+.LazyImage {
+	margin: 0 auto;
+	max-height: 10rem;
 }
 
 .section--banner .title {

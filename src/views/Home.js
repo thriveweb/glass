@@ -1,5 +1,4 @@
 import React from 'react'
-import Helmet from 'react-helmet'
 
 import Banner from '../components/Banner'
 import ImageGallery from '../components/ImageGallery'
@@ -10,7 +9,7 @@ import FeaturedPosts from '../components/FeaturedPosts'
 import SectionPartners from '../components/SectionPartners'
 
 export default ({ page, globalSettings, posts, postCategories, selectedCategory }) => {
-  const { featuredImage, title, subTitle, content, buttonText, buttonUrl, gallery, about, testimonials, featuredPosts } = page
+  const { featuredImage, subTitle, content, buttonText, buttonUrl, gallery, about, testimonials, featuredPosts } = page
   const { partners, columns } = globalSettings
 
   return (
@@ -18,7 +17,6 @@ export default ({ page, globalSettings, posts, postCategories, selectedCategory 
       <Banner 
         image={featuredImage}
         subTitle={subTitle}
-        title={title} 
         content={content} 
         buttonText={buttonText} 
         buttonUrl={buttonUrl} 
@@ -43,9 +41,6 @@ export default ({ page, globalSettings, posts, postCategories, selectedCategory 
       <SectionPartners
         partners={partners} 
       />
-      <Helmet>
-        <title>{title}</title>
-      </Helmet>
     </main>
   )
 }
