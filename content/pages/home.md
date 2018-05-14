@@ -8,7 +8,7 @@ buttonText: See our Models
 buttonUrl: about
 gallery:
   galleryImages:
-    - image: /images/uploads/img_0556.jpg
+    - image: /images/uploads/unnamed.jpg
       title: Women
     - image: /images/uploads/dan-ryan-5-.jpg
       title: Men
