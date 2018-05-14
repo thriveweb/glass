@@ -10,7 +10,7 @@ gallery:
   galleryImages:
     - image: /images/uploads/unnamed.jpg
       title: Women
-    - image: /images/uploads/dan-ryan-5-.jpg
+    - image: /images/uploads/unnamed-22.jpg
       title: Men
     - image: /images/uploads/Bitmap.png
       title: Classic
