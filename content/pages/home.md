@@ -14,9 +14,9 @@ gallery:
       title: Men
     - image: /images/uploads/Bitmap.png
       title: Classic
-    - image: /images/uploads/janko-ferlic-303881-unsplash.png
+    - image: /images/uploads/201710284327.jpg
       title: Girls
-    - image: /images/uploads/boy.jpg
+    - image: /images/uploads/unnamed-14.jpg
       title: Boys
   subTitle: Our Models
   title: Explore Our Models
