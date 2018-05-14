@@ -1,14 +1,20 @@
 ---
-title: Model 4
-featuredImage: /images/uploads/brooke-cagle-65608-unsplash copy.png
-imageThumbnail: /images/uploads/christopher-campbell-179452-unsplash.png
-firstName: 'Model '
-lastName: Name 4
+title: Women
+featuredImage: /images/uploads/ezgif.com-webp-to-jpg-4-.jpg
+imageThumbnail: /images/uploads/ayshe.jpg
+firstName: 'Aysha '
 collection: Women
-modelSpecs:
-  - content: fgdfgd
-    title: dgdfg
+height: 173cm
+waist: 61cm
+bust: 83cm
+hips: 83cm
+hair: Blonde
+eyes: Green
 imagePortfolio:
-  - image: /images/uploads/christopher-campbell-179452-unsplash.png
+  - image: /images/uploads/ezgif.com-webp-to-jpg-2-.jpg
+  - image: /images/uploads/ezgif.com-webp-to-jpg-3-.jpg
+  - image: /images/uploads/ezgif.com-webp-to-jpg-1-.jpg
+  - image: /images/uploads/ezgif.com-webp-to-jpg-4-.jpg
+  - image: /images/uploads/ayshe.jpg
 ---
 
