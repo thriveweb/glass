@@ -10,7 +10,7 @@ gallery:
   galleryImages:
     - image: /images/uploads/img_0556.jpg
       title: Women
-    - image: /images/uploads/attractive-black-and-white-boy-25733.png
+    - image: /images/uploads/dan-ryan-5-.jpg
       title: Men
     - image: /images/uploads/Bitmap.png
       title: Classic
