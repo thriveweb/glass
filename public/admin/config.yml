@@ -242,14 +242,14 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Featured Image, name: featuredImage, widget: image}
       - {label: Image Thumbnail, name: imageThumbnail, widget: image}
       - {label: First Name, name: firstName, widget: string}
-      - {label: Last Name, name: lastName, widget: string}
       - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title'}
-      - label: "Model Specs"
-        name: "modelSpecs"
-        widget: "list"
-        fields:
-          - {label: Title, name: title, widget: string, required: false}
-          - {label: Content, name: content, widget: string, required: false}
+      - {label: Height, name: height, widget: string, required: false}
+      - {label: Waist, name: waist, widget: string, required: false}
+      - {label: Bust, name: bust, widget: string, required: false}
+      - {label: Hips, name: hips, widget: string, required: false}
+      - {label: Size, name: size, widget: string, required: false}
+      - {label: Hair, name: hair, widget: string, required: false}
+      - {label: Eyes, name: eyes, widget: string, required: false}
       - label: "Image Portfolio"
         name: "imagePortfolio"
         widget: "list"
