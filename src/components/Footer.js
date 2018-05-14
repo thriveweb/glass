@@ -8,9 +8,6 @@ import SignupFormSimpleAjax from './SignupFormSimpleAjax'
 export default ({twitter, facebook, linkedin, instagram, title, footerNav, buttonText, buttonUrl }) => (
   <footer className='footer'>
   	<div className='container'>
-  		<div className='footer--col-left'>
-       <SignupFormSimpleAjax />
-  		</div>
   		<div className='footer--col-right'>
         {title && <h3>{title}</h3>}
         <div className='footer--nav-items'>

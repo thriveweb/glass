@@ -24,8 +24,9 @@ footer legend {
 
 .footer .container {
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
 	align-items: flex-start;
+	text-align: center;
 }
 
 .footer--col-right h3 {
@@ -44,6 +45,10 @@ footer legend {
 	line-height: 1;
 	text-transform: uppercase;
 	padding: .5rem;
+}
+
+.footer--bottom .container {
+	justify-content: space-between;
 }
 
 .footer--bottom {
