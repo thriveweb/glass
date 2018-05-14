@@ -2,8 +2,11 @@
 featuredImage: /images/uploads/kris-atomic-73943-unsplash.png
 subTitle: Welcome To
 content: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+  For beautiful eyes, look for the good in others; for beautiful lips, speak
+  only words of kindness; and for poise, walk with the knowledge you are never
+  alone.     Audrey Hepburn At Glass management you are never alone. We are here
+  to guide and nuture aspiring talent and to provide our clients with
+  exceptional service.
 buttonText: See our Models
 buttonUrl: about
 gallery:
