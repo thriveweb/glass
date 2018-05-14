@@ -21,11 +21,11 @@ gallery:
   subTitle: Our Models
   title: Explore Our Models
 about:
-  image: /images/uploads/brooke-cagle-65608-unsplash.png
+  image: /images/uploads/img_9335.jpg
   subTitle: Our Story
   content: >-
-    At Glass management you are never alone. We are here to guide and nuture
-    aspiring talent and to provide our clients with exceptional service.
+    **At Glass management you are never alone. We are here to guide and nuture
+    aspiring talent and to provide our clients with exceptional service.**
   buttonText: Why Choose Us
   buttonUrl: about
   title: >-
