@@ -2,11 +2,8 @@
 featuredImage: /images/uploads/kris-atomic-73943-unsplash.png
 subTitle: Welcome To
 content: >-
-  For beautiful eyes, look for the good in others; for beautiful lips, speak
-  only words of kindness; and for poise, walk with the knowledge you are never
-  alone.   Audrey Hepburn                                             At Glass
-  management you are never alone. We are here to guide and nuture aspiring
-  talent and to provide our clients with exceptional service.
+  A boutique talent agency based on the Gold Coast, Australia.  Providing
+  professional talent of all ages.
 buttonText: See our Models
 buttonUrl: about
 gallery:
@@ -36,7 +33,12 @@ about:
     chunks as necessary, making this the first true generator on the Internet.
   buttonText: Why Choose Us
   buttonUrl: about
-  title: Brief Mission Statement Here
+  title: >-
+    For beautiful eyes, look for the good in others; for beautiful lips, speak
+    only words of kindness; and for poise, walk with the knowledge you are never
+    alone.   Audrey Hepburn           At Glass management you are never alone.
+    We are here to guide and nuture aspiring talent and to provide our clients
+    with exceptional service.
 testimonials:
   testimonial:
     - content: >-
