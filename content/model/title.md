@@ -1,7 +1,7 @@
 ---
 title: Women
-featuredImage: /images/uploads/amn_1231-2-.jpg
-imageThumbnail: /images/uploads/201711013092.jpg
+featuredImage: /images/uploads/201711013092.jpg
+imageThumbnail: /images/uploads/amn_1231-2-.jpg
 firstName: Chelsea
 collection: Women
 height: 167cm
@@ -14,6 +14,5 @@ eyes: Blue
 imagePortfolio:
   - image: /images/uploads/201711013132.jpg
   - image: /images/uploads/201711013097.jpg
-  - {}
 ---
 
