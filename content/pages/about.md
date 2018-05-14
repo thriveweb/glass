@@ -4,19 +4,31 @@ subTitle: Glass Management
 title: About
 teamMembers:
   - content: >-
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. 
+      Tegan has been in the Entertainment Industry for over 30 years (now you
+      know how old she is!) With an extensive list of talents under her belt
+      including Professional Dancer, Aerial Artist, Magicians Assistant,
+      Choreographer, Personal Trainer, Model, Presenter and Owner of Glasshouse
+      Events Sydney specialising in Corporate Events, Functions and Producing
+      Shows. This has led her to both a national and international career path.
 
 
-      All the Lorem Ipsum generators on the Internet tend to repeat predefined
-      chunks as necessary, making this the first true generator on the
-      Internet. 
+      Over the past two and a half years, Tegan has been able to successfully
+      infiltrate herself into the Queensland market place with high end fashion
+      labels, national brands, feature films and local and national TVC
+      Campaigns.
 
 
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable.
+      She has worked with some of Australia's biggest fashion and corporate
+      lifestyle brands across all industries and has developed long standing
+      relationships along the way. As we all know this industry is forever
+      evolving and because of her experience and communication skills, clients
+      and talent feel confident in her ability to match suitable talent to fit
+      the campaigns brief.
+
+
+      Basically she has the entertainment industry covered in all areas and her
+      can do energetic personality means it's exciting times ahead for her new
+      chapter Glass Management.
     image: /images/uploads/tegan-1.jpg
     leftAlign: true
     subTitle: Our Story
@@ -40,6 +52,7 @@ teamMembers:
     leftAlign: true
     subTitle: Intern
     title: Chelsea
+  - {}
 services:
   content: >-
     All the Lorem Ipsum generators on the Internet tend to repeat predefined
