@@ -34,31 +34,6 @@ class App extends Component {
     loading: false
   }
 
-  componentDidMount = () => {
-    this.fetchPreviewContent()
-  }
-
-  fetchPreviewContent = () => {
-    if (
-      !window.netlifyIdentity ||
-      !window.netlifyIdentity.currentUser() ||
-      process.env.NODE_ENV === 'development'
-    ) {
-      return false
-    }
-    import('./util/fetch-content').then(({ fetchContent }) => {
-      this.setState({ loading: true })
-      fetchContent()
-        .then(newData => {
-          this.setState(prevState => {
-            const data = _merge(prevState.data, newData)
-            return { data, loading: false }
-          })
-        })
-        .catch(() => this.setState({ loading: false }))
-    })
-  }
-
   getDocument = (collection, name) =>
     this.state.data[collection] &&
     this.state.data[collection].filter(page => page.name === name)[0]
