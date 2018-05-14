@@ -3,7 +3,7 @@ title: girls
 featuredImage: /images/uploads/amn_0227.jpg
 imageThumbnail: /images/uploads/amn_0063.jpg
 firstName: Jessica
-collection: girls
+collection: Girls
 height: 146cm
 waist: 63cm
 bust: 69cm
