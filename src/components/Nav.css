@@ -15,7 +15,7 @@
 }
 
 .nav--container .Logo {
-	width: 18rem;
+	width: 12rem;
 	height: 6.6rem;
   margin: 0;
 }
@@ -26,6 +26,11 @@
   position: absolute;
   left: 0;
   top: 0;
+}
+
+.nav--container nav {
+  position: absolute;
+  left: 16rem;
 }
 
 .nav--container nav >ul {
@@ -233,10 +238,6 @@
 }
 
 @media only screen and (max-width: 1020px) {
-  .nav--container .Logo {
-    width: 16rem;
-  }
-
   .nav--container nav >ul >li {
     font-size: 1.2em;
     margin-right: 3rem;
@@ -263,14 +264,18 @@
     position: static;
   }
 
+  .nav--container .Logo {
+    width: 16rem;
+  }
+
   .nav--container .LogoScroll {
     left: 5%;
   }
 
   .nav--container nav {
-    position: absolute;
     background: rgba(255,255,255,0.6);
     right: -100%;
+    left: 100%;
     top: 100%;
     width: 100%;
     margin-right: 0;
@@ -360,6 +365,7 @@
 
   .mobile-active .nav--container nav {
     right: 0;
+    left: 0;
   }
 
   .mobile-active #mobile-menu span:first-of-type {
