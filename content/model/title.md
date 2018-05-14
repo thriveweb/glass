@@ -1,8 +1,8 @@
 ---
-title: Women
+title: Chelsea
 featuredImage: /images/uploads/201711013092.jpg
 imageThumbnail: /images/uploads/amn_1231-2-.jpg
-firstName: Chelsea
+firstName: Model
 collection: Women
 height: 167cm
 waist: 37cm
