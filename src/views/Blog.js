@@ -13,14 +13,16 @@ export default ({ page, posts, postCategories, selectedCategory = 'all', pageSea
         title={title}
         subTitle={subTitle}
       />
-      <ArchivePosts
-        posts={posts}
-        postCategories={postCategories}
-        subTitle={subTitle}
-        selectedCategory={selectedCategory}
-        pageSearch={pageSearch}
-        history={history}
-      />
+      {!!posts && (
+        <ArchivePosts
+          posts={posts}
+          postCategories={postCategories}
+          subTitle={subTitle}
+          selectedCategory={selectedCategory}
+          pageSearch={pageSearch}
+          history={history}
+        />
+      )}
     </main>
   )
 }
