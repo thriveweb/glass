@@ -1,6 +1,6 @@
 ---
 title: Men
-featuredImage: /images/uploads/dan-ryan-3-.jpg
+featuredImage: /images/uploads/dan-ryan-2-.jpg
 imageThumbnail: /images/uploads/dan-ryan-7-.jpg
 firstName: Dan
 collection: Men
