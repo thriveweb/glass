@@ -1,16 +1,15 @@
 ---
-title: Models Name 2
-featuredImage: /images/uploads/attractive-black-and-white-boy-25733.png
-imageThumbnail: /images/uploads/attractive-black-and-white-boy-25733.png
-firstName: Model
-lastName: Name 2
+title: Males
+featuredImage: /images/uploads/dan-ryan-3-.jpg
+imageThumbnail: /images/uploads/dan-ryan-7-.jpg
+firstName: Dan
 collection: Men
-modelSpecs:
-  - content: '6, 3"'
-    title: Height
 imagePortfolio:
-  - image: /images/uploads/boy.jpg
-  - image: /images/uploads/jordan-mixson-372459-unsplash.png
-  - image: /images/uploads/attractive-black-and-white-boy-25733.png
+  - image: /images/uploads/dan-ryan-5-.jpg
+  - image: /images/uploads/dan-ryan-2-.jpg
+  - image: /images/uploads/dan-ryan-4-.jpg
+  - image: /images/uploads/dan-ryan-6-.jpg
+  - image: /images/uploads/dan-ryan-7-.jpg
+  - image: /images/uploads/dan-ryan-3-.jpg
 ---
 
