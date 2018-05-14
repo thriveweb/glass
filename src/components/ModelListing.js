@@ -24,7 +24,7 @@ export default ({ models, modelTypes, title, subTitle, selectedModelType}) => {
 						<a className='section--model-list-item-link' href={`/model/${_kebabCase(model.title)}`}>
 							{model.imageThumbnail && <BackgroundImage src={model.imageThumbnail} imageSize='600' />}
 							{ model.collection && <p className='category title'>{model.collection}</p> }
-							{model.firstName && model.lastName && <h3>{model.firstName} {model.lastName}</h3>}
+							{model.firstName && <h3>{model.firstName}</h3>}
 						</a>
 					</div>
 				})}
