@@ -4,16 +4,6 @@ subTitle: Glass Management
 title: About
 teamMembers:
   - content: >-
-      Jo is passionate about building the modeling industry here on the GC. Her
-      mission is to increase the number of large companies to shoot here in
-      Queensland. She also wants to tailor make a plan for each model and target
-      the right brand that suits their style. With over 25 years of experience
-      in the marketing, promotion and events Industry Glass are very lucky to
-      have her on board!
-    image: /images/uploads/jordan-mixson-372459-unsplash copy 2.png
-    subTitle: Marketing Manager
-    title: Jo Glenn
-  - content: >-
       There are many variations of passages of Lorem Ipsum available, but the
       majority have suffered alteration in some form, by injected humour, or
       randomised words which don't look even slightly believable. 
@@ -27,16 +17,26 @@ teamMembers:
       There are many variations of passages of Lorem Ipsum available, but the
       majority have suffered alteration in some form, by injected humour, or
       randomised words which don't look even slightly believable.
-    image: /images/uploads/brooke-cagle-65608-unsplash.png
+    image: /images/uploads/tegan-1.jpg
     leftAlign: true
     subTitle: Our Story
-    title: Tegan Glass' Bio
+    title: Tegan Glass
+  - content: >-
+      Jo is passionate about building the modeling industry here on the GC. Her
+      mission is to increase the number of large companies to shoot here in
+      Queensland. She also wants to tailor make a plan for each model and target
+      the right brand that suits their style. With over 25 years of experience
+      in the marketing, promotion and events Industry Glass are very lucky to
+      have her on board!
+    image: /images/uploads/jordan-mixson-372459-unsplash copy 2.png
+    subTitle: Marketing Manager
+    title: Jo Glenn
   - content: >-
       Beautiful 16 year old actress/model intern works tirelessly at keeping the
       Website and Casting Network up to date. Whilst offering a smile and words
       of advice to any talent needing some help and a great mentor to the Glass
       kids.
-    image: /images/uploads/fineas-gavre-345300-unsplash.png
+    image: /images/uploads/amn_1244.jpg
     leftAlign: true
     subTitle: Intern
     title: Chelsea
