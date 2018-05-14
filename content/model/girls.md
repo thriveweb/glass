@@ -1,7 +1,7 @@
 ---
 title: Girls
-featuredImage: /images/uploads/amn_0405-2-.jpg
-imageThumbnail: /images/uploads/amn_0309.jpg
+featuredImage: /images/uploads/amn_0357.jpg
+imageThumbnail: /images/uploads/amn_0405-2-.jpg
 firstName: Benaya
 collection: Girls
 height: 170cm
