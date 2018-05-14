@@ -24,21 +24,14 @@ about:
   image: /images/uploads/brooke-cagle-65608-unsplash.png
   subTitle: Our Story
   content: >-
-    There are many variations of passages of Lorem Ipsum available, but the
-    majority have suffered alteration in some form, by injected humour, or
-    randomised words which don't look even slightly believable. 
-
-
-    All the Lorem Ipsum generators on the Internet tend to repeat predefined
-    chunks as necessary, making this the first true generator on the Internet.
+    At Glass management you are never alone. We are here to guide and nuture
+    aspiring talent and to provide our clients with exceptional service.
   buttonText: Why Choose Us
   buttonUrl: about
   title: >-
     For beautiful eyes, look for the good in others; for beautiful lips, speak
     only words of kindness; and for poise, walk with the knowledge you are never
-    alone.   Audrey Hepburn           At Glass management you are never alone.
-    We are here to guide and nuture aspiring talent and to provide our clients
-    with exceptional service.
+    alone.   Audrey Hepburn           
 testimonials:
   testimonial:
     - content: >-
