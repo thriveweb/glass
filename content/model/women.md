@@ -1,8 +1,8 @@
 ---
-title: Grace
+title: Women
 featuredImage: /images/uploads/unnamed-29.jpg
 imageThumbnail: /images/uploads/unnamed.jpg
-firstName: Model
+firstName: Grace
 collection: Women
 imagePortfolio:
   - image: /images/uploads/unnamed.jpg
