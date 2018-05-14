@@ -4,9 +4,9 @@ subTitle: Welcome To
 content: >-
   For beautiful eyes, look for the good in others; for beautiful lips, speak
   only words of kindness; and for poise, walk with the knowledge you are never
-  alone.     Audrey Hepburn At Glass management you are never alone. We are here
-  to guide and nuture aspiring talent and to provide our clients with
-  exceptional service.
+  alone.   Audrey Hepburn                                             At Glass
+  management you are never alone. We are here to guide and nuture aspiring
+  talent and to provide our clients with exceptional service.
 buttonText: See our Models
 buttonUrl: about
 gallery:
