@@ -1,12 +1,12 @@
 ---
-title: Women
+title: Emily
 featuredImage: /images/uploads/amn_9737-1-.jpg
 imageThumbnail: /images/uploads/amn_9745-1-.jpg
 firstName: Emily
 collection: Women
 height: 170cm
-waist: 64cm
 bust: 82cm
+waist: 64cm
 hips: 91cm
 size: '8'
 hair: Blonde
