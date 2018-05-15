@@ -1,5 +1,5 @@
 ---
-title: Men
+title: Dan
 featuredImage: /images/uploads/dan-ryan-2-.jpg
 imageThumbnail: /images/uploads/dan-ryan-7-.jpg
 firstName: Dan
