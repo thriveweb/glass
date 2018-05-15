@@ -24,7 +24,7 @@ about:
   image: /images/uploads/test.jpg
   subTitle: Our Story
   content: >-
-    ## **At Glass management you are never alone. We are here to guide and
+    # **At Glass management you are never alone. We are here to guide and
     nurture aspiring talent and to provide our clients with exceptional
     service.**
   buttonText: Why Choose Us
