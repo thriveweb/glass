@@ -100,7 +100,7 @@ services:
         majority have suffered alteration in some form, by injected humour, or
         randomised words which don't look even slightly believable.
       image: /images/uploads/caique-silva-341076-unsplash.png
-      title: Styling
+      title: Makeup
     - content: >-
         There are many variations of passages of Lorem Ipsum available, but the
         majority have suffered alteration in some form, by injected humour, or
