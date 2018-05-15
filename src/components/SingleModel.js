@@ -6,17 +6,13 @@ import './SingleModel.css'
 
 
 class AsNavFor extends Component {
-	constructor(props) {
-		super(props)
-		this.slideNavRef = React.createRef()
-
-		this.state = {
-			activeModel: 0
-		}
+	slideNavRef = null
+	state = {
+		activeModel: 0
 	}
 
 	handleSlideNav = (direction) => {
-		const sliderNav = this.slideNavRef.current
+		const sliderNav = this.slideNavRef
 		const sliderWidth = sliderNav.offsetWidth
 
 		let scrollPos = direction 
@@ -74,7 +70,7 @@ class AsNavFor extends Component {
 								</div>
 							})}
 						</div>
-						<div className='profile-images-nav' ref={this.slideNavRef}>
+						<div className='profile-images-nav' ref={el => {this.slideNavRef = el}}>
 							{imagePortfolio.map((portfolioItem, index) => {
 								return <div 
 									key={`slider-nav-${index}`} 
