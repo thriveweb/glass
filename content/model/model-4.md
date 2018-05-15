@@ -1,12 +1,12 @@
 ---
-title: Women
+title: Aysha
 featuredImage: /images/uploads/ezgif.com-webp-to-jpg-4-.jpg
 imageThumbnail: /images/uploads/ayshe.jpg
 firstName: 'Aysha '
 collection: Women
 height: 173cm
-waist: 61cm
 bust: 83cm
+waist: 61cm
 hips: 83cm
 hair: Blonde
 eyes: Green
