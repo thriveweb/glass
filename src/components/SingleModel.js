@@ -42,21 +42,21 @@ class AsNavFor extends Component {
 						{firstName && <h2>{firstName}</h2>}
 						{collection && <p className='category title'>{collection}</p>}
 						<div className='section--model-profile-spec-info'>
-							<p className='spec-title title'>Height</p>
+							{height && <p className='spec-title title'>Height</p>}
 							{height && <p className='spec-content'>{height}</p>}
-							<p className='spec-title title'>{['Women', 'Girls'].includes(collection) ? 'Bust' : 'Chest'}</p>
+							{bust && <p className='spec-title title'>{['Women', 'Girls'].includes(collection) ? 'Bust' : 'Chest'}</p>}
 							{bust && <p className='spec-content'>{bust}</p>}
-							<p className='spec-title title'>Waist</p>
+							{waist && <p className='spec-title title'>Waist</p>}
 							{waist && <p className='spec-content'>{waist}</p>}
-							<p className='spec-title title'>Hips</p>
+							{hips && <p className='spec-title title'>Hips</p>}
 							{hips && <p className='spec-content'>{hips}</p>}
-							<p className='spec-title title'>Size</p>
+							{size && <p className='spec-title title'>Size</p>}
 							{size && <p className='spec-content'>{size}</p>}
-							<p className='spec-title title'>Shoe Size</p>
-							{size && <p className='spec-content'>{shoeSize}</p>}
-							<p className='spec-title title'>Hair</p>
+							{shoeSize && <p className='spec-title title'>Shoe Size</p>}
+							{shoeSize && <p className='spec-content'>{shoeSize}</p>}
+							{hair && <p className='spec-title title'>Hair</p>}
 							{hair && <p className='spec-content'>{hair}</p>}
-							<p className='spec-title title'>Eyes</p>
+							{eyes && <p className='spec-title title'>Eyes</p>}
 							{eyes && <p className='spec-content'>{eyes}</p>}
 						</div>
 					</div>

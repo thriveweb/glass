@@ -11,7 +11,6 @@
 .section--about .LazyImage {
 	position: relative;
 	top: 6rem;
-	filter: grayscale(100%);
 	min-height: 40rem;
 }
 

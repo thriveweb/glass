@@ -9,9 +9,11 @@ export default ({ about }) => {
 	
 	const { image, title, subTitle, content, buttonText, buttonUrl } = about
 
+	console.log(image)
+
 	return <section className='section--about'>
 			<div className='container'>
-				{image && <LazyImage src={image} alt={title} imageSize='800' />}
+				{image && <LazyImage src={image} alt={title} imageSize='900' />}
 				<div className='section--about-content'>
 					{subTitle && <p className='title'>{subTitle}</p>}
 					{title && <h2>{title}</h2>}
