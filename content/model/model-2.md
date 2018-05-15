@@ -1,5 +1,5 @@
 ---
-title: Women
+title: Amanda
 featuredImage: /images/uploads/ezgif.com-webp-to-jpg-7-.jpg
 imageThumbnail: /images/uploads/ezgif.com-webp-to-jpg-6-.jpg
 firstName: Amanda
