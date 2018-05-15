@@ -1,18 +1,19 @@
 ---
-title: Model Name 5
-featuredImage: /images/uploads/dmitri-popov-69420-unsplash.png
-imageThumbnail: /images/uploads/fineas-gavre-345300-unsplash.png
-firstName: Model
-lastName: Name 5
-collection: Women
-modelSpecs:
-  - content: '5, 9"'
-    title: Height
-  - content: 117lbs
-    title: Weight
+title: Girls
+featuredImage: /images/uploads/amn_0524.jpg
+imageThumbnail: /images/uploads/amn_0537-1-.jpg
+firstName: Sienna
+collection: Girls
+height: 150cm
+waist: 57cm
+bust: 66cm
+hips: 72cm
+size: 10-12
+hair: Blonde
+eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/fineas-gavre-345300-unsplash.png
-  - image: /images/uploads/caique-silva-341076-unsplash.png
-  - image: /images/uploads/hust-wilson-401558-unsplash copy 3.png
+  - image: /images/uploads/amn_0530.jpg
+  - image: /images/uploads/amn_0524.jpg
+  - image: /images/uploads/amn_0537-1-.jpg
 ---
 
