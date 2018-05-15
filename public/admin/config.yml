@@ -264,6 +264,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: Title, name: title, widget: string}
+      - {label: Order, name: order, widget: number}
 
 
 

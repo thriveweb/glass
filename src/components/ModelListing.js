@@ -1,12 +1,13 @@
 import React from 'react'
 import _kebabCase from 'lodash/kebabCase'
+import _sortBy from 'lodash/sortBy'
 import BackgroundImage from './BackgroundImage'
 import ModelTypes from './ModelTypes'
 import './ModelListing.css'
 
 export default ({ models, modelTypes, title, subTitle, selectedModelType}) => {
 
-	const filteredModels = [...models].filter(model => {
+	const filteredModels = _sortBy(models,'firstName').filter(model => {
 		return model.collection.toLowerCase() === selectedModelType.toLowerCase()
 	})
 

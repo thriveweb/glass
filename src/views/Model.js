@@ -7,8 +7,6 @@ import SingleModel from '../components/SingleModel'
 export default ({ page, modelTypes, selectedModelType, globalSettings, model }) => {
 	const { title, featuredImage, firstName, height, waist, bust, hips, size, hair, eyes, imagePortfolio, collection } = model
 
-	console.log(collection)
-
 	return (
 		<main className='Model'>
 		    <Banner 

@@ -3,10 +3,6 @@
 	position: relative;
 }
 
-.BackgroundImage {
-	filter: grayscale(100%) !important;
-}
-
 .section--banner .container {
 	text-align: center;
 	position: relative;
@@ -17,8 +13,8 @@
 	color: white;
 }
 
-.LazyImage {
-	margin: 0 auto;
+.section--banner .LazyImage {
+	margin: 0 auto 3rem;
 	max-height: 10rem;
 }
 

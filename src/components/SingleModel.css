@@ -102,13 +102,18 @@
 	position: relative;
 	width: 25%;
 	display: inline-block;
-	filter: grayscale(100%);
+
 	cursor: pointer;
+
+}
+
+.section--model-profile-nav-slide .BackgroundImage {
+	filter: grayscale(100%);
 	transition: all ease-in-out .2s;
 }
 
-.section--model-profile-nav-slide.active, .section--model-profile-nav-slide:hover {
-	filter: grayscale(0%);
+.section--model-profile-nav-slide.active .BackgroundImage, .section--model-profile-slide.active .BackgroundImage, .section--model-profile-nav-slide:hover .BackgroundImage {
+	filter: grayscale(0%) !important;
 }
 
 .navigation {

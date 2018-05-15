@@ -34,6 +34,7 @@
 .section--image-gallery-item .BackgroundImage {
 	transform: scale(1);
 	transition: all ease-in-out .3s;
+	filter: grayscale(100%);
 }
 
 .section--image-gallery-item:first-of-type {
@@ -74,6 +75,7 @@
 
 .section--image-gallery-item:hover .BackgroundImage {
 	transform: scale(1.1);
+	filter: grayscale(0%);
 }
 
 
