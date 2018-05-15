@@ -8,5 +8,6 @@ imagePortfolio:
   - image: /images/uploads/unnamed.jpg
   - image: /images/uploads/unnamed-29.jpg
   - image: /images/uploads/unnamed.jpg
+  - image: /images/uploads/201711013092.jpg
 ---
 
