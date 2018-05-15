@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Helmet from 'react-helmet'
 import _merge from 'lodash/merge'
 import _kebabCase from 'lodash/kebabCase'
+import _sortBy from 'lodash/sortBy'
 
 import data from './data.json'
 
@@ -80,7 +81,7 @@ class App extends Component {
       header,
     } = globalSettings
 
-    const modelTypes = this.getDocuments('model-types')
+    const modelTypes = _sortBy(this.getDocuments('model-types'), 'order')
     const models = this.getDocuments('model')
     const posts = this.getDocuments('post')
     const postCategories = this.getDocuments('post-category')
