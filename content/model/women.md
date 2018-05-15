@@ -2,7 +2,7 @@
 title: Grace
 featuredImage: /images/uploads/unnamed-29.jpg
 imageThumbnail: /images/uploads/unnamed.jpg
-firstName: Test
+firstName: Grace
 collection: Women
 imagePortfolio:
   - image: /images/uploads/unnamed.jpg
