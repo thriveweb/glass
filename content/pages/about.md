@@ -77,22 +77,13 @@ services:
       image: /images/uploads/warren-wong-217880-unsplash.png
       title: Photographers
     - content: >-
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable. 
 
 
-        * All the Lorem Ipsum generators on the 
-
-        * Internet tend to repeat predefined chunks as necessary 
-
-        * Making this the first true generator on the Internet 
-
-
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable.
-      image: /images/uploads/sharegrid-554231-unsplash.png
+        At Gracey Criss Video, we are avid film lovers who want to create
+        cinematic videos accessible to anyone and everyone! With a special focus
+        on visual and storytelling aspects, we strive to ensure quick and
+        affordable turnarounds.
+      image: /images/uploads/16938935_560953354100941_4615213326275517398_n-2-1-.jpg
       title: Videographer
     - content: >-
         There are many variations of passages of Lorem Ipsum available, but the
