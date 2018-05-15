@@ -8,7 +8,7 @@ buttonText: See our Models
 buttonUrl: about
 gallery:
   galleryImages:
-    - image: /images/uploads/c59c9khxqaaoleg-copy-i8ysdf.jpg
+    - image: ''
       title: Women
     - image: /images/uploads/unnamed-22.jpg
       title: Men
