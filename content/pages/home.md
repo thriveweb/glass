@@ -21,7 +21,7 @@ gallery:
   subTitle: Our Models
   title: Explore Our Models
 about:
-  image: /images/uploads/img_9335.jpg
+  image: /images/uploads/img_9335.1800.jpg
   subTitle: Our Story
   content: >-
     ## **At Glass management you are never alone. We are here to guide and
