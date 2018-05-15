@@ -203,6 +203,7 @@ class App extends Component {
                   globalSettings={globalSettings}
                   models={models}
                   model={singleModel}
+                  modelTypes={modelTypes}
                   {...props}
                 /> : <NoMatch siteUrl={siteUrl} />
               }}

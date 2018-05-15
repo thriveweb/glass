@@ -78,7 +78,6 @@
 	filter: grayscale(0%);
 }
 
-
 @media only screen and (max-width: 850px) {
 	.section--image-gallery-heading {
 		position: relative;

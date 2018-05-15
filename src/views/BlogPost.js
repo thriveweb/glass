@@ -10,6 +10,7 @@ export default ({ page, post, globalSettings }) => {
     <main className='single-post'>
       <Banner
         image={post.image}
+        title={' '}
       />
       <SinglePost
         post={post}

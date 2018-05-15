@@ -8,6 +8,7 @@ import Contact from '../src/views/Contact'
 import JoinUs from '../src/views/JoinUs'
 import Blog from '../src/views/Blog'
 import Model from '../src/views/Model'
+import Models from '../src/views/Models'
 import BlogPost from '../src/views/BlogPost'
 
 const CMS = window.CMS
@@ -23,6 +24,7 @@ const getDocuments = (collection) => data[collection]
 const globalSettings = getDocument('settings', 'global')
 const posts = getDocuments('post')
 const models = getDocuments('model')
+const modelTypes = getDocuments('model-types')
 const postCategories = getDocuments('post-category')
 
 // Preview Templates
@@ -45,6 +47,9 @@ CMS.registerPreviewTemplate('joinUs', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('blog', ({ entry }) => (
   <Blog page={entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('models', ({ entry }) => (
+  <Models page={entry.toJS().data} models={models} modelTypes={modelTypes} selectedModelType={models[0]} />
 ))
 CMS.registerPreviewTemplate('model', ({ entry }) => (
   <Model

@@ -28,7 +28,9 @@ class AsNavFor extends Component {
 	
 
 	render() {
-		const { firstName, height, waist, bust, hips, size, hair, eyes, imagePortfolio, collection } = this.props
+		const { firstName, height, waist, bust, hips, size, shoeSize, hair, eyes, imagePortfolio, collection } = this.props
+
+		console.log(collection)
 
 	    return (		
 		    <section className='section--model-profile'>
@@ -42,14 +44,16 @@ class AsNavFor extends Component {
 						<div className='section--model-profile-spec-info'>
 							<p className='spec-title title'>Height</p>
 							{height && <p className='spec-content'>{height}</p>}
+							<p className='spec-title title'>{['Women', 'Girls'].includes(collection) ? 'Bust' : 'Chest'}</p>
+							{bust && <p className='spec-content'>{bust}</p>}
 							<p className='spec-title title'>Waist</p>
 							{waist && <p className='spec-content'>{waist}</p>}
-							<p className='spec-title title'>Bust</p>
-							{bust && <p className='spec-content'>{bust}</p>}
 							<p className='spec-title title'>Hips</p>
 							{hips && <p className='spec-content'>{hips}</p>}
 							<p className='spec-title title'>Size</p>
 							{size && <p className='spec-content'>{size}</p>}
+							<p className='spec-title title'>Shoe Size</p>
+							{size && <p className='spec-content'>{shoeSize}</p>}
 							<p className='spec-title title'>Hair</p>
 							{hair && <p className='spec-content'>{hair}</p>}
 							<p className='spec-title title'>Eyes</p>

@@ -5,7 +5,7 @@ import Banner from '../components/Banner'
 import SingleModel from '../components/SingleModel'
 
 export default ({ page, modelTypes, selectedModelType, globalSettings, model }) => {
-	const { title, featuredImage, firstName, height, waist, bust, hips, size, hair, eyes, imagePortfolio, collection } = model
+	const { title, featuredImage, firstName, height, waist, bust, hips, size, shoeSize, hair, eyes, imagePortfolio, collection } = model
 
 	return (
 		<main className='Model'>
@@ -23,8 +23,10 @@ export default ({ page, modelTypes, selectedModelType, globalSettings, model }) 
 		    	bust={bust}
 		    	hips={hips}
 		    	size={size}
+		    	shoeSize={shoeSize}
 		    	hair={hair}
 		    	eyes={eyes}
+		    	modelTypes={modelTypes}
 		    />
 			<Helmet>
         		<title>{title}</title>

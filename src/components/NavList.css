@@ -5,10 +5,12 @@
 .archive--listing .container {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-end;
 }
 
 .archive--listing-heading {
-  margin-right: 8rem;
+  margin: 0 4rem 2rem 0;
 }
 
 .archive--listing-heading .title {
@@ -23,8 +25,7 @@
 	padding: 0;
 	margin: 0;
 	display: flex;
-	flex-direction: row-reverse;
-	align-self: flex-end;
+	flex-wrap: wrap;
 }
 
 .nav--list-item.active a {
@@ -33,7 +34,7 @@
 }
 
 .nav--list-item {
-	margin-right: 2rem;
+	margin: 0 2rem 2rem 0;
 	font-size: 1.2em;
 	list-style-type: none;
 	min-width: 16rem;
@@ -54,7 +55,7 @@
 	width: 100%;
 }
 
-.nav--list-item:first-of-type {
+.nav--list-item:last-of-type {
 	margin-right: 0;
 }
 
