@@ -1,12 +1,12 @@
 ---
-title: Girls
+title: Ava
 featuredImage: /images/uploads/amn_0108.jpg
 imageThumbnail: /images/uploads/amn_0003.jpg
 firstName: Ava
 collection: Girls
 height: 153cm
-waist: 56cm
 bust: 86cm
+waist: 56cm
 hips: 75cm
 size: 10-12
 hair: Blonde
