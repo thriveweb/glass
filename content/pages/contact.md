@@ -1,5 +1,5 @@
 ---
-featuredImage: /images/uploads/brooke-cagle-65608-unsplash copy.png
+featuredImage: /images/uploads/dmitri-popov-69420-unsplash.png
 subTitle: Find Us
 title: Contact
 ---
