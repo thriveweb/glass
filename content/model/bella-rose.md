@@ -1,6 +1,6 @@
 ---
 title: Bella Rose
-featuredImage: /images/uploads/unnamed-22.jpg
+featuredImage: /images/uploads/bella-rose-dance_preview.jpg
 imageThumbnail: /images/uploads/unnamed-22.jpg
 firstName: Bella Rose
 collection: Girls
