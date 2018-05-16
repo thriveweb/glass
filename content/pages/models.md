@@ -1,5 +1,5 @@
 ---
-featuredImage: /images/uploads/amn_1580.jpg
+featuredImage: /images/uploads/kris-atomic-73935-unsplash.png
 subTitle: Our Models
 title: Explore Our Models
 ---
