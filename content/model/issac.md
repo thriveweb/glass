@@ -1,8 +1,8 @@
 ---
-title: Issac
+title: Izaac
 featuredImage: /images/uploads/fb_img_1523215314240.jpg
 imageThumbnail: /images/uploads/fb_img_1523215253553.jpg
-firstName: Issac
+firstName: Izaac
 collection: Men
 imagePortfolio:
   - image: /images/uploads/fb_img_1523215299308.jpg
