@@ -5,6 +5,9 @@ imageThumbnail: /images/uploads/harper-9.webp
 firstName: Harper
 collection: Boys
 height: 145cm
+bust: 80cm
+waist: 71cm
+hips: 80cm
 size: 12-14 boys
 shoeSize: '7'
 hair: Black
