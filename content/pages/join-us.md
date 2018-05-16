@@ -1,5 +1,5 @@
 ---
-featuredImage: /images/uploads/brooke-cagle-65608-unsplash copy.png
+featuredImage: /images/uploads/avel-chuklanov-509630-unsplash.png
 subTitle: Fill the Form
 title: Join Us
 intro:
