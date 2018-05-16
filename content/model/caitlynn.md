@@ -4,10 +4,10 @@ featuredImage: /images/uploads/cait-1-.png
 imageThumbnail: /images/uploads/img_5597.jpg
 firstName: Caitlynn
 collection: Women
-height: 166cm
-bust: 84cm
-waist: 63cm
-hips: 73cm
+height: 166cms
+bust: 84cms
+waist: 63cms
+hips: 73cms
 size: 6/8
 shoeSize: '9'
 hair: Brunette
