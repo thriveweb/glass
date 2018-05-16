@@ -1,7 +1,7 @@
 ---
 title: Zac
-featuredImage: /images/uploads/img_5498.jpg
-imageThumbnail: /images/uploads/img_5664.jpg
+featuredImage: /images/uploads/amn_0283.jpg
+imageThumbnail: /images/uploads/amn_0264-1-.jpg
 firstName: Zac
 collection: mens
 height: 187cm
