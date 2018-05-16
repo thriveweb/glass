@@ -4,6 +4,14 @@ featuredImage: /images/uploads/ezgif.com-webp-to-jpg-7-.jpg
 imageThumbnail: /images/uploads/ezgif.com-webp-to-jpg-6-.jpg
 firstName: Amanda
 collection: Women
+height: 167.5cms
+bust: 88cms
+waist: 66cms
+hips: 86cms
+size: '8'
+shoeSize: '7.5'
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: /images/uploads/ezgif.com-webp-to-jpg-10-.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-9-.jpg
