@@ -4,11 +4,12 @@ featuredImage: /images/uploads/img_4029-1-.jpg
 imageThumbnail: /images/uploads/img_4976.jpg
 firstName: Dan
 collection: men
-height: '179'
-bust: 104cm
-waist: 81cm
+height: 179cms
+bust: 104cms
+waist: 81cms
 size: 'M/L '
 shoeSize: '10'
+hair: Brown
 imagePortfolio:
   - image: /images/uploads/img_4029-1-.jpg
   - image: /images/uploads/img_5684-1-.png
