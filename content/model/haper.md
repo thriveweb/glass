@@ -1,7 +1,7 @@
 ---
 title: Haper
-featuredImage: /images/uploads/harper-5.webp
-imageThumbnail: /images/uploads/harper.webp
+featuredImage: /images/uploads/harpersix.jpg
+imageThumbnail: /images/uploads/harper-9.webp
 firstName: Harper
 collection: Boys
 height: 145cm
@@ -17,5 +17,9 @@ imagePortfolio:
   - image: /images/uploads/harper-3.webp
   - image: /images/uploads/harper-2.webp
   - image: /images/uploads/harper-8.webp
+  - image: /images/uploads/harperseven.jpg
+  - image: /images/uploads/harperthree.jpg
+  - image: /images/uploads/harpereight.jpg
+  - {}
 ---
 
