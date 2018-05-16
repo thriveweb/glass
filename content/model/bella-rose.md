@@ -19,6 +19,6 @@ imagePortfolio:
   - image: /images/uploads/bella-rose-boho.jpg
   - image: /images/uploads/bella-rose-8.jpg
   - image: /images/uploads/bella-rose-9.jpg
-  - {}
+  - image: /images/uploads/bella-rose-4_preview.jpg
 ---
 
