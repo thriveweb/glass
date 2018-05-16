@@ -10,7 +10,7 @@ gallery:
   galleryImages:
     - image: ''
       title: Women
-    - image: /images/uploads/unnamed-22.jpg
+    - image: /images/uploads/unnamed-copy.png
       title: Men
     - image: /images/uploads/Bitmap.png
       title: Classic
