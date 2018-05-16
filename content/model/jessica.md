@@ -1,7 +1,7 @@
 ---
 title: Jessica
 featuredImage: /images/uploads/amn_0185.jpg
-imageThumbnail: /images/uploads/amn_0034.jpg
+imageThumbnail: /images/uploads/amn_0227.jpg
 firstName: Jessica
 collection: Girls
 height: 146cms
