@@ -8,10 +8,8 @@ buttonText: See our Models
 buttonUrl: about
 gallery:
   galleryImages:
-    - image: ''
+    - image: /images/uploads/img_0556.jpg
       title: Women
-    - image: /images/uploads/unnamed-copy.png
-      title: Men
     - image: /images/uploads/Bitmap.png
       title: Classic
     - image: /images/uploads/201710284327.jpg
