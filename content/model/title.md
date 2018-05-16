@@ -1,7 +1,7 @@
 ---
 title: Chelsea
 featuredImage: /images/uploads/201711013092.jpg
-imageThumbnail: /images/uploads/amn_1231-2-.jpg
+imageThumbnail: /images/uploads/201711013097.jpg
 firstName: Chelsea
 collection: Women
 height: 167cm
