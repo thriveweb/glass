@@ -3,6 +3,7 @@ import _kebabCase from 'lodash/kebabCase'
 import _sortBy from 'lodash/sortBy'
 import BackgroundImage from './BackgroundImage'
 import ModelTypes from './ModelTypes'
+import { Link } from 'react-router-dom'
 import './ModelListing.css'
 
 export default ({ models, modelTypes, title, subTitle, selectedModelType}) => {
@@ -22,11 +23,11 @@ export default ({ models, modelTypes, title, subTitle, selectedModelType}) => {
 				{filteredModels.map((model, index) => {
 					return <div key={`model-${index}`} className='section--model-list-item'> 
 						<p className='name-rotate'>{model.firstName}</p>
-						<a className='section--model-list-item-link' href={`/model/${_kebabCase(model.title)}`}>
+						<Link className='section--model-list-item-link' to={`/model/${_kebabCase(model.title)}`}>
 							{model.imageThumbnail && <BackgroundImage src={model.imageThumbnail} imageSize='600' />}
 							{ model.collection && <p className='category title'>{model.collection}</p> }
 							{model.firstName && <h3>{model.firstName}</h3>}
-						</a>
+						</Link>
 					</div>
 				})}
 			</div>	
