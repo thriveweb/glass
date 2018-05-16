@@ -4,10 +4,10 @@ featuredImage: /images/uploads/amn_0596.jpg
 imageThumbnail: /images/uploads/amn_0621.jpg
 firstName: Denika
 collection: Classic
-height: '173'
-bust: 93cm
-waist: 73cm
-hips: 92cm
+height: 173cms
+bust: 93cms
+waist: 73cms
+hips: 92cms
 size: '12'
 shoeSize: '9'
 hair: Blonde
