@@ -1,5 +1,5 @@
 ---
-title: Haper
+title: Harper
 featuredImage: /images/uploads/harpersix.jpg
 imageThumbnail: /images/uploads/harper-9.webp
 firstName: Harper
