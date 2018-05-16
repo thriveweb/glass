@@ -3,7 +3,7 @@ title: Test
 featuredImage: /images/uploads/16938935_560953354100941_4615213326275517398_n-2-1-.jpg
 imageThumbnail: /images/uploads/201711013167.jpg
 firstName: test
-collection: women
+collection: Women
 height: '15'
 bust: '15'
 waist: '15'
