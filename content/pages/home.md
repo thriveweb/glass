@@ -16,6 +16,8 @@ gallery:
       title: Girls
     - image: /images/uploads/unnamed-14.jpg
       title: Boys
+    - image: /images/uploads/unnamed-copy.png
+      title: Men
   subTitle: Our Models
   title: Explore Our Models
 about:
