@@ -19,7 +19,7 @@ CMS.registerPreviewStyle('/admin/cms.bundle.css')
 
 const getDocument = (collection, name) =>
   data[collection] && data[collection].filter(page => page.name === name)[0]
-const getDocuments = (collection) => data[collection]
+const getDocuments = collection => data[collection]
 
 const globalSettings = getDocument('settings', 'global')
 const posts = getDocuments('post')
@@ -49,7 +49,12 @@ CMS.registerPreviewTemplate('blog', ({ entry }) => (
   <Blog page={entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('models', ({ entry }) => (
-  <Models page={entry.toJS().data} models={models} modelTypes={modelTypes} selectedModelType={models[0]} />
+  <Models
+    page={entry.toJS().data}
+    models={models}
+    modelTypes={modelTypes}
+    selectedModelType={models[0]}
+  />
 ))
 CMS.registerPreviewTemplate('model', ({ entry }) => (
   <Model
