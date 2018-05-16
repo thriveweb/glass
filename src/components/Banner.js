@@ -4,7 +4,6 @@ import './Banner.css'
 import { Link } from 'react-router-dom'
 import BackgroundImage from './BackgroundImage'
 import LazyImage from './LazyImage'
-import Logo from './Logo'
 
 
 export default ({image, title, subTitle, content, buttonText, buttonUrl}) => (

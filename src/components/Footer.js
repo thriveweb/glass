@@ -3,7 +3,6 @@ import './Footer.css'
 
 import { Link } from 'react-router-dom'
 import {ICONTwitter, ICONFacebook, ICONLinkedin, ICONInstagram} from './Icons'
-import SignupFormSimpleAjax from './SignupFormSimpleAjax'
 
 export default ({twitter, facebook, linkedin, instagram, title, footerNav, buttonText, buttonUrl }) => (
   <footer className='footer'>
