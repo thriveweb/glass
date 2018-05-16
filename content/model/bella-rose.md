@@ -1,7 +1,7 @@
 ---
 title: Bella Rose
 featuredImage: /images/uploads/bella-rose-dance_preview.jpg
-imageThumbnail: /images/uploads/unnamed-22.jpg
+imageThumbnail: /images/uploads/br.jpg
 firstName: Bella Rose
 collection: Girls
 height: 138cms
