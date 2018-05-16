@@ -2,7 +2,7 @@ import 'core-js/es6'
 import React from 'react'
 import { render } from 'react-snapshot'
 import App from './App'
-import registerServiceWorker from './registerServiceWorker'
+import {unregister} from './registerServiceWorker'
 import 'normalize.css'
 import './globalStyles.css'
 
@@ -16,7 +16,7 @@ if (module.hot) {
   })
 }
 
-registerServiceWorker()
+unregister()
 if (process.env.REACT_APP_SITE_URL && 'localStorage' in window) {
   window.localStorage.setItem('netlifySiteURL', process.env.REACT_APP_SITE_URL)
 }
