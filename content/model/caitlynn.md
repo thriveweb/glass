@@ -1,6 +1,6 @@
 ---
 title: Caitlynn
-featuredImage: /images/uploads/img_5081.jpg
+featuredImage: /images/uploads/cait-1-.png
 imageThumbnail: /images/uploads/img_5597.jpg
 firstName: Caitlynn
 collection: Women
@@ -16,5 +16,8 @@ imagePortfolio:
   - image: /images/uploads/img_5382.jpg
   - image: /images/uploads/img_5335.jpg
   - image: /images/uploads/img_5097.jpg
+  - image: ''
+  - {}
+  - {}
 ---
 
