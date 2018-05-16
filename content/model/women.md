@@ -1,7 +1,7 @@
 ---
 title: Grace
 featuredImage: /images/uploads/unnamed-29.jpg
-imageThumbnail: /images/uploads/unnamed.jpg
+imageThumbnail: /images/uploads/img_0556.jpg
 firstName: Grace
 collection: Women
 imagePortfolio:
