@@ -4,10 +4,10 @@ featuredImage: /images/uploads/amn_0185.jpg
 imageThumbnail: /images/uploads/amn_0034.jpg
 firstName: Jessica
 collection: Girls
-height: 146cm
-bust: 69cm
-waist: 63cm
-hips: 80cm
+height: 146cms
+bust: 69cms
+waist: 63cms
+hips: 80cms
 size: '10'
 shoeSize: '7'
 hair: Blonde
