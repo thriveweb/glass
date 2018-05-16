@@ -28,9 +28,7 @@ class AsNavFor extends Component {
 	
 
 	render() {
-		const { firstName, height, waist, bust, hips, size, shoeSize, hair, eyes, imagePortfolio, collection } = this.props
-
-		console.log(collection)
+		const { firstName, height, waist, bust, hips, size, shoeSize, hair, eyes, imagePortfolio = [], collection = '' } = this.props
 
 	    return (		
 		    <section className='section--model-profile'>
