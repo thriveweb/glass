@@ -1,7 +1,7 @@
 ---
 title: Stacy
 featuredImage: /images/uploads/amn_0658.jpg
-imageThumbnail: /images/uploads/amn_0690.jpg
+imageThumbnail: /images/uploads/amn_0644.jpg
 firstName: Stacy
 collection: Classic
 height: 174cm
