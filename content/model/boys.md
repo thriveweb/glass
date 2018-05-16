@@ -1,7 +1,7 @@
 ---
 title: Alex
-featuredImage: /images/uploads/amn_0283.jpg
-imageThumbnail: /images/uploads/amn_9914-1-.jpg
+featuredImage: /images/uploads/amn_0157.jpg
+imageThumbnail: /images/uploads/amn_0264-1-.jpg
 firstName: Alex
 collection: Boys
 height: 149cms
