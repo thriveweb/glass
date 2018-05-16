@@ -4,6 +4,12 @@ featuredImage: /images/uploads/dinesh-4.webp
 imageThumbnail: /images/uploads/dinesh-1.webp
 firstName: Dinesh
 collection: Men
+height: '5''11"             '
+waist: 30"
+size: S
+shoeSize: '10'
+hair: Black
+eyes: Brown
 imagePortfolio:
   - image: /images/uploads/dinesh-6.webp
   - image: /images/uploads/dinesh-5.webp
