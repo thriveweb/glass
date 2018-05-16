@@ -1,7 +1,7 @@
 ---
 title: Ava
 featuredImage: /images/uploads/amn_0108.jpg
-imageThumbnail: /images/uploads/amn_0003.jpg
+imageThumbnail: /images/uploads/amn_9952-1-.jpg
 firstName: Ava
 collection: Girls
 height: 153cms
