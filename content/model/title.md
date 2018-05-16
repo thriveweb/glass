@@ -19,5 +19,6 @@ imagePortfolio:
   - image: /images/uploads/amn_1231-2-.jpg
   - image: /images/uploads/201711013167.jpg
   - image: /images/uploads/201711013185.jpg
+  - image: /images/uploads/jasmine-lessue-.jpg
 ---
 
