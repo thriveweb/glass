@@ -9,7 +9,8 @@ imagePortfolio:
   - image: /images/uploads/unnamed-35.jpg
   - image: /images/uploads/unnamed-36.jpg
   - image: /images/uploads/unnamed-22.jpg
-  - {}
+  - image: /images/uploads/unnamed-28.jpg
+  - image: /images/uploads/201710284327.jpg
   - {}
 ---
 
