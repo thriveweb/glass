@@ -1,8 +1,8 @@
 ---
-title: Jasmin
+title: Jasmine
 featuredImage: /images/uploads/amn_9820-1-.jpg
 imageThumbnail: /images/uploads/jasmine-lessue-.jpg
-firstName: Jasmin
+firstName: Jasmine
 collection: Girls
 height: 162cm
 bust: 79cm
@@ -13,8 +13,8 @@ shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - {}
-  - {}
+  - image: /images/uploads/jasmine-lessue-1.jpg
+  - image: /images/uploads/jasmine-lessue-3.jpg
   - {}
 ---
 
