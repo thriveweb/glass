@@ -10,14 +10,14 @@ gallery:
   galleryImages:
     - image: /images/uploads/img_0556.jpg
       title: Women
-    - image: /images/uploads/Bitmap.png
-      title: Classic
-    - image: /images/uploads/201710284327.jpg
-      title: Girls
-    - image: /images/uploads/unnamed-14.jpg
-      title: Boys
     - image: /images/uploads/unnamed-copy.png
       title: Men
+    - image: /images/uploads/Bitmap.png
+      title: Classic
+    - image: /images/uploads/unnamed-14.jpg
+      title: Boys
+    - image: /images/uploads/201710284327.jpg
+      title: Girls
   subTitle: Our Models
   title: Explore Our Models
 about:
