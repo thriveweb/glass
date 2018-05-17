@@ -24,8 +24,6 @@ imagePortfolio:
   - image: /images/uploads/g8.jpg
   - image: /images/uploads/g9.jpg
   - image: /images/uploads/grace-9.webp
-  - image: ''
-  - image: ''
-  - image: ''
+  - image: /images/uploads/grace-8.webp
 ---
 
