@@ -1,7 +1,7 @@
 ---
 title: Aaron
 featuredImage: /images/uploads/aaron-6.webp
-imageThumbnail: /images/uploads/aaron.webp
+imageThumbnail: /images/uploads/iamaaronshaw___bgr9b-yn-eq___.jpg
 firstName: Aaron
 collection: Men
 height: 182cms
@@ -19,5 +19,10 @@ imagePortfolio:
   - image: /images/uploads/aaron-3.png
   - image: /images/uploads/aaron-2.png
   - image: /images/uploads/img-5532.jpg
+  - image: /images/uploads/20838280_1958123807797792_4831734841022087168_n.jpg.jpg
+  - image: /images/uploads/aaron-6.webp
+  - image: /images/uploads/3445294_9289649.jpg
+  - image: /images/uploads/aaron.webp
+  - {}
 ---
 
