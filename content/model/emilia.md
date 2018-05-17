@@ -9,6 +9,7 @@ bust: 65cms
 waist: 58cms
 hips: 64cms
 size: '10'
+shoeSize: '2.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
