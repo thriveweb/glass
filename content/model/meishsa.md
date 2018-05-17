@@ -20,5 +20,7 @@ imagePortfolio:
   - image: /images/uploads/20180517_132958-3072x3104.png
   - image: /images/uploads/20180517_133246-3072x3095.png
   - image: /images/uploads/20180517_133306-3072x3544.png
+  - image: /images/uploads/unnamed-1.png
+  - image: /images/uploads/unnamed.png
 ---
 
