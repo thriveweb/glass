@@ -1,0 +1,20 @@
+---
+title: Emilia
+featuredImage: /images/uploads/dscf6283_c1.jpg
+imageThumbnail: /images/uploads/_dsc8542_c1-1.jpg
+firstName: Emilia
+collection: Girls
+height: 140cms
+bust: 65cms
+waist: 58cms
+hips: 64cms
+size: '10'
+hair: Blonde
+eyes: Blue
+imagePortfolio:
+  - image: /images/uploads/_dsc8388_c1.jpg
+  - image: /images/uploads/_dsc8561_c1-1.jpg
+  - image: /images/uploads/_dsc7911_pp1-1.jpg
+  - image: /images/uploads/_dsc7138_c1-2.jpg
+---
+
