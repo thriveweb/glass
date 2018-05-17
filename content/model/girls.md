@@ -1,6 +1,6 @@
 ---
 title: Benaya
-featuredImage: /images/uploads/amn_0357.jpg
+featuredImage: /images/uploads/benaya712638.jpg
 imageThumbnail: /images/uploads/amn_0405-2-.jpg
 firstName: Benaya
 collection: Girls
@@ -19,6 +19,5 @@ imagePortfolio:
   - image: /images/uploads/amn_0362.jpg
   - image: /images/uploads/amn_0357.jpg
   - image: /images/uploads/amn_0318-1-.jpg
-  - {}
 ---
 
