@@ -14,6 +14,5 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/201710284189crop.jpg
-  - {}
 ---
 
