@@ -3,7 +3,7 @@ title: Zac
 featuredImage: /images/uploads/img_5498.jpg
 imageThumbnail: /images/uploads/img_5716.jpg
 firstName: Zac
-collection: mens
+collection: Men
 height: 187cm
 bust: 101cm
 waist: 97cm
