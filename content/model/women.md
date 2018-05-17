@@ -13,7 +13,9 @@ shoeSize: '9'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
+  - image: /images/uploads/grace15267.jpeg
   - image: /images/uploads/gracep1256.jpg
+  - image: /images/uploads/grace178.jpeg
   - image: /images/uploads/grace124.jpg
 ---
 
