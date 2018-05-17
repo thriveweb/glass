@@ -1,25 +1,29 @@
 ---
 title: Grace
 featuredImage: /images/uploads/gracep1256.jpg
-imageThumbnail: /images/uploads/grace124.jpg
+imageThumbnail: /images/uploads/img_1877.png
 firstName: Grace
 collection: Women
 height: 175cm
-bust: '32'
-waist: '25'
-hips: '33'
+bust: 81cm
+waist: 63.5cm
+hips: 84cm
 size: 6-8
 shoeSize: '9'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/grace09876.jpeg
-  - image: /images/uploads/grace15267.jpeg
-  - image: /images/uploads/grace261782943.jpeg
-  - image: /images/uploads/grace178.jpeg
+  - image: /images/uploads/g1.jpg
+  - image: /images/uploads/g5.jpg
+  - image: /images/uploads/g4.jpg
+  - image: /images/uploads/g7.jpg
   - image: /images/uploads/grace25768.jpeg
-  - image: /images/uploads/grace384.jpeg
+  - image: /images/uploads/g1.jpg
   - image: /images/uploads/gracep1256.jpg
-  - image: /images/uploads/grace124.jpg
+  - image: /images/uploads/g2.jpg
+  - image: /images/uploads/g8.jpg
+  - image: /images/uploads/g9.jpg
+  - {}
+  - {}
 ---
 
