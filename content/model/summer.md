@@ -7,6 +7,8 @@ collection: Girls
 height: 147cm
 size: 8-10
 shoeSize: '3'
+hair: Brown
+eyes: Blue
 imagePortfolio:
   - image: /images/uploads/summer189721.jpg
   - image: /images/uploads/summer-robertson-115-edit-1-.jpg
