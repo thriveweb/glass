@@ -1,7 +1,7 @@
 ---
 title: Caitlynn
-featuredImage: /images/uploads/cait-1-.png
-imageThumbnail: /images/uploads/img_5597.jpg
+featuredImage: /images/uploads/img_5350.jpg
+imageThumbnail: /images/uploads/img_5829.jpg
 firstName: Caitlynn
 collection: Women
 height: 166cms
@@ -13,11 +13,14 @@ shoeSize: '9'
 hair: Brunette
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/img_5382.jpg
-  - image: /images/uploads/img_5335.jpg
+  - image: /images/uploads/img_5575.jpg
+  - image: /images/uploads/img_5358.jpg
   - image: /images/uploads/img_5097.jpg
-  - image: ''
-  - {}
-  - {}
+  - image: /images/uploads/img_5335.jpg
+  - image: /images/uploads/img_5125.jpg
+  - image: /images/uploads/cait-4.png
+  - image: /images/uploads/img_5597.jpg
+  - image: /images/uploads/cait-1-.png
+  - image: /images/uploads/img_5772.jpg
 ---
 
