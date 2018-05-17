@@ -1,7 +1,7 @@
 ---
 title: Julian
 featuredImage: /images/uploads/201710284075.jpg
-imageThumbnail: /images/uploads/20180517_135325-3072x3289.png
+imageThumbnail: /images/uploads/20180517_135233-1440x1457.png
 firstName: Julian
 collection: Boys
 height: 117cms
@@ -18,6 +18,6 @@ imagePortfolio:
   - image: /images/uploads/20180517_135305-3072x3795.png
   - image: /images/uploads/20180517_135250-3072x3165.png
   - image: /images/uploads/20180517_135216-3072x3118.png
-  - image: /images/uploads/20180517_135155-1440x1674.png
+  - image: /images/uploads/20180517_135325-3072x3289.png
 ---
 
