@@ -1,6 +1,6 @@
 ---
 title: Russell
-featuredImage: /images/uploads/dingo-ii-1-.jpg
+featuredImage: /images/uploads/russell0923oi4.jpg
 imageThumbnail: /images/uploads/russell_lrg-5.jpg
 firstName: Russell
 collection: Men
