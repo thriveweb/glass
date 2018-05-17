@@ -1,6 +1,6 @@
 ---
 title: Grace
-featuredImage: /images/uploads/grace25768.jpeg
+featuredImage: /images/uploads/gracep1256.jpg
 imageThumbnail: /images/uploads/grace124.jpg
 firstName: Grace
 collection: Women
