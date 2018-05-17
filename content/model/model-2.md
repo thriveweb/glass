@@ -21,5 +21,6 @@ imagePortfolio:
   - image: /images/uploads/ezgif.com-webp-to-jpg-7-.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-8-.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-13-.jpg
+  - image: /images/uploads/amanada.jpg
 ---
 
