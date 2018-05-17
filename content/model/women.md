@@ -1,7 +1,7 @@
 ---
 title: Grace
-featuredImage: /images/uploads/unnamed-29.jpg
-imageThumbnail: /images/uploads/img_0556.jpg
+featuredImage: /images/uploads/gracep1256.jpg
+imageThumbnail: /images/uploads/grace124.jpg
 firstName: Grace
 collection: Women
 height: 175cm
@@ -13,8 +13,7 @@ shoeSize: '9'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/unnamed.jpg
-  - image: /images/uploads/unnamed-29.jpg
-  - image: /images/uploads/unnamed.jpg
+  - image: /images/uploads/gracep1256.jpg
+  - image: /images/uploads/grace124.jpg
 ---
 
