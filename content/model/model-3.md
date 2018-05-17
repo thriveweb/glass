@@ -1,7 +1,7 @@
 ---
 title: Paris
 featuredImage: /images/uploads/201804098477bw.jpg
-imageThumbnail: /images/uploads/201804098349.jpg
+imageThumbnail: /images/uploads/img_3750.jpg
 firstName: Paris
 collection: Women
 height: 173cms
