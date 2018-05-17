@@ -3,7 +3,7 @@ title: Aaron
 featuredImage: /images/uploads/aaron-6.webp
 imageThumbnail: /images/uploads/aaron.webp
 firstName: Aaron
-collection: Mens
+collection: Men
 height: 182cms
 bust: 101cms
 waist: 76cms
@@ -18,5 +18,6 @@ imagePortfolio:
   - image: /images/uploads/aaron-4.webp
   - image: /images/uploads/aaron-3.png
   - image: /images/uploads/aaron-2.png
+  - image: /images/uploads/img-5532.jpg
 ---
 
