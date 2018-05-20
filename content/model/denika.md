@@ -1,7 +1,7 @@
 ---
 title: Denika
-featuredImage: /images/uploads/amn_0596.jpg
-imageThumbnail: /images/uploads/amn_0621.jpg
+featuredImage: /images/uploads/dee-1-.jpg
+imageThumbnail: /images/uploads/unnamed-17.jpg
 firstName: Denika
 collection: Classic
 height: 173cms
@@ -13,7 +13,7 @@ shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/dee-3-1-.png
+  - image: /images/uploads/amn_0582-1-_preview-1.jpg
   - image: /images/uploads/dee-1.png
   - image: /images/uploads/dee-6.png
   - image: /images/uploads/dee-4.png
