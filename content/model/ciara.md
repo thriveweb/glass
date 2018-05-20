@@ -18,5 +18,6 @@ imagePortfolio:
   - image: /images/uploads/unnamed.jpg
   - image: /images/uploads/screenshot_20180517-141740-3072x5461.png
   - image: /images/uploads/screenshot_20180517-141728-1440x2560.png
+  - image: /images/uploads/ciara.jpg
 ---
 
