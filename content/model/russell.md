@@ -3,7 +3,7 @@ title: Russell
 featuredImage: /images/uploads/russell0923oi4.jpg
 imageThumbnail: /images/uploads/russell_lrg-5.jpg
 firstName: Russell
-collection: Classic
+collection: Men
 height: 175cms
 size: M
 shoeSize: '8'
