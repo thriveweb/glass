@@ -20,7 +20,7 @@ imagePortfolio:
   - image: /images/uploads/154.jpg
   - image: /images/uploads/editada1-1-of-1-3.jpg
   - image: /images/uploads/juilette-4.webp
-  - image: /images/uploads/juilette-10.webp
+  - image: /images/uploads/editada1-1-of-1-2.jpg
   - image: /images/uploads/juilette-6.webp
   - image: /images/uploads/juilette-3.webp
   - image: /images/uploads/juilette-11.webp
