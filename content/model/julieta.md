@@ -4,6 +4,14 @@ featuredImage: /images/uploads/juilette-9.png
 imageThumbnail: /images/uploads/juilette-12.webp
 firstName: Julieta
 collection: Classic
+height: 167cm
+bust: 83cm
+waist: 60cm
+hips: 88cm
+size: 6-8
+shoeSize: '7'
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: /images/uploads/julietta-i-vuk-bortnik-bortnik-photography.jpg
   - image: /images/uploads/img_4581_preview.png
