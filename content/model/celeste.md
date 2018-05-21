@@ -3,7 +3,7 @@ title: Celeste
 featuredImage: /images/uploads/celeste-3.jpg
 imageThumbnail: /images/uploads/celeste-6-.jpg
 firstName: Celeste
-collection: Classic
+collection: Women
 imagePortfolio:
   - image: /images/uploads/celeste1.jpg
   - image: /images/uploads/celeste.jpg
