@@ -23,6 +23,6 @@ imagePortfolio:
   - image: /images/uploads/aaron-6.webp
   - image: /images/uploads/3445294_9289649.jpg
   - image: /images/uploads/aaron.webp
-  - {}
+  - image: /images/uploads/iamaaronshaw___bgr9b-yn-eq___.jpg
 ---
 
