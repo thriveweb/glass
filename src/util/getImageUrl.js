@@ -4,7 +4,7 @@ const resizedDir = '/images/uploads/resized/'
 const imgixUrl = 'https://thrive-glass.imgix.net'
 
 const getImgixUrl = ({ path, size }) =>
-  `${imgixUrl}${encodeURI(path)}?w=${size}`
+  `${imgixUrl}${encodeURI(path)}?max-w=${size}&auto=compress`
 
 const parseFilename = filename => {
   const parts = filename.match(/(.+)\.([\w]+)$/)
