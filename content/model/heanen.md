@@ -5,10 +5,13 @@ imageThumbnail: /images/uploads/heanen-7.webp
 firstName: Heanen
 collection: Boys
 height: 124cm
+bust: 63cm
+waist: 57cm
+hips: 63cm
 size: '7'
 shoeSize: '1'
 hair: Brown
-eyes: Brown
+eyes: Blue
 imagePortfolio:
   - image: /images/uploads/heanen.webp
   - image: /images/uploads/heanen-13.webp
