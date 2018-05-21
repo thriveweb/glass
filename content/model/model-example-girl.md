@@ -1,7 +1,7 @@
 ---
 title: Emily
 featuredImage: /images/uploads/amn_9737-1-.jpg
-imageThumbnail: /images/uploads/amn_9727.jpg
+imageThumbnail: /images/uploads/unspecified-14.jpeg
 firstName: Emily
 collection: Women
 height: 170cms
@@ -21,6 +21,6 @@ imagePortfolio:
   - image: /images/uploads/unspecified-9.jpeg
   - image: /images/uploads/amn_9737-1-.jpg
   - image: /images/uploads/unspecified-8.jpeg
-  - image: /images/uploads/unspecified-14.jpeg
+  - image: /images/uploads/amn_9767-1-.jpg
 ---
 
