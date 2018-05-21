@@ -4,7 +4,12 @@ featuredImage: /images/uploads/bec-3.webp
 imageThumbnail: /images/uploads/unnamed-2.jpg
 firstName: Bec
 collection: Women
+height: 178cm
+bust: 85cm
+waist: 66cm
+hips: 92cm
 size: '12'
+shoeSize: '9'
 hair: Brunette
 eyes: Brown
 imagePortfolio:
