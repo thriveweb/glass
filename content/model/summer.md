@@ -16,7 +16,6 @@ imagePortfolio:
   - image: /images/uploads/summer189721.jpg
   - image: /images/uploads/summer-robertson-115-edit-1-.jpg
   - image: /images/uploads/summer872.jpg
-  - image: ''
   - image: /images/uploads/summer238.jpg
   - image: /images/uploads/summer-robertson-137-edit.jpg
   - image: /images/uploads/jessisummer8y2.jpg
