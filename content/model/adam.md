@@ -3,7 +3,7 @@ title: Adam
 featuredImage: /images/uploads/adam-10.jpg
 imageThumbnail: /images/uploads/adam7.jpg
 firstName: Adam
-collection: Mens
+collection: Men
 height: 180cm
 bust: 96cm
 waist: 77cm
