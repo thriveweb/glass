@@ -1,6 +1,10 @@
-const sizes = [10, 300, 600, 900, 1200, 1800]
+const sizes = [10, 300, 900, 1800]
 const outputDir = '/images/uploads/'
 const resizedDir = '/images/uploads/resized/'
+const imgixUrl = 'https://thrive-glass.imgix.net'
+
+const getImgixUrl = ({ path, size }) =>
+  `${imgixUrl}${encodeURI(path)}?w=${size}`
 
 const parseFilename = filename => {
   const parts = filename.match(/(.+)\.([\w]+)$/)
@@ -11,18 +15,29 @@ const parseFilename = filename => {
 }
 
 const getImageSrcset = path => {
-  if (!path || path.match(/^http/) || path.match(/svg$/) || window.CMS) { return null }
+  if (!path || path.match(/^http/) || path.match(/svg$/) || window.CMS) {
+    return null
+  }
   const { filename, extname } = parseFilename(path)
   const pathname = encodeURI(filename.replace(outputDir, resizedDir))
 
   const srcset = sizes
-    .map(size => `${pathname}.${size}.${extname} ${size}w`)
+    .map(
+      size =>
+        `${
+          imgixUrl
+            ? getImgixUrl({ path, size })
+            : `${pathname}.${size}.${extname}`
+        } ${size}w`
+    )
     .join(', ')
   return srcset
 }
 
 const getImageSrc = (path, sizeRequested) => {
-  if (!path || path.match(/^http/) || path.match(/svg$/) || window.CMS) { return path }
+  if (!path || path.match(/^http/) || path.match(/svg$/) || window.CMS) {
+    return path
+  }
   sizeRequested = parseInt(sizeRequested, 10)
   let size
   if (sizeRequested) {
@@ -36,6 +51,7 @@ const getImageSrc = (path, sizeRequested) => {
 
   const { filename, extname } = parseFilename(path)
   const pathname = encodeURI(filename.replace(outputDir, resizedDir))
+  if (imgixUrl) return getImgixUrl({ path, size })
   return `${pathname}.${size}.${extname}`
 }
 
