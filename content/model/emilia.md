@@ -17,5 +17,8 @@ imagePortfolio:
   - image: /images/uploads/_dsc8561_c1-1.jpg
   - image: /images/uploads/_dsc7911_pp1-1.jpg
   - image: /images/uploads/_dsc7138_c1-2.jpg
+  - image: /images/uploads/dscf6013_c1_preview.jpg
+  - image: /images/uploads/6may2018_web-20-_preview.jpg
+  - image: /images/uploads/6may2018_print-11-_preview.jpg
 ---
 
