@@ -4,6 +4,10 @@ featuredImage: /images/uploads/kiana.jpg
 imageThumbnail: /images/uploads/kiana-7.jpg
 firstName: Kiyan
 collection: Boys
+size: '4'
+shoeSize: '10'
+hair: Light Brown
+eyes: Brown
 imagePortfolio:
   - image: /images/uploads/201710284202.jpg
   - image: /images/uploads/kiana-8.jpg
