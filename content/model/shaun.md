@@ -5,17 +5,21 @@ imageThumbnail: /images/uploads/img_0735.jpg
 firstName: Shaun
 collection: men
 height: 185cm
-bust: 38"
-waist: 32"
+bust: 99cm
+waist: 81cm
+hips: 81cm
+size: L
 shoeSize: '11'
 hair: Brown
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/img_0484.jpg
+  - image: /images/uploads/shaun-1.jpg
   - image: /images/uploads/img_0481.jpg
   - image: /images/uploads/img_0480.jpg
   - image: /images/uploads/dsc_1085.jpg
   - image: /images/uploads/shaun_018_by_jakub_koziel-1-.jpg
-  - {}
+  - image: /images/uploads/unnamed-24.jpg
+  - image: /images/uploads/shaun2.jpg
+  - image: /images/uploads/img_0484.jpg
 ---
 
