@@ -1,5 +1,5 @@
 ---
-title: Meishsa
+title: Meisha
 featuredImage: /images/uploads/201710284189crop.jpg
 imageThumbnail: /images/uploads/20180517_132837.png
 firstName: Meisha
