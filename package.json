@@ -68,7 +68,7 @@
     "build:sha": "git rev-parse HEAD > build/sha",
     "parse-content": "node ./functions/parse-content.js",
     "resize-images": "node ./functions/resize-images.js",
-    "prepare-content": "npm-run-all -s parse-content",
+    "prepare-content": "npm-run-all -s parse-content resize-images",
     "test": "standard | snazzy && react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },

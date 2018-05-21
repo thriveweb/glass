@@ -59,5 +59,6 @@ module.exports = {
   getImageSrcset,
   getImageSrc,
   sizes,
-  outputDir
+  outputDir,
+  imgixUrl
 }
