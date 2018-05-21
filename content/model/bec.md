@@ -1,6 +1,6 @@
 ---
 title: Bec
-featuredImage: /images/uploads/bec-7.webp
+featuredImage: /images/uploads/bec-3.webp
 imageThumbnail: /images/uploads/bec.webp
 firstName: Bec
 collection: Women
