@@ -1,6 +1,6 @@
 ---
 title: Emilia
-featuredImage: /images/uploads/dscf6283_c1.jpg
+featuredImage: /images/uploads/emilia5_preview.jpg
 imageThumbnail: /images/uploads/_dsc8542_c1-1.jpg
 firstName: Emilia
 collection: Girls
