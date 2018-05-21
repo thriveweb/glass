@@ -1,7 +1,7 @@
 ---
 title: Bec
 featuredImage: /images/uploads/bec-3.webp
-imageThumbnail: /images/uploads/unnamed-2.jpg
+imageThumbnail: /images/uploads/bec.webp
 firstName: Bec
 collection: Women
 height: 178cm
