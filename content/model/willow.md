@@ -18,7 +18,7 @@ imagePortfolio:
   - image: /images/uploads/willow-5.jpg
   - image: /images/uploads/0s4a9933_preview.jpg
   - image: /images/uploads/babesstudio-173_preview.jpg
-  - image: /images/uploads/unnamed-55.jpg
+  - image: /images/uploads/willow1.jpg
   - image: /images/uploads/willow-.webp
 ---
 
