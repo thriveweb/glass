@@ -4,7 +4,14 @@ featuredImage: /images/uploads/erin10.jpg
 imageThumbnail: /images/uploads/erin1.jpg
 firstName: Erin
 collection: Girls
+height: 119cm
+bust: 55cm
+waist: 51.5cm
+hips: 54cm
+size: 6-7
+shoeSize: '11'
 hair: Light Brown
+eyes: Blue
 imagePortfolio:
   - image: /images/uploads/erin11.jpg
   - image: /images/uploads/erin9.jpg
