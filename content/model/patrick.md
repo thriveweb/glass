@@ -15,6 +15,6 @@ eyes: Green
 imagePortfolio:
   - image: /images/uploads/amn_0815.jpg
   - image: /images/uploads/amn_0856.jpg
-  - {}
+  - image: /images/uploads/amn_0826.jpg
 ---
 
