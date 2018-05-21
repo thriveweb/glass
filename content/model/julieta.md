@@ -1,6 +1,6 @@
 ---
 title: Julieta
-featuredImage: /images/uploads/juiletta-front-cover.png
+featuredImage: /images/uploads/juilette-9-1-.jpg
 imageThumbnail: /images/uploads/juilette-12.webp
 firstName: Julieta
 collection: Women
