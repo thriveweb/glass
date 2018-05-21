@@ -3,7 +3,7 @@ title: Julieta
 featuredImage: /images/uploads/juiletta-front-cover.png
 imageThumbnail: /images/uploads/juilette-12.webp
 firstName: Julieta
-collection: Classic
+collection: Women
 height: 167cm
 bust: 83cm
 waist: 60cm
