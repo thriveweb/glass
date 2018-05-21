@@ -1,6 +1,6 @@
 ---
 title: Julieta
-featuredImage: /images/uploads/julietta-resize.jpg
+featuredImage: /images/uploads/juiletta-front-cover.png
 imageThumbnail: /images/uploads/juilette-12.webp
 firstName: Julieta
 collection: Classic
