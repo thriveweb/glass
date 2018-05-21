@@ -1,9 +1,9 @@
 ---
-title: Denika
+title: Dee
 featuredImage: /images/uploads/dee-1-.jpg
 imageThumbnail: /images/uploads/unnamed-17.jpg
-firstName: Denika
-collection: Classic
+firstName: Dee
+collection: Women
 height: 173cms
 bust: 93cms
 waist: 73cms
