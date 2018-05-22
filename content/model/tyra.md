@@ -4,7 +4,10 @@ featuredImage: /images/uploads/201710284175.jpg
 imageThumbnail: /images/uploads/tyra1.jpg
 firstName: Tyra
 collection: Girls
-height: 148cm
+height: 153cm
+bust: 78cm
+waist: 61cm
+hips: 83cm
 size: 14 Kids
 shoeSize: '8'
 hair: Light Brown
