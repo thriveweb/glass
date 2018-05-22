@@ -3,7 +3,7 @@ title: ' BTS at the Island Hotel Shoot'
 image: /images/uploads/img_0755.jpg
 collection: Agency
 author: Tegan Glass
-date: 22nd May 2018
+date: 14th May 2018
 content: >-
   Celeste, Dani and Aaron from Glass had such a fun shoot at The Island Hotel
   Surfers Paradise...
