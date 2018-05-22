@@ -14,9 +14,10 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/img_0577.jpg
-  - image: /images/uploads/img_0574.jpg
+  - image: /images/uploads/2817028_8595970.jpg
   - image: /images/uploads/img_0576.jpg
   - image: /images/uploads/img_0573.jpg
   - image: /images/uploads/img_0578.jpg
+  - image: /images/uploads/img_0574.jpg
 ---
 
