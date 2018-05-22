@@ -4,6 +4,10 @@ featuredImage: /images/uploads/2817028_8595880.jpg
 imageThumbnail: /images/uploads/-3.png
 firstName: Jules
 collection: Boys
+height: 128cm
+bust: 63cm
+waist: 59cm
+hips: 64cm
 size: '8'
 shoeSize: '3'
 hair: 'Blonde '
