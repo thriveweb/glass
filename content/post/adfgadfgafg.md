@@ -1,8 +1,8 @@
 ---
-title: Insert Your Heading in Here 5
-image: /images/uploads/img_0753.jpg
+title: Dani and Celeste BTS
+image: /images/uploads/img_0757.jpg
 collection: Agency
-author: Dani and Celeste loving The Island  Hotel hospitality!
+author: Island Hotel
 date: 14th May 2018
 content: Text Here
 ---
