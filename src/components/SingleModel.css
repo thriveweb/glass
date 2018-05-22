@@ -41,14 +41,14 @@
 	margin-bottom: 3rem;
 }
 
-.section--model-profile-spec-info {
-	margin-bottom: 3.5rem;
+.section--model-profile-spec-info-item {
+	margin-bottom: 1.5rem;
 }
 
 .section--model-profile-info .spec-content {
-	margin-top: .5rem;
+	margin-top: 0;
 	font-family: var(--font-primary);
-	font-size: 2.3em;
+	font-size: 1.8em;
 }
 
 .section--model-profile-info .spec-title {
@@ -66,7 +66,7 @@
 
 .section--model-profile-images .portfolio-images-slider {
 	position: relative;
-	height: 75rem;
+	height: 70rem;
 	margin-bottom: .5rem;
 	display: block;
 }
@@ -137,13 +137,13 @@
 	.section--model-profile-nav-slide {
 		padding-bottom: 15vw;
 	}
-
-	.section--model-profile-images .portfolio-images-slider {
-		/*height: 40vw;*/
-	}
 }
 
 @media only screen and (max-width: 900px) {
+	.section--model-profile {
+		padding: 5rem 0 4rem;
+	}
+
 	.section--model-profile-images {
 		flex: 0 0 100%;
 		max-width: 100%;
@@ -152,16 +152,20 @@
 
 	.section--model-profile-info {
 		flex: 0 0 100%;
+		order: 2;
 		margin: 0;
 		text-align: left;
-		display: flex;
-		flex-wrap: wrap;
-		order: 2;
 	}
 
 	.section--model-profile-spec-info {
 		flex: 0 0 21%;
-		margin: 0 4% 6vw 0;
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.section--model-profile-spec-info-item {
+		margin: 0 3rem 4rem 0;
+		flex: 0 0 15%;
 	}
 
 	.section--model-profile-info h2, .section--model-profile-info .category {
@@ -172,9 +176,9 @@
 		padding-bottom: 20vw;
 	}
 
-/*	.section--model-profile-images .portfolio-images-slider {
-		height: 60vw;
-	}*/
+	.section--model-profile-images .portfolio-images-slider {
+		height: 70vw;
+	}
 }
 
 @media only screen and (max-width: 600px) {
@@ -213,9 +217,27 @@
 }
 
 @media only screen and (max-width: 375px) {
+	.section--model-profile {
+		padding: 5rem 0 0;
+	}
+
 	.section--model-profile-spec-info {
 		flex: 0 0 46%;
 		text-align: center;
+		justify-content: space-between;
+	}
+
+	.section--model-profile-spec-info-item {
+		margin-right: 0;
+		flex: 0 0 25%;
+	}
+
+	.section--model-profile-info .spec-title {
+		font-size: 1.4em;
+	}
+
+	.section--model-profile-info .spec-content {
+		font-size: 1.3em;
 	}
 
 	.section--model-profile-spec-info:nth-of-type(3n+3) {
