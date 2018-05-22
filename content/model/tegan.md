@@ -19,5 +19,6 @@ imagePortfolio:
   - image: /images/uploads/img_0573.jpg
   - image: /images/uploads/img_0578.jpg
   - image: /images/uploads/img_0574.jpg
+  - image: /images/uploads/calyspo-bay-thumb-03.jpg
 ---
 
