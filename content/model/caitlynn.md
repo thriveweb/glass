@@ -1,6 +1,6 @@
 ---
 title: Caitlynn
-featuredImage: /images/uploads/caitlynn-cover-2-.jpg
+featuredImage: /images/uploads/caitlynn-cover-2-2-.jpg
 imageThumbnail: /images/uploads/img_5829.jpg
 firstName: Caitlynn
 collection: Women
