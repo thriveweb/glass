@@ -1,7 +1,7 @@
 ---
 title: Kaileigh
 featuredImage: /images/uploads/image12.jpeg
-imageThumbnail: /images/uploads/image20.jpeg
+imageThumbnail: /images/uploads/kail-5.jpg
 firstName: Kaileigh
 collection: Women
 height: 181cm
