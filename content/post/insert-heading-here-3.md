@@ -1,8 +1,8 @@
 ---
-title: More Behind The Scenes Island Hotel
-image: /images/uploads/img_0754.jpg
+title: More BTS Island Hotel
+image: /images/uploads/img_0758.jpg
 collection: Agency
-author: Pamper time girls
+author: Aaron and Celeste
 date: 14th May 2018
 content: bbb
 ---
