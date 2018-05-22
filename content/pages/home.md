@@ -59,7 +59,7 @@ testimonials:
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
-    - collection: What Did Reed Krakoff Walk Away from?
+    - collection: ''
     - collection: Why Did Reed Krakoff Walk Away from His Brand?
     - collection: Example Single Post
   subTitle: Our Journal
