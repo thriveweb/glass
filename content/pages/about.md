@@ -59,23 +59,19 @@ services:
     chunks as necessary, making this the first true generator on the Internet.
   serviceItems:
     - content: >-
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable. 
+        We love the photography from Rich Events Photography. They are real, not
+        photo shopped and Casting Directors love them!
 
 
-        * All the Lorem Ipsum generators on the 
-
-        * Internet tend to repeat predefined chunks as necessary, 
-
-        * making this the first true generator on the Internet. 
+        Studio and location shoots can be booked by emailing  the office
+        talent@glassmanagement.com.au
 
 
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable.
+        He specialises in head shots, Instagram Pics and Portfolio shoots. With
+        years of experience as an International published photographer you can't
+        wrong.
       image: /images/uploads/warren-wong-217880-unsplash.png
-      title: Photographers
+      title: Rich Events Photography
     - content: >-
 
 
