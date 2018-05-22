@@ -37,6 +37,7 @@ partners:
   - image: /images/uploads/tatts-logo.png
   - image: /images/uploads/ubet-logo.png
   - image: /images/uploads/seaworld logo.png
+  - image: /images/uploads/lexus.jpeg
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
