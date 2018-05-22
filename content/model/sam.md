@@ -11,5 +11,12 @@ imagePortfolio:
   - image: /images/uploads/samantha-7.webp
   - image: /images/uploads/samantha-5.webp
   - image: /images/uploads/samantha-6.webp
+  - image: /images/uploads/sam-1.jpg
+  - image: /images/uploads/sam-6.jpg
+  - image: /images/uploads/sam-7.jpg
+  - image: /images/uploads/sam-4.jpg
+  - image: /images/uploads/sam-5.jpg
+  - image: /images/uploads/sam-2.jpg
+  - {}
 ---
 
