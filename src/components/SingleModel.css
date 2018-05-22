@@ -60,13 +60,13 @@
 }
 
 .section--model-profile-images {
-	max-width: 60%;
-	flex: 0 0 60%;
+	max-width: 75%;
+	flex: 0 0 75%;
 }
 
 .section--model-profile-images .portfolio-images-slider {
 	position: relative;
-	height: 60rem;
+	height: 75rem;
 	margin-bottom: .5rem;
 	display: block;
 }
@@ -139,7 +139,7 @@
 	}
 
 	.section--model-profile-images .portfolio-images-slider {
-		height: 40vw;
+		/*height: 40vw;*/
 	}
 }
 
@@ -147,6 +147,7 @@
 	.section--model-profile-images {
 		flex: 0 0 100%;
 		max-width: 100%;
+		order: 1;
 	}
 
 	.section--model-profile-info {
@@ -155,6 +156,7 @@
 		text-align: left;
 		display: flex;
 		flex-wrap: wrap;
+		order: 2;
 	}
 
 	.section--model-profile-spec-info {
@@ -170,9 +172,9 @@
 		padding-bottom: 20vw;
 	}
 
-	.section--model-profile-images .portfolio-images-slider {
+/*	.section--model-profile-images .portfolio-images-slider {
 		height: 60vw;
-	}
+	}*/
 }
 
 @media only screen and (max-width: 600px) {
@@ -200,6 +202,13 @@
 
 	.section--model-profile {
 		padding: 5rem 0;
+	}
+}
+
+
+@media only screen and (max-width: 414px) {
+	.section--model-profile-images .portfolio-images-slider {
+		height: 25rem;
 	}
 }
 
