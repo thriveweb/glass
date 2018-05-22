@@ -70,7 +70,7 @@ services:
         He specialises in head shots, Instagram Pics and Portfolio shoots. With
         years of experience as an International published photographer you can't
         wrong.
-      image: /images/uploads/warren-wong-217880-unsplash.png
+      image: /images/uploads/unnamed-16.jpg
       title: Rich Events Photography
     - content: >-
 
@@ -130,20 +130,17 @@ services:
       image: /images/uploads/flaunter-com-237609-unsplash.png
       title: Magazine Shots
     - content: >-
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable. 
+        Don't forget our model casting for 2018 Gold Coast Fashion Week are
+        being held this week @q1resort . Friday is by model agency invitation
+        and Saturday is our open casting. Head to our site for more details and
+        the pre reg form www.gcfw18.com.au
 
 
-        All the Lorem Ipsum generators on the Internet tend to repeat predefined
-        chunks as necessary, making this the first true generator on the
-        Internet. 
 
 
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable.
-      image: /images/uploads/kris-atomic-73935-unsplash.png
+        \#gcfw18 #goldcoast #fashion #fashionweek #runway #style #gcfw
+        #modelswanted #modelcasting
+      image: /images/uploads/gcfashion.jpg
       title: Fashion Catwalks
   subTitle: Complete Project Management
   title: Services Provided
