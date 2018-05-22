@@ -12,5 +12,7 @@ imagePortfolio:
   - image: /images/uploads/green_red_shirt_kaftan_1.jpg
   - image: /images/uploads/20180502_154206.jpg
   - {}
+  - image: /images/uploads/celeste-harmony-camilla-kirk-photography-web-35.jpg
+  - {}
 ---
 
