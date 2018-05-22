@@ -52,7 +52,6 @@ teamMembers:
     leftAlign: true
     subTitle: Intern
     title: Chelsea
-  - {}
 services:
   content: >-
     All the Lorem Ipsum generators on the Internet tend to repeat predefined
@@ -67,9 +66,9 @@ services:
         talent@glassmanagement.com.au
 
 
-        He specialises in head shots, Instagram Pics and Portfolio shoots. With
-        years of experience as an International published photographer you can't
-        wrong.
+        Rich specialises in head shots, Instagram Pics and Portfolio shoots.
+        With years of experience as an International published photographer you
+        can't wrong.
       image: /images/uploads/unnamed-16.jpg
       title: Rich Events Photography
     - content: >-
