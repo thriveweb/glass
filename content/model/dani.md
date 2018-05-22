@@ -1,6 +1,6 @@
 ---
 title: Dani
-featuredImage: /images/uploads/dani-10.png
+featuredImage: /images/uploads/dani-cover.jpg
 imageThumbnail: /images/uploads/dani-3.jpg
 firstName: Dani
 collection: Women
