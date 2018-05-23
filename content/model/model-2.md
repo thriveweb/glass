@@ -22,5 +22,10 @@ imagePortfolio:
   - image: /images/uploads/ezgif.com-webp-to-jpg-8-.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-13-.jpg
   - image: /images/uploads/amanada.jpg
+  - image: /images/uploads/amanda.jpg
+  - image: /images/uploads/amanda-1.jpg
+  - image: /images/uploads/amanda-3.jpg
+  - image: /images/uploads/amanda-6.jpg
+  - {}
 ---
 
