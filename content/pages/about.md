@@ -48,7 +48,7 @@ teamMembers:
       Website and Casting Network up to date. Whilst offering a smile and words
       of advice to any talent needing some help and a great mentor to the Glass
       kids.
-    image: /images/uploads/amn_1244.jpg
+    image: /images/uploads/img_3055.jpg
     leftAlign: true
     subTitle: Intern
     title: Chelsea
