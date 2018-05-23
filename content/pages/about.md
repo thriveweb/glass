@@ -44,10 +44,12 @@ teamMembers:
     subTitle: Marketing Manager
     title: Jo Glenn
   - content: >-
-      Beautiful 16 year old actress/model intern works tirelessly at keeping the
-      Website and Casting Network up to date. Whilst offering a smile and words
-      of advice to any talent needing some help and a great mentor to the Glass
-      kids.
+      Beautiful 16 year old Actress/Model/Writer - intern works tirelessly at
+      keeping the Website and Casting Network up to date. Chelsea is also here
+      to help the talent with their self taps and auditions and as a talented
+      writer she has a weekly blog on our website, Whilst always offering a
+      smile and words of advice to any talent needing some help and is a great
+      mentor to the Glass kids. Chelsea is a wonderful asset to the Glass Team.
     image: /images/uploads/img_3055.jpg
     leftAlign: true
     subTitle: Intern
