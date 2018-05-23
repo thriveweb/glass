@@ -9,6 +9,7 @@ bust: ''
 waist: ''
 hips: ''
 size: '6'
+shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
