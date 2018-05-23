@@ -8,7 +8,7 @@ height: 175cm
 bust: 81cm
 waist: 63.5cm
 hips: 84cm
-size: 6-8
+size: '8'
 shoeSize: '9'
 hair: Blonde
 eyes: Brown
