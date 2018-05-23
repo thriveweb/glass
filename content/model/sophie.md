@@ -4,6 +4,10 @@ featuredImage: /images/uploads/sophie-11.jpg
 imageThumbnail: /images/uploads/sophie-10.jpg
 firstName: Sophie
 collection: Girls
+size: '10'
+shoeSize: '8'
+hair: Dark Brown
+eyes: Blue
 imagePortfolio:
   - image: /images/uploads/sophie-15.jpg
   - image: /images/uploads/sophie-12.jpg
