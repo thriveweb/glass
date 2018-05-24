@@ -4,6 +4,12 @@ featuredImage: /images/uploads/brayden-1.jpg
 imageThumbnail: /images/uploads/brayden-16.jpg
 firstName: Brayden
 collection: Men
+height: 184cm
+bust: 95cm
+waist: 78cm
+hips: 82.5cm
+size: M
+shoeSize: '10'
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
