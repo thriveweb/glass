@@ -1,5 +1,5 @@
 ---
-featuredImage: /images/uploads/tb3_classicactorsquote.jpg
+featuredImage: /images/uploads/images.jpg
 subTitle: Glass Management
 title: About
 teamMembers:
