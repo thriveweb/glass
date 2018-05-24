@@ -5,6 +5,18 @@ collection: Agency
 author: Tegan Glass
 date: 14th May 2018
 content: >-
+  ![Party time](/images/uploads/img_0753.jpg)
+
+
+  ![Pamper Time](/images/uploads/img_0754.jpg)
+
+
+  ![](/images/uploads/img_0757.jpg)
+
+
+  ![](/images/uploads/img_0758.jpg)
+
+
   Celeste, Dani and Aaron from Glass had such a fun shoot at The Island Hotel
   Surfers Paradise...
 
