@@ -163,12 +163,12 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Title, name: title, widget: string}
                   - {label: Content, name: content, widget: markdown}
 
-      # - file: "content/pages/models.md"
-      #   label: "Models"
-      #   name: "models"
-      #   fields:
-      #     - {label: Sub Title, name: subTitle, widget: string}
-      #     - {label: Title, name: title, widget: string}
+      - file: "content/pages/models.md"
+        label: "Models"
+        name: "models"
+        fields:
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
 
       - file: "content/pages/blog.md"
         label: "Blog"
