@@ -61,8 +61,8 @@ testimonials:
 featuredPosts:
   blogPosts:
     - collection: Mothers Day Catwalk Show
-    - collection: Why Did Reed Krakoff Walk Away from His Brand?
-    - collection: Example Single Post
+    - collection: Sanctuary Cove Boat Show
+    - collection: Black Ice Campaign
   subTitle: Our Journal
   title: Read Our Latest News
 ---
