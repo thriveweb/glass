@@ -18,6 +18,6 @@ content: >-
 
 
   Great job kids and the teachers were pretty great too!!!
-videoSource: 'https://www.youtube.com/watch?v=6pxRHBw-k8M'
+videoSource: 'https://www.youtube.com/watch?v=vlDzYIIOYmM'
 ---
 
