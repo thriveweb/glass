@@ -78,7 +78,7 @@ services:
         cinematic videos accessible to anyone and everyone! With a special focus
         on visual and storytelling aspects, we strive to ensure quick and
         affordable turnarounds.
-      image: /images/uploads/16938935_560953354100941_4615213326275517398_n-2-1-.jpg
+      image: /images/uploads/sharegrid-554231-unsplash.png
       title: Videographer
     - content: >-
         There are many variations of passages of Lorem Ipsum available, but the
