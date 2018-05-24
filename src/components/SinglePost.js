@@ -1,11 +1,12 @@
 import React from 'react'
 import './SinglePost.css'
+import { Player } from 'video-react';
 
 import Content from './Content'
 import { ICONFacebook, ICONTwitter, ICONLinkedin } from './Icons'
 
 export default({ post }) => {
-	const { title, collection, author, date, content } = post
+	const { title, collection, author, date, content, videoSource } = post
 
 	return <section className='section--single-post'>
 			<div className='container'>
@@ -26,6 +27,9 @@ export default({ post }) => {
 						{date && <p className='date title'>{date}</p>}
 					</div>
 					{content && <Content source={content} />}
+					{videoSource && <Player>
+      					<source src="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" />
+   					</Player>}
 				</div>		
 			</div>
 		</section>
