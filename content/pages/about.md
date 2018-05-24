@@ -56,8 +56,9 @@ teamMembers:
     title: Chelsea
 services:
   content: >-
-    All the Lorem Ipsum generators on the Internet tend to repeat predefined
-    chunks as necessary, making this the first true generator on the Internet.
+    Glass Management supplies professional talent for Feature Films, TV
+    Commercials, Catalogues, Editorials, Lifestyle Shoots, Catwalk Shows and
+    Promotional Events.
   serviceItems:
     - content: >-
         We love the photography from Rich Events Photography. They are real, not
@@ -143,7 +144,7 @@ services:
         #modelswanted #modelcasting
       image: /images/uploads/gcfashion.jpg
       title: Fashion Catwalks
-  subTitle: Complete Project Management
+  subTitle: Modeling and Talent Agency
   title: Services Provided
 ---
 
