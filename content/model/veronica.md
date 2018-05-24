@@ -1,6 +1,6 @@
 ---
 title: Veronica
-featuredImage: /images/uploads/veronica-cover.jpg
+featuredImage: /images/uploads/veronica-cover-111.jpg
 imageThumbnail: /images/uploads/img_0763.png
 firstName: Veronica
 collection: Classic
