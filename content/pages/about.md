@@ -85,21 +85,19 @@ services:
       image: /images/uploads/sharegrid-554231-unsplash.png
       title: Videographer
     - content: >-
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable. 
 
 
-        All the Lorem Ipsum generators on the Internet tend to repeat predefined
-        chunks as necessary, making this the first true generator on the
-        Internet. 
+        Karli our gorgeous make up artist will transform you to be camera ready.
+        Not only will she create a flawless face but she will also style your
+        hair to match. Perfect for events and photo shoots.
 
 
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable.
-      image: /images/uploads/caique-silva-341076-unsplash.png
-      title: Makeup
+        Be shoot ready in a flash with Karli from ibeautyconnect.
+
+
+        Email: ibeautyconnect17@gmail.com
+      image: /images/uploads/mu.jpg
+      title: Makeup Artist
     - content: >-
         There are many variations of passages of Lorem Ipsum available, but the
         majority have suffered alteration in some form, by injected humour, or
