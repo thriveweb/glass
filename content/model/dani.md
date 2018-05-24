@@ -1,7 +1,7 @@
 ---
 title: Dani
 featuredImage: /images/uploads/dani-91-copy.jpeg
-imageThumbnail: /images/uploads/dani-3.jpg
+imageThumbnail: /images/uploads/ezgif.com-crop-14-1-.jpg
 firstName: Dani
 collection: Women
 height: 170cm
