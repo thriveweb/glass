@@ -1,5 +1,5 @@
 ---
-featuredImage: /images/uploads/images.jpg
+featuredImage: /images/uploads/audrey-hepburn.jpg
 subTitle: Glass Management
 title: About
 teamMembers:
