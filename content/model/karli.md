@@ -13,7 +13,7 @@ shoeSize: '10'
 hair: Blonde/Brown
 eyes: Hazel
 imagePortfolio:
-  - image: /images/uploads/karli.png
+  - image: /images/uploads/karli-3.png
   - image: /images/uploads/karli-1.png
   - image: /images/uploads/karli-7.png
   - image: /images/uploads/karli-8.png
@@ -21,7 +21,6 @@ imagePortfolio:
   - image: /images/uploads/karli-5.png
   - image: /images/uploads/karli-4.png
   - image: /images/uploads/karli-3.png
-  - {}
-  - {}
+  - image: /images/uploads/karli.png
 ---
 
