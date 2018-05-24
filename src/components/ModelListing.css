@@ -147,27 +147,43 @@
 }
 
 @media only screen and (max-width: 600px) {
-	.section--model-list-items {
-		margin: 4rem 0 0;
-	}
-
-	.section--model-list-item {
-		flex: 0 0 85%;
-		margin: 0 auto 5vw !important;
-	}
-
-	.section--model-list-item-link {
-		height: 65vw;
-	}
-
 	.archive--listing {
 		margin: 5rem 0;
+	}
+
+	.name-rotate {
+		display: none;
 	}
 }
 
 @media only screen and (max-width: 415px) {
+	.section--model-list-items {
+		margin-left: 0;
+	}
+
+	.section--model-list-item {
+		flex: 0 0 48%;
+		margin: 0 4% 3vw 0;
+	}
+
+	.section--model-list-item:nth-child(3n+3) {
+		margin: 0 4% 3vw 0;
+	}
+
+	.section--model-list-item:nth-child(2n+2) {
+		margin: 0 0 3vw 0;
+	}
+
 	.section--model-list-item-link {
-		height: 85vw;
+		height: 55vw;
+	}
+
+	.section--model-list-item h3 {
+		font-size: 1.2em;
+	}
+
+	.section--model-list-item .category {
+		font-size: .6em;
 	}
 }
 

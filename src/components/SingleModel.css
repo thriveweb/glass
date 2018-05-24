@@ -183,10 +183,10 @@
 
 @media only screen and (max-width: 600px) {
 
-	.section--model-profile-images {
+/*	.section--model-profile-images {
 		flex: 0 0 100%;
 		max-width: 100%;
-	}
+	}*/
 
 	.section--model-profile-spec-info {
 		flex: 0 0 29%;
