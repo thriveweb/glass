@@ -1,5 +1,5 @@
 ---
-featuredImage: /images/uploads/tanja-heffner-300859-unsplash.png
+featuredImage: /images/uploads/tb3_classicactorsquote.jpg
 subTitle: Glass Management
 title: About
 teamMembers:
