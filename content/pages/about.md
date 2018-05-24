@@ -1,7 +1,7 @@
 ---
 featuredImage: /images/uploads/gigi.jpg
 subTitle: Glass Management
-title: About
+title: Team Glass
 teamMembers:
   - content: >-
       Tegan has been in the Entertainment Industry for over 30 years (now you
