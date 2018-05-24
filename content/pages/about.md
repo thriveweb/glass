@@ -40,7 +40,7 @@ teamMembers:
       the right brand that suits their style. With over 25 years of experience
       in the marketing, promotion and events Industry Glass are very lucky to
       have her on board!
-    image: /images/uploads/images-2.jpg
+    image: /images/uploads/marketing.jpg
     subTitle: Marketing Manager
     title: Jo Glenn
   - content: >-
