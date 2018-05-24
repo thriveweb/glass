@@ -1,17 +1,18 @@
 ---
-title: Dani and Celeste BTS
-image: /images/uploads/img_0757.jpg
+title: Sanctuary Cove Boat Show
+image: /images/uploads/bts2.jpg
 collection: Agency
-author: Island Hotel
-date: 14th May 2018
+author: Tegan
+date: 24th May 2018
 content: >-
-  Celeste quotes:
+  10 Team Glass models represented Maritimo at the prestigious Sanctuary Cove
+  Boat Show.
 
 
-  Loved yesterday! One of my favourites! (And we know she's had a list of shoots
-  a mile long)
+  Dressed in stripes with matching smiles the girls welcomed the guests onto the
+  Super Yachts.
 
 
-  Such a talented and fun crew to work with.
+  ![](/images/uploads/bts-1.jpg)
 ---
 
