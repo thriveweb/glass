@@ -1,5 +1,5 @@
 ---
-featuredImage: /images/uploads/glassmanagement_logo.png
+featuredImage: /images/uploads/glassmanagement_logo_small-2-.png
 subTitle: ''
 title: About Us
 teamMembers:
@@ -40,7 +40,7 @@ teamMembers:
       the right brand that suits their style. With over 25 years of experience
       in the marketing, promotion and events Industry Glass are very lucky to
       have her on board!
-    image: /images/uploads/marketing.jpg
+    image: /images/uploads/img_0774.jpg
     subTitle: Marketing Manager
     title: Jo Glenn
   - content: >-
