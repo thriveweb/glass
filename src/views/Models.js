@@ -5,12 +5,12 @@ import ModelListing from '../components/ModelListing'
 import Banner from '../components/Banner'
 
 export default ({ page, modelTypes, selectedModelType = {}, models }) => {
-	const { title, subTitle, featuredImage } = page
+	const { title, subTitle } = page
 
 	return (
 		<main className='Models'>
 		    <Banner 
-			    image={featuredImage}
+			    image={selectedModelType.featuredImage}
 			    title={selectedModelType.name}
 			    subTitle={subTitle} 
 		    />
