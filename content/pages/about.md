@@ -1,7 +1,7 @@
 ---
 featuredImage: /images/uploads/glassmanagement_logo.png
 subTitle: Glass Management
-title: Team Glass
+title: About Us
 teamMembers:
   - content: >-
       Tegan has been in the Entertainment Industry for over 30 years (now you
