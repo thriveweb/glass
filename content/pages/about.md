@@ -61,19 +61,16 @@ services:
     Promotional Events.
   serviceItems:
     - content: >-
-        We love the photography from Rich Events Photography. They are real, not
-        photo shopped and Casting Directors love them!
-
-
         Studio and location shoots can be booked by emailing  the office
         talent@glassmanagement.com.au
 
 
-        Rich specialises in head shots, Instagram Pics and Portfolio shoots.
-        With years of experience as an International published photographer you
-        can't wrong.
+        We have an extensive list of preferred photographers who we recommend.
+
+
+        Specialising in portfolio shoots, head shots and Instagram photos.
       image: /images/uploads/unnamed-16.jpg
-      title: Rich Events Photography
+      title: ' Photography'
     - content: >-
 
 
