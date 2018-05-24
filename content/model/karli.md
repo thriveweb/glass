@@ -1,6 +1,6 @@
 ---
 title: Karli
-featuredImage: /images/uploads/karli-6.png
+featuredImage: /images/uploads/karli.png
 imageThumbnail: /images/uploads/karli-10.png
 firstName: Karli
 collection: Women
