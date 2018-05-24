@@ -1,6 +1,6 @@
 ---
 featuredImage: /images/uploads/glassmanagement_logo.png
-subTitle: Glass Management
+subTitle: ''
 title: About Us
 teamMembers:
   - content: >-
