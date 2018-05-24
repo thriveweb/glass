@@ -15,5 +15,6 @@ imagePortfolio:
   - image: /images/uploads/havana-10.webp
   - image: /images/uploads/havana-8.webp
   - image: /images/uploads/havana-1.webp
+  - {}
 ---
 
