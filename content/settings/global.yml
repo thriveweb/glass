@@ -18,8 +18,8 @@ footer:
   footerNav:
     - buttonText: Become a Model
       buttonUrl: join-us
-    - buttonText: About Us
-      buttonUrl: about
+    - buttonText: Team Glass
+      buttonUrl: Team Glass
     - buttonText: FAQ
       buttonUrl: '#'
     - buttonText: Book Models
