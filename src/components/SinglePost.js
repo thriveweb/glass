@@ -1,7 +1,6 @@
-import React from 'react'
+import React, { Component } from 'react'
 import './SinglePost.css'
-import { Player } from 'video-react'
-import 'video-react/dist/video-react.css'
+import ReactPlayer from 'react-player'
 
 import Content from './Content'
 import { ICONFacebook, ICONTwitter, ICONLinkedin } from './Icons'
@@ -28,9 +27,9 @@ export default({ post }) => {
 						{date && <p className='date title'>{date}</p>}
 					</div>
 					{content && <Content source={content} />}
-					{videoSource && <Player>
-      					<source src={videoSource} />
-   					</Player>}
+					{videoSource && <div className='section--single-post-video'>
+						<ReactPlayer url={videoSource} />
+					</div>}
 				</div>		
 			</div>
 		</section>
