@@ -1,6 +1,7 @@
 import React from 'react'
 import './SinglePost.css'
-import { Player } from 'video-react';
+import { Player } from 'video-react'
+import 'video-react/dist/video-react.css'
 
 import Content from './Content'
 import { ICONFacebook, ICONTwitter, ICONLinkedin } from './Icons'
@@ -28,7 +29,7 @@ export default({ post }) => {
 					</div>
 					{content && <Content source={content} />}
 					{videoSource && <Player>
-      					<source src="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" />
+      					<source src={videoSource} />
    					</Player>}
 				</div>		
 			</div>

@@ -51,6 +51,7 @@
     "react-router-dom": "^4.1.1",
     "react-slick": "^0.23.1",
     "react-snapshot": "^1.1.0",
+    "redux": "^4.0.0",
     "slick-carousel": "^1.8.1",
     "video-react": "^0.10.9"
   },
