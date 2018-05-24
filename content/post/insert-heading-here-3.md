@@ -1,9 +1,11 @@
 ---
-title: More BTS Island Hotel
-image: /images/uploads/img_0758.jpg
+title: Black Ice Campaign
+image: /images/uploads/bts.jpg
 collection: Agency
-author: Aaron and Celeste
-date: 14th May 2018
-content: bbb
+author: Tegan
+date: 24th May 2018
+content: >-
+  BTS with Amanda,Dani, Dan and Luke for the Black Ice Campaign. Shot locally at
+  Burleigh.
 ---
 
