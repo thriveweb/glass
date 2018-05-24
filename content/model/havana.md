@@ -15,6 +15,8 @@ imagePortfolio:
   - image: /images/uploads/havana-10.webp
   - image: /images/uploads/havana-8.webp
   - image: /images/uploads/havana-1.webp
-  - {}
+  - image: /images/uploads/havana-and-luca-glass.jpg
+  - image: /images/uploads/havana-and-luca-glass-2.jpg
+  - image: /images/uploads/havana-and-luca-glass-1.jpg
 ---
 
