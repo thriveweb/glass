@@ -152,7 +152,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Left Align, name: leftAlign, widget: boolean, default: true, required: false}
               - {label: Image, name: image, widget: image, required: false}
               - {label: Sub Title, name: subTitle, widget: string, required: false}
-              - {label: Title, name: title, widget: string, required: false
+              - {label: Title, name: title, widget: string, required: false}
               - {label: Content, name: content, widget: markdown, required: false}
           - label: "Services"
             name: "services"
