@@ -1,4 +1,6 @@
 import React from 'react'
+import _kebabCase from 'lodash/kebabCase'
+
 import './Footer.css'
 
 import { Link } from 'react-router-dom'
@@ -12,7 +14,7 @@ export default ({twitter, facebook, linkedin, instagram, title, footerNav, butto
         <div className='footer--nav-items'>
           {footerNav.map (navItem => {
             return (
-              <Link key={navItem.buttonText} to={`${navItem.buttonUrl}`}>{navItem.buttonText}</Link>
+              <Link key={navItem.buttonText} to={`${_kebabCase(navItem.buttonUrl)}`}>{navItem.buttonText}</Link>
             )
           })}
         </div>
