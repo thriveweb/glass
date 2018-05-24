@@ -72,12 +72,16 @@ services:
       image: /images/uploads/unnamed-16.jpg
       title: ' Photography'
     - content: >-
-
-
-        At Gracey Criss Video, we are avid film lovers who want to create
+        We use Gracey Criss Video, who are avid film lovers who want to create
         cinematic videos accessible to anyone and everyone! With a special focus
-        on visual and storytelling aspects, we strive to ensure quick and
+        on visual and storytelling aspects, they strive to ensure quick and
         affordable turnarounds.
+
+
+        Book in for your show reel or self tape today.
+
+
+        Email the office on: talent@glassmanagement.com.au
       image: /images/uploads/sharegrid-554231-unsplash.png
       title: Videographer
     - content: >-
