@@ -14,9 +14,11 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/amn_0582-1-_preview-1.jpg
-  - image: /images/uploads/dee-1.png
-  - image: /images/uploads/dee-6.png
+  - image: /images/uploads/dee-9.jpg
+  - image: /images/uploads/dee10.jpg
   - image: /images/uploads/dee-4.png
   - image: /images/uploads/dee8.png
+  - image: /images/uploads/dee-1.png
+  - image: /images/uploads/dee-6.png
 ---
 
