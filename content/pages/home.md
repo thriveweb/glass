@@ -60,7 +60,7 @@ testimonials:
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
-    - collection: ''
+    - collection: Mothers Day Catwalk Show
     - collection: Why Did Reed Krakoff Walk Away from His Brand?
     - collection: Example Single Post
   subTitle: Our Journal
