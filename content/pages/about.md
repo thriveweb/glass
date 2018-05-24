@@ -1,5 +1,5 @@
 ---
-featuredImage: /images/uploads/gigi.jpg
+featuredImage: /images/uploads/glassmanagement_logo.png
 subTitle: Glass Management
 title: Team Glass
 teamMembers:
