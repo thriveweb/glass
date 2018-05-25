@@ -1,5 +1,6 @@
 ---
 title: Team Glass
+showInFooter: false
 featuredImage: /images/uploads/keanu-reeves-squarespace-braap.jpg
 content: >-
   This is placeholder text that our web designers put here to make sure words
