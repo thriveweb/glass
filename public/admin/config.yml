@@ -76,75 +76,7 @@ collections: # A list of collections the CMS should be able to edit
                     searchFields: ['title'],
                     valueField: 'title'
                     }
-
-  - label: "Info Page"
-    name: "info-page"
-    delete: true # Prevent users from deleting documents in this collection
-    editor:
-      preview: true
-    folder: "content/info-page"
-    create: true
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: Featured Image, name: featuredImage, widget: image}
-      - {label: Content, name: content, widget: markdown}
-
-  - name: "settings"
-    label: "Settings"
-    delete: false # Prevent users from deleting documents in this collection
-    editor:
-      preview: false
-    files:
-      - file: "content/settings/global.yml"
-        label: "Global Settings"
-        name: "global-settings"
-        fields:
-          - {label: Site Title, name: siteTitle, widget: string}
-          - {label: Site Url, name: siteUrl, widget: string, required: false}
-          - {label: Site Description, name: siteDescription, widget: text, required: false}
-          - {label: Site Description, name: siteDescription, widget: text, required: false}
-          - {label: Phone, name: phone, widget: string, required: false}
-          - {label: Email, name: email, widget: string, required: false}
-          - {label: Address, name: address, widget: string, required: false}
-          - {label: Twitter, name: twitter, widget: string, required: false}
-          - {label: Facebook, name: facebook, widget: string, required: false}
-          - {label: Linkedin, name: linkedin, widget: string, required: false}
-          - {label: Instagram, name: instagram, widget: string, required: false}
-          - label: "Header"
-            name: "header"
-            widget: "object"
-            fields:
-              - {label: Button Text, name: buttonText, widget: string}
-              - {label: Button Url, name: buttonUrl, widget: string}
-          - label: "Footer"
-            name: "footer"
-            widget: "object"
-            fields:
-              - {label: Title, name: title, widget: string}
-              - label: "Footer Nav"
-                name: "footerNav"
-                widget: "list"
-                fields:
-                  - {label: Button Text, name: buttonText, widget: string}
-                  - {label: Button Url, name: buttonUrl, widget: string}
-          - label: "Partners"
-            name: "partners"
-            widget: "list"
-            fields:
-              - {label: Image, name: image, widget: image}
-          - label: "Columns"
-            name: "columns"
-            widget: "list"
-            fields:
-              - {label: Left Align, name: leftAlign, widget: boolean, default: true}
-              - {label: Image, name: image, widget: image}
-              - {label: Title, name: title, widget: string}
-              - {label: Content, name: content, widget: string}
-              - {label: Button Title, name: buttonTitle, widget: string}
-              - {label: Button Url, name: buttonUrl, widget: string}
-          - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
-
-
+    
       - file: "content/pages/about.md"
         label: "About Page"
         name: "about-page"
@@ -213,7 +145,74 @@ collections: # A list of collections the CMS should be able to edit
             widget: "object"
             fields:
               - {label: Title, name: title, widget: string}
-              - {label: Content, name: content, widget: markdown}
+              - {label: Content, name: content, widget: markdown}                
+
+  - label: "Info Page"
+    name: "info-page"
+    delete: true # Prevent users from deleting documents in this collection
+    editor:
+      preview: true
+    folder: "content/info-page"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Featured Image, name: featuredImage, widget: image}
+      - {label: Content, name: content, widget: markdown}
+
+  - name: "settings"
+    label: "Settings"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - file: "content/settings/global.yml"
+        label: "Global Settings"
+        name: "global-settings"
+        fields:
+          - {label: Site Title, name: siteTitle, widget: string}
+          - {label: Site Url, name: siteUrl, widget: string, required: false}
+          - {label: Site Description, name: siteDescription, widget: text, required: false}
+          - {label: Site Description, name: siteDescription, widget: text, required: false}
+          - {label: Phone, name: phone, widget: string, required: false}
+          - {label: Email, name: email, widget: string, required: false}
+          - {label: Address, name: address, widget: string, required: false}
+          - {label: Twitter, name: twitter, widget: string, required: false}
+          - {label: Facebook, name: facebook, widget: string, required: false}
+          - {label: Linkedin, name: linkedin, widget: string, required: false}
+          - {label: Instagram, name: instagram, widget: string, required: false}
+          - label: "Header"
+            name: "header"
+            widget: "object"
+            fields:
+              - {label: Button Text, name: buttonText, widget: string}
+              - {label: Button Url, name: buttonUrl, widget: string}
+          - label: "Footer"
+            name: "footer"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - label: "Footer Nav"
+                name: "footerNav"
+                widget: "list"
+                fields:
+                  - {label: Button Text, name: buttonText, widget: string}
+                  - {label: Button Url, name: buttonUrl, widget: string}
+          - label: "Partners"
+            name: "partners"
+            widget: "list"
+            fields:
+              - {label: Image, name: image, widget: image}
+          - label: "Columns"
+            name: "columns"
+            widget: "list"
+            fields:
+              - {label: Left Align, name: leftAlign, widget: boolean, default: true}
+              - {label: Image, name: image, widget: image}
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: string}
+              - {label: Button Title, name: buttonTitle, widget: string}
+              - {label: Button Url, name: buttonUrl, widget: string}
+          - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
 
 
   # Custom Post Types
