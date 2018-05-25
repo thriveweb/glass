@@ -16,9 +16,15 @@ class Posts extends Component {
 			return selectedCategory === 'all' || collectionName === selectedCategory.name
 		})
 
-		const pageNumber = pageSearch ? parseInt(pageSearch.replace('?page=', '')) : 1
-		const paginatedPosts = filteredPosts.slice((9 * (pageNumber - 1)), (9 * pageNumber))
+		// const pageNumber = pageSearch ? parseInt(pageSearch.replace('?page=', '')) : 1
+		// const paginatedPosts = filteredPosts.slice((9 * (pageNumber - 1)), (9 * pageNumber))
 
+		// <Pagination 
+			// items={filteredPosts}
+			// itemsPer={9}
+			// pageNumber={pageNumber}
+			// history={history}
+		// />
 
 		return <section className='section--featured-posts archive--posts'>
 			<div className='container'>
@@ -27,16 +33,12 @@ class Posts extends Component {
 					<h2>Read our Latest News</h2>
 				</div>
 				<PostCategory postCategories={postCategories} selectedCategory={selectedCategory} />
-				{paginatedPosts && <FeaturedPost posts={paginatedPosts} />}
-				<Pagination 
-					items={filteredPosts}
-					itemsPer={9}
-					pageNumber={pageNumber}
-					history={history}
-				/>   
+				{filteredPosts && <FeaturedPost posts={filteredPosts} />} 
 			</div>		
 		</section>
 	}
-}
+}  
 
 export default ( Posts )
+
+
