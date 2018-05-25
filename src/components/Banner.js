@@ -1,6 +1,7 @@
 import React from 'react'
 import './Banner.css'
 
+import { slugify } from '../util/url'
 import { Link } from 'react-router-dom'
 import BackgroundImage from './BackgroundImage'
 import LazyImage from './LazyImage'
