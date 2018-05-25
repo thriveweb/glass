@@ -4,9 +4,11 @@ featuredImage: /images/uploads/dean-banner-1-.jpg
 imageThumbnail: /images/uploads/dean-1.jpg
 firstName: Dean
 collection: Men
-height: 182cms
-bust: 101cms
-waist: 81cms
+height: 183cms
+bust: 109cms
+waist: 83cms
+size: 'Shirt M, Pants 32'
+shoeSize: '10'
 hair: Brown
 eyes: Blue
 imagePortfolio:
