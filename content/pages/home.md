@@ -5,7 +5,7 @@ content: >-
   A boutique talent agency based on the Gold Coast, Australia.  Providing
   professional talent of all ages.
 buttonText: See our Models
-buttonUrl: about
+buttonUrl: models/women
 gallery:
   galleryImages:
     - image: /images/uploads/img_0556.jpg
