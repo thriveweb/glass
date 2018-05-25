@@ -76,7 +76,7 @@ collections: # A list of collections the CMS should be able to edit
                     searchFields: ['title'],
                     valueField: 'title'
                     }
-    
+
       - file: "content/pages/about.md"
         label: "About Page"
         name: "about-page"
@@ -231,6 +231,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Author, name: author, widget: string}
       - {label: Date, name: date, widget: string}
       - {label: Content, name: content, widget: markdown}
+      - {label: Video Source, name: videoSource, widget: string, }
 
   - label: "Post Category"
     name: "post-category"
@@ -278,4 +279,5 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: Title, name: title, widget: string}
+      - {label: Featured Image, name: featuredImage, widget: image}
       - {label: Order, name: order, widget: number}
