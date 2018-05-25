@@ -1,6 +1,6 @@
 import React from 'react'
-import _kebabCase from 'lodash/kebabCase'
 
+import { slugify } from '../util/url'
 import './Footer.css'
 
 import { Link } from 'react-router-dom'
@@ -25,7 +25,7 @@ export default ({
             return (
               <Link
                 key={navItem.buttonText}
-                to={`/${_kebabCase(navItem.buttonUrl)}`}
+                to={slugify(`/${navItem.buttonUrl}`)}
               >
                 {navItem.buttonText}
               </Link>
