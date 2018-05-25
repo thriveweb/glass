@@ -14,5 +14,7 @@ imagePortfolio:
   - image: /images/uploads/dean-7.jpg
   - image: /images/uploads/dean.jpg
   - image: /images/uploads/dean-6.jpg
+  - image: /images/uploads/dean-10.jpg
+  - {}
 ---
 
