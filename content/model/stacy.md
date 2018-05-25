@@ -1,7 +1,7 @@
 ---
 title: Stacy
-featuredImage: /images/uploads/amn_0658.jpg
-imageThumbnail: /images/uploads/amn_0644.jpg
+featuredImage: /images/uploads/stacy.jpg
+imageThumbnail: /images/uploads/stacy-1.jpg
 firstName: Stacy
 collection: Classic
 height: 174cm
@@ -13,7 +13,7 @@ shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/stacy-1.jpg
   - image: /images/uploads/amn_0682.jpg
-  - image: /images/uploads/amn_0644.jpg
 ---
 
