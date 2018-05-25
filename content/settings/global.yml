@@ -19,15 +19,15 @@ footer:
     - buttonText: Become a Model
       buttonUrl: join-us
     - buttonText: Team Glass
-      buttonUrl: Team Glass
+      buttonUrl: team-glass
     - buttonText: FAQ
-      buttonUrl: '#'
+      buttonUrl: faq
     - buttonText: Book Models
       buttonUrl: contact
     - buttonText: Get in Touch
       buttonUrl: contact
     - buttonText: Terms & Conditions
-      buttonUrl: '#'
+      buttonUrl: terms-conditions
   title: Information
 partners:
   - image: /images/uploads/TSS-Logo.png
