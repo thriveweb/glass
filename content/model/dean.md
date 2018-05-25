@@ -1,25 +1,23 @@
 ---
 title: Dean
-featuredImage: /images/uploads/dean-banner-4-.jpg
-imageThumbnail: /images/uploads/dean-1.jpg
+featuredImage: /images/uploads/4153360_8338467.jpg
+imageThumbnail: /images/uploads/4153360_8338381.jpg
 firstName: Dean
 collection: Men
-height: 183cms
-bust: 109cms
-waist: 83cms
-size: 'Shirt M, Pants 32'
-shoeSize: '10'
+height: 183cm
+bust: 109cm
+waist: 83cm
+hips: 83cm
+size: M
+shoeSize: 10US
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/dean-3.jpg
-  - image: /images/uploads/dean.jpg
-  - image: /images/uploads/dean-14.jpg
-  - image: /images/uploads/dean-6.jpg
-  - image: /images/uploads/dean-13.jpg
-  - image: /images/uploads/dean-7.jpg
-  - image: /images/uploads/dean-10.jpg
-  - image: /images/uploads/dean-11.jpg
-  - image: /images/uploads/dean-12.jpg
+  - image: /images/uploads/4153360_8338434.jpg
+  - image: /images/uploads/4153360_8338381.jpg
+  - image: /images/uploads/4153360_8903541.jpg
+  - image: /images/uploads/4153360_8334672.jpg
+  - image: /images/uploads/4153360_8338444.jpg
+  - image: /images/uploads/4153360_8338420.jpg
 ---
 
