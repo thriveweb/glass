@@ -74,7 +74,7 @@ class Nav extends Component {
 			      	</nav>
 			      	<div className='client-nav'>
 			      		<Link className='title' to='/join-us'><ICONLogin /> Join Us</Link>
-			      		<Link className='button' to={`${header.buttonUrl}`}>{header.buttonText}</Link>
+			      		<Link className='button' to={slugify(`/${header.buttonUrl}`)}>{header.buttonText}</Link>
 			      	</div>	
 				   	<div 
 				   		id="mobile-menu" 

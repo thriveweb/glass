@@ -14,7 +14,7 @@ export default ({image, title, subTitle, content, buttonText, buttonUrl}) => (
 			{subTitle && <p className='title'>{subTitle}</p>}
 			{title ? <h1>{title}</h1> : <LazyImage src="/images/uploads/logo-white.png" alt="logo"/>}
 			{content && <p className='section--banner-content'>{content}</p>}
-			{buttonUrl && buttonText && <Link className='button' to={`/${buttonUrl}`}>{buttonText}</Link>}
+			{buttonUrl && buttonText && <Link className='button' to={slugify(`/${buttonUrl}`)}>{buttonText}</Link>}
 		</div>
 	</section>
 )

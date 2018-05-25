@@ -16,7 +16,7 @@ export default ({ about }) => {
 					{subTitle && <p className='title'>{subTitle}</p>}
 					{title && <h2>{title}</h2>}
 					{content && <p>{content}</p>}
-					{buttonUrl && buttonText && <Link className='button' to={`${buttonUrl}`}>{buttonText}</Link>}
+					{buttonUrl && buttonText && <Link className='button' to={slugify(`/${buttonUrl}`)}>{buttonText}</Link>}
 				</div>
 			</div>
 		</section>

@@ -15,7 +15,7 @@ export default ({ columns }) =>
 					<div className='section--columns-item-content'>
 						{column.title && <p className='title'>{column.title}</p>}
 						{column.content && <h2>{column.content}</h2> }
-						{column.buttonTitle && column.buttonUrl && <Link className='button button-black' to={`${column.buttonUrl}`}>{column.buttonTitle}</Link>}
+						{column.buttonTitle && column.buttonUrl && <Link className='button button-black' to={slugify(`/${column.buttonUrl}`)}>{column.buttonTitle}</Link>}
 					</div>
 				</div>	
 			</div>
