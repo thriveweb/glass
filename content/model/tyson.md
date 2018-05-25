@@ -1,6 +1,6 @@
 ---
 title: Tyson
-featuredImage: /images/uploads/img_0747.jpg
+featuredImage: /images/uploads/unnamed-25-1-1-.jpg
 imageThumbnail: /images/uploads/unnamed-24-2-.jpg
 firstName: Tyson
 collection: Men
