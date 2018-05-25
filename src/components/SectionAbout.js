@@ -1,6 +1,7 @@
 import React from 'react'
 import './SectionAbout.css'
 
+import { slugify } from '../util/url'
 import { Link } from 'react-router-dom'
 import LazyImage from './LazyImage'
 

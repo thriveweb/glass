@@ -1,8 +1,11 @@
 import React, { Component } from 'react'
+import './Nav.css'
+
+import { slugify } from '../util/url'
 import {Link} from 'react-router-dom'
 import Logo from './Logo'
 import LogoScroll from './LogoScroll'
-import './Nav.css'
+
 import {ICONLogin} from './Icons'
 
 
