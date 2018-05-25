@@ -12,14 +12,14 @@ shoeSize: '10'
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/dean-14.jpg
   - image: /images/uploads/dean-3.jpg
-  - image: /images/uploads/dean-7.jpg
   - image: /images/uploads/dean.jpg
+  - image: /images/uploads/dean-14.jpg
   - image: /images/uploads/dean-6.jpg
+  - image: /images/uploads/dean-13.jpg
+  - image: /images/uploads/dean-7.jpg
   - image: /images/uploads/dean-10.jpg
   - image: /images/uploads/dean-11.jpg
   - image: /images/uploads/dean-12.jpg
-  - image: /images/uploads/dean-13.jpg
 ---
 
