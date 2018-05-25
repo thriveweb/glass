@@ -1,6 +1,6 @@
 ---
 title: Dean
-featuredImage: /images/uploads/dean-banner.jpg
+featuredImage: /images/uploads/dean-banner-1-.jpg
 imageThumbnail: /images/uploads/dean-1.jpg
 firstName: Dean
 collection: Men
