@@ -12,6 +12,5 @@ imagePortfolio:
   - image: /images/uploads/dan-ryan-3-.jpg
   - image: /images/uploads/dan-ryan-4-.jpg
   - image: /images/uploads/dan-ryan-5-.jpg
-  - {}
 ---
 
