@@ -84,7 +84,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin: 2rem 0 8rem;
+	margin: 2rem 0 0;
 }
 
 .section--single-post-info p {
@@ -97,6 +97,7 @@
 
 .section--single-post .Content {
 	padding-bottom: 4rem;
+	padding-top: 8rem;
 }
 
 .section--single-post .Content p {
