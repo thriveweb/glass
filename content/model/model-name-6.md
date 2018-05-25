@@ -1,6 +1,6 @@
 ---
 title: Ava
-featuredImage: /images/uploads/ava12863.jpg
+featuredImage: /images/uploads/ava-banner.jpg
 imageThumbnail: /images/uploads/amn_9952-1-.jpg
 firstName: Ava
 collection: Girls

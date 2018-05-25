@@ -4,6 +4,10 @@ featuredImage: /images/uploads/jordy-15.jpg
 imageThumbnail: /images/uploads/jordy-5.jpg
 firstName: Jordy
 collection: Boys
+height: 139cms
+waist: 58cms
+hair: Blonde
+eyes: Green
 imagePortfolio:
   - image: /images/uploads/jordy-3.jpg
   - image: /images/uploads/jordy-8.jpg
