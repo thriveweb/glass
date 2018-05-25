@@ -3,10 +3,11 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Helmet from 'react-helmet'
 import _kebabCase from 'lodash/kebabCase'
 import _sortBy from 'lodash/sortBy'
+import { slugify } from './util/url'
 
 import data from './data.json'
 
-// Compontents
+// Components
 
 import ScrollToTop from './components/ScrollToTop'
 import Meta from './components/Meta'
@@ -228,7 +229,7 @@ class App extends Component {
             />
             {infoPages.map(page => (
               <InfoPage
-                path={`/${_kebabCase(page.title)}`}
+                path={`/${slugify(page.title)}`}
                 exact
                 key={page.title}
                 page={page}
