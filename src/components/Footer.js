@@ -22,8 +22,6 @@ export default ({
         {title && <h3>{title}</h3>}
         <div className='footer--nav-items'>
           {footerNav.map(navItem => {
-
-            console.log(navItem)
             return (
               <Link
                 key={navItem.buttonText}
