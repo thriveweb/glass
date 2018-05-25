@@ -3,11 +3,92 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-# display_url: https://netlify-cms-react-starter.netlify.com # This url will display in the top-right of the CMS
+display_url: https://glass.netlify.com # This url will display in the top-right of the CMS
 media_folder: "public/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections: # A list of collections the CMS should be able to edit
+  - name: "pages"
+    label: "Page"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: true
+    files:
+      - file: "content/pages/home.md"
+        label: "Home Page"
+        name: "home-page"
+        fields:
+          - {label: Featured Image, name: featuredImage, widget: image, required: false}
+          - {label: Sub Title, name: subTitle, widget: string, required: false}
+          - {label: Content, name: content, widget: string, required: false}
+          - {label: Button Text, name: buttonText, widget: string, required: false}
+          - {label: Button Url, name: buttonUrl, widget: string, required: false}
+          - label: "Gallery"
+            name: "gallery"
+            widget: "object"
+            fields:
+              - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Title, name: title, widget: string}
+              - label: "Gallery Images"
+                name: "galleryImages"
+                widget: "list"
+                fields:
+                  - {label: Image, name: image, widget: image}
+                  - {label: Title, name: title, widget: string}
+          - label: "About"
+            name: "about"
+            widget: "object"
+            fields:
+              - {label: Image, name: image, widget: image}
+              - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: markdown}
+              - {label: Button Text, name: buttonText, widget: string}
+              - {label: Button Url, name: buttonUrl, widget: string}
+          - label: "Testimonials"
+            name: "testimonials"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - label: "Testimonial"
+                name: "testimonial"
+                widget: "list"
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: Content, name: content, widget: markdown}
+                  - {label: Logo, name: logo, widget: image}
+                  - {label: Name, name: name, widget: string}
+          - label: "Featured Posts"
+            name: "featuredPosts"
+            widget: "object"
+            fields:
+              - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Title, name: title, widget: string}
+              - label: "Blog Posts"
+                name: "blogPosts"
+                widget: "list"
+                fields:
+                  - {
+                    label: Collection,
+                    name: collection,
+                    widget: relation,
+                    collection: 'post',
+                    searchFields: ['title'],
+                    valueField: 'title'
+                    }
+
+  - label: "Info Page"
+    name: "info-page"
+    delete: true # Prevent users from deleting documents in this collection
+    editor:
+      preview: true
+    folder: "content/info-page"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Featured Image, name: featuredImage, widget: image}
+      - {label: Content, name: content, widget: markdown}
+
   - name: "settings"
     label: "Settings"
     delete: false # Prevent users from deleting documents in this collection
@@ -22,7 +103,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Site Url, name: siteUrl, widget: string, required: false}
           - {label: Site Description, name: siteDescription, widget: text, required: false}
           - {label: Site Description, name: siteDescription, widget: text, required: false}
-          - {label: Phone, name: phone, widget: string, required: false}    
+          - {label: Phone, name: phone, widget: string, required: false}
           - {label: Email, name: email, widget: string, required: false}
           - {label: Address, name: address, widget: string, required: false}
           - {label: Twitter, name: twitter, widget: string, required: false}
@@ -60,82 +141,9 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Title, name: title, widget: string}
               - {label: Content, name: content, widget: string}
               - {label: Button Title, name: buttonTitle, widget: string}
-              - {label: Button Url, name: buttonUrl, widget: string}    
+              - {label: Button Url, name: buttonUrl, widget: string}
           - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
 
-  - name: "pages"
-    label: "Page"
-    delete: false # Prevent users from deleting documents in this collection
-    editor:
-      preview: true
-    files:
-      - file: "content/pages/home.md"
-        label: "Home Page"
-        name: "home-page"
-        fields:
-          - {label: Featured Image, name: featuredImage, widget: image, required: false}
-          - {label: Sub Title, name: subTitle, widget: string, required: false}
-          - {label: Content, name: content, widget: string, required: false}
-          - {label: Button Text, name: buttonText, widget: string, required: false}
-          - {label: Button Url, name: buttonUrl, widget: string, required: false} 
-          - label: "Gallery"
-            name: "gallery"
-            widget: "object"
-            required: false
-            fields:
-              - {label: Sub Title, name: subTitle, widget: string, required: false}
-              - {label: Title, name: title, widget: string, required: false}
-              - label: "Gallery Images"
-                name: "galleryImages"
-                widget: "list"
-                required: false
-                fields:
-                  - {label: Image, name: image, widget: image, required: false}
-                  - {label: Title, name: title, widget: string, required: false}
-          - label: "About"
-            name: "about"
-            widget: "object"
-            required: false
-            fields:
-              - {label: Image, name: image, widget: image, required: false}
-              - {label: Sub Title, name: subTitle, widget: string, required: false}
-              - {label: Title, name: title, widget: string, required: false}
-              - {label: Content, name: content, widget: markdown, required: false}
-              - {label: Button Text, name: buttonText, widget: string, required: false}
-              - {label: Button Url, name: buttonUrl, widget: string, required: false}
-          - label: "Testimonials"
-            name: "testimonials"
-            widget: "object"  
-            fields: 
-              - {label: Title, name: title, widget: string} 
-              - label: "Testimonial"
-                name: "testimonial"
-                widget: "list" 
-                required: false 
-                fields: 
-                  - {label: Title, name: title, widget: string, required: false}  
-                  - {label: Content, name: content, widget: markdown, required: false}
-                  - {label: Logo, name: logo, widget: image, required: false}
-                  - {label: Name, name: name, widget: string, required: false}
-          - label: "Featured Posts"
-            name: "featuredPosts"
-            widget: "object"
-            fields:
-              - {label: Sub Title, name: subTitle, widget: string, required: false}
-              - {label: Title, name: title, widget: string, required: false}
-              - label: "Blog Posts"
-                name: "blogPosts"
-                widget: "list"
-                required: false
-                fields:
-                  - {
-                    label: Collection, 
-                    name: collection, 
-                    widget: relation, 
-                    collection: 'post', 
-                    searchFields: ['title'], 
-                    valueField: 'title' 
-                  }
 
       - file: "content/pages/about.md"
         label: "About Page"
@@ -158,52 +166,51 @@ collections: # A list of collections the CMS should be able to edit
             name: "services"
             widget: "object"
             fields:
-              - {label: Sub Title, name: subTitle, widget: string, required: false}
-              - {label: Title, name: title, widget: string, required: false}
-              - {label: Content, name: content, widget: markdown, required: false}
+              - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: markdown}
               - label: "Service Items"
                 name: "serviceItems"
                 widget: "list"
-                required: false
                 fields:
-                  - {label: Image, name: image, widget: image, required: false}
-                  - {label: Title, name: title, widget: string, required: false}
-                  - {label: Content, name: content, widget: markdown, required: false}
+                  - {label: Image, name: image, widget: image}
+                  - {label: Title, name: title, widget: string}
+                  - {label: Content, name: content, widget: markdown}
 
       - file: "content/pages/models.md"
         label: "Models"
         name: "models"
         fields:
-          - {label: Sub Title, name: subTitle, widget: string, required: false}
-          - {label: Title, name: title, widget: string, required: false}
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
 
       - file: "content/pages/blog.md"
         label: "Blog"
         name: "blog"
         fields:
-          - {label: Featured Image, name: featuredImage, widget: image, required: false}
-          - {label: Sub Title, name: subTitle, widget: string, required: false}
-          - {label: Title, name: title, widget: string, required: false}
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
 
       - file: "content/pages/contact.md"
         label: "Contact"
         name: "contact"
         fields:
-          - {label: Featured Image, name: featuredImage, widget: image, required: false}
-          - {label: Sub Title, name: subTitle, widget: string, required: false}
-          - {label: Title, name: title, widget: string, required: false}
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
 
       - file: "content/pages/join-us.md"
         label: "Join Us"
         name: "joinUs"
         fields:
-          - {label: Featured Image, name: featuredImage, widget: image, required: false}
-          - {label: Sub Title, name: subTitle, widget: string, required: false}
-          - {label: Title, name: title, widget: string, required: false}
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
           - label: "Intro"
             name: "intro"
             widget: "object"
-            required: false
             fields:
               - {label: Title, name: title, widget: string}
               - {label: Content, name: content, widget: markdown}
@@ -219,13 +226,12 @@ collections: # A list of collections the CMS should be able to edit
     folder: "content/post"
     create: true
     fields:
-      - {label: Title, name: title, widget: string} 
-      - {label: Image, name: image, widget: image, required: false}
+      - {label: Title, name: title, widget: string}
+      - {label: Image, name: image, widget: image}
       - {label: Collection, name: collection, widget: relation, collection: 'post-category', searchFields: ['title'], valueField: 'title', required: false}
-      - {label: Author, name: author, widget: string, required: false}
-      - {label: Date, name: date, widget: string, required: false}
-      - {label: Content, name: content, widget: markdown, required: false}
-      - {label: Video Source, name: videoSource, widget: string, required: false}
+      - {label: Author, name: author, widget: string}
+      - {label: Date, name: date, widget: string}
+      - {label: Content, name: content, widget: markdown}
 
   - label: "Post Category"
     name: "post-category"
@@ -235,7 +241,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "content/post-category"
     create: true
     fields:
-      - {label: Title, name: title, widget: string} 
+      - {label: Title, name: title, widget: string}
 
   - label: "Model"
     name: "model"
@@ -261,8 +267,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Image Portfolio"
         name: "imagePortfolio"
         widget: "list"
-        required: false
-        fields:   
+        fields:
           - {label: Image, name: image, widget: image, required: false}
 
   - name: "model-types"
@@ -274,13 +279,4 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: Title, name: title, widget: string}
-      - {label: Featured Image, name: featuredImage, widget: image}
       - {label: Order, name: order, widget: number}
-
-
-
-
-
-
-
-

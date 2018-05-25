@@ -25,8 +25,8 @@ import Blog from './views/Blog'
 import BlogPost from './views/BlogPost'
 import Contact from './views/Contact'
 import JoinUs from './views/JoinUs'
+import InfoPage from './views/InfoPage'
 import NoMatch from './views/NoMatch'
-
 
 class App extends Component {
   state = {
@@ -52,13 +52,14 @@ class App extends Component {
       instagram,
       footer,
       headerScripts,
-      header,
+      header
     } = globalSettings
 
     const modelTypes = _sortBy(this.getDocuments('model-types'), 'order')
     const models = this.getDocuments('model')
     const posts = this.getDocuments('post')
     const postCategories = this.getDocuments('post-category')
+    const infoPages = this.getDocuments('info-page')
 
     return (
       <Router>
@@ -82,12 +83,12 @@ class App extends Component {
               path='/'
               exact
               component={props => (
-                <Home 
-                  page={this.getDocument('pages', 'home')} 
+                <Home
+                  page={this.getDocument('pages', 'home')}
                   globalSettings={globalSettings}
                   posts={posts}
                   postCategories={postCategories}
-                  {...props} 
+                  {...props}
                 />
               )}
             />
@@ -95,10 +96,10 @@ class App extends Component {
               path='/about'
               exact
               component={props => (
-                <About 
-                  page={this.getDocument('pages', 'about')} 
-                  globalSettings={globalSettings} 
-                  {...props} 
+                <About
+                  page={this.getDocument('pages', 'about')}
+                  globalSettings={globalSettings}
+                  {...props}
                 />
               )}
             />
@@ -106,10 +107,10 @@ class App extends Component {
               path='/contact'
               exact
               component={props => (
-                <Contact 
+                <Contact
                   page={this.getDocument('pages', 'contact')}
                   globalSettings={globalSettings}
-                  {...props} 
+                  {...props}
                 />
               )}
             />
@@ -117,9 +118,9 @@ class App extends Component {
               path='/join-us'
               exact
               component={props => (
-                <JoinUs 
+                <JoinUs
                   page={this.getDocument('pages', 'join-us')}
-                  {...props} 
+                  {...props}
                 />
               )}
             />
@@ -127,13 +128,13 @@ class App extends Component {
               path='/blog'
               exact
               component={props => (
-                <Blog 
+                <Blog
                   page={this.getDocument('pages', 'blog')}
                   posts={posts}
-                  postCategories={postCategories} 
+                  postCategories={postCategories}
                   globalSettings={globalSettings}
                   pageSearch={props.location.search}
-                  {...props} 
+                  {...props}
                 />
               )}
             />
@@ -142,80 +143,106 @@ class App extends Component {
               exact
               component={props => {
                 const category = postCategories.find(selectedCategory => {
-                    return selectedCategory && selectedCategory.name === props.match.params.postCategory
+                  return (
+                    selectedCategory &&
+                    selectedCategory.name === props.match.params.postCategory
+                  )
                 })
 
-                return category ? <Blog 
-                  page={this.getDocument('pages', 'blog')}
-                  posts={posts}
-                  postCategories={postCategories}
-                  selectedCategory={category} 
-                  globalSettings={globalSettings} 
-                  pageSearch={props.location.search}
-                  {...props}
-                /> : <NoMatch siteUrl={siteUrl} />
-
+                return category ? (
+                  <Blog
+                    page={this.getDocument('pages', 'blog')}
+                    posts={posts}
+                    postCategories={postCategories}
+                    selectedCategory={category}
+                    globalSettings={globalSettings}
+                    pageSearch={props.location.search}
+                    {...props}
+                  />
+                ) : (
+                  <NoMatch siteUrl={siteUrl} />
+                )
               }}
             />
             <Route
               path='/blog-post/:post'
               exact
               component={props => {
-                const post = posts.find(post => { 
+                const post = posts.find(post => {
                   return _kebabCase(post.title) === props.match.params.post
                 })
-                
-                return post ? <BlogPost 
-                  globalSettings={globalSettings}
-                  post={post}
-                  {...props}
-                /> : <NoMatch siteUrl={siteUrl} />
+
+                return post ? (
+                  <BlogPost
+                    globalSettings={globalSettings}
+                    post={post}
+                    {...props}
+                  />
+                ) : (
+                  <NoMatch siteUrl={siteUrl} />
+                )
               }}
             />
             <Route
               path='/models/:modelType'
               exact
               component={props => {
-                const modelType = modelTypes.find(selectedModelType => {                  
+                const modelType = modelTypes.find(selectedModelType => {
                   return selectedModelType.name === props.match.params.modelType
                 })
 
-                return modelType ? <Models 
-                  page={this.getDocument('pages', 'models')}
-                  modelTypes={modelTypes}
-                  globalSettings={globalSettings}
-                  selectedModelType={modelType}
-                  models={models}
-                  {...props}
-                /> : <NoMatch siteUrl={siteUrl} />
+                return modelType ? (
+                  <Models
+                    page={this.getDocument('pages', 'models')}
+                    modelTypes={modelTypes}
+                    globalSettings={globalSettings}
+                    selectedModelType={modelType}
+                    models={models}
+                    {...props}
+                  />
+                ) : (
+                  <NoMatch siteUrl={siteUrl} />
+                )
               }}
             />
             <Route
               path='/model/:model'
               exact
               component={props => {
-                const singleModel = models.find(model => {                  
+                const singleModel = models.find(model => {
                   return _kebabCase(model.title) === props.match.params.model
                 })
 
-                return singleModel ? <Model 
-                  globalSettings={globalSettings}
-                  models={models}
-                  model={singleModel}
-                  modelTypes={modelTypes}
-                  {...props}
-                /> : <NoMatch siteUrl={siteUrl} />
+                return singleModel ? (
+                  <Model
+                    globalSettings={globalSettings}
+                    models={models}
+                    model={singleModel}
+                    modelTypes={modelTypes}
+                    {...props}
+                  />
+                ) : (
+                  <NoMatch siteUrl={siteUrl} />
+                )
               }}
             />
+            {infoPages.map(page => (
+              <InfoPage
+                path={`/${_kebabCase(page.title)}`}
+                exact
+                key={page.title}
+                page={page}
+              />
+            ))}
             <Route component={() => <NoMatch siteUrl={siteUrl} />} />
           </Switch>
-          <Footer 
-            title={footer.title} 
-            footerNav={footer.footerNav} 
-            twitter={twitter} 
-            facebook={facebook} 
-            linkedin={linkedin} 
-            instagram={instagram} 
+          <Footer
+            title={footer.title}
+            footerNav={footer.footerNav}
+            twitter={twitter}
+            facebook={facebook}
+            linkedin={linkedin}
+            instagram={instagram}
           />
         </div>
       </Router>

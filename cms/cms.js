@@ -10,6 +10,7 @@ import Blog from '../src/views/Blog'
 import Model from '../src/views/Model'
 import Models from '../src/views/Models'
 import BlogPost from '../src/views/BlogPost'
+import InfoPage from '../src/views/InfoPage'
 
 const CMS = window.CMS
 CMS.registerPreviewStyle(
@@ -47,6 +48,9 @@ CMS.registerPreviewTemplate('joinUs', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('blog', ({ entry }) => (
   <Blog page={entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('info-page', ({ entry }) => (
+  <InfoPage page={entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('models', ({ entry }) => (
   <Models
