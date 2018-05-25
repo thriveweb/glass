@@ -1,7 +1,7 @@
 ---
 title: Dean
 featuredImage: /images/uploads/4153360_8338467.jpg
-imageThumbnail: /images/uploads/4153360_8338381.jpg
+imageThumbnail: /images/uploads/4153360_8334672.jpg
 firstName: Dean
 collection: Men
 height: 183cm
