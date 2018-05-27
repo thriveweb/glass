@@ -1,7 +1,7 @@
 ---
 title: Luke
-featuredImage: /images/uploads/final-edit_shot-4_6623_preview.jpg
-imageThumbnail: /images/uploads/luke.jpg
+featuredImage: /images/uploads/luke-new-2-headshot.jpg
+imageThumbnail: /images/uploads/luke-headshot.jpg
 firstName: Luke
 collection: Men
 height: 190cm
