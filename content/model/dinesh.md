@@ -1,6 +1,6 @@
 ---
 title: Dinesh
-featuredImage: /images/uploads/dinesh-4.webp
+featuredImage: /images/uploads/dinesh-banner.jpg
 imageThumbnail: /images/uploads/dinesh-1.webp
 firstName: Dinesh
 collection: Men
