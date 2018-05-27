@@ -1,6 +1,6 @@
 ---
 title: Dan R
-featuredImage: /images/uploads/dan-ryan-1-1-.jpg
+featuredImage: /images/uploads/dan-ryan-banner.jpg
 imageThumbnail: /images/uploads/dan-ryan-7-1-.jpg
 firstName: Dan R
 collection: Men
