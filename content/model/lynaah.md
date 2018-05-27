@@ -4,7 +4,12 @@ featuredImage: /images/uploads/lynaah-1-1-.jpg
 imageThumbnail: /images/uploads/lynaah-4.jpeg
 firstName: Lynaah
 collection: Women
-size: '8'
+height: 165cm
+bust: 71cm
+waist: 54cm
+hips: 83cm
+size: 6-8
+shoeSize: '5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
