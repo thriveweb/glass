@@ -1,6 +1,6 @@
 ---
 title: Zac
-featuredImage: /images/uploads/img_5498.jpg
+featuredImage: /images/uploads/zac-banner-1-.jpg
 imageThumbnail: /images/uploads/img_5716.jpg
 firstName: Zac
 collection: Men
