@@ -1,6 +1,6 @@
 ---
 title: Havana
-featuredImage: /images/uploads/havana-1.webp
+featuredImage: /images/uploads/havana-banner-1-.jpg
 imageThumbnail: /images/uploads/havana-2.webp
 firstName: Havana
 collection: Girls
