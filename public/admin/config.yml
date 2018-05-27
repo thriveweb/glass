@@ -231,7 +231,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Author, name: author, widget: string}
       - {label: Date, name: date, widget: string}
       - {label: Content, name: content, widget: markdown}
-      - {label: Video Source, name: videoSource, widget: string, }
+      - {label: Video Source, name: videoSource, widget: string, required: false}
 
   - label: "Post Category"
     name: "post-category"
