@@ -1,6 +1,6 @@
 ---
 title: Jasmine
-featuredImage: /images/uploads/amn_9820-1-.jpg
+featuredImage: /images/uploads/jasmine-banner.jpg
 imageThumbnail: /images/uploads/jasmine-lessue-.jpg
 firstName: Jasmine
 collection: Girls
