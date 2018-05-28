@@ -10,7 +10,7 @@ gallery:
   galleryImages:
     - image: /images/uploads/img_0556.jpg
       title: Women
-    - image: /images/uploads/brayden-front-cover.jpg
+    - image: /images/uploads/brayden-front-cover-1-.jpg
       title: Men
     - image: /images/uploads/Bitmap.png
       title: Classic
