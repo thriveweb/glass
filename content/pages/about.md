@@ -60,12 +60,17 @@ services:
     Commercials, Catalogues, Editorials, Lifestyle Shoots, Catwalk Shows and
     Promotional Events.
   serviceItems:
-    - content: ''
-      image: /images/uploads/unnamed-16.jpg
-      title: ' Photography'
-    - content: ''
-      image: /images/uploads/sharegrid-554231-unsplash.png
-      title: Videographer
+    - content: |-
+        Glass has professional talent of all ages.
+
+        With talent in Brisbane, Gold Coast, Sydney and Melbourne.
+
+        We have that special someone for any campaign.
+      image: /images/uploads/alisha-2.jpg
+      title: ' Models'
+    - content: Talent for Feature Films and TV Commercials.
+      image: /images/uploads/avel-chuklanov-509630-unsplash.png
+      title: Actor/Extras
     - content: >-
 
 
