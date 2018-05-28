@@ -63,17 +63,7 @@ services:
     - content: ''
       image: /images/uploads/unnamed-16.jpg
       title: ' Photography'
-    - content: >-
-        We use Gracey Criss Video, who are avid film lovers who want to create
-        cinematic videos accessible to anyone and everyone! With a special focus
-        on visual and storytelling aspects, they strive to ensure quick and
-        affordable turnarounds.
-
-
-        Book in for your show reel or self tape today.
-
-
-        Email the office on: talent@glassmanagement.com.au
+    - content: ''
       image: /images/uploads/sharegrid-554231-unsplash.png
       title: Videographer
     - content: >-
@@ -114,18 +104,18 @@ services:
       image: /images/uploads/amn_1580.jpg
       title: Photography
     - content: >-
-        Don't forget our model casting for 2018 Gold Coast Fashion Week are
-        being held this week @q1resort . Friday is by model agency invitation
-        and Saturday is our open casting. Head to our site for more details and
-        the pre reg form www.gcfw18.com.au
+        We use Gracey Criss Video, who are avid film lovers who want to create
+        cinematic videos accessible to anyone and everyone! With a special focus
+        on visual and storytelling aspects, they strive to ensure quick and
+        affordable turnarounds.
 
 
+        Book in for your show reel or self tape today.
 
 
-        \#gcfw18 #goldcoast #fashion #fashionweek #runway #style #gcfw
-        #modelswanted #modelcasting
-      image: /images/uploads/gcfashion.jpg
-      title: Fashion Catwalks
+        Email the office on: talent@glassmanagement.com.au
+      image: /images/uploads/sharegrid-554231-unsplash.png
+      title: Videographer
   subTitle: Modeling and Talent Agency
   title: Services Provided
 ---
