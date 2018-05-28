@@ -51,18 +51,11 @@ testimonials:
         makers.
 
 
-        Kind Regards,                                   
-
-
-        Philip Holder// Associate Director
-
-
-        info@warehousestudio.com.au
 
 
         www.warehousestudio.com.au
       logo: /images/uploads/83abe0_b72f87a1a7d24228bcdbcb56aab62d30.png
-      name: Lawrence Perry
+      name: Philip Holder- Associate Director www.warehousestudio.com.au
       title: The Warehouse Studio
     - content: >-
         There are many variations of passages of Lorem Ipsum available, but the
