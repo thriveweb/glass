@@ -1,7 +1,7 @@
 ---
 title: Maddie
 featuredImage: /images/uploads/dsc_0704.jpg
-imageThumbnail: /images/uploads/dsc_0614.jpg
+imageThumbnail: /images/uploads/mad6.jpg
 firstName: Maddie
 collection: Girls
 height: 97cm
@@ -13,9 +13,11 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/dsc_0704.jpg
-  - {}
-  - {}
-  - {}
+  - image: /images/uploads/maddie.jpg
+  - image: /images/uploads/mad2.jpg
+  - image: /images/uploads/dsc_0513.jpg
+  - image: /images/uploads/mad5.jpg
+  - image: /images/uploads/mad3.jpg
+  - image: /images/uploads/mad4.jpg
 ---
 
