@@ -4,7 +4,10 @@ featuredImage: /images/uploads/sophie-11.jpg
 imageThumbnail: /images/uploads/sophie-10.jpg
 firstName: Sophie
 collection: Girls
-size: '10'
+bust: 88cms
+waist: 76cms
+hips: 94cms
+size: 8-10
 shoeSize: '8'
 hair: Dark Brown
 eyes: Blue
