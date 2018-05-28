@@ -14,5 +14,8 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/dsc_0704.jpg
+  - {}
+  - {}
+  - {}
 ---
 
