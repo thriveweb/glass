@@ -4,9 +4,12 @@ featuredImage: /images/uploads/fb_img_1523215314240.jpg
 imageThumbnail: /images/uploads/fb_img_1523215253553.jpg
 firstName: Izaac
 collection: Men
-height: 180cm
+height: 174cm
+bust: 96cm
+waist: 81cm
+hips: 86cm
 size: M
-shoeSize: '9'
+shoeSize: '10'
 hair: Brown
 eyes: Brown
 imagePortfolio:
