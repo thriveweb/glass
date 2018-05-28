@@ -1,6 +1,6 @@
 ---
 title: Men
-featuredImage: /images/uploads/2817028_8595880.jpg
+featuredImage: /images/uploads/r2.jpg
 order: '2'
 ---
 
