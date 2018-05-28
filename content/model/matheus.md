@@ -3,7 +3,7 @@ title: Matheus
 featuredImage: /images/uploads/img_0654.jpg
 imageThumbnail: /images/uploads/img_0651.jpg
 firstName: Matheus
-collection: Mens
+collection: Men
 height: 188cms
 bust: 95cm
 waist: 90cms
@@ -13,7 +13,7 @@ shoeSize: US 11
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/unnamed.jpg
+  - image: /images/uploads/ezgif.com-webp-to-jpg-57-_preview.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-60-.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-59-.jpg
   - image: /images/uploads/img_0652.jpg
