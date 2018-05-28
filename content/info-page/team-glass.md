@@ -1,6 +1,6 @@
 ---
 title: Team Glass
-featuredImage: /images/uploads/flaunter-com-237609-unsplash.png
+featuredImage: /images/uploads/alisha.jpg
 content: >-
   Here at Glass we belong to a special club called #teamglass
 
