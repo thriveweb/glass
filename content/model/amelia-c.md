@@ -13,7 +13,9 @@ shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/amn_0445.jpg
+  - image: /images/uploads/amn_0433.jpg
   - image: /images/uploads/amn_0491.jpg
+  - image: /images/uploads/amn_0445.jpg
+  - image: /images/uploads/amn_0415.jpg
 ---
 
