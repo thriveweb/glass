@@ -228,11 +228,11 @@ class App extends Component {
               }}
             />
             {infoPages.map(page => (
-              <InfoPage
+              <Route
                 path={`/${slugify(page.title)}`}
                 exact
                 key={page.title}
-                page={page}
+                component={props => <InfoPage page={page} {...props} />}
               />
             ))}
             <Route component={() => <NoMatch siteUrl={siteUrl} />} />
