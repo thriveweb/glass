@@ -1,6 +1,6 @@
 ---
 title: Classic
-featuredImage: /images/uploads/201710284075.jpg
+featuredImage: /images/uploads/a19i5088_preview.jpg
 order: '5'
 ---
 
