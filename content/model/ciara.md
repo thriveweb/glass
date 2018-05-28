@@ -16,8 +16,8 @@ imagePortfolio:
   - image: /images/uploads/201710284370crop.jpg
   - image: /images/uploads/201710284189crop.jpg
   - image: /images/uploads/201710284370bw.jpg
-  - image: /images/uploads/screenshot_20180517-141740-3072x5461.png
-  - image: /images/uploads/screenshot_20180517-141728-1440x2560.png
+  - image: /images/uploads/ciara1.jpg
+  - image: /images/uploads/ciara2.jpg
   - image: /images/uploads/ciara.jpg
 ---
 
