@@ -4,7 +4,12 @@ featuredImage: /images/uploads/samantha-7.webp
 imageThumbnail: /images/uploads/sam.jpg
 firstName: Sam
 collection: Women
+height: 178cm
+bust: 80cm
+waist: 69cm
+hips: 85cm
 size: '8'
+shoeSize: '8'
 hair: Brunette
 eyes: Brown
 imagePortfolio:
