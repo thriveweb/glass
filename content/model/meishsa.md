@@ -22,6 +22,6 @@ imagePortfolio:
   - image: /images/uploads/20180517_133306-3072x3544.png
   - image: /images/uploads/unnamed-1.png
   - image: /images/uploads/unnamed.png
-  - image: /images/uploads/unnamed.jpg
+  - image: /images/uploads/meisha.jpg
 ---
 
