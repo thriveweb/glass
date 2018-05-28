@@ -1,6 +1,6 @@
 ---
 title: Boys
-featuredImage: /images/uploads/amn_1580.jpg
+featuredImage: /images/uploads/boys-banner.jpg
 order: '4'
 ---
 
