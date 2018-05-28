@@ -2,7 +2,7 @@
 title: Sophie Kaye
 featuredImage: /images/uploads/sophie-11.jpg
 imageThumbnail: /images/uploads/sophie-10.jpg
-firstName: Sophie
+firstName: Sophie Kaye
 collection: Girls
 bust: 88cms
 waist: 76cms
