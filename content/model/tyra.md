@@ -20,5 +20,8 @@ imagePortfolio:
   - image: /images/uploads/201710284354crop.jpg
   - image: /images/uploads/amn_3933.jpg
   - image: /images/uploads/amn_4121.jpg
+  - image: /images/uploads/amn_1641-1-copy_preview.jpg
+  - image: /images/uploads/amn_1627_preview.jpg
+  - image: /images/uploads/amn_1674-1-_preview.jpg
 ---
 
