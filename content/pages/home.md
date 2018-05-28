@@ -37,14 +37,33 @@ about:
 testimonials:
   testimonial:
     - content: >-
-        Client’s testimonial goes here lorem Ipsum is simply dummy text of the
-        printing and typesetting industry. Lorem Ipsum has been the industry's
-        standard dummy text ever since the 1500s, when an unknown printer took a
-        galley of type and scrambled it to make a type specimen book. It has
-        survived not only five centuries.
-      logo: /images/uploads/Bitmap Copy 5.png
+        I am the Associate Director of the Warehouse Workshop Screen Acting
+        Studio, a fully owned subsidiary of McSweeney Newman Casting
+
+
+        I have known Tegan Glass for around 2 years as a professional working
+        agent in SE Queensland and have had a strong business relationship with
+        Tegan for that period of time. In that time, Tegan ran her agency with a
+        high level of professionalism, care, honesty and importantly, integrity.
+        The welfare of her clients holds paramount importance, and she works
+        tirelessly to develop careers, and to work efficiently, professionally
+        and effectively with the industry’s potential employers and key decision
+        makers.
+
+
+        Kind Regards,                                   
+
+
+        Philip Holder// Associate Director
+
+
+        info@warehousestudio.com.au
+
+
+        www.warehousestudio.com.au
+      logo: /images/uploads/83abe0_b72f87a1a7d24228bcdbcb56aab62d30.png
       name: Lawrence Perry
-      title: Perfect Partner
+      title: The Warehouse Studio
     - content: >-
         There are many variations of passages of Lorem Ipsum available, but the
         majority have suffered alteration in some form, by injected humour, or
