@@ -31,10 +31,7 @@ about:
 
 
 
-
-    \    **At Glass Management you are never alone. We are here to guide and
-    nurture aspiring talent and to provide our clients with exceptional
-    service.**
+      **At Glass Management you are never alone. We are here to guide and nurture aspiring talent and to provide our clients with exceptional service.**
   buttonText: Why Choose Us
   buttonUrl: about
   title: Our Mission Statement
