@@ -30,6 +30,8 @@ about:
     alone.   Audrey Hepburn  
 
 
+
+
     \    **At Glass Management you are never alone. We are here to guide and
     nurture aspiring talent and to provide our clients with exceptional
     service.**
