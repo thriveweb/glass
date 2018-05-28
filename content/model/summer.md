@@ -22,5 +22,7 @@ imagePortfolio:
   - image: /images/uploads/summer-robertson-214-edit.jpg
   - image: /images/uploads/summer128.jpg
   - image: /images/uploads/summer-robertson-81-edit.jpg
+  - image: /images/uploads/sum2.jpg
+  - image: /images/uploads/sum4.jpg
 ---
 
