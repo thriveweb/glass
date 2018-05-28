@@ -10,7 +10,7 @@ gallery:
   galleryImages:
     - image: /images/uploads/img_0556.jpg
       title: Women
-    - image: /images/uploads/unnamed-copy.png
+    - image: /images/uploads/brayden-10.jpg
       title: Men
     - image: /images/uploads/Bitmap.png
       title: Classic
