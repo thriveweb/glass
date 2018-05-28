@@ -60,15 +60,7 @@ services:
     Commercials, Catalogues, Editorials, Lifestyle Shoots, Catwalk Shows and
     Promotional Events.
   serviceItems:
-    - content: >-
-        Studio and location shoots can be booked by emailing  the office
-        talent@glassmanagement.com.au
-
-
-        We have an extensive list of preferred photographers who we recommend.
-
-
-        Specialising in portfolio shoots, head shots and Instagram photos.
+    - content: ''
       image: /images/uploads/unnamed-16.jpg
       title: ' Photography'
     - content: >-
@@ -99,37 +91,28 @@ services:
       image: /images/uploads/mu.jpg
       title: Makeup Artist
     - content: >-
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable. 
+        Karli our gorgeous make up artist will transform you to be camera ready.
+        Not only will she create a flawless face but she will also style your
+        hair to match. Perfect for events and photo shoots.
 
 
-        All the Lorem Ipsum generators on the Internet tend to repeat predefined
-        chunks as necessary, making this the first true generator on the
-        Internet. 
+        Be shoot ready in a flash with Karli from ibeautyconnect.
 
 
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable.
-      image: /images/uploads/avel-chuklanov-509630-unsplash.png
-      title: Featured Films
+        Email: ibeautyconnect17@gmail.com
+      image: /images/uploads/mu.jpg
+      title: Makeup Artist
     - content: >-
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable. 
+        Studio and location shoots can be booked by emailing  the office
+        talent@glassmanagement.com.au
 
 
-        All the Lorem Ipsum generators on the Internet tend to repeat predefined
-        chunks as necessary, making this the first true generator on the
-        Internet. 
+        We have an extensive list of preferred photographers who we recommend.
 
 
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable.
-      image: /images/uploads/flaunter-com-237609-unsplash.png
-      title: Magazine Shots
+        Specialising in portfolio shoots, head shots and Instagram photos.
+      image: /images/uploads/amn_1580.jpg
+      title: Photography
     - content: >-
         Don't forget our model casting for 2018 Gold Coast Fashion Week are
         being held this week @q1resort . Friday is by model agency invitation
