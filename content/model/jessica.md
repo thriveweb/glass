@@ -20,6 +20,6 @@ imagePortfolio:
   - image: /images/uploads/jess-8.jpg
   - image: /images/uploads/amn_0208.jpg
   - image: /images/uploads/amn_0039-1-.jpg
-  - image: /images/uploads/amn_0227.jpg
+  - image: /images/uploads/amn_0164.jpg
 ---
 
