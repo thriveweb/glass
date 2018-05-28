@@ -23,11 +23,10 @@ gallery:
 about:
   image: >-
     /images/uploads/8e8e6d8ccaa4e8063cbf3a3eb3c6c3e4-timeless-beauty-classic-beauty.jpg
-  subTitle: Our Story
+  subTitle: Our Mission Statement
   content: >-
-    > **At Glass Management you are never alone. We are here to guide and
-    nurture aspiring talent and to provide our clients with exceptional
-    service.**
+    **At Glass Management you are never alone. We are here to guide and nurture
+    aspiring talent and to provide our clients with exceptional service.**
   buttonText: Why Choose Us
   buttonUrl: about
   title: >-
