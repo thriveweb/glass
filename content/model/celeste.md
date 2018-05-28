@@ -6,12 +6,16 @@ firstName: Celeste
 collection: Women
 imagePortfolio:
   - image: /images/uploads/celeste-4.jpg
-  - image: /images/uploads/celeste-14.jpg
-  - image: /images/uploads/celeste-4.jpg
-  - image: /images/uploads/celeste-2.jpg
+  - image: /images/uploads/celeste-new-.jpg
+  - image: /images/uploads/celeste-new-1.jpg
+  - image: /images/uploads/celeste-4-.jpg
   - image: /images/uploads/celeste-1.jpg
   - image: /images/uploads/celeste.jpg
   - image: /images/uploads/-celeste-7.jpg
+  - {}
+  - {}
+  - {}
+  - {}
   - {}
 ---
 
