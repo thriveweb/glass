@@ -1,5 +1,5 @@
 ---
-featuredImage: /images/uploads/glassmanagement_logo_small-2-.png
+featuredImage: /images/uploads/201711013258crop.jpg
 subTitle: ''
 title: About Us
 teamMembers:
