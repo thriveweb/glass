@@ -23,16 +23,18 @@ gallery:
 about:
   image: >-
     /images/uploads/8e8e6d8ccaa4e8063cbf3a3eb3c6c3e4-timeless-beauty-classic-beauty.jpg
-  subTitle: Our Mission Statement
+  subTitle: ''
   content: >-
+    For beautiful eyes, look for the good in others; for beautiful lips, speak
+    only words of kindness; and for poise, walk with the knowledge you are never
+    alone.   Audrey Hepburn          
+
+
     **At Glass Management you are never alone. We are here to guide and nurture
     aspiring talent and to provide our clients with exceptional service.**
   buttonText: Why Choose Us
   buttonUrl: about
-  title: >-
-    For beautiful eyes, look for the good in others; for beautiful lips, speak
-    only words of kindness; and for poise, walk with the knowledge you are never
-    alone.   Audrey Hepburn           
+  title: Our Mission Statement
 testimonials:
   testimonial:
     - content: >-
