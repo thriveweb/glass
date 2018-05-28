@@ -4,6 +4,14 @@ featuredImage: /images/uploads/celeste-3.jpg
 imageThumbnail: /images/uploads/celeste-headshot.jpg
 firstName: Celeste
 collection: Women
+height: 170cm
+bust: 82cm
+waist: 66cm
+hips: 86cm
+size: 8-10
+shoeSize: '8'
+hair: Blonde
+eyes: Blue
 imagePortfolio:
   - image: /images/uploads/celeste-new-8.jpg
   - image: /images/uploads/celeste-new-.jpg
