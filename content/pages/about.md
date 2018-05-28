@@ -72,19 +72,15 @@ services:
       image: /images/uploads/avel-chuklanov-509630-unsplash.png
       title: Actor/Extras
     - content: >-
+        Make your next event stand out in the crowd with our intelligent, well
+        spoken, charismatic Brand Ambassadors.
 
 
-        Karli our gorgeous make up artist will transform you to be camera ready.
-        Not only will she create a flawless face but she will also style your
-        hair to match. Perfect for events and photo shoots.
-
-
-        Be shoot ready in a flash with Karli from ibeautyconnect.
-
-
-        Email: ibeautyconnect17@gmail.com
-      image: /images/uploads/mu.jpg
-      title: Makeup Artist
+        Also Team Glass offer expertise in full Event Management, from theming,
+        run sheets, MC's, entertainment, catering etc. From your vision right
+        through to completion.
+      image: /images/uploads/unnamed.jpg
+      title: Event Management and Brand Ambassadors
     - content: >-
         Karli our gorgeous make up artist will transform you to be camera ready.
         Not only will she create a flawless face but she will also style your
