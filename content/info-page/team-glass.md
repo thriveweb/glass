@@ -2,19 +2,22 @@
 title: Team Glass
 featuredImage: /images/uploads/flaunter-com-237609-unsplash.png
 content: >-
-  This is placeholder text that our web designers put here to make sure words
-  appear properly on your website. This text is going to be replaced once the
-  website is completed. You are currently reading text that is written in
-  English, not any other language.
+  Here at Glass we belong to a special club called #teamglass
 
 
-  ![Test Image](/images/uploads/0s4a9933_preview.jpg)
+  We believe in celebrating each individuals success. We believe in team unity.
 
 
-  This text isn’t going to remain here because it doesn't pertain to the
-  website. This paragraph has been copied from a program that automatically
-  generates paragraphs like this. It is useful for web designers to use
-  placeholder text so they can easily see what different fonts look like on a
-  realistic paragraph.
+  Each model is special and we tailor make a plan to  help them reach their
+  goals within the industry.
+
+
+  By remaining the Gold Coast's Top 100 we can accomplish this promise.
+
+
+  Go #teamglass
+
+
+  ![Test Image](/images/uploads/logo-black.svg)
 ---
 
