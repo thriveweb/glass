@@ -23,15 +23,12 @@ imagePortfolio:
   - image: /images/uploads/chelsea-4.jpg
   - image: /images/uploads/chelsea-2.jpg
   - image: /images/uploads/201711013258crop.jpg
+  - image: /images/uploads/chelsea-again2812.jpg
   - image: /images/uploads/chelsea-16.jpg
   - image: /images/uploads/chelsea-26.jpg
   - image: /images/uploads/chelsea-14.jpg
   - image: /images/uploads/chelsea-20.jpg
   - image: /images/uploads/chelsea-12.jpg
   - image: /images/uploads/chelsea-21.jpg
-  - {}
-  - {}
-  - {}
-  - {}
 ---
 
