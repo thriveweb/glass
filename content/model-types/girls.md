@@ -1,6 +1,6 @@
 ---
 title: Girls
-featuredImage: /images/uploads/201710284189crop.jpg
+featuredImage: /images/uploads/201710284074.jpg
 order: '3'
 ---
 
