@@ -1,7 +1,7 @@
 ---
 title: Amanda
 featuredImage: /images/uploads/ezgif.com-webp-to-jpg-7-.jpg
-imageThumbnail: /images/uploads/amanda-headshot.jpg
+imageThumbnail: /images/uploads/amanda-headshot-1-.jpg
 firstName: Amanda
 collection: Women
 height: 167.5cms
