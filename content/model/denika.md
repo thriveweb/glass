@@ -4,10 +4,10 @@ featuredImage: /images/uploads/dee-1-.jpg
 imageThumbnail: /images/uploads/dee-10.jpg
 firstName: Dee
 collection: Women
-height: 173cms
-bust: 93cms
-waist: 73cms
-hips: 92cms
+height: 173cm
+bust: 93cm
+waist: 73cm
+hips: 92cm
 size: '12'
 shoeSize: '9'
 hair: Blonde
