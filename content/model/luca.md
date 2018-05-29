@@ -1,6 +1,6 @@
 ---
 title: Luca
-featuredImage: /images/uploads/luca-4.webp
+featuredImage: /images/uploads/lucabanner12890po123.jpg
 imageThumbnail: /images/uploads/luca-1.webp
 firstName: Luca
 collection: Boys
