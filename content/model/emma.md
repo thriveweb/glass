@@ -13,8 +13,17 @@ shoeSize: '6'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/emmayas2719.jpg
-  - image: /images/uploads/emmaheadshot723.jpg
+  - image: /images/uploads/emma-1-.jpg
+  - image: /images/uploads/emma-9.jpg
   - image: /images/uploads/emmabaner793y.jpg
+  - image: /images/uploads/emma-1.jpg
+  - image: /images/uploads/emma-13.jpg
+  - image: /images/uploads/emma-3.jpg
+  - image: /images/uploads/emma-19.jpg
+  - image: /images/uploads/emma-5.jpg
+  - image: /images/uploads/emma.jpg
+  - image: /images/uploads/emmabaner793y32.jpg
+  - image: /images/uploads/emma-17.jpg
+  - image: /images/uploads/emma-7.jpg
 ---
 
