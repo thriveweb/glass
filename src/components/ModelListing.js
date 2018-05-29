@@ -25,7 +25,7 @@ export default ({ models, modelTypes, title, subTitle, selectedModelType}) => {
 						<p className='name-rotate'>{model.firstName}</p>
 						<Link className='section--model-list-item-link' to={`/model/${_kebabCase(model.title)}`}>
 							{model.imageThumbnail && <BackgroundImage src={model.imageThumbnail} imageSize='600' />}
-							{ model.collection && <p className='category title'>{model.collection}</p> }
+							{model.collection && <p className='category title'>{model.collection}</p>}
 							{model.firstName && <h3>{model.firstName}</h3>}
 						</Link>
 					</div>
