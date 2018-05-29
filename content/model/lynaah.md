@@ -1,6 +1,6 @@
 ---
 title: Lynaah
-featuredImage: /images/uploads/lynaah-1-1-.jpg
+featuredImage: /images/uploads/lynaah1874ehadshot.jpg
 imageThumbnail: /images/uploads/lynaah-4.jpeg
 firstName: Lynaah
 collection: Women
