@@ -4,10 +4,10 @@ featuredImage: /images/uploads/amandabannery313.jpg
 imageThumbnail: /images/uploads/amanda-headshot-1-.jpg
 firstName: Amanda
 collection: Women
-height: 167.5cms
-bust: 88cms
-waist: 66cms
-hips: 86cms
+height: 167.5cm
+bust: 88cm
+waist: 66cm
+hips: 86cm
 size: '8'
 shoeSize: '7.5'
 hair: Brown
