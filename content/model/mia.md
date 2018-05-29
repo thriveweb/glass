@@ -1,6 +1,6 @@
 ---
 title: Mia
-featuredImage: /images/uploads/mia11.jpg
+featuredImage: /images/uploads/mia11banener213.jpg
 imageThumbnail: /images/uploads/mia9.jpg
 firstName: Mia
 collection: Girls
