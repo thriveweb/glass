@@ -1,6 +1,6 @@
 ---
 title: Emma
-featuredImage: /images/uploads/emmabaner793y322.jpg
+featuredImage: /images/uploads/emmabanee238974.jpg
 imageThumbnail: /images/uploads/emmaheadshot723.jpg
 firstName: Emma
 collection: Classic
