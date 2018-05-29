@@ -4,10 +4,10 @@ featuredImage: /images/uploads/karli.png
 imageThumbnail: /images/uploads/karli-10.png
 firstName: Karli
 collection: Women
-height: 175cms
-bust: 88cms
-waist: 76cms
-hips: 96cms
+height: 175cm
+bust: 88cm
+waist: 76cm
+hips: 96cm
 size: '10'
 shoeSize: '10'
 hair: Blonde/Brown
