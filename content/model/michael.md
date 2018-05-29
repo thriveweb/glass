@@ -1,6 +1,6 @@
 ---
 title: Michael
-featuredImage: /images/uploads/mich1.jpg
+featuredImage: /images/uploads/michaelbanner28347.jpg
 imageThumbnail: /images/uploads/mich7.jpg
 firstName: Michael
 collection: Classic
