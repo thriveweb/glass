@@ -1,6 +1,6 @@
 ---
 title: Jordy
-featuredImage: /images/uploads/jordy-15.jpg
+featuredImage: /images/uploads/jordybanne8479139.jpg
 imageThumbnail: /images/uploads/jordy-5.jpg
 firstName: Jordy
 collection: Boys
