@@ -1,6 +1,6 @@
 ---
 title: Cody
-featuredImage: /images/uploads/c3.jpg
+featuredImage: /images/uploads/codybanne43987.jpg
 imageThumbnail: /images/uploads/c6.jpg
 firstName: Cody
 collection: Boys
