@@ -13,8 +13,8 @@ imagePortfolio:
   - image: /images/uploads/kiana-8.jpg
   - image: /images/uploads/kiana-3.jpg
   - image: /images/uploads/kiana-6.jpg
-  - {}
-  - {}
-  - {}
+  - image: /images/uploads/zivah-3.jpg
+  - image: /images/uploads/zivah2.jpg
+  - image: /images/uploads/kiana-7.jpg
 ---
 
