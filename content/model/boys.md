@@ -4,10 +4,10 @@ featuredImage: /images/uploads/alexbanner237498.jpg
 imageThumbnail: /images/uploads/amn_0264-1-.jpg
 firstName: Alex
 collection: Boys
-height: 149cms
-bust: 75cms
-waist: 64cms
-hips: 66cms
+height: 149cm
+bust: 75cm
+waist: 64cm
+hips: 66cm
 size: '7'
 shoeSize: '6'
 hair: Blonde
