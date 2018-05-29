@@ -1,6 +1,6 @@
 ---
 title: Dane
-featuredImage: /images/uploads/danbanner2384.jpg
+featuredImage: /images/uploads/danebanner23841.jpg
 imageThumbnail: /images/uploads/dane.jpg
 firstName: Dane
 collection: Men
