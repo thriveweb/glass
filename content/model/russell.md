@@ -4,7 +4,7 @@ featuredImage: /images/uploads/russellbanner79138.jpg
 imageThumbnail: /images/uploads/russell_lrg-5.jpg
 firstName: Russell
 collection: Men
-height: 175cms
+height: 175cm
 size: M
 shoeSize: '8'
 hair: Brown
