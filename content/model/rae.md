@@ -1,6 +1,6 @@
 ---
 title: Rae
-featuredImage: /images/uploads/rae1.webp
+featuredImage: /images/uploads/rae2.webp
 imageThumbnail: /images/uploads/rae.webp
 firstName: Rae
 collection: Classic
