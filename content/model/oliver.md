@@ -15,7 +15,7 @@ eyes: Blue
 imagePortfolio:
   - image: /images/uploads/image1-4-.jpeg
   - image: /images/uploads/oliver.jpg
-  - {}
+  - image: /images/uploads/oliv1.jpg
   - {}
 ---
 
