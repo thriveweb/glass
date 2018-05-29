@@ -4,7 +4,7 @@ featuredImage: /images/uploads/suebanner8743.jpg
 imageThumbnail: /images/uploads/sue-s-family-15.jpg
 firstName: Sue
 collection: Classic
-height: 170cms
+height: 170cm
 size: '8'
 shoeSize: '8'
 hair: Brown
