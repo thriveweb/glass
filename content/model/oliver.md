@@ -4,10 +4,10 @@ featuredImage: /images/uploads/image1-4-.jpeg
 imageThumbnail: /images/uploads/unnamed-1.jpg
 firstName: Oliver
 collection: Boys
-height: 150cms
-bust: 67cms
-waist: 65cms
-hips: 74cms
+height: 150cm
+bust: 67cm
+waist: 65cm
+hips: 74cm
 size: '10'
 shoeSize: '5'
 hair: Blonde
