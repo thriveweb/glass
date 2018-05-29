@@ -1,6 +1,6 @@
 ---
 title: Alex
-featuredImage: /images/uploads/amn_0157.jpg
+featuredImage: /images/uploads/alexbanner237498.jpg
 imageThumbnail: /images/uploads/amn_0264-1-.jpg
 firstName: Alex
 collection: Boys
