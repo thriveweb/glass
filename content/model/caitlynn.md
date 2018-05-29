@@ -18,7 +18,7 @@ imagePortfolio:
   - image: /images/uploads/img_5097.jpg
   - image: /images/uploads/img_5335.jpg
   - image: /images/uploads/img_5125.jpg
-  - image: /images/uploads/cait-4.png
+  - image: /images/uploads/caitlynn23ui.jpg
   - image: /images/uploads/img_5597.jpg
   - image: /images/uploads/cait-1-.png
   - image: /images/uploads/img_5772.jpg
