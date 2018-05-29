@@ -4,10 +4,10 @@ featuredImage: /images/uploads/jasmine-banner.jpg
 imageThumbnail: /images/uploads/jasmine-lessue-.jpg
 firstName: Jasmine
 collection: Girls
-height: 162cms
-bust: 79cms
-waist: 65cms
-hips: 89cms
+height: 162cm
+bust: 79cm
+waist: 65cm
+hips: 89cm
 size: '8'
 shoeSize: '7'
 hair: Brown
