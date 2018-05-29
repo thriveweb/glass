@@ -4,10 +4,10 @@ featuredImage: /images/uploads/patrickbanner7y39332.jpg
 imageThumbnail: /images/uploads/amn_0838.jpg
 firstName: Patrick
 collection: Men
-height: 191cms
-bust: 106cms
-waist: 90cms
-hips: 98cms
+height: 191cm
+bust: 106cm
+waist: 90cm
+hips: 98cm
 size: L
 shoeSize: '10'
 hair: Auburn
