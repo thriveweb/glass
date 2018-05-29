@@ -1,6 +1,6 @@
 ---
 title: Amanda
-featuredImage: /images/uploads/ezgif.com-webp-to-jpg-7-.jpg
+featuredImage: /images/uploads/amandabannery313.jpg
 imageThumbnail: /images/uploads/amanda-headshot-1-.jpg
 firstName: Amanda
 collection: Women
