@@ -4,10 +4,10 @@ featuredImage: /images/uploads/201710284425.jpg
 imageThumbnail: /images/uploads/201710284370crop.jpg
 firstName: Ciara
 collection: Girls
-height: 134.5cms
-bust: 61cms
-waist: 56.5cms
-hips: 60cms
+height: 134.5cm
+bust: 61cm
+waist: 56.5cm
+hips: 60cm
 size: '8'
 shoeSize: '3'
 hair: Brown
