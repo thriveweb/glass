@@ -27,7 +27,10 @@ about:
   content: >-
     "For beautiful eyes, look for the good in others; for beautiful lips, speak
     only words of kindness; and for poise, walk with the knowledge you are never
-    alone." - Audrey Hepburn                                          
+    alone." - Audrey Hepburn            
+
+
+    \    
 
 
     At Glass Management you are never alone. We are here to guide and nurture
@@ -74,8 +77,8 @@ testimonials:
 
         John Conomos CEO Lexus Australia
       logo: /images/uploads/lexus.jpeg
-      name: ' CEO John Conomos Lexus Australia'
-      title: 'Lexus Australia '
+      name: John Conomos
+      title: Lexus Australia CEO John Conomos
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
