@@ -19,5 +19,6 @@ imagePortfolio:
   - image: /images/uploads/amn_9810_preview.jpg
   - image: /images/uploads/jasmine-12.jpg
   - image: /images/uploads/jasmine-11.jpg
+  - {}
 ---
 
