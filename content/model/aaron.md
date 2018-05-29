@@ -4,10 +4,10 @@ featuredImage: /images/uploads/unnamed-7.jpg
 imageThumbnail: /images/uploads/aaron-7.jpg
 firstName: Aaron
 collection: Men
-height: 182cms
-bust: 101cms
-waist: 76cms
-hips: 76cms
+height: 182cm
+bust: 101cm
+waist: 76cm
+hips: 76cm
 size: M
 shoeSize: '10'
 hair: Blonde
