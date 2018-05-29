@@ -4,10 +4,10 @@ featuredImage: /images/uploads/ti2.jpg
 imageThumbnail: /images/uploads/ti5.jpg
 firstName: Tiann
 collection: Girls
-height: 125cms
-bust: 66cms
-waist: 60cms
-hips: 67cms
+height: 125cm
+bust: 66cm
+waist: 60cm
+hips: 67cm
 size: '10'
 shoeSize: '12'
 hair: Brown
