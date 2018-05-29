@@ -4,10 +4,10 @@ featuredImage: /images/uploads/emilywesbann23801873.jpg
 imageThumbnail: /images/uploads/unspecified-14.jpeg
 firstName: Emily
 collection: Women
-height: 170cms
-bust: 82cms
-waist: 64cms
-hips: 91cms
+height: 170cm
+bust: 82cm
+waist: 64cm
+hips: 91cm
 size: '8'
 shoeSize: '9'
 hair: Blonde
