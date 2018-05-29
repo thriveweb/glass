@@ -4,6 +4,12 @@ featuredImage: /images/uploads/danebanner23841.jpg
 imageThumbnail: /images/uploads/dane.jpg
 firstName: Dane
 collection: Men
+height: 184cm
+bust: 111cm
+waist: 97cm
+hips: 97cm
+size: M/L
+shoeSize: 10.5US
 hair: Blonde
 eyes: Blue
 imagePortfolio:
