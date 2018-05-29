@@ -12,7 +12,6 @@ imagePortfolio:
   - image: /images/uploads/ales2.jpg
   - image: /images/uploads/201710284074crop.jpg
   - image: /images/uploads/ales1.jpg
-  - image: /images/uploads/unnamed-1.jpg
   - image: /images/uploads/201710284074.jpg
 ---
 
