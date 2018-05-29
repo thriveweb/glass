@@ -334,7 +334,8 @@
     border-bottom: .1rem solid white;
   }
 
-  .nav--container nav ul .menu-item-has-children .subMenu, .nav.active .nav--container nav ul .menu-item-has-children .subMenu {
+  .nav--container nav ul .menu-item-has-children .subMenu,
+  .nav.active .nav--container nav ul .menu-item-has-children .subMenu {
     position: static;
     width: 100%;
     border: none;
@@ -417,7 +418,9 @@
     margin-top: 3rem;
   }
 
-  .nav.active .nav--container .client-nav .title, .nav.active .nav--container .client-nav .title svg *, .nav.active .nav--container .client-nav .button {
+  .nav.active .nav--container .client-nav .title,
+  .nav.active .nav--container .client-nav .title svg *,
+  .nav.active .nav--container .client-nav .button {
     color: white;
     fill: white;
   }

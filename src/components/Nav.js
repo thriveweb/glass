@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { withRouter } from 'react-router'
 import './Nav.css'
 
 import { slugify } from '../util/url'
@@ -21,6 +22,14 @@ class Nav extends Component {
 		this.setState({
 			mobileActive: !this.state.mobileActive
 		})
+	}
+
+	componentDidUpdate = (prevProps, prevState) => {
+		if (this.props.location !== prevProps.location) {
+	      this.setState({
+	      	mobileActive: false
+	      })
+	    }
 	}
 
 	onMenuItemClick = () => {
@@ -47,7 +56,6 @@ class Nav extends Component {
 	render() {
 		const { header, modelTypes=[] } = this.props
 		const { mobileActive, navActive, menuItemActive } = this.state
-
 
 		return (
 			<nav className={`nav ${navActive ? 'active' : ''} ${mobileActive ? 'mobile-active' : ''}`}>
@@ -93,4 +101,4 @@ class Nav extends Component {
 	}
 }
 
-export default Nav
+export default withRouter(Nav)
