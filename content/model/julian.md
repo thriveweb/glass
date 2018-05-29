@@ -4,10 +4,10 @@ featuredImage: /images/uploads/201710284075.jpg
 imageThumbnail: /images/uploads/20180517_135233-1440x1457.png
 firstName: Julian
 collection: Boys
-height: 117cms
-bust: 55.5cms
-waist: 48cms
-hips: 55cms
+height: 117cm
+bust: 55.5cm
+waist: 48cm
+hips: 55cm
 size: '4'
 shoeSize: '10'
 hair: Brown
