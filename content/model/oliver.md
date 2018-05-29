@@ -1,7 +1,7 @@
 ---
 title: Oliver
 featuredImage: /images/uploads/image1-4-.jpeg
-imageThumbnail: /images/uploads/image1-5-.jpeg
+imageThumbnail: /images/uploads/unnamed-1.jpg
 firstName: Oliver
 collection: Boys
 height: 150cms
@@ -14,5 +14,8 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/image1-4-.jpeg
+  - image: /images/uploads/oliver.jpg
+  - {}
+  - {}
 ---
 
