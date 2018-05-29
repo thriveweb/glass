@@ -4,6 +4,8 @@ featuredImage: /images/uploads/zivah.jpg
 imageThumbnail: /images/uploads/zivah.jpg
 firstName: Zivah
 collection: Girls
+size: 1-2
+shoeSize: '5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
