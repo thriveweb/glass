@@ -1,6 +1,6 @@
 ---
 title: Tyra
-featuredImage: /images/uploads/201710284175.jpg
+featuredImage: /images/uploads/tyrabanner29uo82.jpg
 imageThumbnail: /images/uploads/tyra1.jpg
 firstName: Tyra
 collection: Girls
