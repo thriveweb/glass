@@ -1,6 +1,6 @@
 ---
 title: Eden
-featuredImage: /images/uploads/edenbanenr9840.jpg
+featuredImage: /images/uploads/edenabnner2348.jpg
 imageThumbnail: /images/uploads/eden-headshot.jpg
 firstName: Eden
 collection: Classic
