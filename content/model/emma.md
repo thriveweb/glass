@@ -1,7 +1,7 @@
 ---
 title: Emma
-featuredImage: /images/uploads/image2-2-.jpeg
-imageThumbnail: /images/uploads/image2-3-.jpeg
+featuredImage: /images/uploads/emmabaner793y32.jpg
+imageThumbnail: /images/uploads/emmaheadshot723.jpg
 firstName: Emma
 collection: Classic
 height: 165cms
@@ -13,8 +13,8 @@ shoeSize: '6'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/image2-1-.jpeg
-  - {}
-  - {}
+  - image: /images/uploads/emmayas2719.jpg
+  - image: /images/uploads/emmaheadshot723.jpg
+  - image: /images/uploads/emmabaner793y.jpg
 ---
 
