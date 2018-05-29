@@ -6,7 +6,7 @@ firstName: Kaileigh
 collection: Women
 height: 181cm
 bust: 81cm
-waist: 71cms
+waist: 71cm
 hips: 83cm
 size: '8'
 shoeSize: '9'
