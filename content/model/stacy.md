@@ -1,6 +1,6 @@
 ---
 title: Stacy
-featuredImage: /images/uploads/stacybannerer72398484.jpg
+featuredImage: /images/uploads/stacybannerer2764.jpg
 imageThumbnail: /images/uploads/stacy-1.jpg
 firstName: Stacy
 collection: Classic
