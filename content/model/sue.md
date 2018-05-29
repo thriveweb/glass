@@ -1,6 +1,6 @@
 ---
 title: Sue
-featuredImage: /images/uploads/suebanner87.jpg
+featuredImage: /images/uploads/suebanner8743.jpg
 imageThumbnail: /images/uploads/sue-s-family-15.jpg
 firstName: Sue
 collection: Classic
