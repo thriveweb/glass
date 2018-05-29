@@ -1,6 +1,6 @@
 ---
 title: Julian
-featuredImage: /images/uploads/201710284075.jpg
+featuredImage: /images/uploads/julianbanner129863.jpg
 imageThumbnail: /images/uploads/20180517_135233-1440x1457.png
 firstName: Julian
 collection: Boys
