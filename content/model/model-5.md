@@ -13,11 +13,11 @@ shoeSize: '5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/amn_0530.jpg
-  - image: /images/uploads/amn_0524.jpg
   - image: /images/uploads/amn_0537-1-.jpg
   - image: /images/uploads/vintage-sistas-1.jpg
+  - image: /images/uploads/amn_0530.jpg
   - image: /images/uploads/vintage-sistas-3.jpg
+  - image: /images/uploads/amn_0524.jpg
   - image: /images/uploads/sun-emporium-11.jpg
   - image: /images/uploads/sun-emporium-5.jpg
   - image: /images/uploads/ps-frocks-jnr-1.jpg
