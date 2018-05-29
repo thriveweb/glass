@@ -105,7 +105,7 @@ services:
       image: /images/uploads/amn_1580.jpg
       title: Photography
     - content: >-
-        We use Gracey Criss Video, who are avid film lovers who want to create
+        We use Gracey Criss Films, who are avid film lovers who want to create
         cinematic videos accessible to anyone and everyone! With a special focus
         on visual and storytelling aspects, they strive to ensure quick and
         affordable turnarounds.
