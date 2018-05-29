@@ -4,10 +4,10 @@ featuredImage: /images/uploads/t5.jpg
 imageThumbnail: /images/uploads/t.jpg
 firstName: Taya
 collection: Girls
-height: 107cms
-bust: 53cms
-waist: 50cms
-hips: 55cms
+height: 107cm
+bust: 53cm
+waist: 50cm
+hips: 55cm
 size: '4'
 shoeSize: '9'
 hair: Brown
