@@ -4,10 +4,10 @@ featuredImage: /images/uploads/benaya-banner.jpg
 imageThumbnail: /images/uploads/amn_0405-2-.jpg
 firstName: Benaya
 collection: Girls
-height: 170cms
-bust: 81cms
-waist: 85cms
-hips: 93cms
+height: 170cm
+bust: 81cm
+waist: 85cm
+hips: 93cm
 size: '8'
 shoeSize: '7'
 hair: Brown
