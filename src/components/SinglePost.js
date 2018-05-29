@@ -65,7 +65,7 @@ export default ({ post, showShareButtons = true }) => {
 
           {videoSource && (
             <div className='section--single-post-video'>
-              <ReactPlayer url={videoSource} />
+              <ReactPlayer url={videoSource} controls={true} />
             </div>
           )}
         </div>
