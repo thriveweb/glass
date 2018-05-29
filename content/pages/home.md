@@ -28,18 +28,8 @@ about:
     For beautiful eyes, look for the good in others; for beautiful lips, speak
     only words of kindness; and for poise, walk with the knowledge you are never
     alone.   Audrey
-    Hepburn                                                                        
+    Hepburn                                                      
 
-
-    >
-
-    >
-
-    > \
-
-    >
-
-    >
 
     > **At Glass Management you are never alone. We are here to guide and
     nurture aspiring talent and to provide our clients with exceptional
