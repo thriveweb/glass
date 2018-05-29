@@ -1,6 +1,6 @@
 ---
 title: Felicity W
-featuredImage: /images/uploads/201710284022crop_preview.jpg
+featuredImage: /images/uploads/felicitybanner23398923.jpg
 imageThumbnail: /images/uploads/201710284006_preview.jpg
 firstName: Felicity W
 collection: Girls
