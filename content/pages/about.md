@@ -87,10 +87,10 @@ services:
         hair to match. Perfect for events and photo shoots.
 
 
-        Be shoot ready in a flash with Karli from ibeautyconnect.
+        Be shoot ready in a flash with Karli from Glass.
 
 
-        Email: ibeautyconnect17@gmail.com
+        Email: talent@glassmanagement.com.au
       image: /images/uploads/mu.jpg
       title: Makeup Artist
     - content: >-
