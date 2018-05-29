@@ -74,8 +74,8 @@ testimonials:
 
         John Conomos CEO Lexus Australia
       logo: /images/uploads/lexus.jpeg
-      name: John Conomos
-      title: Lexus Australia CEO John Conomos
+      name: ' CEO John Conomos Lexus Australia'
+      title: 'Lexus Australia '
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
