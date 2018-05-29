@@ -4,10 +4,10 @@ featuredImage: /images/uploads/codybanne43987.jpg
 imageThumbnail: /images/uploads/c6.jpg
 firstName: Cody
 collection: Boys
-height: 150cms
-bust: 76cms
-waist: 69cms
-hips: 81cms
+height: 150cm
+bust: 76cm
+waist: 69cm
+hips: 81cm
 size: '12'
 shoeSize: US 7
 hair: Brown
