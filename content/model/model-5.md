@@ -4,10 +4,10 @@ featuredImage: /images/uploads/jmj-beach-shoot-1.jpg
 imageThumbnail: /images/uploads/amn_0537-1-.jpg
 firstName: Sienna
 collection: Girls
-height: 150cms
-bust: 66cms
-waist: 57cms
-hips: 72cms
+height: 150cm
+bust: 66cm
+waist: 57cm
+hips: 72cm
 size: 10-12
 shoeSize: '5'
 hair: Blonde
