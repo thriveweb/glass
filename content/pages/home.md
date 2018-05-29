@@ -60,17 +60,23 @@ testimonials:
       name: Philip Holder- Associate Director www.warehousestudio.com.au
       title: The Warehouse Studio
     - content: >-
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration in some form, by injected humour, or
-        randomised words which don't look even slightly believable. 
+        **Appreciation**
 
 
-        All the Lorem Ipsum generators on the Internet tend to repeat predefined
-        chunks as necessary, making this the first true generator on the
-        Internet.
-      logo: /images/uploads/Bitmap Copy 2.png
-      name: Author Name
-      title: Example Heading
+        I have to say thank you for your fab support and courtesy of Lexus
+        Australia for over 20 years. You make everyone feel like VIP's.
+
+
+        Well done all round. Terrific occasion.
+
+
+        Best Regards
+
+
+        John Conomos CEO Lexus Australia
+      logo: /images/uploads/lexus.jpeg
+      name: John Conomos
+      title: Lexus Australia CEO John Conomos
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
