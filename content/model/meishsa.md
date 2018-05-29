@@ -4,10 +4,10 @@ featuredImage: /images/uploads/201710284189crop.jpg
 imageThumbnail: /images/uploads/20180517_132837.png
 firstName: Meisha
 collection: Girls
-height: 144cms
-bust: 66.5cms
-waist: 98cms
-hips: 60cms
+height: 144cm
+bust: 66.5cm
+waist: 98cm
+hips: 60cm
 size: '10'
 shoeSize: 5 kids 7L
 hair: Brown
