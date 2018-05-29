@@ -5,6 +5,9 @@ imageThumbnail: /images/uploads/russell_lrg-5.jpg
 firstName: Russell
 collection: Men
 height: 175cm
+bust: 103cm
+waist: 88cm
+hips: 96cm
 size: M
 shoeSize: '8'
 hair: Brown
