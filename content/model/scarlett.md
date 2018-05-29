@@ -4,10 +4,10 @@ featuredImage: /images/uploads/3982544_8614165.jpg
 imageThumbnail: /images/uploads/dsc04694.jpg
 firstName: Scarlett
 collection: Girls
-height: 156cms
-bust: 75cms
-waist: 56cms
-hips: 75cms
+height: 156cm
+bust: 75cm
+waist: 56cm
+hips: 75cm
 size: 12 Child
 shoeSize: '4'
 hair: Blonde
