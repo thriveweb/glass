@@ -1,6 +1,6 @@
 ---
 title: Russell
-featuredImage: /images/uploads/russell0923oi4banner.jpg
+featuredImage: /images/uploads/russellbanner79138.jpg
 imageThumbnail: /images/uploads/russell_lrg-5.jpg
 firstName: Russell
 collection: Men
