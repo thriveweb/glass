@@ -4,6 +4,10 @@ featuredImage: /images/uploads/kiana128973bnner.jpg
 imageThumbnail: /images/uploads/201710284202.jpg
 firstName: Kiyan
 collection: Boys
+height: 109cm
+bust: 54cm
+waist: 51cm
+hips: 51cm
 size: '4'
 shoeSize: '10'
 hair: Light Brown
