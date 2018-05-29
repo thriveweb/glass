@@ -47,7 +47,7 @@ content: >-
   Yes absolutely it can sometimes be a harsh industry to deal with. Other people
   are chosen over you and you have to be able to accept that the client was just
   looking for someone different. And to not take it to heart and feel like it is
-  because you just aren't good enough!
+  because you just aren't good enough.
 
 
   **Do I need to be available and professional?**
