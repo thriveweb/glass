@@ -145,6 +145,10 @@
 	.section--single-post .Content {
 		padding-top: 5rem;
 	}
+
+	.section--single-post-video > div {
+		height: 45vw !important;
+	}
 }
 
 @media only screen and (max-width: 760px) {

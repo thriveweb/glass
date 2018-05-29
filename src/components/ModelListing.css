@@ -191,7 +191,14 @@
 	}
 
 	.section--model-list-item .category {
-		font-size: .6em;
+		font-size: .5em;
+	}
+}
+
+@media only screen and (max-width: 415px) {
+	.section--model-list-item h3 {
+		font-size: 1em;
+		word-break: break-all;
 	}
 }
 
