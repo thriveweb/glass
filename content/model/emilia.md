@@ -4,10 +4,10 @@ featuredImage: /images/uploads/emiliabanner3827.jpg
 imageThumbnail: /images/uploads/_dsc8542_c1-1.jpg
 firstName: Emilia
 collection: Girls
-height: 140cms
-bust: 65cms
-waist: 58cms
-hips: 64cms
+height: 140cm
+bust: 65cm
+waist: 58cm
+hips: 64cm
 size: '10'
 shoeSize: '2.5'
 hair: Blonde
