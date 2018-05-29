@@ -25,9 +25,9 @@ about:
     /images/uploads/8e8e6d8ccaa4e8063cbf3a3eb3c6c3e4-timeless-beauty-classic-beauty.jpg
   subTitle: ''
   content: >-
-    For beautiful eyes, look for the good in others; for beautiful lips, speak
+    "For beautiful eyes, look for the good in others; for beautiful lips, speak
     only words of kindness; and for poise, walk with the knowledge you are never
-    alone.   Audrey
+    alone." - Audrey
     Hepburn                                                      
 
 
