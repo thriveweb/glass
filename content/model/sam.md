@@ -1,6 +1,6 @@
 ---
 title: Sam
-featuredImage: /images/uploads/samanthabanner7349.jpg
+featuredImage: /images/uploads/sam-banner.jpg
 imageThumbnail: /images/uploads/sam.jpg
 firstName: Sam
 collection: Women
