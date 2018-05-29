@@ -17,5 +17,7 @@ imagePortfolio:
   - image: /images/uploads/jasmine-lessue-3.jpg
   - {}
   - image: /images/uploads/jasmine.jpg
+  - image: /images/uploads/jasmine-12.jpg
+  - image: /images/uploads/jasmine-11.jpg
 ---
 
