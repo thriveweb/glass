@@ -4,9 +4,9 @@ featuredImage: /images/uploads/img_0654.jpg
 imageThumbnail: /images/uploads/img_0651.jpg
 firstName: Matheus
 collection: Men
-height: 188cms
+height: 188cm
 bust: 95cm
-waist: 90cms
+waist: 90cm
 hips: 81cm
 size: M/L
 shoeSize: US 11
