@@ -1,6 +1,6 @@
 ---
 title: Emily
-featuredImage: /images/uploads/amn_9737-1-.jpg
+featuredImage: /images/uploads/emilybanner_e7212.jpg
 imageThumbnail: /images/uploads/unspecified-14.jpeg
 firstName: Emily
 collection: Women
