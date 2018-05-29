@@ -3,8 +3,16 @@ const outputDir = '/images/uploads/'
 const resizedDir = '/images/uploads/resized/'
 const imgixUrl = 'https://thrive-glass.imgix.net'
 
-const getImgixUrl = ({ path, size }) =>
-  `${imgixUrl}${encodeURI(path)}?w=${size}&fit=max&auto=compress,enhance`
+const getImgixUrl = ({ path, size, extname }) => {
+  if (extname === 'webp') {
+    const filename = path.split('/').pop()
+    path = resizedDir + filename + '.png'
+  }
+
+  return `${imgixUrl}${encodeURI(
+    path
+  )}?w=${size}&fit=max&auto=compress,enhance,format`
+}
 
 const parseFilename = filename => {
   const parts = filename.match(/(.+)\.([\w]+)$/)
@@ -26,7 +34,7 @@ const getImageSrcset = path => {
       size =>
         `${
           imgixUrl
-            ? getImgixUrl({ path, size })
+            ? getImgixUrl({ path, size, extname })
             : `${pathname}.${size}.${extname}`
         } ${size}w`
     )
@@ -51,7 +59,7 @@ const getImageSrc = (path, sizeRequested) => {
 
   const { filename, extname } = parseFilename(path)
   const pathname = encodeURI(filename.replace(outputDir, resizedDir))
-  if (imgixUrl) return getImgixUrl({ path, size })
+  if (imgixUrl) return getImgixUrl({ path, size, extname })
   return `${pathname}.${size}.${extname}`
 }
 
