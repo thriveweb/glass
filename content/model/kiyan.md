@@ -1,6 +1,6 @@
 ---
 title: Kiyan
-featuredImage: /images/uploads/kiana.jpg
+featuredImage: /images/uploads/kiana128973bnner.jpg
 imageThumbnail: /images/uploads/201710284202.jpg
 firstName: Kiyan
 collection: Boys
