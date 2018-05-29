@@ -26,30 +26,29 @@ teamMembers:
       the campaigns brief.
 
 
-      Basically she has the entertainment industry covered in all areas and her
-      can do energetic personality means it's exciting times ahead for her new
-      chapter Glass Management.
+      Tegan has the entertainment industry covered in all areas and her can-do
+      energetic personality means it's exciting times ahead for her new chapter:
+      Glass Management.
     image: /images/uploads/tegan-1.jpg
     leftAlign: true
     subTitle: Our Story
     title: Tegan Glass
   - content: >-
-      Jo is passionate about building the modeling industry here on the GC. Her
-      mission is to increase the number of large companies to shoot here in
-      Queensland. She also wants to tailor make a plan for each model and target
-      the right brand that suits their style. With over 25 years of experience
-      in the marketing, promotion and events Industry Glass are very lucky to
-      have her on board!
-    image: /images/uploads/img_0774.jpg
+      Jo is passionate about building the modelling industry here on the GC. Her
+      mission is to increase the number of large companies that shoot here in
+      Queensland and tailor a plan for each model, and target the right brand
+      that suits their style. With over 25 years of experience in the marketing,
+      promotion and events Industry - Glass are very lucky to have her on board!
+    image: /images/uploads/jo20198.jpg
     subTitle: Marketing Manager
     title: Jo Glenn
   - content: >-
-      Beautiful 16 year old Actress/Model/Writer - intern works tirelessly at
-      keeping the Website and Casting Network up to date. Chelsea is also here
-      to help the talent with their self taps and auditions and as a talented
-      writer she has a weekly blog on our website, Whilst always offering a
-      smile and words of advice to any talent needing some help and is a great
-      mentor to the Glass kids. Chelsea is a wonderful asset to the Glass Team.
+      Beautiful 16 year old Actress/Model/Writer and intern works tirelessly at
+      keeping the Website and Casting Networks up to date. Chelsea assists our
+      talent with their Self Taps and Auditions and as a talented writer she has
+      a weekly blog on our website. Whilst always offering a smile and words of
+      advice to any talent needing some help. She is a great mentor to the Glass
+      kids. Chelsea is a wonderful asset to the Glass Team.
     image: /images/uploads/img_3055.jpg
     leftAlign: true
     subTitle: Intern
