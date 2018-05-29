@@ -44,6 +44,7 @@ label {
   max-height: 8rem;
   box-shadow: none;
   width: 100%;
+  box-shadow: none;
 }
 
 input:-webkit-autofill {

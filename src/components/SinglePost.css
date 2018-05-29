@@ -123,6 +123,7 @@
 	display: flex;
 	justify-content: center;
 	padding-bottom: 4rem;
+	max-width: 100%;
 }
 
 
@@ -141,8 +142,8 @@
 		font-size: 3em;
 	}
 
-	.section--single-post-info {
-		margin-bottom: 5rem;
+	.section--single-post .Content {
+		padding-top: 5rem;
 	}
 }
 

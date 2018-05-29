@@ -31,6 +31,8 @@
 .nav--container nav {
   position: absolute;
   left: 16rem;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .nav--container nav >ul {
@@ -281,6 +283,7 @@
     margin-right: 0;
     transition: all ease-in-out 0.3s;
     z-index: 999;
+    transform: none;
   }
 
   .nav--container nav ul {
@@ -406,13 +409,8 @@
     background-color: var(--secondary);
   }
 
-  .nav--container .client-nav .title:hover {
-    background-color: var(--secondary);
-    color: white;
-  }
-
-  .nav--container .client-nav .button:hover {
-    background-color: var(--primary);
+  .nav--container .client-nav .title:hover, .nav--container .client-nav .button:hover {
+    opacity: 0.8;
   }
 
   .nav {

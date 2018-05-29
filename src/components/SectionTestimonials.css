@@ -1,5 +1,5 @@
 .section--testimonials {
-	padding: 10rem 0 15rem;
+	padding: 15rem 0 10rem;
 }
 
 .section--testimonials .container {
@@ -22,6 +22,7 @@
 .section--testimonials-item {
 	background-color: white;
 	padding: 0 5rem 5rem;
+	height: auto !important;
 }
 
 .section--testimonials-item h2 {
@@ -76,13 +77,19 @@
 	}
 }
 
-@media only screen and (max-width: 375px) {
-	.section--testimonials-item-content {
-		font-size: 1.3em;
+@media only screen and (max-width: 420px) {
+	.section--testimonials-item {
+		padding: 0 0 5rem;
 	}
 
 	.section--testimonials {
-		padding: 4rem 0 8rem;
+		padding: 4rem 0;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.section--testimonials-item-content {
+		font-size: 1.3em;
 	}
 
 	.section--testimonials .title {

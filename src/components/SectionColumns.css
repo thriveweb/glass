@@ -11,6 +11,7 @@
 	display: flex;
 	align-items: center;
 	justify-content: flex-end;
+	position: relative;
 }
 
 .section--columns-item .LazyImage {
@@ -19,6 +20,7 @@
 	right: 45%;
 	width: auto;
 	height: 50rem;
+	top: -75%;
 }
 
 .section--columns-item-content {
@@ -69,6 +71,7 @@
 
 	.section--columns-item .LazyImage {
 		height: 40rem;
+		top: -50%;
 	}
 
 	.section--columns-item-content {
@@ -87,6 +90,7 @@
 @media only screen and (max-width: 1075px) {
 	.section--columns-item .LazyImage {
 		height: 35rem;
+		top: -45%;
 	}
 
 	.section--columns-item-content {

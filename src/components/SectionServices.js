@@ -19,6 +19,7 @@ class SectionServices extends Component {
 		})
 
 		document.body.style.overflow = index ? 'hidden' : 'auto'
+		document.documentElement.style.overflow = index ? 'hidden' : 'auto'
 	}
 
 	render() {

@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import _kebabCase from 'lodash/kebabCase'
+// import _kebabCase from 'lodash/kebabCase'
 import './FeaturedPosts.css'
 
 import FeaturedPost from './FeaturedPost'
 // import PostCategory from './PostCategory'
-import Pagination from './Pagination'
+// import Pagination from './Pagination'
 
 
 class Posts extends Component {

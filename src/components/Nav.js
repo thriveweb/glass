@@ -30,13 +30,13 @@ class Nav extends Component {
 	}
 
 	componentDidMount = () => {
-		document.body.addEventListener('scroll', () => {
+		window.addEventListener('scroll', () => {
 
-			if(document.body.scrollTop > 20 && !this.state.navActive) {
+			if(window.pageYOffset > 20 && !this.state.navActive) {
 				this.setState({
 					navActive: true
 				})
-			} else if(document.body.scrollTop < 20 && this.state.navActive) {
+			} else if(window.pageYOffset < 20 && this.state.navActive) {
 				this.setState({
 					navActive: null
 				})

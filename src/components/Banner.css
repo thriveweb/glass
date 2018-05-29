@@ -75,6 +75,11 @@
 	.section--banner-content {
 		max-width: 100%;
 	}
+
+	.section--banner .LazyImage {
+		margin: 0 auto 1rem;
+		max-height: 5rem;
+	}
 }
 
 
