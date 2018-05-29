@@ -4,10 +4,10 @@ featuredImage: /images/uploads/bella-rose-dance_preview.jpg
 imageThumbnail: /images/uploads/br.jpg
 firstName: Bella Rose
 collection: Girls
-height: 138cms
-bust: 67cms
-waist: 55cms
-hips: 66cms
+height: 138cm
+bust: 67cm
+waist: 55cm
+hips: 66cm
 size: '8'
 shoeSize: '3'
 hair: Light Brown
