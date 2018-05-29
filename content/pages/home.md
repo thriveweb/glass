@@ -8,7 +8,7 @@ buttonText: See our Models
 buttonUrl: models/women
 gallery:
   galleryImages:
-    - image: /images/uploads/img_0556.jpg
+    - image: /images/uploads/gracepel1793.jpeg
       title: Women
     - image: /images/uploads/brayden-front-cover-1-.jpg
       title: Men
