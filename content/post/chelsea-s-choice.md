@@ -1,6 +1,6 @@
 ---
 title: Chelsea's Choice
-image: /images/uploads/chelsea1258622choice8.jpg
+image: /images/uploads/chelsea1258622choice845.jpg
 collection: A blog written by our 16 year old intern
 author: Chelsea
 date: 30th May 2018
