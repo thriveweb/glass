@@ -13,10 +13,10 @@ shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/jasmine-lessue-1.jpg
+  - image: /images/uploads/amn_9827-1-_preview.jpg
   - image: /images/uploads/jasmine-lessue-3.jpg
   - {}
-  - image: /images/uploads/jasmine.jpg
+  - image: /images/uploads/amn_9810_preview.jpg
   - image: /images/uploads/jasmine-12.jpg
   - image: /images/uploads/jasmine-11.jpg
 ---
