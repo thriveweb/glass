@@ -1,6 +1,6 @@
 ---
 title: Emily
-featuredImage: /images/uploads/emilywesbann2380187.jpg
+featuredImage: /images/uploads/emilywesbann23801873.jpg
 imageThumbnail: /images/uploads/unspecified-14.jpeg
 firstName: Emily
 collection: Women
