@@ -3,7 +3,7 @@ title: Wesley
 featuredImage: /images/uploads/wesley2.jpg
 imageThumbnail: /images/uploads/wesley1.jpg
 firstName: Wesley
-collection: Men
+collection: mens
 height: 180cm
 bust: 104cm
 hips: 83cm
