@@ -77,6 +77,7 @@ class App extends Component {
             url={siteUrl}
             description={siteDescription}
             headerScripts={headerScripts}
+            absoluteImageUrl={siteUrl + '/images/card-og.jpg'}
           />
           <Nav header={header} modelTypes={modelTypes} />
           <Switch>
