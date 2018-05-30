@@ -39,7 +39,7 @@ teamMembers:
       Queensland and tailor a plan for each model, and target the right brand
       that suits their style. With over 25 years of experience in the marketing,
       promotion and events Industry - Glass are very lucky to have her on board!
-    image: /images/uploads/jo20198.jpg
+    image: /images/uploads/profile.jpg
     subTitle: Marketing Manager
     title: Jo Glenn
   - content: >-
