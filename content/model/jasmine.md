@@ -1,5 +1,5 @@
 ---
-title: Jasmine
+title: Jasmine C
 featuredImage: /images/uploads/jasmine-colicchia-mmfs-9_preview.jpg
 imageThumbnail: /images/uploads/jasmine-colicchia-2_preview.jpg
 firstName: Jasmine C
