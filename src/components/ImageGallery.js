@@ -25,9 +25,9 @@ class ImageGallery extends Component {
 					<Masonry
 						className={'section--gallery-items'} // default ''
 						elementType={'div'} // default 'div'
-						options={masonryOptions} // default {}
-						disableImagesLoaded={false} // default false
-						updateOnEachImageLoad={false} // default false and works only if disableImagesLoaded is false
+						// options={masonryOptions} // default {}
+						// disableImagesLoaded={false} // default false
+						// updateOnEachImageLoad={true} // default false and works only if disableImagesLoaded is false
 					>
 						{galleryImages.map((galleryItem, index) => {
 							return <Link to={`/models/${_kebabCase(galleryItem.title)}`} key={galleryItem.title} className='section--image-gallery-item'>

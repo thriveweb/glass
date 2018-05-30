@@ -68,6 +68,7 @@
 	transform: scale(0);
 	transition: all ease-in-out .3s;
 	position: relative;
+	margin: 0;
 }
 
 .service-popup .popup-close {
