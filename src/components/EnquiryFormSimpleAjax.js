@@ -23,7 +23,9 @@ class Form extends React.Component {
   }
 
   handleUpload = (event, target) => {
-    const file = event.target.files[0] ? event.target.files[0].name : this.state[target]
+    const file = event.target.files[0]
+      ? event.target.files[0].name
+      : this.state[target]
 
     this.setState({
       [target]: file
@@ -145,7 +147,7 @@ class Form extends React.Component {
                 className='EnquiryForm--Input'
                 type='file'
                 placeholder='Upload Photo'
-                name='upload-photo'
+                name='upload-photo-bodyshot'
                 onChange={event => this.handleUpload(event, 'bodyShot')}
                 required
               />
@@ -159,15 +161,15 @@ class Form extends React.Component {
                 className='EnquiryForm--Input'
                 type='file'
                 placeholder='Upload Photo'
-                name='upload-photo'
+                name='upload-photo-headshot'
                 onChange={event => this.handleUpload(event, 'headShot')}
                 required
               />
               <span>Upload Photo</span> please attach a current headshot
             </label>
             {this.state.headShot && <p>{this.state.headShot}</p>}
-          </div>  
-        </div>  
+          </div>
+        </div>
         <div className='form--footer'>
           <input type='text' name='_gotcha' style={{ display: 'none' }} />
           {!!subject && <input type='hidden' name='subject' value={subject} />}
@@ -177,7 +179,7 @@ class Form extends React.Component {
             type='submit'
             value='Send'
           />
-        </div> 
+        </div>
       </form>
     )
   }
