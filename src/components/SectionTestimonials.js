@@ -7,6 +7,7 @@ import {ICONQuotes} from './Icons'
 
 import 'react-id-swiper/src/styles/css/swiper.css'
 import Slider from 'react-id-swiper'
+import Content from './Content'
 
 
 class SimpleSlider extends Component {
@@ -38,7 +39,7 @@ class SimpleSlider extends Component {
 						{testimonial.map((singleTestimonial, index) => {
 							return <div key={`testimonial-${index}`} className='section--testimonials-item testimonial-slide'>
 								{singleTestimonial.title && <h2>{singleTestimonial.title}</h2>}
-								{singleTestimonial.content && <p className='section--testimonials-item-content'>{singleTestimonial.content}</p>}
+								{singleTestimonial.content && <Content className='section--testimonials-item-content' source={singleTestimonial.content}/>}
 								{singleTestimonial.logo && <LazyImage src={`${singleTestimonial.logo}`} alt={title} imageSize='300' />}
 								{singleTestimonial.name && <p className='title'>{singleTestimonial.name}</p>}
 							</div>

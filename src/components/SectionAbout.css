@@ -28,6 +28,14 @@
 	color: var(--secondary);
 }
 
+.section--about-content blockquote {
+	margin: 3rem 0 2rem;
+}
+
+.section--about-content blockquote p {
+	color: white;
+}
+
 .section--about-content p {
 	color: var(--secondaryGrey);
 	line-height: 1.4;

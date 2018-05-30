@@ -4,6 +4,7 @@ import './SectionAbout.css'
 import { slugify } from '../util/url'
 import { Link } from 'react-router-dom'
 import LazyImage from './LazyImage'
+import Content from './Content'
 
 
 export default ({ about }) => {
@@ -16,7 +17,7 @@ export default ({ about }) => {
 				<div className='section--about-content'>
 					{subTitle && <p className='title'>{subTitle}</p>}
 					{title && <h2>{title}</h2>}
-					{content && <p>{content}</p>}
+					{content && <Content source={content}/>}
 					{buttonUrl && buttonText && <Link className='button' to={slugify(`/${buttonUrl}`)}>{buttonText}</Link>}
 				</div>
 			</div>
