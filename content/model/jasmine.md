@@ -2,7 +2,7 @@
 title: Jasmine
 featuredImage: /images/uploads/jasmine-colicchia-mmfs-9_preview.jpg
 imageThumbnail: /images/uploads/jasmine-colicchia-2_preview.jpg
-firstName: Jasmine
+firstName: Jasmine C
 collection: Girls
 height: 139cm
 bust: 58cm
