@@ -34,6 +34,7 @@
 	list-style-type: none;
 	color: #979797;
 	padding: .5rem;
+	display: block;
 }
 
 .section--single-post .share-buttons li:first-of-type {

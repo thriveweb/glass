@@ -40,7 +40,7 @@
 .section-services-item .title-fancy {
 	font-size: 4em;
 	max-width: 90%;
-	margin: 0 auto;
+	margin: 0;
 	padding: 2rem 4rem;
 	text-shadow: 0 .1rem 1.2rem rgba(0,0,0,0.6);
 }
