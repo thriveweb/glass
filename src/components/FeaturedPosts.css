@@ -157,7 +157,7 @@
 @media only screen and (max-width: 760px) {
 	.section--featured-posts-item {
 		flex: 0 0 85%;
-		margin: 0 auto 5rem !important;
+		margin: 0 0 5rem !important;
 	}
 
 	.section--featured-posts-item:nth-of-type(3n+3), 

@@ -127,10 +127,8 @@
 @media only screen and (max-width: 760px) {
 	.section--columns-item .LazyImage {
 		position: relative;
-		right: 0;
-		left: 0;
-		margin: 0 auto;
 		width: 40rem !important;
+		right: 0;
 		height: auto;
 	}
 
@@ -142,10 +140,15 @@
 
 	.section--columns-item .container {
 		flex-wrap: wrap;
+		justify-content: center;
 	}
 
 	.section--columns-item.column-right {
 		background: var(--primary);
+	}
+
+	.section--columns-item.column-right .container {
+		justify-content: center;
 	}
 
 	.section--columns-item.column-right .LazyImage {
