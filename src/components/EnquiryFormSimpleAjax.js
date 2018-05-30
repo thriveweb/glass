@@ -38,6 +38,13 @@ class Form extends React.Component {
 
     const form = e.target
     const data = serialize(form)
+
+    if (!data['upload-photo-headshot'] || !data['upload-photo-bodyshot']) {
+      return this.setState({
+        alert: 'Please attach both headshot & bodyshot'
+      })
+    }
+
     this.setState({ disabled: true })
     fetch(form.action + '?' + stringify(data), {
       method: 'POST'
@@ -73,6 +80,7 @@ class Form extends React.Component {
         className='EnquiryForm'
         name={name}
         action={action}
+        onSubmit={this.handleSubmit}
         data-netlify=''
         data-netlify-honeypot='_gotcha'
       >
@@ -149,7 +157,6 @@ class Form extends React.Component {
                 placeholder='Upload Photo'
                 name='upload-photo-bodyshot'
                 onChange={event => this.handleUpload(event, 'bodyShot')}
-                required
               />
               <span>Upload Photo</span> please attach a full length bodyshot
             </label>
@@ -163,13 +170,34 @@ class Form extends React.Component {
                 placeholder='Upload Photo'
                 name='upload-photo-headshot'
                 onChange={event => this.handleUpload(event, 'headShot')}
-                required
               />
               <span>Upload Photo</span> please attach a current headshot
             </label>
             {this.state.headShot && <p>{this.state.headShot}</p>}
           </div>
         </div>
+
+        {this.state.alert && (
+          <div className='EnquiryForm--Alert'>
+            <svg
+              width='24'
+              height='24'
+              viewBox='0 0 24 24'
+              fill='none'
+              stroke='currentColor'
+              strokeWidth='2'
+              strokeLinecap='round'
+              strokeLinejoin='round'
+              className='feather feather-alert-triangle'
+            >
+              <path d='M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z' />
+              <line x1='12' y1='9' x2='12' y2='13' />
+              <line x1='12' y1='17' x2='12' y2='17' />
+            </svg>
+            {this.state.alert}
+          </div>
+        )}
+
         <div className='form--footer'>
           <input type='text' name='_gotcha' style={{ display: 'none' }} />
           {!!subject && <input type='hidden' name='subject' value={subject} />}

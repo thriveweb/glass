@@ -57,25 +57,27 @@ legend {
   font-family: var(--font-secondary);
   text-transform: uppercase;
 }
- 
-.EnquiryForm input:-moz-placeholder { /* Firefox 18- */
+
+.EnquiryForm input:-moz-placeholder {
+  /* Firefox 18- */
   color: #2b2b2b;
   font-size: 1.2em;
   font-family: var(--font-secondary);
-  text-transform: uppercase;  
+  text-transform: uppercase;
 }
- 
-.EnquiryForm input::-moz-placeholder {  /* Firefox 19+ */
+
+.EnquiryForm input::-moz-placeholder {
+  /* Firefox 19+ */
   color: #2b2b2b;
   font-size: 1.2em;
-  font-family: var(--font-secondary); 
-  text-transform: uppercase; 
+  font-family: var(--font-secondary);
+  text-transform: uppercase;
 }
- 
-.EnquiryForm input:-ms-input-placeholder {  
-  color: #2b2b2b; 
+
+.EnquiryForm input:-ms-input-placeholder {
+  color: #2b2b2b;
   font-size: 1.2em;
-  font-family: var(--font-secondary); 
+  font-family: var(--font-secondary);
   text-transform: uppercase;
 }
 
@@ -85,25 +87,27 @@ legend {
   font-family: var(--font-secondary);
   text-transform: uppercase;
 }
- 
-.EnquiryForm textarea:-moz-placeholder { /* Firefox 18- */
+
+.EnquiryForm textarea:-moz-placeholder {
+  /* Firefox 18- */
   color: #2b2b2b;
   font-size: 1.2em;
-  font-family: var(--font-secondary); 
-  text-transform: uppercase; 
-}
- 
-.EnquiryForm textarea::-moz-placeholder {  /* Firefox 19+ */
-  color: #2b2b2b; 
-  font-size: 1.2em;
-  font-family: var(--font-secondary); 
+  font-family: var(--font-secondary);
   text-transform: uppercase;
 }
- 
-.EnquiryForm textarea:-ms-input-placeholder {  
-  color: #2b2b2b; 
+
+.EnquiryForm textarea::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #2b2b2b;
   font-size: 1.2em;
-  font-family: var(--font-secondary); 
+  font-family: var(--font-secondary);
+  text-transform: uppercase;
+}
+
+.EnquiryForm textarea:-ms-input-placeholder {
+  color: #2b2b2b;
+  font-size: 1.2em;
+  font-family: var(--font-secondary);
   text-transform: uppercase;
 }
 
@@ -121,7 +125,7 @@ legend {
 
 .file-download .EnquiryForm--Label {
   background-color: white;
-  border: .1rem solid var(--primary);
+  border: 0.1rem solid var(--primary);
   padding: 2rem 2.5rem;
   text-align: center !important;
   font-size: 1em;
@@ -133,7 +137,7 @@ legend {
 }
 
 .file-download .EnquiryForm--Label span {
-  margin: 0 auto .7rem;
+  margin: 0 auto 0.7rem;
   color: var(--primary);
 }
 
@@ -170,8 +174,20 @@ legend {
 .EnquiryForm--Alert {
   background: var(--lightGrey);
   width: 100%;
+  display: flex;
+  justify-content: center;
   text-align: center;
   padding: 2rem;
+  width: 100%;
+  font-family: var(--font-secondary);
+  font-size: 1.8em;
+  margin-bottom: 0;
+  margin-top: 2rem;
+}
+
+.EnquiryForm--Alert svg {
+  height: 1em;
+  margin-right: 0.3em;
 }
 
 .EnquiryForm--SubmitButton.button {
@@ -179,7 +195,7 @@ legend {
   font-weight: 600;
   font-size: 1.2em;
   padding: 1.5rem 4rem;
-  border: .1rem solid #2b2b2b;
+  border: 0.1rem solid #2b2b2b;
   flex: 1;
   min-width: auto;
   margin-top: 4rem;
@@ -190,7 +206,6 @@ legend {
   border-color: var(--secondary);
 }
 
-
 @media only screen and (max-width: 1100px) {
   .EnquiryForm--Input {
     font-size: 1em;
@@ -200,32 +215,36 @@ legend {
   .EnquiryForm input::-webkit-input-placeholder {
     font-size: 1em;
   }
-   
-  .EnquiryForm input:-moz-placeholder { /* Firefox 18- */
-    font-size: 1em; 
-  }
-   
-  .EnquiryForm input::-moz-placeholder {  /* Firefox 19+ */
+
+  .EnquiryForm input:-moz-placeholder {
+    /* Firefox 18- */
     font-size: 1em;
   }
-   
-  .EnquiryForm input:-ms-input-placeholder {  
+
+  .EnquiryForm input::-moz-placeholder {
+    /* Firefox 19+ */
+    font-size: 1em;
+  }
+
+  .EnquiryForm input:-ms-input-placeholder {
     font-size: 1em;
   }
 
   .EnquiryForm textarea::-webkit-input-placeholder {
     font-size: 1em;
   }
-   
-  .EnquiryForm textarea:-moz-placeholder { /* Firefox 18- */
+
+  .EnquiryForm textarea:-moz-placeholder {
+    /* Firefox 18- */
     font-size: 1em;
   }
-   
-  .EnquiryForm textarea::-moz-placeholder {  /* Firefox 19+ */
+
+  .EnquiryForm textarea::-moz-placeholder {
+    /* Firefox 19+ */
     font-size: 1em;
   }
-   
-  .EnquiryForm textarea:-ms-input-placeholder {  
+
+  .EnquiryForm textarea:-ms-input-placeholder {
     font-size: 1em;
   }
 }
@@ -241,7 +260,8 @@ legend {
 }
 
 @media only screen and (max-width: 600px) {
-  .EnquiryForm--Label, .file-download-item {
+  .EnquiryForm--Label,
+  .file-download-item {
     flex: 0 0 100% !important;
     margin-bottom: 1rem;
   }
@@ -267,11 +287,7 @@ legend {
 
 @media only screen and (max-width: 375px) {
   .file-download .EnquiryForm--Label {
-    font-size: .8em;
+    font-size: 0.8em;
     padding: 1.5rem 2rem;
   }
 }
-
-
-
-
