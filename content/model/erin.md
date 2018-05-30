@@ -25,5 +25,7 @@ imagePortfolio:
   - image: /images/uploads/erin5.jpg
   - image: /images/uploads/erin10.jpg
   - image: /images/uploads/erin20.jpg
+  - image: /images/uploads/erin-20.jpg
+  - image: /images/uploads/erin21.jpg
 ---
 
