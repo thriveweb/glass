@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import {Link} from 'react-router-dom'
+import _includes from 'lodash/includes'
 
 import BackgroundImage from './BackgroundImage'
 // import LazyImage from './LazyImage'
@@ -48,6 +49,7 @@ class AsNavFor extends Component {
 							</div>}
 							{bust && <div className='section--model-profile-spec-info-item'>
 								{bust && <p className='spec-title title'>{['Women', 'Girls'].includes(collection) ? 'Bust' : 'Chest'}</p>}
+								{bust && <p className='spec-title title'>{_includes(['Women', 'Girls'], collection) ? 'Bust' : 'Chest'}</p>}
 								{bust && <p className='spec-content'>{bust}</p>}
 							</div>}
 							{waist && <div className='section--model-profile-spec-info-item'>
