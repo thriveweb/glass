@@ -55,7 +55,6 @@
   letter-spacing: 0.2rem;
   list-style-type: none;
   text-transform: uppercase;
-  transition: all ease-in-out 0.2s;
 }
 
 .nav--container nav > ul > li {
@@ -128,6 +127,10 @@
   align-items: center;
   margin: 0 2rem 0 0;
   transition: all ease-in-out 0.2s;
+}
+
+.nav--container .title svg * {
+  transition: none !important;
 }
 
 .nav--container .title:hover,
