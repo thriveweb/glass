@@ -5,8 +5,8 @@ collection: A blog written by our 16 year old intern
 author: Chelsea
 date: 30th May 2018
 content: >-
-  As far back as I can remember, I have always known that the choices you make
-  today, define who you are tomorrow.
+  <https://vimeo.com/259983830>As far back as I can remember, I have always
+  known that the choices you make today, define who you are tomorrow.
 
 
   In everyone's life, doors have opened and closed, and continue to do so.
@@ -25,5 +25,6 @@ content: >-
   sometimes frustrating. But I take solace in knowing that whatever choice I
   make - along with a little self-belief and hard work - I can choose my own
   path.
+videoSource: 'https://vimeo.com/259983830'
 ---
 
