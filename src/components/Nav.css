@@ -411,6 +411,10 @@
     width: 100%;
   }
 
+  .nav--container .Logo {
+    opacity: 0;
+  }
+
   .nav--container .client-nav .title,
   .nav--container .client-nav .button {
     flex: 0 0 50%;
