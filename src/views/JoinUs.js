@@ -49,7 +49,15 @@ export default ({ page, success }) => {
             </div>
           )}
 
-          {!success && <EnquiryFormSimpleAjax name='Join Us Form' />}
+          {!success && (
+            <EnquiryFormSimpleAjax
+              name='Join Us Form'
+              action='/join-us-success'
+            />
+          )}
+
+          {/* link to notify react-snapshot to build html */}
+          <a href='/join-us-success' style={{ display: 'none' }}> </a>
         </div>
       </section>
     </div>
