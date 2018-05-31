@@ -13,12 +13,12 @@ shoeSize: '9'
 hair: Blonde
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/201804098330_preview.jpg
+  - image: /images/uploads/img_3750.jpg
   - image: /images/uploads/201804098304_preview.jpg
+  - image: /images/uploads/201804098330_preview.jpg
   - image: /images/uploads/201804098255.jpg
   - image: /images/uploads/201804098388_preview.jpg
   - image: /images/uploads/201804098477bw.jpg
-  - image: /images/uploads/img_3750.jpg
   - image: /images/uploads/201804098321_preview.jpg
   - image: /images/uploads/201804098449.jpg
   - image: /images/uploads/201804098222.jpg
