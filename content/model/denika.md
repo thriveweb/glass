@@ -5,6 +5,7 @@ imageThumbnail: /images/uploads/dee-10.jpg
 firstName: Denika
 collection: Women
 height: 173cm
+measurementType: bust
 bust: 93cm
 waist: 73cm
 hips: 92cm
@@ -15,11 +16,12 @@ eyes: Blue
 imagePortfolio:
   - image: /images/uploads/dee-10.jpg
   - image: /images/uploads/dee-9.jpg
-  - image: /images/uploads/dee10.jpg
-  - image: /images/uploads/dee-4.png
-  - image: /images/uploads/dee8.png
-  - image: /images/uploads/dee-1.png
-  - image: /images/uploads/dee-6.png
+  - image: /images/uploads/dee11.jpg
+  - image: /images/uploads/dee4.jpg
+  - image: /images/uploads/dee10.png
+  - image: /images/uploads/dee1.jpg
+  - image: /images/uploads/dee6.jpg
   - image: /images/uploads/dee-11.jpg
+  - image: /images/uploads/dee12.png
 ---
 
