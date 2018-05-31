@@ -23,5 +23,6 @@ imagePortfolio:
   - image: /images/uploads/dee6.jpg
   - image: /images/uploads/dee-11.jpg
   - image: /images/uploads/dee12.png
+  - image: /images/uploads/dee13.jpg
 ---
 
