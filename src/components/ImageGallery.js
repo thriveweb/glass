@@ -6,9 +6,9 @@ import Masonry from 'react-masonry-component';
 import BackgroundImage from './BackgroundImage'
 
 
-const masonryOptions = {
-    transitionDuration: 0
-};
+// const masonryOptions = {
+//     transitionDuration: 0
+// };
 
 class ImageGallery extends Component {
 	render() {

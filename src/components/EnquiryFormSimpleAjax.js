@@ -1,11 +1,10 @@
 import React from 'react'
-import { stringify } from 'qs'
 import { serialize } from 'dom-form-serializer'
 
 import './EnquiryForm.css'
 import '../views/JoinUs.css'
 
-const fetch = window.fetch
+// const fetch = window.fetch
 
 class Form extends React.Component {
   static defaultProps = {

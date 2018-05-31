@@ -31,7 +31,9 @@ class AsNavFor extends Component {
 	
 
 	render() {
-		const { firstName, height, waist, bust, hips, size, shoeSize, hair, eyes, imagePortfolio = [], collection = '' } = this.props
+		const { firstName, height, waist, measurementType, bust, hips, size, shoeSize, hair, eyes, imagePortfolio = [], collection = '' } = this.props
+
+		console.log(measurementType)
 
 	    return (		
 		    <section className='section--model-profile'>
@@ -48,8 +50,15 @@ class AsNavFor extends Component {
 								{height && <p className='spec-content'>{height}</p>}
 							</div>}
 							{bust && <div className='section--model-profile-spec-info-item'>
-								{bust && <p className='spec-title title'>{_includes(['Women', 'Girls'], collection) ? 'Bust' : 'Chest'}</p>}
-								{bust && <p className='spec-content'>{bust}</p>}
+								<p className='spec-title title'>
+									{!measurementType 
+										? _includes(['Women', 'Girls'], collection) 
+											? 'Bust' 
+											: 'Chest'
+										: measurementType
+									}
+								</p>
+								<p className='spec-content'>{bust}</p>
 							</div>}
 							{waist && <div className='section--model-profile-spec-info-item'>
 								{waist && <p className='spec-title title'>Waist</p>}

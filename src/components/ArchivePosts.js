@@ -9,7 +9,7 @@ import FeaturedPost from './FeaturedPost'
 
 class Posts extends Component {
 	render() {
-		const { posts, postCategories, subTitle, selectedCategory, pageSearch, history } = this.props
+		const { posts, subTitle } = this.props
 
 		// const filteredPosts = [...posts].filter(post => {
 		// 	const collectionName = _kebabCase(post.collection)
