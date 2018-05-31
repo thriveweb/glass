@@ -12,7 +12,7 @@ hips: 92cm
 size: '12'
 shoeSize: '9'
 hair: Blonde
-eyes: Blue
+eyes: Green
 imagePortfolio:
   - image: /images/uploads/dee-10.jpg
   - image: /images/uploads/dee-9.jpg
