@@ -20,7 +20,10 @@ export default class BackgroundImage extends React.Component {
     src:
       this.props.src.indexOf('http') === 0
         ? ''
-        : getImageSrc(this.props.src, this.props.lazy ? 10 : this.props.imageSize),
+        : getImageSrc(
+          this.props.src,
+          this.props.lazy ? 10 : this.props.imageSize
+        ),
     dataSrc: getImageSrc(this.props.src, this.props.imageSize),
     loaded: false
   }
@@ -42,15 +45,33 @@ export default class BackgroundImage extends React.Component {
     if (this.props.src === nextProps.src) return
 
     this.setState({
-      src: getImageSrc(nextProps.src, nextProps.lazy ? 10 : this.props.imageSize),
+      src: getImageSrc(
+        nextProps.src,
+        nextProps.lazy ? 10 : this.props.imageSize
+      ),
       dataSrc: getImageSrc(nextProps.src, this.props.imageSize)
     })
   }
 
   render () {
-    let { className, contain, opacity } = this.props
+    let { className, contain, opacity, lazy } = this.props
+
+    if (!lazy) {
+      return (
+        <div
+          className={`BackgroundImage absolute`}
+          style={{
+            backgroundImage: `url(${this.state.src})`,
+            backgroundSize: contain ? 'contain' : 'cover',
+            opacity: opacity
+          }}
+        />
+      )
+    }
+
     if (this.state.loaded) className += ' BackgroundImage-lazy-loaded'
-    if (this.props.lazy) className += ' BackgroundImage-lazy'
+    if (lazy) className += ' BackgroundImage-lazy'
+
     const options = {
       onChange: this.handleIntersection,
       onlyOnce: true,
