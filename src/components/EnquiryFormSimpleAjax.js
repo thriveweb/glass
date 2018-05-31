@@ -56,7 +56,6 @@ class Form extends React.Component {
         action={action}
         onSubmit={this.handleSubmit}
         data-netlify=''
-        data-netlify-honeypot='_gotcha'
         style={hidden ? { display: 'none' } : {}}
       >
         <h2 className='form-description'>Please Submit your details here</h2>
@@ -175,7 +174,6 @@ class Form extends React.Component {
         )}
 
         <div className='form--footer'>
-          <input type='text' name='_gotcha' style={{ display: 'none' }} />
           {!!subject && <input type='hidden' name='subject' value={subject} />}
           <input type='hidden' name='form-name' value={name} />
           <input
