@@ -11,7 +11,7 @@ hips: 60cm
 size: '6'
 shoeSize: '1'
 hair: Brown
-eyes: Brown
+eyes: Blue/Green
 imagePortfolio:
   - image: /images/uploads/amn_1420_preview.jpg
   - image: /images/uploads/amn_1533_preview.jpg
