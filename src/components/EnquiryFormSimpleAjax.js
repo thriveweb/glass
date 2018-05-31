@@ -9,7 +9,6 @@ class Form extends React.Component {
   static defaultProps = {
     name: 'Enquiry Form',
     subject: '', // optional subject of the notification email
-    action: '',
     hidden: false,
     successMessage: 'Thanks for your enquiry, we will get back to you soon',
     errorMessage:
@@ -47,13 +46,12 @@ class Form extends React.Component {
   }
 
   render () {
-    const { name, subject, action, hidden } = this.props
+    const { name, subject, hidden } = this.props
 
     return (
       <form
         className='EnquiryForm'
         name={name}
-        action={action}
         onSubmit={this.handleSubmit}
         data-netlify=''
         style={hidden ? { display: 'none' } : {}}
