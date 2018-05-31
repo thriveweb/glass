@@ -32,16 +32,17 @@ class Form extends React.Component {
   }
 
   handleSubmit = e => {
+    e.preventDefault()
     if (this.state.disabled) return
-
     const form = e.target
     const data = serialize(form)
 
     if (!data['upload-photo-headshot'] || !data['upload-photo-bodyshot']) {
-      e.preventDefault()
       return this.setState({
         alert: 'Please attach both headshot & bodyshot'
       })
+    } else {
+      e.target.submit()
     }
   }
 
