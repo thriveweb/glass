@@ -5,13 +5,14 @@ imageThumbnail: /images/uploads/ezgif.com-crop-14-1-.jpg
 firstName: Dani
 collection: Women
 height: 170cm
+measurementType: bust
 bust: 81cm
 waist: 66cm
 hips: 81cm
 size: '8'
 shoeSize: '8.5'
 hair: Blonde
-eyes: Blue
+eyes: Brown
 imagePortfolio:
   - image: /images/uploads/dani-1.jpeg
   - image: /images/uploads/dani-91-copy.jpeg
