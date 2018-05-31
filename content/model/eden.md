@@ -5,6 +5,8 @@ imageThumbnail: /images/uploads/eden-headshot.jpg
 firstName: Eden
 collection: Classic
 height: 189cm
+measurementType: chest
+bust: '56'
 size: L
 shoeSize: '11'
 hair: Silver
