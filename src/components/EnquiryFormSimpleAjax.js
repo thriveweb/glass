@@ -109,7 +109,6 @@ class Form extends React.Component {
             type='url'
             placeholder='Instagram'
             name='instagram'
-            required
           />
         </label>
         <label className='EnquiryForm--Label textarea'>
