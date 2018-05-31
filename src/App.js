@@ -126,17 +126,7 @@ class App extends Component {
                 />
               )}
             />
-            <Route
-              path='/join-us-success'
-              exact
-              component={props => (
-                <JoinUs
-                  page={this.getDocument('pages', 'join-us')}
-                  success
-                  {...props}
-                />
-              )}
-            />
+
             <Route
               path='/blog'
               exact
