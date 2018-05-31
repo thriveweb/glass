@@ -11,6 +11,7 @@ class Form extends React.Component {
     name: 'Enquiry Form',
     subject: '', // optional subject of the notification email
     action: '',
+    hidden: false,
     successMessage: 'Thanks for your enquiry, we will get back to you soon',
     errorMessage:
       'There is a problem, your message has not been sent, please try contacting us via email'
@@ -47,7 +48,7 @@ class Form extends React.Component {
   }
 
   render () {
-    const { name, subject, action } = this.props
+    const { name, subject, action, hidden } = this.props
 
     return (
       <form
@@ -57,6 +58,7 @@ class Form extends React.Component {
         onSubmit={this.handleSubmit}
         data-netlify=''
         data-netlify-honeypot='_gotcha'
+        style={hidden ? { display: 'none' } : {}}
       >
         <h2 className='form-description'>Please Submit your details here</h2>
         <label className='EnquiryForm--Label'>
