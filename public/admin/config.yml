@@ -256,6 +256,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: First Name, name: firstName, widget: string}
       - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title'}
       - {label: Height, name: height, widget: string, required: false}
+      - label: "Measurement Type"
+        name: "measurementType"
+        widget: "select"
+        options: ["chest", "bust"]
       - {label: Bust/Chest, name: bust, widget: string, required: false}
       - {label: Waist, name: waist, widget: string, required: false}
       - {label: Hips, name: hips, widget: string, required: false}
