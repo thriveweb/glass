@@ -55,6 +55,9 @@ export default ({ page, success }) => {
               action='/join-us-success'
             />
           )}
+
+          {/* link to notify react-snapshot to build html */}
+          <a href='/join-us-success' style={{ display: 'none' }} />
         </div>
       </section>
     </div>
