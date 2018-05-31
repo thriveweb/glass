@@ -1,9 +1,9 @@
 import React from 'react'
-import './JoinUs.css'
 
 import Banner from '../components/Banner'
 import EnquiryFormSimpleAjax from '../components/EnquiryFormSimpleAjax'
 import Content from '../components/Content'
+import './JoinUs.css'
 
 export default ({ page, success }) => {
   const { featuredImage, title, subTitle, intro } = page

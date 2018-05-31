@@ -2,7 +2,6 @@ import React from 'react'
 import { serialize } from 'dom-form-serializer'
 
 import './EnquiryForm.css'
-import '../views/JoinUs.css'
 
 // const fetch = window.fetch
 
