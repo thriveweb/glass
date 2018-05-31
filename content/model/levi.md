@@ -21,5 +21,6 @@ imagePortfolio:
   - image: /images/uploads/levi2.jpg
   - image: /images/uploads/levi4.jpg
   - image: /images/uploads/levi3.jpg
+  - image: /images/uploads/levi-9.jpg
 ---
 
