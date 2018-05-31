@@ -4,12 +4,12 @@ featuredImage: /images/uploads/summer23490u.jpg
 imageThumbnail: /images/uploads/summer-robertson-81-edit.jpg
 firstName: Summer
 collection: Girls
-height: 147cm
+height: 151cm
 bust: 67cm
 waist: 57cm
 hips: 70cm
-size: 8-10
-shoeSize: '3'
+size: '10'
+shoeSize: '5'
 hair: Brown
 eyes: Blue
 imagePortfolio:
