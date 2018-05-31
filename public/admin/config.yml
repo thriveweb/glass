@@ -259,7 +259,9 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Measurement Type"
         name: "measurementType"
         widget: "select"
-        options: ["chest", "bust"]
+        options:
+          - { label: "Chest", value: "chest" }
+          - { label: "Bust", value: "bust" }
       - {label: Bust/Chest, name: bust, widget: string, required: false}
       - {label: Waist, name: waist, widget: string, required: false}
       - {label: Hips, name: hips, widget: string, required: false}
