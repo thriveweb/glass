@@ -5,6 +5,7 @@ imageThumbnail: /images/uploads/emmaheadshot723.jpg
 firstName: Emma
 collection: Classic
 height: 165cm
+measurementType: bust
 bust: '34'
 waist: '25'
 hips: '34'
