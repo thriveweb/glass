@@ -132,6 +132,23 @@ class Form extends React.Component {
             required
           />
         </label>
+        <div className='file-download'>
+          <div className='file-download-item'>
+            <label className='EnquiryForm--Label title'>
+              <input
+                className='EnquiryForm--Input'
+                type='file'
+                accept='image/*'
+                placeholder='Upload Photo'
+                name='upload-photo-bodyshot'
+                // onChange={event => this.handleUpload(event, 'bodyShot')}
+                required
+              />
+              <span>Upload Photo</span> please attach a full length bodyshot
+            </label>
+            {this.state.bodyShot && <p>{this.state.bodyShot}</p>}
+          </div>
+        </div>
         <div className='form--footer'>
           <input type='text' name='_gotcha' style={{ display: 'none' }} />
           {!!subject && <input type='hidden' name='subject' value={subject} />}
