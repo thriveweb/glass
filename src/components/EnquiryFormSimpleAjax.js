@@ -38,7 +38,7 @@ class Form extends React.Component {
     const form = e.target
     const data = serialize(form)
 
-    if (!data['upload-photo-headshot'] || !data['upload-photo-bodyshot']) {
+    if (!data['headshot'] || !data['bodyshot']) {
       return this.setState({
         alert: 'Please attach both headshot & bodyshot'
       })

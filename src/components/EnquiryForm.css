@@ -142,9 +142,7 @@ legend {
 }
 
 .file-download .EnquiryForm--Input {
-  /*display: none;*/
-  position: absolute;
-  left: -99999px;
+  display: none;
 }
 
 .file-download .EnquiryForm--Select {
