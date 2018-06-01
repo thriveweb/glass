@@ -5,11 +5,12 @@ imageThumbnail: /images/uploads/z2.jpg
 firstName: Zane
 collection: Boys
 height: 149.5cm
+measurementType: chest
 bust: 76cm
 waist: 69cm
 hips: 80cm
-size: Us 7
-shoeSize: '12'
+size: '12'
+shoeSize: 7 US
 hair: Brown
 eyes: Hazel
 imagePortfolio:
