@@ -27,6 +27,8 @@ class Form extends React.Component {
 
     const form = e.target
     const data = serialize(form)
+
+    console.log(data)
     this.setState({ disabled: true })
     fetch(form.action + '?' + stringify(data), {
       method: 'POST'
