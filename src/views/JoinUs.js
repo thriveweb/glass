@@ -50,9 +50,6 @@ export default ({ page, success }) => {
           )}
 
           <EnquiryFormSimpleAjax name='Join Us Form' hidden={success} />
-
-          {/* link to notify react-snapshot to build html */}
-          <a href='/join-us-success' style={{ display: 'none' }} />
         </div>
       </section>
     </div>
