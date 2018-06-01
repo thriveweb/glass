@@ -69,12 +69,22 @@ class Form extends React.Component {
         {this.state.alert && (
           <div className='EnquiryForm--Alert'>{this.state.alert}</div>
         )}
+        <h2 className='form-description'>Please Submit your details here</h2>
         <label className='EnquiryForm--Label'>
           <input
             className='EnquiryForm--Input'
             type='text'
-            placeholder='Name'
+            placeholder='Full Name'
             name='name'
+            required
+          />
+        </label>
+        <label className='EnquiryForm--Label'>
+          <input
+            className='EnquiryForm--Input'
+            type='text'
+            placeholder='Email'
+            name='email'
             required
           />
         </label>
@@ -87,11 +97,37 @@ class Form extends React.Component {
             required
           />
         </label>
+        <label className='EnquiryForm--Label'>
+          <input
+            className='EnquiryForm--Input'
+            type='text'
+            placeholder='Age'
+            name='age'
+            required
+          />
+        </label>
+        <label className='EnquiryForm--Label'>
+          <input
+            className='EnquiryForm--Input'
+            type='text'
+            placeholder='Height'
+            name='height'
+            required
+          />
+        </label>
+        <label className='EnquiryForm--Label'>
+          <input
+            className='EnquiryForm--Input'
+            type='url'
+            placeholder='Instagram'
+            name='instagram'
+          />
+        </label>
         <label className='EnquiryForm--Label textarea'>
           <textarea
             className='EnquiryForm--Input EnquiryForm--Textarea'
-            placeholder='Message'
-            name='message'
+            placeholder='Experience'
+            name='experience'
             rows='10'
             required
           />
