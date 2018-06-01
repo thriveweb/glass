@@ -30,9 +30,7 @@ class Form extends React.Component {
     })
   }
 
-  handleSubmit = e => {
-    e.preventDefault()
-    if (this.state.disabled) return
+  onSubmitClick = e => {
     const form = e.target
     const data = serialize(form)
 
@@ -40,8 +38,6 @@ class Form extends React.Component {
       return this.setState({
         alert: 'Please attach both headshot & bodyshot'
       })
-    } else {
-      e.target.submit()
     }
   }
 
@@ -52,7 +48,6 @@ class Form extends React.Component {
       <form
         className='EnquiryForm'
         name={name}
-        onSubmit={this.handleSubmit}
         data-netlify=''
         style={hidden ? { display: 'none' } : {}}
       >
@@ -119,6 +114,7 @@ class Form extends React.Component {
             required
           />
         </label>
+
         <div className='file-download'>
           <div className='file-download-item'>
             <label className='EnquiryForm--Label title'>
@@ -129,6 +125,7 @@ class Form extends React.Component {
                 placeholder='Upload Photo'
                 name='upload-photo-bodyshot'
                 onChange={event => this.handleUpload(event, 'bodyShot')}
+                required
               />
               <span>Upload Photo</span> please attach a full length bodyshot
             </label>
@@ -143,6 +140,7 @@ class Form extends React.Component {
                 placeholder='Upload Photo'
                 name='upload-photo-headshot'
                 onChange={event => this.handleUpload(event, 'headShot')}
+                required
               />
               <span>Upload Photo</span> please attach a current headshot
             </label>
@@ -177,6 +175,7 @@ class Form extends React.Component {
           <input
             className='button EnquiryForm--SubmitButton'
             type='submit'
+            onClick={this.onSubmitClick}
             value='Send'
           />
         </div>
