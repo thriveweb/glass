@@ -35,16 +35,34 @@ class Form extends React.Component {
   handleSubmit = e => {
     e.preventDefault()
     if (this.state.disabled) return
+
     const form = e.target
     const data = serialize(form)
-
-    if (!data['upload-photo-headshot'] || !data['upload-photo-bodyshot']) {
-      return this.setState({
-        alert: 'Please attach both headshot & bodyshot'
+    this.setState({ disabled: true })
+    fetch(form.action + '?' + stringify(data), {
+      method: 'POST'
+    })
+      .then(res => {
+        if (res.ok) {
+          return res
+        } else {
+          throw new Error('Network error')
+        }
       })
-    } else {
-      e.target.submit()
-    }
+      .then(() => {
+        form.reset()
+        this.setState({
+          alert: this.props.successMessage,
+          disabled: false
+        })
+      })
+      .catch(err => {
+        console.error(err)
+        this.setState({
+          disabled: false,
+          alert: this.props.errorMessage
+        })
+      })
   }
 
   render () {
@@ -59,7 +77,7 @@ class Form extends React.Component {
         data-netlify=''
         data-netlify-honeypot='_gotcha'
         style={hidden ? { display: 'none' } : {}}
-        enctype='multipart/form-data'
+        encType='multipart/form-data'
       >
         <h2 className='form-description'>Please Submit your details here</h2>
         <label className='EnquiryForm--Label'>
@@ -132,7 +150,7 @@ class Form extends React.Component {
                 type='file'
                 accept='image/*'
                 placeholder='Upload Photo'
-                name='upload-photo-bodyshot'
+                name='bodyshot'
                 onChange={event => this.handleUpload(event, 'bodyShot')}
               />
               <span>Upload Photo</span> please attach a full length bodyshot
@@ -146,7 +164,7 @@ class Form extends React.Component {
                 type='file'
                 accept='image/*'
                 placeholder='Upload Photo'
-                name='upload-photo-headshot'
+                name='headshot'
                 onChange={event => this.handleUpload(event, 'headShot')}
               />
               <span>Upload Photo</span> please attach a current headshot
