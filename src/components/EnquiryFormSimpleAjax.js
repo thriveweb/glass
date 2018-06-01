@@ -50,6 +50,7 @@ class Form extends React.Component {
         name={name}
         data-netlify=''
         style={hidden ? { display: 'none' } : {}}
+        action='/success.html'
       >
         <h2 className='form-description'>Please Submit your details here</h2>
         <label className='EnquiryForm--Label'>
