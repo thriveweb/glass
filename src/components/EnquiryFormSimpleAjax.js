@@ -2,6 +2,7 @@ import React from 'react'
 import { serialize } from 'dom-form-serializer'
 
 import './EnquiryForm.css'
+import '../views/JoinUs.css'
 
 // const fetch = window.fetch
 
@@ -9,6 +10,7 @@ class Form extends React.Component {
   static defaultProps = {
     name: 'Enquiry Form',
     subject: '', // optional subject of the notification email
+    action: '',
     hidden: false,
     successMessage: 'Thanks for your enquiry, we will get back to you soon',
     errorMessage:
@@ -30,27 +32,34 @@ class Form extends React.Component {
     })
   }
 
-  onSubmitClick = e => {
+  handleSubmit = e => {
+    e.preventDefault()
+    if (this.state.disabled) return
     const form = e.target
     const data = serialize(form)
 
-    if (!data['upload-photo-headshot'] || !data['upload-photo-bodyshot']) {
+    if (!data['headshot'] || !data['bodyshot']) {
       return this.setState({
         alert: 'Please attach both headshot & bodyshot'
       })
+    } else {
+      e.target.submit()
     }
   }
 
   render () {
-    const { name, subject, hidden } = this.props
+    const { name, subject, action, hidden } = this.props
 
     return (
       <form
         className='EnquiryForm'
         name={name}
+        action={action}
+        onSubmit={this.handleSubmit}
         data-netlify=''
+        data-netlify-honeypot='_gotcha'
         style={hidden ? { display: 'none' } : {}}
-        action='/success.html'
+        encType='multipart/form-data'
       >
         <h2 className='form-description'>Please Submit your details here</h2>
         <label className='EnquiryForm--Label'>
@@ -115,7 +124,6 @@ class Form extends React.Component {
             required
           />
         </label>
-
         <div className='file-download'>
           <div className='file-download-item'>
             <label className='EnquiryForm--Label title'>
@@ -124,9 +132,8 @@ class Form extends React.Component {
                 type='file'
                 accept='image/*'
                 placeholder='Upload Photo'
-                name='upload-photo-bodyshot'
+                name='bodyshot'
                 onChange={event => this.handleUpload(event, 'bodyShot')}
-                required
               />
               <span>Upload Photo</span> please attach a full length bodyshot
             </label>
@@ -139,9 +146,8 @@ class Form extends React.Component {
                 type='file'
                 accept='image/*'
                 placeholder='Upload Photo'
-                name='upload-photo-headshot'
+                name='headshot'
                 onChange={event => this.handleUpload(event, 'headShot')}
-                required
               />
               <span>Upload Photo</span> please attach a current headshot
             </label>
@@ -171,12 +177,12 @@ class Form extends React.Component {
         )}
 
         <div className='form--footer'>
+          <input type='text' name='_gotcha' style={{ display: 'none' }} />
           {!!subject && <input type='hidden' name='subject' value={subject} />}
           <input type='hidden' name='form-name' value={name} />
           <input
             className='button EnquiryForm--SubmitButton'
             type='submit'
-            onClick={this.onSubmitClick}
             value='Send'
           />
         </div>
