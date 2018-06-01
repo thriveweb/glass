@@ -24,36 +24,16 @@ class Form extends React.Component {
   handleSubmit = e => {
     e.preventDefault()
     if (this.state.disabled) return
-
     const form = e.target
     const data = serialize(form)
 
-    console.log(data)
-    this.setState({ disabled: true })
-    fetch(form.action + '?' + stringify(data), {
-      method: 'POST'
-    })
-      .then(res => {
-        if (res.ok) {
-          return res
-        } else {
-          throw new Error('Network error')
-        }
+    if (!data['upload-photo-headshot'] || !data['upload-photo-bodyshot']) {
+      return this.setState({
+        alert: 'Please attach both headshot & bodyshot'
       })
-      .then(() => {
-        form.reset()
-        this.setState({
-          alert: this.props.successMessage,
-          disabled: false
-        })
-      })
-      .catch(err => {
-        console.error(err)
-        this.setState({
-          disabled: false,
-          alert: this.props.errorMessage
-        })
-      })
+    } else {
+      e.target.submit()
+    }
   }
 
   render () {
