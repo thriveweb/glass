@@ -6,6 +6,12 @@ import './EnquiryForm.css'
 
 const fetch = window.fetch
 
+const encode = (data) => {
+  return Object.keys(data)
+      .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+      .join("&");
+}
+
 class Form extends React.Component {
   static defaultProps = {
     name: 'Enquiry Form',
@@ -22,21 +28,18 @@ class Form extends React.Component {
   }
 
   handleSubmit = e => {
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({ "form-name": "contact", ...this.state })
+    })
+      .then(() => alert("Success!"))
+      .catch(error => alert(error))
+
     e.preventDefault()
-    if (this.state.disabled) return
-    const form = e.target
-    const data = serialize(form)
-
-    console.log(data)
-
-    if (!data['upload-photo-headshot'] || !data['upload-photo-bodyshot']) {
-      return this.setState({
-        alert: 'Please attach both headshot & bodyshot'
-      })
-    } else {
-      e.target.submit()
-    }
   }
+
+  handleChange = e => this.setState({ [e.target.name]: e.target.value })
 
   render () {
     const { name, subject, action } = this.props
@@ -60,6 +63,8 @@ class Form extends React.Component {
             type='text'
             placeholder='Full Name'
             name='name'
+            value={this.state.name}
+            onChange={this.handleChange}
             required
           />
         </label>
@@ -69,6 +74,8 @@ class Form extends React.Component {
             type='text'
             placeholder='Email'
             name='email'
+            value={this.state.email}
+            onChange={this.handleChange}
             required
           />
         </label>
@@ -78,6 +85,8 @@ class Form extends React.Component {
             type='text'
             placeholder='Phone'
             name='phone'
+            value={this.state.phone}
+            onChange={this.handleChange}
             required
           />
         </label>
@@ -87,6 +96,8 @@ class Form extends React.Component {
             type='text'
             placeholder='Age'
             name='age'
+            value={this.state.age}
+            onChange={this.handleChange}
             required
           />
         </label>
@@ -96,6 +107,8 @@ class Form extends React.Component {
             type='text'
             placeholder='Height'
             name='height'
+            value={this.state.height}
+            onChange={this.handleChange}
             required
           />
         </label>
@@ -105,6 +118,8 @@ class Form extends React.Component {
             type='url'
             placeholder='Instagram'
             name='instagram'
+            value={this.state.instagram}
+            onChange={this.handleChange}
           />
         </label>
         <label className='EnquiryForm--Label textarea'>
@@ -112,6 +127,8 @@ class Form extends React.Component {
             className='EnquiryForm--Input EnquiryForm--Textarea'
             placeholder='Experience'
             name='experience'
+            value={this.state.experience}
+            onChange={this.handleChange}
             rows='10'
             required
           />
@@ -124,8 +141,10 @@ class Form extends React.Component {
                 type='file'
                 accept='image/*'
                 placeholder='Upload Photo'
-                name='upload-photo-bodyshot'
+                name='bodyshot'
                 // onChange={event => this.handleUpload(event, 'bodyShot')}
+                value={this.state.bodyshot}
+                onChange={this.handleChange}
                 required
               />
               <span>Upload Photo</span> please attach a full length bodyshot
