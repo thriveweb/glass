@@ -1,4 +1,5 @@
 import React from 'react'
+import { stringify } from 'qs'
 import { serialize } from 'dom-form-serializer'
 
 import './EnquiryForm.css'
@@ -35,16 +36,34 @@ class Form extends React.Component {
   handleSubmit = e => {
     e.preventDefault()
     if (this.state.disabled) return
+
     const form = e.target
     const data = serialize(form)
-
-    if (!data['upload-photo-headshot'] || !data['upload-photo-bodyshot']) {
-      return this.setState({
-        alert: 'Please attach both headshot & bodyshot'
+    this.setState({ disabled: true })
+    fetch(form.action + '?' + stringify(data), {
+      method: 'POST'
+    })
+      .then(res => {
+        if (res.ok) {
+          return res
+        } else {
+          throw new Error('Network error')
+        }
       })
-    } else {
-      e.target.submit()
-    }
+      .then(() => {
+        form.reset()
+        this.setState({
+          alert: this.props.successMessage,
+          disabled: false
+        })
+      })
+      .catch(err => {
+        console.error(err)
+        this.setState({
+          disabled: false,
+          alert: this.props.errorMessage
+        })
+      })
   }
 
   render () {
