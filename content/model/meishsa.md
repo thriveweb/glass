@@ -5,8 +5,9 @@ imageThumbnail: /images/uploads/20180517_132837.png
 firstName: Meisha
 collection: Girls
 height: 144cm
+measurementType: bust
 bust: 66.5cm
-waist: 98cm
+waist: 58cm
 hips: 60cm
 size: '10'
 shoeSize: 5 kids 7L
