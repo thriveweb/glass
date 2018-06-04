@@ -11,7 +11,7 @@ waist: 58cm
 hips: 71cm
 size: '8'
 shoeSize: '2'
-hair: Strawberry/Blonde
+hair: Strawberry  Blonde
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/bohdi12785.jpg
