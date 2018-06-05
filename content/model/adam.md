@@ -25,7 +25,4 @@ imagePortfolio:
   - image: /images/uploads/adam-3.webp
   - image: /images/uploads/adam-5.webp
   - image: /images/uploads/adam-6.webp
-meta:
-  title: asdfasdfasdf
-  description: asdfjhkasdfljkh
 ---
