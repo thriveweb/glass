@@ -1,7 +1,7 @@
 ---
 title: Asher
 featuredImage: /images/uploads/ash12.jpg
-imageThumbnail: /images/uploads/ash5.jpg
+imageThumbnail: /images/uploads/ash2.jpg
 firstName: Asher
 collection: Boys
 height: 140cm
@@ -14,6 +14,7 @@ shoeSize: 7 US
 hair: Brown
 eyes: Brown / Hazel
 imagePortfolio:
+  - image: /images/uploads/ash5.jpg
   - image: /images/uploads/ash2.jpg
   - image: /images/uploads/ash2.jpg
   - image: /images/uploads/ash6.jpg
@@ -24,6 +25,5 @@ imagePortfolio:
   - image: /images/uploads/ash1.jpg
   - image: /images/uploads/ash3.jpg
   - image: /images/uploads/ash7.jpg
-  - image: /images/uploads/ash5.jpg
 ---
 
