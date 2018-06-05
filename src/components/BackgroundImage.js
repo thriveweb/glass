@@ -8,12 +8,12 @@ import { getImageSrc } from '../util/getImageUrl'
 
 export default class BackgroundImage extends React.Component {
   static defaultProps = {
-    lazy: false,
+    lazy: true,
     src: '',
     className: '',
     contain: false,
     opacity: 1,
-    imageSize: '1800'
+    imageSize: window.innerWidth * (window.devicePixelRatio || 1)
   }
 
   state = {
