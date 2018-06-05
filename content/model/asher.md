@@ -15,12 +15,14 @@ hair: Brown
 eyes: Brown / Hazel
 imagePortfolio:
   - image: /images/uploads/ash5.jpg
-  - image: /images/uploads/_mg_0446_preview.jpg
+  - image: /images/uploads/ash2.jpg
   - image: /images/uploads/ash6.jpg
   - image: /images/uploads/ash10.jpg
   - image: /images/uploads/ash8.jpg
   - image: /images/uploads/ash11.jpg
   - image: /images/uploads/ash4.jpg
   - image: /images/uploads/ash1.jpg
+  - image: /images/uploads/ash3.jpg
+  - image: /images/uploads/ash7.jpg
 ---
 
