@@ -11,7 +11,9 @@ const Meta = props => {
     absoluteImageUrl,
     twitterSiteAccount,
     twitterCreatorAccount,
-    headerScripts
+    headerScripts,
+    noindex,
+    canonicalLink
     // overwrite { title, description } if in fields or fields.meta
   } = _assign({}, props, _get(props, 'fields'), _get(props, 'fields.meta'))
 
@@ -41,7 +43,8 @@ const Meta = props => {
       {twitterCreatorAccount && (
         <meta name='twitter:creator' content={twitterCreatorAccount} />
       )}
-      {console.log(document.title)}
+      {noindex && <meta name='robots' content='noindex' />}
+      {canonicalLink && <link rel='canonical' href={canonicalLink} />}
     </Helmet>
   )
 }
