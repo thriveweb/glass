@@ -1,7 +1,6 @@
-import React, { Component } from 'react'
+import React, { Component, Fragment } from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Helmet from 'react-helmet'
-import _kebabCase from 'lodash/kebabCase'
 import _sortBy from 'lodash/sortBy'
 import { slugify } from './util/url'
 
@@ -13,7 +12,6 @@ import ScrollToTop from './components/ScrollToTop'
 import Meta from './components/Meta'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
-import AOS from './components/AOS'
 import Spinner from './components/Spinner'
 
 // Views
@@ -39,14 +37,13 @@ class App extends Component {
     this.state.data[collection] &&
     this.state.data[collection].filter(page => page.name === name)[0]
 
-  getDocuments = collection => this.state.data[collection]
+  getDocuments = collection => this.state.data[collection] || []
 
   render () {
     const globalSettings = this.getDocument('settings', 'global')
     const {
       siteTitle,
       siteUrl,
-      siteDescription,
       twitter,
       facebook,
       linkedin,
@@ -62,182 +59,136 @@ class App extends Component {
     const postCategories = this.getDocuments('post-category')
     const infoPages = this.getDocuments('info-page')
 
+    const RouteWithMeta = ({ component: Component, ...props }) => (
+      <Route
+        {...props}
+        render={routeProps => (
+          <Fragment>
+            <Meta {...props} />
+            <Component {...routeProps} {...props} />
+          </Fragment>
+        )}
+      />
+    )
+
     return (
       <Router>
         <div className='React-Wrap'>
           {this.state.loading && <Spinner />}
-          <AOS options={{ duration: 250 }} />
           <ScrollToTop />
           <Helmet
             defaultTitle={siteTitle}
             titleTemplate={`${siteTitle} | %s`}
           />
           <Meta
-            title={siteTitle}
-            url={siteUrl}
-            description={siteDescription}
             headerScripts={headerScripts}
             absoluteImageUrl={siteUrl + '/images/card-og.jpg'}
           />
+
           <Nav header={header} modelTypes={modelTypes} />
+
           <Switch>
-            <Route
+            <RouteWithMeta
               path='/'
               exact
-              component={props => (
-                <Home
-                  page={this.getDocument('pages', 'home')}
-                  globalSettings={globalSettings}
-                  posts={posts}
-                  postCategories={postCategories}
-                  {...props}
-                />
-              )}
+              component={Home}
+              fields={this.getDocument('pages', 'home')}
+              globalSettings={globalSettings}
+              posts={posts}
+              postCategories={postCategories}
             />
-            <Route
+            <RouteWithMeta
               path='/about'
               exact
-              component={props => (
-                <About
-                  page={this.getDocument('pages', 'about')}
-                  globalSettings={globalSettings}
-                  {...props}
-                />
-              )}
+              component={About}
+              fields={this.getDocument('pages', 'about')}
+              globalSettings={globalSettings}
             />
-            <Route
+            <RouteWithMeta
               path='/contact'
               exact
-              component={props => (
-                <Contact
-                  page={this.getDocument('pages', 'contact')}
-                  globalSettings={globalSettings}
-                  {...props}
-                />
-              )}
+              component={Contact}
+              fields={this.getDocument('pages', 'contact')}
+              globalSettings={globalSettings}
             />
-            <Route
+            <RouteWithMeta
               path='/join-us'
               exact
-              component={props => (
-                <JoinUs
-                  page={this.getDocument('pages', 'join-us')}
-                  {...props}
-                />
-              )}
+              component={JoinUs}
+              fields={this.getDocument('pages', 'join-us')}
+              globalSettings={globalSettings}
             />
-            <Route
+            <RouteWithMeta
               path='/blog'
               exact
-              component={props => (
-                <Blog
-                  page={this.getDocument('pages', 'blog')}
-                  posts={posts}
-                  postCategories={postCategories}
+              component={Blog}
+              fields={this.getDocument('pages', 'blog')}
+              posts={posts}
+              postCategories={postCategories}
+              globalSettings={globalSettings}
+            />
+
+            {posts.map(post => {
+              const path = slugify(`/blog-post/${post.title}`)
+              return (
+                <RouteWithMeta
+                  key={path}
+                  path={path}
+                  exact
+                  component={BlogPost}
                   globalSettings={globalSettings}
-                  pageSearch={props.location.search}
-                  {...props}
+                  fields={post}
                 />
-              )}
-            />
-            <Route
-              path='/blog/:postCategory'
-              exact
-              component={props => {
-                const category = postCategories.find(selectedCategory => {
-                  return (
-                    selectedCategory &&
-                    selectedCategory.name === props.match.params.postCategory
-                  )
-                })
+              )
+            })}
 
-                return category ? (
-                  <Blog
-                    page={this.getDocument('pages', 'blog')}
-                    posts={posts}
-                    postCategories={postCategories}
-                    selectedCategory={category}
-                    globalSettings={globalSettings}
-                    pageSearch={props.location.search}
-                    {...props}
-                  />
-                ) : (
-                  <NoMatch siteUrl={siteUrl} />
-                )
-              }}
-            />
-            <Route
-              path='/blog-post/:post'
-              exact
-              component={props => {
-                const post = posts.find(post => {
-                  return _kebabCase(post.title) === props.match.params.post
-                })
+            {modelTypes.map(modelType => {
+              const path = slugify(`/models/${modelType.title}`)
+              return (
+                <RouteWithMeta
+                  key={path}
+                  path={path}
+                  component={Models}
+                  fields={this.getDocument('pages', 'models')}
+                  modelTypes={modelTypes}
+                  globalSettings={globalSettings}
+                  selectedModelType={modelType}
+                  models={models}
+                />
+              )
+            })}
 
-                return post ? (
-                  <BlogPost
-                    globalSettings={globalSettings}
-                    post={post}
-                    {...props}
-                  />
-                ) : (
-                  <NoMatch siteUrl={siteUrl} />
-                )
-              }}
-            />
-            <Route
-              path='/models/:modelType'
-              exact
-              component={props => {
-                const modelType = modelTypes.find(selectedModelType => {
-                  return selectedModelType.name === props.match.params.modelType
-                })
+            {models.map(model => {
+              const path = slugify(`/model/${model.title}`)
+              return (
+                <RouteWithMeta
+                  key={path}
+                  path={path}
+                  fields={model}
+                  component={Model}
+                  globalSettings={globalSettings}
+                  models={models}
+                  modelTypes={modelTypes}
+                />
+              )
+            })}
 
-                return modelType ? (
-                  <Models
-                    page={this.getDocument('pages', 'models')}
-                    modelTypes={modelTypes}
-                    globalSettings={globalSettings}
-                    selectedModelType={modelType}
-                    models={models}
-                    {...props}
-                  />
-                ) : (
-                  <NoMatch siteUrl={siteUrl} />
-                )
-              }}
-            />
-            <Route
-              path='/model/:model'
-              exact
-              component={props => {
-                const singleModel = models.find(model => {
-                  return _kebabCase(model.title) === props.match.params.model
-                })
+            {infoPages.map(page => {
+              const path = slugify(`/${page.title}`)
+              return (
+                <RouteWithMeta
+                  key={path}
+                  path={path}
+                  exact
+                  component={InfoPage}
+                  fields={page}
+                />
+              )
+            })}
 
-                return singleModel ? (
-                  <Model
-                    globalSettings={globalSettings}
-                    models={models}
-                    model={singleModel}
-                    modelTypes={modelTypes}
-                    {...props}
-                  />
-                ) : (
-                  <NoMatch siteUrl={siteUrl} />
-                )
-              }}
-            />
-            {infoPages.map(page => (
-              <Route
-                path={`/${slugify(page.title)}`}
-                exact
-                key={page.title}
-                component={props => <InfoPage page={page} {...props} />}
-              />
-            ))}
             <Route component={() => <NoMatch siteUrl={siteUrl} />} />
           </Switch>
+
           <Footer
             title={footer.title}
             footerNav={footer.footerNav}

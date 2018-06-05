@@ -68,14 +68,18 @@ collections: # A list of collections the CMS should be able to edit
                 name: "blogPosts"
                 widget: "list"
                 fields:
-                  - {
-                    label: Collection,
-                    name: collection,
-                    widget: relation,
-                    collection: 'post',
-                    searchFields: ['title'],
+                  - label: Collection
+                    name: collection
+                    widget: relation
+                    collection: 'post'
+                    searchFields: ['title']
                     valueField: 'title'
-                    }
+          - label: "Meta"
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
 
       - file: "content/pages/about.md"
         label: "About Page"
@@ -108,6 +112,12 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Image, name: image, widget: image}
                   - {label: Title, name: title, widget: string}
                   - {label: Content, name: content, widget: markdown}
+          - label: "Meta"
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
 
       - file: "content/pages/models.md"
         label: "Models"
@@ -116,6 +126,12 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Sub Title, name: subTitle, widget: string}
           - {label: Title, name: title, widget: string}
+          - label: "Meta"
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
 
       - file: "content/pages/blog.md"
         label: "Blog"
@@ -124,6 +140,13 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Sub Title, name: subTitle, widget: string}
           - {label: Title, name: title, widget: string}
+          - label: "Meta"
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+
 
       - file: "content/pages/contact.md"
         label: "Contact"
@@ -132,6 +155,12 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Sub Title, name: subTitle, widget: string}
           - {label: Title, name: title, widget: string}
+          - label: "Meta"
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
 
       - file: "content/pages/join-us.md"
         label: "Join Us"
@@ -145,7 +174,13 @@ collections: # A list of collections the CMS should be able to edit
             widget: "object"
             fields:
               - {label: Title, name: title, widget: string}
-              - {label: Content, name: content, widget: markdown}                
+              - {label: Content, name: content, widget: markdown}
+          - label: "Meta"
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
 
   - label: "Info Page"
     name: "info-page"
@@ -158,6 +193,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Title, name: title, widget: string}
       - {label: Featured Image, name: featuredImage, widget: image}
       - {label: Content, name: content, widget: markdown}
+      - label: "Meta"
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
 
   - name: "settings"
     label: "Settings"
@@ -231,6 +272,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Date, name: date, widget: string}
       - {label: Content, name: content, widget: markdown}
       - {label: Video Source, name: videoSource, widget: string, required: false}
+      - label: "Meta"
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
 
   - label: "Post Category"
     name: "post-category"
@@ -274,6 +321,12 @@ collections: # A list of collections the CMS should be able to edit
         widget: "list"
         fields:
           - {label: Image, name: image, widget: image, required: false}
+      - label: "Meta"
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
 
   - name: "model-types"
     label: "Model Types"
@@ -286,3 +339,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Title, name: title, widget: string}
       - {label: Featured Image, name: featuredImage, widget: image}
       - {label: Order, name: order, widget: number}
+      - label: "Meta"
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}

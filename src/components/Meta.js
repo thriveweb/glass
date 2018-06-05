@@ -1,58 +1,47 @@
 import React from 'react'
 import Helmet from 'react-helmet'
+import _assign from 'lodash/assign'
+import _get from 'lodash/get'
 
-const Meta = ({
-  title,
-  url,
-  description,
-  absoluteImageUrl,
-  twitterSiteAccount,
-  twitterCreatorAccount,
-  headerScripts
-}) => {
+const Meta = props => {
+  const {
+    title,
+    url,
+    description,
+    absoluteImageUrl,
+    twitterSiteAccount,
+    twitterCreatorAccount,
+    headerScripts
+    // overwrite { title, description } if in fields or fields.meta
+  } = _assign({}, props, _get(props, 'fields'), _get(props, 'fields.meta'))
+
+  // write headerScripts
   const headerScriptsElement = document.head.querySelector('#headerScripts')
   if (headerScripts && headerScriptsElement) {
     headerScriptsElement.outerHTML = headerScripts
   }
 
-  const runChecks = () => {
-    if (process.env.NODE_ENV !== 'development') return
-
-    // Site Url Check
-    if (url === 'https://netlify-cms-react-starter.netlify.com') {
-      console.warn(`Site url may need updating (${url})`)
-    }
-
-    // Title
-    if (!title) {
-      console.error(`Missing Site Title`)
-    }
-
-    // Description
-    if (!description) {
-      console.error(`Missing Site Description`)
-    }
-  }
-
-  runChecks()
-
   return (
     <Helmet>
-      <meta name='description' content={description} />
-      <meta property='og:title' content={title} />
-      <meta property='og:type' content='website' />
-      <meta property='og:url' content={url} />
-      <meta property='og:description' content={description} />
+      {title && <title>{title}</title>}
+      {title && <meta property='og:title' content={title} />}
+      {description && <meta name='description' content={description} />}
+      {description && <meta property='og:description' content={description} />}
+      {url && <meta property='og:type' content='website' />}
+      {url && <meta property='og:url' content={url} />}
+      {absoluteImageUrl && (
+        <meta name='twitter:card' content='summary_large_image' />
+      )}
       {absoluteImageUrl && (
         <meta property='og:image' content={absoluteImageUrl} />
       )}
-      <meta name='twitter:card' content='summary_large_image' />
       {twitterSiteAccount && (
         <meta name='twitter:site' content={twitterSiteAccount} />
       )}
       {twitterCreatorAccount && (
         <meta name='twitter:creator' content={twitterCreatorAccount} />
       )}
+      {console.log(document.title)}
     </Helmet>
   )
 }

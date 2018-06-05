@@ -5,8 +5,8 @@ import EnquiryFormSimpleAjax from '../components/EnquiryFormSimpleAjax'
 import Content from '../components/Content'
 import './JoinUs.css'
 
-export default ({ page, success }) => {
-  const { featuredImage, title, subTitle, intro } = page
+export default ({ fields, success }) => {
+  const { featuredImage, title, subTitle, intro } = fields
 
   return (
     <div className='JoinUs'>

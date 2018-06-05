@@ -85,4 +85,3 @@ featuredPosts:
   subTitle: Our Journal
   title: Read Our Latest News
 ---
-
