@@ -10,7 +10,12 @@ export default ({ partners }) => (
         return (
           <div key={`partner-${index}`} className='section--partners-icon'>
             {partner.image && (
-              <LazyImage src={`${partner.image}`} alt='logo' imageSize={100} />
+              <LazyImage
+                src={`${partner.image}`}
+                alt='logo'
+                imageSize={100}
+                sizes='100px'
+              />
             )}
           </div>
         )
