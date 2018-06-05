@@ -8,7 +8,7 @@ import './LazyImage.css'
 
 class LazyImage extends React.Component {
   static defaultProps = {
-    lazy: false,
+    lazy: true,
     enableSrcset: true,
     imageSize: '300'
   }
