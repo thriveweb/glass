@@ -31,30 +31,30 @@ const postCategories = getDocuments('post-category')
 // Preview Templates
 CMS.registerPreviewTemplate('home-page', ({ entry }) => (
   <Home
-    page={entry.toJS().data}
+    fields={entry.toJS().data}
     globalSettings={globalSettings}
     posts={posts}
     postCategories={postCategories}
   />
 ))
 CMS.registerPreviewTemplate('about-page', ({ entry }) => (
-  <About page={entry.toJS().data} globalSettings={globalSettings} />
+  <About fields={entry.toJS().data} globalSettings={globalSettings} />
 ))
 CMS.registerPreviewTemplate('contact', ({ entry }) => (
-  <Contact page={entry.toJS().data} globalSettings={globalSettings} />
+  <Contact fields={entry.toJS().data} globalSettings={globalSettings} />
 ))
 CMS.registerPreviewTemplate('joinUs', ({ entry }) => (
-  <JoinUs page={entry.toJS().data} globalSettings={globalSettings} />
+  <JoinUs fields={entry.toJS().data} globalSettings={globalSettings} />
 ))
 CMS.registerPreviewTemplate('blog', ({ entry }) => (
-  <Blog page={entry.toJS().data} />
+  <Blog fields={entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('info-page', ({ entry }) => (
-  <InfoPage page={entry.toJS().data} />
+  <InfoPage fields={entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('models', ({ entry }) => (
   <Models
-    page={entry.toJS().data}
+    fields={entry.toJS().data}
     models={models}
     modelTypes={modelTypes}
     selectedModelType={models[0]}
@@ -64,11 +64,11 @@ CMS.registerPreviewTemplate('model', ({ entry }) => (
   <Model
     globalSettings={globalSettings}
     models={models}
-    model={entry.toJS().data}
+    fields={entry.toJS().data}
   />
 ))
 CMS.registerPreviewTemplate('post', ({ entry }) => (
-  <BlogPost post={entry.toJS().data} globalSettings={globalSettings} />
+  <BlogPost fields={entry.toJS().data} globalSettings={globalSettings} />
 ))
 
 window.netlifyIdentity.on('logout', function () {
