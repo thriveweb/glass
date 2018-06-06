@@ -59,11 +59,16 @@ class App extends Component {
     const postCategories = this.getDocuments('post-category')
     const infoPages = this.getDocuments('info-page')
 
-    const RouteWithMeta = ({ component: Component, ...props }) => (
+    const RouteWithMeta = ({
+      component: Component,
+      scrollToTop = true,
+      ...props
+    }) => (
       <Route
         {...props}
         render={routeProps => (
           <Fragment>
+            {scrollToTop && <ScrollToTop />}
             <Meta {...props} />
             <Component {...routeProps} {...props} />
           </Fragment>
@@ -75,7 +80,6 @@ class App extends Component {
       <Router>
         <div className='React-Wrap'>
           {this.state.loading && <Spinner />}
-          <ScrollToTop />
           <Helmet
             defaultTitle={siteTitle}
             titleTemplate={`${siteTitle} | %s`}
@@ -146,6 +150,7 @@ class App extends Component {
               const path = slugify(`/models/${modelType.title}`)
               return (
                 <RouteWithMeta
+                  scrollToTop={false}
                   key={path}
                   path={path}
                   component={Models}
