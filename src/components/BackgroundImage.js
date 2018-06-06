@@ -8,7 +8,7 @@ import { getImageSrc } from '../util/getImageUrl'
 
 export default class BackgroundImage extends React.Component {
   static defaultProps = {
-    lazy: true,
+    lazy: false,
     src: '',
     className: '',
     contain: false,
