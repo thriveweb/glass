@@ -3,23 +3,26 @@ import React from 'react'
 import Banner from '../components/Banner'
 import ArchivePosts from '../components/ArchivePosts'
 
-export default ({ page, posts, postCategories, selectedCategory = 'all', pageSearch, history }) => {
-  const { featuredImage, title, subTitle } = page
+export default ({
+  fields,
+  posts,
+  postCategories,
+  selectedCategory = 'all',
+  location,
+  history
+}) => {
+  const { featuredImage, title, subTitle } = fields
 
   return (
     <main className='Blog'>
-      <Banner
-        image={featuredImage}
-        title={title}
-        subTitle={subTitle}
-      />
+      <Banner image={featuredImage} title={title} subTitle={subTitle} />
       {!!posts && (
         <ArchivePosts
           posts={posts}
           postCategories={postCategories}
           subTitle={subTitle}
           selectedCategory={selectedCategory}
-          pageSearch={pageSearch}
+          pageSearch={location && location.search}
           history={history}
         />
       )}

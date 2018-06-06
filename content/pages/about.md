@@ -119,4 +119,3 @@ services:
   subTitle: Modeling and Talent Agency
   title: Services Provided
 ---
-
