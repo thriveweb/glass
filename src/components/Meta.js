@@ -1,7 +1,9 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import _assign from 'lodash/assign'
 import _get from 'lodash/get'
+import _pickBy from 'lodash/pickBy'
+
+const onlyTruthyValues = obj => _pickBy(obj, item => item)
 
 const Meta = props => {
   const {
@@ -15,7 +17,11 @@ const Meta = props => {
     noindex,
     canonicalLink
     // overwrite { title, description } if in fields or fields.meta
-  } = _assign({}, props, _get(props, 'fields'), _get(props, 'fields.meta'))
+  } = {
+    ...props,
+    ...onlyTruthyValues(_get(props, 'fields')),
+    ...onlyTruthyValues(_get(props, 'fields.meta'))
+  }
 
   // write headerScripts
   const headerScriptsElement = document.head.querySelector('#headerScripts')
