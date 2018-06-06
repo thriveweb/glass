@@ -5,11 +5,12 @@ imageThumbnail: /images/uploads/jasmine-colicchia-2_preview.jpg
 firstName: Jasmine C
 collection: Girls
 height: 139cm
+measurementType: bust
 bust: 58cm
 waist: 50cm
 hips: 58cms
 size: '8'
-shoeSize: '5'
+shoeSize: '2'
 hair: Brown
 eyes: Brown
 imagePortfolio:

@@ -8,40 +8,45 @@ import SectionColumns from '../components/SectionColumns'
 import FeaturedPosts from '../components/FeaturedPosts'
 import SectionPartners from '../components/SectionPartners'
 
-export default ({ page, globalSettings, posts, postCategories, selectedCategory }) => {
-  const { featuredImage, subTitle, content, buttonText, buttonUrl, gallery, about, testimonials, featuredPosts } = page
+export default ({
+  fields,
+  globalSettings,
+  posts,
+  postCategories,
+  selectedCategory
+}) => {
+  const {
+    featuredImage,
+    subTitle,
+    content,
+    buttonText,
+    buttonUrl,
+    gallery,
+    about,
+    testimonials,
+    featuredPosts
+  } = fields
   const { partners, columns } = globalSettings
 
   return (
     <main className='Home'>
-      <Banner 
+      <Banner
         image={featuredImage}
         subTitle={subTitle}
-        content={content} 
-        buttonText={buttonText} 
-        buttonUrl={buttonUrl} 
+        content={content}
+        buttonText={buttonText}
+        buttonUrl={buttonUrl}
       />
-      <ImageGallery
-        gallery={gallery}
-      />
-      <SectionAbout 
-        about={about}
-      />
-      <SectionTestimonials
-        testimonials={testimonials}
-      />
-      <SectionColumns
-        columns={columns}
-      />
+      <ImageGallery gallery={gallery} />
+      <SectionAbout about={about} />
+      <SectionTestimonials testimonials={testimonials} />
+      <SectionColumns columns={columns} />
       <FeaturedPosts
         featuredPosts={featuredPosts}
         posts={posts}
         postCategories={postCategories}
       />
-      <SectionPartners
-        partners={partners} 
-      />
+      <SectionPartners partners={partners} />
     </main>
   )
 }
-

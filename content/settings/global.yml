@@ -1,9 +1,8 @@
 siteTitle: Glass Management
 siteUrl: 'https://glassmanagement.com.au'
-siteDescription: |+
-  Modelling Agency
-
-
+siteDescription: >-
+  A boutique talent agency based on the Gold Coast, Australia. Providing
+  professional talent of all ages.
 phone: 0411 648 164
 email: 'info@glassmanagement.com.au  '
 address: PO BOX 1802 Broadbeach QLD 4215
@@ -50,4 +49,16 @@ columns:
     content: Start Your Modelling Career
     image: /images/uploads/amanada.jpg
     title: Become a Model
-headerScripts: <!-- Add your analytics scripts / verification meta here -->
+headerScripts: >
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+
+  <script async
+  src="https://www.googletagmanager.com/gtag/js?id=UA-112691145-27"></script>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-112691145-27');
+  </script>

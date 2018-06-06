@@ -4,20 +4,10 @@ import Banner from '../components/Banner'
 import SinglePost from '../components/SinglePost'
 import SectionPartners from '../components/SectionPartners'
 
-export default ({ page, post, globalSettings }) => {
-
-  return (
-    <main className='single-post'>
-      <Banner
-        image={post.image}
-        title={' '}
-      />
-      <SinglePost
-        post={post}
-      />
-      <SectionPartners
-        partners={globalSettings.partners}
-      />
-    </main>
-  )
-}
+export default ({ fields, globalSettings }) => (
+  <main className='single-post'>
+    <Banner image={fields && fields.image} title={' '} />
+    <SinglePost post={fields} />
+    <SectionPartners partners={globalSettings.partners} />
+  </main>
+)
