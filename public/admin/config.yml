@@ -80,6 +80,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Title, name: title, widget: string, required: false}
               - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
 
       - file: "content/pages/about.md"
         label: "About Page"
@@ -118,6 +120,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Title, name: title, widget: string, required: false}
               - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
 
       - file: "content/pages/models.md"
         label: "Models"
@@ -132,6 +136,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Title, name: title, widget: string, required: false}
               - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
 
       - file: "content/pages/blog.md"
         label: "Blog"
@@ -146,7 +152,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Title, name: title, widget: string, required: false}
               - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
 
       - file: "content/pages/contact.md"
         label: "Contact"
@@ -161,6 +168,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Title, name: title, widget: string, required: false}
               - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
 
       - file: "content/pages/join-us.md"
         label: "Join Us"
@@ -181,6 +190,9 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Title, name: title, widget: string, required: false}
               - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
+
 
   - label: "Info Page"
     name: "info-page"
@@ -199,6 +211,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string, required: false}
           - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}
 
   - name: "settings"
     label: "Settings"
@@ -255,8 +269,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
 
 
-  # Custom Post Types
-
   - label: "Post"
     name: "post"
     delete: true # Prevent users from deleting documents in this collection
@@ -278,6 +290,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string, required: false}
           - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}
+
 
   - label: "Post Category"
     name: "post-category"
@@ -288,6 +303,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: Title, name: title, widget: string}
+
 
   - label: "Model"
     name: "model"
@@ -327,6 +343,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string, required: false}
           - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}
+
 
   - name: "model-types"
     label: "Model Types"
@@ -345,3 +364,5 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string, required: false}
           - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}
