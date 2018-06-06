@@ -13,7 +13,7 @@ export default class BackgroundImage extends React.Component {
     className: '',
     contain: false,
     opacity: 1,
-    imageSize: '1800'
+    imageSize: window.innerWidth * (window.devicePixelRatio || 1)
   }
 
   state = {
