@@ -10,7 +10,7 @@ bust: 102cm
 waist: 97cm
 hips: 101cm
 shoeSize: '10'
-hair: ' Bald with  trimmed  salt  &  peppered  black  beard  '
+hair: ' Bald and black  beard  '
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/samuel-4.jpeg
