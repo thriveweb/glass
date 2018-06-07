@@ -28,7 +28,7 @@ imagePortfolio:
   - image: /images/uploads/amn_3946.jpg
   - image: /images/uploads/amn_3937-1-.jpg
   - image: /images/uploads/img_7916.jpg
-  - {}
+  - image: /images/uploads/img_7912.jpg
 meta:
   title: Boys
 ---
