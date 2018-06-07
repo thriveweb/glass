@@ -1,6 +1,6 @@
 ---
 title: Samuel
-featuredImage: /images/uploads/samuel-2.jpeg
+featuredImage: /images/uploads/samuel-2.jpg
 imageThumbnail: /images/uploads/samuel.jpeg
 firstName: Samuel
 collection: Classic
