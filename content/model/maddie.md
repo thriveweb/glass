@@ -20,6 +20,7 @@ imagePortfolio:
   - image: /images/uploads/mad5.jpg
   - image: /images/uploads/mad3.jpg
   - image: /images/uploads/mad4.jpg
+  - {}
 meta:
   title: Maddie
 ---
