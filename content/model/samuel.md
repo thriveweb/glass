@@ -16,6 +16,13 @@ imagePortfolio:
   - image: /images/uploads/samuel-4.jpeg
   - image: /images/uploads/samuel-1.jpeg
   - image: /images/uploads/samuel-3.jpeg
+  - image: /images/uploads/sam17.jpg
+  - image: /images/uploads/sam16.jpg
+  - image: /images/uploads/sam14.jpg
+  - image: /images/uploads/sam15.jpg
+  - image: /images/uploads/sam13.jpg
+  - image: /images/uploads/sam9.jpg
+  - {}
 meta:
   title: Samuel
 ---
