@@ -15,7 +15,7 @@ hair: Blonde
 eyes: Green
 imagePortfolio:
   - image: /images/uploads/dee-10.jpg
-  - image: /images/uploads/dee-9.jpg
+  - image: /images/uploads/unnamed.jpg
   - image: /images/uploads/dee11.jpg
   - image: /images/uploads/dee4.jpg
   - image: /images/uploads/dee10.png
@@ -24,5 +24,7 @@ imagePortfolio:
   - image: /images/uploads/dee-11.jpg
   - image: /images/uploads/dee12.png
   - image: /images/uploads/dee13.jpg
+meta:
+  title: Womens
 ---
 
