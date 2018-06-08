@@ -9,6 +9,7 @@ measurementType: chest
 bust: 102cm
 waist: 97cm
 hips: 101cm
+size: M
 shoeSize: '10'
 hair: ' Bald and black  beard  '
 eyes: Brown
