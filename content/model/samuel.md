@@ -1,7 +1,7 @@
 ---
 title: Samuel
 featuredImage: /images/uploads/samuel-2.jpg
-imageThumbnail: /images/uploads/sam.jpg
+imageThumbnail: /images/uploads/samuel.jpg
 firstName: Samuel
 collection: Classic
 height: 175cm
