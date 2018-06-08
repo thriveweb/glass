@@ -41,15 +41,17 @@ content: >-
 
   MOD Hair Website\
 
-  - <http://www.modhairgc.com.au/>
+
+  * <http://www.modhairgc.com.au/>
 
 
   MOD Hair Facebook\
 
-  - <https://www.facebook.com/modhairgc/?ref=br_rs>
+
+  * <https://www.facebook.com/modhairgc/?ref=br_rs>
 
 
-  ![](/images/uploads/img_0863.jpg)
+  ![null](/images/uploads/img_0863.jpg)
 meta:
   title: 'Chelsea''s Choice #2'
 ---
