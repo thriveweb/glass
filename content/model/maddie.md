@@ -1,10 +1,11 @@
 ---
 title: Maddie
-featuredImage: /images/uploads/dsc_0704.jpg
-imageThumbnail: /images/uploads/mad6.jpg
+featuredImage: /images/uploads/maddieandjosh-3.jpg
+imageThumbnail: /images/uploads/maddie-5.jpg
 firstName: Maddie
 collection: Girls
 height: 97cm
+measurementType: bust
 bust: 50cm
 waist: 47cm
 hips: 48cm
@@ -19,5 +20,7 @@ imagePortfolio:
   - image: /images/uploads/mad5.jpg
   - image: /images/uploads/mad3.jpg
   - image: /images/uploads/mad4.jpg
+meta:
+  title: Maddie
 ---
 
