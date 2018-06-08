@@ -14,10 +14,13 @@ shoeSize: '6'
 hair: Blonde
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/vanessa-3.jpg
+  - {}
+  - {}
+  - image: /images/uploads/vanessa-2.jpg
+  - image: /images/uploads/vanessa-12.jpg
   - image: /images/uploads/vanessa-4.jpg
-  - {}
-  - {}
+  - image: /images/uploads/vanessa-13.jpg
+  - image: /images/uploads/vanessa-9.jpg
 meta:
   title: Vanessa
 ---
