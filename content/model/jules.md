@@ -13,9 +13,9 @@ shoeSize: '3'
 hair: 'Blonde '
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/jules-glass-1.jpg
   - image: /images/uploads/jules5.jpg
   - image: /images/uploads/jules-glass-2.jpg
-  - image: /images/uploads/jules-glass-1.jpg
   - image: /images/uploads/jules7.jpg
   - image: /images/uploads/jules-glass.jpg
   - image: /images/uploads/jules6.jpg
