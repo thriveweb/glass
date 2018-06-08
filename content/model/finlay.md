@@ -20,6 +20,9 @@ imagePortfolio:
   - image: /images/uploads/finlay-12.jpg
   - image: /images/uploads/vanessa-5.jpg
   - {}
+  - {}
+  - {}
+  - image: /images/uploads/finlay.jpg
 meta:
   title: Finlay
 ---
