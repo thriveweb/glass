@@ -1,5 +1,5 @@
 ---
-title: Chelsea's Choice
+title: 'Chelsea''s Choice #1'
 image: /images/uploads/chelsea1258622choice84590.jpg
 collection: A blog written by our 16 year old intern
 author: Chelsea
@@ -26,5 +26,7 @@ content: >-
   make - along with a little self-belief and hard work - I can choose my own
   path.
 videoSource: 'https://vimeo.com/259983830'
+meta:
+  title: 'Chelsea''s Choice #1'
 ---
 
