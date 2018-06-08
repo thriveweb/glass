@@ -14,11 +14,11 @@ shoeSize: '4'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/dsc_0805.jpg
-  - image: /images/uploads/maddieandjosh-3.jpg
   - image: /images/uploads/josh-3.jpg
+  - image: /images/uploads/dsc_0805.jpg
   - image: /images/uploads/josh-1.jpg
   - image: /images/uploads/dsc_0815.jpg
+  - image: /images/uploads/maddieandjosh-3.jpg
 meta:
   title: Josh
 ---
