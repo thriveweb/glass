@@ -24,5 +24,6 @@ imagePortfolio:
   - image: /images/uploads/ruby9.jpg
   - image: /images/uploads/ruby6.jpg
   - image: /images/uploads/ruby7.jpg
+  - image: /images/uploads/ruby-and-asher.jpg
 ---
 
