@@ -1,7 +1,7 @@
 ---
 title: Sam
 featuredImage: /images/uploads/sam-banner.jpg
-imageThumbnail: /images/uploads/sam.jpg
+imageThumbnail: /images/uploads/samantha.jpg
 firstName: Sam
 collection: Women
 height: 178cm
