@@ -25,5 +25,6 @@ imagePortfolio:
   - image: /images/uploads/ash1.jpg
   - image: /images/uploads/ash3.jpg
   - image: /images/uploads/ash7.jpg
+  - image: /images/uploads/ruby-and-asher.jpg
 ---
 
