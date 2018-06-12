@@ -14,6 +14,7 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/aaron.png
+  - image: /images/uploads/aaron-1.jpg
   - image: /images/uploads/aaron-7.webp
   - image: /images/uploads/aaron-4.webp
   - image: /images/uploads/aaron-3.png
