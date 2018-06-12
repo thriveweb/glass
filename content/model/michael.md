@@ -4,6 +4,10 @@ featuredImage: /images/uploads/michaelbanner28347.jpg
 imageThumbnail: /images/uploads/mich7.jpg
 firstName: Michael
 collection: Classic
+height: 173cm
+waist: 34cm
+size: M
+shoeSize: '8'
 hair: Silver
 eyes: Blue
 imagePortfolio:
