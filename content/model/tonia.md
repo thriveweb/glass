@@ -1,6 +1,6 @@
 ---
 title: Tonia
-featuredImage: /images/uploads/tonia91283.jpg
+featuredImage: /images/uploads/tonia912839.jpg
 imageThumbnail: /images/uploads/tonia918273.jpg
 firstName: Tonia
 collection: Classic
