@@ -34,6 +34,7 @@ class Form extends React.Component {
 
   handleSubmit = e => {
     e.preventDefault()
+    const formTarget = e.target
 
     if (this.state.disabled) return
     const form = e.target
@@ -47,7 +48,8 @@ class Form extends React.Component {
       this.setState({ 
         filesUploading: true 
       }, () => {
-        e.target.submit()
+        console.log('test')
+        formTarget.submit()
       })
     }
   }
