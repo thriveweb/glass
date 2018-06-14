@@ -48,8 +48,7 @@ class Form extends React.Component {
       this.setState({ 
         filesUploading: true 
       }, () => {
-        console.log('test')
-        // formTarget.submit()
+        formTarget.submit()
       })
     }
   }
