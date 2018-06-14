@@ -61,7 +61,7 @@ class Form extends React.Component {
       <form
         className='EnquiryForm'
         name={name}
-        // action={action}
+        action={action}
         onSubmit={this.handleSubmit}
         data-netlify=''
         data-netlify-honeypot='_gotcha'
