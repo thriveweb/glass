@@ -33,9 +33,8 @@ class Form extends React.Component {
   }
 
   handleSubmit = e => {
-    console.log('hmm')
     e.preventDefault()
-    console.log('hmmm2')
+
     if (this.state.disabled) return
     const form = e.target
     const data = serialize(form)
@@ -45,19 +44,23 @@ class Form extends React.Component {
         alert: 'Please attach both headshot & bodyshot'
       })
     } else {
-      e.target.submit()
+      this.setState({ 
+        filesUploading: true 
+      }, () => {
+        e.target.submit()
+      })
     }
   }
 
   render () {
     const { name, subject, action, hidden } = this.props
-    console.log({action})
+    const { filesUploading } = this.state
 
     return (
       <form
         className='EnquiryForm'
         name={name}
-        action={action}
+        // action={action}
         onSubmit={this.handleSubmit}
         data-netlify=''
         data-netlify-honeypot='_gotcha'
@@ -186,7 +189,7 @@ class Form extends React.Component {
           <input
             className='button EnquiryForm--SubmitButton'
             type='submit'
-            value='Send'
+            value={!filesUploading ? 'Send' : 'Uploading Files...'}
           />
         </div>
       </form>
