@@ -33,7 +33,9 @@ class Form extends React.Component {
   }
 
   handleSubmit = e => {
+    console.log('hmm')
     e.preventDefault()
+    console.log('hmmm2')
     if (this.state.disabled) return
     const form = e.target
     const data = serialize(form)
@@ -49,6 +51,7 @@ class Form extends React.Component {
 
   render () {
     const { name, subject, action, hidden } = this.props
+    console.log({action})
 
     return (
       <form
