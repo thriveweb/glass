@@ -49,7 +49,7 @@ class Form extends React.Component {
         filesUploading: true 
       }, () => {
         console.log('test')
-        formTarget.submit()
+        // formTarget.submit()
       })
     }
   }
