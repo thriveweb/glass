@@ -15,9 +15,13 @@ hair: 'Short, Brown'
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/tonia819724222.jpg
-  - image: /images/uploads/tonia91283.jpg
   - image: /images/uploads/tonia918273.jpg
+  - image: /images/uploads/tonia91283.jpg
   - image: /images/uploads/tonia129872.jpg
+  - image: /images/uploads/ton2.png
+  - image: /images/uploads/tonia.png
+  - image: /images/uploads/ton3.jpg
+  - image: /images/uploads/ton1.png
 meta:
   title: Tonia
 ---
