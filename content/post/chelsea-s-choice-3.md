@@ -55,6 +55,9 @@ content: >-
   <http://www.warehousestudio.com.au/>
 
 
+  ![](/images/uploads/screen-shot-2018-06-15-at-4.43.05-pm.png)
+
+
   And remember -
 
 
