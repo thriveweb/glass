@@ -48,7 +48,8 @@ content: >-
 
   And if you want to up the ante for your career, I suggest checking out The
   Warehouse Workshop Acting Studio for the beginner, intermediate and expert
-  classes on acting.
+  classes on acting. As I have had personal experience with the amazing mentors,
+  and attended many of their classes - Phil Holder and Tom McSweeney.
 
 
   <http://www.warehousestudio.com.au/>
