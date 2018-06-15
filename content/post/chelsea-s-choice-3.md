@@ -43,18 +43,12 @@ content: >-
   three sharks on the popular television show Shark Tank Australia.
 
 
-  ![](/images/uploads/isr-small-logo-1.jpg)
-
-
   <https://isrtraining.com.au/>
 
 
   And if you want to up the ante for your career, I suggest checking out The
   Warehouse Workshop Acting Studio for the beginner, intermediate and expert
   classes on acting.
-
-
-  ![](/images/uploads/83abe0_b72f87a1a7d24228bcdbcb56aab62d30.png_srz_140_110_85_22_0.50_1.20_0.png)
 
 
   <http://www.warehousestudio.com.au/>
