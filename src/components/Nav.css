@@ -252,6 +252,10 @@
   background-color: var(--primary);
 }
 
+.nav .mobile-only {
+  display: none;
+}
+
 @media only screen and (max-width: 1020px) {
   .nav--container nav > ul > li {
     font-size: 1.2em;
@@ -444,6 +448,10 @@
   .nav.active .nav--container .client-nav .button {
     color: white;
     fill: white;
+  }
+
+  .nav .mobile-only {
+    display: block;
   }
 }
 
