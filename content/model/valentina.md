@@ -1,0 +1,30 @@
+---
+title: Valentina
+featuredImage: /images/uploads/valentinanoosa-184_preview.jpg
+imageThumbnail: /images/uploads/valentinanoosa-83_preview-1.jpg
+firstName: Valentina
+collection: Girls
+height: 127cm
+measurementType: bust
+bust: 62cm
+waist: 53cm
+hips: 58cm
+size: 6-7
+shoeSize: '2'
+hair: Blonde
+eyes: Green
+imagePortfolio:
+  - image: /images/uploads/valentinanoosa-125_preview.jpg
+  - image: /images/uploads/valentinanoosa-51_preview.jpg
+  - image: /images/uploads/valentinanoosa-63_preview.jpg
+  - image: /images/uploads/valentinanoosa-140_preview.jpg
+  - image: /images/uploads/valentinanoosa-164_preview-1.jpg
+  - image: /images/uploads/valentinanoosa-138_preview.jpg
+  - image: /images/uploads/valentinanoosa-44_preview.jpg
+  - image: /images/uploads/valentinanoosa-29_preview.jpg
+  - image: /images/uploads/valentinanoosa-184_preview.jpg
+  - image: /images/uploads/valentinanoosa-107_preview.jpg
+  - image: /images/uploads/valentinanoosa-94_preview.jpg
+  - image: /images/uploads/valentinanoosa-83_preview-1.jpg
+---
+
