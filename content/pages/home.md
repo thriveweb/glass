@@ -10,14 +10,14 @@ gallery:
   galleryImages:
     - image: /images/uploads/gracepel1793.jpeg
       title: Women
+    - image: /images/uploads/201710284327.jpg
+      title: Girls
     - image: /images/uploads/brayden-front-cover-1-.jpg
       title: Men
     - image: /images/uploads/Bitmap.png
       title: Classic
     - image: /images/uploads/unnamed-14.jpg
       title: Boys
-    - image: /images/uploads/201710284327.jpg
-      title: Girls
   subTitle: Our Models
   title: Explore Our Models
 about:
@@ -85,3 +85,4 @@ featuredPosts:
   subTitle: Our Journal
   title: Read Our Latest News
 ---
+
