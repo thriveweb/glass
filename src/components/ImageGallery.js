@@ -5,9 +5,9 @@ import { Link } from 'react-router-dom'
 import Masonry from 'react-masonry-component'
 import BackgroundImage from './BackgroundImage'
 
-const masonryOptions = {
-    transitionDuration: 0
-};
+// const masonryOptions = {
+//     transitionDuration: 0
+// };
 
 class ImageGallery extends Component {
   render () {
@@ -24,9 +24,9 @@ class ImageGallery extends Component {
           <Masonry
             className={'section--gallery-items'} // default ''
             elementType={'div'} // default 'div'
-            options={masonryOptions} // default {}
-            disableImagesLoaded={false} // default false
-            updateOnEachImageLoad={true} // default false and works only if disableImagesLoaded is false
+            // options={masonryOptions} // default {}
+            // disableImagesLoaded={false} // default false
+            // updateOnEachImageLoad={true} // default false and works only if disableImagesLoaded is false
           >
             {galleryImages.map((galleryItem, index) => {
               return (
