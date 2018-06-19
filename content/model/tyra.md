@@ -1,7 +1,7 @@
 ---
 title: Tyra
 featuredImage: /images/uploads/tyrabanner29uo82.jpg
-imageThumbnail: /images/uploads/tyra1.jpg
+imageThumbnail: /images/uploads/tyra2987q3.jpg
 firstName: Tyra
 collection: Girls
 height: 153cm
@@ -22,6 +22,7 @@ imagePortfolio:
   - image: /images/uploads/tyra298371012.jpg
   - image: /images/uploads/201710284354crop.jpg
   - image: /images/uploads/amn_3933.jpg
+  - image: /images/uploads/tyra2987q3.jpg
   - image: /images/uploads/amn_4121.jpg
   - image: /images/uploads/amn_1641-1-copy_preview.jpg
   - image: /images/uploads/amn_1627_preview.jpg
