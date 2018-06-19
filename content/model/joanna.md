@@ -1,7 +1,7 @@
 ---
 title: Joanna
 featuredImage: /images/uploads/joanna2178344.jpg
-imageThumbnail: /images/uploads/joanna.png
+imageThumbnail: /images/uploads/joanna21837.jpg
 firstName: Joanna
 collection: Women
 height: 177cm
@@ -14,12 +14,17 @@ shoeSize: '10'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/joanna.png
   - image: /images/uploads/joanna.jpg
+  - image: /images/uploads/joanna237.jpg
   - image: /images/uploads/joanna21783.jpg
   - image: /images/uploads/img_2436.jpg
-  - image: /images/uploads/joanna.png
+  - image: /images/uploads/joanna2138.jpg
   - image: /images/uploads/img_2438.jpg
   - image: /images/uploads/img_2440.jpg
+  - image: /images/uploads/joanna21837.jpg
+  - image: /images/uploads/joanna128763.jpg
+  - image: /images/uploads/joanna836.jpg
 meta:
   title: Joanna
 ---
