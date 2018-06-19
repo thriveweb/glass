@@ -1,6 +1,6 @@
 ---
 title: Max
-featuredImage: /images/uploads/max-4.jpg
+featuredImage: /images/uploads/maxbanner238.jpg
 imageThumbnail: /images/uploads/max1.jpg
 firstName: Max
 collection: Boys
