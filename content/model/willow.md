@@ -13,6 +13,7 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/dsc_3653_preview.jpg
+  - image: /images/uploads/will.jpg
   - image: /images/uploads/willow-1.webp
   - image: /images/uploads/willow-4.jpg
   - image: /images/uploads/willow-5.jpg
