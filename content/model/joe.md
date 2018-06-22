@@ -21,6 +21,7 @@ imagePortfolio:
   - image: /images/uploads/joe1.png
   - image: /images/uploads/joe3.png
   - image: /images/uploads/joe.png
+  - image: /images/uploads/pp_1298.jpg
 meta:
   title: Joe
 ---
