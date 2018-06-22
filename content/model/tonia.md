@@ -22,6 +22,7 @@ imagePortfolio:
   - image: /images/uploads/tonia.png
   - image: /images/uploads/ton3.jpg
   - image: /images/uploads/ton1.png
+  - image: /images/uploads/pp_1298.jpg
 meta:
   title: Tonia
 ---
