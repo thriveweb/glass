@@ -78,7 +78,7 @@ services:
         Also Team Glass offer expertise in full Event Management, from theming,
         run sheets, MC's, entertainment, catering etc. From your vision right
         through to completion.
-      image: /images/uploads/unnamed.jpg
+      image: /images/uploads/bts2.jpg
       title: Event Management and Brand Ambassadors
     - content: >-
         Karli our gorgeous make up artist will transform you to be camera ready.
@@ -119,3 +119,4 @@ services:
   subTitle: Modeling and Talent Agency
   title: Services Provided
 ---
+
