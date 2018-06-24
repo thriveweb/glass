@@ -1,7 +1,7 @@
 ---
 title: 'Chelsea''s Choice #2'
 image: /images/uploads/chelsea1258622choice84590.jpg
-collection: A blog written by our 16 year old intern
+collection: Changing your look
 author: Chelsea
 date: 8th June 2018
 content: >-
