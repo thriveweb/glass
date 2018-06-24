@@ -22,19 +22,19 @@ content: >-
 
 
   You will need to have a piece of paper, or mini whiteboard, etc. Something to
-  write your _**First Name, Last Name, Age and Agency.**_
+  write your **_First Name, Last Name, Age and Agency._**
 
 
   For example, if I were doing a Video ID, I would write on my piece of paper:
 
 
-  _**Chelsea Glenn**_
+  **_Chelsea Glenn_**
 
 
-  _**Age: 16**_
+  **_Age: 16_**
 
 
-  _**Glass Management**_
+  **_Glass Management_**
 
 
   Sometimes you will be required to write more information on it, like the
@@ -74,10 +74,10 @@ content: >-
 
   **Stay tuned for next week’s blog as I will be talking about Self Taping, and
   in two weeks time, Dialect/Voice Performance and Coaching.**
-videoSource: >-
-  <iframe src="https://player.vimeo.com/video/276682176" width="640"
-  height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
-  allowfullscreen></iframe>
+
+
+  ![](/images/uploads/mock-video-id.png)
+videoSource: ''
 meta:
   title: 'Chelsea''s Choice #4'
 ---
