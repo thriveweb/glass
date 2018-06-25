@@ -66,13 +66,14 @@ class App extends Component {
     }) => (
       <Route
         {...props}
-        render={routeProps => (
-          <Fragment>
+        render={routeProps => {
+
+          return <Fragment>
             {scrollToTop && <ScrollToTop />}
             <Meta {...props} />
             <Component {...routeProps} {...props} />
           </Fragment>
-        )}
+        }}
       />
     )
 
@@ -150,7 +151,7 @@ class App extends Component {
               const path = slugify(`/models/${modelType.title}`)
               return (
                 <RouteWithMeta
-                  // scrollToTop={false}
+                  scrollToTop={false}
                   key={path}
                   path={path}
                   component={Models}

@@ -23,6 +23,7 @@ class ImageGallery extends Component {
                 to={`/models/${_kebabCase(galleryItem.title)}`}
                 key={galleryItem.title}
                 className='section--image-gallery-item'
+                onClick={() => window.scrollTo(0,0)}
               >
                 {galleryItem.image && (
                   <BackgroundImage
