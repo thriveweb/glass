@@ -25,5 +25,6 @@ imagePortfolio:
   - image: /images/uploads/celeste-new-17.jpg
   - image: /images/uploads/celeste-new-25.jpg
   - image: /images/uploads/h7.jpg
+  - image: /images/uploads/35618149_1826107954362525_5394905895064829952_n.jpg
 ---
 
