@@ -26,5 +26,6 @@ imagePortfolio:
   - image: /images/uploads/dani-7.jpg
   - image: /images/uploads/dani-cover.jpg
   - image: /images/uploads/34139388_857249987818049_7806772508442492928_n.jpg
+  - image: /images/uploads/34638289_1854515731272493_2153196723302825984_n.jpg
 ---
 
