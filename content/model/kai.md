@@ -15,6 +15,8 @@ hair: Dark Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/kai-van-vliet-3.jpg
+  - image: /images/uploads/vliet-family.jpg
+  - image: /images/uploads/vliet-children.jpg
 meta:
   title: Kai
 ---
