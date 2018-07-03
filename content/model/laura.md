@@ -6,9 +6,9 @@ firstName: Laura
 collection: Global
 height: 160cm
 measurementType: bust
-bust: 36cm
-waist: 30cm
-hips: 36cm
+bust: 36inch
+waist: 30inch
+hips: 36inch
 size: M
 shoeSize: '8'
 hair: Dark Brown
