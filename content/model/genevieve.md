@@ -6,9 +6,9 @@ firstName: Genevieve
 collection: Global
 height: 110cm
 measurementType: bust
-bust: 26cm
-waist: 17cm
-hips: 23cm
+bust: 26inch
+waist: 17inch
+hips: 23inch
 size: '7'
 shoeSize: 12 kids
 hair: Brown
