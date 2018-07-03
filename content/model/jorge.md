@@ -6,7 +6,7 @@ firstName: Jorge
 collection: Global
 height: 180cm
 measurementType: chest
-bust: 37cm
+bust: 37inch
 waist: 81inch
 hips: 95inch
 size: L
