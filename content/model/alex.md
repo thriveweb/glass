@@ -3,7 +3,7 @@ title: Alex
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/alex-burriga-38.jpg
 firstName: Alex
-collection: Glass Global
+collection: Global
 height: 179cm
 measurementType: chest
 bust: 38inch
