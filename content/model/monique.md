@@ -6,7 +6,7 @@ firstName: Monique
 collection: Global
 height: 153cm
 measurementType: chest
-bust: 100am
+bust: 100cm
 waist: 78cm
 hips: 95cm
 size: '8'
