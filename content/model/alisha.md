@@ -6,9 +6,9 @@ firstName: Alisha
 collection: Global
 height: 173cm
 measurementType: bust
-bust: 37cm
-waist: 33cm
-hips: 39cm
+bust: 37inch
+waist: 33inch
+hips: 39inch
 size: 10/12
 shoeSize: '7'
 hair: Brown
