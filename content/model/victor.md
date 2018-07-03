@@ -15,6 +15,7 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/victor-carrasco-50.jpg
+  - image: /images/uploads/carrasco-family.jpg
 meta:
   title: Victor
 ---
