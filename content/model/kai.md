@@ -6,9 +6,9 @@ firstName: Kai
 collection: Global
 height: 96cm
 measurementType: chest
-bust: 19cm
-waist: 19cm
-hips: 22cm
+bust: 19inch
+waist: 19inch
+hips: 22inch
 size: '2'
 shoeSize: '9'
 hair: Dark Brown
