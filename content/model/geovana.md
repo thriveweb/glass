@@ -6,9 +6,9 @@ firstName: Geovana
 collection: Global
 height: 163cm
 measurementType: bust
-bust: 34.5cm
-waist: 30cm
-hips: 38cm
+bust: 34.5inch
+waist: 30inch
+hips: 38inch
 size: 10-12
 shoeSize: '8'
 hair: Dark Brown
