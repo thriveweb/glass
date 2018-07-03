@@ -15,6 +15,7 @@ hair: Dark Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/nataly-cobos-32.jpg
+  - image: /images/uploads/cobos-family.jpg
 meta:
   title: Nataly
 ---
