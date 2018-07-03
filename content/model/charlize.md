@@ -6,9 +6,9 @@ firstName: Charlize
 collection: Global
 height: 167cm
 measurementType: bust
-bust: 33cm
-waist: 28cm
-hips: 36cm
+bust: 33inch
+waist: 28inch
+hips: 36inch
 size: '10'
 shoeSize: '6'
 hair: Dark Brown
