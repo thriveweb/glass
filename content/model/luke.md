@@ -15,6 +15,8 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/luke-mandrakas-41.jpg
+  - image: /images/uploads/mandrakas-family.jpg
+  - image: /images/uploads/mandrakas-couple.jpg
 meta:
   title: Luke
 ---
