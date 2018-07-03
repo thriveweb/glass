@@ -15,12 +15,18 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/luca-2.webp
+  - image: /images/uploads/new-york-state-of-mind-dol-0988_preview.jpg
   - image: /images/uploads/luca-8.webp
   - image: /images/uploads/luca-5.webp
+  - image: /images/uploads/new-york-state-of-mind-dol-0991_preview.jpg
   - image: /images/uploads/luca-7.webp
   - image: /images/uploads/luca-3.webp
   - image: /images/uploads/havana-and-luca-glass.jpg
+  - image: /images/uploads/new-york-state-of-mind-dol-1422_preview.jpg
   - image: /images/uploads/havana-and-luca-glass-1.jpg
   - image: /images/uploads/havana-and-luca-glass-2.jpg
+  - image: /images/uploads/new-york-state-of-mind-dol-1363_preview.jpg
+  - image: /images/uploads/new-york-state-of-mind-dol-1365_preview.jpg
+  - image: /images/uploads/new-york-state-of-mind-dol-1345_preview.jpg
 ---
 
