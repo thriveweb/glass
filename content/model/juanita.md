@@ -6,9 +6,9 @@ firstName: Juanita
 collection: Global
 height: 176cm
 measurementType: bust
-bust: 33cm
-waist: 27cm
-hips: 37cm
+bust: 33inch
+waist: 27inch
+hips: 37inch
 size: '8'
 shoeSize: '9'
 hair: Dark Brown
