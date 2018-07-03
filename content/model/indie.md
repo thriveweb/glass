@@ -6,9 +6,9 @@ firstName: Indie
 collection: Global
 height: 100cm
 measurementType: bust
-bust: 19cm
-waist: 20cm
-hips: 21cm
+bust: 19inch
+waist: 20inch
+hips: 21inch
 size: kids 4
 shoeSize: '9'
 hair: Dark Brown
