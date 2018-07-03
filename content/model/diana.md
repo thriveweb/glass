@@ -6,9 +6,9 @@ firstName: Diana
 collection: Global
 height: 160cm
 measurementType: bust
-bust: 38cm
-waist: 30cm
-hips: 37cm
+bust: 38inch
+waist: 30inch
+hips: 37inch
 size: '10'
 shoeSize: '7'
 hair: Dark Brown
