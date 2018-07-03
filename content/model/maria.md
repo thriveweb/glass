@@ -6,9 +6,9 @@ firstName: Maria
 collection: Global
 height: 172cm
 measurementType: bust
-bust: 32cm
-waist: 27cm
-hips: 39cm
+bust: 32inch
+waist: 27inch
+hips: 39inch
 size: '10'
 shoeSize: '10'
 hair: Blonde
