@@ -15,6 +15,8 @@ hair: Dark Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/chrystelle-charles-mandrakas-37.jpg
+  - image: /images/uploads/mandrakas-couple.jpg
+  - image: /images/uploads/mandrakas-family.jpg
 meta:
   title: Chrystelle
 ---
