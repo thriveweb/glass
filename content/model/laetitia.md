@@ -6,9 +6,9 @@ firstName: Laetitia
 collection: Global
 height: 132cm
 measurementType: bust
-bust: 25cm
-waist: 17cm
-hips: 26cm
+bust: 25inch
+waist: 17inch
+hips: 26inch
 size: '8'
 shoeSize: '12'
 hair: Brown
