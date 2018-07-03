@@ -15,6 +15,7 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/kora-higgins-5.jpg
+  - image: /images/uploads/higgins-family.jpg
 meta:
   title: Kora
 ---
