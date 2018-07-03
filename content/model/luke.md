@@ -6,9 +6,9 @@ firstName: Luke
 collection: Global
 height: 182cm
 measurementType: chest
-bust: 41cm
-waist: 36cm
-hips: 39cm
+bust: 41inch
+waist: 36inch
+hips: 39inch
 size: L
 shoeSize: '11'
 hair: Brown
