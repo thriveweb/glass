@@ -6,9 +6,9 @@ firstName: Mark
 collection: Global
 height: 187cm
 measurementType: chest
-bust: 41cm
-waist: 38cm
-hips: 40cm
+bust: 41inch
+waist: 38inch
+hips: 40inch
 size: L
 shoeSize: '11'
 hair: Brown
