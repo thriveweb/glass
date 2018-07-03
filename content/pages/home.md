@@ -18,6 +18,8 @@ gallery:
       title: Classic
     - image: /images/uploads/unnamed-14.jpg
       title: Boys
+    - image: /images/uploads/globe-1290378_1920.jpg
+      title: Global
   subTitle: Our Models
   title: Explore Our Models
 about:
