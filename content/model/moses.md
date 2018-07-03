@@ -6,9 +6,9 @@ firstName: Moses
 collection: Global
 height: 101cm
 measurementType: chest
-bust: '22'
-waist: '19'
-hips: '22'
+bust: 22inch
+waist: 19inch
+hips: 22inch
 size: '4'
 shoeSize: 10 kids
 hair: Brown
