@@ -14,8 +14,8 @@ shoeSize: '7.5'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - {}
   - image: /images/uploads/ammon-higgins-12.jpg
+  - image: /images/uploads/higgins-family.jpg
 meta:
   title: Ammon
 ---
