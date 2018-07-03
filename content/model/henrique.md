@@ -6,9 +6,9 @@ firstName: Henrique
 collection: Global
 height: 185cm
 measurementType: chest
-bust: 35cm
-waist: 32cm
-hips: 32cm
+bust: 35inch
+waist: 32inch
+hips: 32inch
 size: M
 shoeSize: '11'
 hair: Brown
