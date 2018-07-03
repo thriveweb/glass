@@ -6,9 +6,9 @@ firstName: Helina
 collection: Global
 height: 164cm
 measurementType: bust
-bust: 33cm
-waist: 26cm
-hips: 35cm
+bust: 33inch
+waist: 26inch
+hips: 35inch
 size: '8'
 shoeSize: '7'
 hair: Brown Dark
