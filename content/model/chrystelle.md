@@ -6,9 +6,9 @@ firstName: Chrystelle
 collection: Global
 height: 180cm
 measurementType: bust
-bust: 35cm
-waist: 28cm
-hips: 35cm
+bust: 35inch
+waist: 28inch
+hips: 35inch
 size: '10'
 shoeSize: '10'
 hair: Dark Brown
