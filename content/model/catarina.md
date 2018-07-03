@@ -6,9 +6,9 @@ firstName: Catarina
 collection: Global
 height: 168cm
 measurementType: bust
-bust: 33cm
-waist: 27cm
-hips: 36cm
+bust: 33inch
+waist: 27inch
+hips: 36inch
 size: '8'
 shoeSize: '8'
 hair: Dark Brown
