@@ -1,18 +1,21 @@
 ---
 title: Alessandra
-featuredImage: /images/uploads/201710284143.jpg
-imageThumbnail: /images/uploads/ales1.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: /images/uploads/alessandra-de-silva-42.jpg
 firstName: Alessandra
-collection: Girls
-size: '4'
-shoeSize: 25 Euro
-hair: Blonde
-eyes: Blue
+collection: Glass Global
+height: 170cm
+measurementType: bust
+bust: 40cm
+waist: 32cm
+hips: 38cm
+size: '12'
+shoeSize: '9'
+hair: Dark Brown
+eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/ales2.jpg
-  - image: /images/uploads/201710284074crop.jpg
-  - image: /images/uploads/ales1.jpg
-  - image: /images/uploads/201710284074.jpg
-  - image: /images/uploads/201710284143.jpg
+  - image: /images/uploads/alessandra-de-silva-42.jpg
+meta:
+  title: Alessandra
 ---
 
