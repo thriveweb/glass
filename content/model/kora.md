@@ -6,9 +6,9 @@ firstName: Kora
 collection: Global
 height: 106cm
 measurementType: bust
-bust: 22cm
-waist: 20cm
-hips: 22cm
+bust: 22inch
+waist: 20inch
+hips: 22inch
 size: '4'
 shoeSize: '11'
 hair: Brown
