@@ -15,6 +15,7 @@ hair: Dark Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/joshua-carrasco-5.jpg
+  - image: /images/uploads/carrasco-family.jpg
 meta:
   title: Joshua
 ---
