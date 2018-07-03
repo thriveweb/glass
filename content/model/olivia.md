@@ -15,6 +15,8 @@ hair: Dark Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/olivia-van-vliet-6.jpg
+  - image: /images/uploads/vliet-family.jpg
+  - image: /images/uploads/vliet-children.jpg
 meta:
   title: Olivia
 ---
