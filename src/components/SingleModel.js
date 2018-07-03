@@ -1,6 +1,7 @@
 import React, {Component} from 'react'
 import {Link} from 'react-router-dom'
 import _includes from 'lodash/includes'
+import _kebabCase from 'lodash/kebabCase'
 
 import BackgroundImage from './BackgroundImage'
 // import LazyImage from './LazyImage'
@@ -37,7 +38,7 @@ class AsNavFor extends Component {
 		    <section className='section--model-profile'>
 				<div className='container'>
 					<div className='archive-link title'>
-						<Link  to={`/models/${collection.toLowerCase()}`}><span>&larr;</span> Back to All</Link>
+						<Link  to={`/models/${_kebabCase(collection)}/`}><span>&larr;</span> Back to All</Link>
 					</div>	
 					<div className='section--model-profile-info'>
 						{firstName && <h2>{firstName}</h2>}
