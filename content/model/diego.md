@@ -6,9 +6,9 @@ firstName: Diego
 collection: Global
 height: 137cm
 measurementType: chest
-bust: 25cm
-waist: 22cm
-hips: 30cm
+bust: 25inch
+waist: 22inch
+hips: 30inch
 size: 8-10
 shoeSize: '3'
 hair: Dark Brown
