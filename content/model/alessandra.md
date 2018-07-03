@@ -6,9 +6,9 @@ firstName: Alessandra
 collection: Global
 height: 170cm
 measurementType: bust
-bust: 40cm
-waist: 32cm
-hips: 38cm
+bust: 40inch
+waist: 32inch
+hips: 38inch
 size: '12'
 shoeSize: '9'
 hair: Dark Brown
