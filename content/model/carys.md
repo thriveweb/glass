@@ -15,6 +15,7 @@ hair: Dark Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/carys-higgins-14.jpg
+  - image: /images/uploads/higgins-family.jpg
 meta:
   title: Carys
 ---
