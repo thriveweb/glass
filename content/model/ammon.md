@@ -6,9 +6,9 @@ firstName: Ammon
 collection: Global
 height: 162cm
 measurementType: chest
-bust: 28cm
-waist: 26cm
-hips: 30cm
+bust: 28inch
+waist: 26inch
+hips: 30inch
 size: 12 kids
 shoeSize: '7.5'
 hair: Dark Brown
