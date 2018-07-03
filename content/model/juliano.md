@@ -6,9 +6,9 @@ firstName: Juliano
 collection: Global
 height: 180cm
 measurementType: chest
-bust: 37cm
-waist: 27cm
-hips: 36cm
+bust: 37inch
+waist: 27inch
+hips: 36inch
 size: M
 shoeSize: '9'
 hair: Dark Brown
