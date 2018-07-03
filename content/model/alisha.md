@@ -1,23 +1,21 @@
 ---
 title: Alisha
-featuredImage: /images/uploads/alisha.jpg
-imageThumbnail: /images/uploads/alisha3.png
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: /images/uploads/alisha-higgins-35.jpg
 firstName: Alisha
-collection: Girls
-height: 119cm
-bust: 65cm
-waist: 60cm
-hips: 60cm
-size: '10'
-shoeSize: '13'
+collection: Global
+height: 173cm
+measurementType: bust
+bust: 37cm
+waist: 33cm
+hips: 39cm
+size: 10/12
+shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/alisha-2.jpeg
-  - image: /images/uploads/alisha-1.jpg
-  - image: /images/uploads/alisha.jpeg
-  - image: /images/uploads/alisha-3.jpeg
-  - image: /images/uploads/alisha-2.jpg
-  - image: /images/uploads/alisha3.png
+  - image: /images/uploads/alisha-higgins-35.jpg
+meta:
+  title: Alisha
 ---
 
