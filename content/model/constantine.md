@@ -6,9 +6,9 @@ firstName: Constantine
 collection: Global
 height: 172cm
 measurementType: chest
-bust: 38cm
-waist: 32cm
-hips: 39cm
+bust: 38inch
+waist: 32inch
+hips: 39inch
 size: S
 shoeSize: '8'
 hair: Dark Brown
