@@ -3,7 +3,7 @@ title: Alessandra
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/alessandra-de-silva-42.jpg
 firstName: Alessandra
-collection: Glass Global
+collection: Global
 height: 170cm
 measurementType: bust
 bust: 40cm
