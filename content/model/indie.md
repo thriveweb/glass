@@ -15,6 +15,7 @@ hair: Dark Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/indie-munoz-3.10.jpg
+  - image: /images/uploads/family.jpg
 meta:
   title: Indie
 ---
