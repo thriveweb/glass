@@ -15,6 +15,7 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/alisha-higgins-35.jpg
+  - image: /images/uploads/higgins-family.jpg
 meta:
   title: Alisha
 ---
