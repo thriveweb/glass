@@ -16,5 +16,7 @@ eyes: Brown
 imagePortfolio:
   - {}
   - image: /images/uploads/ammon-higgins-12.jpg
+meta:
+  title: Ammon
 ---
 
