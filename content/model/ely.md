@@ -6,9 +6,9 @@ firstName: Ely
 collection: Global
 height: 123cm
 measurementType: chest
-bust: 61inch
-waist: 55inch
-hips: 66inch
+bust: 61cm
+waist: 55cm
+hips: 66cm
 size: '7'
 shoeSize: '4'
 hair: Dark Brown
