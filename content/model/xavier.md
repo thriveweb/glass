@@ -15,6 +15,7 @@ hair: Dark Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/xavier-cruz-munuz-1.11.jpg
+  - image: /images/uploads/family.jpg
 meta:
   title: Xavier
 ---
