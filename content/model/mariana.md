@@ -6,9 +6,9 @@ firstName: Mariana
 collection: Global
 height: 164cm
 measurementType: bust
-bust: 36cm
-waist: 32cm
-hips: 42cm
+bust: 36inch
+waist: 32inch
+hips: 42inch
 size: 12-14
 shoeSize: '6'
 hair: Brown
