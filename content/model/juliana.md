@@ -6,9 +6,9 @@ firstName: Juliana
 collection: Global
 height: 164cm
 measurementType: bust
-bust: 37cm
-waist: 28cm
-hips: 37cm
+bust: 37inch
+waist: 28inch
+hips: 37inch
 size: '8'
 shoeSize: '7'
 hair: Dark Brown
