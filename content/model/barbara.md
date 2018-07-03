@@ -6,9 +6,9 @@ firstName: Barbara
 collection: Global
 height: 158cm
 measurementType: bust
-bust: 43cm
-waist: 40cm
-hips: 44cm
+bust: 43inch
+waist: 40inch
+hips: 44inch
 size: '22'
 shoeSize: '8'
 hair: Dark Brown
