@@ -6,9 +6,9 @@ firstName: Enrique
 collection: Global
 height: 180cm
 measurementType: chest
-bust: 33cm
-waist: 33cm
-hips: 38cm
+bust: 33inch
+waist: 33inch
+hips: 38inch
 size: M
 shoeSize: '9'
 hair: Dark Brown
