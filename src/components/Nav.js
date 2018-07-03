@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { withRouter } from 'react-router'
 import _throttle from 'lodash/throttle'
+import _kebabCase from 'lodash/kebabCase'
 import './Nav.css'
 
 import { slugify } from '../util/url'
@@ -91,7 +92,7 @@ class Nav extends Component {
                   {modelTypes.map(selectedModelType => {
                     return (
                       <li key={selectedModelType.name}>
-                        <Link to={`/models/${selectedModelType.name}`}>
+                        <Link to={`/models/${_kebabCase(selectedModelType.name)}/`}>
                           {selectedModelType.name}
                         </Link>
                       </li>
