@@ -22,11 +22,8 @@ imagePortfolio:
   - image: /images/uploads/grace261782943.jpeg
   - image: /images/uploads/grace267.jpeg
   - image: /images/uploads/img_1709.jpeg
-  - image: /images/uploads/g2.jpg
   - image: /images/uploads/g8.jpg
   - image: /images/uploads/g9.jpg
-  - image: /images/uploads/grace257.jpeg
   - image: /images/uploads/grace-9.webp
-  - image: /images/uploads/grace-8.webp
 ---
 
