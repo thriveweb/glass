@@ -13,11 +13,13 @@ shoeSize: '9'
 hair: Brunette
 eyes: Brown
 imagePortfolio:
+  - image: /images/uploads/amn_5284.jpg
   - image: /images/uploads/image10.jpeg
   - image: /images/uploads/kail2.jpeg
   - image: /images/uploads/kail1.jpeg
   - image: /images/uploads/kail3.jpeg
   - image: /images/uploads/image19.jpeg
   - image: /images/uploads/kail-5.jpg
+  - {}
 ---
 
