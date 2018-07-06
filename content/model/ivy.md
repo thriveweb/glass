@@ -1,6 +1,6 @@
 ---
 title: Ivy
-featuredImage: /images/uploads/ivy-8.jpg
+featuredImage: /images/uploads/ivy-banner.jpg
 imageThumbnail: /images/uploads/ivy.jpg
 firstName: Ivy
 collection: Girls
