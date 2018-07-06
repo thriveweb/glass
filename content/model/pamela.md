@@ -1,7 +1,7 @@
 ---
 title: Pamela
-featuredImage: /images/uploads/pamela1.jpg
-imageThumbnail: /images/uploads/pamela2.jpg
+featuredImage: /images/uploads/pamela2.jpg
+imageThumbnail: /images/uploads/pamela1.jpg
 firstName: Pamela
 collection: Classic
 height: 165cm
