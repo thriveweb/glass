@@ -1,6 +1,6 @@
 ---
 title: Pamela
-featuredImage: /images/uploads/pamela.jpg
+featuredImage: /images/uploads/pamela1.jpg
 imageThumbnail: /images/uploads/pamela2.jpg
 firstName: Pamela
 collection: Classic
@@ -16,5 +16,6 @@ eyes: Blue
 imagePortfolio:
   - image: /images/uploads/pamela1.jpg
   - image: /images/uploads/pamela2.jpg
+  - image: /images/uploads/pamela.jpg
 ---
 
