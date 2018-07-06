@@ -20,7 +20,9 @@ imagePortfolio:
   - image: /images/uploads/4992817216__mg_2952.jpg
   - image: /images/uploads/ivy-4.jpg
   - image: /images/uploads/ivy-5.jpg
-  - {}
+  - image: /images/uploads/ivy-5.jpg
+  - image: /images/uploads/ivy-8.jpg
+  - image: /images/uploads/ivy-10.jpg
 meta:
   title: Ivy
 ---
