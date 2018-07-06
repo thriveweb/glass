@@ -14,10 +14,10 @@ shoeSize: 6-7
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/ivy-8.jpg
   - image: /images/uploads/ivy-3.jpg
   - image: /images/uploads/ivy-2.jpg
   - image: /images/uploads/ivy-5.jpg
-  - image: /images/uploads/ivy-8.jpg
   - image: /images/uploads/ivy-5.jpg
   - image: /images/uploads/4992817216__mg_2889.jpg
   - image: /images/uploads/4992817216__mg_2952.jpg
