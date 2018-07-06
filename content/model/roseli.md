@@ -1,9 +1,9 @@
 ---
 title: Roseli
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
+featuredImage: /images/uploads/roseli.jpg
 imageThumbnail: /images/uploads/roseli-arruda-50.jpg
 firstName: Roseli
-collection: Global
+collection: Classic
 height: 163cm
 measurementType: bust
 bust: 32inch
@@ -15,6 +15,8 @@ hair: Dark Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/roseli-arruda-50.jpg
+  - image: /images/uploads/roseli2.jpg
+  - image: /images/uploads/roseli1.jpg
 meta:
   title: Roseli
 ---
