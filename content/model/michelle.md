@@ -4,6 +4,7 @@ featuredImage: /images/uploads/a19i4399_preview.jpg
 imageThumbnail: /images/uploads/unnamed-57.jpg
 firstName: Michelle
 collection: Classic
+height: 168cm
 size: '10'
 shoeSize: '8'
 hair: Brown
