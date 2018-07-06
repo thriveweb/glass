@@ -1,6 +1,6 @@
 ---
 title: Pamela
-featuredImage: /images/uploads/pamela2.jpg
+featuredImage: /images/uploads/pamela-banner-1-1-.jpg
 imageThumbnail: /images/uploads/pamela1.jpg
 firstName: Pamela
 collection: Classic
