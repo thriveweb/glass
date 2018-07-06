@@ -1,8 +1,8 @@
 ---
-title: Yornt
+title: Yonit
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/yornt-negri-31.jpg
-firstName: Yornt
+firstName: Yonit
 collection: Global
 height: 155cm
 measurementType: bust
@@ -16,6 +16,6 @@ eyes: Brown
 imagePortfolio:
   - image: /images/uploads/yornt-negri-31.jpg
 meta:
-  title: Yornt
+  title: Yonit
 ---
 
