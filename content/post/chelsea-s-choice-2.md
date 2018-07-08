@@ -1,6 +1,6 @@
 ---
 title: 'Chelsea''s Choice #2'
-image: /images/uploads/chelsea1258622choice84590.jpg
+image: /images/uploads/chelsea-schoice128746987392p5.jpg
 collection: Changing your look
 author: Chelsea
 date: 8th June 2018
