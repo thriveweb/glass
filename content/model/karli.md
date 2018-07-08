@@ -17,10 +17,10 @@ imagePortfolio:
   - image: /images/uploads/karli-1.png
   - image: /images/uploads/karli-7.png
   - image: /images/uploads/karli-8.png
+  - image: /images/uploads/karli.jpg
   - image: /images/uploads/karli-9.png
   - image: /images/uploads/karli-5.png
   - image: /images/uploads/karli-4.png
-  - image: /images/uploads/karli-3.png
   - image: /images/uploads/karli.png
 ---
 
