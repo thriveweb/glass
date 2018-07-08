@@ -3,7 +3,7 @@ title: Mia E
 featuredImage: /images/uploads/mia7.jpg
 imageThumbnail: /images/uploads/mia11.jpg
 firstName: Mia E
-collection: Girlsl
+collection: Girls
 height: 151cm
 measurementType: bust
 bust: 67cm
