@@ -1,5 +1,5 @@
 ---
-title: Alex
+title: Alex B
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/alex-burriga-38.jpg
 firstName: Alex
