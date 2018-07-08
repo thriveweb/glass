@@ -1,6 +1,6 @@
 ---
 title: 'Chelsea''s Choice #3'
-image: /images/uploads/chelsea1258622choice84590.jpg
+image: /images/uploads/chelsea-schoice12745365876.jpg
 collection: Development
 author: Chelsea
 date: 15th June 2018
