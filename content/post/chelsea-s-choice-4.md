@@ -1,6 +1,6 @@
 ---
 title: 'Chelsea''s Choice #4'
-image: /images/uploads/chelsea1258622choice84590.jpg
+image: /images/uploads/chelsea-schoice172463944.jpg
 collection: Video ID
 author: Chelsea
 date: 24th June 2018
@@ -22,19 +22,19 @@ content: >-
 
 
   You will need to have a piece of paper, or mini whiteboard, etc. Something to
-  write your **_First Name, Last Name, Age and Agency._**
+  write your _**First Name, Last Name, Age and Agency.**_
 
 
   For example, if I were doing a Video ID, I would write on my piece of paper:
 
 
-  **_Chelsea Glenn_**
+  _**Chelsea Glenn**_
 
 
-  **_Age: 16_**
+  _**Age: 16**_
 
 
-  **_Glass Management_**
+  _**Glass Management**_
 
 
   Sometimes you will be required to write more information on it, like the
@@ -76,7 +76,7 @@ content: >-
   in two weeks time, Dialect/Voice Performance and Coaching.**
 
 
-  ![](/images/uploads/mock-video-id.png)
+  ![null](/images/uploads/mock-video-id.png)
 videoSource: ''
 meta:
   title: 'Chelsea''s Choice #4'
