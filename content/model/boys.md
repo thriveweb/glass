@@ -5,6 +5,7 @@ imageThumbnail: /images/uploads/amn_0264-1-.jpg
 firstName: Alex
 collection: Boys
 height: 149cm
+measurementType: chest
 bust: 75cm
 waist: 64cm
 hips: 66cm
@@ -21,5 +22,7 @@ imagePortfolio:
   - image: /images/uploads/amn_0245.jpg
   - image: /images/uploads/amn_0185.jpg
   - image: /images/uploads/amn_0164.jpg
+meta:
+  title: Alex
 ---
 
