@@ -4,7 +4,13 @@ featuredImage: /images/uploads/emily2398564.jpg
 imageThumbnail: /images/uploads/emily9283523.jpg
 firstName: Emily
 collection: Women
+height: 175cm
 measurementType: bust
+bust: 81cm
+waist: 63cm
+hips: 86cm
+size: '8'
+shoeSize: '7'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
