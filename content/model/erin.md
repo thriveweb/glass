@@ -1,7 +1,7 @@
 ---
 title: Erin
 featuredImage: /images/uploads/erin10.jpg
-imageThumbnail: /images/uploads/erin2374.jpg
+imageThumbnail: /images/uploads/erin328749.jpg
 firstName: Erin
 collection: Girls
 height: 119cm
