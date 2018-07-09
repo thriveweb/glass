@@ -1,6 +1,6 @@
 ---
 title: Emily
-featuredImage: /images/uploads/emily2398564.jpg
+featuredImage: /images/uploads/emily2398564headernow897164.jpg
 imageThumbnail: /images/uploads/emily9283523.jpg
 firstName: Emily
 collection: Women
@@ -14,10 +14,10 @@ shoeSize: '7'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/emily29386745.jpg
   - image: /images/uploads/emily238969343.jpg
-  - image: /images/uploads/emily3298463-.jpg
+  - image: /images/uploads/emily29386745.jpg
   - image: /images/uploads/emily9283523.jpg
+  - image: /images/uploads/emily3298463-.jpg
   - image: /images/uploads/emiyl238963.jpg
   - image: /images/uploads/emily239857.jpg
   - image: /images/uploads/emily293863423.jpg
