@@ -1,6 +1,6 @@
 ---
 title: Gus
-featuredImage: /images/uploads/gusheader239674.jpg
+featuredImage: /images/uploads/gus71825864headernow23424567.jpg
 imageThumbnail: /images/uploads/gus98246.jpg
 firstName: Gus
 collection: Boys
