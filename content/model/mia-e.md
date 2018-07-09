@@ -20,12 +20,17 @@ imagePortfolio:
   - image: /images/uploads/mia14.jpg
   - image: /images/uploads/mia2.jpg
   - image: /images/uploads/mia3.jpg
+  - image: /images/uploads/photo-8-7-18-3-52-44-am_preview.jpg
   - image: /images/uploads/mia17.jpg
   - image: /images/uploads/mia13.jpg
   - image: /images/uploads/mia1.jpg
   - image: /images/uploads/mia16.jpg
   - image: /images/uploads/mia11.jpg
+  - image: /images/uploads/photo-8-7-18-4-14-47-am_preview.jpg
+  - image: /images/uploads/photo-8-7-18-4-46-05-am_preview.jpg
   - image: /images/uploads/mia5.jpg
   - image: /images/uploads/mia6.jpg
+  - image: /images/uploads/photo-8-7-18-4-17-43-am_preview.jpg
+  - {}
 ---
 
