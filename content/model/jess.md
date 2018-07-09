@@ -1,6 +1,6 @@
 ---
 title: Jess
-featuredImage: /images/uploads/jess28364header.jpg
+featuredImage: /images/uploads/jess28364headernow238964.jpg
 imageThumbnail: /images/uploads/jess329407headhsot.jpg
 firstName: Jess
 collection: Girls
