@@ -3,7 +3,7 @@ title: Gus
 featuredImage: /images/uploads/gusheader239674.jpg
 imageThumbnail: /images/uploads/gus98246.jpg
 firstName: Gus
-collection: KIds
+collection: Boys
 height: 98cm
 measurementType: chest
 bust: 53cm
