@@ -1,8 +1,8 @@
 ---
-title: Emily
+title: Emily P
 featuredImage: /images/uploads/emily2398564headernow897164.jpg
 imageThumbnail: /images/uploads/emily9283523.jpg
-firstName: Emily
+firstName: Emily P
 collection: Women
 height: 175cm
 measurementType: bust
@@ -26,5 +26,7 @@ imagePortfolio:
   - image: /images/uploads/emily230857.jpg
   - image: /images/uploads/emily328965.jpg
   - image: /images/uploads/emily385476.jpg
+meta:
+  title: Emily P
 ---
 
