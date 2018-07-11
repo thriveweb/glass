@@ -16,5 +16,8 @@ imagePortfolio:
   - image: /images/uploads/page080.jpg
   - image: /images/uploads/page083.jpg
   - image: /images/uploads/page081.jpg
+  - image: /images/uploads/tanne.jpg
+  - {}
+  - {}
 ---
 
