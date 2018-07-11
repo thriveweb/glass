@@ -1,7 +1,7 @@
 ---
 title: Mia E
 featuredImage: /images/uploads/mia7.jpg
-imageThumbnail: /images/uploads/mia11.jpg
+imageThumbnail: /images/uploads/mia20.jpg
 firstName: Mia E
 collection: Girls
 height: 151cm
