@@ -4,7 +4,15 @@ featuredImage: /images/uploads/hayden2376489header83674.jpg
 imageThumbnail: /images/uploads/hayden327864.jpg
 firstName: Hayden
 collection: Boys
+height: 138cm
 measurementType: chest
+bust: 61cms
+waist: 59cms
+hips: 65cms
+size: '7'
+shoeSize: '4'
+hair: Blonde
+eyes: Grey
 imagePortfolio:
   - image: /images/uploads/hayden237846.jpg
   - image: /images/uploads/haydeny23746.jpg
