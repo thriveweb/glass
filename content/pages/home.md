@@ -10,7 +10,7 @@ gallery:
   galleryImages:
     - image: /images/uploads/wy7nbxtq.jpg
       title: Women
-    - image: /images/uploads/unspecified.jpg
+    - image: /images/uploads/tanne.jpg
       title: Girls
     - image: /images/uploads/unnamed.jpg
       title: Men
