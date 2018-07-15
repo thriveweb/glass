@@ -8,7 +8,7 @@ buttonText: See our Models
 buttonUrl: models/women
 gallery:
   galleryImages:
-    - image: /images/uploads/gracepel1793.jpeg
+    - image: /images/uploads/wy7nbxtq.jpg
       title: Women
     - image: /images/uploads/201710284327.jpg
       title: Girls
