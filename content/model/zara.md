@@ -6,6 +6,9 @@ firstName: Zara
 collection: Girls
 height: 145cm
 measurementType: bust
+bust: 36 inches
+waist: 28 inches
+hips: 30 inches
 size: '10'
 shoeSize: '3'
 hair: Brown
