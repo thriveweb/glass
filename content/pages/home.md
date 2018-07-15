@@ -10,9 +10,9 @@ gallery:
   galleryImages:
     - image: /images/uploads/wy7nbxtq.jpg
       title: Women
-    - image: /images/uploads/201710284327.jpg
+    - image: /images/uploads/unspecified.jpg
       title: Girls
-    - image: /images/uploads/brayden-front-cover-1-.jpg
+    - image: /images/uploads/unnamed.jpg
       title: Men
     - image: /images/uploads/Bitmap.png
       title: Classic
