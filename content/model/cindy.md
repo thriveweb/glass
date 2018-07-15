@@ -26,5 +26,6 @@ imagePortfolio:
   - image: /images/uploads/unspecified-1.jpg
   - image: /images/uploads/62428f54-25a8-4034-bcc4-6b4771433bce.jpg
   - image: /images/uploads/unspecified-5.jpg
+  - image: /images/uploads/unspecified-3.jpg
 ---
 
