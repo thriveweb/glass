@@ -29,14 +29,16 @@ footer:
       buttonUrl: terms-conditions
   title: Information
 partners:
+  - image: /images/uploads/target-logo.png
   - image: /images/uploads/TSS-Logo.png
-  - image: /images/uploads/st-Hilda's-school-logo.png
   - image: /images/uploads/NICKELODEON_Logo.png
   - image: /images/uploads/footlocker.png
+  - image: /images/uploads/isuzu-logo.png
   - image: /images/uploads/tatts-logo.png
   - image: /images/uploads/ubet-logo.png
   - image: /images/uploads/seaworld logo.png
   - image: /images/uploads/lexus.jpeg
+  - image: /images/uploads/dfo-logo.png
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
