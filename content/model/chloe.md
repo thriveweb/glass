@@ -1,21 +1,26 @@
 ---
 title: Chloe
-featuredImage: /images/uploads/amn_0509.jpg
-imageThumbnail: /images/uploads/amn_0460.jpg
+featuredImage: /images/uploads/chloe2836238764header_.jpg
+imageThumbnail: /images/uploads/chloe238764765.jpg
 firstName: Chloe
-collection: Girls
-height: 117cm
-bust: 59cm
-waist: 53cm
-hips: 56cm
-size: 5-6
-shoeSize: '13'
-hair: Brown
-eyes: Brown
+collection: Women
+height: 180cm
+measurementType: bust
+bust: 84cm
+waist: 65cm
+hips: 81cm
+size: '8'
+shoeSize: '10'
+hair: Light Brown
+eyes: Hazel
 imagePortfolio:
-  - image: /images/uploads/amn_0482.jpg
-  - image: /images/uploads/amn_0475.jpg
-  - image: /images/uploads/amn_0503.jpg
-  - image: /images/uploads/amn_0491.jpg
+  - image: /images/uploads/chloe237864.jpg
+  - image: /images/uploads/chloe128497.jpg
+  - image: /images/uploads/chloe89346.jpg
+  - image: /images/uploads/chloe238764.jpg
+  - image: /images/uploads/chloe83947.jpg
+  - image: /images/uploads/chloe2836238764header_.jpg
+meta:
+  title: Chloe
 ---
 
