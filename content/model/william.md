@@ -1,7 +1,7 @@
 ---
 title: William
-featuredImage: /images/uploads/william832946heder_.jpg
-imageThumbnail: /images/uploads/william49782.jpg
+featuredImage: /images/uploads/film-movie-motion-picture-390089.jpeg
+imageThumbnail: /images/uploads/william8944headshot.jpg
 firstName: William
 collection: Global
 height: 135cm
