@@ -1,6 +1,6 @@
 ---
 title: Chloe
-featuredImage: /images/uploads/chloe2836238764header_.jpg
+featuredImage: /images/uploads/chloe2836headernow23476.jpg
 imageThumbnail: /images/uploads/chloe238764765.jpg
 firstName: Chloe
 collection: Women
