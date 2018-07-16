@@ -1,6 +1,6 @@
 ---
 title: Angela
-featuredImage: /images/uploads/angela8473header_.jpg
+featuredImage: /images/uploads/angelaheader_218937234.jpg
 imageThumbnail: /images/uploads/angela823974.jpg
 firstName: Angela
 collection: Classic
