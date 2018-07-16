@@ -1,9 +1,9 @@
 ---
 title: Angela
-featuredImage: /images/uploads/angelaheader_218937234.jpg
+featuredImage: /images/uploads/film-movie-motion-picture-390089.jpeg
 imageThumbnail: /images/uploads/angela823974.jpg
 firstName: Angela
-collection: Classic
+collection: Global
 height: 164cm
 measurementType: bust
 bust: 36cm
