@@ -14,6 +14,7 @@ hair: Black
 eyes: Dark brown
 imagePortfolio:
   - image: /images/uploads/img_0752.jpg
+  - image: /images/uploads/unnamed-3.jpg
   - image: /images/uploads/unnamed-25-1-.jpg
   - image: /images/uploads/unnamed-23-4-.jpg
   - image: /images/uploads/img_0750.jpg
