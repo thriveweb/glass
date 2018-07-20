@@ -12,7 +12,7 @@ hips: 31inch
 size: kids 12
 shoeSize: '7'
 hair: Dark Brown
-eyes: Brown
+eyes: Green
 imagePortfolio:
   - image: /images/uploads/ysabella-bottani-11.jpg
   - image: /images/uploads/family.jpg
