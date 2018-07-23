@@ -13,6 +13,8 @@ shoeSize: '3'
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/brose.jpg
+  - image: /images/uploads/brose-1.jpg
   - image: /images/uploads/bella-rose-2.jpg
   - image: /images/uploads/unnamed-27.jpg
   - image: /images/uploads/bella-rose-1.jpg
