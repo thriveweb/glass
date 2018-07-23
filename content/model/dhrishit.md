@@ -5,6 +5,10 @@ imageThumbnail: /images/uploads/dhrish2.jpg
 firstName: Dhrishit
 collection: Global
 measurementType: chest
+bust: 23 inch
+waist: 20 inch
+hips: 24inch
+shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
