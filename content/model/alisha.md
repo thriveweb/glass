@@ -4,7 +4,7 @@ featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/alisha-higgins-35.jpg
 firstName: Alisha
 collection: Global
-height: 173cm
+height: 5'7
 measurementType: bust
 bust: 37inch
 waist: 33inch
