@@ -9,8 +9,8 @@ measurementType: bust
 bust: 38inch
 waist: 37inch
 hips: 42inch
-size: '8'
-shoeSize: 10-12
+size: 10-12
+shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
