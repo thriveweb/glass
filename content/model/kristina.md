@@ -1,6 +1,6 @@
 ---
 title: Kristina
-featuredImage: /images/uploads/kris5.jpg
+featuredImage: /images/uploads/krisi.jpg
 imageThumbnail: /images/uploads/kris7.jpg
 firstName: Kristina
 collection: Classic
