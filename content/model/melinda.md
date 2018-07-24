@@ -6,12 +6,12 @@ firstName: Melinda
 collection: Classic
 height: 169cm
 measurementType: bust
-bust: '36'
+bust: ''
 waist: 54cm
 size: '10'
 shoeSize: '8.5'
 hair: Black
-eyes: Brown
+eyes: Blue
 imagePortfolio:
   - image: /images/uploads/mel7.jpg
   - image: /images/uploads/mel1.jpg
