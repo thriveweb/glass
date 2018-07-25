@@ -19,5 +19,9 @@ imagePortfolio:
   - image: /images/uploads/dhrish.jpg
   - image: /images/uploads/drish-4.jpg
   - image: /images/uploads/dhrish2.jpg
+  - image: /images/uploads/dris8.jpg
+  - image: /images/uploads/dris6.jpg
+  - image: /images/uploads/dris7.jpg
+  - image: /images/uploads/dris5.jpg
 ---
 
