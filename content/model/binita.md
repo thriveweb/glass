@@ -1,6 +1,6 @@
 ---
 title: Binita
-featuredImage: /images/uploads/film-movie-motion-picture-390089.jpeg
+featuredImage: /images/uploads/dris7.jpg
 imageThumbnail: /images/uploads/binita.jpg
 firstName: 'Binita '
 collection: Global
@@ -20,5 +20,6 @@ imagePortfolio:
   - image: /images/uploads/binita-3.jpg
   - image: /images/uploads/binita-4.jpg
   - image: /images/uploads/binita-5.jpg
+  - image: /images/uploads/dris5.jpg
 ---
 
