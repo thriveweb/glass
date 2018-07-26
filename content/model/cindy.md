@@ -16,16 +16,11 @@ eyes: Brown
 imagePortfolio:
   - image: /images/uploads/g0afggpq.jpg
   - image: /images/uploads/wy7nbxtq.jpg
-  - image: /images/uploads/unspecified-4.jpg
   - image: /images/uploads/ehfdvyow.jpg
   - image: /images/uploads/sassa_ea.jpg
   - image: /images/uploads/qi0l1tuw.jpg
   - image: /images/uploads/bv5ukb1g.jpg
   - image: /images/uploads/wchiautw.jpg
-  - image: /images/uploads/unspecified-2.jpg
-  - image: /images/uploads/unspecified-1.jpg
   - image: /images/uploads/62428f54-25a8-4034-bcc4-6b4771433bce.jpg
-  - image: /images/uploads/unspecified-5.jpg
-  - image: /images/uploads/unspecified-3.jpg
 ---
 
