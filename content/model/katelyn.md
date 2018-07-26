@@ -1,7 +1,7 @@
 ---
 title: Katelyn
 featuredImage: /images/uploads/katelyn34798headernw192864_.jpg
-imageThumbnail: /images/uploads/katelyn894732.jpg
+imageThumbnail: /images/uploads/katelyn.jpg
 firstName: Katelyn
 collection: Girls
 height: 143cm
