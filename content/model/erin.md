@@ -14,6 +14,8 @@ shoeSize: '12'
 hair: Ginger
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/erin-1.jpg
+  - image: /images/uploads/erin-2.jpg
   - image: /images/uploads/erin12789.jpg
   - image: /images/uploads/erin11.jpg
   - image: /images/uploads/erin2374.jpg
