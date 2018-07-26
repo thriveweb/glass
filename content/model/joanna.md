@@ -25,6 +25,20 @@ imagePortfolio:
   - image: /images/uploads/img_2440.jpg
   - image: /images/uploads/joanna128763.jpg
   - image: /images/uploads/joanna836.jpg
+  - image: /images/uploads/unspecified-1.jpg
+  - image: /images/uploads/unspecified-2.jpg
+  - image: /images/uploads/unspecified-3.jpg
+  - image: /images/uploads/unspecified-4.jpg
+  - image: /images/uploads/unspecified-5.jpg
+  - image: /images/uploads/unspecified-7.jpg
+  - image: /images/uploads/unspecified-8.jpg
+  - image: /images/uploads/unspecified-9.jpg
+  - image: /images/uploads/unspecified-10.jpg
+  - image: /images/uploads/unspecified-11.jpg
+  - image: /images/uploads/unspecified-12.jpg
+  - image: /images/uploads/unspecified-13.jpg
+  - image: /images/uploads/unspecified-14.jpg
+  - image: /images/uploads/unspecified-15.jpg
 meta:
   title: Joanna
 ---
