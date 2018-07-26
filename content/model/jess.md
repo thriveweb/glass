@@ -1,7 +1,7 @@
 ---
 title: Jess
-featuredImage: /images/uploads/jess28364headernow238964.jpg
-imageThumbnail: /images/uploads/jess329407headhsot.jpg
+featuredImage: /images/uploads/jessica-taylor_021.jpg
+imageThumbnail: /images/uploads/jessica-taylor_013.jpg
 firstName: Jess
 collection: Girls
 height: 110cm
