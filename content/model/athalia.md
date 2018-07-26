@@ -23,6 +23,7 @@ imagePortfolio:
   - image: /images/uploads/athelia-16.jpg
   - image: /images/uploads/athelia-11.jpg
   - image: /images/uploads/athalia.jpg
+  - image: /images/uploads/athelia-19.jpg
 meta:
   title: Athalia
 ---
