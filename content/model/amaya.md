@@ -1,0 +1,30 @@
+---
+title: Amaya
+featuredImage: /images/uploads/amaya-3.jpg
+imageThumbnail: /images/uploads/amaya-hs.jpg
+firstName: Amaya
+collection: Global
+height: 162cm
+measurementType: bust
+bust: 78cm
+waist: 63cm
+hips: 88cm
+size: '8'
+shoeSize: '7'
+hair: Blonde
+eyes: Green
+imagePortfolio:
+  - image: /images/uploads/amaya-17.jpg
+  - image: /images/uploads/amaya-13.jpg
+  - image: /images/uploads/amaya-10.jpg
+  - image: /images/uploads/amaya-8.jpg
+  - image: /images/uploads/amaya-4.jpg
+  - image: /images/uploads/amaya-16.jpg
+  - image: /images/uploads/amaya-12.jpg
+  - image: /images/uploads/amaya-5.jpg
+  - image: /images/uploads/amaya-1.jpg
+  - image: /images/uploads/amaya-3.jpg
+meta:
+  title: Amaya
+---
+
