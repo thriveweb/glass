@@ -1,8 +1,8 @@
 ---
-title: Totin
+title: 'Torin '
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/torin.jpg
-firstName: Totin
+firstName: Torin
 collection: Global
 height: 143cm
 measurementType: chest
