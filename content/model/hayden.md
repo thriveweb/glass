@@ -1,6 +1,6 @@
 ---
 title: Hayden
-featuredImage: /images/uploads/hayden2376489header83674.jpg
+featuredImage: /images/uploads/erin-and-hayden.jpg
 imageThumbnail: /images/uploads/hayden327864.jpg
 firstName: Hayden
 collection: Boys
@@ -25,6 +25,8 @@ imagePortfolio:
   - image: /images/uploads/hayden38527638247.jpg
   - image: /images/uploads/hayden23784i687.jpg
   - image: /images/uploads/hayden2376489.jpg
+  - image: /images/uploads/erin-and-hayden-1.jpg
+  - image: /images/uploads/erin-and-hayden.jpg
 meta:
   title: Hayden
 ---
