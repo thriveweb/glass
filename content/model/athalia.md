@@ -23,5 +23,7 @@ imagePortfolio:
   - image: /images/uploads/unspecified-12.jpg
   - image: /images/uploads/unspecified-9.jpg
   - image: /images/uploads/unspecified-10.jpg
+meta:
+  title: Athalia
 ---
 
