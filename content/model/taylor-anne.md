@@ -25,5 +25,13 @@ imagePortfolio:
   - image: /images/uploads/ta9.jpg
   - image: /images/uploads/ta-1.jpg
   - image: /images/uploads/ta11.jpg
+  - image: /images/uploads/taytay-9.jpg
+  - image: /images/uploads/taytay-7.jpg
+  - image: /images/uploads/taytay-5-.jpg
+  - image: /images/uploads/taytay-4.jpg
+  - image: /images/uploads/taytay-1.jpg
+  - image: /images/uploads/taytay-2.jpg
+  - image: /images/uploads/tay-tay-10.jpg
+  - image: /images/uploads/tata-3.jpg
 ---
 
