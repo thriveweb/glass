@@ -32,6 +32,7 @@ imagePortfolio:
   - image: /images/uploads/erin13.jpg
   - image: /images/uploads/erin4723924.jpg
   - image: /images/uploads/erin12.jpg
+  - image: /images/uploads/erin-and-hayden.jpg
   - image: /images/uploads/erin328749.jpg
   - image: /images/uploads/erin6.jpg
   - image: /images/uploads/erin2374890.jpg
@@ -49,7 +50,6 @@ imagePortfolio:
   - image: /images/uploads/erin-570.jpg
   - image: /images/uploads/erin-0199.jpg
   - image: /images/uploads/erin-3238.jpg
-  - image: /images/uploads/erin-and-hayden.jpg
   - image: /images/uploads/erin-and-hayden-1.jpg
 meta:
   title: Erin
