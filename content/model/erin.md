@@ -1,6 +1,6 @@
 ---
 title: Erin
-featuredImage: /images/uploads/erin-and-hayden.jpg
+featuredImage: /images/uploads/erin-and-hayden-1-.jpg
 imageThumbnail: /images/uploads/erin328749.jpg
 firstName: Erin
 collection: Girls
