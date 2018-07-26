@@ -1,7 +1,7 @@
 ---
 title: Athalia
-featuredImage: /images/uploads/unspecified-2.jpg
-imageThumbnail: /images/uploads/unspecified-11.jpg
+featuredImage: /images/uploads/athalia-1.jpg
+imageThumbnail: /images/uploads/athelia-12.jpg
 firstName: Athalia
 collection: Girls
 height: 140cm
@@ -12,17 +12,19 @@ hips: 84cm
 size: Adult 6
 shoeSize: '7'
 imagePortfolio:
-  - image: /images/uploads/unspecified-6.jpg
-  - image: /images/uploads/unspecified-7.jpg
-  - image: /images/uploads/unspecified-1.jpg
-  - image: /images/uploads/unspecified-4.jpg
-  - image: /images/uploads/unspecified-5.jpg
-  - image: /images/uploads/unspecified-8.jpg
-  - image: /images/uploads/unspecified-13.jpg
-  - image: /images/uploads/unspecified-14.jpg
-  - image: /images/uploads/unspecified-12.jpg
-  - image: /images/uploads/unspecified-9.jpg
-  - image: /images/uploads/unspecified-10.jpg
+  - image: /images/uploads/athelia-18.jpg
+  - image: /images/uploads/athelia-4.jpg
+  - image: /images/uploads/athelia-14.jpg
+  - image: /images/uploads/athelia-15.jpg
+  - image: /images/uploads/athelia-5.jpg
+  - image: /images/uploads/athelia-7.jpg
+  - image: /images/uploads/athelia-10.jpg
+  - image: /images/uploads/athelia-17.jpg
+  - image: /images/uploads/athelia-16.jpg
+  - image: /images/uploads/athelia-11.jpg
+  - image: /images/uploads/athalia.jpg
+  - {}
+  - {}
 meta:
   title: Athalia
 ---
