@@ -11,6 +11,8 @@ waist: 66cms
 hips: 84cm
 size: Adult 6
 shoeSize: '7'
+hair: Light Brown
+eyes: Green
 imagePortfolio:
   - image: /images/uploads/athelia-18.jpg
   - image: /images/uploads/athelia-4.jpg
