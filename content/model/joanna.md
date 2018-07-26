@@ -37,6 +37,9 @@ imagePortfolio:
   - image: /images/uploads/joanna-225.jpg
   - image: /images/uploads/joanna-226.jpg
   - image: /images/uploads/joanna-227.jpg
+  - image: /images/uploads/joanna-228.jpg
+  - image: /images/uploads/joanna-229.jpg
+  - image: /images/uploads/joanna-230.jpg
 meta:
   title: Joanna
 ---
