@@ -1,6 +1,6 @@
 ---
 title: Joanna
-featuredImage: /images/uploads/joanna.jpg
+featuredImage: /images/uploads/joanna-111.jpg
 imageThumbnail: /images/uploads/joanna21837.jpg
 firstName: Joanna
 collection: Women
