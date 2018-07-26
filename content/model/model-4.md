@@ -18,7 +18,6 @@ imagePortfolio:
   - image: /images/uploads/ashya-.1.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-1-.jpg
   - image: /images/uploads/ashya.-3.jpg
-  - image: /images/uploads/ayshe.jpg
   - image: /images/uploads/ashya.jpg
   - image: /images/uploads/aysha-6.jpg
   - image: /images/uploads/aysha.jpg
