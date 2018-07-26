@@ -3,7 +3,7 @@ title: Roseli
 featuredImage: /images/uploads/roseli.jpg
 imageThumbnail: /images/uploads/roseli-arruda-50.jpg
 firstName: Roseli
-collection: Classic
+collection: Global
 height: 163cm
 measurementType: bust
 bust: 32inch
