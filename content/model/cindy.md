@@ -1,7 +1,7 @@
 ---
 title: Cindy
 featuredImage: /images/uploads/img_0198.jpg
-imageThumbnail: /images/uploads/elsa1.jpg
+imageThumbnail: /images/uploads/cindy.jpg
 firstName: Cindy
 collection: Women
 height: 174cm
