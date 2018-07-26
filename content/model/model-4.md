@@ -5,6 +5,7 @@ imageThumbnail: /images/uploads/ayshe.jpg
 firstName: 'Aysha '
 collection: Women
 height: 173cm
+measurementType: bust
 bust: 83cm
 waist: 61cm
 hips: 83cm
@@ -19,5 +20,13 @@ imagePortfolio:
   - image: /images/uploads/ashya.-3.jpg
   - image: /images/uploads/ayshe.jpg
   - image: /images/uploads/ashya.jpg
+  - image: /images/uploads/aysha-6.jpg
+  - image: /images/uploads/aysha.jpg
+  - image: /images/uploads/aysha-1.jpg
+  - image: /images/uploads/aysha-3.jpg
+  - image: /images/uploads/aysha-4.jpg
+  - image: /images/uploads/aysha-7.jpg
+meta:
+  title: Aysha
 ---
 
