@@ -2,7 +2,7 @@
 title: Luke
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/luke-mandrakas-41.jpg
-firstName: Luke
+firstName: Luke M
 collection: Global
 height: 182cm
 measurementType: chest
