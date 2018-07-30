@@ -1,23 +1,25 @@
 ---
-title: Luke M
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/luke-mandrakas-41.jpg
-firstName: Luke M
-collection: Global
-height: 182cm
+title: Luke
+featuredImage: /images/uploads/luke2.jpg
+imageThumbnail: /images/uploads/dsc02491-5-1-2.jpg
+firstName: Luke
+collection: Men
+height: 190cm
 measurementType: chest
-bust: 41inch
-waist: 36inch
-hips: 39inch
-size: L
-shoeSize: '11'
-hair: Brown
+bust: 105cm
+waist: 86cm
+hips: 86cm
+size: 34 pant L shirt
+shoeSize: '12'
+hair: Light Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/luke-mandrakas-41.jpg
-  - image: /images/uploads/mandrakas-family.jpg
-  - image: /images/uploads/mandrakas-couple.jpg
-meta:
-  title: Luke
+  - image: /images/uploads/luke.jpg
+  - image: /images/uploads/dsc02491-5-1-2.jpg
+  - image: /images/uploads/luke3-.jpg
+  - image: /images/uploads/final-edit_shot-4_6623_preview.jpg
+  - image: /images/uploads/final-edit_shot1_6066_preview.jpg
+  - image: /images/uploads/final-edit_shot1_6215_preview.jpg
+  - image: /images/uploads/final-edit_shot2_6365-1_preview.jpg
 ---
 
