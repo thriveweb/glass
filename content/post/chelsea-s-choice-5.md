@@ -28,7 +28,7 @@ content: >-
   - a script for you to learn.
 
 
-  It is _crucial_ that you learn your lines _**off by heart**_. Unlike America
+  It is _crucial_ that you learn your lines **_off by heart_**. Unlike America
   (where you can hold your script in hand in a Self Tape and Casting) it is
   _highly recommended_ here in Australia that you do not keep your script in
   hand.
@@ -68,10 +68,6 @@ content: >-
 
 
   _Thanks for reading!_
-
-
-  **Stay tuned for next week’s blog as I will be talking about Dialect/Voice
-  Performance and Coaching!**
 meta:
   title: 'Chelsea''s Choice #5'
 ---
