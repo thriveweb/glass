@@ -17,7 +17,9 @@ imagePortfolio:
   - image: /images/uploads/zara.jpeg
   - image: /images/uploads/zara5.jpg
   - image: /images/uploads/zara4.jpg
+  - image: /images/uploads/zara6.jpg
   - image: /images/uploads/zara3.jpeg
+  - image: /images/uploads/zara7.jpg
   - image: /images/uploads/zara2.jpeg
   - image: /images/uploads/zara1.jpeg
 ---
