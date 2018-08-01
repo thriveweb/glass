@@ -4,15 +4,15 @@ featuredImage: /images/uploads/athalia-1.jpg
 imageThumbnail: /images/uploads/athelia-15.jpg
 firstName: Athalia
 collection: Girls
-height: 140cm
+height: 160cm
 measurementType: bust
 bust: 75cm
 waist: 66cms
-hips: 84cm
-size: Adult 6
+hips: 78cm
+size: Kids 14
 shoeSize: '7'
 hair: Light Brown
-eyes: Green
+eyes: Hazel
 imagePortfolio:
   - image: /images/uploads/athelia-8.jpg
   - image: /images/uploads/athelia-4.jpg
