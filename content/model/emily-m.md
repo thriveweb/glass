@@ -1,6 +1,6 @@
 ---
 title: Emily M
-featuredImage: /images/uploads/emily-m23678239234.jpg
+featuredImage: /images/uploads/film-movie-motion-picture-390089.jpeg
 imageThumbnail: /images/uploads/emily-m6751283.jpg
 firstName: Emily M
 collection: Global
