@@ -3,7 +3,7 @@ title: Dhrishit
 featuredImage: /images/uploads/dhrish1.jpg
 imageThumbnail: /images/uploads/dris.jpg
 firstName: Dhrishit
-collection: Boys
+collection: Global
 measurementType: chest
 bust: 23 inch
 waist: 20 inch
