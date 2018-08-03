@@ -1,7 +1,7 @@
 ---
 title: Harper
 featuredImage: /images/uploads/amn_1097_preview.jpg
-imageThumbnail: /images/uploads/amn_1096_preview.jpg
+imageThumbnail: /images/uploads/harper-headshot.jpg
 firstName: Harper
 collection: Boys
 height: 145cm
