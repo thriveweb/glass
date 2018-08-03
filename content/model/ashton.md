@@ -4,7 +4,10 @@ featuredImage: /images/uploads/ashton726839832.jpg
 imageThumbnail: /images/uploads/amn_6981-1-.jpg
 firstName: Ashton
 collection: Boys
-size: '4'
+height: 121cm
+measurementType: chest
+size: '6'
+shoeSize: '2'
 hair: Dark Brown
 eyes: Hazel
 imagePortfolio:
