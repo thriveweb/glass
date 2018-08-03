@@ -1,6 +1,6 @@
 ---
 title: Luciana
-featuredImage: /images/uploads/luciana61723823456.jpg
+featuredImage: /images/uploads/luc2.jpg
 imageThumbnail: /images/uploads/luciana236478.jpg
 firstName: Luciana
 collection: Classic
