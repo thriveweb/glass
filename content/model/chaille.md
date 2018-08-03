@@ -4,7 +4,7 @@ featuredImage: /images/uploads/chaille2394867q34.jpg
 imageThumbnail: /images/uploads/chaille9083763.jpg
 firstName: Chaille
 collection: Classic
-height: 152cm
+height: 178cm
 measurementType: bust
 bust: 87cm
 waist: 67cm
