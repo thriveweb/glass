@@ -1,7 +1,7 @@
 ---
 title: Athalia
 featuredImage: /images/uploads/athalia-1.jpg
-imageThumbnail: /images/uploads/athelia-15.jpg
+imageThumbnail: /images/uploads/athalia20.jpg
 firstName: Athalia
 collection: Girls
 height: 160cm
@@ -15,6 +15,8 @@ hair: Light Brown
 eyes: Hazel
 imagePortfolio:
   - image: /images/uploads/athelia-8.jpg
+  - image: /images/uploads/athalia21.jpg
+  - image: /images/uploads/athalia22.jpg
   - image: /images/uploads/athelia-4.jpg
   - image: /images/uploads/athelia-14.jpg
   - image: /images/uploads/athelia-7.jpg
