@@ -33,6 +33,7 @@ imagePortfolio:
   - image: /images/uploads/laila-ashton4623789.jpg
   - image: /images/uploads/laila-ashton26347829.jpg
   - image: /images/uploads/laila-ashtont7234823.jpg
+  - image: /images/uploads/amn_7043.jpg
 meta:
   title: Laila
 ---
