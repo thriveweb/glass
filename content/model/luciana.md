@@ -18,8 +18,9 @@ imagePortfolio:
   - image: /images/uploads/luciana2367438.jpg
   - image: /images/uploads/luciana617238.jpg
   - image: /images/uploads/luciana236478.jpg
-  - image: /images/uploads/luciana325676278.jpg
+  - image: /images/uploads/luc.jpg
   - image: /images/uploads/luciana3267829.jpg
+  - {}
 meta:
   title: Luciana
 ---
