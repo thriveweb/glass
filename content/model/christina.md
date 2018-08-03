@@ -1,6 +1,6 @@
 ---
 title: Christina
-featuredImage: /images/uploads/christina326782123.jpg
+featuredImage: /images/uploads/film-movie-motion-picture-390089.jpeg
 imageThumbnail: /images/uploads/christina67382.jpg
 firstName: Christina
 collection: Global
