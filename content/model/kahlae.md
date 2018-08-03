@@ -11,8 +11,8 @@ waist: 51cm
 hips: 61cm
 size: '7'
 shoeSize: '12'
-hair: Brown
-eyes: Blonde
+hair: Blonde
+eyes: Dark Brown
 imagePortfolio:
   - image: /images/uploads/kahlae32648783.jpg
   - image: /images/uploads/kahlae3412873.jpg
