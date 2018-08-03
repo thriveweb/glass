@@ -4,7 +4,13 @@ featuredImage: /images/uploads/gabbi361728.jpg
 imageThumbnail: /images/uploads/gabbi2367829.jpg
 firstName: Gabbi
 collection: Girls
+height: 138cm
 measurementType: bust
+bust: 68cm
+waist: 61cm
+hips: 73cm
+size: '8'
+shoeSize: '3'
 hair: Light Brown
 eyes: Green
 imagePortfolio:
