@@ -1,7 +1,7 @@
 ---
 title: Abigail
 featuredImage: /images/uploads/abigail6234789111111.jpg
-imageThumbnail: /images/uploads/abigail432187633.jpg
+imageThumbnail: /images/uploads/abigail432187633222222222222.jpg
 firstName: Abigail
 collection: Women
 height: 176cm
