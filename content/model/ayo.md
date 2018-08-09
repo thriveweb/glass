@@ -31,6 +31,8 @@ imagePortfolio:
   - image: /images/uploads/ayo24643827624.jpg
   - image: /images/uploads/ayo87234689327643.jpg
   - image: /images/uploads/ayo23786472.jpg
+  - image: /images/uploads/kayoda-10.jpg
+  - image: /images/uploads/kayoda-3.jpg
 meta:
   title: Ayo
 ---
