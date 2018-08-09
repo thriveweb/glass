@@ -12,7 +12,7 @@ hips: 81cms
 size: Size 14 Kids
 shoeSize: '9.5'
 hair: Blonde
-eyes: Blue
+eyes: Brown
 imagePortfolio:
   - image: /images/uploads/tom-7.jpg
   - image: /images/uploads/tommy.jpg
