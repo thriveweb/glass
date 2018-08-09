@@ -23,5 +23,7 @@ imagePortfolio:
   - image: /images/uploads/zara2.jpeg
   - image: /images/uploads/zara1.jpeg
   - image: /images/uploads/zara36q7283456.jpg
+meta:
+  title: Zara
 ---
 
