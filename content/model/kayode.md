@@ -14,6 +14,12 @@ imagePortfolio:
   - image: /images/uploads/kayode287348732.jpg
   - image: /images/uploads/kayode837429.jpg
   - image: /images/uploads/kayode3126378244.jpg
+  - image: /images/uploads/kayoda-2.jpg
+  - image: /images/uploads/kayoda-9.jpg
+  - image: /images/uploads/kayoda-7.jpg
+  - image: /images/uploads/kayoda-4.jpg
+  - image: /images/uploads/kayoda-3.jpg
+  - image: /images/uploads/kayoda-10.jpg
 meta:
   title: Kayode
 ---
