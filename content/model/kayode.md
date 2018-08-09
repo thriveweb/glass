@@ -3,7 +3,7 @@ title: Kayode
 featuredImage: /images/uploads/kayode31263782441111111.jpg
 imageThumbnail: /images/uploads/kayode87989432.jpg
 firstName: Kayode
-collection: Boy
+collection: Boys
 measurementType: chest
 imagePortfolio:
   - image: /images/uploads/kayode487639.jpg
