@@ -19,5 +19,11 @@ imagePortfolio:
   - image: /images/uploads/jasmine-colicchia-mmfs-2_preview.jpg
   - image: /images/uploads/jasmine-colicchia-mmfs-9_preview.jpg
   - image: /images/uploads/jasmine-colicchia-mmfs-4_preview.jpg
+  - image: /images/uploads/jasmine3264871989.jpg
+  - image: /images/uploads/jasmine67234718.jpg
+  - image: /images/uploads/jasmine4873268.jpg
+  - image: /images/uploads/jasmine3274890.jpg
+meta:
+  title: Jasmine C
 ---
 
