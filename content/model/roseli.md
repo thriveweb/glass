@@ -17,6 +17,10 @@ imagePortfolio:
   - image: /images/uploads/roseli-arruda-50.jpg
   - image: /images/uploads/roseli2.jpg
   - image: /images/uploads/roseli1.jpg
+  - image: /images/uploads/roseli.jpg
+  - image: /images/uploads/roseli-2.jpg
+  - image: /images/uploads/roseli-4.jpg
+  - image: /images/uploads/roseli-6.jpg
 meta:
   title: Roseli
 ---
