@@ -18,6 +18,10 @@ imagePortfolio:
   - image: /images/uploads/gabbi2346789.jpg
   - image: /images/uploads/gabbi2367829.jpg
   - image: /images/uploads/gabbi236178.jpg
+  - image: /images/uploads/gabbi.png
+  - image: /images/uploads/gabbi-3.png
+  - image: /images/uploads/gabbi-4.png
+  - image: /images/uploads/gabbi-2.png
 meta:
   title: Gabbi
 ---
