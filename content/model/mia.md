@@ -1,8 +1,8 @@
 ---
-title: Mia
+title: Mia T
 featuredImage: /images/uploads/mia11banener213.jpg
 imageThumbnail: /images/uploads/mia9.jpg
-firstName: Mia
+firstName: Mia T
 collection: Girls
 height: 169cm
 bust: 76cm
