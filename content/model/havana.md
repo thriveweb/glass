@@ -7,7 +7,7 @@ collection: Girls
 size: '7'
 shoeSize: 11-12
 hair: Light Brown
-eyes: Brown
+eyes: Blue
 imagePortfolio:
   - image: /images/uploads/havana.webp
   - image: /images/uploads/havana-6.webp
