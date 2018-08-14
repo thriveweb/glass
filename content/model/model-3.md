@@ -8,11 +8,12 @@ height: 173cm
 bust: 83cm
 waist: 60cm
 hips: 87cm
-size: '10'
+size: '8'
 shoeSize: '9'
 hair: Blonde
 eyes: Green
 imagePortfolio:
+  - image: /images/uploads/paris-her-shadow-new.jpg
   - image: /images/uploads/img_3750.jpg
   - image: /images/uploads/201804098304_preview.jpg
   - image: /images/uploads/201804098330_preview.jpg
