@@ -10,12 +10,12 @@
 }
 
 .section--partners-icon {
-	flex: 1;
+	flex: 0 0 8%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin-right: calc(20% / 4);
-	margin-bottom: 2rem;
+	margin-right: calc(20% / 9);
+	margin-bottom: 3rem;
 }
 
 .section--partners-icon:last-of-type{
@@ -28,6 +28,12 @@
 	width: 100%;
 }
 
+@media only screen and (max-width: 600px) {
+	.section--partners-icon {
+		flex: 0 0 15%;
+		margin-right: calc(20% / 5);
+	}
+}
 
 
 
