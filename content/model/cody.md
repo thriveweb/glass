@@ -19,5 +19,6 @@ imagePortfolio:
   - image: /images/uploads/5.jpg
   - image: /images/uploads/4.jpg
   - image: /images/uploads/c7.jpg
+  - image: /images/uploads/cody-111.jpeg
 ---
 
