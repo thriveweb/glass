@@ -12,14 +12,14 @@ gallery:
       title: Women
     - image: /images/uploads/tanne.jpg
       title: Girls
+    - image: /images/uploads/globe-1290378_1920.jpg
+      title: Global
     - image: /images/uploads/unnamed.jpg
       title: Men
     - image: /images/uploads/Bitmap.png
       title: Classic
     - image: /images/uploads/unnamed-14.jpg
       title: Boys
-    - image: /images/uploads/globe-1290378_1920.jpg
-      title: Global
   subTitle: Our Models
   title: Explore Our Models
 about:
