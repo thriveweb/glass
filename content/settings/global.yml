@@ -39,6 +39,7 @@ partners:
   - image: /images/uploads/seaworld logo.png
   - image: /images/uploads/lexus.jpeg
   - image: /images/uploads/dfo-logo.png
+  - image: /images/uploads/samsung-logo.jpg
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
