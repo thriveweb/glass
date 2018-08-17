@@ -13,5 +13,6 @@ imagePortfolio:
   - image: /images/uploads/zivah.jpg
   - image: /images/uploads/zivah-3.jpg
   - image: /images/uploads/zivah2.jpg
+  - image: /images/uploads/vusa-fam.jpg
 ---
 
