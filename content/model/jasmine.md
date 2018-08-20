@@ -6,9 +6,9 @@ firstName: Jasmine C
 collection: Girls
 height: 139cm
 measurementType: bust
-bust: 58cm
-waist: 50cm
-hips: 58cms
+bust: 59cm
+waist: 51cm
+hips: 59cms
 size: '8'
 shoeSize: '2'
 hair: Brown
