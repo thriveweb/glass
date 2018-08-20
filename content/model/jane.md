@@ -24,5 +24,7 @@ imagePortfolio:
   - image: /images/uploads/unspecified-copy.jpg
   - image: /images/uploads/unspecified-copy-6.jpg
   - {}
+meta:
+  title: Jane
 ---
 
