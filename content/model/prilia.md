@@ -16,5 +16,7 @@ eyes: Brown
 imagePortfolio:
   - image: /images/uploads/prilia-3.jpg
   - image: /images/uploads/prilia-2.jpg
+meta:
+  title: Prilia
 ---
 
