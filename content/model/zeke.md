@@ -21,6 +21,7 @@ imagePortfolio:
   - image: /images/uploads/zeke-4.png
   - image: /images/uploads/zeke-5.png
   - image: /images/uploads/zeke-12.png
+  - image: /images/uploads/zeke-8.png
 meta:
   title: Zeke
 ---
