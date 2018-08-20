@@ -33,5 +33,11 @@ imagePortfolio:
   - image: /images/uploads/taytay-2.jpg
   - image: /images/uploads/tay-tay-10.jpg
   - image: /images/uploads/tata-3.jpg
+  - image: /images/uploads/tay-1.jpg
+  - image: /images/uploads/tay-4.jpg
+  - image: /images/uploads/tay-8.jpg
+  - image: /images/uploads/tay12.jpg
+  - image: /images/uploads/tay-1.jpg
+  - image: /images/uploads/tay-6.jpg
 ---
 
