@@ -1,6 +1,6 @@
 ---
 title: 'Chelsea''s Choice #7'
-image: /images/uploads/chelsea-choice-s-like.jpeg
+image: /images/uploads/chelsea-choice-s-social-media124iu.jpeg
 collection: 'Social Media #2'
 author: Chelsea
 date: 21st August 2018
