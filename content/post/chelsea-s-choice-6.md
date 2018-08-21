@@ -1,7 +1,7 @@
 ---
 title: 'Chelsea''s Choice #6'
 image: /images/uploads/twitter-facebook-together-exchange-of-information-147413.jpeg
-collection: Social Media
+collection: 'Social Media #1'
 author: Chelsea
 date: 7th August 2018
 content: >-
