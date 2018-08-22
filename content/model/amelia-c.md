@@ -3,7 +3,7 @@ title: Amelia C
 featuredImage: /images/uploads/amn_0509.jpg
 imageThumbnail: /images/uploads/amn_0433.jpg
 firstName: Amelia C
-collection: Girls
+collection: Global
 height: 156cm
 bust: 82cm
 waist: 69cm
