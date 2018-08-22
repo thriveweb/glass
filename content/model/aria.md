@@ -3,7 +3,7 @@ title: Aria
 featuredImage: /images/uploads/sue-s-family-14.jpg
 imageThumbnail: /images/uploads/sue-s-family-6.jpg
 firstName: Aria
-collection: Girls
+collection: Global
 size: '10'
 shoeSize: '8'
 hair: Light Brown
