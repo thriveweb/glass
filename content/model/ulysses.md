@@ -19,6 +19,8 @@ imagePortfolio:
   - image: /images/uploads/ulysses238974.jpg
   - image: /images/uploads/ulysses32872.jpg
   - image: /images/uploads/ulysses98238467.jpg
+  - image: /images/uploads/uly11.jpg
+  - {}
 meta:
   title: Ulysses
 ---
