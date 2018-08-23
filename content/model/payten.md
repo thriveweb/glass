@@ -1,6 +1,6 @@
 ---
 title: Payten
-featuredImage: /images/uploads/payten2346782391111.jpg
+featuredImage: /images/uploads/payten-3.jpeg
 imageThumbnail: /images/uploads/payten32648793124325364511.jpg
 firstName: Payten
 collection: Girls
@@ -15,8 +15,8 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/payten32648793.jpeg
-  - image: /images/uploads/payten3246879.jpeg
   - image: /images/uploads/payten234678239.jpeg
+  - image: /images/uploads/payten3246879.jpeg
 meta:
   title: Payten
 ---
