@@ -1,0 +1,23 @@
+---
+title: Payten
+featuredImage: /images/uploads/payten2346782391111.jpg
+imageThumbnail: /images/uploads/payten32648793124325364511.jpg
+firstName: Payten
+collection: Girls
+height: 135cn
+measurementType: bust
+bust: 70cm
+waist: 65cm
+hips: 72cm
+size: '8'
+shoeSize: '2'
+hair: Blonde
+eyes: Blue
+imagePortfolio:
+  - image: /images/uploads/payten32648793.jpeg
+  - image: /images/uploads/payten3246879.jpeg
+  - image: /images/uploads/payten234678239.jpeg
+meta:
+  title: Payten
+---
+
