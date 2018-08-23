@@ -1,6 +1,6 @@
 ---
 title: Holly
-featuredImage: /images/uploads/holly-7.jpg
+featuredImage: /images/uploads/holly-6.jpg
 imageThumbnail: /images/uploads/holly-hs.jpg
 firstName: Holly
 collection: Global
