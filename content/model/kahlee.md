@@ -1,7 +1,7 @@
 ---
 title: Kahlee
 featuredImage: /images/uploads/kahleeheader236748123921.jpg
-imageThumbnail: /images/uploads/kahlee83748headshot__dhjsfkd.jpg
+imageThumbnail: /images/uploads/kahlee-her-shadow-1.jpg
 firstName: Kahlee
 collection: Women
 height: 176cm
