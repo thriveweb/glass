@@ -14,6 +14,7 @@ hair: Light Brown
 eyes: Hazel
 imagePortfolio:
   - image: /images/uploads/adrian4378329.jpg
+  - image: /images/uploads/adrian-1.jpeg
   - image: /images/uploads/adrian384092.jpg
   - image: /images/uploads/adrian423789801.jpg
   - image: /images/uploads/adrian423901.jpg
