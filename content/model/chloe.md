@@ -1,8 +1,8 @@
 ---
-title: Chloe
+title: Chloe S
 featuredImage: /images/uploads/chloe2836headernow23476.jpg
 imageThumbnail: /images/uploads/chloe238764765.jpg
-firstName: Chloe
+firstName: Chloe S
 collection: Women
 height: 180cm
 measurementType: bust
