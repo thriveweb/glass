@@ -25,5 +25,7 @@ imagePortfolio:
   - image: /images/uploads/felix10.jpg
   - image: /images/uploads/katie-1_preview.jpg
   - image: /images/uploads/katiehooper-53_preview.jpg
+  - image: /images/uploads/vivi-target.jpg
+  - image: /images/uploads/vivi-target-3.jpg
 ---
 
