@@ -15,7 +15,9 @@ hair: Light Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/jess3894.jpg
+  - image: /images/uploads/jess-target-3.jpg
   - image: /images/uploads/jess329407.jpg
+  - image: /images/uploads/jess-target-.jpg
   - image: /images/uploads/jess89134.jpg
   - image: /images/uploads/jess2184o7.jpg
   - image: /images/uploads/jess238942.jpg
