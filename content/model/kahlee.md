@@ -1,0 +1,30 @@
+---
+title: Kahlee
+featuredImage: /images/uploads/kahleeheader236748123921.jpg
+imageThumbnail: /images/uploads/kahlee83748headshot__dhjsfkd.jpg
+firstName: Kahlee
+collection: Women
+height: 176cm
+measurementType: bust
+bust: 82cm
+waist: 63cm
+hips: 87cm
+size: 6-8
+shoeSize: '8'
+hair: Ombre
+eyes: Hazel
+imagePortfolio:
+  - image: /images/uploads/kahlee32476882108.jpeg
+  - image: /images/uploads/kahlee872346.jpeg
+  - image: /images/uploads/kahlee462738239.jpeg
+  - image: /images/uploads/kahlee782349.jpeg
+  - image: /images/uploads/kahlee27198.jpeg
+  - image: /images/uploads/kahlee237864.jpeg
+  - image: /images/uploads/kahlee3487394q3.jpeg
+  - image: /images/uploads/kahlee43847q.jpeg
+  - image: /images/uploads/kahlee59348724.jpeg
+  - image: /images/uploads/kahlee4876342.jpeg
+meta:
+  title: Kahlee
+---
+
