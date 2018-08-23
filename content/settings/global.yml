@@ -41,6 +41,8 @@ partners:
   - image: /images/uploads/dfo-logo.png
   - image: /images/uploads/samsung-logo.jpg
   - image: /images/uploads/city-beach-logo.png
+  - image: /images/uploads/jetpilot-sticker-corporate-20-pack.jpg
+  - image: /images/uploads/download.png
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
