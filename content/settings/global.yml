@@ -40,6 +40,7 @@ partners:
   - image: /images/uploads/lexus.jpeg
   - image: /images/uploads/dfo-logo.png
   - image: /images/uploads/samsung-logo.jpg
+  - image: /images/uploads/city-beach-logo.png
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
