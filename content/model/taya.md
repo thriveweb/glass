@@ -21,5 +21,6 @@ imagePortfolio:
   - image: /images/uploads/t6.jpg
   - image: /images/uploads/t9.jpg
   - image: /images/uploads/t7.jpg
+  - image: /images/uploads/taya-target.jpg
 ---
 
