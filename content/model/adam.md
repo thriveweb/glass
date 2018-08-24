@@ -29,5 +29,7 @@ imagePortfolio:
   - image: /images/uploads/adam-6.webp
   - image: /images/uploads/adam-112.jpg
   - image: /images/uploads/adam-115.jpg
+meta:
+  title: Adam
 ---
 
