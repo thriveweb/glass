@@ -1,7 +1,7 @@
 ---
 title: Adam
 featuredImage: /images/uploads/adam-10.jpg
-imageThumbnail: /images/uploads/adam7.jpg
+imageThumbnail: /images/uploads/adam-her-shadow.jpg
 firstName: Adam
 collection: Men
 height: 182cm
@@ -13,6 +13,7 @@ shoeSize: '9'
 hair: Black
 eyes: Brown
 imagePortfolio:
+  - image: /images/uploads/adam-111.jpg
   - image: /images/uploads/img_3219.jpg
   - image: /images/uploads/adam8.jpg
   - image: /images/uploads/img_3232.jpg
@@ -24,5 +25,9 @@ imagePortfolio:
   - image: /images/uploads/h92a3682.jpg
   - image: /images/uploads/adam-3.webp
   - image: /images/uploads/adam-5.webp
+  - image: /images/uploads/adam-113.jpg
   - image: /images/uploads/adam-6.webp
+  - image: /images/uploads/adam-112.jpg
+  - image: /images/uploads/adam-115.jpg
 ---
+
