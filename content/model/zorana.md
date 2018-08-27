@@ -6,9 +6,9 @@ firstName: Zorana
 collection: Girls
 height: 168cm
 measurementType: bust
-bust: 32cm
-waist: 26cm
-hips: 36cm
+bust: 81cm
+waist: 66cm
+hips: 91cm
 size: '8'
 shoeSize: '7'
 hair: Blonde
