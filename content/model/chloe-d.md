@@ -3,7 +3,7 @@ title: Chloe D
 featuredImage: /images/uploads/amn_0475.jpg
 imageThumbnail: /images/uploads/amn_0460.jpg
 firstName: Chloe D
-collection: Globalbal
+collection: Global
 measurementType: bust
 size: '6'
 hair: 'Brown '
