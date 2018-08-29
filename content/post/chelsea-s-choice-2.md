@@ -53,6 +53,7 @@ content: >-
 
   ![null](/images/uploads/img_0863.jpg)
 meta:
+  description: A blog written by our 16 year old intern.
   title: 'Chelsea''s Choice #2'
 ---
 
