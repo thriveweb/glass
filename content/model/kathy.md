@@ -1,7 +1,7 @@
 ---
 title: Kathy
-featuredImage: /images/uploads/kathy.jpg
-imageThumbnail: /images/uploads/kathy-her-shadow.jpg
+featuredImage: /images/uploads/kath-4.jpg
+imageThumbnail: /images/uploads/kathy-her-shadow-1-.jpg
 firstName: Kathy
 collection: Global
 height: 165cm
