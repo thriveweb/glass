@@ -1,6 +1,6 @@
 ---
 title: Kayla
-featuredImage: /images/uploads/kaylaa-2.jpg
+featuredImage: /images/uploads/kaylaa-2-1-.jpg
 imageThumbnail: /images/uploads/kaylaa-3.jpg
 firstName: Kayla
 collection: Girls
