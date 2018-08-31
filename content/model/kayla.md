@@ -1,7 +1,7 @@
 ---
 title: Kayla
-featuredImage: /images/uploads/film-movie-motion-picture-390089.jpeg
-imageThumbnail: /images/uploads/kayla26378129.jpg
+featuredImage: /images/uploads/kaylaa-2.jpg
+imageThumbnail: /images/uploads/kaylaa-3.jpg
 firstName: Kayla
 collection: Global
 height: 172cm
@@ -14,9 +14,13 @@ shoeSize: '6'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/kayla42783.jpg
-  - image: /images/uploads/kaylae783192.jpg
-  - image: /images/uploads/kayla26378129.jpg
+  - image: /images/uploads/kayla-7.jpg
+  - image: /images/uploads/kaylaa-5.jpg
+  - image: /images/uploads/kaylaa-7.jpg
+  - image: /images/uploads/kaylaa-4.jpg
+  - image: /images/uploads/kayla-2.jpg
+  - image: /images/uploads/kayla-5.jpg
+  - {}
 meta:
   title: Kayla
 ---
