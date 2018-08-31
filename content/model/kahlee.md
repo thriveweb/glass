@@ -24,6 +24,8 @@ imagePortfolio:
   - image: /images/uploads/kahlee43847q.jpeg
   - image: /images/uploads/kahlee59348724.jpeg
   - image: /images/uploads/kahlee4876342.jpeg
+  - image: /images/uploads/kahlee-111.jpeg
+  - image: /images/uploads/kahlee-1112.jpeg
 meta:
   title: Kahlee
 ---
