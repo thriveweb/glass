@@ -83,7 +83,7 @@ featuredPosts:
   blogPosts:
     - collection: Mothers Day Catwalk Show
     - collection: Sanctuary Cove Boat Show
-    - collection: 'Chelsea''s Choice #7'
+    - collection: 'Chelsea''s Choice #8'
   subTitle: Our Journal
   title: Read Our Latest News
 ---
