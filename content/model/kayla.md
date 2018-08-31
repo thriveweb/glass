@@ -3,7 +3,7 @@ title: Kayla
 featuredImage: /images/uploads/kaylaa-2.jpg
 imageThumbnail: /images/uploads/kaylaa-3.jpg
 firstName: Kayla
-collection: Global
+collection: Girls
 height: 172cm
 measurementType: bust
 bust: 84cm
