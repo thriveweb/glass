@@ -20,7 +20,6 @@ imagePortfolio:
   - image: /images/uploads/kaylaa-4.jpg
   - image: /images/uploads/kayla-2.jpg
   - image: /images/uploads/kayla-5.jpg
-  - {}
 meta:
   title: Kayla
 ---
