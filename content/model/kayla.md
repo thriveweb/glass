@@ -9,15 +9,12 @@ measurementType: bust
 bust: 84cm
 waist: 65cm
 hips: 70cm
-size: '9'
-shoeSize: '6'
+size: '6'
+shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/kayla-7.jpg
-  - image: /images/uploads/kaylaa-7.jpg
-  - image: /images/uploads/kaylaa-5.jpg
-  - image: /images/uploads/kaylaa-3.jpg
   - image: /images/uploads/kayla-9.jpg
   - image: /images/uploads/kaylaa-4.jpg
   - image: /images/uploads/kayla-5.jpg
