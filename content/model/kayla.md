@@ -18,9 +18,10 @@ imagePortfolio:
   - image: /images/uploads/kayla-9.jpg
   - image: /images/uploads/kaylaa-4.jpg
   - image: /images/uploads/kayla-5.jpg
-  - image: /images/uploads/kayla-2.jpg
   - image: /images/uploads/kayla-11.jpg
-  - {}
+  - image: /images/uploads/kayla-2.jpg
+  - image: /images/uploads/kaylaa-3.jpg
+  - image: /images/uploads/kayla-12.jpg
 meta:
   title: Kayla
 ---
