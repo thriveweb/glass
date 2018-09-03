@@ -1,7 +1,7 @@
 ---
 title: Kayla
 featuredImage: /images/uploads/kaylaa-2-1-.jpg
-imageThumbnail: /images/uploads/kayla-5.jpg
+imageThumbnail: /images/uploads/novasoma-photography-4.jpg
 firstName: Kayla
 collection: Girls
 height: 172cm
@@ -16,12 +16,17 @@ eyes: Green
 imagePortfolio:
   - image: /images/uploads/kayla-7.jpg
   - image: /images/uploads/kayla-9.jpg
-  - image: /images/uploads/kaylaa-4.jpg
+  - image: /images/uploads/kayla-4.jpg
   - image: /images/uploads/kayla-5.jpg
   - image: /images/uploads/kayla-11.jpg
   - image: /images/uploads/kayla-2.jpg
-  - image: /images/uploads/kaylaa-3.jpg
+  - image: /images/uploads/novasoma-photography-3.jpg
   - image: /images/uploads/kayla-12.jpg
+  - image: /images/uploads/novasoma-photography-3.jpg
+  - image: /images/uploads/novasoma-photography-2.jpg
+  - image: /images/uploads/novasoma-photography-15.jpg
+  - image: /images/uploads/novasoma-photography-23.jpg
+  - image: /images/uploads/novasoma-photography-13.jpg
 meta:
   title: Kayla
 ---
