@@ -12,7 +12,7 @@ hips: 70cm
 size: '6'
 shoeSize: '9'
 hair: Brown
-eyes: Brown
+eyes: Green
 imagePortfolio:
   - image: /images/uploads/kayla-7.jpg
   - image: /images/uploads/kayla-9.jpg
