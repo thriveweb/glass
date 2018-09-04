@@ -1,7 +1,7 @@
 ---
 title: Portia
 featuredImage: /images/uploads/portia8.jpg
-imageThumbnail: /images/uploads/portia13.jpg
+imageThumbnail: /images/uploads/portia-hs.jpg
 firstName: Portia
 collection: Women
 height: 173cm
