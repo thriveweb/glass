@@ -12,10 +12,9 @@ teamMembers:
       Shows. This has led her to both a national and international career path.
 
 
-      Over the past two and a half years, Tegan has been able to successfully
-      infiltrate herself into the Queensland market place with high end fashion
-      labels, national brands, feature films and local and national TVC
-      Campaigns.
+      Over the past three years, Tegan has been able to successfully infiltrate
+      herself into the Queensland market place with high end fashion labels,
+      national brands, feature films and local and national TVC Campaigns.
 
 
       She has worked with some of Australia's biggest fashion and corporate
