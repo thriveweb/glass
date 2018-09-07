@@ -81,8 +81,8 @@ testimonials:
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
-    - collection: 'Chelsea''s Choice #9'
     - collection: Sanctuary Cove Boat Show
+    - collection: 'Chelsea''s Choice #9'
     - collection: 'Chelsea''s Choice #8'
   subTitle: Our Journal
   title: Read Our Latest News
