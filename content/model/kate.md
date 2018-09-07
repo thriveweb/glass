@@ -1,7 +1,7 @@
 ---
 title: Kate
 featuredImage: /images/uploads/kate7.jpg
-imageThumbnail: /images/uploads/kate.jpg
+imageThumbnail: /images/uploads/kate12.jpg
 firstName: Kate
 collection: Women
 height: 176cm
