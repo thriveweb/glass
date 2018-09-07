@@ -81,7 +81,7 @@ testimonials:
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
-    - collection: Mothers Day Catwalk Show
+    - collection: 'Chelsea''s Choice #9'
     - collection: Sanctuary Cove Boat Show
     - collection: 'Chelsea''s Choice #8'
   subTitle: Our Journal
