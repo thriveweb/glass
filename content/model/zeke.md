@@ -3,7 +3,7 @@ title: Zeke
 featuredImage: /images/uploads/zeke-landscape.png
 imageThumbnail: /images/uploads/zeke-3.png
 firstName: Zeke
-collection: Global
+collection: Boys
 height: 185cm
 measurementType: chest
 bust: 87cm
