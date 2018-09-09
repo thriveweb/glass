@@ -9,7 +9,7 @@ measurementType: chest
 bust: 61cms
 waist: 59cms
 hips: 65cms
-size: '7'
+size: '8'
 shoeSize: '4'
 hair: Blonde
 eyes: Grey
