@@ -4,13 +4,13 @@ featuredImage: /images/uploads/alisha3.jpg
 imageThumbnail: /images/uploads/alisha5.jpg
 firstName: Alisha M
 collection: Girls
-height: 119cm
+height: 120cm
 measurementType: bust
 bust: 65cm
 waist: 60cm
 hips: 70cm
 size: '10'
-shoeSize: '1'
+shoeSize: '11'
 hair: Brown
 eyes: Brown
 imagePortfolio:
