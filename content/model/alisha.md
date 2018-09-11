@@ -2,7 +2,7 @@
 title: Alisha
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/alisha-higgins-35.jpg
-firstName: Alisha
+firstName: Alisha H
 collection: Global
 height: 5'7
 measurementType: bust
