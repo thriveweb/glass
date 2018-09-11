@@ -1,6 +1,6 @@
 ---
 title: Enrique
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
+featuredImage: /images/uploads/kike1.jpg
 imageThumbnail: /images/uploads/enrique-sánchez-23.jpg
 firstName: Enrique
 collection: Global
@@ -15,6 +15,8 @@ hair: Dark Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/enrique-sánchez-23.jpg
+  - image: /images/uploads/kike7.jpg
+  - image: /images/uploads/kike2.jpg
 meta:
   title: Enrique
 ---
