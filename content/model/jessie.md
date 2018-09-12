@@ -3,7 +3,7 @@ title: Jessie
 featuredImage: /images/uploads/img_4132.jpg
 imageThumbnail: /images/uploads/img_4457.jpg
 firstName: Jessie
-collection: Girl
+collection: Girls
 height: 170cm
 measurementType: bust
 bust: 84cm
