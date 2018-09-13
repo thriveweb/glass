@@ -1,6 +1,6 @@
 ---
 title: Jessie
-featuredImage: /images/uploads/img_4132.jpg
+featuredImage: /images/uploads/jessie-banner.jpg
 imageThumbnail: /images/uploads/img_4457.jpg
 firstName: Jessie
 collection: Girls
