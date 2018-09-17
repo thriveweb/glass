@@ -5,9 +5,10 @@ imageThumbnail: /images/uploads/img_1877.png
 firstName: Grace
 collection: Women
 height: 175cm
-bust: 81cm
+measurementType: bust
+bust: 82cm
 waist: 63.5cm
-hips: 84cm
+hips: 87cm
 size: '8'
 shoeSize: '9'
 hair: Blonde
