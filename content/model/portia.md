@@ -14,6 +14,7 @@ shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/port2.jpg
   - image: /images/uploads/portia.jpg
   - image: /images/uploads/portia1.jpg
   - image: /images/uploads/portia6.jpg
@@ -22,9 +23,11 @@ imagePortfolio:
   - image: /images/uploads/portia10.jpg
   - image: /images/uploads/portia11.jpg
   - image: /images/uploads/portia9.jpg
+  - image: /images/uploads/port3.jpg
   - image: /images/uploads/portia12.jpg
   - image: /images/uploads/portia7.jpg
   - image: /images/uploads/portia3.jpg
   - image: /images/uploads/poetia2.jpg
+  - image: /images/uploads/port-1.jpg
 ---
 
