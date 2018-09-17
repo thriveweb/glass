@@ -8,7 +8,7 @@ height: 125cm
 bust: 66cm
 waist: 60cm
 hips: 67cm
-size: '10'
+size: '12'
 shoeSize: '12'
 hair: Brown
 eyes: Brown
