@@ -7,7 +7,7 @@ collection: Women
 height: 168cm
 bust: 83cm
 waist: 61cm
-hips: 78cm
+hips: 90cm
 size: '6'
 shoeSize: '9'
 hair: Blonde
