@@ -3,7 +3,7 @@ title: Shaun
 featuredImage: /images/uploads/img_0483.jpg
 imageThumbnail: /images/uploads/img_0735.jpg
 firstName: Shaun
-collection: men
+collection: man
 height: 185cm
 bust: 99cm
 waist: 81cm
