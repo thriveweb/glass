@@ -3,7 +3,7 @@ title: Ashan
 featuredImage: /images/uploads/ashan8.jpg
 imageThumbnail: /images/uploads/ashan9.jpg
 firstName: Ashan
-collection: Men
+collection: Global
 height: 184cm
 measurementType: chest
 bust: 100cm
