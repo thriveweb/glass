@@ -1,10 +1,11 @@
 ---
-title: Patrick
+title: Pat
 featuredImage: /images/uploads/patrickbanner7y39332.jpg
 imageThumbnail: /images/uploads/amn_0838.jpg
-firstName: Patrick
+firstName: Pat
 collection: Men
 height: 191cm
+measurementType: chest
 bust: 106cm
 waist: 90cm
 hips: 98cm
