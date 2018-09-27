@@ -22,7 +22,6 @@ imagePortfolio:
   - image: /images/uploads/ivy-3.jpg
   - image: /images/uploads/ivy-5.jpg
   - image: /images/uploads/ivy-10.jpg
-  - image: /images/uploads/unnamed.jpg
 meta:
   title: Ivy
 ---
