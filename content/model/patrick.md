@@ -1,21 +1,29 @@
 ---
-title: Pat
-featuredImage: /images/uploads/patrickbanner7y39332.jpg
-imageThumbnail: /images/uploads/amn_0838.jpg
-firstName: Pat
+title: Patrick
+featuredImage: /images/uploads/pat-5.jpg
+imageThumbnail: /images/uploads/pat-head-shot.jpg
+firstName: Patrick
 collection: Men
-height: 191cm
+height: 181cm
 measurementType: chest
-bust: 106cm
-waist: 90cm
-hips: 98cm
-size: L
+bust: 92cm
+waist: 74cm
+hips: 103cm
+size: Mens M
 shoeSize: '10'
-hair: Auburn
-eyes: Green
+hair: Black
+eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/amn_0815.jpg
-  - image: /images/uploads/amn_0856.jpg
-  - image: /images/uploads/amn_0826.jpg
+  - image: /images/uploads/pat-1.jpg
+  - image: /images/uploads/pat-3.jpg
+  - image: /images/uploads/pat-5.jpg
+  - image: /images/uploads/pat-4.jpg
+  - image: /images/uploads/pat-9.jpg
+  - image: /images/uploads/pat-10.jpg
+  - image: /images/uploads/pat-11.jpg
+  - image: /images/uploads/pat-14.jpg
+  - {}
+meta:
+  title: Patrick
 ---
 
