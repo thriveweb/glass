@@ -1,6 +1,6 @@
 ---
 title: Emma A
-featuredImage: /images/uploads/emma-a-4-1-.jpg
+featuredImage: /images/uploads/emma-a-4-1-1-.jpg
 imageThumbnail: /images/uploads/emma-a-head-shot.jpg
 firstName: Emma A
 collection: Classic
