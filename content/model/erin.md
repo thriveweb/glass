@@ -11,7 +11,7 @@ waist: 51.5cm
 hips: 54cm
 size: 6-7
 shoeSize: '12'
-hair: Ginger
+hair: Light Brown
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/erin-1.jpg
