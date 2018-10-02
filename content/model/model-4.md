@@ -14,19 +14,19 @@ shoeSize: '9'
 hair: Blonde
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/ashya.jpg
-  - image: /images/uploads/ashya-jet-2.jpg
-  - image: /images/uploads/ashya-jet-1.jpg
   - image: /images/uploads/ashya-jet-4.jpg
+  - image: /images/uploads/ashya-jet-1.jpg
+  - image: /images/uploads/ashya-jet-2.jpg
   - image: /images/uploads/ashya-.1.jpg
+  - image: /images/uploads/asyha-jet-7.jpeg
+  - image: /images/uploads/asyha-jet-6.jpg
+  - image: /images/uploads/ashya.jpg
   - image: /images/uploads/ashya-jet-3.jpg
   - image: /images/uploads/aysha-6.jpg
-  - image: /images/uploads/aysha-3.jpg
   - image: /images/uploads/ashya-jet-6.jpeg
+  - image: /images/uploads/aysha-3.jpg
   - image: /images/uploads/ashya-jet-8.jpeg
   - image: /images/uploads/ashya-jet-9.jpeg
-  - image: /images/uploads/asyha-jet-6.jpg
-  - image: /images/uploads/asyha-jet-7.jpeg
 meta:
   title: Aysha
 ---
