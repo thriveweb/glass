@@ -14,9 +14,9 @@ shoeSize: '10'
 hair: Black
 eyes: Brown
 imagePortfolio:
+  - image: /images/uploads/pat-3.jpg
   - image: /images/uploads/pat-23.jpg
   - image: /images/uploads/pat-1.jpg
-  - image: /images/uploads/pat-3.jpg
   - image: /images/uploads/pat-16.jpg
   - image: /images/uploads/pat-4.jpg
   - image: /images/uploads/pat-9.jpg
