@@ -1,6 +1,6 @@
 ---
 title: Patrick
-featuredImage: /images/uploads/pat-5.jpg
+featuredImage: /images/uploads/pat-21-land-1-.jpg
 imageThumbnail: /images/uploads/pat-head-shot.jpg
 firstName: Patrick
 collection: Men
