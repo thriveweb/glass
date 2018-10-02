@@ -3,7 +3,7 @@ title: Lindsey
 featuredImage: /images/uploads/lindsey2367819211111111.jpg
 imageThumbnail: /images/uploads/lindsey34612789.jpg
 firstName: Lindsey
-collection: Girls
+collection: Girl
 height: 160cm
 measurementType: bust
 bust: 73cm
