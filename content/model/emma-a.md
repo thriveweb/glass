@@ -1,8 +1,8 @@
 ---
-title: Emma A
+title: Emma P
 featuredImage: /images/uploads/emma-a-4-1-1-.jpg
 imageThumbnail: /images/uploads/emma-a-head-shot.jpg
-firstName: Emma A
+firstName: Emma P
 collection: Classic
 height: 175cm
 measurementType: bust
