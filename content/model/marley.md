@@ -1,6 +1,6 @@
 ---
 title: Marley
-featuredImage: /images/uploads/marley-4.jpg
+featuredImage: /images/uploads/marley-4-1-.jpg
 imageThumbnail: /images/uploads/marley-hs-1.jpg
 firstName: Marley
 collection: Boys
