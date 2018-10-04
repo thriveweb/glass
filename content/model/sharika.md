@@ -1,6 +1,6 @@
 ---
-title: Sharika
-featuredImage: /images/uploads/sharika-9.jpg
+title: Shakira
+featuredImage: /images/uploads/sharika-banner.jpg
 imageThumbnail: /images/uploads/sharika-4.jpg
 firstName: Shakira
 collection: Classic
