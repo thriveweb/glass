@@ -1,6 +1,6 @@
 ---
 title: Shirlyn
-featuredImage: /images/uploads/shir.jpg
+featuredImage: /images/uploads/shir-banner.jpg
 imageThumbnail: /images/uploads/shir3.jpg
 firstName: Shirlyn
 collection: Classic
