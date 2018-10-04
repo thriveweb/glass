@@ -1,6 +1,6 @@
 ---
 title: Jade
-featuredImage: /images/uploads/jade-banner.jpg
+featuredImage: /images/uploads/jade-banner-1-.jpg
 imageThumbnail: /images/uploads/ri9g57nq.jpg
 firstName: Jade
 collection: Girls
