@@ -1,6 +1,6 @@
 ---
 title: Jodi
-featuredImage: /images/uploads/jodi-2.jpg
+featuredImage: /images/uploads/jodie-banner.jpg
 imageThumbnail: /images/uploads/amn_5062-1-1-.jpg
 firstName: Jodi
 collection: Classic
