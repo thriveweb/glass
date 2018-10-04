@@ -1,6 +1,6 @@
 ---
 title: Tom
-featuredImage: /images/uploads/tommy-8.jpg
+featuredImage: /images/uploads/tommy-banner.jpg
 imageThumbnail: /images/uploads/tom-hs.jpg
 firstName: Tom
 collection: Boys
