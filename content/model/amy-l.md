@@ -23,7 +23,6 @@ imagePortfolio:
   - image: /images/uploads/amy-l-10.jpg
   - image: /images/uploads/amy-l-12.jpg
   - image: /images/uploads/amy-l-6.jpg
-  - image: /images/uploads/amy-l-13.jpg
   - image: /images/uploads/amy-l-8.jpg
 meta:
   title: Amy L
