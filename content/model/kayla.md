@@ -1,6 +1,6 @@
 ---
 title: Kayla
-featuredImage: /images/uploads/kaylaa-2-1-.jpg
+featuredImage: /images/uploads/kaylaa-banner.jpg
 imageThumbnail: /images/uploads/novasoma-photography-4.jpg
 firstName: Kayla
 collection: Girls
