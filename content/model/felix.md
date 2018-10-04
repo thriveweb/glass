@@ -1,6 +1,6 @@
 ---
 title: Felix
-featuredImage: /images/uploads/katiehooper-68_preview.jpg
+featuredImage: /images/uploads/felix3-banner.jpg
 imageThumbnail: /images/uploads/felix9.jpg
 firstName: Felix
 collection: Boys
