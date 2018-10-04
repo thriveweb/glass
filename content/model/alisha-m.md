@@ -1,6 +1,6 @@
 ---
 title: Alisha M
-featuredImage: /images/uploads/alisha3.jpg
+featuredImage: /images/uploads/alisha3-banner.jpg
 imageThumbnail: /images/uploads/alisha5.jpg
 firstName: Alisha M
 collection: Girls
