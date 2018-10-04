@@ -1,6 +1,6 @@
 ---
 title: Jazzy B
-featuredImage: /images/uploads/jazz19.jpg
+featuredImage: /images/uploads/0k8a4773.jpg
 imageThumbnail: /images/uploads/jazz17.jpg
 firstName: Jazzy B
 collection: Girls
