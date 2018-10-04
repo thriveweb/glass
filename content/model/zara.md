@@ -1,6 +1,6 @@
 ---
 title: Zara
-featuredImage: /images/uploads/zara1.jpeg
+featuredImage: /images/uploads/zara5-banner.jpg
 imageThumbnail: /images/uploads/zara2.jpeg
 firstName: Zara
 collection: Girls
