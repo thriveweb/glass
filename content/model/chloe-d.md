@@ -4,8 +4,13 @@ featuredImage: /images/uploads/amn_0475.jpg
 imageThumbnail: /images/uploads/amn_0460.jpg
 firstName: Chloe D
 collection: Global
+height: 117cm
 measurementType: bust
+bust: 59cm
+waist: 55cm
+hips: 59cm
 size: '6'
+shoeSize: '13'
 hair: 'Brown '
 eyes: Brown
 imagePortfolio:
