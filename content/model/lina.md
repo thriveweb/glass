@@ -1,6 +1,6 @@
 ---
 title: Lina
-featuredImage: /images/uploads/lina-banner.jpg
+featuredImage: /images/uploads/lina-banner-2-.jpg
 imageThumbnail: /images/uploads/lina-1.jpg
 firstName: Lina
 collection: Classic
