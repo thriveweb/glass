@@ -1,6 +1,6 @@
 ---
 title: Violet
-featuredImage: /images/uploads/v-10.jpg
+featuredImage: /images/uploads/violet-banner.jpg
 imageThumbnail: /images/uploads/v-14.jpg
 firstName: Violet
 collection: Girls
