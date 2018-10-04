@@ -24,7 +24,8 @@ imagePortfolio:
   - image: /images/uploads/v-14.jpg
   - image: /images/uploads/v-5.jpg
   - image: /images/uploads/v-18.jpg
-  - {}
+  - image: /images/uploads/v10.jpg
+  - image: /images/uploads/v17.jpg
 meta:
   title: Violet
 ---
