@@ -15,9 +15,14 @@ hair: Black
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/marley.jpg
+  - image: /images/uploads/marley-113.jpg
+  - image: /images/uploads/marley-111.jpg
   - image: /images/uploads/marley-2.jpg
+  - image: /images/uploads/marley-116.jpg
   - image: /images/uploads/marley-7.jpg
+  - image: /images/uploads/marley-112.jpg
   - image: /images/uploads/marley-5.jpg
+  - image: /images/uploads/marley-115.jpg
   - image: /images/uploads/marley-4.jpg
   - image: /images/uploads/marley-her-shadow.jpg
   - image: /images/uploads/marley-8.jpg
