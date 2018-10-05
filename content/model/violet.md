@@ -4,7 +4,7 @@ featuredImage: /images/uploads/violet-banner.jpg
 imageThumbnail: /images/uploads/v-14.jpg
 firstName: Violet
 collection: Girls
-height: 107cm
+height: 103cm
 measurementType: bust
 bust: 55cm
 waist: 54cm
@@ -21,6 +21,7 @@ imagePortfolio:
   - image: /images/uploads/v-7.jpg
   - image: /images/uploads/v-13.jpg
   - image: /images/uploads/v-1.jpg
+  - image: /images/uploads/violet-1111.jpg
   - image: /images/uploads/v-14.jpg
   - image: /images/uploads/v-5.jpg
   - image: /images/uploads/v-18.jpg
