@@ -14,7 +14,7 @@ shoeSize: '8'
 hair: Red
 eyes: Hazel
 imagePortfolio:
-  - image: /images/uploads/emily-a-114.jpg
+  - image: /images/uploads/emilya.01-2.jpg
 meta:
   title: Emily A
 ---
