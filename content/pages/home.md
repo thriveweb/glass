@@ -83,7 +83,7 @@ featuredPosts:
   blogPosts:
     - collection: 'Chelsea''s Choice #10'
     - collection: Sanctuary Cove Boat Show
-    - collection: 'Chelsea''s Choice #9'
+    - collection: 'Chelsea''s Choice #11'
   subTitle: Our Journal
   title: Read Our Latest News
 ---
