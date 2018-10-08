@@ -14,8 +14,8 @@ shoeSize: '4'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/vasti.jpeg
   - image: /images/uploads/vasti-9.jpeg
+  - image: /images/uploads/vasti.jpeg
   - image: /images/uploads/vasti-5.jpeg
   - image: /images/uploads/vasti-1.jpeg
   - image: /images/uploads/vasti-2.jpeg
