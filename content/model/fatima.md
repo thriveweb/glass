@@ -1,6 +1,6 @@
 ---
 title: Fatima
-featuredImage: /images/uploads/fat.jpg
+featuredImage: /images/uploads/fatima-d.jpg
 imageThumbnail: /images/uploads/fatima-wheeler-29.jpg
 firstName: Fatima
 collection: Global
@@ -19,6 +19,12 @@ imagePortfolio:
   - image: /images/uploads/fat4.jpg
   - image: /images/uploads/fat2.jpg
   - image: /images/uploads/fatima-wheeler-29.jpg
+  - image: /images/uploads/fatima-c.jpg
+  - image: /images/uploads/fatima-d.jpg
+  - image: /images/uploads/fatima-a.jpg
+  - image: /images/uploads/fatima-b.jpg
+  - image: /images/uploads/fatima-e.jpg
+  - image: /images/uploads/fatima-f.jpg
 meta:
   title: Fatima
 ---
