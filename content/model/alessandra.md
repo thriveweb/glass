@@ -1,21 +1,19 @@
 ---
-title: Alessandra D
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/alessandra-de-silva-42.jpg
+title: Alessandra
+featuredImage: /images/uploads/alessandra324242.png
+imageThumbnail: /images/uploads/alessandra4345321.png
 firstName: Alessandra
-collection: Global
-height: 170cm
+collection: Girl
 measurementType: bust
-bust: 40inch
-waist: 32inch
-hips: 38inch
-size: '12'
-shoeSize: '9'
-hair: Dark Brown
-eyes: Brown
+hair: Blonde
+eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/alessandra-de-silva-42.jpg
-meta:
-  title: Alessandra
+  - image: /images/uploads/alessandra21423.png
+  - image: /images/uploads/alessandra64544325.png
+  - image: /images/uploads/alessandra4345321.png
+  - image: /images/uploads/alessandra324242.png
+  - image: /images/uploads/alessandra3123213213.png
+  - image: /images/uploads/alessandra876543.png
+  - image: /images/uploads/alessandra4432332.png
 ---
 
