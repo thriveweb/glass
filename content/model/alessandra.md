@@ -1,5 +1,5 @@
 ---
-title: Alessandra
+title: Alessandra D
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/alessandra-de-silva-42.jpg
 firstName: Alessandra
