@@ -3,7 +3,7 @@ title: Alessandra
 featuredImage: /images/uploads/alessandra324242.png
 imageThumbnail: /images/uploads/alessandra4345321.png
 firstName: Alessandra
-collection: Girls
+collection: Girl
 measurementType: bust
 hair: Blonde
 eyes: Blue
