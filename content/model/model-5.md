@@ -1,6 +1,6 @@
 ---
 title: Sienna
-featuredImage: /images/uploads/sienna-banner.jpg
+featuredImage: /images/uploads/sienna.jpg
 imageThumbnail: /images/uploads/amn_0537-1-.jpg
 firstName: Sienna
 collection: Girls
@@ -29,6 +29,7 @@ imagePortfolio:
   - image: /images/uploads/sienna-139_preview.jpg
   - image: /images/uploads/sienna-113_preview.jpg
   - image: /images/uploads/sienna-090_preview.jpg
+  - image: /images/uploads/sienna-3.jpg
   - image: /images/uploads/sienna-062_preview.jpg
   - image: /images/uploads/sienna-082_preview.jpg
   - image: /images/uploads/sienna-044_preview.jpg
@@ -37,6 +38,7 @@ imagePortfolio:
   - image: /images/uploads/sienna-154_preview.jpg
   - image: /images/uploads/sienna-027_preview.jpg
   - image: /images/uploads/sienna-319_preview.jpg
+  - image: /images/uploads/sienna-2.jpg
   - image: /images/uploads/sienna-037_preview.jpg
   - image: /images/uploads/sienna-106_preview.jpg
   - image: /images/uploads/sienna-123_preview.jpg
