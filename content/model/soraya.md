@@ -1,7 +1,7 @@
 ---
 title: Soraya
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/soraya-d-bois-6.jpg
+imageThumbnail: /images/uploads/dsc_1438.jpg
 firstName: Soraya
 collection: Global
 height: 112cm
@@ -14,7 +14,11 @@ shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/soraya-d-bois-6.jpg
+  - image: /images/uploads/dsc_1438.jpg
+  - image: /images/uploads/dsc_1446.jpg
+  - image: /images/uploads/dsc_1432.jpg
+  - image: /images/uploads/dsc_1342.jpg
+  - image: /images/uploads/unspecified-12.jpg
 meta:
   title: Soraya
 ---
