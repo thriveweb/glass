@@ -1,7 +1,7 @@
 ---
 title: Emilia
 featuredImage: /images/uploads/emiliabanner3827.jpg
-imageThumbnail: /images/uploads/_dsc8542_c1-1.jpg
+imageThumbnail: /images/uploads/emilia.jpg
 firstName: Emilia
 collection: Girls
 height: 142.5cm
