@@ -18,6 +18,8 @@ imagePortfolio:
   - image: /images/uploads/claude-2.jpg
   - image: /images/uploads/img_5753.jpg
   - image: /images/uploads/claude-5.jpg
+  - image: /images/uploads/2-1.jpg
+  - image: /images/uploads/img_5723.jpg
 meta:
   title: Alexander C
 ---
