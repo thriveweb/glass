@@ -3,7 +3,7 @@ title: Oceana
 featuredImage: /images/uploads/oceana-2.png
 imageThumbnail: /images/uploads/oceana-112.png
 firstName: Oceana
-collection: Girl
+collection: Global
 height: 160cm
 measurementType: bust
 bust: 78cm
