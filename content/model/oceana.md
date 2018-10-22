@@ -1,7 +1,7 @@
 ---
 title: Oceana
 featuredImage: /images/uploads/oceana-2.png
-imageThumbnail: /images/uploads/oceana-112.png
+imageThumbnail: /images/uploads/oceana-her-shadow.jpg
 firstName: Oceana
 collection: Global
 height: 160cm
@@ -14,6 +14,11 @@ shoeSize: '7'
 hair: Dark Blonde
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/oceana-11111111.png
+  - image: /images/uploads/oceana.png
+  - image: /images/uploads/oceana-4.png
+  - image: /images/uploads/oceana-6.png
+  - image: /images/uploads/oceana-3.png
   - image: /images/uploads/oceana-111.png
   - image: /images/uploads/oceana-112.png
 meta:
