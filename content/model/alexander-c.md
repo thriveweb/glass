@@ -1,6 +1,6 @@
 ---
 title: Alexander C
-featuredImage: /images/uploads/claude-1.jpg
+featuredImage: /images/uploads/claude-banner.jpg
 imageThumbnail: /images/uploads/claude-hs.jpg
 firstName: Alexander C
 collection: Men
@@ -16,10 +16,10 @@ eyes: Green
 imagePortfolio:
   - image: /images/uploads/img_5754.jpg
   - image: /images/uploads/claude-2.jpg
-  - image: /images/uploads/img_5753.jpg
-  - image: /images/uploads/claude-5.jpg
   - image: /images/uploads/2-1.jpg
+  - image: /images/uploads/img_5753.jpg
   - image: /images/uploads/img_5723.jpg
+  - image: /images/uploads/claude-5.jpg
 meta:
   title: Alexander C
 ---
