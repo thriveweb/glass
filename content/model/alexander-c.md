@@ -1,0 +1,24 @@
+---
+title: Alexander C
+featuredImage: /images/uploads/claude-1.jpg
+imageThumbnail: /images/uploads/claude-hs.jpg
+firstName: Alexander C
+collection: Mens
+height: 187cm
+measurementType: chest
+bust: 92cm
+waist: 74cm
+hips: 100cm
+size: M
+shoeSize: '10.5'
+hair: Dark Brown
+eyes: Green
+imagePortfolio:
+  - image: /images/uploads/img_5754.jpg
+  - image: /images/uploads/claude-2.jpg
+  - image: /images/uploads/img_5753.jpg
+  - image: /images/uploads/claude-5.jpg
+meta:
+  title: Alexander C
+---
+
