@@ -14,6 +14,7 @@ hair: Light Brown
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/brose.jpg
+  - image: /images/uploads/bella-11.jpg
   - image: /images/uploads/brose-1.jpg
   - image: /images/uploads/bella-rose-2.jpg
   - image: /images/uploads/unnamed-27.jpg
@@ -21,8 +22,11 @@ imagePortfolio:
   - image: /images/uploads/bella-rose-boho.jpg
   - image: /images/uploads/bella-rose-8.jpg
   - image: /images/uploads/bella-rose-9.jpg
+  - image: /images/uploads/bella-121212.jpg
   - image: /images/uploads/bella-rose-4_preview.jpg
+  - image: /images/uploads/bella-1212121212.jpg
   - image: /images/uploads/bella-rose-vintage_preview.jpg
   - image: /images/uploads/b-rose.jpg
+  - image: /images/uploads/bella-12121212121212.jpg
 ---
 
