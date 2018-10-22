@@ -1,7 +1,7 @@
 ---
 title: Ashton
-featuredImage: /images/uploads/ashton726839832.jpg
-imageThumbnail: /images/uploads/amn_6981-1-.jpg
+featuredImage: /images/uploads/ashton-and-layla.jpg
+imageThumbnail: /images/uploads/ashton-111115.jpg
 firstName: Ashton
 collection: Boys
 height: 121cm
@@ -11,6 +11,7 @@ shoeSize: '2'
 hair: Dark Brown
 eyes: Hazel
 imagePortfolio:
+  - image: /images/uploads/ashton-111115.jpg
   - image: /images/uploads/amn_6985.jpg
   - image: /images/uploads/amn_7000.jpg
   - image: /images/uploads/amn_7025.jpg
@@ -30,6 +31,8 @@ imagePortfolio:
   - image: /images/uploads/laila-ashton26347829.jpg
   - image: /images/uploads/laila-ashtont7234823.jpg
   - image: /images/uploads/amn_7043.jpg
+  - image: /images/uploads/ashton-and-layla.jpg
+  - image: /images/uploads/ashton-111118.jpg
 meta:
   title: Ashton
 ---
