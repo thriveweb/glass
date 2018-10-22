@@ -3,7 +3,7 @@ title: Alexander C
 featuredImage: /images/uploads/claude-1.jpg
 imageThumbnail: /images/uploads/claude-hs.jpg
 firstName: Alexander C
-collection: Mens
+collection: Men
 height: 187cm
 measurementType: chest
 bust: 92cm
