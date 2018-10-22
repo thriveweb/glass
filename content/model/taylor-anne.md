@@ -13,6 +13,10 @@ shoeSize: '36'
 hair: Red
 eyes: Brown
 imagePortfolio:
+  - image: /images/uploads/anne-4.jpg
+  - image: /images/uploads/anne-1.jpg
+  - image: /images/uploads/anne-2.jpg
+  - image: /images/uploads/anne-3.jpg
   - image: /images/uploads/ta2.jpg
   - image: /images/uploads/ta10.jpg
   - image: /images/uploads/ta4.jpg
@@ -39,5 +43,6 @@ imagePortfolio:
   - image: /images/uploads/tay12.jpg
   - image: /images/uploads/tay-1.jpg
   - image: /images/uploads/tay-6.jpg
+  - {}
 ---
 
