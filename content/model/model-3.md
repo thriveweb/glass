@@ -30,6 +30,9 @@ imagePortfolio:
   - image: /images/uploads/201804098078_preview.jpg
   - image: /images/uploads/paris-mag-3.jpg
   - image: /images/uploads/paris-mag-6.jpg
+  - image: /images/uploads/paris-1.jpg
+  - image: /images/uploads/paris-2.jpg
+  - image: /images/uploads/paris-4.jpg
 meta:
   title: Paris
 ---
