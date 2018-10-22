@@ -1,7 +1,7 @@
 ---
 title: Bella Rose
 featuredImage: /images/uploads/brose1.jpg
-imageThumbnail: /images/uploads/br.jpg
+imageThumbnail: /images/uploads/bella-13131313.jpg
 firstName: Bella Rose
 collection: Girls
 height: 138cm
