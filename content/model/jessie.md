@@ -31,5 +31,8 @@ imagePortfolio:
   - image: /images/uploads/img_4303-2.jpg
   - image: /images/uploads/a87c4865.jpg
   - image: /images/uploads/img_4457.jpg
+  - image: /images/uploads/jessie-123.jpg
+  - image: /images/uploads/jessie-1234.jpg
+  - {}
 ---
 
