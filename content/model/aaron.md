@@ -1,6 +1,6 @@
 ---
 title: Aaron
-featuredImage: /images/uploads/unnamed-7.jpg
+featuredImage: /images/uploads/aaron54768.jpg
 imageThumbnail: /images/uploads/aaron-7.jpg
 firstName: Aaron
 collection: Men
