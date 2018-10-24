@@ -13,10 +13,10 @@ shoeSize: '7.5'
 hair: Grey
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/jerm-2.jpg
   - image: /images/uploads/jerm-5.jpg
   - image: /images/uploads/jerm-10.jpg
   - image: /images/uploads/jerm-7.jpg
-  - image: /images/uploads/jerm-2.jpg
   - image: /images/uploads/jerm-1.jpg
 meta:
   title: Jeremy R
