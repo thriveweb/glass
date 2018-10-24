@@ -8,6 +8,7 @@ height: 177cm
 measurementType: chest
 bust: 101cm
 waist: 88cm
+hips: 36 inch pant
 size: XL Shirt
 shoeSize: '7.5'
 hair: Grey
