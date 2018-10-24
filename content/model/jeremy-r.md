@@ -1,6 +1,6 @@
 ---
 title: Jeremy R
-featuredImage: /images/uploads/jerm-banner.jpg
+featuredImage: /images/uploads/jerm-banner-1-.jpg
 imageThumbnail: /images/uploads/jerm-2.jpg
 firstName: Jeremy R
 collection: Classic
