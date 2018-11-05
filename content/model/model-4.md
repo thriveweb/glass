@@ -27,6 +27,10 @@ imagePortfolio:
   - image: /images/uploads/aysha-3.jpg
   - image: /images/uploads/ashya-jet-8.jpeg
   - image: /images/uploads/ashya-jet-9.jpeg
+  - image: /images/uploads/ayesha487392.jpg
+  - image: /images/uploads/ayesha4672389.jpg
+  - image: /images/uploads/ayesha278349120.jpg
+  - image: /images/uploads/ayeshar73890.jpg
 meta:
   title: Aysha
 ---
