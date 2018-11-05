@@ -1,6 +1,6 @@
 ---
 title: Victoria E
-featuredImage: /images/uploads/victoria-edwards-graffiti-twba-2012.jpg
+featuredImage: /images/uploads/victoria-edwards-sydney-2.jpg
 imageThumbnail: /images/uploads/victoria-edwards-c.jpg
 firstName: Victoria E
 collection: Classic
