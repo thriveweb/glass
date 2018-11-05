@@ -1,6 +1,6 @@
 ---
 title: Chiam
-featuredImage: /images/uploads/chiam-10.jpg
+featuredImage: /images/uploads/chiam-10-1-.jpg
 imageThumbnail: /images/uploads/chiam-1.jpg
 firstName: Chiam
 collection: Men
