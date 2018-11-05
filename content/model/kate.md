@@ -14,9 +14,9 @@ shoeSize: '8'
 hair: Red
 eyes: Blue/Green
 imagePortfolio:
+  - image: /images/uploads/kate4768239.jpg
   - image: /images/uploads/unnamed-8-copy-2.jpg
   - image: /images/uploads/kate3.jpg
-  - image: /images/uploads/kate4768239.jpg
   - image: /images/uploads/kate9.jpg
   - image: /images/uploads/kate1.jpg
   - image: /images/uploads/kate274839.jpg
