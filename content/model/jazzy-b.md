@@ -16,7 +16,6 @@ eyes: Blue
 imagePortfolio:
   - image: /images/uploads/jazz14.jpg
   - image: /images/uploads/jazz18.jpg
-  - image: /images/uploads/jazz18.jpg
   - image: /images/uploads/jazz17.jpg
   - image: /images/uploads/jazz8.jpg
   - image: /images/uploads/jazz3.jpg
