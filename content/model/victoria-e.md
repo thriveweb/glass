@@ -1,6 +1,6 @@
 ---
 title: Victoria E
-featuredImage: /images/uploads/victoria-banner-1-.jpg
+featuredImage: /images/uploads/victoria-edwards-headshot.jpg
 imageThumbnail: /images/uploads/victoria-edwards-c.jpg
 firstName: Victoria E
 collection: Classic
