@@ -17,7 +17,6 @@ imagePortfolio:
   - image: /images/uploads/chiam-3.jpg
   - image: /images/uploads/chiam-5.jpg
   - image: /images/uploads/chiam-2.jpg
-  - image: /images/uploads/chiam-5.jpg
   - image: /images/uploads/chiam-8.jpg
   - image: /images/uploads/chiam-10.jpg
 meta:
