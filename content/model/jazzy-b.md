@@ -30,5 +30,7 @@ imagePortfolio:
   - image: /images/uploads/jazz13.jpg
   - image: /images/uploads/jazz15.jpg
   - image: /images/uploads/jazz19.jpg
+meta:
+  title: Jazzy B
 ---
 
