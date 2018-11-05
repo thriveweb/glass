@@ -1,9 +1,9 @@
 ---
 title: Victoria E
-featuredImage: /images/uploads/8744183.jpg
+featuredImage: /images/uploads/victoria-hs.jpg
 imageThumbnail: /images/uploads/victoria-edwards-c.jpg
 firstName: Victoria E
-collection: Global
+collection: Classic
 height: 178cm
 measurementType: bust
 bust: 106cm
@@ -20,6 +20,7 @@ imagePortfolio:
   - image: /images/uploads/2971579.jpg
   - image: /images/uploads/8744183.jpg
   - image: /images/uploads/7621378.jpg
+  - image: /images/uploads/victoria-edwards-a.jpg
 meta:
   title: Victoria E
 ---
