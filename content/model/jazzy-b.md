@@ -1,7 +1,7 @@
 ---
 title: Jazzy B
 featuredImage: /images/uploads/0k8a4773.jpg
-imageThumbnail: /images/uploads/jazz17.jpg
+imageThumbnail: /images/uploads/jazzy-b38947.jpg
 firstName: Jazzy B
 collection: Girls
 height: 156cm
@@ -14,14 +14,19 @@ shoeSize: '7'
 hair: 'Blonde '
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/jazzy-b7823.jpg
   - image: /images/uploads/jazz14.jpg
   - image: /images/uploads/jazz18.jpg
+  - image: /images/uploads/jazzy-b3872.jpg
   - image: /images/uploads/jazz17.jpg
   - image: /images/uploads/jazz8.jpg
+  - image: /images/uploads/jazzy-b24378129.jpg
   - image: /images/uploads/jazz3.jpg
   - image: /images/uploads/jazz2.jpg
+  - image: /images/uploads/jazzy-b234678129.jpg
   - image: /images/uploads/jazz.jpg
   - image: /images/uploads/jazz20.jpg
+  - image: /images/uploads/jazzy-b3789.jpg
   - image: /images/uploads/jazz1.jpg
   - image: /images/uploads/jazz12.jpg
   - image: /images/uploads/jazz7.jpg
