@@ -14,11 +14,16 @@ shoeSize: '13'
 hair: Black
 eyes: Brown
 imagePortfolio:
+  - image: /images/uploads/chiam-111.jpg
+  - image: /images/uploads/chiam-115.jpg
   - image: /images/uploads/chiam-3.jpg
   - image: /images/uploads/chiam-5.jpg
   - image: /images/uploads/chiam-2.jpg
   - image: /images/uploads/chiam-8.jpg
   - image: /images/uploads/chiam-10.jpg
+  - image: /images/uploads/chiam-113.jpg
+  - image: /images/uploads/chiam-112.jpg
+  - image: /images/uploads/chiam-116.jpg
 meta:
   title: Chiam
 ---
