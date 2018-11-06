@@ -18,11 +18,10 @@ imagePortfolio:
   - image: /images/uploads/victoria-edwards-d.jpg
   - image: /images/uploads/victoria-edwards-guitar.jpg
   - image: /images/uploads/victoria-edwards-bw-2.jpg
-  - image: /images/uploads/victoria-edwards-headshot.jpg
   - image: /images/uploads/victoria-edwards-graffiti-twba-2012.jpg
-  - image: /images/uploads/victoria-edwards-bell-st-mall-toowoomba-2012.jpg
-  - image: /images/uploads/victoria-edwards-sydney-2.jpg
   - image: /images/uploads/victoria-edwards-a.jpg
+  - image: /images/uploads/victoria-edwards-sydney-2.jpg
+  - image: /images/uploads/victoria-edwards-bell-st-mall-toowoomba-2012.jpg
 meta:
   title: Victoria E
 ---
