@@ -1,6 +1,6 @@
 ---
 title: Victoria E
-featuredImage: /images/uploads/victoria-edwards-sydney-2.jpg
+featuredImage: /images/uploads/victoria-edwards-banner.jpg
 imageThumbnail: /images/uploads/victoria-edwards-c.jpg
 firstName: Victoria E
 collection: Classic
@@ -22,6 +22,7 @@ imagePortfolio:
   - image: /images/uploads/victoria-edwards-graffiti-twba-2012.jpg
   - image: /images/uploads/victoria-edwards-bell-st-mall-toowoomba-2012.jpg
   - image: /images/uploads/victoria-edwards-sydney-2.jpg
+  - image: /images/uploads/victoria-edwards-a.jpg
 meta:
   title: Victoria E
 ---
