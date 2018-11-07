@@ -1,6 +1,6 @@
 ---
 title: Grace D
-featuredImage: /images/uploads/grace-2.jpg
+featuredImage: /images/uploads/grace-banner.jpg
 imageThumbnail: /images/uploads/grace-3.jpg
 firstName: Grace D
 collection: Classic
