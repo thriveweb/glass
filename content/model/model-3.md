@@ -1,7 +1,7 @@
 ---
 title: Paris
 featuredImage: /images/uploads/201804098477bw.jpg
-imageThumbnail: /images/uploads/paris-her-shadow-new.jpg
+imageThumbnail: /images/uploads/paris-hs.jpg
 firstName: Paris
 collection: Women
 height: 173cm
