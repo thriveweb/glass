@@ -14,7 +14,10 @@ shoeSize: '2'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: /images/uploads/jamine3g.jpg
+  - image: /images/uploads/jasminec-1.jpg
   - image: /images/uploads/jasmine-colicchia-7_preview.jpg
+  - image: /images/uploads/jasmine-c.jpg
   - image: /images/uploads/jasmine-colicchia-2_preview.jpg
   - image: /images/uploads/jasmine-colicchia-mmfs-2_preview.jpg
   - image: /images/uploads/jasmine-colicchia-mmfs-9_preview.jpg
