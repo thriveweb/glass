@@ -3,7 +3,7 @@ title: Germaine
 featuredImage: /images/uploads/germaine2384791.jpg
 imageThumbnail: /images/uploads/germaine689054.jpg
 firstName: Germaine
-collection: Boys
+collection: Global
 height: 143.5cm
 measurementType: chest
 bust: 73cm
