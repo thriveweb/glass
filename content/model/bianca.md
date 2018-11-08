@@ -1,6 +1,6 @@
 ---
 title: Bianca
-featuredImage: /images/uploads/bianca-banner-1-.jpg
+featuredImage: /images/uploads/film-global-banner.jpeg
 imageThumbnail: /images/uploads/bianca-5.jpg
 firstName: Bianca
 collection: Global
