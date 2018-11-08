@@ -3,7 +3,7 @@ title: Cody
 featuredImage: /images/uploads/codybanne43987.jpg
 imageThumbnail: /images/uploads/c6.jpg
 firstName: Cody
-collection: Boys
+collection: Global
 height: 150cm
 measurementType: chest
 bust: 76cm
