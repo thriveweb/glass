@@ -1,7 +1,7 @@
 ---
 title: Nicole
 featuredImage: /images/uploads/nicole37625481.jpg
-imageThumbnail: /images/uploads/nicole98234782343.jpg
+imageThumbnail: /images/uploads/nicole-hs.jpg
 firstName: Nicole
 collection: Women
 height: 183cm
