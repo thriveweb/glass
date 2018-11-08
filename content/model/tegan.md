@@ -13,9 +13,9 @@ shoeSize: '7.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/tegan3.jpg
   - image: /images/uploads/img_0577.jpg
   - image: /images/uploads/tegan.jpg
+  - image: /images/uploads/tegan3.jpg
   - image: /images/uploads/2817028_8595970.jpg
   - image: /images/uploads/amn_8380-1-_preview.jpg
   - image: /images/uploads/tegan1.jpg
