@@ -1,6 +1,6 @@
 ---
 title: Kaye Y
-featuredImage: /images/uploads/kaye-3.jpg
+featuredImage: /images/uploads/kaye-banner.jpg
 imageThumbnail: /images/uploads/kaye-hs.jpg
 firstName: Kaye Y
 collection: Classic
