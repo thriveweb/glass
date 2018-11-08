@@ -3,7 +3,7 @@ title: Genevieve M
 featuredImage: /images/uploads/genny-3.jpg
 imageThumbnail: /images/uploads/genny-1.jpg
 firstName: Genevieve M
-collection: Classics
+collection: Global
 height: 163cm
 measurementType: bust
 bust: 99cm
