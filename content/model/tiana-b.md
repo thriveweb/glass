@@ -1,6 +1,6 @@
 ---
 title: Tiana B
-featuredImage: /images/uploads/tiana-3.jpg
+featuredImage: /images/uploads/tiana-banner.jpg
 imageThumbnail: /images/uploads/tiana-1.jpg
 firstName: Tiana B
 collection: Classic
