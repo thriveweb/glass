@@ -1,9 +1,9 @@
 ---
 title: Harrison T
-featuredImage: /images/uploads/harry-t-banner.jpg
+featuredImage: /images/uploads/film-global-banner.jpeg
 imageThumbnail: /images/uploads/harry-t-2.jpg
 firstName: Harrison T
-collection: Boys
+collection: Global
 height: 120cm
 measurementType: chest
 bust: 57cm
