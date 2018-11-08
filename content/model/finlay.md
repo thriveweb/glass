@@ -3,7 +3,7 @@ title: Finlay
 featuredImage: /images/uploads/finlay-8.jpg
 imageThumbnail: /images/uploads/finlay-2.jpg
 firstName: Finlay
-collection: Girls
+collection: Global
 height: 121cm
 measurementType: bust
 bust: 56cm
