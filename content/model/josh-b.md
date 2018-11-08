@@ -3,7 +3,7 @@ title: Josh B
 featuredImage: /images/uploads/tiana-banner.jpg
 imageThumbnail: /images/uploads/josh-b-hs.jpg
 firstName: Josh B
-collection: Men
+collection: Classic
 height: 183cm
 size: XL
 shoeSize: '11'
