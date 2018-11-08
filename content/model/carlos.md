@@ -3,7 +3,7 @@ title: Carlos
 featuredImage: /images/uploads/carl-8.jpg
 imageThumbnail: /images/uploads/carl-10.jpg
 firstName: Carlos
-collection: Boys
+collection: Global
 height: 103cm
 measurementType: chest
 bust: 53.5cm
