@@ -18,5 +18,7 @@ imagePortfolio:
   - image: /images/uploads/bianca-8.jpg
   - image: /images/uploads/bianca-1.jpg
   - image: /images/uploads/bianca-5.jpg
+meta:
+  title: Bianca
 ---
 
