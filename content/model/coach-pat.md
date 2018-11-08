@@ -1,6 +1,6 @@
 ---
 title: Coach Pat
-featuredImage: /images/uploads/coach-pat324987.jpg
+featuredImage: /images/uploads/coach-pat46578908765.jpg
 imageThumbnail: /images/uploads/coach-pat3289477.jpg
 firstName: Coach Pat
 collection: Men
