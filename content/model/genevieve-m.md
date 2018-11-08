@@ -1,6 +1,6 @@
 ---
 title: Genevieve M
-featuredImage: /images/uploads/genny-3.jpg
+featuredImage: /images/uploads/gene-banner.jpg
 imageThumbnail: /images/uploads/genny-1.jpg
 firstName: Genevieve M
 collection: Global
