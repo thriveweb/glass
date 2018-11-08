@@ -15,11 +15,16 @@ hair: Dark Brown
 eyes: Green
 imagePortfolio:
   - image: /images/uploads/img_5754.jpg
+  - image: /images/uploads/alex-a-1.jpg
   - image: /images/uploads/claude-2.jpg
+  - image: /images/uploads/alex-a-2.jpg
   - image: /images/uploads/2-1.jpg
   - image: /images/uploads/img_5753.jpg
+  - image: /images/uploads/alex-a-4.jpg
   - image: /images/uploads/img_5723.jpg
+  - image: /images/uploads/alex-a-5.jpg
   - image: /images/uploads/claude-5.jpg
+  - image: /images/uploads/alex-a-8.jpg
 meta:
   title: Alexander C
 ---
