@@ -3,7 +3,7 @@ title: Jasmine
 featuredImage: /images/uploads/jasmine-banner.jpg
 imageThumbnail: /images/uploads/jasmine-lessue-.jpg
 firstName: Jasmine
-collection: Girls
+collection: Global
 height: 162cm
 bust: 79cm
 waist: 65cm
