@@ -1,6 +1,6 @@
 ---
 title: Tate
-featuredImage: /images/uploads/tate-9.jpg
+featuredImage: /images/uploads/film-global-banner.jpeg
 imageThumbnail: /images/uploads/tate-5.jpg
 firstName: Tate
 collection: Global
