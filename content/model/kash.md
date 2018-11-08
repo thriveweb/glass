@@ -3,7 +3,7 @@ title: Kash
 featuredImage: /images/uploads/sue-s-family-14.jpg
 imageThumbnail: /images/uploads/sue-s-family-4.jpg
 firstName: Kash
-collection: Boys
+collection: Global
 size: '10'
 shoeSize: '8'
 hair: Light Brown
