@@ -1,9 +1,9 @@
 ---
 title: Chloe T
-featuredImage: /images/uploads/chloe-4.jpg
+featuredImage: /images/uploads/film-global-banner.jpeg
 imageThumbnail: /images/uploads/cchloe-her-shadow.jpg
 firstName: Chloe T
-collection: Girls
+collection: Global
 height: 143cm
 measurementType: bust
 bust: 73cm
