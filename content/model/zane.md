@@ -3,7 +3,7 @@ title: Zane
 featuredImage: /images/uploads/z3.jpg
 imageThumbnail: /images/uploads/z2.jpg
 firstName: Zane
-collection: Boys
+collection: Global
 height: 149.5cm
 measurementType: chest
 bust: 76cm
