@@ -16,6 +16,6 @@ content: >-
 
   Huge thank you to everyone who attended on the day and made this such a
   special day to remember.
-videoSource: 'https://www.dropbox.com/sh/6o6y1fmpp5plwts/AAC4XN_jqznw7k-QAMpDby3Ya?dl=0'
+videoSource: 'https://vimeo.com/299805862'
 ---
 
