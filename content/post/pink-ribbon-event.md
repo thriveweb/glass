@@ -1,7 +1,7 @@
 ---
 title: Pink Ribbon Event
 image: /images/uploads/breast-cancer-flyer-1.jpg
-collection: Blog
+collection: Events
 author: Tegan Glass
 date: 9th November 2018
 content: >-
