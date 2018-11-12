@@ -1,6 +1,6 @@
 ---
 title: Lynaah
-featuredImage: /images/uploads/lynaah1874ehadshot.jpg
+featuredImage: /images/uploads/lynah.jpg
 imageThumbnail: /images/uploads/lynaah-4.jpeg
 firstName: Lynaah
 collection: Women
@@ -14,8 +14,12 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/lynaah-5.jpeg
+  - image: /images/uploads/lynah1.jpg
+  - image: /images/uploads/lynah2.jpg
   - image: /images/uploads/lynaah-4.jpeg
+  - image: /images/uploads/lynah3.jpg
   - image: /images/uploads/lynaah-12.jpg
+  - image: /images/uploads/lynah.jpg
   - image: /images/uploads/lynaah-13.jpg
 ---
 
