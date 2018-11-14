@@ -1,6 +1,6 @@
 ---
 title: Kayla
-featuredImage: /images/uploads/kaylaa-banner.jpg
+featuredImage: /images/uploads/kayla-113.jpg
 imageThumbnail: /images/uploads/novasoma-photography-4.jpg
 firstName: Kayla
 collection: Girls
@@ -14,7 +14,9 @@ shoeSize: '9'
 hair: Brown
 eyes: Green
 imagePortfolio:
+  - image: /images/uploads/kayla-120.jpg
   - image: /images/uploads/kayla-7.jpg
+  - image: /images/uploads/kayla-111.jpg
   - image: /images/uploads/kayla-9.jpg
   - image: /images/uploads/kayla-4.jpg
   - image: /images/uploads/kayla-5.jpg
@@ -22,11 +24,19 @@ imagePortfolio:
   - image: /images/uploads/kayla-2.jpg
   - image: /images/uploads/novasoma-photography-3.jpg
   - image: /images/uploads/kayla-12.jpg
+  - image: /images/uploads/kayla-112.jpg
   - image: /images/uploads/novasoma-photography-3.jpg
   - image: /images/uploads/novasoma-photography-2.jpg
+  - image: /images/uploads/kayla-119.jpg
   - image: /images/uploads/novasoma-photography-15.jpg
   - image: /images/uploads/novasoma-photography-23.jpg
   - image: /images/uploads/novasoma-photography-13.jpg
+  - image: /images/uploads/kayla-121.jpg
+  - image: /images/uploads/kayla-116.jpg
+  - image: /images/uploads/kayla-113.jpg
+  - image: /images/uploads/kayla-114.jpg
+  - image: /images/uploads/kayla-118.jpg
+  - {}
 meta:
   title: Kayla
 ---
