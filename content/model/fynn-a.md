@@ -14,6 +14,10 @@ shoeSize: '8'
 hair: Blonde
 imagePortfolio:
   - image: /images/uploads/fynn-1.jpg
+  - image: /images/uploads/fynn-2.jpg
+  - image: /images/uploads/fynn-3.jpg
+  - image: /images/uploads/fynn-4.jpg
+  - image: /images/uploads/fynn-5.jpg
 meta:
   title: Fynn A
 ---
