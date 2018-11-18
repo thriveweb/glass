@@ -1,0 +1,23 @@
+---
+title: Piper K
+featuredImage: /images/uploads/piper-4.jpg
+imageThumbnail: /images/uploads/piper-6.jpg
+firstName: Piper K
+collection: Girls
+height: 118cm
+measurementType: bust
+bust: 56cm
+waist: 48cm
+hips: 57cm
+size: '5'
+shoeSize: '11'
+hair: Blonde
+eyes: Blue
+imagePortfolio:
+  - image: /images/uploads/piper-3.jpg
+  - image: /images/uploads/piper-6.jpg
+  - image: /images/uploads/piper-2.jpg
+meta:
+  title: Piper K
+---
+
