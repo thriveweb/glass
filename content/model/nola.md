@@ -1,6 +1,6 @@
 ---
 title: Nola
-featuredImage: /images/uploads/noela-4.jpg
+featuredImage: /images/uploads/nola-banner.jpg
 imageThumbnail: /images/uploads/noela-1.jpg
 firstName: Nola
 collection: Classic
