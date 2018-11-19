@@ -14,11 +14,11 @@ shoeSize: '7'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/zorana-1111111.jpg
   - image: /images/uploads/zorana-4.jpg
   - image: /images/uploads/zorana-11111.jpg
   - image: /images/uploads/zorana-7.jpg
   - image: /images/uploads/i-w3vnnpx-x3.jpg
-  - image: /images/uploads/zorana-1111111.jpg
   - image: /images/uploads/zorana-5.jpg
   - image: /images/uploads/zorana-111111111.jpg
   - image: /images/uploads/zorana-.jpg
