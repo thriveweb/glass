@@ -16,10 +16,11 @@ eyes: Green
 imagePortfolio:
   - image: /images/uploads/kayla-120.jpg
   - image: /images/uploads/kayla-7.jpg
-  - image: /images/uploads/kayla-111.jpg
+  - image: /images/uploads/kayla111.jpg
   - image: /images/uploads/kayla-9.jpg
   - image: /images/uploads/kayla-4.jpg
   - image: /images/uploads/kayla-5.jpg
+  - image: /images/uploads/kayla-112.jpg
   - image: /images/uploads/kayla-11.jpg
   - image: /images/uploads/kayla-2.jpg
   - image: /images/uploads/novasoma-photography-3.jpg
@@ -36,7 +37,6 @@ imagePortfolio:
   - image: /images/uploads/kayla-113.jpg
   - image: /images/uploads/kayla-114.jpg
   - image: /images/uploads/kayla-118.jpg
-  - {}
 meta:
   title: Kayla
 ---
