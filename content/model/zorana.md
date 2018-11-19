@@ -1,7 +1,7 @@
 ---
 title: Zorana
 featuredImage: /images/uploads/zorana-1.jpg
-imageThumbnail: /images/uploads/zorana-hs.jpg
+imageThumbnail: /images/uploads/zoranahs.jpg
 firstName: Zorana
 collection: Girls
 height: 168cm
