@@ -14,9 +14,12 @@ shoeSize: '11'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/piper-3.jpg
+  - image: /images/uploads/piper5.jpg
   - image: /images/uploads/piper-6.jpg
+  - image: /images/uploads/piper1.jpg
+  - image: /images/uploads/piper-3.jpg
   - image: /images/uploads/piper-2.jpg
+  - image: /images/uploads/piper-7.jpg
 meta:
   title: Piper K
 ---
