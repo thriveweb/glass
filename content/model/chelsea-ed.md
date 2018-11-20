@@ -3,7 +3,7 @@ title: Chelsea Ed
 featuredImage: /images/uploads/chels-ed-3.jpg
 imageThumbnail: /images/uploads/chels-ed.jpg
 firstName: Chelsea Ed
-collection: Girls
+collection: Global
 height: 151cm
 measurementType: bust
 bust: 85cm
