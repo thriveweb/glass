@@ -16,6 +16,7 @@ eyes: Green
 imagePortfolio:
   - image: /images/uploads/rylah.jpg
   - image: /images/uploads/rhy4.jpg
+  - image: /images/uploads/ry.jpg
   - image: /images/uploads/rylah29335.jpg
   - image: /images/uploads/rylah-2.jpg
   - image: /images/uploads/rhy2.jpg
