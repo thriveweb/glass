@@ -11,7 +11,7 @@ shoeSize: kids 10
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/ayo784267382.jpg
+  - image: /images/uploads/ayo27276.jpg
   - image: /images/uploads/ayo4782r634872.jpg
   - image: /images/uploads/ayo28736443.jpg
   - image: /images/uploads/ayo236789.jpg
@@ -29,13 +29,14 @@ imagePortfolio:
   - image: /images/uploads/ayo28394722.jpg
   - image: /images/uploads/ayo289347432.jpg
   - image: /images/uploads/ayo2873689.jpg
+  - image: /images/uploads/ayo23786472.jpg
   - image: /images/uploads/ayo427893448732.jpg
   - image: /images/uploads/ayo2387463874.jpg
   - image: /images/uploads/ayo24643827624.jpg
   - image: /images/uploads/ayo87234689327643.jpg
-  - image: /images/uploads/ayo23786472.jpg
   - image: /images/uploads/kayoda-10.jpg
   - image: /images/uploads/kayoda-3.jpg
+  - image: /images/uploads/ry.jpg
 meta:
   title: Ayo
 ---
