@@ -16,6 +16,7 @@ eyes: Blue
 imagePortfolio:
   - image: /images/uploads/mia-003.jpg
   - image: /images/uploads/mia13.jpg
+  - image: /images/uploads/mia-e-1133.jpg
   - image: /images/uploads/mia-111111.png
   - image: /images/uploads/mia-c.jpeg
   - image: /images/uploads/mia-b.jpeg
@@ -27,10 +28,13 @@ imagePortfolio:
   - image: /images/uploads/mia-aa.jpeg
   - image: /images/uploads/photo-8-7-18-3-52-44-am_preview.jpg
   - image: /images/uploads/mia14.jpg
+  - image: /images/uploads/mia-e-1111.jpg
   - image: /images/uploads/mia3.jpg
   - image: /images/uploads/mia16.jpg
   - image: /images/uploads/photo-8-7-18-4-14-47-am_preview.jpg
+  - image: /images/uploads/mia-e-1114.jpg
   - image: /images/uploads/photo-8-7-18-4-46-05-am_preview.jpg
+  - image: /images/uploads/mia-e-112222.jpg
   - image: /images/uploads/mia5.jpg
   - image: /images/uploads/mia6.jpg
   - image: /images/uploads/photo-8-7-18-4-17-43-am_preview.jpg
