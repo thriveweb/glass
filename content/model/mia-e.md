@@ -16,6 +16,7 @@ eyes: Blue
 imagePortfolio:
   - image: /images/uploads/mia-003.jpg
   - image: /images/uploads/mia13.jpg
+  - image: /images/uploads/mia-111111.png
   - image: /images/uploads/mia-c.jpeg
   - image: /images/uploads/mia-b.jpeg
   - image: /images/uploads/mia-007.png
