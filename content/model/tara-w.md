@@ -1,8 +1,8 @@
 ---
-title: Tara W
-featuredImage: /images/uploads/tara-5.jpg
+title: 'Tara '
+featuredImage: /images/uploads/tara-banner.jpg
 imageThumbnail: /images/uploads/tara-.png
-firstName: Tara W
+firstName: 'Tara '
 collection: Women
 height: 172cm
 measurementType: bust
