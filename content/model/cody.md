@@ -1,6 +1,6 @@
 ---
 title: Cody
-featuredImage: /images/uploads/codybanne43987.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/c6.jpg
 firstName: Cody
 collection: Global
