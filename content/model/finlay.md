@@ -1,6 +1,6 @@
 ---
 title: Finlay
-featuredImage: /images/uploads/finlay-8.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/finlay-2.jpg
 firstName: Finlay
 collection: Global
