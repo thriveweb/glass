@@ -1,6 +1,6 @@
 ---
 title: Ashan
-featuredImage: /images/uploads/ashan8.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/ashan9.jpg
 firstName: Ashan
 collection: Global
