@@ -1,6 +1,6 @@
 ---
 title: Prilia
-featuredImage: /images/uploads/prilia-3.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/prilia-1.jpg
 firstName: Prilia
 collection: Global
