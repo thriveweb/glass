@@ -1,6 +1,6 @@
 ---
 title: Germaine
-featuredImage: /images/uploads/germaine2384791.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/germaine689054.jpg
 firstName: Germaine
 collection: Global
