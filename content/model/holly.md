@@ -1,6 +1,6 @@
 ---
 title: Holly
-featuredImage: /images/uploads/holly-6.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/holly-hs.jpg
 firstName: Holly
 collection: Global
