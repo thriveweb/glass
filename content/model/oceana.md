@@ -1,6 +1,6 @@
 ---
 title: Oceana
-featuredImage: /images/uploads/oceana-2.png
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/oceana-her-shadow.jpg
 firstName: Oceana
 collection: Global
