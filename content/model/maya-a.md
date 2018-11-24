@@ -1,6 +1,6 @@
 ---
 title: Maya A
-featuredImage: /images/uploads/maya-7.jpg
+featuredImage: /images/uploads/maya-banner.jpg
 imageThumbnail: /images/uploads/maya-1.jpg
 firstName: Maya A
 collection: Girls
