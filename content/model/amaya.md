@@ -1,6 +1,6 @@
 ---
 title: Amaya
-featuredImage: /images/uploads/amaya-3.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/amaya-hs.jpg
 firstName: Amaya
 collection: Global
