@@ -1,6 +1,6 @@
 ---
 title: Emily A
-featuredImage: /images/uploads/emily-a-112.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/emily-a-1111.jpg
 firstName: Emily A
 collection: Global
