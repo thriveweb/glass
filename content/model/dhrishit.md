@@ -1,6 +1,6 @@
 ---
 title: Dhrishit
-featuredImage: /images/uploads/dhrish1.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/dris.jpg
 firstName: Dhrishit
 collection: Global
