@@ -1,9 +1,9 @@
 ---
 title: Molly J
-featuredImage: /images/uploads/molly2948376.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/molly32498764567.jpg
 firstName: Molly J
-collection: Girls
+collection: Global
 height: 165cm
 measurementType: bust
 bust: 87cm
