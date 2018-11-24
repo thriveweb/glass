@@ -1,6 +1,6 @@
 ---
 title: Chelsea Ed
-featuredImage: /images/uploads/chels-ed-3.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/chels-ed.jpg
 firstName: Chelsea Ed
 collection: Global
