@@ -1,6 +1,6 @@
 ---
 title: Milos
-featuredImage: /images/uploads/milos-113333.jpg
+featuredImage: /images/uploads/milos-11111.jpg
 imageThumbnail: /images/uploads/milos.jpg
 firstName: Milos
 collection: Men
