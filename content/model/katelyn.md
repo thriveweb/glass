@@ -1,6 +1,6 @@
 ---
 title: Katelyn
-featuredImage: /images/uploads/katelyn34798headernw192864_.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/katelyn.jpg
 firstName: Katelyn
 collection: Global
