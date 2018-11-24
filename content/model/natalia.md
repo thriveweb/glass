@@ -1,6 +1,6 @@
 ---
 title: Natalia
-featuredImage: /images/uploads/nat-banner.jpg
+featuredImage: /images/uploads/nat-banner-2-.jpg
 imageThumbnail: /images/uploads/nat-2.jpg
 firstName: Natalia  A
 collection: Girls
