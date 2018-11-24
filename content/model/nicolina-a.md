@@ -1,6 +1,6 @@
 ---
 title: Nicolina A
-featuredImage: /images/uploads/4s496hdq.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/8l_m4jqq.jpg
 firstName: Nicolina A
 collection: Global
