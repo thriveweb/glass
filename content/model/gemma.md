@@ -1,6 +1,6 @@
 ---
 title: Gemma
-featuredImage: /images/uploads/gemma-2.png
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/gemma-hs.jpg
 firstName: Gemma
 collection: Global
