@@ -1,6 +1,6 @@
 ---
 title: Zane
-featuredImage: /images/uploads/z3.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/z2.jpg
 firstName: Zane
 collection: Global
