@@ -1,6 +1,6 @@
 ---
 title: Carlos
-featuredImage: /images/uploads/carl-8.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/carl-10.jpg
 firstName: Carlos
 collection: Global
