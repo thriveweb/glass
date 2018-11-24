@@ -1,6 +1,6 @@
 ---
 title: Chloe D
-featuredImage: /images/uploads/amn_0475.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/amn_0460.jpg
 firstName: Chloe D
 collection: Global
