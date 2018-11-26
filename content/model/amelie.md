@@ -3,7 +3,7 @@ title: Amelie
 featuredImage: /images/uploads/ama6.jpg
 imageThumbnail: /images/uploads/ama3.jpg
 firstName: Amelie
-collection: Girls
+collection: Global
 height: 142cm
 measurementType: bust
 bust: 69cm
