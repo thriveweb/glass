@@ -1,6 +1,6 @@
 ---
 title: Amelie
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
+featuredImage: /images/uploads/ama6.jpg
 imageThumbnail: /images/uploads/ama3.jpg
 firstName: Amelie
 collection: Global
