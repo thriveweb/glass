@@ -12,7 +12,7 @@ hips: 100cm
 size: Size 12
 shoeSize: '9'
 hair: Brown
-eyes: Brown
+eyes: Green
 imagePortfolio:
   - image: /images/uploads/4s496hdq.jpg
   - image: /images/uploads/wmhtdnva.jpg
