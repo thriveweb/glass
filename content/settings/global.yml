@@ -43,6 +43,7 @@ partners:
   - image: /images/uploads/jetpilot-sticker-corporate-20-pack.jpg
   - image: /images/uploads/download.png
   - image: /images/uploads/city-beach-logo-2.jpg
+  - image: /images/uploads/village-roadshow.png
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
