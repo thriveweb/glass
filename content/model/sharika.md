@@ -14,9 +14,9 @@ shoeSize: '7'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/sharika-1.jpg
-  - image: /images/uploads/sharika-555.jpg
   - image: /images/uploads/sharika-6666.jpg
+  - image: /images/uploads/sharika-555.jpg
+  - image: /images/uploads/sharika-1.jpg
   - image: /images/uploads/shakira-q.jpg
   - image: /images/uploads/sharika-8.jpg
   - image: /images/uploads/sharika-9.jpg
