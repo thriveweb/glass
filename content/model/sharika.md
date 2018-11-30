@@ -1,6 +1,6 @@
 ---
 title: Shakira
-featuredImage: /images/uploads/sharika-banner.jpg
+featuredImage: /images/uploads/sharika-1.jpg
 imageThumbnail: /images/uploads/sharika-4.jpg
 firstName: Shakira
 collection: Classic
@@ -14,12 +14,14 @@ shoeSize: '7'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
+  - image: /images/uploads/sharika-1.jpg
+  - image: /images/uploads/sharika-555.jpg
+  - image: /images/uploads/sharika-6666.jpg
   - image: /images/uploads/shakira-q.jpg
   - image: /images/uploads/sharika-8.jpg
   - image: /images/uploads/sharika-9.jpg
   - image: /images/uploads/sharika-4.jpg
   - image: /images/uploads/shakira-6.jpg
-  - {}
 meta:
   title: Shakira
 ---
