@@ -27,13 +27,17 @@ imagePortfolio:
   - image: /images/uploads/laila5316267891.jpg
   - image: /images/uploads/laila317289-.jpg
   - image: /images/uploads/laila987362.jpg
+  - image: /images/uploads/sharika-777.jpg
   - image: /images/uploads/lailat237829.jpg
   - image: /images/uploads/laila-ashton32476.jpg
   - image: /images/uploads/laila-ashton326728.jpg
   - image: /images/uploads/laila-ashton4623789.jpg
   - image: /images/uploads/laila-ashton26347829.jpg
+  - image: /images/uploads/sharika-999.jpg
   - image: /images/uploads/laila-ashtont7234823.jpg
   - image: /images/uploads/amn_7043.jpg
+  - image: /images/uploads/sharika-555.jpg
+  - image: /images/uploads/sharika-1.jpg
 meta:
   title: Laila
 ---
