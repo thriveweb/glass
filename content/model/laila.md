@@ -1,6 +1,6 @@
 ---
 title: Laila
-featuredImage: /images/uploads/laila317289457348.jpg
+featuredImage: /images/uploads/sharika-1.jpg
 imageThumbnail: /images/uploads/laila237289.jpg
 firstName: Laila
 collection: Girls
