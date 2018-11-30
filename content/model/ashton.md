@@ -22,6 +22,7 @@ imagePortfolio:
   - image: /images/uploads/amn_7018.jpg
   - image: /images/uploads/amn_7004.jpg
   - image: /images/uploads/amn_7027.jpg
+  - image: /images/uploads/sharika-4444.jpg
   - image: /images/uploads/amn_6995.jpg
   - image: /images/uploads/amn_6981.jpg
   - image: /images/uploads/amn_7002.jpg
@@ -29,8 +30,10 @@ imagePortfolio:
   - image: /images/uploads/laila-ashton326728.jpg
   - image: /images/uploads/laila-ashton4623789.jpg
   - image: /images/uploads/laila-ashton26347829.jpg
+  - image: /images/uploads/sharika-1.jpg
   - image: /images/uploads/laila-ashtont7234823.jpg
   - image: /images/uploads/amn_7043.jpg
+  - image: /images/uploads/sharika-999.jpg
   - image: /images/uploads/ashton-and-layla.jpg
   - image: /images/uploads/ashton-111118.jpg
 meta:
