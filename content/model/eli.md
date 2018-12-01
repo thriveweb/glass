@@ -1,6 +1,6 @@
 ---
 title: Eli
-featuredImage: /images/uploads/snellkids.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/sne939.jpg
 firstName: Eli
 collection: Global
