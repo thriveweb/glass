@@ -1,9 +1,9 @@
 ---
 title: Saxon
-featuredImage: /images/uploads/snellkids.jpg
+featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/sne962.jpg
 firstName: Saxon
-collection: Boys
+collection: Global
 height: 122cm
 measurementType: chest
 bust: 57cm
