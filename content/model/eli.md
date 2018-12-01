@@ -3,7 +3,7 @@ title: Eli
 featuredImage: /images/uploads/snellkids.jpg
 imageThumbnail: /images/uploads/sne939.jpg
 firstName: Eli
-collection: Boys
+collection: Global
 height: 140cm
 measurementType: chest
 bust: 65cm
