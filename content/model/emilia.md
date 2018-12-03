@@ -5,6 +5,7 @@ imageThumbnail: /images/uploads/emilia.jpg
 firstName: Emilia
 collection: Girls
 height: 144cm
+measurementType: bust
 bust: 65cm
 waist: 58cm
 hips: 64cm
