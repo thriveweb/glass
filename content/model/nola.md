@@ -17,6 +17,8 @@ imagePortfolio:
   - image: /images/uploads/noela-3.jpg
   - image: /images/uploads/noela-6.jpg
   - image: /images/uploads/noela-4.jpg
+  - image: /images/uploads/noela.jpg
+  - image: /images/uploads/noela1.jpg
 meta:
   title: Nola
 ---
