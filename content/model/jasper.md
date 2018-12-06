@@ -1,7 +1,7 @@
 ---
 title: Jasper
 featuredImage: /images/uploads/jasper3274.jpg
-imageThumbnail: /images/uploads/jasper43982736.jpg
+imageThumbnail: /images/uploads/jasper-hs.jpg
 firstName: Jasper
 collection: Boys
 height: 120cm
