@@ -29,6 +29,7 @@ imagePortfolio:
   - image: /images/uploads/jag-14.jpg
   - image: /images/uploads/jag-1212.jpg
   - image: /images/uploads/jag-9.jpg
+  - image: /images/uploads/jag-19119191.jpg
 meta:
   title: Jagger
 ---
