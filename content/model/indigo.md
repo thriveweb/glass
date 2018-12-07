@@ -14,9 +14,9 @@ shoeSize: '10'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
+  - image: /images/uploads/indi-8.jpg
   - image: /images/uploads/indi-2.jpg
   - image: /images/uploads/indi-1.jpg
-  - image: /images/uploads/indi-8.jpg
   - image: /images/uploads/indi-hs.jpg
   - image: /images/uploads/indi-5.jpg
   - image: /images/uploads/indi-6.jpg
