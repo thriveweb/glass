@@ -1,6 +1,6 @@
 ---
 title: Jazz
-featuredImage: /images/uploads/jaz-banner.jpg
+featuredImage: /images/uploads/jaz-banner-1-.jpg
 imageThumbnail: /images/uploads/jaz-21.jpg
 firstName: Jazz
 collection: Girls
