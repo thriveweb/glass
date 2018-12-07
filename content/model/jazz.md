@@ -1,6 +1,6 @@
 ---
 title: Jazz
-featuredImage: /images/uploads/jaz-10.jpg
+featuredImage: /images/uploads/jaz-banner-101.jpg
 imageThumbnail: /images/uploads/jaz-21.jpg
 firstName: Jazz
 collection: Girls
@@ -16,10 +16,10 @@ eyes: Blue
 imagePortfolio:
   - image: /images/uploads/jaz-7.jpg
   - image: /images/uploads/jaz-2.jpg
-  - image: /images/uploads/jaz-4.jpg
   - image: /images/uploads/jaz-her-shadow.jpg
-  - image: /images/uploads/jaz-8.jpg
+  - image: /images/uploads/jaz-4.jpg
   - image: /images/uploads/jaz-10.jpg
+  - image: /images/uploads/jaz-8.jpg
   - image: /images/uploads/jaz-5.jpg
   - image: /images/uploads/jaz-13.jpg
 meta:
