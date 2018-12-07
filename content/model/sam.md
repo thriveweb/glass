@@ -1,6 +1,6 @@
 ---
 title: Sam
-featuredImage: /images/uploads/sam13.jpg
+featuredImage: /images/uploads/sammy-12121212121.jpg
 imageThumbnail: /images/uploads/sam8.jpg
 firstName: Sam
 collection: Women
@@ -24,5 +24,11 @@ imagePortfolio:
   - image: /images/uploads/sam-4.jpg
   - image: /images/uploads/sam-5.jpg
   - image: /images/uploads/sam12.jpg
+  - image: /images/uploads/sammy-1.jpg
+  - image: /images/uploads/sammy-111.jpg
+  - image: /images/uploads/sammy-1919191.jpg
+  - image: /images/uploads/sammy-12121212121.jpg
+  - {}
+  - {}
 ---
 
