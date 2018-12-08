@@ -30,21 +30,18 @@ imagePortfolio:
   - image: /images/uploads/erin7.jpg
   - image: /images/uploads/erin2364879.jpg
   - image: /images/uploads/erin2.jpg
-  - image: /images/uploads/erin2387394.jpg
   - image: /images/uploads/erin13.jpg
   - image: /images/uploads/erin-new-3.jpg
   - image: /images/uploads/erin-new-13.jpg
-  - image: /images/uploads/erin12.jpg
   - image: /images/uploads/erin6.jpg
-  - image: /images/uploads/erin5.jpg
   - image: /images/uploads/erin-new-4.jpg
   - image: /images/uploads/erin-093.jpg
   - image: /images/uploads/erin-185.jpg
   - image: /images/uploads/erin-new-13111.jpg
+  - image: /images/uploads/erin-new-141.jpg
   - image: /images/uploads/erin-570.jpg
   - image: /images/uploads/erin-3238.jpg
   - image: /images/uploads/erin-new-banner.jpg
-  - image: /images/uploads/erin-new-141.jpg
   - image: /images/uploads/erin-new-19.jpg
 meta:
   title: Erin
