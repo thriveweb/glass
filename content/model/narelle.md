@@ -12,7 +12,6 @@ hair: Brown
 eyes: Green
 imagePortfolio:
   - image: /images/uploads/narelle-.jpg
-  - image: /images/uploads/narelle-hs.jpg
   - image: /images/uploads/narelle-2.jpg
   - image: /images/uploads/narelle-6.jpg
   - image: /images/uploads/narelle-3.jpg
