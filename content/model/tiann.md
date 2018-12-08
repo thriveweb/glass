@@ -1,6 +1,6 @@
 ---
 title: Tiann
-featuredImage: /images/uploads/tt-6.jpg
+featuredImage: /images/uploads/truc-16.jpg
 imageThumbnail: /images/uploads/tt-1.jpg
 firstName: Tiann
 collection: Girls
@@ -14,7 +14,11 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/tt-4.jpg
+  - image: /images/uploads/truc-51.jpg
+  - image: /images/uploads/truc-1.jpg
+  - image: /images/uploads/truc-13.jpg
   - image: /images/uploads/ti1.jpg
+  - image: /images/uploads/truc-85.jpg
   - image: /images/uploads/tiann-12.jpeg
   - image: /images/uploads/tt-1.jpg
   - image: /images/uploads/ti4.jpg
@@ -29,12 +33,15 @@ imagePortfolio:
   - image: /images/uploads/ti13.jpg
   - image: /images/uploads/tiann-11.jpeg
   - image: /images/uploads/ti14.jpg
+  - image: /images/uploads/truc-family-3.jpg
   - image: /images/uploads/yi9.jpg
   - image: /images/uploads/tiann-13.jpeg
+  - image: /images/uploads/truc-16.jpg
   - image: /images/uploads/tiann-15.jpeg
   - image: /images/uploads/tiann-17.jpeg
   - image: /images/uploads/tiann-19.jpeg
   - image: /images/uploads/tt-3.jpg
+  - {}
 meta:
   title: Tiann
 ---
