@@ -44,6 +44,19 @@ partners:
   - image: /images/uploads/download.png
   - image: /images/uploads/city-beach-logo-2.jpg
   - image: /images/uploads/vr.jpg
+  - image: /images/uploads/honda-logo-1920x1080.png
+  - image: /images/uploads/asset-2logo_blue.png
+  - image: /images/uploads/download-2.png
+  - image: /images/uploads/download-3.png
+  - image: /images/uploads/download-3.jpg
+  - image: /images/uploads/download-4.jpg
+  - image: /images/uploads/download-5.jpg
+  - image: /images/uploads/download-4.png
+  - image: /images/uploads/download-5.png
+  - image: /images/uploads/download-6.jpg
+  - image: /images/uploads/download-7.png
+  - image: /images/uploads/download-8.png
+  - {}
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
