@@ -1,6 +1,6 @@
 ---
 title: Taya
-featuredImage: /images/uploads/t5.jpg
+featuredImage: /images/uploads/truc-16.jpg
 imageThumbnail: /images/uploads/t.jpg
 firstName: Taya
 collection: Girls
@@ -27,5 +27,9 @@ imagePortfolio:
   - image: /images/uploads/t9.jpg
   - image: /images/uploads/t7.jpg
   - image: /images/uploads/taya-target.jpg
+  - image: /images/uploads/truc-family-3.jpg
+  - image: /images/uploads/truc-16.jpg
+meta:
+  title: Taya
 ---
 
