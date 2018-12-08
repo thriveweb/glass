@@ -24,6 +24,11 @@ imagePortfolio:
   - image: /images/uploads/ty-5.jpg
   - image: /images/uploads/ty-10.jpg
   - image: /images/uploads/ty-12.jpg
+  - image: /images/uploads/truc-16.jpg
+  - image: /images/uploads/truc-10-1-.jpg
+  - image: /images/uploads/truc-24.jpg
+  - image: /images/uploads/truc-15.jpg
+  - image: /images/uploads/truc-family-3.jpg
 meta:
   title: Ty B
 ---
