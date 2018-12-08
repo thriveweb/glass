@@ -56,7 +56,24 @@ partners:
   - image: /images/uploads/download-6.jpg
   - image: /images/uploads/download-7.png
   - image: /images/uploads/download-8.png
-  - {}
+  - image: /images/uploads/download-7.jpg
+  - image: /images/uploads/download-1.png
+  - image: /images/uploads/download-8.jpg
+  - image: /images/uploads/download-11.png
+  - image: /images/uploads/download-9.png
+  - image: /images/uploads/download-9.jpg
+  - image: /images/uploads/download-12.png
+  - image: /images/uploads/download-10.jpg
+  - image: /images/uploads/download-11.jpg
+  - image: /images/uploads/download-13.png
+  - image: /images/uploads/download-12.jpg
+  - image: /images/uploads/download-15.png
+  - image: /images/uploads/download-14.jpg
+  - image: /images/uploads/download-13.jpg
+  - image: /images/uploads/download-14.png
+  - image: /images/uploads/images-1.png
+  - image: /images/uploads/download-15.jpg
+  - image: /images/uploads/download-17.png
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
