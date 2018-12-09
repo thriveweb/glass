@@ -4,13 +4,13 @@ featuredImage: /images/uploads/harry49875391111111.jpg
 imageThumbnail: /images/uploads/harry2387493.jpg
 firstName: Harry
 collection: Boys
-height: 168cm
+height: 173cm
 measurementType: chest
-bust: 76cm
-waist: 66cm
-hips: 87cm
+bust: 74cm
+waist: 69cm
+hips: 85cm
 size: S/M
-shoeSize: '8'
+shoeSize: '9'
 hair: Dark Brown
 eyes: Dark Brown
 imagePortfolio:
