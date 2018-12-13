@@ -1,7 +1,7 @@
 ---
 title: Alex H
 featuredImage: /images/uploads/alex-hughes.jpg
-imageThumbnail: /images/uploads/alexh34878937400000.jpg
+imageThumbnail: /images/uploads/alex-hughes-8.jpg
 firstName: Alex H
 collection: Boys
 height: 150cm
