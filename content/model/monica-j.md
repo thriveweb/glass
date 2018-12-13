@@ -1,6 +1,6 @@
 ---
 title: Monica J
-featuredImage: /images/uploads/monica-banner.jpg
+featuredImage: /images/uploads/monica-banner-2-.jpg
 imageThumbnail: /images/uploads/monica-judd-photos-10.jpg
 firstName: Monica
 collection: Classic
