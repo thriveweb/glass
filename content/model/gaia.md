@@ -14,8 +14,8 @@ shoeSize: Kids 1 -2
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/131218_17.jpg
   - image: /images/uploads/131218_20.jpg
+  - image: /images/uploads/131218_17.jpg
   - image: /images/uploads/131218_2.jpg
   - image: /images/uploads/131218_19.jpg
   - image: /images/uploads/7r1a9567.jpg
