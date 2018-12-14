@@ -1,6 +1,6 @@
 ---
 title: Alex H
-featuredImage: /images/uploads/alex-hughes-3.jpg
+featuredImage: /images/uploads/alex-hughes-banner.jpg
 imageThumbnail: /images/uploads/alexh34878937400000.jpg
 firstName: Alex H
 collection: Boys
