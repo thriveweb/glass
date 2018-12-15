@@ -1,6 +1,6 @@
 ---
 title: Harry
-featuredImage: /images/uploads/harry-1818191.jpg
+featuredImage: /images/uploads/harry-191919191.jpg
 imageThumbnail: /images/uploads/harry-161616161.jpg
 firstName: Harry
 collection: Boys
