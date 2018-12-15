@@ -1,7 +1,7 @@
 ---
 title: Alfred R
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/alfred-hs-.jpg
+featuredImage: /images/uploads/alf-6.jpg
+imageThumbnail: /images/uploads/lf-h-s-.jpg
 firstName: Alfred R
 collection: Global
 height: 178cm
@@ -21,7 +21,8 @@ imagePortfolio:
   - image: /images/uploads/alfred-5.jpg
   - image: /images/uploads/alfred-6.jpg
   - image: /images/uploads/alfred-7.jpg
-  - {}
+  - image: /images/uploads/alf-3.jpg
+  - image: /images/uploads/alfg.jpg
 meta:
   title: Alfred R
 ---
