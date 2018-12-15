@@ -14,6 +14,12 @@ shoeSize: '9.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: /images/uploads/amn_0240.jpg
+  - image: /images/uploads/alf-3.jpg
+  - image: /images/uploads/alfg.jpg
+  - image: /images/uploads/lf-h-s-.jpg
+  - image: /images/uploads/alf-6.jpg
+  - image: /images/uploads/alferere.jpg
   - image: /images/uploads/alfred-3.jpg
   - image: /images/uploads/alfred-2.jpg
   - image: /images/uploads/alfred-4.jpg
@@ -21,8 +27,6 @@ imagePortfolio:
   - image: /images/uploads/alfred-5.jpg
   - image: /images/uploads/alfred-6.jpg
   - image: /images/uploads/alfred-7.jpg
-  - image: /images/uploads/alf-3.jpg
-  - image: /images/uploads/alfg.jpg
 meta:
   title: Alfred R
 ---
