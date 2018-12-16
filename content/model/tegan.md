@@ -17,13 +17,14 @@ imagePortfolio:
   - image: /images/uploads/tegan.jpg
   - image: /images/uploads/tegan3.jpg
   - image: /images/uploads/2817028_8595970.jpg
+  - image: /images/uploads/img_3180.jpg
+  - image: /images/uploads/img_3175.jpg
   - image: /images/uploads/amn_8380-1-_preview.jpg
   - image: /images/uploads/tegan1.jpg
   - image: /images/uploads/img_0576.jpg
   - image: /images/uploads/img_0573.jpg
   - image: /images/uploads/img_0578.jpg
   - image: /images/uploads/img_0574.jpg
-  - image: /images/uploads/calyspo-bay-thumb-03.jpg
   - image: /images/uploads/tegan4.jpg
   - image: /images/uploads/tegan2.jpg
 ---
