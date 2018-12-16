@@ -1,9 +1,10 @@
 ---
 title: Patrick B
-featuredImage: /images/uploads/unspecified-4.jpg
+featuredImage: /images/uploads/pat-b-banner.jpg
 imageThumbnail: /images/uploads/pat-her-shadow-.jpg
 firstName: Patrick B
 collection: Global
+height: 180cm
 hair: Brown
 eyes: Brown
 imagePortfolio:
