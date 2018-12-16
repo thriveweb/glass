@@ -16,13 +16,12 @@ eyes: Brown
 imagePortfolio:
   - image: /images/uploads/l-11.jpg
   - image: /images/uploads/-l-2.jpg
-  - image: /images/uploads/l-432.jpg
-  - image: /images/uploads/l-3.jpg
+  - image: /images/uploads/l-qq.jpg
   - image: /images/uploads/arl-11.jpg
   - image: /images/uploads/l-5.jpg
-  - image: /images/uploads/l-h-s-.jpg
   - image: /images/uploads/-3323.jpg
-  - image: /images/uploads/l-qq.jpg
+  - image: /images/uploads/l-54.jpg
+  - image: /images/uploads/l-h-s-.jpg
   - image: /images/uploads/bababa.jpg
 meta:
   title: Lexi
