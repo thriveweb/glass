@@ -1,6 +1,6 @@
 ---
 title: Alfred R
-featuredImage: /images/uploads/alf-6.jpg
+featuredImage: /images/uploads/alf-banner.jpg
 imageThumbnail: /images/uploads/lf-h-s-.jpg
 firstName: Alfred R
 collection: Global
