@@ -54,11 +54,12 @@ content: >-
 
 
   The next major thing that I can't help but bring up, was the raising of a
-  thousand dollars for breast cancer funds. I was more than excited to raise the
-  money, and spend my birthday surrounded by talented children and their awesome
-  and giving parents, and grandparents. The catwalk event wouldn't have been
-  possible, without the generosity and love from Sally at Sun Emporium -- who
-  designed and supplied all of the lovely children swimwear for the event.
+  thousand dollars for the Breast Cancer Foundation. I was more than excited to
+  help raise the money, and spend my birthday surrounded by talented children
+  and their awesome and giving parents, and grandparents. The catwalk event
+  wouldn't have been possible, without the generosity and love from Sally at Sun
+  Emporium -- who designed and supplied all of the lovely children swimwear for
+  the event.
 
 
   We had but one thing left to do, to fully establish ourselves as a company.
