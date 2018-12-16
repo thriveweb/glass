@@ -83,7 +83,7 @@ featuredPosts:
   blogPosts:
     - collection: 'Chelsea''s Choice #10'
     - collection: Sanctuary Cove Boat Show
-    - collection: 'Chelsea''s Choice #11'
+    - collection: 'Chelsea''s Choice #12'
     - collection: Pink Ribbon Event
   subTitle: Our Journal
   title: Read Our Latest News
