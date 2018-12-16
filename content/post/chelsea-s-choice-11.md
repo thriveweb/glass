@@ -1,78 +1,129 @@
 ---
 title: 'Chelsea''s Choice #11'
-image: /images/uploads/help-us-help-you-chelsea-schoice-11.jpeg
-collection: Help Us Help You
+image: /images/uploads/pexels-photo-285173.jpeg
+collection: End To An Amazing Year
 author: Chelsea
-date: 8th October 2018
+date: 16th December 2018
 content: >-
-  I believe we can all agree, that having an agency is rather important when it
-  comes to getting the jobs you want, and/or need.
+  As the year of 2018 comes to a close, I look back with fondness at the
+  memories of the past year. Leaving behind a toxic environment, only to make
+  our own amazing environment from the ground up.
 
 
-  But despite how important it is to have an agency - I've found that so many
-  people simply: join, and wait.
 
 
-  I am here to tell you now, that if you do that... chances are you're not
-  getting any jobs.
+  Reflecting back on the four months of creating Glass behind the scenes, I
+  remember vividly brainstorming for the logo, and ideas for the website, as
+  well as different opportunities for those who were to join in the coming
+  months. The place we called an office for the first few months, buzzed with
+  excitement and anticipation every time we entered it. We had a grinning dog
+  greet us every time, he was our mascot -- Lewie, otherwise known as Lulu.
 
 
-  Here are a few tips to ensure that you get the most out of your agency, and
-  your agency gets the most out of you!
 
 
-  **Put in 100%**
+  The building excitement was almost too much to bear, as we waited anxiously
+  for our website to go live on the 1st of June 2018. After months of slaving
+  over our computers, to create and upload everyone's profiles, the relief was
+  second to none as the website aired looking fabulous.
 
 
-  No agency is going to confidently send you in for castings if you're not
-  active! Build your skills, expand on your skills, compile more photos, send
-  them off to your agency!
 
 
-  It's as simple as this: both you and your agency need to put in 100%. If you
-  leave your agency with a few photos and expect them to get you a job, then
-  you're sorely mistaken.
+  Our thoughts then turned to our talent and wanting to welcome them to the
+  Glass Family. We hosted a meet and greet at the Southport Yacht Club, and it
+  went off without a hitch. It was a breath a fresh air, to finally meet so many
+  new and incredible people, as well as picking up where we left off on the
+  talent we already knew. I can say from personal experience, that seeing all of
+  the children bouncing around, nearly gave me a heart attack -- they were all
+  too adorable, and I fell in love at first sight.
 
 
-  **Always Check Emails**
 
 
-  It is amazing how short notice some briefs can be. More often than not, your
-  agent gets a brief and will have to respond within an hour! If they email you,
-  in desperate need of information so that they can submit you, and you don't
-  reply as fast as you can?
+  Once the website was live, and we had met all of our gorgeous talent... the
+  phones wouldn't stop ringing, the emails wouldn't stop spamming us, and the
+  clients practically knocked our doors down. The jobs coming in were almost
+  like a tsunami, equally terrifying yet exciting.
 
 
-  You will lose the opportunity.
 
 
-  **Training**
+  Our next step was to focus solely on our talent, and their talent. We started
+  the first ever master classes. Where we would go on to teach, groups of
+  beautiful children how to model, how to act, and how to be awesome. This was
+  one of the highlights of my year, as I adored teaching so many youngens the
+  skills that I had learnt as an actor and model over the years -- plus, they
+  were all so cute.
 
 
-  Believe it or not, doing a single course on acting doesn't suddenly make you a
-  good actor. And doing one modelling course doesn't suddenly make you a good
-  model.
 
 
-  I have found that so many people call themselves actors/models merely because
-  they belong to an agency and/or did one course.
+  I loved watching so many of the tweens and teens evolve as the classes went
+  on. I was so delighted and proud to see, that at the end of each term, their
+  already existing talent skyrocketed, and that they all left with newfound
+  friends.
 
 
-  It's almost exactly like saying you did one pilot training session, and now
-  you're a pilot. It simply doesn't work that way.
 
 
-  I am continually expanding my skills, and although I already have eleven years
-  of acting under my belt, I still attend workshops and courses regarding
-  acting. No matter how much experience you have, there is always going to be
-  room for improvement. Modelling and acting alike.
+  The next major thing that I can't help but bring up, was the raising of a
+  thousand dollars for breast cancer funds. I was more than excited to raise the
+  money, and spend my birthday surrounded by talented children and their awesome
+  and giving parents, and grandparents. The catwalk event wouldn't have been
+  possible, without the generosity and love from Sally at Sun Emporium -- who
+  designed and supplied all of the lovely children swimwear for the event.
 
 
-  **Thanks for reading this week's blog!**
-meta:
-  description: >-
-    #chelsea #choice #model #modelling #actor #acting #actress #agency
-    #goldcoast #blog #tips #courses #modellingcourses #actingcourses
-  title: 'Chelsea''s Choice #11'
+
+
+  We had but one thing left to do, to fully establish ourselves as a company.
+
+
+
+
+  Have an office.
+
+
+
+
+  We searched for months, looking for the perfect office space and environment
+  for us, and our talent. Eventually, we found it. The Space GC is the perfect
+  location to create and nurture lasting relationships with both our talent and
+  clients.
+
+
+
+
+  I remember seeing Tegan in her absolute element, once she was tasked in
+  decorating our newly found office. She was on a mission and did it all in one
+  day -- and even took the time to find me a little rose, of which I had
+  requested weeks before and forgotten.
+
+
+
+
+  So, as you can see, from my year -- I couldn't be happier and more fulfilled
+  to be a part of the Glass Family.
+
+
+
+
+  Everyone that surrounded me, my family, Tegan's family, and the talents family
+  -- they all changed my life for the better.
+
+
+
+
+  And I couldn't be more grateful.
+
+
+
+
+  **Thanks,**\
+
+  **Lots of Love,**\
+
+  **\-- Chelsea xoxo**
 ---
 
