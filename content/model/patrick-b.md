@@ -4,6 +4,8 @@ featuredImage: /images/uploads/unspecified-4.jpg
 imageThumbnail: /images/uploads/pat-her-shadow-.jpg
 firstName: Patrick B
 collection: Global
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: /images/uploads/pat-b-42.jpg
   - image: /images/uploads/pat-n-cc.jpg
