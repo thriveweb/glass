@@ -1,6 +1,6 @@
 ---
 title: Riley
-featuredImage: /images/uploads/reib-4.jpg
+featuredImage: /images/uploads/banner-riley-1-.jpg
 imageThumbnail: /images/uploads/aaddr3e.jpg
 firstName: Riley
 collection: Global
