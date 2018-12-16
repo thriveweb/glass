@@ -1,6 +1,6 @@
 ---
 title: Lukah
-featuredImage: /images/uploads/l-9.jpg
+featuredImage: /images/uploads/lukah-banner.jpg
 imageThumbnail: /images/uploads/l-2.jpg
 firstName: Lukah
 collection: Boys
