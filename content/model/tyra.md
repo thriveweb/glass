@@ -16,6 +16,7 @@ imagePortfolio:
   - image: /images/uploads/amn_3951.jpg
   - image: /images/uploads/tyra8q9273.jpg
   - image: /images/uploads/amn_4131.jpg
+  - image: /images/uploads/img_3176.jpg
   - image: /images/uploads/tyra129783.jpg
   - image: /images/uploads/d11fa0_9bafa459051f49279cd49da6874b52d3~mv2.jpg
   - image: /images/uploads/201710284171bw.jpg
@@ -27,6 +28,7 @@ imagePortfolio:
   - image: /images/uploads/amn_1641-1-copy_preview.jpg
   - image: /images/uploads/amn_1627_preview.jpg
   - image: /images/uploads/amn_1674-1-_preview.jpg
+  - {}
 meta:
   title: Tyra
 ---
