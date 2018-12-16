@@ -1,5 +1,5 @@
 ---
-title: IIan
+title: Ilan
 featuredImage: /images/uploads/jkhjhjhjasa.jpg
 imageThumbnail: /images/uploads/l-hs.jpg
 firstName: Ilan
