@@ -15,7 +15,7 @@ content: >-
   well as different opportunities for those who were to join in the coming
   months. The place we called an office for the first few months, buzzed with
   excitement and anticipation every time we entered it. We had a grinning dog
-  greet us every time, he was our mascot -- Lewie, otherwise known as Lulu.
+  greet us every time, he was our mascot -- Louis, otherwise known as Lulu.
 
 
   The building excitement was almost too much to bear, as we waited anxiously
