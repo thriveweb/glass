@@ -23,6 +23,7 @@ imagePortfolio:
   - image: /images/uploads/l-54.jpg
   - image: /images/uploads/l-h-s-.jpg
   - image: /images/uploads/bababa.jpg
+  - {}
 meta:
   title: Lexi
 ---
