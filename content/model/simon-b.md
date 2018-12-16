@@ -1,6 +1,6 @@
 ---
 title: Simon B
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
+featuredImage: /images/uploads/simon-banner.jpg
 imageThumbnail: /images/uploads/simon-h-s-.jpg
 firstName: Simon B
 collection: Global
