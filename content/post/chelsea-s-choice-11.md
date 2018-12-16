@@ -10,8 +10,6 @@ content: >-
   our own amazing environment from the ground up.
 
 
-
-
   Reflecting back on the four months of creating Glass behind the scenes, I
   remember vividly brainstorming for the logo, and ideas for the website, as
   well as different opportunities for those who were to join in the coming
@@ -20,33 +18,25 @@ content: >-
   greet us every time, he was our mascot -- Lewie, otherwise known as Lulu.
 
 
-
-
   The building excitement was almost too much to bear, as we waited anxiously
   for our website to go live on the 1st of June 2018. After months of slaving
   over our computers, to create and upload everyone's profiles, the relief was
   second to none as the website aired looking fabulous.
 
 
-
-
   Our thoughts then turned to our talent and wanting to welcome them to the
   Glass Family. We hosted a meet and greet at the Southport Yacht Club, and it
-  went off without a hitch. It was a breath a fresh air, to finally meet so many
-  new and incredible people, as well as picking up where we left off on the
+  went off without a hitch. It was a breath of fresh air, to finally meet so
+  many new and incredible people, as well as picking up where we left off on the
   talent we already knew. I can say from personal experience, that seeing all of
   the children bouncing around, nearly gave me a heart attack -- they were all
   too adorable, and I fell in love at first sight.
-
-
 
 
   Once the website was live, and we had met all of our gorgeous talent... the
   phones wouldn't stop ringing, the emails wouldn't stop spamming us, and the
   clients practically knocked our doors down. The jobs coming in were almost
   like a tsunami, equally terrifying yet exciting.
-
-
 
 
   Our next step was to focus solely on our talent, and their talent. We started
@@ -57,14 +47,10 @@ content: >-
   were all so cute.
 
 
-
-
   I loved watching so many of the tweens and teens evolve as the classes went
   on. I was so delighted and proud to see, that at the end of each term, their
   already existing talent skyrocketed, and that they all left with newfound
   friends.
-
-
 
 
   The next major thing that I can't help but bring up, was the raising of a
@@ -75,16 +61,10 @@ content: >-
   designed and supplied all of the lovely children swimwear for the event.
 
 
-
-
   We had but one thing left to do, to fully establish ourselves as a company.
 
 
-
-
   Have an office.
-
-
 
 
   We searched for months, looking for the perfect office space and environment
@@ -93,31 +73,21 @@ content: >-
   clients.
 
 
-
-
   I remember seeing Tegan in her absolute element, once she was tasked in
   decorating our newly found office. She was on a mission and did it all in one
   day -- and even took the time to find me a little rose, of which I had
   requested weeks before and forgotten.
 
 
-
-
   So, as you can see, from my year -- I couldn't be happier and more fulfilled
   to be a part of the Glass Family.
-
-
 
 
   Everyone that surrounded me, my family, Tegan's family, and the talents family
   -- they all changed my life for the better.
 
 
-
-
   And I couldn't be more grateful.
-
-
 
 
   **Thanks,**\
