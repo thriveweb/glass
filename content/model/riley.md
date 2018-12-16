@@ -4,9 +4,15 @@ featuredImage: /images/uploads/banner-riley-1-.jpg
 imageThumbnail: /images/uploads/aaddr3e.jpg
 firstName: Riley
 collection: Global
-height: 181cm
+height: 187cm
+measurementType: chest
+bust: 95cm
+waist: 84cm
+hips: 103 cm
+size: Shirt L Pant 36
+shoeSize: '12'
 hair: Brown
-eyes: Brown
+eyes: Hazel
 imagePortfolio:
   - image: /images/uploads/rei-1.jpg
   - image: /images/uploads/rei-3.jpg
