@@ -17,8 +17,10 @@ imagePortfolio:
   - image: /images/uploads/amn_4036_preview.jpg
   - image: /images/uploads/jeff5.jpg
   - image: /images/uploads/jeff.jpg
+  - image: /images/uploads/img_3180.jpg
   - image: /images/uploads/jeff4.jpg
   - image: /images/uploads/jeff1.jpg
   - image: /images/uploads/jeff3.jpg
+  - image: /images/uploads/img_3175.jpg
 ---
 
