@@ -3,8 +3,9 @@ title: Dean
 featuredImage: /images/uploads/4153360_8338467.jpg
 imageThumbnail: /images/uploads/4153360_8334672.jpg
 firstName: Dean
-collection: Men
+collection: Classic
 height: 183cm
+measurementType: chest
 bust: 109cm
 waist: 83cm
 hips: 83cm
