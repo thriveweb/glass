@@ -1,6 +1,6 @@
 ---
 title: Mia E
-featuredImage: /images/uploads/mia7.jpg
+featuredImage: /images/uploads/mia-banner.jpg
 imageThumbnail: /images/uploads/mia-001.jpg
 firstName: Mia E
 collection: Girls
@@ -38,6 +38,7 @@ imagePortfolio:
   - image: /images/uploads/mia5.jpg
   - image: /images/uploads/mia6.jpg
   - image: /images/uploads/photo-8-7-18-4-17-43-am_preview.jpg
+  - image: /images/uploads/mia-e-1010101.png
 meta:
   title: Mia E
 ---
