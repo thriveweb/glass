@@ -8,7 +8,7 @@ height: 120cm
 bust: 60cm
 waist: 55cm
 hips: 60cm
-size: '6'
+size: '7'
 shoeSize: '1'
 hair: Brown
 eyes: Aqua
