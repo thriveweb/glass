@@ -24,6 +24,9 @@ imagePortfolio:
   - image: /images/uploads/t-j.jpg
   - image: /images/uploads/joe.png
   - image: /images/uploads/pp_1298.jpg
+  - image: /images/uploads/tonia-co.-20-of-31-.jpg
+  - image: /images/uploads/tonia-co.-6-of-31-.jpg
+  - {}
 meta:
   title: Joe
 ---
