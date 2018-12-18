@@ -16,7 +16,9 @@ eyes: Brown
 imagePortfolio:
   - image: /images/uploads/tonia6.jpg
   - image: /images/uploads/tonia918273.jpg
+  - image: /images/uploads/tonia-co.-6-of-31-.jpg
   - image: /images/uploads/tonia.jpg
+  - image: /images/uploads/tonia-co.-25-of-31-.jpg
   - image: /images/uploads/tonia3.jpg
   - image: /images/uploads/4-t7j1.jpg
   - image: /images/uploads/tonia91283.jpg
@@ -28,6 +30,8 @@ imagePortfolio:
   - image: /images/uploads/ton1.png
   - image: /images/uploads/pp_1298.jpg
   - image: /images/uploads/tonia1.jpg
+  - image: /images/uploads/tonia-co.-15-of-31-.jpg
+  - image: /images/uploads/tonia-co.-18-of-31-.jpg
 meta:
   title: Tonia
 ---
