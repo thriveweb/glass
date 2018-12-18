@@ -14,6 +14,9 @@ shoeSize: '10'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/tiana-1212.jpeg
+  - image: /images/uploads/tiana-1313.jpeg
+  - image: /images/uploads/tiana-13131.jpeg
   - image: /images/uploads/tiana-4.jpg
   - image: /images/uploads/tiana-6.jpg
   - image: /images/uploads/tiana-3.jpg
