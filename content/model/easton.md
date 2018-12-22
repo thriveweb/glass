@@ -22,6 +22,11 @@ imagePortfolio:
   - image: /images/uploads/easton-15.jpg
   - image: /images/uploads/easton-16.jpg
   - image: /images/uploads/easton-19.jpg
+  - image: /images/uploads/easton-12121.jpg
+  - image: /images/uploads/easton-4.jpg
+  - image: /images/uploads/easton-2.jpg
+  - image: /images/uploads/aston-3.jpg
+  - image: /images/uploads/easton-212.jpg
 meta:
   title: Easton
 ---
