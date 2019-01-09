@@ -4,12 +4,12 @@ featuredImage: /images/uploads/maxbanner238.jpg
 imageThumbnail: /images/uploads/max1.jpg
 firstName: Max
 collection: Boys
-height: 90cm
+height: 95cm
 measurementType: chest
-bust: 57cm
-waist: 53cm
+bust: 55cm
+waist: 52cm
 hips: 55cm
-size: '2'
+size: '3'
 shoeSize: 6-7
 hair: 'Blonde '
 eyes: Brown
