@@ -48,7 +48,9 @@ teamMembers:
       Tapes and Auditions and as a talented writer she has a blog on our
       website. Whilst always offering a smile and words of advice to any talent
       needing some help. She is a great mentor to the Glass kids. Chelsea is a
-      wonderful asset to the Glass Team.
+      wonderful asset to the Glass Team. She does all this Whilst studying and
+      attending the Warehouse Acting Workshops weekly and Voice and Performance
+      training.
     image: /images/uploads/chelsea-her-shadow.jpg
     leftAlign: true
     subTitle: Intern
