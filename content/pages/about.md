@@ -49,7 +49,7 @@ teamMembers:
       website. Whilst always offering a smile and words of advice to any talent
       needing some help. She is a great mentor to the Glass kids. Chelsea is a
       wonderful asset to the Glass Team.
-    image: /images/uploads/img_3055.jpg
+    image: /images/uploads/chelsea-her-shadow.jpg
     leftAlign: true
     subTitle: Intern
     title: Chelsea
