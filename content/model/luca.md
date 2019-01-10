@@ -4,12 +4,12 @@ featuredImage: /images/uploads/lucabanner12890po123.jpg
 imageThumbnail: /images/uploads/luca-1.webp
 firstName: Luca
 collection: Boys
-height: 107cm
+height: 111cm
 measurementType: chest
 bust: 22.5cm
 waist: 21cm
 hips: 21cm
-size: '4'
+size: '5'
 shoeSize: '9.5'
 hair: Brown
 eyes: Brown
