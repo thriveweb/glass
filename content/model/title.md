@@ -5,10 +5,10 @@ imageThumbnail: /images/uploads/chelsea895.gif
 firstName: Chelsea
 collection: Women
 height: 168cm
-bust: 83cm
-waist: 61cm
+bust: 84cm
+waist: 64cm
 hips: 90cm
-size: '6'
+size: '8'
 shoeSize: '9'
 hair: Blonde
 eyes: Blue
