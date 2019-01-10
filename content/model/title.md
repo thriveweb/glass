@@ -14,6 +14,8 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/201711013097.jpg
+  - image: /images/uploads/chels-1-2019.jpg
+  - image: /images/uploads/chels-2019.jpg
   - image: /images/uploads/201711013163.jpg
   - image: /images/uploads/201711013132.jpg
   - image: /images/uploads/201711013092.jpg
@@ -30,5 +32,7 @@ imagePortfolio:
   - image: /images/uploads/chelsea-20.jpg
   - image: /images/uploads/chelsea-12.jpg
   - image: /images/uploads/chelsea-21.jpg
+meta:
+  title: Chelsea
 ---
 
