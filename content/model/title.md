@@ -16,11 +16,11 @@ imagePortfolio:
   - image: /images/uploads/201711013097.jpg
   - image: /images/uploads/chels-1-2019.jpg
   - image: /images/uploads/chels-2019.jpg
+  - image: /images/uploads/201711013185.jpg
   - image: /images/uploads/201711013163.jpg
   - image: /images/uploads/201711013132.jpg
   - image: /images/uploads/201711013092.jpg
   - image: /images/uploads/201711013167.jpg
-  - image: /images/uploads/201711013185.jpg
   - image: /images/uploads/chelsea-10.jpg
   - image: /images/uploads/chelsea-4.jpg
   - image: /images/uploads/chelsea-2.jpg
