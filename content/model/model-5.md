@@ -4,13 +4,13 @@ featuredImage: /images/uploads/sienna.jpg
 imageThumbnail: /images/uploads/sj-new-hs.jpg
 firstName: Sienna
 collection: Girls
-height: 154cm
+height: 158cm
 measurementType: bust
-bust: 66cm
-waist: 57cm
-hips: 72cm
-size: 10-12
-shoeSize: '5'
+bust: 75cm
+waist: 63cm
+hips: 75cm
+size: '12'
+shoeSize: 7-8
 hair: Blonde
 eyes: Green
 imagePortfolio:
