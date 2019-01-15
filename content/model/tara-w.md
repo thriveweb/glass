@@ -3,7 +3,7 @@ title: 'Tara '
 featuredImage: /images/uploads/tara-banner.jpg
 imageThumbnail: /images/uploads/tara-.png
 firstName: 'Tara '
-collection: Women
+collection: Classic
 height: 172cm
 measurementType: bust
 bust: 88cm
