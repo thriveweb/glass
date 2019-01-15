@@ -14,6 +14,7 @@ shoeSize: '4'
 hair: Blonde
 eyes: Grey
 imagePortfolio:
+  - image: /images/uploads/hayden.jpeg
   - image: /images/uploads/hayden237846.jpg
   - image: /images/uploads/haydeny23746.jpg
   - image: /images/uploads/hayden327864.jpg
