@@ -1,6 +1,6 @@
 ---
 title: Laney
-featuredImage: /images/uploads/laney24879banner7623548.png
+featuredImage: /images/uploads/laney24879banner7623548i1y37138u123.png
 imageThumbnail: /images/uploads/laney342789.jpg
 firstName: Laney
 collection: Women
