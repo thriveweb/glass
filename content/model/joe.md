@@ -21,12 +21,16 @@ imagePortfolio:
   - image: /images/uploads/joe2.png
   - image: /images/uploads/joe1.png
   - image: /images/uploads/joe3.png
+  - image: /images/uploads/tonia-joe238479.jpg
   - image: /images/uploads/t-j.jpg
   - image: /images/uploads/joe.png
+  - image: /images/uploads/tonia-joe71328.jpg
   - image: /images/uploads/pp_1298.jpg
   - image: /images/uploads/tonia-co.-20-of-31-.jpg
+  - image: /images/uploads/tonia-joe25463789.jpg
   - image: /images/uploads/tonia-co.-6-of-31-.jpg
   - {}
+  - image: /images/uploads/tonia-joe478.jpg
 meta:
   title: Joe
 ---
