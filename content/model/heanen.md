@@ -4,15 +4,17 @@ featuredImage: /images/uploads/heanen-2.jpg
 imageThumbnail: /images/uploads/heanen-2.webp
 firstName: Heanen
 collection: Boys
-height: 124cm
-bust: 63cm
-waist: 57cm
+height: 127cm
+measurementType: chest
+bust: 66cm
+waist: 58cm
 hips: 63cm
-size: '7'
-shoeSize: '1'
+size: 7-8
+shoeSize: 2 US
 hair: Brown
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/heanen675123786321.jpg
   - image: /images/uploads/heanen-7.webp
   - image: /images/uploads/heanen-11.jpg
   - image: /images/uploads/heanen-5.webp
