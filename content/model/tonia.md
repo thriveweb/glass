@@ -25,12 +25,16 @@ imagePortfolio:
   - image: /images/uploads/tonia129872.jpg
   - image: /images/uploads/t-j.jpg
   - image: /images/uploads/ton2.png
+  - image: /images/uploads/tonia-joe478.jpg
   - image: /images/uploads/tonia.png
   - image: /images/uploads/ton3.jpg
+  - image: /images/uploads/tonia-joe238479.jpg
   - image: /images/uploads/ton1.png
   - image: /images/uploads/pp_1298.jpg
+  - image: /images/uploads/tonia-joe71328.jpg
   - image: /images/uploads/tonia1.jpg
   - image: /images/uploads/tonia-co.-15-of-31-.jpg
+  - image: /images/uploads/tonia-joe25463789.jpg
   - image: /images/uploads/tonia-co.-18-of-31-.jpg
 meta:
   title: Tonia
