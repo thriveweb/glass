@@ -1,7 +1,7 @@
 ---
 title: Laney
 featuredImage: /images/uploads/laney24879banner7623548i1y37138u123.png
-imageThumbnail: /images/uploads/laney342789.jpg
+imageThumbnail: /images/uploads/laney987234headshot32847.png
 firstName: Laney
 collection: Women
 height: 181cm
