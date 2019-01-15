@@ -16,15 +16,23 @@ eyes: Green
 imagePortfolio:
   - image: /images/uploads/valentinanoosa-125_preview.jpg
   - image: /images/uploads/valentinanoosa-51_preview.jpg
+  - image: /images/uploads/valentina324786.jpg
   - image: /images/uploads/valentinanoosa-63_preview.jpg
+  - image: /images/uploads/valentinat743289.jpg
   - image: /images/uploads/valentinanoosa-140_preview.jpg
+  - image: /images/uploads/valentina474839.jpg
   - image: /images/uploads/valentinanoosa-164_preview-1.jpg
   - image: /images/uploads/valentinanoosa-138_preview.jpg
   - image: /images/uploads/valentinanoosa-44_preview.jpg
   - image: /images/uploads/valentinanoosa-29_preview.jpg
+  - image: /images/uploads/valentina872364.jpg
   - image: /images/uploads/valentinanoosa-184_preview.jpg
+  - image: /images/uploads/valentina987324.jpg
   - image: /images/uploads/valentinanoosa-107_preview.jpg
   - image: /images/uploads/valentinanoosa-94_preview.jpg
   - image: /images/uploads/valentinanoosa-83_preview-1.jpg
+  - image: /images/uploads/valentina474839.jpg
+  - image: /images/uploads/valentina32457689.jpg
+  - image: /images/uploads/valentina3264789.jpg
 ---
 
