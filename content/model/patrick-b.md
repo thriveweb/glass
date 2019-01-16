@@ -3,7 +3,7 @@ title: Patrick B
 featuredImage: /images/uploads/patrick82973.jpg
 imageThumbnail: /images/uploads/patrick32847.jpg
 firstName: Patrick B
-collection: Men
+collection: Global
 measurementType: chest
 hair: Brown
 eyes: Brown
