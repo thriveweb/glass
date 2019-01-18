@@ -4,13 +4,13 @@ featuredImage: /images/uploads/oc-17.jpg
 imageThumbnail: /images/uploads/oc-her-shadow-.jpg
 firstName: Oceana
 collection: Girls
-height: 160cm
+height: 163cm
 measurementType: bust
-bust: 78cm
-waist: 63cm
-hips: 77cm
+bust: 81cm
+waist: 68cm
+hips: 81cm
 size: '12'
-shoeSize: '7'
+shoeSize: 8/9
 hair: Dark Blonde
 eyes: Blue
 imagePortfolio:
