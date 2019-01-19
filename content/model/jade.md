@@ -4,13 +4,13 @@ featuredImage: /images/uploads/jade-banner-1-.jpg
 imageThumbnail: /images/uploads/ri9g57nq.jpg
 firstName: Jade
 collection: Girls
-height: 108cm
+height: 113cm
 measurementType: bust
-bust: 54cm
-waist: 54cm
-hips: 56cm
+bust: 55cm
+waist: 50cm
+hips: 55cm
 size: '5'
-shoeSize: '9'
+shoeSize: '11'
 hair: Brown
 eyes: Brown
 imagePortfolio:
