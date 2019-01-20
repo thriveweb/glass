@@ -1,6 +1,6 @@
 ---
 title: Amy L
-featuredImage: /images/uploads/law-9.jpg
+featuredImage: /images/uploads/law-9-1-.jpg
 imageThumbnail: /images/uploads/law-7-1-.jpg
 firstName: Amy L
 collection: Girls
