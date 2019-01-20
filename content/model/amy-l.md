@@ -1,7 +1,7 @@
 ---
 title: Amy L
-featuredImage: /images/uploads/amy-l-2.jpg
-imageThumbnail: /images/uploads/amy-l-13.jpg
+featuredImage: /images/uploads/law-9.jpg
+imageThumbnail: /images/uploads/law-7.jpg
 firstName: Amy L
 collection: Girls
 height: 142cm
@@ -15,15 +15,20 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: /images/uploads/amy-l-1.jpg
-  - image: /images/uploads/amy-l-9.jpg
+  - image: /images/uploads/law-7.jpg
+  - image: /images/uploads/law-1.jpg
+  - image: /images/uploads/law-2.jpg
   - image: /images/uploads/amy-l-11.jpg
-  - image: /images/uploads/amy-l-7.jpg
-  - image: /images/uploads/amy-l-3.jpg
+  - image: /images/uploads/law-8.jpg
+  - image: /images/uploads/law-3.jpg
+  - image: /images/uploads/law-4.jpg
+  - image: /images/uploads/law-5.jpg
   - image: /images/uploads/amy-l-5.jpg
   - image: /images/uploads/amy-l-10.jpg
   - image: /images/uploads/amy-l-12.jpg
-  - image: /images/uploads/amy-l-6.jpg
-  - image: /images/uploads/amy-l-8.jpg
+  - image: /images/uploads/law-6.jpg
+  - image: /images/uploads/law-9.jpg
+  - image: /images/uploads/law-10.jpg
 meta:
   title: Amy L
 ---
