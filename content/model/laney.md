@@ -5,15 +5,15 @@ featuredImage: >-
 imageThumbnail: /images/uploads/laney987234headshot32847.png
 firstName: Laney
 collection: Women
-height: 181cm
+height: 182cm
 measurementType: bust
-bust: 85cm
-waist: 67cm
-hips: 98cm
+bust: 83cm
+waist: 61cm
+hips: 90cm
 size: 8-10
 shoeSize: 9-10
-hair: Hazel
-eyes: Blonde
+hair: Blonde
+eyes: Hazel
 imagePortfolio:
   - image: /images/uploads/laney98427.jpg
   - image: /images/uploads/laney890653.jpg
