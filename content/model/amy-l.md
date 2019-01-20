@@ -14,8 +14,8 @@ shoeSize: '6'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/amy-l-1.jpg
   - image: /images/uploads/law-7.jpg
+  - image: /images/uploads/amy-l-1.jpg
   - image: /images/uploads/law-1.jpg
   - image: /images/uploads/law-2.jpg
   - image: /images/uploads/amy-l-11.jpg
