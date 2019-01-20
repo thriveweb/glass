@@ -6,9 +6,9 @@ firstName: Tonia
 collection: Classic
 height: 173cm
 measurementType: bust
-bust: 86cm
-waist: 74cm
-hips: 96cm
+bust: 85cm
+waist: 70cm
+hips: 93cm
 size: '10'
 shoeSize: 8 1/2
 hair: 'Short, Brown'
