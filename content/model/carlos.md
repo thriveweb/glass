@@ -4,13 +4,13 @@ featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/carl-10.jpg
 firstName: Carlos
 collection: Global
-height: 103cm
+height: 107cm
 measurementType: chest
-bust: 53.5cm
-waist: 50cm
-hips: 54.5cm
+bust: 55cm
+waist: 49cm
+hips: 52cm
 size: '4'
-shoeSize: '9'
+shoeSize: '10'
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
