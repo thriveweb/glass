@@ -4,14 +4,14 @@ featuredImage: /images/uploads/felicitybanner23398923.jpg
 imageThumbnail: /images/uploads/201710284006_preview.jpg
 firstName: Felicity W
 collection: Girls
-height: 162cm
-bust: 70cm
-waist: 63cm
-hips: 70cm
-size: 12 kids
-shoeSize: 7-8 L
+height: 164cm
+bust: 80cm
+waist: 66cm
+hips: 76cm
+size: 14 kids/ Ladies 6/8
+shoeSize: '9'
 hair: Blonde
-eyes: Blue
+eyes: Green
 imagePortfolio:
   - image: /images/uploads/unnamed-39.jpg
   - image: /images/uploads/flick7.jpg
