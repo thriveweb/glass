@@ -18,17 +18,18 @@ imagePortfolio:
   - image: /images/uploads/amy-l-1.jpg
   - image: /images/uploads/law-1.jpg
   - image: /images/uploads/law-2.jpg
-  - image: /images/uploads/amy-l-11.jpg
   - image: /images/uploads/law-8.jpg
   - image: /images/uploads/law-3.jpg
   - image: /images/uploads/law-4.jpg
   - image: /images/uploads/law-5.jpg
-  - image: /images/uploads/amy-l-5.jpg
   - image: /images/uploads/amy-l-10.jpg
   - image: /images/uploads/amy-l-12.jpg
   - image: /images/uploads/law-6.jpg
   - image: /images/uploads/law-9.jpg
   - image: /images/uploads/law-10.jpg
+  - image: /images/uploads/amy-lawweeeee.jpg
+  - image: /images/uploads/amy-lawwww.jpg
+  - image: /images/uploads/amy-lawwwww.jpg
 meta:
   title: Amy L
 ---
