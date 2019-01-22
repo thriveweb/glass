@@ -9,7 +9,7 @@ bust: 101cm
 waist: 76cm
 hips: 76cm
 size: M
-shoeSize: '10'
+shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
@@ -25,5 +25,7 @@ imagePortfolio:
   - image: /images/uploads/3445294_9289649.jpg
   - image: /images/uploads/aaron.webp
   - image: /images/uploads/iamaaronshaw___bgr9b-yn-eq___.jpg
+meta:
+  title: Aaron
 ---
 
