@@ -10,7 +10,7 @@ bust: 84cm
 waist: 61cm
 hips: 89cm
 size: 6-8
-shoeSize: '7'
+shoeSize: '8'
 hair: Blonde
 eyes: Aqua
 imagePortfolio:
