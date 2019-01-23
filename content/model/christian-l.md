@@ -23,6 +23,7 @@ imagePortfolio:
   - image: /images/uploads/christianproofs-4.jpg
   - image: /images/uploads/christianproofs-8.jpg
   - image: /images/uploads/christianproofs-18.jpg
+  - image: /images/uploads/christianproofs-5.jpg
 meta:
   title: Christian
 ---
