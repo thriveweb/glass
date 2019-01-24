@@ -6,11 +6,11 @@ firstName: Milos
 collection: Men
 height: 175cm
 measurementType: chest
-bust: 96cm
-waist: 78cm
-hips: 91cm
-size: 'Shirt M, Pants 32"'
-shoeSize: '9.5'
+bust: 98cm
+waist: 77cm
+hips: 88cm
+size: 'Shirt M, Pants 30"'
+shoeSize: '10'
 hair: Brown
 eyes: Blue
 imagePortfolio:
