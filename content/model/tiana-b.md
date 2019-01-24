@@ -1,6 +1,6 @@
 ---
 title: Tiana B
-featuredImage: /images/uploads/tiana-banner.jpg
+featuredImage: /images/uploads/baxter-1.jpg
 imageThumbnail: /images/uploads/tiana-1.jpg
 firstName: Tiana B
 collection: Classic
@@ -19,9 +19,14 @@ imagePortfolio:
   - image: /images/uploads/tiana-13131.jpeg
   - image: /images/uploads/tiana-4.jpg
   - image: /images/uploads/tiana-6.jpg
+  - image: /images/uploads/baxter-1.jpg
   - image: /images/uploads/tiana-3.jpg
   - image: /images/uploads/tiana-5.jpg
   - image: /images/uploads/tiana-1.jpg
+  - image: /images/uploads/baxter-454.jpg
+  - image: /images/uploads/baxter-34.jpg
+  - image: /images/uploads/baxter-121.jpg
+  - image: /images/uploads/baxter-12121.jpg
 meta:
   title: Tiana B
 ---
