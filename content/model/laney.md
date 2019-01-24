@@ -36,6 +36,7 @@ imagePortfolio:
   - image: /images/uploads/laney86950.jpg
   - image: /images/uploads/laney5439202.jpg
   - image: /images/uploads/laney4387.jpg
+  - image: /images/uploads/laney-111.jpeg
 meta:
   title: Laney
 ---
