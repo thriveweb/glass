@@ -3,7 +3,7 @@ title: Diana
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/diana-o-connor-33.jpg
 firstName: Diana
-collection: Global
+collection: Glob
 height: 160cm
 measurementType: bust
 bust: 38inch
