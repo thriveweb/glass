@@ -4,12 +4,12 @@ featuredImage: /images/uploads/easton-14.jpg
 imageThumbnail: /images/uploads/easton-hs.jpg
 firstName: Easton
 collection: Boys
-height: 122cm
+height: 123cm
 measurementType: chest
-bust: 65cm
-waist: 61cm
-hips: 67cm
-size: 5/6/7
+bust: 64cm
+waist: 62cm
+hips: 68cm
+size: '7'
 shoeSize: '3'
 hair: Blonde
 eyes: Brown
