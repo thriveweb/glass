@@ -1,6 +1,6 @@
 ---
 title: Narelle
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
+featuredImage: /images/uploads/bradley-78.jpg
 imageThumbnail: /images/uploads/narelle-hs.jpg
 firstName: Narelle
 collection: Global
@@ -18,6 +18,8 @@ imagePortfolio:
   - image: /images/uploads/narelle-2.jpg
   - image: /images/uploads/narelle-6.jpg
   - image: /images/uploads/narelle-3.jpg
+  - image: /images/uploads/bradley-2.jpg
+  - image: /images/uploads/bradley-78.jpg
 meta:
   title: Narelle
 ---
