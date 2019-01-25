@@ -43,6 +43,8 @@ imagePortfolio:
   - image: /images/uploads/erin-3238.jpg
   - image: /images/uploads/erin-new-banner.jpg
   - image: /images/uploads/erin-new-19.jpg
+  - image: /images/uploads/bradley-5.jpg
+  - image: /images/uploads/bradley-3.jpg
 meta:
   title: Erin
 ---
