@@ -13,9 +13,9 @@ shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/chels-2019.jpg
   - image: /images/uploads/201711013097.jpg
   - image: /images/uploads/chels-1-2019.jpg
-  - image: /images/uploads/chels-2019.jpg
   - image: /images/uploads/201711013185.jpg
   - image: /images/uploads/201711013163.jpg
   - image: /images/uploads/201711013132.jpg
