@@ -3,7 +3,7 @@ title: Abigail
 featuredImage: /images/uploads/abigail6234789111111.jpg
 imageThumbnail: /images/uploads/abigail432187633222222222222.jpg
 firstName: Abigail
-collection: Women
+collection: Global
 height: 176cm
 measurementType: bust
 bust: 89cm
