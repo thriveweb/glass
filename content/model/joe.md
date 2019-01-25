@@ -17,7 +17,6 @@ imagePortfolio:
   - image: /images/uploads/joe2637.jpg
   - image: /images/uploads/4-t7j1.jpg
   - image: /images/uploads/unnamed-18.jpg
-  - image: /images/uploads/img_20180529_140652_893.jpg
   - image: /images/uploads/joe2.png
   - image: /images/uploads/joe1.png
   - image: /images/uploads/joe3.png
@@ -29,7 +28,6 @@ imagePortfolio:
   - image: /images/uploads/tonia-co.-20-of-31-.jpg
   - image: /images/uploads/tonia-joe25463789.jpg
   - image: /images/uploads/tonia-co.-6-of-31-.jpg
-  - {}
   - image: /images/uploads/tonia-joe478.jpg
 meta:
   title: Joe
