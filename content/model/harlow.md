@@ -29,5 +29,6 @@ imagePortfolio:
   - image: /images/uploads/harlow-13.jpg
   - image: /images/uploads/harl10.jpg
   - image: /images/uploads/harl-17pg.jpg
+  - image: /images/uploads/harlow-hs.jpg
 ---
 
