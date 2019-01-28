@@ -3,7 +3,7 @@ title: Harlow
 featuredImage: /images/uploads/harlow.jpg
 imageThumbnail: /images/uploads/harlow-hs.jpg
 firstName: Harlow
-collection: Girl
+collection: Girls
 height: 128cm
 measurementType: bust
 bust: 57cm
