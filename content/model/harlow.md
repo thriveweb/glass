@@ -11,7 +11,7 @@ waist: 48cm
 hips: 55cm
 size: 6/7
 shoeSize: 1-2
-hair: Brown
+hair: Golden Blonde
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/harlow15.jpg
