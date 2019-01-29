@@ -1,5 +1,5 @@
 ---
-title: Hannah W
+title: 'Hannah '
 featuredImage: /images/uploads/han-banner.jpg
 imageThumbnail: /images/uploads/han-dad.jpg
 firstName: Hannah W
@@ -24,6 +24,6 @@ imagePortfolio:
   - image: /images/uploads/ahan-64532.jpg
   - image: /images/uploads/han-5.jpg
 meta:
-  title: Hannah W
+  title: 'Hannah '
 ---
 
