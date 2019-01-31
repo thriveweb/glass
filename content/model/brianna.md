@@ -8,8 +8,8 @@ height: 173cm
 measurementType: bust
 bust: 84cm
 waist: 61cm
-hips: 89cm
-size: 6-8
+hips: 91cm
+size: '8'
 shoeSize: '8'
 hair: Blonde
 eyes: Aqua
