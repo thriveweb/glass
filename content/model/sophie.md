@@ -4,7 +4,7 @@ featuredImage: /images/uploads/sophie-11.jpg
 imageThumbnail: /images/uploads/sophie-10.jpg
 firstName: Sophie Kaye
 collection: Girls
-height: 163cm
+height: 164cm
 bust: 88cm
 waist: 76cm
 hips: 94cm
