@@ -3,7 +3,7 @@ title: Dan V
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/danv2.jpg
 firstName: Dan V
-collection: Global
+collection: Globa
 hair: Brown
 eyes: Brown
 imagePortfolio:
