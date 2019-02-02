@@ -6,13 +6,13 @@ firstName: Portia
 collection: Women
 height: 173cm
 measurementType: bust
-bust: 92cm
-waist: 70cm
+bust: 89cm
+waist: 66cm
 hips: 84cm
 size: '8'
 shoeSize: '9'
 hair: Blonde
-eyes: Blue
+eyes: Green
 imagePortfolio:
   - image: /images/uploads/port2.jpg
   - image: /images/uploads/portia.jpg
