@@ -15,6 +15,8 @@ hair: Brown
 eyes: Green
 imagePortfolio:
   - image: /images/uploads/kayla-120.jpg
+  - image: /images/uploads/kayla-11111.jpg
+  - image: /images/uploads/kayala-12121.jpg
   - image: /images/uploads/kayla3678.jpg
   - image: /images/uploads/kayla-7.jpg
   - image: /images/uploads/kayla111.jpg
@@ -41,6 +43,7 @@ imagePortfolio:
   - image: /images/uploads/kayla-114.jpg
   - image: /images/uploads/kayla-118.jpg
   - image: /images/uploads/kayla324789.jpg
+  - {}
 meta:
   title: Kayla
 ---
