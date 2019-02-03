@@ -1,0 +1,28 @@
+---
+title: Emeshe
+featuredImage: /images/uploads/eme-banner.jpg
+imageThumbnail: /images/uploads/eme-hs.jpg
+firstName: Emeshe
+collection: Women
+height: 168cm
+measurementType: bust
+bust: 87cm
+waist: 66cm
+hips: 94cm
+size: '8'
+shoeSize: '8'
+hair: Blonde
+eyes: Blue
+imagePortfolio:
+  - image: /images/uploads/eme-3.jpg
+  - image: /images/uploads/eme.jpg
+  - image: /images/uploads/eme-7.jpg
+  - image: /images/uploads/eme-6.jpg
+  - image: /images/uploads/eme-445454.jpg
+  - image: /images/uploads/eme-444.jpg
+  - image: /images/uploads/eme-59.jpg
+  - image: /images/uploads/eme-10101.jpg
+meta:
+  title: Emeshe
+---
+
