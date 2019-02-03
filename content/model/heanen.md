@@ -36,6 +36,8 @@ imagePortfolio:
   - image: /images/uploads/hean-5.jpg
   - image: /images/uploads/hean-4.jpg
   - image: /images/uploads/hean-2.jpg
+  - image: /images/uploads/pipeline05text.jpg
+  - image: /images/uploads/pipeline06text.jpg
 meta:
   title: Heanen
 ---
