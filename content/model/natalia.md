@@ -1,5 +1,5 @@
 ---
-title: Natalia A
+title: Natalia
 featuredImage: /images/uploads/nat-013.jpg
 imageThumbnail: /images/uploads/nat-2.jpg
 firstName: Natalia  A
@@ -28,6 +28,6 @@ imagePortfolio:
   - image: /images/uploads/nat-012-angel.jpg
   - image: /images/uploads/nat-013.jpg
 meta:
-  title: Natalia A
+  title: 'Natalia '
 ---
 
