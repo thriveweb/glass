@@ -19,7 +19,6 @@ imagePortfolio:
   - image: /images/uploads/paris-mag-2.jpg
   - image: /images/uploads/201804098388_preview.jpg
   - image: /images/uploads/201804098477bw.jpg
-  - image: /images/uploads/paris-mag-4.jpg
   - image: /images/uploads/201804098321_preview.jpg
   - image: /images/uploads/201804098449.jpg
   - image: /images/uploads/201804098222.jpg
@@ -27,12 +26,8 @@ imagePortfolio:
   - image: /images/uploads/unnamed-39-copy.jpg
   - image: /images/uploads/201804098135_preview.jpg
   - image: /images/uploads/paris-mag.jpg
-  - image: /images/uploads/201804098078_preview.jpg
   - image: /images/uploads/paris-mag-3.jpg
   - image: /images/uploads/paris-mag-6.jpg
-  - image: /images/uploads/paris-1.jpg
-  - image: /images/uploads/paris-1.jpg
-  - image: /images/uploads/paris-2.jpg
   - image: /images/uploads/paris-4.jpg
 meta:
   title: Paris
