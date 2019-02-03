@@ -18,10 +18,10 @@ imagePortfolio:
   - image: /images/uploads/eme-7.jpg
   - image: /images/uploads/eme-445454.jpg
   - image: /images/uploads/eme-444.jpg
-  - image: /images/uploads/eme.jpg
-  - image: /images/uploads/eme-6.jpg
   - image: /images/uploads/eme-59.jpg
+  - image: /images/uploads/eme.jpg
   - image: /images/uploads/eme-10101.jpg
+  - image: /images/uploads/eme-6.jpg
   - image: /images/uploads/eme-4.jpg
 meta:
   title: Emeshe
