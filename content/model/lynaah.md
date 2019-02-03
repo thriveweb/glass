@@ -3,7 +3,7 @@ title: Lynaah
 featuredImage: /images/uploads/lynah.jpg
 imageThumbnail: /images/uploads/lynaah-4.jpeg
 firstName: Lynaah
-collection: Women
+collection: Wome
 height: 165cm
 bust: 71cm
 waist: 54cm
