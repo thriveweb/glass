@@ -1,7 +1,7 @@
 ---
 title: Emeshe
 featuredImage: /images/uploads/eme-banner.jpg
-imageThumbnail: /images/uploads/eme-hs.jpg
+imageThumbnail: /images/uploads/eme-hs-1-.jpg
 firstName: Emeshe
 collection: Women
 height: 168cm
