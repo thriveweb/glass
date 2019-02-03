@@ -1,5 +1,5 @@
 ---
-title: Nicolina A
+title: 'Nicolina '
 featuredImage: /images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: /images/uploads/8l_m4jqq.jpg
 firstName: Nicolina A
@@ -19,6 +19,6 @@ imagePortfolio:
   - image: /images/uploads/efb-gxjq.jpg
   - image: /images/uploads/ppz2blqg.jpg
 meta:
-  title: Nicolina A
+  title: 'Nicolina '
 ---
 
