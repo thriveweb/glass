@@ -1,5 +1,5 @@
 ---
-title: Maya A
+title: 'Maya '
 featuredImage: /images/uploads/maya-banner.jpg
 imageThumbnail: /images/uploads/maya-hs.jpg
 firstName: Maya A
@@ -39,6 +39,6 @@ imagePortfolio:
   - image: /images/uploads/group-018.jpg
   - image: /images/uploads/maya-058.jpg
 meta:
-  title: Maya A
+  title: 'Maya '
 ---
 
