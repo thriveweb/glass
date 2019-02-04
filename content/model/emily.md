@@ -6,9 +6,9 @@ firstName: Emily P
 collection: Women
 height: 175cm
 measurementType: bust
-bust: 81cm
-waist: 63cm
-hips: 86cm
+bust: 83cm B/C cup
+waist: 66cm
+hips: 97.5 cm
 size: '8'
 shoeSize: '7'
 hair: Blonde
