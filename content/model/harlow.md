@@ -18,11 +18,13 @@ imagePortfolio:
   - image: /images/uploads/harl3.jpg
   - image: /images/uploads/harl1.jpg
   - image: /images/uploads/harl11.jpg
+  - image: /images/uploads/bubblegum6-.jpg
   - image: /images/uploads/harlow8.jpg
   - image: /images/uploads/harlow9.jpg
   - image: /images/uploads/harl2.jpg
   - image: /images/uploads/harl5.jpg
   - image: /images/uploads/harl18.jpg
+  - image: /images/uploads/bubblegum7.jpg
   - image: /images/uploads/haerl4.jpg
   - image: /images/uploads/harlow12.jpg
   - image: /images/uploads/harl16.jpg
@@ -30,5 +32,7 @@ imagePortfolio:
   - image: /images/uploads/harl10.jpg
   - image: /images/uploads/harl-17pg.jpg
   - image: /images/uploads/harlow-hs.jpg
+meta:
+  title: Harlow
 ---
 
