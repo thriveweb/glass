@@ -16,6 +16,9 @@ eyes: Green
 imagePortfolio:
   - image: /images/uploads/image1-4-.jpeg
   - image: /images/uploads/oliver.jpg
+  - image: /images/uploads/shoutout5.jpg
+  - image: /images/uploads/shoutout7-.jpg
+  - image: /images/uploads/shoutout9-.jpg
   - image: /images/uploads/oliv1.jpg
   - image: /images/uploads/oliver-2.jpg
   - image: /images/uploads/oliver-3.jpg
