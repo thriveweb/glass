@@ -5,9 +5,10 @@ imageThumbnail: /images/uploads/paris-headshot.jpg
 firstName: Paris
 collection: Women
 height: 173cm
-bust: 83cm
-waist: 60cm
-hips: 87cm
+measurementType: bust
+bust: 91cm
+waist: 67cm
+hips: 102cm
 size: '10'
 shoeSize: '9'
 hair: Blonde
