@@ -1,6 +1,6 @@
 ---
 title: Girls
-featuredImage: /images/uploads/201710284318.jpg
+featuredImage: /images/uploads/taytayatya.jpg
 order: '3'
 ---
 
