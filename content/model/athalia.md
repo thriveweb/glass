@@ -3,7 +3,7 @@ title: Athalia
 featuredImage: /images/uploads/athalia-1.jpg
 imageThumbnail: /images/uploads/atha.jpg
 firstName: Athalia
-collection: Girls
+collection: Global
 height: 160cm
 measurementType: bust
 bust: 75cm
