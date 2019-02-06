@@ -1,7 +1,7 @@
 ---
 title: Scarlett
 featuredImage: /images/uploads/quin-2.jpg
-imageThumbnail: /images/uploads/quin-hs.jpg
+imageThumbnail: /images/uploads/quin-hs-1-.jpg
 firstName: Scarlett
 collection: Girls
 height: 156cm
