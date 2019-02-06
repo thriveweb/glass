@@ -3,7 +3,7 @@ title: Ava
 featuredImage: /images/uploads/ava-banner.jpg
 imageThumbnail: /images/uploads/amn_9952-1-.jpg
 firstName: Ava
-collection: Girls
+collection: Global
 height: 153cm
 bust: 86cm
 waist: 56cm
