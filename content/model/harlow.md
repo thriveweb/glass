@@ -1,7 +1,7 @@
 ---
 title: Harlow
 featuredImage: /images/uploads/harlow.jpg
-imageThumbnail: /images/uploads/harlow-hs.jpg
+imageThumbnail: /images/uploads/harlow-hs-1-.jpg
 firstName: Harlow
 collection: Girls
 height: 128cm
