@@ -30,7 +30,6 @@ imagePortfolio:
   - image: /images/uploads/siennad8724.jpg
   - image: /images/uploads/siennad382749.jpg
   - image: /images/uploads/siennad3488432493.jpg
-  - image: /images/uploads/siennad2347884.jpg
   - image: /images/uploads/siennad7382234.jpg
   - image: /images/uploads/siennad87249.jpg
   - image: /images/uploads/siennad3786423.jpg
