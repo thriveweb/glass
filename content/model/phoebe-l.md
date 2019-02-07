@@ -1,14 +1,14 @@
 ---
-title: Phoebe L
+title: 'Phoebe '
 featuredImage: /images/uploads/phoebe37798313banner.png
 imageThumbnail: /images/uploads/phoebe3897732182317headshot.png
-firstName: Phoebe L
+firstName: 'Phoebe '
 collection: Girls
 height: 157cm
 measurementType: bust
 bust: 70cm
 waist: 55cm
-hips: 82cm
+hips: 62cm
 size: '10'
 shoeSize: '7.5'
 hair: Brown
