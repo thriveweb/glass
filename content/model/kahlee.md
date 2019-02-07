@@ -6,9 +6,9 @@ firstName: Kahlee
 collection: Women
 height: 176cm
 measurementType: bust
-bust: 82cm B/C cup
-waist: 63cm
-hips: 90cm
+bust: 81cm B/C cup
+waist: 62cm
+hips: 90.5cm
 size: '8'
 shoeSize: '8'
 hair: Ombre
