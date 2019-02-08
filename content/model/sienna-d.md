@@ -3,7 +3,7 @@ title: Sienna D
 featuredImage: /images/uploads/sienna-harper-sienna-banner-.png
 imageThumbnail: /images/uploads/siennad7382234.jpg
 firstName: Sienna D
-collection: Girls
+collection: Global
 height: 141cm
 measurementType: bust
 bust: 68cm
