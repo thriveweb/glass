@@ -3,7 +3,7 @@ title: Harper D
 featuredImage: /images/uploads/sienna-harper-harper-banner-.png
 imageThumbnail: /images/uploads/harperd897234.jpg
 firstName: Harper L
-collection: Girls
+collection: Global
 height: 121cm
 measurementType: bust
 bust: 60cm
