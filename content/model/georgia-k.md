@@ -1,7 +1,7 @@
 ---
 title: Georgia K
-featuredImage: /images/uploads/georgia-k-2.jpg
-imageThumbnail: /images/uploads/georgia-hs.png
+featuredImage: /images/uploads/smith-family-5.jpg
+imageThumbnail: /images/uploads/g-smith-2.jpg
 firstName: Georgia K
 collection: Girls
 height: 124cm
@@ -15,12 +15,17 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/georgia-k-2.jpg
+  - image: /images/uploads/g-smith-2.jpg
   - image: /images/uploads/georgia-k-1.jpg
+  - image: /images/uploads/g-smith-7.jpg
   - image: /images/uploads/georgia-k-6.jpg
   - image: /images/uploads/georgia-k-3.jpg
   - image: /images/uploads/georgia-k-8.jpg
+  - image: /images/uploads/g-smith-1.jpg
+  - image: /images/uploads/g-smith-8.jpg
   - image: /images/uploads/georgia-k-7.jpg
   - image: /images/uploads/georgia-k-5.jpg
+  - image: /images/uploads/smith-family-5.jpg
 meta:
   title: Georgia K
 ---
