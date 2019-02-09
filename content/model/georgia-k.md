@@ -26,6 +26,7 @@ imagePortfolio:
   - image: /images/uploads/georgia-k-7.jpg
   - image: /images/uploads/georgia-k-5.jpg
   - image: /images/uploads/smith-family-5.jpg
+  - {}
 meta:
   title: Georgia K
 ---
