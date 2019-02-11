@@ -3,7 +3,7 @@ title: Lior
 featuredImage: /images/uploads/jahseuywuieyrhdaldnq.jpg
 imageThumbnail: /images/uploads/jhjhjhjasasa.jpg
 firstName: Lior
-collection: Boys
+collection: Global
 height: 149cm
 measurementType: chest
 bust: 71cm
