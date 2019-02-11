@@ -3,7 +3,7 @@ title: Archie L
 featuredImage: /images/uploads/ben-111.jpg
 imageThumbnail: /images/uploads/archie-3.jpg
 firstName: Archie L
-collection: Boys
+collection: Global
 height: 149cm
 measurementType: chest
 bust: 78cm
