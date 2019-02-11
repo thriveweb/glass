@@ -3,7 +3,7 @@ title: Benaya
 featuredImage: /images/uploads/benaya-banner.jpg
 imageThumbnail: /images/uploads/ben-1.jpg
 firstName: Benaya
-collection: Girls
+collection: Global
 height: 170cm
 bust: 81cm
 waist: 85cm
