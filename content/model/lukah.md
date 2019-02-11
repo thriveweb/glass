@@ -3,7 +3,7 @@ title: Lukah
 featuredImage: /images/uploads/lukah-banner.jpg
 imageThumbnail: /images/uploads/l-2.jpg
 firstName: Lukah
-collection: Boys
+collection: Global
 height: 160cm
 measurementType: chest
 bust: 72cm
