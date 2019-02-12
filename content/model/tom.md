@@ -1,29 +1,30 @@
 ---
 title: Tom
 featuredImage: /images/uploads/tommy-banner.jpg
-imageThumbnail: /images/uploads/tom-hs.jpg
+imageThumbnail: /images/uploads/tom783423.jpg
 firstName: Tom
 collection: Boys
-height: 168cm
+height: 173cm
 measurementType: chest
-bust: 76cms
-waist: 68cms
-hips: 81cms
-size: Size 14 Kids
-shoeSize: '9.5'
+bust: 81cm
+waist: 69cm
+hips: 78cm
+size: 14 Kids
+shoeSize: '9'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/tom-7.jpg
-  - image: /images/uploads/tommy.jpg
-  - image: /images/uploads/tom-3.jpg
-  - image: /images/uploads/tom-5.jpg
-  - image: /images/uploads/tom-4.jpg
-  - image: /images/uploads/tommy-1.jpg
-  - image: /images/uploads/tom-6.jpg
-  - image: /images/uploads/tommy-4.jpg
-  - image: /images/uploads/tommy-8.jpg
-  - image: /images/uploads/tommy-6.jpg
+  - image: /images/uploads/tom738232.jpg
+  - image: /images/uploads/tom73248904.jpg
+  - image: /images/uploads/tom32739824.jpg
+  - image: /images/uploads/tom823974.jpg
+  - image: /images/uploads/tom23784.jpg
+  - image: /images/uploads/tom7248.jpg
+  - image: /images/uploads/tom438729.jpg
+  - image: /images/uploads/tom783423.jpg
+  - image: /images/uploads/tom728439.jpg
+  - image: /images/uploads/tom624738.jpg
+  - image: /images/uploads/tom623748.jpg
 meta:
   title: Tom
 ---
