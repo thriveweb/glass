@@ -1,5 +1,5 @@
 ---
-title: Monica J
+title: 'Monica '
 featuredImage: /images/uploads/monica-banner-2-.jpg
 imageThumbnail: /images/uploads/monica-judd-photos-10.jpg
 firstName: Monica
