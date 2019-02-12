@@ -3,7 +3,7 @@ title: 'Madelin '
 featuredImage: /images/uploads/madelin987342banner_.png
 imageThumbnail: /images/uploads/madelin2476938233.jpg
 firstName: 'Madelin '
-collection: Women
+collection: Global
 height: 165cm
 measurementType: bust
 bust: 85cm
