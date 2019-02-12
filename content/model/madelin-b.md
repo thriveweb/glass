@@ -1,8 +1,8 @@
 ---
-title: Madelin B
+title: 'Madelin '
 featuredImage: /images/uploads/madelin987342banner_.png
 imageThumbnail: /images/uploads/madelin2476938233.jpg
-firstName: Madelin B
+firstName: 'Madelin '
 collection: Women
 height: 165cm
 measurementType: bust
