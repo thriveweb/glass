@@ -5,6 +5,7 @@ imageThumbnail: /images/uploads/201710284006_preview.jpg
 firstName: Felicity W
 collection: Girls
 height: 164cm
+measurementType: bust
 bust: 80cm
 waist: 66cm
 hips: 76cm
@@ -32,5 +33,13 @@ imagePortfolio:
   - image: /images/uploads/flick6.jpg
   - image: /images/uploads/flick2.jpg
   - image: /images/uploads/flick5.jpg
+  - image: /images/uploads/felicityw982304.jpg
+  - image: /images/uploads/felicityw32u4.jpg
+  - image: /images/uploads/felicityw42098.jpg
+  - image: /images/uploads/felicityw234879.jpg
+  - image: /images/uploads/felicityw38u242.jpg
+  - image: /images/uploads/felicityw73842.jpg
+  - image: /images/uploads/felicityw3248.jpg
+  - image: /images/uploads/felicityw23784.jpg
 ---
 
