@@ -1,8 +1,8 @@
 ---
-title: Alfred R
+title: 'Alfred '
 featuredImage: /images/uploads/alf-banner.jpg
 imageThumbnail: /images/uploads/lf-h-s-.jpg
-firstName: Alfred R
+firstName: 'Alfred '
 collection: Global
 height: 178cm
 measurementType: chest
