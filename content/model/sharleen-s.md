@@ -1,8 +1,8 @@
 ---
-title: Sharleen S
+title: 'Sharleen '
 featuredImage: /images/uploads/sharleens23489734789banner_.png
 imageThumbnail: /images/uploads/sharleens101010101headshot_.png
-firstName: Sharleen S
+firstName: 'Sharleen '
 collection: Girls
 height: 162cm
 measurementType: bust
