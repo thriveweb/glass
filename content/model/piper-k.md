@@ -1,8 +1,8 @@
 ---
-title: Piper K
+title: 'Piper '
 featuredImage: /images/uploads/piper-4.jpg
 imageThumbnail: /images/uploads/piper-6.jpg
-firstName: Piper K
+firstName: 'Piper '
 collection: Girls
 height: 118cm
 measurementType: bust
