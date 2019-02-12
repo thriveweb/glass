@@ -1,7 +1,7 @@
 ---
 title: Tom
 featuredImage: /images/uploads/tommy-banner.jpg
-imageThumbnail: /images/uploads/tom783423.jpg
+imageThumbnail: /images/uploads/tom-hs.jpg
 firstName: Tom
 collection: Boys
 height: 173cm
