@@ -1,8 +1,8 @@
 ---
-title: Jared M
+title: 'Jared '
 featuredImage: /images/uploads/jaredm247839banner.png
 imageThumbnail: /images/uploads/jaredm78642.jpg
-firstName: Jared M
+firstName: 'Jared '
 collection: Men
 height: 180cm
 measurementType: chest
