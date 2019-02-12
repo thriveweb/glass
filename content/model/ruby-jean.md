@@ -1,7 +1,7 @@
 ---
 title: Ruby Jean
-featuredImage: /images/uploads/ruby-jean-131.jpg
-imageThumbnail: /images/uploads/ruby-jean-head-shot.jpg
+featuredImage: /images/uploads/jean-3.jpg
+imageThumbnail: /images/uploads/ruby-jean-vicky-freeman-15-1-.jpg
 firstName: Ruby Jean
 collection: Girls
 height: 143cm
@@ -18,6 +18,8 @@ imagePortfolio:
   - image: /images/uploads/ruby-jean-131313.jpg
   - image: /images/uploads/ruby-jean-2.jpg
   - image: /images/uploads/ruby-jean-131.jpg
+  - image: /images/uploads/ruby-jean-vicky-freeman-15-1-.jpg
+  - image: /images/uploads/jean-3.jpg
 meta:
   title: Ruby Jean
 ---
