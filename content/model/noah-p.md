@@ -1,8 +1,8 @@
 ---
-title: Noah P
+title: 'Noah '
 featuredImage: /images/uploads/noah-5.jpg
 imageThumbnail: /images/uploads/noah-hs.jpeg
-firstName: Noah P
+firstName: 'Noah '
 collection: Global
 height: 189cm
 measurementType: chest
