@@ -1,7 +1,7 @@
 ---
 title: Cassie
 featuredImage: /images/uploads/cassie-13.jpg
-imageThumbnail: /images/uploads/cassie-4.jpg
+imageThumbnail: /images/uploads/cassie-45.jpg
 firstName: Cassie
 collection: Global
 height: 153cm
