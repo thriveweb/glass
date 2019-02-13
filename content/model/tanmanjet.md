@@ -2,9 +2,9 @@
 title: Tanmanjet
 featuredImage: /images/uploads/tanmanjet738423.jpg
 imageThumbnail: /images/uploads/tanmanjet482039headshot_.png
-firstName: Tanmanjet
+firstName: Tanman
 collection: Global
-height: 180cm
+height: 182cm
 measurementType: chest
 bust: 95cm
 waist: 69cm
