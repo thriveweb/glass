@@ -20,6 +20,11 @@ imagePortfolio:
   - image: /images/uploads/piper-3.jpg
   - image: /images/uploads/piper-2.jpg
   - image: /images/uploads/piper-7.jpg
+  - image: /images/uploads/piperk784298.jpg
+  - image: /images/uploads/piperk3894.jpg
+  - image: /images/uploads/piperk379482.jpg
+  - image: /images/uploads/piperk7389.jpg
+  - image: /images/uploads/piperk3879.jpg
 meta:
   title: Piper K
 ---
