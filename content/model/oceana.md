@@ -1,6 +1,6 @@
 ---
 title: Oceana
-featuredImage: /images/uploads/oc-17.jpg
+featuredImage: /images/uploads/oc-17banner_.png
 imageThumbnail: /images/uploads/oc-her-shadow-.jpg
 firstName: Oceana
 collection: Girls
