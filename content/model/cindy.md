@@ -26,5 +26,9 @@ imagePortfolio:
   - image: /images/uploads/guo3.jpg
   - image: /images/uploads/qi0l1tuw.jpg
   - image: /images/uploads/62428f54-25a8-4034-bcc4-6b4771433bce.jpg
+  - image: /images/uploads/cindy-1111.jpg
+  - {}
+meta:
+  title: Cindy
 ---
 
