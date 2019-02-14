@@ -22,6 +22,7 @@ imagePortfolio:
   - image: /images/uploads/julies93248.jpg
   - image: /images/uploads/julies83294.jpg
   - image: /images/uploads/julies32847.jpg
+  - image: /images/uploads/kellyfamily273.jpg
 meta:
   title: Julie S
 ---
