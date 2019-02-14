@@ -5,6 +5,7 @@ imageThumbnail: /images/uploads/amn_0227.jpg
 firstName: Jessica
 collection: Girls
 height: 146cm
+measurementType: bust
 bust: 69cm
 waist: 63cm
 hips: 80cm
@@ -21,5 +22,14 @@ imagePortfolio:
   - image: /images/uploads/amn_0208.jpg
   - image: /images/uploads/amn_0039-1-.jpg
   - image: /images/uploads/amn_0164.jpg
+  - image: /images/uploads/jessh37.jpg
+  - image: /images/uploads/jessh7384.jpg
+  - image: /images/uploads/jessh8374.jpg
+  - image: /images/uploads/jessh239874.jpg
+  - image: /images/uploads/jessh897324.jpg
+  - image: /images/uploads/jessh978324.jpg
+  - image: /images/uploads/jessh342789348.jpg
+meta:
+  title: Jessica
 ---
 
