@@ -1,14 +1,14 @@
 ---
 title: 'Alfred '
 featuredImage: /images/uploads/alf-banner.jpg
-imageThumbnail: /images/uploads/lf-h-s-.jpg
+imageThumbnail: /images/uploads/alfred-1212121211.jpg
 firstName: 'Alfred '
 collection: Global
 height: 178cm
 measurementType: chest
-bust: 83cm
-waist: 72cm
-hips: 97cm
+bust: 98cm
+waist: 70cm
+hips: 92cm
 size: S
 shoeSize: '9.5'
 hair: Brown
