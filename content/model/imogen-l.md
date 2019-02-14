@@ -3,7 +3,7 @@ title: Imogen L
 featuredImage: /images/uploads/imogenl098349834banner_.png
 imageThumbnail: /images/uploads/imogenl2309-87373.jpg
 firstName: Imogen L
-collection: Global
+collection: Girls
 height: 173cm
 measurementType: bust
 bust: 94cm
