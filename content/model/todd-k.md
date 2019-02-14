@@ -19,6 +19,7 @@ imagePortfolio:
   - image: /images/uploads/toddk37894.jpg
   - image: /images/uploads/toddk32874.jpg
   - image: /images/uploads/toddk89374.jpg
+  - image: /images/uploads/kellyfamily273.jpg
 meta:
   title: Todd K
 ---
