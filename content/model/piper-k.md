@@ -25,6 +25,7 @@ imagePortfolio:
   - image: /images/uploads/piperk379482.jpg
   - image: /images/uploads/piperk7389.jpg
   - image: /images/uploads/piperk3879.jpg
+  - image: /images/uploads/kellyfamily273.jpg
 meta:
   title: Piper K
 ---
