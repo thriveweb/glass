@@ -20,5 +20,6 @@ imagePortfolio:
   - image: /images/uploads/img_0766.jpg
   - image: /images/uploads/img_0769.jpg
   - image: /images/uploads/img_0767.jpg
+  - {}
 ---
 
