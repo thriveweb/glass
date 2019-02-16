@@ -3,7 +3,7 @@ title: Veronica L
 featuredImage: /images/uploads/veronical3874banner_.png
 imageThumbnail: /images/uploads/veronical647832.jpg
 firstName: Veronica L
-collection: Classic
+collection: class
 measurementType: bust
 bust: 92cm
 waist: 72.5cm
