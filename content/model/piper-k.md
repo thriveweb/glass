@@ -29,6 +29,7 @@ imagePortfolio:
   - image: /images/uploads/kellyfamily273.jpg
   - image: /images/uploads/pkelly-4.jpg
   - {}
+  - image: /images/uploads/pkelly-7.jpg
 meta:
   title: Piper K
 ---
