@@ -4,11 +4,11 @@ featuredImage: /images/uploads/pkelly-4.jpg
 imageThumbnail: /images/uploads/pkelly.jpg
 firstName: 'Piper '
 collection: Girls
-height: 118cm
+height: 120cm
 measurementType: bust
-bust: 56cm
-waist: 48cm
-hips: 57cm
+bust: 58cm
+waist: 50.5cm
+hips: 60.5cm
 size: '5'
 shoeSize: '11'
 hair: Blonde
