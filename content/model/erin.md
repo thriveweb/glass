@@ -14,10 +14,12 @@ shoeSize: '12'
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
+  - image: /images/uploads/erin-haz.jpg
   - image: /images/uploads/erin-new-1o11.jpg
   - image: /images/uploads/erin-new-7.jpg
   - image: /images/uploads/erin-new-6.jpg
   - image: /images/uploads/erin-new-1.jpg
+  - image: /images/uploads/erin-haz-2.jpg
   - image: /images/uploads/erin-new-9.jpg
   - image: /images/uploads/erin-new-5.jpg
   - image: /images/uploads/erin-1.jpg
