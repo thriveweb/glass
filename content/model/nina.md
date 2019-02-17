@@ -3,7 +3,7 @@ title: Nina
 featuredImage: /images/uploads/nins-a-banner.jpg
 imageThumbnail: /images/uploads/nina-hs.jpg
 firstName: Nina
-collection: girls
+collection: Girls
 height: 176cm
 measurementType: bust
 bust: 86cm
