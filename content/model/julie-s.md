@@ -1,6 +1,6 @@
 ---
 title: Julie S
-featuredImage: /images/uploads/glassglobal.jpg
+featuredImage: /images/uploads/smith-family.jpg
 imageThumbnail: /images/uploads/julies32847.jpg
 firstName: Julie S
 collection: Global
@@ -21,8 +21,9 @@ imagePortfolio:
   - image: /images/uploads/julies3784.jpg
   - image: /images/uploads/julies93248.jpg
   - image: /images/uploads/julies83294.jpg
-  - image: /images/uploads/julies32847.jpg
-  - image: /images/uploads/kellyfamily273.jpg
+  - image: /images/uploads/smith-family.jpg
+  - image: /images/uploads/pkelly-7.jpg
+  - image: /images/uploads/pkelly-4.jpg
 meta:
   title: Julie S
 ---
