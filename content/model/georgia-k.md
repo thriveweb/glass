@@ -4,14 +4,14 @@ featuredImage: /images/uploads/smith-family-5.jpg
 imageThumbnail: /images/uploads/g-smith-2.jpg
 firstName: Georgia K
 collection: Girls
-height: 124cm
+height: 125cm
 measurementType: bust
-bust: 57cm
-waist: 55cm
-hips: 86cm
-size: 6-8
+bust: 62.5cm
+waist: 54.5cm
+hips: 65cm
+size: '7'
 shoeSize: '13'
-hair: Blonde
+hair: Dark Blonde
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/georgia-k-2.jpg
@@ -26,7 +26,8 @@ imagePortfolio:
   - image: /images/uploads/georgia-k-7.jpg
   - image: /images/uploads/georgia-k-5.jpg
   - image: /images/uploads/smith-family-5.jpg
-  - {}
+  - image: /images/uploads/pkelly-7.jpg
+  - image: /images/uploads/smith-family.jpg
 meta:
   title: Georgia K
 ---
