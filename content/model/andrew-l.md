@@ -1,7 +1,7 @@
 ---
 title: Andrew L
 featuredImage: /images/uploads/andy-1212121.jpg
-imageThumbnail: /images/uploads/andy-hs.jpg
+imageThumbnail: /images/uploads/new-project-2018-12-27-11-06-12.jpg
 firstName: Andrew L
 collection: Classic
 height: 185cm
@@ -24,6 +24,8 @@ imagePortfolio:
   - image: /images/uploads/andy7.jpg
   - image: /images/uploads/andy10.jpg
   - image: /images/uploads/andy9.jpg
+  - image: /images/uploads/andy-and-nina.jpg
+  - image: /images/uploads/andy-family.jpg
 meta:
   title: Andrew L
 ---
