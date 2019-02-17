@@ -1,7 +1,7 @@
 ---
 title: 'Piper '
-featuredImage: /images/uploads/piper-4.jpg
-imageThumbnail: /images/uploads/piper-6.jpg
+featuredImage: /images/uploads/pkelly-4.jpg
+imageThumbnail: /images/uploads/pkelly.jpg
 firstName: 'Piper '
 collection: Girls
 height: 118cm
@@ -15,6 +15,7 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/piper5.jpg
+  - image: /images/uploads/pkelly.jpg
   - image: /images/uploads/piper-6.jpg
   - image: /images/uploads/piper1.jpg
   - image: /images/uploads/piper-3.jpg
@@ -26,6 +27,8 @@ imagePortfolio:
   - image: /images/uploads/piperk7389.jpg
   - image: /images/uploads/piperk3879.jpg
   - image: /images/uploads/kellyfamily273.jpg
+  - image: /images/uploads/pkelly-4.jpg
+  - {}
 meta:
   title: Piper K
 ---
