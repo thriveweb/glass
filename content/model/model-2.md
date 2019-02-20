@@ -13,24 +13,30 @@ shoeSize: '7.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: /images/uploads/amanda-19191.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-6-.jpg
+  - image: /images/uploads/amanda-122.jpg
   - image: /images/uploads/amanda.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-11-.jpg
+  - image: /images/uploads/amanda-14444.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-12-.jpg
+  - image: /images/uploads/amanda-144.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-14-.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-7-.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-8-.jpg
+  - image: /images/uploads/amanda-133.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-13-.jpg
   - image: /images/uploads/amanada.jpg
+  - image: /images/uploads/amanda-1444.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-10-.jpg
   - image: /images/uploads/ezgif.com-webp-to-jpg-9-.jpg
   - image: /images/uploads/amanda-3.jpg
+  - image: /images/uploads/amanda-1818.jpg
   - image: /images/uploads/amanda-6.jpg
   - image: /images/uploads/amanda-1.jpg
   - image: /images/uploads/amanda-her-shadow-yes.jpg
-  - {}
-  - {}
-  - {}
-  - {}
+  - image: /images/uploads/amanda-13131313.jpg
+meta:
+  title: amanda
 ---
 
