@@ -14,9 +14,13 @@ shoeSize: '9.5'
 hair: Blonde
 eyes: Hazel
 imagePortfolio:
+  - image: /images/uploads/beau-161.jpeg
+  - image: /images/uploads/beau-151.jpeg
   - image: /images/uploads/beau-2.jpg
   - image: /images/uploads/beaudenelg-1.jpg
+  - image: /images/uploads/beau-121.jpeg
   - image: /images/uploads/beau.jpg
+  - image: /images/uploads/beau-141.jpeg
   - image: /images/uploads/beaudenelg-5.jpg
   - image: /images/uploads/beau-hs-.jpg
   - image: /images/uploads/beaudenelg-6.jpg
