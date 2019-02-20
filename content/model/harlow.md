@@ -14,17 +14,19 @@ shoeSize: 1-2
 hair: Golden Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/harlow15.jpg
+  - image: /images/uploads/photo-29-10-18-3-47-17-am-1-.jpg
   - image: /images/uploads/harl3.jpg
-  - image: /images/uploads/harl1.jpg
   - image: /images/uploads/harl11.jpg
   - image: /images/uploads/bubblegum6-.jpg
   - image: /images/uploads/harlow8.jpg
   - image: /images/uploads/harlow9.jpg
-  - image: /images/uploads/harl2.jpg
-  - image: /images/uploads/harl5.jpg
-  - image: /images/uploads/harl18.jpg
   - image: /images/uploads/bubblegum7.jpg
+  - image: /images/uploads/photo-16-2-19-9-07-29-pm.jpg
+  - image: /images/uploads/harl5.jpg
+  - image: /images/uploads/harlow15.jpg
+  - image: /images/uploads/harl1.jpg
+  - image: /images/uploads/harl2.jpg
+  - image: /images/uploads/harl18.jpg
   - image: /images/uploads/haerl4.jpg
   - image: /images/uploads/harlow12.jpg
   - image: /images/uploads/harl16.jpg
