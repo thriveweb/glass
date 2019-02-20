@@ -5,6 +5,7 @@ imageThumbnail: /images/uploads/monny-her-shadow.jpg
 firstName: Montana
 collection: Global
 hair: Blonde
+eyes: Brown
 imagePortfolio:
   - image: /images/uploads/monty-121.jpg
   - image: /images/uploads/monny-1.jpg
