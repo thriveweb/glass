@@ -1,7 +1,7 @@
 ---
 title: Nevada
 featuredImage: /images/uploads/nevada-aaaa.jpg
-imageThumbnail: /images/uploads/nevada-1.jpg
+imageThumbnail: /images/uploads/nevada-her-shadow.jpg
 firstName: Nevada
 collection: Global
 imagePortfolio:
