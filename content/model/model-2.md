@@ -1,7 +1,7 @@
 ---
 title: Amanda
 featuredImage: /images/uploads/amandabannery313.jpg
-imageThumbnail: /images/uploads/amanda-headshot-1-.jpg
+imageThumbnail: /images/uploads/amanda-her-shadow-yes.jpg
 firstName: Amanda
 collection: Women
 height: 167.5cm
@@ -27,5 +27,10 @@ imagePortfolio:
   - image: /images/uploads/amanda-3.jpg
   - image: /images/uploads/amanda-6.jpg
   - image: /images/uploads/amanda-1.jpg
+  - image: /images/uploads/amanda-her-shadow-yes.jpg
+  - {}
+  - {}
+  - {}
+  - {}
 ---
 
