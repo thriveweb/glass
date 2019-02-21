@@ -20,9 +20,10 @@ imagePortfolio:
   - image: /images/uploads/riley328409.jpeg
   - image: /images/uploads/riley39842.jpeg
   - image: /images/uploads/riley4985.jpeg
-  - {}
-  - {}
-  - {}
+  - image: /images/uploads/riley8347.jpeg
+  - image: /images/uploads/riley634278.jpeg
+  - image: /images/uploads/riley893724.jpeg
+  - image: /images/uploads/riley239847.jpeg
 meta:
   title: Riley
 ---
