@@ -1,7 +1,7 @@
 ---
 title: 'Jared '
 featuredImage: /images/uploads/jaredm247839banner.png
-imageThumbnail: /images/uploads/jaredm78642.jpg
+imageThumbnail: /images/uploads/jared-hs.jpg
 firstName: 'Jared '
 collection: Men
 height: 180cm
