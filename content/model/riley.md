@@ -1,5 +1,5 @@
 ---
-title: Riley
+title: Riley M
 featuredImage: /images/uploads/banner-riley-1-.jpg
 imageThumbnail: /images/uploads/aaddr3e.jpg
 firstName: Riley
