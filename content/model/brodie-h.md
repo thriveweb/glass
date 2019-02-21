@@ -15,6 +15,7 @@ hair: Brown
 eyes: Blue
 imagePortfolio:
   - image: /images/uploads/brodie-h-2.jpg
+  - image: /images/uploads/brodie-h-1.jpg
   - {}
 meta:
   title: Brodie H
