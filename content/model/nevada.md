@@ -10,6 +10,7 @@ bust: 51cm
 waist: 48cm
 hips: 51cm
 size: '4'
+shoeSize: '5'
 hair: Dark Blonde
 eyes: Blue
 imagePortfolio:
