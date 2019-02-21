@@ -3,7 +3,7 @@ title: Brodie H
 featuredImage: /images/uploads/glassglobal.jpg
 imageThumbnail: /images/uploads/brodie-h-1.jpg
 firstName: Brodie H
-collection: Men
+collection: Global
 height: 187cm
 measurementType: chest
 bust: 95cm
