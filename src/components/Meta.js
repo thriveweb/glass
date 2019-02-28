@@ -23,13 +23,7 @@ const Meta = props => {
     ...onlyTruthyValues(_get(props, 'fields')),
     ...onlyTruthyValues(_get(props, 'fields.meta'))
   }
-
-  // write headerScripts
-  const headerScriptsElement = document.head.querySelector('#headerScripts')
-  if (headerScripts && headerScriptsElement) {
-    headerScriptsElement.outerHTML = headerScripts
-  }
-
+  
   return (
     <Helmet>
       {title && <title>{title}</title>}
