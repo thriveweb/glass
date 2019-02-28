@@ -1,7 +1,8 @@
 ---
 title: Tate
-featuredImage: /images/uploads/film-global-banner.jpeg
-imageThumbnail: /images/uploads/tate-5.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/film-global-banner.jpeg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/tate-5.jpg
 firstName: Tate
 collection: Global
 height: 185cm
@@ -14,10 +15,10 @@ shoeSize: '11'
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/tate-10.jpg
-  - image: /images/uploads/tate-6.jpg
-  - image: /images/uploads/tate-9.jpg
-  - image: /images/uploads/tate-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tate-10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tate-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tate-9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tate-2.jpg
 meta:
   title: Tate
 ---

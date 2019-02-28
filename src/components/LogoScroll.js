@@ -7,10 +7,7 @@ export default ({ inverted }) => (
   <div
     className='Logo LogoScroll'
     style={{
-      backgroundImage: `url(${getImageSrc(
-        '/images/uploads/logo-black.png',
-        200
-      )})`
+      backgroundImage: `url(https://glassmanagement.imgix.net/images/uploads/logo-black.png?auto=compress,format&w=200)`
     }}
   />
 )

@@ -1,6 +1,7 @@
 ---
 title: Sanctuary Cove Boat Show
-image: /images/uploads/bts2.jpg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/bts2.jpg
 collection: Agency
 author: Tegan
 date: 24th May 2018
@@ -13,6 +14,6 @@ content: >-
   Super Yachts.
 
 
-  ![](/images/uploads/bts-1.jpg)
+  ![](https://glassmanagement.imgix.net/images/uploads/bts-1.jpg)
 ---
 

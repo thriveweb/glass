@@ -1,10 +1,9 @@
 import React, {Component} from 'react'
-import {Link} from 'react-router-dom'
+import { Link } from 'gatsby'
 import _includes from 'lodash/includes'
 import _kebabCase from 'lodash/kebabCase'
 
 import BackgroundImage from './BackgroundImage'
-// import LazyImage from './LazyImage'
 
 import './SingleModel.css'
 
@@ -33,7 +32,6 @@ class AsNavFor extends Component {
 
 	render() {
 		const { firstName, height, waist, measurementType, bust, hips, size, shoeSize, hair, eyes, imagePortfolio = [], collection = '' } = this.props
-
 	    return (		
 		    <section className='section--model-profile'>
 				<div className='container'>

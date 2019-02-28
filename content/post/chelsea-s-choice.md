@@ -1,6 +1,7 @@
 ---
 title: 'Chelsea''s Choice #1'
-image: /images/uploads/chelsea1258622choice84590.jpg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/chelsea1258622choice84590.jpg
 collection: A blog written by our 16 year old intern
 author: Chelsea
 date: 30th May 2018

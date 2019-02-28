@@ -1,7 +1,8 @@
 ---
 title: Lena Lee
-featuredImage: /images/uploads/lena-1.jpg
-imageThumbnail: /images/uploads/lena-3.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/lena-1.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/lena-3.jpg
 firstName: Lena Lee
 collection: Global
 height: 167cm
@@ -14,12 +15,12 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/lena-6.jpg
-  - image: /images/uploads/lena-12.jpg
-  - image: /images/uploads/lena-13.jpg
-  - image: /images/uploads/lena-10.jpg
-  - image: /images/uploads/lena-7.jpg
-  - image: /images/uploads/lena-11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lena-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lena-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lena-13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lena-10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lena-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lena-11.jpg
 meta:
   title: Lena Lee
 ---

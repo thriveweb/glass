@@ -1,7 +1,8 @@
 ---
 title: Sam
-featuredImage: /images/uploads/sammy-12121212121.jpg
-imageThumbnail: /images/uploads/sam8.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/sammy-12121212121.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/sam8.jpg
 firstName: Sam
 collection: Women
 height: 178cm
@@ -14,20 +15,20 @@ shoeSize: '8'
 hair: Brunette
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/sam10.jpg
-  - image: /images/uploads/samantha-7.webp
-  - image: /images/uploads/sam9.jpg
-  - image: /images/uploads/samantha-6.webp
-  - image: /images/uploads/sam-6.jpg
-  - image: /images/uploads/sam-7.jpg
-  - image: /images/uploads/sam11.jpg
-  - image: /images/uploads/sam-4.jpg
-  - image: /images/uploads/sam-5.jpg
-  - image: /images/uploads/sam12.jpg
-  - image: /images/uploads/sammy-1.jpg
-  - image: /images/uploads/sammy-111.jpg
-  - image: /images/uploads/sammy-1919191.jpg
-  - image: /images/uploads/sammy-12121212121.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sam10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/samantha-7.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/sam9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/samantha-6.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/sam-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sam-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sam11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sam-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sam-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sam12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sammy-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sammy-111.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sammy-1919191.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sammy-12121212121.jpg
   - {}
   - {}
 ---

@@ -1,7 +1,8 @@
 ---
 title: Caitlynn
-featuredImage: /images/uploads/caitlynn-cover-2-2-.jpg
-imageThumbnail: /images/uploads/img_5829.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/caitlynn-cover-2-2-.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/img_5829.jpg
 firstName: Caitlynn
 collection: Women
 height: 166cm
@@ -13,14 +14,14 @@ shoeSize: '9'
 hair: Brunette
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/img_5575.jpg
-  - image: /images/uploads/img_5358.jpg
-  - image: /images/uploads/img_5097.jpg
-  - image: /images/uploads/img_5335.jpg
-  - image: /images/uploads/img_5125.jpg
-  - image: /images/uploads/caitlynn23ui.jpg
-  - image: /images/uploads/img_5597.jpg
-  - image: /images/uploads/cait-1-.png
-  - image: /images/uploads/img_5772.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/img_5575.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/img_5358.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/img_5097.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/img_5335.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/img_5125.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/caitlynn23ui.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/img_5597.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/cait-1-.png
+  - image: https://glassmanagement.imgix.net/images/uploads/img_5772.jpg
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Indie
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/indie-munoz-3.10.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/indie-munoz-3.10.jpg
 firstName: Indie
 collection: Global
 height: 100cm
@@ -14,8 +15,8 @@ shoeSize: '9'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/indie-munoz-3.10.jpg
-  - image: /images/uploads/family.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/indie-munoz-3.10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/family.jpg
 meta:
   title: Indie
 ---

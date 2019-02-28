@@ -1,7 +1,8 @@
 ---
 title: Kora
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/kora-higgins-5.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/kora-higgins-5.jpg
 firstName: Kora
 collection: Global
 height: 106cm
@@ -14,8 +15,8 @@ shoeSize: '11'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/kora-higgins-5.jpg
-  - image: /images/uploads/higgins-family.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kora-higgins-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/higgins-family.jpg
 meta:
   title: Kora
 ---

@@ -1,7 +1,8 @@
 ---
 title: Victoria E
-featuredImage: /images/uploads/victoria-edwards-white.jpg
-imageThumbnail: /images/uploads/victoria-edwards-c.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-white.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-c.jpg
 firstName: Victoria E
 collection: Classic
 height: 178cm
@@ -14,18 +15,18 @@ shoeSize: '11'
 hair: Red
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/victoria-edwards-d.jpg
-  - image: /images/uploads/victoria-edwards-white.jpg
-  - image: /images/uploads/victoria-edwards-guitar.jpg
-  - image: /images/uploads/victoria-edwards-a.jpg
-  - image: /images/uploads/victoria-edwards-sydney-2.jpg
-  - image: /images/uploads/victoria-edwards-banner-2.jpg
-  - image: /images/uploads/victoria-edwards-bell-st-mall-toowoomba-2012.jpg
-  - image: /images/uploads/victoria-edwards-full-length.jpg
-  - image: /images/uploads/victoria-edwards-twba-ruthven-st-2012.jpg
-  - image: /images/uploads/victoria-edwards-bw-2.jpg
-  - image: /images/uploads/victoria-edwards-tamworth.jpg
-  - image: /images/uploads/victoria-edwards-headshot.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-d.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-white.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-guitar.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-a.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-sydney-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-banner-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-bell-st-mall-toowoomba-2012.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-full-length.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-twba-ruthven-st-2012.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-bw-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-tamworth.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victoria-edwards-headshot.jpg
 meta:
   title: Victoria E
 ---

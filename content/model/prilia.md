@@ -1,7 +1,8 @@
 ---
 title: Prilia
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/prilia-1.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/prilia-1.jpg
 firstName: Prilia
 collection: Global
 height: 141cm
@@ -14,8 +15,8 @@ shoeSize: '2'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/prilia-3.jpg
-  - image: /images/uploads/prilia-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/prilia-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/prilia-2.jpg
 meta:
   title: Prilia
 ---

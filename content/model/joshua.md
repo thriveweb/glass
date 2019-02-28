@@ -1,7 +1,8 @@
 ---
 title: Joshua
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/joshua-carrasco-5.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/joshua-carrasco-5.jpg
 firstName: Joshua
 collection: Global
 height: 116cm
@@ -14,8 +15,8 @@ shoeSize: '3'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/joshua-carrasco-5.jpg
-  - image: /images/uploads/carrasco-family.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/joshua-carrasco-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/carrasco-family.jpg
 meta:
   title: Joshua
 ---

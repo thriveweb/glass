@@ -1,7 +1,8 @@
 ---
 title: Visnja
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/visnja-vicic-44.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/visnja-vicic-44.jpg
 firstName: Visnja
 collection: Global
 height: 158cm
@@ -14,7 +15,7 @@ shoeSize: '7'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/visnja-vicic-44.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/visnja-vicic-44.jpg
 meta:
   title: Visnja
 ---

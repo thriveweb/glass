@@ -1,11 +1,18 @@
 import React from 'react'
 import './ContactInfo.css'
+import _get from 'lodash/get'
 
 import { ICONTwitter, ICONFacebook, ICONLinkedin, ICONInstagram } from '../components/Icons'
 
 
 export default ({ globalSettings }) => {
-	const { phone, address, email, twitter, facebook, linkedin, instagram } = globalSettings
+	const phone = _get(globalSettings, 'phone') || ''
+	const address = _get(globalSettings, 'address') || ''
+	const email = _get(globalSettings, 'email') || ''
+	const twitter = _get(globalSettings, 'twitter') || ''
+	const facebook = _get(globalSettings, 'facebook') || ''
+	const linkedin = _get(globalSettings, 'linkedin') || ''
+	const instagram = _get(globalSettings, 'instagram') || ''
 
 	return <section className='section--contact'>
 			<div className='container'>

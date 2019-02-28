@@ -1,7 +1,8 @@
 ---
 title: Shannon
-featuredImage: /images/uploads/shannon672348129header_32473.jpg
-imageThumbnail: /images/uploads/shannon36472839.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/shannon672348129header_32473.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/shannon36472839.jpg
 firstName: Shannon
 collection: Classic
 height: 184cm
@@ -14,12 +15,12 @@ shoeSize: '10'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/shannon128397.jpg
-  - image: /images/uploads/shannon8739120.jpg
-  - image: /images/uploads/shannon-12.jpg
-  - image: /images/uploads/shannon36472839.jpg
-  - image: /images/uploads/shannon6723481293.jpg
-  - image: /images/uploads/shannon-9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/shannon128397.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/shannon8739120.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/shannon-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/shannon36472839.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/shannon6723481293.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/shannon-9.jpg
   - {}
 meta:
   title: Shannon

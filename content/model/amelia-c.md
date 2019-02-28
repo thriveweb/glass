@@ -1,7 +1,8 @@
 ---
 title: Amelia C
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/amn_0433.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/amn_0433.jpg
 firstName: Amelia C
 collection: Global
 height: 156cm
@@ -13,9 +14,9 @@ shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/amn_0433.jpg
-  - image: /images/uploads/amn_0491.jpg
-  - image: /images/uploads/amn_0445.jpg
-  - image: /images/uploads/amn_0415.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amn_0433.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amn_0491.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amn_0445.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amn_0415.jpg
 ---
 

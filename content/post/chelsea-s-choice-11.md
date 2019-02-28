@@ -1,6 +1,7 @@
 ---
 title: 'Chelsea''s Choice #12'
-image: /images/uploads/pexels-photo-285173.jpeg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/pexels-photo-285173.jpeg
 collection: End To An Amazing Year
 author: Chelsea
 date: 16th December 2018

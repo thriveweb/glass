@@ -1,6 +1,7 @@
 ---
 title: Black Ice Campaign
-image: /images/uploads/bts.jpg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/bts.jpg
 collection: Agency
 author: Tegan
 date: 24th May 2018

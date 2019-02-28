@@ -1,7 +1,8 @@
 ---
 title: Mikayla
-featuredImage: /images/uploads/mika.jpg
-imageThumbnail: /images/uploads/mika1.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/mika.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/mika1.jpg
 firstName: Mikayla
 collection: Girls
 height: 155cm
@@ -14,7 +15,7 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/mikayla.jpeg
-  - image: /images/uploads/mika1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mikayla.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/mika1.jpg
 ---
 

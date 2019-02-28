@@ -1,5 +1,6 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link } from 'gatsby'
+
 import _kebabCase from 'lodash/kebabCase'
 import './NavList.css'
 

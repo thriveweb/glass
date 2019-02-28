@@ -1,7 +1,8 @@
 ---
 title: Carson
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/carson_shot04.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/carson_shot04.jpg
 firstName: Carson
 collection: Global
 height: 178cm
@@ -14,8 +15,8 @@ shoeSize: '10'
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/carson_shot01.jpg
-  - image: /images/uploads/carson_shot04.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/carson_shot01.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/carson_shot04.jpg
 meta:
   title: Carson
 ---

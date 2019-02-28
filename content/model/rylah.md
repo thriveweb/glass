@@ -1,7 +1,8 @@
 ---
 title: Rylah
-featuredImage: /images/uploads/rhy1.jpg
-imageThumbnail: /images/uploads/rylah.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/rhy1.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/rylah.jpg
 firstName: Rylah
 collection: Girls
 height: 116cm
@@ -14,15 +15,15 @@ shoeSize: '11'
 hair: Blonde
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/rylah.jpg
-  - image: /images/uploads/rhy4.jpg
-  - image: /images/uploads/ry.jpg
-  - image: /images/uploads/rylah29335.jpg
-  - image: /images/uploads/rylah-2.jpg
-  - image: /images/uploads/rhy2.jpg
-  - image: /images/uploads/rylah293.jpg
-  - image: /images/uploads/rhy.jpg
-  - image: /images/uploads/rhy3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/rylah.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/rhy4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ry.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/rylah29335.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/rylah-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/rhy2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/rylah293.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/rhy.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/rhy3.jpg
 meta:
   title: Rylah
 ---

@@ -2,7 +2,8 @@ import React from 'react'
 import './SectionAbout.css'
 
 import { slugify } from '../util/url'
-import { Link } from 'react-router-dom'
+import { Link } from 'gatsby'
+
 import LazyImage from './LazyImage'
 import Content from './Content'
 

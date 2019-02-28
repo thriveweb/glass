@@ -1,7 +1,8 @@
 ---
 title: Zane
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/z2.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/z2.jpg
 firstName: Zane
 collection: Global
 height: 149.5cm
@@ -14,10 +15,10 @@ shoeSize: 7 US
 hair: Brown
 eyes: Hazel
 imagePortfolio:
-  - image: /images/uploads/z4.jpg
-  - image: /images/uploads/z7.jpg
-  - image: /images/uploads/z6.jpg
-  - image: /images/uploads/z5.jpg
-  - image: /images/uploads/z4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/z4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/z7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/z6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/z5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/z4.jpg
 ---
 

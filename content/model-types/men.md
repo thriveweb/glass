@@ -1,6 +1,7 @@
 ---
+template: ModelsPage
 title: Men
-featuredImage: /images/uploads/menbanner23731.jpg
+featuredImage: 'https://glassmanagement.imgix.net/images/uploads/menbanner23731.jpg'
 order: '2'
 ---
 

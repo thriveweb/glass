@@ -1,6 +1,7 @@
 ---
+template: InfoPage
 title: Terms & Conditions
-featuredImage: /images/uploads/jordan-mixson-372459-unsplash copy 2.png
+featuredImage: https://glassmanagement.imgix.net/images/uploads/jordan-mixson-372459-unsplash copy 2.png
 content: >-
 
 
@@ -142,7 +143,7 @@ content: >-
   Agency Service Fee is a mandatory fee on all bookings made with GLASS
   Management, and is not a negotiable fee for the purposes of making a
   booking.   The Agency Service Fee is calculated at 20% on the total of the job
-  and loading for all jobs booked. 
+  and loading for all jobs booked.
 
 
   PAYMENT: ON ALL INVOICES PAYMENT IS REQUIRED WITHIN 14 DAYS OF THE DATE OF
@@ -164,4 +165,3 @@ content: >-
 
   Team Glass xx
 ---
-

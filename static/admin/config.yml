@@ -1,0 +1,394 @@
+# See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+display_url: https://glassmanagement.com.au # This url will display in the top-right of the CMS
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 3a520a4b111a1f7cc6b7
+    multiple: false
+    tabs: 'file camera url facebook gdrive'
+    effects: 'crop,rotate,enhance,grayscale'
+    imageShrink: '2000x2000'
+    previewStep: true
+    clearable: true
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "pages"
+    label: "Page"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: true
+    files:
+      - file: "content/pages/home.md"
+        label: "Home Page"
+        name: "home-page"
+        fields:
+          - {label: Featured Image, name: featuredImage, widget: image, required: false}
+          - {label: Template, name: template, widget: hidden, default: 'HomePage'}
+          - {label: Slug, name: slug, widget: hidden, default: '/'}
+          - {label: Sub Title, name: subTitle, widget: string, required: false}
+          - {label: Content, name: content, widget: string, required: false}
+          - {label: Button Text, name: buttonText, widget: string, required: false}
+          - {label: Button Url, name: buttonUrl, widget: string, required: false}
+          - label: "Gallery"
+            name: "gallery"
+            widget: "object"
+            fields:
+              - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Title, name: title, widget: string}
+              - label: "Gallery Images"
+                name: "galleryImages"
+                widget: "list"
+                fields:
+                  - {label: Image, name: image, widget: image}
+                  - {label: Title, name: title, widget: string}
+          - label: "About"
+            name: "about"
+            widget: "object"
+            fields:
+              - {label: Image, name: image, widget: image}
+              - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: markdown}
+              - {label: Button Text, name: buttonText, widget: string}
+              - {label: Button Url, name: buttonUrl, widget: string}
+          - label: "Testimonials"
+            name: "testimonials"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - label: "Testimonial"
+                name: "testimonial"
+                widget: "list"
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: Content, name: content, widget: markdown}
+                  - {label: Logo, name: logo, widget: image}
+                  - {label: Name, name: name, widget: string}
+          - label: "Featured Posts"
+            name: "featuredPosts"
+            widget: "object"
+            fields:
+              - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Title, name: title, widget: string}
+              - label: "Blog Posts"
+                name: "blogPosts"
+                widget: "list"
+                fields:
+                  - label: Collection
+                    name: collection
+                    widget: relation
+                    collection: 'post'
+                    searchFields: ['title']
+                    valueField: 'title'
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
+
+      - file: "content/pages/about.md"
+        label: "About Page"
+        name: "about-page"
+        fields:
+          - {label: Template, name: template, widget: hidden, default: 'AboutPage'}
+          - {label: Slug, name: slug, widget: hidden, default: 'about'}
+          - {label: Featured Image, name: featuredImage, widget: image, required: false}
+          - {label: Sub Title, name: subTitle, widget: string, required: false}
+          - {label: Title, name: title, widget: string, required: false}
+          - label: "Team Members"
+            name: "teamMembers"
+            widget: "list"
+            required: false
+            fields:
+              - {label: Left Align, name: leftAlign, widget: boolean, default: true, required: false}
+              - {label: Image, name: image, widget: image, required: false}
+              - {label: Sub Title, name: subTitle, widget: string, required: false}
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Content, name: content, widget: markdown, required: false}
+          - label: "Services"
+            name: "services"
+            widget: "object"
+            fields:
+              - {label: Sub Title, name: subTitle, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: markdown}
+              - label: "Service Items"
+                name: "serviceItems"
+                widget: "list"
+                fields:
+                  - {label: Image, name: image, widget: image}
+                  - {label: Title, name: title, widget: string}
+                  - {label: Content, name: content, widget: markdown}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
+
+      - file: "content/pages/models.md"
+        label: "Models"
+        name: "models"
+        fields:
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
+
+      - file: "content/pages/blog.md"
+        label: "Blog"
+        name: "blog"
+        fields:
+          - {label: Template, name: template, widget: hidden, default: 'BlogPage'}
+          - {label: Slug, name: slug, widget: hidden, default: 'blog'}
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
+
+      - file: "content/pages/contact.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - {label: Template, name: template, widget: hidden, default: 'ContactPage'}
+          - {label: Slug, name: slug, widget: hidden, default: 'contact'}
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
+
+      - file: "content/pages/join-us.md"
+        label: "Join Us"
+        name: "joinUs"
+        fields:
+          - {label: Template, name: template, widget: hidden, default: 'JoinUsPage'}
+          - {label: Slug, name: slug, widget: hidden, default: 'join-us'}
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Title, name: title, widget: string}
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: markdown}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
+
+
+  - label: "Info Page"
+    name: "info-page"
+    delete: true # Prevent users from deleting documents in this collection
+    editor:
+      preview: true
+    folder: "content/info-page"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Template, name: template, widget: hidden, default: 'InfoPage'}
+      - {label: Title, name: title, widget: string}
+      - {label: Featured Image, name: featuredImage, widget: image}
+      - {label: Content, name: content, widget: markdown}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}
+
+
+  - name: "settings"
+    label: "Settings"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - file: "content/settings/global.yml"
+        label: "Global Settings"
+        name: "global-settings"
+        fields:
+          - {label: Site Title, name: siteTitle, widget: string}
+          - {label: Site Url, name: siteUrl, widget: string, required: false}
+          - {label: Site Description, name: siteDescription, widget: text, required: false}
+          - {label: Phone, name: phone, widget: string, required: false}
+          - {label: Email, name: email, widget: string, required: false}
+          - {label: Address, name: address, widget: string, required: false}
+          - {label: Twitter, name: twitter, widget: string, required: false}
+          - {label: Facebook, name: facebook, widget: string, required: false}
+          - {label: Linkedin, name: linkedin, widget: string, required: false}
+          - {label: Instagram, name: instagram, widget: string, required: false}
+          - label: "Header"
+            name: "header"
+            widget: "object"
+            fields:
+              - {label: Button Text, name: buttonText, widget: string}
+              - {label: Button Url, name: buttonUrl, widget: string}
+          - label: "Footer"
+            name: "footer"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - label: "Footer Nav"
+                name: "footerNav"
+                widget: "list"
+                fields:
+                  - {label: Button Text, name: buttonText, widget: string}
+                  - {label: Button Url, name: buttonUrl, widget: string}
+          - label: "Partners"
+            name: "partners"
+            widget: "list"
+            fields:
+              - {label: Image, name: image, widget: image}
+          - label: "Columns"
+            name: "columns"
+            widget: "list"
+            fields:
+              - {label: Left Align, name: leftAlign, widget: boolean, default: true, required: false}
+              - {label: Image, name: image, widget: image}
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: string}
+              - {label: Button Title, name: buttonTitle, widget: string}
+              - {label: Button Url, name: buttonUrl, widget: string}
+          - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
+
+
+  - label: "Post"
+    name: "post"
+    delete: true # Prevent users from deleting documents in this collection
+    editor:
+      preview: true
+    folder: "content/post"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Template, name: template, widget: hidden, default: BlogPost}
+      - {label: Title, name: title, widget: string}
+      - {label: Image, name: image, widget: image}
+      - {label: Collection, name: collection, widget: relation, collection: 'post-category', searchFields: ['title'], valueField: 'title', required: false}
+      - {label: Author, name: author, widget: string}
+      - {label: Date, name: date, widget: string}
+      - {label: Content, name: content, widget: markdown}
+      - {label: Video Source, name: videoSource, widget: string, required: false}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}
+
+  - label: "Model"
+    name: "model"
+    delete: true # Prevent users from deleting documents in this collection
+    editor:
+      preview: true
+    folder: "content/model"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Template, name: template, widget: hidden, default: ModelPage}
+      - {label: Title, name: title, widget: string}
+      - {label: Featured Image, name: featuredImage, widget: image}
+      - {label: Image Thumbnail, name: imageThumbnail, widget: image}
+      - {label: First Name, name: firstName, widget: string}
+      - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title'}
+      - {label: Height, name: height, widget: string, required: false}
+      - label: "Measurement Type"
+        name: "measurementType"
+        widget: "select"
+        required: false
+        options:
+          - { label: "Chest", value: "chest" }
+          - { label: "Bust", value: "bust" }
+      - {label: Bust/Chest, name: bust, widget: string, required: false}
+      - {label: Waist, name: waist, widget: string, required: false}
+      - {label: Hips, name: hips, widget: string, required: false}
+      - {label: Size, name: size, widget: string, required: false}
+      - {label: Shoe Size, name: shoeSize, widget: string, required: false}
+      - {label: Hair, name: hair, widget: string, required: false}
+      - {label: Eyes, name: eyes, widget: string, required: false}
+      - label: "Image Portfolio"
+        name: "imagePortfolio"
+        widget: "list"
+        fields:
+          - {label: Image, name: image, widget: image, required: false}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}
+
+
+  - name: "model-types"
+    label: "Model Types"
+    delete: true # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    folder: "content/model-types"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Template, name: template, widget: hidden, default: ModelsPage}
+      - {label: Title, name: title, widget: string}
+      - {label: Featured Image, name: featuredImage, widget: image}
+      - {label: Order, name: order, widget: number}
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}

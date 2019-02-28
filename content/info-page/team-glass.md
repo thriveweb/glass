@@ -1,6 +1,7 @@
 ---
+template: InfoPage
 title: Team Glass
-featuredImage: /images/uploads/alisha.jpg
+featuredImage: https://glassmanagement.imgix.net/images/uploads/alisha.jpg
 content: >-
   Here at Glass we belong to a special club called #teamglass
 
@@ -18,6 +19,5 @@ content: >-
   Go #teamglass
 
 
-  ![Test Image](/images/uploads/logo-black.svg)
+  ![Test Image](https://glassmanagement.imgix.net/images/uploads/logo-black.svg)
 ---
-

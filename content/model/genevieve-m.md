@@ -1,7 +1,8 @@
 ---
 title: Genevieve M
-featuredImage: /images/uploads/film-global-banner.jpeg
-imageThumbnail: /images/uploads/genny-1.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/film-global-banner.jpeg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/genny-1.jpg
 firstName: Genevieve M
 collection: Global
 height: 163cm
@@ -12,10 +13,10 @@ hips: 107cm
 size: '12'
 shoeSize: '8'
 imagePortfolio:
-  - image: /images/uploads/genny-2.jpg
-  - image: /images/uploads/genny-4.jpg
-  - image: /images/uploads/genny-1.jpg
-  - image: /images/uploads/genny-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/genny-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/genny-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/genny-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/genny-3.jpg
 meta:
   title: Genevieve M
 ---

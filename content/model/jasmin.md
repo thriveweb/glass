@@ -1,7 +1,8 @@
 ---
 title: Jasmine
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/jasmine-lessue-.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/jasmine-lessue-.jpg
 firstName: Jasmine
 collection: Global
 height: 162cm
@@ -13,13 +14,13 @@ shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/amn_9827-1-_preview.jpg
-  - image: /images/uploads/jasmine-lessue-3.jpg
-  - image: /images/uploads/jasmine-21.jpg
-  - image: /images/uploads/amn_9810_preview.jpg
-  - image: /images/uploads/jasmine-12.jpg
-  - image: /images/uploads/jasmine-11.jpg
-  - image: /images/uploads/jasmine-22.jpg
-  - image: /images/uploads/jasmine-25.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amn_9827-1-_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jasmine-lessue-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jasmine-21.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amn_9810_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jasmine-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jasmine-11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jasmine-22.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jasmine-25.jpg
 ---
 

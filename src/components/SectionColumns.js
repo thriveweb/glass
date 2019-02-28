@@ -2,14 +2,14 @@ import React from 'react'
 import './SectionColumns.css'
 
 import { slugify } from '../util/url'
-import { Link } from 'react-router-dom'
+import { Link } from 'gatsby'
+
 import LazyImage from './LazyImage'
 
 
 export default ({ columns }) =>
-
 	<section className='section--columns'>
-		{columns.map(column => {
+		{columns && !!columns.length && columns.map(column => {
 			return <div key={`${column.title}`} className={`section--columns-item ${!column.leftAlign ? 'column-right' : ''}`}>
 				<div className='container skinny'>
 					{column.image && <LazyImage src={`${column.image}`} alt={column.title} />}

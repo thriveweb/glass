@@ -1,6 +1,7 @@
 ---
 title: 'Chelsea''s Choice #2'
-image: /images/uploads/chelsea-schoice128746987392p5.jpg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/chelsea-schoice128746987392p5.jpg
 collection: Changing your look
 author: Chelsea
 date: 8th June 2018
@@ -51,7 +52,7 @@ content: >-
   * <https://www.facebook.com/modhairgc/?ref=br_rs>
 
 
-  ![null](/images/uploads/img_0863.jpg)
+  ![null](https://glassmanagement.imgix.net/images/uploads/img_0863.jpg)
 meta:
   description: A blog written by our 16 year old intern.
   title: 'Chelsea''s Choice #2'

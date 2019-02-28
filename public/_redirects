@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://glass.netlify.com/* https://glassmanagement.com.au/:splat 301!

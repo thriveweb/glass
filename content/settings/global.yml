@@ -29,72 +29,63 @@ footer:
       buttonUrl: terms-conditions
   title: Information
 partners:
-  - image: /images/uploads/download-7.jpg
-  - image: /images/uploads/download-9.png
-  - image: /images/uploads/download-1.png
-  - image: /images/uploads/download-13.jpg
-  - image: /images/uploads/download-15.png
-  - image: /images/uploads/download-14.png
-  - image: /images/uploads/city-beach-logo-2.jpg
-  - image: /images/uploads/images-1.png
-  - image: /images/uploads/dfo-logo.png
-  - image: /images/uploads/download-15.jpg
-  - image: /images/uploads/footlocker.png
-  - image: /images/uploads/download-14.jpg
-  - image: /images/uploads/honda-logo-1920x1080.png
-  - image: /images/uploads/isuzu-logo.png
-  - image: /images/uploads/jetpilot-sticker-corporate-20-pack.jpg
-  - image: /images/uploads/lexus.jpeg
-  - image: /images/uploads/download-5.jpg
-  - image: /images/uploads/download-8.jpg
-  - image: /images/uploads/download-7.png
-  - image: /images/uploads/download-11.png
-  - image: /images/uploads/asset-2logo_blue.png
-  - image: /images/uploads/download-12.jpg
-  - image: /images/uploads/download-6.jpg
-  - image: /images/uploads/NICKELODEON_Logo.png
-  - image: /images/uploads/download-9.jpg
-  - image: /images/uploads/download-5.png
-  - image: /images/uploads/download-12.png
-  - image: /images/uploads/download-10.jpg
-  - image: /images/uploads/samsung-logo.jpg
-  - image: /images/uploads/download-2.png
-  - image: /images/uploads/seaworld logo.png
-  - image: /images/uploads/download-13.png
-  - image: /images/uploads/download-3.jpg
-  - image: /images/uploads/target-logo.png
-  - image: /images/uploads/tatts-logo.png
-  - image: /images/uploads/download-17.png
-  - image: /images/uploads/download-3.png
-  - image: /images/uploads/download-11.jpg
-  - image: /images/uploads/ubet-logo.png
-  - image: /images/uploads/vr.jpg
-  - image: /images/uploads/download.png
-  - image: /images/uploads/download-8.png
-  - image: /images/uploads/download-4.png
-  - image: /images/uploads/download-4.jpg
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-7.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-9.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-1.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-13.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-15.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-14.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/city-beach-logo-2.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/images-1.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/dfo-logo.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-15.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/footlocker.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-14.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/honda-logo-1920x1080.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/isuzu-logo.png'
+  - image: >-
+      https://glassmanagement.imgix.net/images/uploads/jetpilot-sticker-corporate-20-pack.jpg
+  - image: 'https://glassmanagement.imgix.net/images/uploads/lexus.jpeg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-5.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-8.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-7.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-11.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/asset-2logo_blue.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-12.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-6.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/NICKELODEON_Logo.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-9.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-5.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-12.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-10.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/samsung-logo.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-2.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/seaworld logo.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-13.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-3.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/target-logo.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/tatts-logo.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-17.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-3.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-11.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/ubet-logo.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/vr.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-8.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-4.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/download-4.jpg'
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
     content: Book a Model For Your Next Project
-    image: /images/uploads/kris-atomic-73935-unsplash.png
+    image: >-
+      https://glassmanagement.imgix.net/images/uploads/kris-atomic-73935-unsplash.png
     leftAlign: true
     title: let’s collaborate
   - buttonTitle: Join Us
     buttonUrl: join-us
     content: Start Your Modelling Career
-    image: /images/uploads/amanada.jpg
+    image: 'https://glassmanagement.imgix.net/images/uploads/amanada.jpg'
+    leftAlign: false
     title: Become a Model
-headerScripts: >
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-
-  <script async
-  src="https://www.googletagmanager.com/gtag/js?id=UA-112691145-27"></script>
-
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-112691145-27');
-  </script>
+headerScripts: UA-112691145-27

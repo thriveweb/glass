@@ -1,7 +1,8 @@
 ---
 title: Easton
-featuredImage: /images/uploads/easton-14.jpg
-imageThumbnail: /images/uploads/easton-hs.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/easton-14.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/easton-hs.jpg
 firstName: Easton
 collection: Boys
 height: 123cm
@@ -14,19 +15,19 @@ shoeSize: '3'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/easton-6.jpg
-  - image: /images/uploads/easton-7.jpg
-  - image: /images/uploads/easton-9.jpg
-  - image: /images/uploads/easton-12.jpg
-  - image: /images/uploads/easton-13.jpg
-  - image: /images/uploads/easton-15.jpg
-  - image: /images/uploads/easton-16.jpg
-  - image: /images/uploads/easton-19.jpg
-  - image: /images/uploads/easton-12121.jpg
-  - image: /images/uploads/easton-4.jpg
-  - image: /images/uploads/easton-2.jpg
-  - image: /images/uploads/aston-3.jpg
-  - image: /images/uploads/easton-212.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-15.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-16.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-19.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-12121.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/aston-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/easton-212.jpg
 meta:
   title: Easton
 ---

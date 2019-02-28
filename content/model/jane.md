@@ -1,7 +1,8 @@
 ---
 title: Jane
-featuredImage: /images/uploads/jane-9.jpg
-imageThumbnail: /images/uploads/jane.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/jane-9.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/jane.jpg
 firstName: Jane
 collection: Classic
 height: 174cm
@@ -14,15 +15,15 @@ shoeSize: '9'
 hair: Grey
 eyes: Hazel
 imagePortfolio:
-  - image: /images/uploads/jane-2.jpg
-  - image: /images/uploads/jane-8.jpg
-  - image: /images/uploads/jane-1.jpg
-  - image: /images/uploads/jane-7.jpg
-  - image: /images/uploads/jane-9.jpg
-  - image: /images/uploads/jane-4.jpg
-  - image: /images/uploads/unspecified-copy-5.jpg
-  - image: /images/uploads/unspecified-copy.jpg
-  - image: /images/uploads/unspecified-copy-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jane-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jane-8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jane-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jane-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jane-9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jane-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/unspecified-copy-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/unspecified-copy.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/unspecified-copy-6.jpg
   - {}
 meta:
   title: Jane

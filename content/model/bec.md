@@ -1,7 +1,8 @@
 ---
 title: Bec
-featuredImage: /images/uploads/bec-3.webp
-imageThumbnail: /images/uploads/bec.webp
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/bec-3.webp
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/bec.webp
 firstName: Bec
 collection: Women
 height: 178cm
@@ -13,12 +14,12 @@ shoeSize: '9'
 hair: Brunette
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/unnamed-2.jpg
-  - image: /images/uploads/bec-2.webp
-  - image: /images/uploads/bec-4.webp
-  - image: /images/uploads/bec.webp
-  - image: /images/uploads/bec-1.webp
-  - image: /images/uploads/bec-8.webp
-  - image: /images/uploads/bec-5.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/unnamed-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/bec-2.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/bec-4.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/bec.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/bec-1.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/bec-8.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/bec-5.webp
 ---
 

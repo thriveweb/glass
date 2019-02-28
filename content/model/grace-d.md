@@ -1,7 +1,8 @@
 ---
 title: Grace D
-featuredImage: /images/uploads/grace-banner.jpg
-imageThumbnail: /images/uploads/grace-3.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/grace-banner.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/grace-3.jpg
 firstName: Grace D
 collection: Classic
 height: 167cm
@@ -14,10 +15,10 @@ shoeSize: '7.5'
 hair: Auburn
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/grace-4.jpg
-  - image: /images/uploads/grace-5.jpg
-  - image: /images/uploads/grace-3.jpg
-  - image: /images/uploads/grace-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/grace-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/grace-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/grace-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/grace-2.jpg
 meta:
   title: Grace D
 ---

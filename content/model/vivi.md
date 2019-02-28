@@ -1,7 +1,8 @@
 ---
 title: Vivi
-featuredImage: /images/uploads/vivi11.jpg
-imageThumbnail: /images/uploads/vivi14.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/vivi11.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/vivi14.jpg
 firstName: Vivi
 collection: Girls
 height: 104cm
@@ -13,19 +14,19 @@ shoeSize: 27Euro
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/vivi14.jpg
-  - image: /images/uploads/vivi5.jpg
-  - image: /images/uploads/vivi11.jpg
-  - image: /images/uploads/vivi10.jpg
-  - image: /images/uploads/vivi12.jpg
-  - image: /images/uploads/vivi2.jpg
-  - image: /images/uploads/vivi15.jpg
-  - image: /images/uploads/vivi.jpg
-  - image: /images/uploads/vivi4.jpg
-  - image: /images/uploads/felix10.jpg
-  - image: /images/uploads/katie-1_preview.jpg
-  - image: /images/uploads/katiehooper-53_preview.jpg
-  - image: /images/uploads/vivi-target.jpg
-  - image: /images/uploads/vivi-target-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vivi14.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vivi5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vivi11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vivi10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vivi12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vivi2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vivi15.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vivi.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vivi4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/felix10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/katie-1_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/katiehooper-53_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vivi-target.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vivi-target-3.jpg
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Wesley
-featuredImage: /images/uploads/wesley2.jpg
-imageThumbnail: /images/uploads/wesley1.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/wesley2.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/wesley1.jpg
 firstName: Wesley
 collection: mens
 height: 180cm
@@ -12,7 +13,7 @@ shoeSize: '9'
 hair: Brown
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/wesley1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/wesley1.jpg
   - {}
   - {}
 ---

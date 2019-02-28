@@ -1,7 +1,8 @@
 ---
 title: Nevada
-featuredImage: /images/uploads/nevada-aaaa.jpg
-imageThumbnail: /images/uploads/nevada-her-shadow.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/nevada-aaaa.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/nevada-her-shadow.jpg
 firstName: Nevada
 collection: Global
 height: 110cm
@@ -14,14 +15,14 @@ shoeSize: '5'
 hair: Dark Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/nevada-6.jpg
-  - image: /images/uploads/nevada-1.jpg
-  - image: /images/uploads/nevada-her-shadow.jpg
-  - image: /images/uploads/nevada-123.jpg
-  - image: /images/uploads/nevada-11.jpg
-  - image: /images/uploads/nevada-2.jpg
-  - image: /images/uploads/nevada-3.jpg
-  - image: /images/uploads/nevada-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nevada-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nevada-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nevada-her-shadow.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nevada-123.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nevada-11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nevada-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nevada-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nevada-7.jpg
 meta:
   title: Nevada
 ---

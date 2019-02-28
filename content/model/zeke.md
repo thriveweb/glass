@@ -1,7 +1,8 @@
 ---
 title: Zeke
-featuredImage: /images/uploads/zeke-landscape.png
-imageThumbnail: /images/uploads/zeke-3.png
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/zeke-landscape.png
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/zeke-3.png
 firstName: Zeke
 collection: Boys
 height: 185cm
@@ -14,14 +15,14 @@ shoeSize: '9'
 hair: Brown
 eyes: Hazel
 imagePortfolio:
-  - image: /images/uploads/zeke-3.png
-  - image: /images/uploads/zeke-10.png
-  - image: /images/uploads/zeke-2.png
-  - image: /images/uploads/zeke-1.png
-  - image: /images/uploads/zeke-4.png
-  - image: /images/uploads/zeke-5.png
-  - image: /images/uploads/zeke-12.png
-  - image: /images/uploads/zeke-8.png
+  - image: https://glassmanagement.imgix.net/images/uploads/zeke-3.png
+  - image: https://glassmanagement.imgix.net/images/uploads/zeke-10.png
+  - image: https://glassmanagement.imgix.net/images/uploads/zeke-2.png
+  - image: https://glassmanagement.imgix.net/images/uploads/zeke-1.png
+  - image: https://glassmanagement.imgix.net/images/uploads/zeke-4.png
+  - image: https://glassmanagement.imgix.net/images/uploads/zeke-5.png
+  - image: https://glassmanagement.imgix.net/images/uploads/zeke-12.png
+  - image: https://glassmanagement.imgix.net/images/uploads/zeke-8.png
 meta:
   title: Zeke
 ---

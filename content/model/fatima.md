@@ -1,7 +1,8 @@
 ---
 title: Fatima
-featuredImage: /images/uploads/fatima-d.jpg
-imageThumbnail: /images/uploads/fatima-wheeler-29.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/fatima-d.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/fatima-wheeler-29.jpg
 firstName: Fatima
 collection: Global
 height: 158cm
@@ -14,17 +15,17 @@ shoeSize: '6.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/fat3.jpg
-  - image: /images/uploads/fat1.jpg
-  - image: /images/uploads/fat4.jpg
-  - image: /images/uploads/fat2.jpg
-  - image: /images/uploads/fatima-wheeler-29.jpg
-  - image: /images/uploads/fatima-c.jpg
-  - image: /images/uploads/fatima-d.jpg
-  - image: /images/uploads/fatima-a.jpg
-  - image: /images/uploads/fatima-b.jpg
-  - image: /images/uploads/fatima-e.jpg
-  - image: /images/uploads/fatima-f.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/fat3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/fat1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/fat4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/fat2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/fatima-wheeler-29.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/fatima-c.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/fatima-d.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/fatima-a.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/fatima-b.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/fatima-e.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/fatima-f.jpg
 meta:
   title: Fatima
 ---

@@ -1,7 +1,8 @@
 ---
 title: Jordy
-featuredImage: /images/uploads/jordybanne8479139.jpg
-imageThumbnail: /images/uploads/jord2.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/jordybanne8479139.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/jord2.jpg
 firstName: Jordy
 collection: Boys
 height: 139cm
@@ -13,19 +14,19 @@ shoeSize: '3'
 hair: Blonde
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/jord1.jpg
-  - image: /images/uploads/jordy-3.jpg
-  - image: /images/uploads/jordy-8.jpg
-  - image: /images/uploads/jordy-10.jpg
-  - image: /images/uploads/jordy-5.jpg
-  - image: /images/uploads/jordy-1.jpg
-  - image: /images/uploads/jordy-11.jpg
-  - image: /images/uploads/jordy-12.jpg
-  - image: /images/uploads/jordy-4.jpg
-  - image: /images/uploads/jordy-13.jpg
-  - image: /images/uploads/jordy-14.jpg
-  - image: /images/uploads/jordy-16.jpg
-  - image: /images/uploads/jordy-17.jpg
-  - image: /images/uploads/jordy-18.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jord1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-14.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-16.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-17.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jordy-18.jpg
 ---
 

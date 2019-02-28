@@ -15,7 +15,8 @@ const Meta = props => {
     twitterCreatorAccount,
     headerScripts,
     noindex,
-    canonicalLink
+    canonicalLink,
+    googleTrackingId
     // overwrite { title, description } if in fields or fields.meta
   } = {
     ...props,
@@ -51,6 +52,23 @@ const Meta = props => {
       )}
       {noindex && <meta name='robots' content='noindex' />}
       {canonicalLink && <link rel='canonical' href={canonicalLink} />}
+      {googleTrackingId && (
+  <script
+    async
+    src={`https://www.googletagmanager.com/gtag/js?id=${googleTrackingId}`}
+  />
+)}
+
+{googleTrackingId && (
+  <script>
+    {`
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '${googleTrackingId}');
+    `}
+  </script>
+)}
     </Helmet>
   )
 }

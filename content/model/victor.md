@@ -1,7 +1,8 @@
 ---
 title: Victor
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/victor-carrasco-50.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/victor-carrasco-50.jpg
 firstName: Victor
 collection: Global
 height: 175cm
@@ -14,8 +15,8 @@ shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/victor-carrasco-50.jpg
-  - image: /images/uploads/carrasco-family.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victor-carrasco-50.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/carrasco-family.jpg
 meta:
   title: Victor
 ---

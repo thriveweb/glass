@@ -1,7 +1,8 @@
 ---
 title: Athalia
-featuredImage: /images/uploads/athalia-1.jpg
-imageThumbnail: /images/uploads/atha.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/athalia-1.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/atha.jpg
 firstName: Athalia
 collection: Global
 height: 160cm
@@ -14,22 +15,22 @@ shoeSize: '7'
 hair: Light Brown
 eyes: Hazel
 imagePortfolio:
-  - image: /images/uploads/athalia20.jpg
-  - image: /images/uploads/athelia-8.jpg
-  - image: /images/uploads/athalia21.jpg
-  - image: /images/uploads/athalia22.jpg
-  - image: /images/uploads/athelia-4.jpg
-  - image: /images/uploads/athelia-14.jpg
-  - image: /images/uploads/athelia-7.jpg
-  - image: /images/uploads/ath.jpg
-  - image: /images/uploads/athelia-5.jpg
-  - image: /images/uploads/athelia-17.jpg
-  - image: /images/uploads/athelia-11.jpg
-  - image: /images/uploads/athelia-18.jpg
-  - image: /images/uploads/athelia-10.jpg
-  - image: /images/uploads/athelia-16.jpg
-  - image: /images/uploads/athalia.jpg
-  - image: /images/uploads/athelia-19.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athalia20.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athelia-8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athalia21.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athalia22.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athelia-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athelia-14.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athelia-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ath.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athelia-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athelia-17.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athelia-11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athelia-18.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athelia-10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athelia-16.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athalia.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/athelia-19.jpg
 meta:
   title: Athalia
 ---

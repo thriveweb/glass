@@ -1,8 +1,7 @@
 import React from 'react'
-import { serialize } from 'dom-form-serializer'
 
 import './EnquiryForm.css'
-import '../views/JoinUs.css'
+import '../templates/JoinUs.css'
 
 // const fetch = window.fetch
 
@@ -12,7 +11,7 @@ class Form extends React.Component {
     subject: '', // optional subject of the notification email
     action: '',
     hidden: false,
-    successMessage: 'Thanks for your enquiry, we will get back to you soon',
+    successMessage: 'Thank you for your submission, we will be in contact with you shortly',
     errorMessage:
       'There is a problem, your message has not been sent, please try contacting us via email'
   }
@@ -22,52 +21,86 @@ class Form extends React.Component {
     disabled: false
   }
 
-  handleUpload = (event, target) => {
-    const file = event.target.files[0]
-      ? event.target.files[0].name
-      : this.state[target]
+handleUpload = e => {
+  const file = e.target.files[0]
+    ? e.target.files[0]
+    : this.state[e.target.name]
 
+  this.setState({
+    [e.target.name]: file
+  })
+}
+
+handleChange = e => {
+  this.setState({
+    [e.target.name]: e.target.value
+  })
+}
+
+handleEncode = data => {
+  const formData = new FormData();
+
+  for (const key of Object.keys(data)) {
+    formData.append(key, data[key]);
+  }
+
+  return formData;
+}
+
+handleSubmit = e => {
+  e.preventDefault()
+  if (this.state.disabled) return
+  const form = e.target
+  this.setState({ disabled: true })
+
+  const { alert, disabled, ...data } = this.state
+
+  if (!data['headshot'] || !data['bodyshot']) {
+    return this.setState({
+      alert: 'Please attach both headshot & bodyshot'
+    })
+  } else {
     this.setState({
-      [target]: file
+      filesUploading: true
+    }, () => {
+      fetch("/", {
+        method: "POST",
+        body: this.handleEncode({ "form-name": "Join Us Form", ...data })
+      })
+      .then(() => {
+        form.reset()
+        this.setState({
+          alert: this.props.successMessage,
+          filesUploading: false,
+          disabled: false
+        })
+      })
+      .catch(err => {
+        this.setState({
+          disabled: false,
+          alert: this.props.errorMessage,
+          filesUploading: false
+
+        })
+      })
     })
   }
 
-  handleSubmit = e => {
-    e.preventDefault()
-    const formTarget = e.target
-
-    if (this.state.disabled) return
-    const form = e.target
-    const data = serialize(form)
-
-    if (!data['headshot'] || !data['bodyshot']) {
-      return this.setState({
-        alert: 'Please attach both headshot & bodyshot'
-      })
-    } else {
-      this.setState({ 
-        filesUploading: true 
-      }, () => {
-        formTarget.submit()
-      })
-    }
-  }
+}
 
   render () {
-    const { name, subject, action, hidden } = this.props
+    const { name, subject, hidden, onFormSubmit } = this.props
     const { filesUploading } = this.state
 
     return (
       <form
         className='EnquiryForm'
         name={name}
-        action={action}
         method='post'
         onSubmit={this.handleSubmit}
-        data-netlify=''
+        data-netlify='true'
         data-netlify-honeypot='_gotcha'
         style={hidden ? { display: 'none' } : {}}
-        encType='multipart/form-data'
       >
         <h2 className='form-description'>Please Submit your details here</h2>
         <label className='EnquiryForm--Label'>
@@ -76,6 +109,7 @@ class Form extends React.Component {
             type='text'
             placeholder='Full Name'
             name='name'
+            onChange={this.handleChange}
             required
           />
         </label>
@@ -85,6 +119,7 @@ class Form extends React.Component {
             type='text'
             placeholder='Email'
             name='email'
+            onChange={this.handleChange}
             required
           />
         </label>
@@ -94,6 +129,7 @@ class Form extends React.Component {
             type='text'
             placeholder='Phone'
             name='phone'
+            onChange={this.handleChange}
             required
           />
         </label>
@@ -103,6 +139,7 @@ class Form extends React.Component {
             type='text'
             placeholder='Age'
             name='age'
+            onChange={this.handleChange}
             required
           />
         </label>
@@ -112,6 +149,7 @@ class Form extends React.Component {
             type='text'
             placeholder='Height'
             name='height'
+            onChange={this.handleChange}
             required
           />
         </label>
@@ -121,6 +159,7 @@ class Form extends React.Component {
             type='url'
             placeholder='Instagram'
             name='instagram'
+            onChange={this.handleChange}
           />
         </label>
         <label className='EnquiryForm--Label textarea'>
@@ -129,6 +168,7 @@ class Form extends React.Component {
             placeholder='Experience'
             name='experience'
             rows='10'
+            onChange={this.handleChange}
             required
           />
         </label>
@@ -141,11 +181,11 @@ class Form extends React.Component {
                 accept='image/*'
                 placeholder='Upload Photo'
                 name='bodyshot'
-                onChange={event => this.handleUpload(event, 'bodyShot')}
+                onChange={this.handleUpload}
               />
               <span>Upload Photo</span> please attach a full length bodyshot
             </label>
-            {this.state.bodyShot && <p>{this.state.bodyShot}</p>}
+            {this.state.bodyshot && <p>{this.state.bodyshot.name}</p>}
           </div>
           <div className='file-download-item'>
             <label className='EnquiryForm--Label title'>
@@ -155,31 +195,16 @@ class Form extends React.Component {
                 accept='image/*'
                 placeholder='Upload Photo'
                 name='headshot'
-                onChange={event => this.handleUpload(event, 'headShot')}
+                onChange={this.handleUpload}
               />
               <span>Upload Photo</span> please attach a current headshot
             </label>
-            {this.state.headShot && <p>{this.state.headShot}</p>}
+            {this.state.headshot && <p>{this.state.headshot.name}</p>}
           </div>
         </div>
 
         {this.state.alert && (
           <div className='EnquiryForm--Alert'>
-            <svg
-              width='24'
-              height='24'
-              viewBox='0 0 24 24'
-              fill='none'
-              stroke='currentColor'
-              strokeWidth='2'
-              strokeLinecap='round'
-              strokeLinejoin='round'
-              className='feather feather-alert-triangle'
-            >
-              <path d='M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z' />
-              <line x1='12' y1='9' x2='12' y2='13' />
-              <line x1='12' y1='17' x2='12' y2='17' />
-            </svg>
             {this.state.alert}
           </div>
         )}

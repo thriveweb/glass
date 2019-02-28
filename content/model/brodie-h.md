@@ -1,7 +1,8 @@
 ---
 title: Brodie H
-featuredImage: /images/uploads/glassglobal.jpg
-imageThumbnail: /images/uploads/brodie-h-1.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/glassglobal.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/brodie-h-1.jpg
 firstName: Brodie H
 collection: Global
 height: 187cm
@@ -14,10 +15,10 @@ shoeSize: '12'
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/brodie-h-2.jpg
-  - image: /images/uploads/brodie-h-1.jpg
-  - image: /images/uploads/brodie-h-3.jpg
-  - image: /images/uploads/brodie-h-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/brodie-h-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/brodie-h-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/brodie-h-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/brodie-h-5.jpg
 meta:
   title: Brodie H
 ---

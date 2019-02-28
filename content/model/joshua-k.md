@@ -1,7 +1,8 @@
 ---
 title: Joshua K
-featuredImage: /images/uploads/film-movie-motion-picture-390089.jpeg
-imageThumbnail: /images/uploads/joshua263789.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/film-movie-motion-picture-390089.jpeg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/joshua263789.jpg
 firstName: Joshua K
 collection: Global
 height: 171cm
@@ -14,12 +15,12 @@ shoeSize: 10 US
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/joshua237829.jpg
-  - image: /images/uploads/joshua327829.jpg
-  - image: /images/uploads/joshua263789.jpg
-  - image: /images/uploads/joshua843572346213.jpg
-  - image: /images/uploads/joshua783.jpg
-  - image: /images/uploads/joshua904387.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/joshua237829.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/joshua327829.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/joshua263789.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/joshua843572346213.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/joshua783.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/joshua904387.jpg
 meta:
   title: Joshua K
 ---

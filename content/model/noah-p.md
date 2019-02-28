@@ -1,7 +1,8 @@
 ---
 title: 'Noah '
-featuredImage: /images/uploads/noah-5.jpg
-imageThumbnail: /images/uploads/noah-hs.jpeg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/noah-5.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/noah-hs.jpeg
 firstName: 'Noah '
 collection: Global
 height: 189cm
@@ -14,12 +15,12 @@ shoeSize: '10'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/noah-2.jpg
-  - image: /images/uploads/noah-hs.jpeg
-  - image: /images/uploads/noah-5.jpg
-  - image: /images/uploads/noah-8.jpg
-  - image: /images/uploads/noah-88.jpg
-  - image: /images/uploads/noah-534.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/noah-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/noah-hs.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/noah-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/noah-8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/noah-88.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/noah-534.jpg
 meta:
   title: Noah P
 ---

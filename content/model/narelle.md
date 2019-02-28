@@ -1,7 +1,8 @@
 ---
 title: Narelle
-featuredImage: /images/uploads/bradley-78.jpg
-imageThumbnail: /images/uploads/narelle-hs.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/bradley-78.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/narelle-hs.jpg
 firstName: Narelle
 collection: Global
 height: 162cm
@@ -14,12 +15,12 @@ shoeSize: '8'
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/narelle-.jpg
-  - image: /images/uploads/narelle-2.jpg
-  - image: /images/uploads/narelle-6.jpg
-  - image: /images/uploads/narelle-3.jpg
-  - image: /images/uploads/bradley-2.jpg
-  - image: /images/uploads/bradley-78.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/narelle-.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/narelle-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/narelle-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/narelle-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/bradley-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/bradley-78.jpg
 meta:
   title: Narelle
 ---

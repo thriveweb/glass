@@ -1,7 +1,8 @@
 ---
 title: Saxon
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/sne962.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/sne962.jpg
 firstName: Saxon
 collection: Global
 height: 122cm
@@ -14,14 +15,14 @@ shoeSize: '2'
 hair: Dark Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/sne962.jpg
-  - image: /images/uploads/sne957.jpg
-  - image: /images/uploads/sne895.jpg
-  - image: /images/uploads/sne030.jpg
-  - image: /images/uploads/sne036.jpg
-  - image: /images/uploads/sne850.jpg
-  - image: /images/uploads/sne905.jpg
-  - image: /images/uploads/sne842.jpg
-  - image: /images/uploads/sne842.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sne962.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sne957.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sne895.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sne030.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sne036.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sne850.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sne905.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sne842.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sne842.jpg
 ---
 

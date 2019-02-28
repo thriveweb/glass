@@ -1,7 +1,8 @@
 ---
 title: Amy L
-featuredImage: /images/uploads/law-9-1-.jpg
-imageThumbnail: /images/uploads/amu-her-shadow-law.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/law-9-1-.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/amu-her-shadow-law.jpg
 firstName: Amy L
 collection: Girls
 height: 142cm
@@ -14,22 +15,22 @@ shoeSize: '6'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/law-7.jpg
-  - image: /images/uploads/amy-l-1.jpg
-  - image: /images/uploads/law-1.jpg
-  - image: /images/uploads/law-2.jpg
-  - image: /images/uploads/law-8.jpg
-  - image: /images/uploads/law-3.jpg
-  - image: /images/uploads/law-4.jpg
-  - image: /images/uploads/law-5.jpg
-  - image: /images/uploads/amy-l-10.jpg
-  - image: /images/uploads/amy-l-12.jpg
-  - image: /images/uploads/law-6.jpg
-  - image: /images/uploads/law-9.jpg
-  - image: /images/uploads/law-10.jpg
-  - image: /images/uploads/amy-lawweeeee.jpg
-  - image: /images/uploads/amy-lawwww.jpg
-  - image: /images/uploads/amy-lawwwww.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/law-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amy-l-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/law-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/law-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/law-8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/law-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/law-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/law-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amy-l-10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amy-l-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/law-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/law-9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/law-10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amy-lawweeeee.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amy-lawwww.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amy-lawwwww.jpg
 meta:
   title: Amy L
 ---

@@ -1,7 +1,8 @@
 ---
 title: Constantine
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/con-hs.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/con-hs.jpg
 firstName: Constantine
 collection: Global
 height: 172cm
@@ -14,11 +15,11 @@ shoeSize: '8'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/con-3.jpeg
-  - image: /images/uploads/con-2.jpeg
-  - image: /images/uploads/con-1.jpeg
-  - image: /images/uploads/constatine-gerolimos-25.jpg
-  - image: /images/uploads/con-4.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/con-3.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/con-2.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/con-1.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/constatine-gerolimos-25.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/con-4.jpeg
 meta:
   title: Constantine
 ---

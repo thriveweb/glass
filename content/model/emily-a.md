@@ -1,7 +1,8 @@
 ---
 title: Emily A
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/emily-a-1111.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/emily-a-1111.jpg
 firstName: Emily A
 collection: Global
 height: 173cm
@@ -14,7 +15,7 @@ shoeSize: '8'
 hair: Red
 eyes: Hazel
 imagePortfolio:
-  - image: /images/uploads/emilya.01-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emilya.01-2.jpg
 meta:
   title: Emily A
 ---

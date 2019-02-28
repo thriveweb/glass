@@ -1,7 +1,8 @@
 ---
 title: Victaz
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/victaz-miguel-20.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/victaz-miguel-20.jpg
 firstName: Victaz
 collection: Global
 height: 193cm
@@ -14,7 +15,7 @@ shoeSize: '14'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/victaz-miguel-20.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/victaz-miguel-20.jpg
 meta:
   title: Victaz
 ---

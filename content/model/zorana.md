@@ -1,7 +1,8 @@
 ---
 title: Zorana
-featuredImage: /images/uploads/zorana-1.jpg
-imageThumbnail: /images/uploads/zoranahs.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/zorana-1.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/zoranahs.jpg
 firstName: Zorana
 collection: Girls
 height: 168.5cm
@@ -14,15 +15,15 @@ shoeSize: '7'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/zorana-1111111.jpg
-  - image: /images/uploads/zorana-4.jpg
-  - image: /images/uploads/zorana-11111.jpg
-  - image: /images/uploads/zorana-7.jpg
-  - image: /images/uploads/i-w3vnnpx-x3.jpg
-  - image: /images/uploads/zorana-5.jpg
-  - image: /images/uploads/zorana-111111111.jpg
-  - image: /images/uploads/zorana-.jpg
-  - image: /images/uploads/zorana-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/zorana-1111111.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/zorana-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/zorana-11111.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/zorana-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/i-w3vnnpx-x3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/zorana-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/zorana-111111111.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/zorana-.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/zorana-1.jpg
 meta:
   title: Zorana
 ---

@@ -1,7 +1,8 @@
 ---
 title: Luca
-featuredImage: /images/uploads/lucabanner12890po123.jpg
-imageThumbnail: /images/uploads/luca-1.webp
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/lucabanner12890po123.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/luca-1.webp
 firstName: Luca
 collection: Boys
 height: 111cm
@@ -14,19 +15,19 @@ shoeSize: '9.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/luca-2.webp
-  - image: /images/uploads/new-york-state-of-mind-dol-0988_preview.jpg
-  - image: /images/uploads/luca-8.webp
-  - image: /images/uploads/luca-5.webp
-  - image: /images/uploads/new-york-state-of-mind-dol-0991_preview.jpg
-  - image: /images/uploads/luca-7.webp
-  - image: /images/uploads/luca-3.webp
-  - image: /images/uploads/havana-and-luca-glass.jpg
-  - image: /images/uploads/new-york-state-of-mind-dol-1422_preview.jpg
-  - image: /images/uploads/havana-and-luca-glass-1.jpg
-  - image: /images/uploads/havana-and-luca-glass-2.jpg
-  - image: /images/uploads/new-york-state-of-mind-dol-1363_preview.jpg
-  - image: /images/uploads/new-york-state-of-mind-dol-1365_preview.jpg
-  - image: /images/uploads/new-york-state-of-mind-dol-1345_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/luca-2.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/new-york-state-of-mind-dol-0988_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/luca-8.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/luca-5.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/new-york-state-of-mind-dol-0991_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/luca-7.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/luca-3.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/havana-and-luca-glass.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/new-york-state-of-mind-dol-1422_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/havana-and-luca-glass-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/havana-and-luca-glass-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/new-york-state-of-mind-dol-1363_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/new-york-state-of-mind-dol-1365_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/new-york-state-of-mind-dol-1345_preview.jpg
 ---
 

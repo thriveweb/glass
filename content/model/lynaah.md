@@ -1,7 +1,8 @@
 ---
 title: Lynaah
-featuredImage: /images/uploads/lynah.jpg
-imageThumbnail: /images/uploads/lynaah-4.jpeg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/lynah.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/lynaah-4.jpeg
 firstName: Lynaah
 collection: Women
 height: 165cm
@@ -13,13 +14,13 @@ shoeSize: '5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/lynaah-5.jpeg
-  - image: /images/uploads/lynah1.jpg
-  - image: /images/uploads/lynah2.jpg
-  - image: /images/uploads/lynaah-4.jpeg
-  - image: /images/uploads/lynah3.jpg
-  - image: /images/uploads/lynaah-12.jpg
-  - image: /images/uploads/lynah.jpg
-  - image: /images/uploads/lynaah-13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lynaah-5.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/lynah1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lynah2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lynaah-4.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/lynah3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lynaah-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lynah.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lynaah-13.jpg
 ---
 

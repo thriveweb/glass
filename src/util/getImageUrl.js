@@ -3,7 +3,7 @@ const _ceil = require('lodash/ceil')
 const sizes = [10, 300, 600, 900, 1200, 1800]
 const outputDir = '/images/uploads/'
 const resizedDir = '/images/uploads/resized/'
-const imgixUrl = 'https://thrive-glass.imgix.net'
+const imgixUrl = 'https://glassmanagement.imgix.net'
 
 const getImgixUrl = ({ path, size, extname }) => {
   if (extname === 'webp') {
@@ -11,9 +11,7 @@ const getImgixUrl = ({ path, size, extname }) => {
     path = resizedDir + filename + '.png'
   }
 
-  return `${imgixUrl}${encodeURI(
-    path
-  )}?w=${size}&fit=max&auto=compress,enhance,format`
+  return path
 }
 
 const parseFilename = filename => {

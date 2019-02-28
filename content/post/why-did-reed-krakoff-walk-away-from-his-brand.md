@@ -1,6 +1,7 @@
 ---
 title: Mothers Day Catwalk Show
-image: /images/uploads/catwalk.jpg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/catwalk.jpg
 collection: Agency
 author: Tegan
 date: 11/05/2018

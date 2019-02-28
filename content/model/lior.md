@@ -1,7 +1,8 @@
 ---
 title: Lior
-featuredImage: /images/uploads/jahseuywuieyrhdaldnq.jpg
-imageThumbnail: /images/uploads/jhjhjhjasasa.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/jahseuywuieyrhdaldnq.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/jhjhjhjasasa.jpg
 firstName: Lior
 collection: Global
 height: 149cm
@@ -14,15 +15,15 @@ shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/cc.jpg
-  - image: /images/uploads/jkhjhjhjasa.jpg
-  - image: /images/uploads/asasa.jpg
-  - image: /images/uploads/djqkjdwkqjwdiq.jpg
-  - image: /images/uploads/hjayewubajs.jpg
-  - image: /images/uploads/qhkdhi4ukqdwnq.jpg
-  - image: /images/uploads/bjh.jpg
-  - image: /images/uploads/kjda.jpg
-  - image: /images/uploads/jahseuywuieyrhdaldnq.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/cc.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jkhjhjhjasa.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/asasa.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/djqkjdwkqjwdiq.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hjayewubajs.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/qhkdhi4ukqdwnq.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/bjh.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kjda.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jahseuywuieyrhdaldnq.jpg
 meta:
   title: Lior
 ---

@@ -1,7 +1,8 @@
 ---
 title: Portia
-featuredImage: /images/uploads/portia8.jpg
-imageThumbnail: /images/uploads/portia-hs.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/portia8.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/portia-hs.jpg
 firstName: Portia
 collection: Women
 height: 173cm
@@ -14,20 +15,20 @@ shoeSize: '9'
 hair: Blonde
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/port2.jpg
-  - image: /images/uploads/portia.jpg
-  - image: /images/uploads/portia1.jpg
-  - image: /images/uploads/portia6.jpg
-  - image: /images/uploads/portia4.jpg
-  - image: /images/uploads/portia5.jpg
-  - image: /images/uploads/portia10.jpg
-  - image: /images/uploads/portia11.jpg
-  - image: /images/uploads/portia9.jpg
-  - image: /images/uploads/port3.jpg
-  - image: /images/uploads/portia12.jpg
-  - image: /images/uploads/portia7.jpg
-  - image: /images/uploads/portia3.jpg
-  - image: /images/uploads/poetia2.jpg
-  - image: /images/uploads/port-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/port2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/portia.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/portia1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/portia6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/portia4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/portia5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/portia10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/portia11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/portia9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/port3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/portia12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/portia7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/portia3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/poetia2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/port-1.jpg
 ---
 

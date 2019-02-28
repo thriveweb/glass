@@ -1,7 +1,8 @@
 ---
 title: Henrique
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/henrique-reis-32.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/henrique-reis-32.jpg
 firstName: Henrique
 collection: Global
 height: 185cm
@@ -14,7 +15,7 @@ shoeSize: '11'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/henrique-reis-32.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/henrique-reis-32.jpg
 meta:
   title: Henrique
 ---

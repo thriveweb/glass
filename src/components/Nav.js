@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-import { withRouter } from 'react-router'
 import _throttle from 'lodash/throttle'
 import _kebabCase from 'lodash/kebabCase'
 import './Nav.css'
 
 import { slugify } from '../util/url'
-import { Link } from 'react-router-dom'
+import { Link } from 'gatsby'
+
 import Logo from './Logo'
 import LogoScroll from './LogoScroll'
 
@@ -54,8 +54,8 @@ class Nav extends Component {
     }
   }
 
-  render () {
-    const { header, modelTypes = [] } = this.props
+  render() {
+    const { header, modelTypes = [], modelTypeOrder } = this.props
     const { mobileActive, navActive, menuItemActive } = this.state
 
     return (
@@ -64,20 +64,20 @@ class Nav extends Component {
           mobileActive ? 'mobile-active' : ''
         }`}
       >
-        <div className='nav--container container'>
-          <Link to='/'>
+        <div className="nav--container container">
+          <Link to="/">
             <Logo />
           </Link>
-          <Link to='/'>
+          <Link to="/">
             <LogoScroll />
           </Link>
           <nav>
             <ul>
-              <li className='mobile-only'>
-                <Link to='/'>Home</Link>
+              <li className="mobile-only">
+                <Link to="/">Home</Link>
               </li>
               <li>
-                <Link to='/about'>About</Link>
+                <Link to="/about">About</Link>
               </li>
               <li
                 onClick={this.onMenuItemClick}
@@ -85,38 +85,48 @@ class Nav extends Component {
                   menuItemActive ? 'active' : ''
                 }`}
               >
-                <span className='menu-item-content'>
-                  Models <span className='dropdown-arrow'>&#x25BE;</span>
+                <span className="menu-item-content">
+                  Models <span className="dropdown-arrow">&#x25BE;</span>
                 </span>
-                <ul className='subMenu'>
-                  {modelTypes.map(selectedModelType => {
-                    return (
-                      <li key={selectedModelType.name}>
-                        <Link to={`/models/${_kebabCase(selectedModelType.name)}/`}>
-                          {selectedModelType.name}
-                        </Link>
-                      </li>
+                <ul className="subMenu">
+                  {modelTypes.edges
+                    .sort((a, b) =>
+                      modelTypeOrder.indexOf(a.node.frontmatter.title) >
+                      modelTypeOrder.indexOf(b.node.frontmatter.title)
+                        ? 1
+                        : -1
                     )
-                  })}
+                    .map(({ node }) => {
+                      const { frontmatter } = node
+                      const { title } = frontmatter
+
+                      return (
+                        <li key={title}>
+                          <Link to={`/models/${_kebabCase(title)}/`}>
+                            {title}
+                          </Link>
+                        </li>
+                      )
+                    })}
                 </ul>
               </li>
               <li>
-                <Link to='/blog'>Blog</Link>
+                <Link to="/blog">Blog</Link>
               </li>
               <li>
-                <Link to='/contact'>Contact</Link>
+                <Link to="/contact">Contact</Link>
               </li>
             </ul>
           </nav>
-          <div className='client-nav'>
-            <Link className='title' to='/join-us'>
+          <div className="client-nav">
+            <Link className="title" to="/join-us">
               <ICONLogin /> Join Us
             </Link>
-            <Link className='button' to={slugify(`/${header.buttonUrl}`)}>
+            <Link className="button" to={slugify(`/${header.buttonUrl}`)}>
               {header.buttonText}
             </Link>
           </div>
-          <div id='mobile-menu' onClick={this.onMobileClick}>
+          <div id="mobile-menu" onClick={this.onMobileClick}>
             <span />
             <span />
             <span />
@@ -125,6 +135,10 @@ class Nav extends Component {
       </nav>
     )
   }
+
+  static defaultProps = {
+    modelTypeOrder: ['Women', 'Men', 'Girls', 'Boys', 'Classic', 'Global']
+  }
 }
 
-export default withRouter(Nav)
+export default Nav

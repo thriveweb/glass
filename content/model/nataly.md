@@ -1,7 +1,8 @@
 ---
 title: Nataly
-featuredImage: /images/uploads/nat3.jpg
-imageThumbnail: /images/uploads/nat1.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/nat3.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/nat1.jpg
 firstName: Nataly
 collection: Global
 height: 180cm
@@ -14,13 +15,13 @@ shoeSize: '9'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/nat5.png
-  - image: /images/uploads/nat4.jpg
-  - image: /images/uploads/nat1.jpg
-  - image: /images/uploads/nat2.jpg
-  - image: /images/uploads/nataly-cobos-32.jpg
-  - image: /images/uploads/cobos-family.jpg
-  - image: /images/uploads/nat.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nat5.png
+  - image: https://glassmanagement.imgix.net/images/uploads/nat4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nat1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nat2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nataly-cobos-32.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/cobos-family.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nat.jpg
 meta:
   title: Nataly
 ---

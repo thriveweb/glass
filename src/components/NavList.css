@@ -28,7 +28,7 @@
 	flex-wrap: wrap;
 }
 
-.nav--list-item.active a {
+.nav--list-item a.active {
 	background-color: var(--primary);
 	color: white;
 }

@@ -1,7 +1,8 @@
 ---
 title: Tina A
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/tina-3.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/tina-3.jpg
 firstName: Tina A
 collection: Global
 height: 172cm
@@ -14,12 +15,12 @@ shoeSize: '7'
 hair: Medium Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/tina-6.jpg
-  - image: /images/uploads/tina-2.jpg
-  - image: /images/uploads/tina-1.jpg
-  - image: /images/uploads/tina-4.jpg
-  - image: /images/uploads/tina-5.jpg
-  - image: /images/uploads/tina-8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tina-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tina-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tina-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tina-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tina-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tina-8.jpg
 meta:
   title: Tina A
 ---

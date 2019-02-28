@@ -1,7 +1,8 @@
 ---
 title: Dhrishit
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/dris.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/dris.jpg
 firstName: Dhrishit
 collection: Global
 measurementType: chest
@@ -12,16 +13,16 @@ shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/dris.jpg
-  - image: /images/uploads/dris1.jpg
-  - image: /images/uploads/dris2.jpg
-  - image: /images/uploads/dris3.jpg
-  - image: /images/uploads/dhrish.jpg
-  - image: /images/uploads/drish-4.jpg
-  - image: /images/uploads/dhrish2.jpg
-  - image: /images/uploads/dris8.jpg
-  - image: /images/uploads/dris6.jpg
-  - image: /images/uploads/dris7.jpg
-  - image: /images/uploads/dris5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/dris.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/dris1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/dris2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/dris3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/dhrish.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/drish-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/dhrish2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/dris8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/dris6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/dris7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/dris5.jpg
 ---
 

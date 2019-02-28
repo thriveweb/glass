@@ -1,7 +1,8 @@
 ---
 title: Georgie C
-featuredImage: /images/uploads/gc10.jpg
-imageThumbnail: /images/uploads/gc-4.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/gc10.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/gc-4.jpg
 firstName: Georgie C
 collection: Women
 height: 180cm
@@ -14,17 +15,17 @@ shoeSize: '9.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/gc-8.jpg
-  - image: /images/uploads/c-5.jpg
-  - image: /images/uploads/george-7.jpg
-  - image: /images/uploads/c-9.jpg
-  - image: /images/uploads/george-12.jpg
-  - image: /images/uploads/gc-4.jpg
-  - image: /images/uploads/george-13.jpg
-  - image: /images/uploads/gc10.jpg
-  - image: /images/uploads/george-17.jpg
-  - image: /images/uploads/gc-11.jpg
-  - image: /images/uploads/gc-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/gc-8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/c-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/george-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/c-9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/george-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/gc-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/george-13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/gc10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/george-17.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/gc-11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/gc-2.jpg
 meta:
   title: Georgie C
 ---

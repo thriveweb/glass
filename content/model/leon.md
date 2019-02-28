@@ -1,7 +1,8 @@
 ---
 title: Leon
-featuredImage: /images/uploads/leon-.jpg
-imageThumbnail: /images/uploads/leon3.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/leon-.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/leon3.jpg
 firstName: Leon
 collection: Boys
 height: 83cm
@@ -14,14 +15,14 @@ shoeSize: 6-7
 hair: Light Brown
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/leo.jpg
-  - image: /images/uploads/leon.jpg
-  - image: /images/uploads/leon3.jpg
-  - image: /images/uploads/leon2.jpg
-  - image: /images/uploads/leon-.jpg
-  - image: /images/uploads/leon1.jpg
-  - image: /images/uploads/leon4.jpg
-  - image: /images/uploads/leo.jpg
-  - image: /images/uploads/leo2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/leo.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/leon.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/leon3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/leon2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/leon-.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/leon1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/leon4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/leo.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/leo2.jpg
 ---
 

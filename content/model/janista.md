@@ -1,7 +1,8 @@
 ---
 title: Janista
-featuredImage: /images/uploads/film-movie-motion-picture-390089.jpeg
-imageThumbnail: /images/uploads/janista1478362.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/film-movie-motion-picture-390089.jpeg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/janista1478362.jpg
 firstName: Janista
 collection: Global
 height: 162cm
@@ -12,9 +13,9 @@ hips: 93cm
 hair: Brunette
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/janista17864.jpg
-  - image: /images/uploads/janista89374.jpg
-  - image: /images/uploads/janista1478362.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/janista17864.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/janista89374.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/janista1478362.jpg
 meta:
   title: Janista
 ---

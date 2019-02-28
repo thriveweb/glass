@@ -1,7 +1,8 @@
 ---
 title: Dinesh
-featuredImage: /images/uploads/dinesh-banner.jpg
-imageThumbnail: /images/uploads/dinesh-1.webp
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/dinesh-banner.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/dinesh-1.webp
 firstName: Dinesh
 collection: Men
 height: '5''11"             '
@@ -11,9 +12,9 @@ shoeSize: '10'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/dinesh-6.webp
-  - image: /images/uploads/dinesh-5.webp
-  - image: /images/uploads/dinesh-3.webp
-  - image: /images/uploads/dinesh-2.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/dinesh-6.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/dinesh-5.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/dinesh-3.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/dinesh-2.webp
 ---
 

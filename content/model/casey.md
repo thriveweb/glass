@@ -1,7 +1,8 @@
 ---
 title: Casey
-featuredImage: /images/uploads/casey-1.jpg
-imageThumbnail: /images/uploads/casey-2.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/casey-1.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/casey-2.jpg
 firstName: Casey
 collection: Men
 height: 183cm
@@ -14,10 +15,10 @@ shoeSize: '11.5'
 hair: Dark Brown
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/casey-2.jpg
-  - image: /images/uploads/casey5.jpg
-  - image: /images/uploads/casey-3.jpg
-  - image: /images/uploads/casey4.jpg
-  - image: /images/uploads/caseyjpg.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/casey-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/casey5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/casey-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/casey4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/caseyjpg.jpg
 ---
 

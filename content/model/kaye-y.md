@@ -1,7 +1,8 @@
 ---
 title: Kaye Y
-featuredImage: /images/uploads/kaye-banner.jpg
-imageThumbnail: /images/uploads/kaye-hs.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/kaye-banner.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/kaye-hs.jpg
 firstName: Kaye Y
 collection: Classic
 height: 161cm
@@ -14,10 +15,10 @@ shoeSize: '7'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/kaye-2.jpg
-  - image: /images/uploads/kaye-3.jpg
-  - image: /images/uploads/kaye-hs.jpg
-  - image: /images/uploads/kaye-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kaye-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kaye-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kaye-hs.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kaye-4.jpg
 meta:
   title: Kaye Y
 ---

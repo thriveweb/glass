@@ -1,7 +1,8 @@
 ---
 title: Stacy
-featuredImage: /images/uploads/stacybannerer2764.jpg
-imageThumbnail: /images/uploads/stacy-1.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/stacybannerer2764.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/stacy-1.jpg
 firstName: Stacy
 collection: Classic
 height: 174cm
@@ -13,7 +14,7 @@ shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/stacy-1.jpg
-  - image: /images/uploads/amn_0682.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/stacy-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amn_0682.jpg
 ---
 

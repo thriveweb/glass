@@ -1,7 +1,8 @@
 ---
 title: Ari
-featuredImage: /images/uploads/bababa.jpg
-imageThumbnail: /images/uploads/a-1.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/bababa.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/a-1.jpg
 firstName: Ari
 collection: Boys
 height: 120cm
@@ -14,14 +15,14 @@ shoeSize: '2'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/a-23.jpg
-  - image: /images/uploads/a-3.jpg
-  - image: /images/uploads/-121212.jpg
-  - image: /images/uploads/a-21.jpg
-  - image: /images/uploads/bababa.jpg
-  - image: /images/uploads/a-4.jpg
-  - image: /images/uploads/a2.jpg
-  - image: /images/uploads/a-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/a-23.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/a-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/-121212.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/a-21.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/bababa.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/a-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/a2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/a-6.jpg
 meta:
   title: Ari
 ---

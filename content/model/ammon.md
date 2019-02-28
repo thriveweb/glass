@@ -1,7 +1,8 @@
 ---
 title: Ammon
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/ammon-higgins-12.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/ammon-higgins-12.jpg
 firstName: Ammon
 collection: Global
 height: 162cm
@@ -14,8 +15,8 @@ shoeSize: '7.5'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/ammon-higgins-12.jpg
-  - image: /images/uploads/higgins-family.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ammon-higgins-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/higgins-family.jpg
 meta:
   title: Ammon
 ---

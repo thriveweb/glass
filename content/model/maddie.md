@@ -1,7 +1,8 @@
 ---
 title: Maddie
-featuredImage: /images/uploads/maddieandjosh-3.jpg
-imageThumbnail: /images/uploads/maddie-5.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/maddieandjosh-3.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/maddie-5.jpg
 firstName: Maddie
 collection: Girls
 height: 97cm
@@ -14,12 +15,12 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/maddie.jpg
-  - image: /images/uploads/mad2.jpg
-  - image: /images/uploads/dsc_0513.jpg
-  - image: /images/uploads/mad5.jpg
-  - image: /images/uploads/mad3.jpg
-  - image: /images/uploads/mad4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/maddie.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mad2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/dsc_0513.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mad5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mad3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mad4.jpg
   - {}
 meta:
   title: Maddie

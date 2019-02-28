@@ -1,12 +1,19 @@
 import React from 'react'
 import './SinglePost.css'
 import ReactPlayer from 'react-player'
+import _get from 'lodash/get'
 
 import Content from './Content'
 import { ICONFacebook, ICONTwitter, ICONLinkedin } from './Icons'
 
 export default ({ post, showShareButtons = true }) => {
-  const { title, collection, author, date, content, videoSource } = post
+  const title = _get(post, 'title') || ''
+  const collection = _get(post, 'collection') || ''
+  const author = _get(post, 'author') || ''
+  const date = _get(post, 'date') || ''
+  const content = _get(post, 'content') || ''
+  const videoSource = _get(post, 'videoSource') || ''
+
 
   return (
     <section className='section--single-post'>

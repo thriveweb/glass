@@ -1,7 +1,8 @@
 ---
 title: Kiyan
-featuredImage: /images/uploads/kiana128973bnner.jpg
-imageThumbnail: /images/uploads/201710284202.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/kiana128973bnner.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/201710284202.jpg
 firstName: Kiyan
 collection: Boys
 height: 109cm
@@ -13,13 +14,13 @@ shoeSize: '10'
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/kiyann.jpg
-  - image: /images/uploads/kiana-8.jpg
-  - image: /images/uploads/kiana-3.jpg
-  - image: /images/uploads/kiana-6.jpg
-  - image: /images/uploads/zivah-3.jpg
-  - image: /images/uploads/zivah2.jpg
-  - image: /images/uploads/kiana-7.jpg
-  - image: /images/uploads/vusa-fam.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kiyann.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kiana-8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kiana-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kiana-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/zivah-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/zivah2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kiana-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vusa-fam.jpg
 ---
 

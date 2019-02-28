@@ -1,7 +1,8 @@
 ---
 title: Yonit
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/yornt-negri-31.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/yornt-negri-31.jpg
 firstName: Yonit
 collection: Global
 height: 155cm
@@ -14,7 +15,7 @@ shoeSize: '6'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/yornt-negri-31.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/yornt-negri-31.jpg
 meta:
   title: Yonit
 ---

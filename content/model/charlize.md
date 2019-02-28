@@ -1,7 +1,8 @@
 ---
 title: Charlize
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/charlize-d-bois-13.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/charlize-d-bois-13.jpg
 firstName: Charlize
 collection: Global
 height: 167cm
@@ -14,7 +15,7 @@ shoeSize: '6'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/charlize-d-bois-13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/charlize-d-bois-13.jpg
   - {}
 meta:
   title: Charlize

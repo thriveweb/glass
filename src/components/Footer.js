@@ -3,7 +3,8 @@ import React from 'react'
 import { slugify } from '../util/url'
 import './Footer.css'
 
-import { Link } from 'react-router-dom'
+import { Link } from 'gatsby'
+
 import { ICONTwitter, ICONFacebook, ICONLinkedin, ICONInstagram } from './Icons'
 
 export default ({
@@ -39,22 +40,22 @@ export default ({
         <p>Copyright 2018 Glass Management</p>
         <div className='footer--social-media'>
           {twitter && (
-            <a href={`${twitter}`}>
+            <a href={`${twitter}`} target="_blank">
               <ICONTwitter />
             </a>
           )}
           {facebook && (
-            <a href={`${facebook}`}>
+            <a href={`${facebook}`} target="_blank">
               <ICONFacebook />
             </a>
           )}
           {linkedin && (
-            <a href={`${linkedin}`}>
+            <a href={`${linkedin}`} target="_blank">
               <ICONLinkedin />
             </a>
           )}
           {instagram && (
-            <a href={`${instagram}`}>
+            <a href={`${instagram}`} target="_blank">
               <ICONInstagram />
             </a>
           )}

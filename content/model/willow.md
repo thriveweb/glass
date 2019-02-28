@@ -1,7 +1,8 @@
 ---
 title: Willow
-featuredImage: /images/uploads/dsc_4345_edited_preview.jpg
-imageThumbnail: /images/uploads/201710284199.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/dsc_4345_edited_preview.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/201710284199.jpg
 firstName: Willow
 collection: Girls
 height: 116cm
@@ -12,14 +13,14 @@ shoeSize: '13.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/dsc_3653_preview.jpg
-  - image: /images/uploads/will.jpg
-  - image: /images/uploads/willow-1.webp
-  - image: /images/uploads/willow-4.jpg
-  - image: /images/uploads/willow-5.jpg
-  - image: /images/uploads/0s4a9933_preview.jpg
-  - image: /images/uploads/babesstudio-173_preview.jpg
-  - image: /images/uploads/willow1.jpg
-  - image: /images/uploads/willow-.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/dsc_3653_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/will.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/willow-1.webp
+  - image: https://glassmanagement.imgix.net/images/uploads/willow-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/willow-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/0s4a9933_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/babesstudio-173_preview.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/willow1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/willow-.webp
 ---
 

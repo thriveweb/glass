@@ -13,7 +13,7 @@ import Content from './Content'
 class SimpleSlider extends Component {
 	render() {
 
-		const {testimonials} = this.props
+		const { testimonials } = this.props
 		const { title, testimonial } = testimonials
 
 		const settings = {
@@ -36,7 +36,7 @@ class SimpleSlider extends Component {
 					<ICONQuotes />
 					{title && <p className='title'>{title}</p>}
 					<Slider className='section--testimonials-slider' {...settings}>
-						{testimonial.map((singleTestimonial, index) => {
+						{testimonial && !!testimonial.length && testimonial.map((singleTestimonial, index) => {
 							return <div key={`testimonial-${index}`} className='section--testimonials-item testimonial-slide'>
 								{singleTestimonial.title && <h2>{singleTestimonial.title}</h2>}
 								{singleTestimonial.content && <Content className='section--testimonials-item-content' source={singleTestimonial.content}/>}

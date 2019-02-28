@@ -1,6 +1,7 @@
 ---
 title: 'Chelsea''s Choice #5'
-image: /images/uploads/chelsea-schoice17249634783.jpg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/chelsea-schoice17249634783.jpg
 collection: Self Taping
 author: Chelsea
 date: 8th July 2018

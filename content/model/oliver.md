@@ -1,7 +1,8 @@
 ---
 title: Oliver
-featuredImage: /images/uploads/image1-4-.jpeg
-imageThumbnail: /images/uploads/unnamed-1.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/image1-4-.jpeg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/unnamed-1.jpg
 firstName: Oliver
 collection: Boys
 height: 150cm
@@ -14,14 +15,14 @@ shoeSize: '5'
 hair: Blonde
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/image1-4-.jpeg
-  - image: /images/uploads/oliver.jpg
-  - image: /images/uploads/shoutout5.jpg
-  - image: /images/uploads/shoutout7-.jpg
-  - image: /images/uploads/shoutout9-.jpg
-  - image: /images/uploads/oliv1.jpg
-  - image: /images/uploads/oliver-2.jpg
-  - image: /images/uploads/oliver-3.jpg
-  - image: /images/uploads/oliver.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/image1-4-.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/oliver.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/shoutout5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/shoutout7-.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/shoutout9-.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/oliv1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/oliver-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/oliver-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/oliver.jpg
 ---
 

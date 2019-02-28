@@ -1,7 +1,8 @@
 ---
 title: Jack S
-featuredImage: /images/uploads/glassglobal.jpg
-imageThumbnail: /images/uploads/jacks3167289.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/glassglobal.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/jacks3167289.jpg
 firstName: Jack S
 collection: Global
 height: 180cm
@@ -14,13 +15,13 @@ shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/jacks6378.jpg
-  - image: /images/uploads/jacks236478.jpg
-  - image: /images/uploads/jackst321i.jpg
-  - image: /images/uploads/jacks352647783.jpg
-  - image: /images/uploads/jacks378.jpg
-  - image: /images/uploads/jacks3167289.jpg
-  - image: /images/uploads/jacks7683.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jacks6378.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jacks236478.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jackst321i.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jacks352647783.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jacks378.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jacks3167289.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jacks7683.jpg
 meta:
   title: Jack S
 ---

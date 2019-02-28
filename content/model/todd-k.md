@@ -1,7 +1,8 @@
 ---
 title: Todd K
-featuredImage: /images/uploads/smith-family.jpg
-imageThumbnail: /images/uploads/toddk38794.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/smith-family.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/toddk38794.jpg
 firstName: Todd K
 collection: Global
 height: 185cm
@@ -14,14 +15,14 @@ shoeSize: '11'
 hair: Ash Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/toddk78319.jpg
-  - image: /images/uploads/toddk3789.jpg
-  - image: /images/uploads/toddk37894.jpg
-  - image: /images/uploads/toddk32874.jpg
-  - image: /images/uploads/toddk89374.jpg
-  - image: /images/uploads/kellyfamily273.jpg
-  - image: /images/uploads/pkelly-4.jpg
-  - image: /images/uploads/pkelly-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/toddk78319.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/toddk3789.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/toddk37894.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/toddk32874.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/toddk89374.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kellyfamily273.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/pkelly-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/pkelly-7.jpg
 meta:
   title: Todd K
 ---

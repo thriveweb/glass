@@ -1,7 +1,8 @@
 ---
 title: Jazzy B
-featuredImage: /images/uploads/0k8a4773.jpg
-imageThumbnail: /images/uploads/jazzy-b38947.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/0k8a4773.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/jazzy-b38947.jpg
 firstName: Jazzy B
 collection: Girls
 height: 156cm
@@ -14,27 +15,27 @@ shoeSize: '7'
 hair: 'Blonde '
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/jazzy-b7823.jpg
-  - image: /images/uploads/jazz14.jpg
-  - image: /images/uploads/jazz18.jpg
-  - image: /images/uploads/jazzy-b3872.jpg
-  - image: /images/uploads/jazz17.jpg
-  - image: /images/uploads/jazz8.jpg
-  - image: /images/uploads/jazzy-b24378129.jpg
-  - image: /images/uploads/jazz3.jpg
-  - image: /images/uploads/jazz2.jpg
-  - image: /images/uploads/jazzy-b234678129.jpg
-  - image: /images/uploads/jazz.jpg
-  - image: /images/uploads/jazz20.jpg
-  - image: /images/uploads/jazzy-b3789.jpg
-  - image: /images/uploads/jazz1.jpg
-  - image: /images/uploads/jazz12.jpg
-  - image: /images/uploads/jazz7.jpg
-  - image: /images/uploads/jazz4.jpg
-  - image: /images/uploads/jazz5.jpg
-  - image: /images/uploads/jazz13.jpg
-  - image: /images/uploads/jazz15.jpg
-  - image: /images/uploads/jazz19.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazzy-b7823.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz14.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz18.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazzy-b3872.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz17.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazzy-b24378129.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazzy-b234678129.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz20.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazzy-b3789.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz15.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jazz19.jpg
 meta:
   title: Jazzy B
 ---

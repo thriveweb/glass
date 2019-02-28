@@ -1,7 +1,8 @@
 ---
 title: Ashan
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/ashan9.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/ashan9.jpg
 firstName: Ashan
 collection: Global
 height: 184cm
@@ -14,15 +15,15 @@ shoeSize: 12-13
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/ashan9.jpg
-  - image: /images/uploads/ashan2.jpg
-  - image: /images/uploads/ashan1.jpg
-  - image: /images/uploads/ashan.jpg
-  - image: /images/uploads/ashan4.jpg
-  - image: /images/uploads/ashan7.jpg
-  - image: /images/uploads/ashan6.jpg
-  - image: /images/uploads/ashan3.jpg
-  - image: /images/uploads/ashan5.jpg
-  - image: /images/uploads/ashan.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ashan9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ashan2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ashan1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ashan.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ashan4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ashan7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ashan6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ashan3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ashan5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ashan.jpg
 ---
 

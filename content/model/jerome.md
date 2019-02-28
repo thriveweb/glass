@@ -1,7 +1,8 @@
 ---
 title: Jerome
-featuredImage: /images/uploads/jerome6.jpg
-imageThumbnail: /images/uploads/jerome.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/jerome6.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/jerome.jpg
 firstName: Jerome
 collection: Boys
 height: 137cm
@@ -14,12 +15,12 @@ shoeSize: '3'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/jerome2.jpg
-  - image: /images/uploads/jerome5.jpg
-  - image: /images/uploads/jerome4.jpg
-  - image: /images/uploads/jerome7.jpg
-  - image: /images/uploads/jerome3.jpg
-  - image: /images/uploads/jerome1.jpg
-  - image: /images/uploads/jerome.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerome2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerome5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerome4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerome7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerome3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerome1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerome.jpg
 ---
 

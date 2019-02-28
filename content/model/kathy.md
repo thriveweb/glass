@@ -1,7 +1,8 @@
 ---
 title: Kathy
-featuredImage: /images/uploads/kath-4.jpg
-imageThumbnail: /images/uploads/kathy-her-shadow-1-.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/kath-4.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/kathy-her-shadow-1-.jpg
 firstName: Kathy
 collection: Classic
 height: 165cm
@@ -14,11 +15,11 @@ shoeSize: '9'
 hair: Ash Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/kathy-her-shadow.jpg
-  - image: /images/uploads/kathy-1.jpg
-  - image: /images/uploads/kathy.jpg
-  - image: /images/uploads/kathy-5.jpg
-  - image: /images/uploads/kath-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kathy-her-shadow.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kathy-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kathy.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kathy-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kath-4.jpg
 meta:
   title: Kathy
 ---

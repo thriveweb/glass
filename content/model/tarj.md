@@ -1,7 +1,8 @@
 ---
 title: Tarj
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/tarj-her-shadow-.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/tarj-her-shadow-.jpg
 firstName: Tarj
 collection: Global
 height: 182cm
@@ -14,9 +15,9 @@ shoeSize: '11'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/tarj.jpg
-  - image: /images/uploads/tarj-4.jpg
-  - image: /images/uploads/tarj-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tarj.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tarj-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tarj-1.jpg
 meta:
   title: Tarj
 ---

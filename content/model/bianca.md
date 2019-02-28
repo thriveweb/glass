@@ -1,7 +1,8 @@
 ---
 title: Bianca
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/bianca-5.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/bianca-5.jpg
 firstName: Bianca
 collection: Global
 height: 156cm
@@ -14,10 +15,10 @@ shoeSize: '7'
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/bianca-2.jpg
-  - image: /images/uploads/bianca-8.jpg
-  - image: /images/uploads/bianca-1.jpg
-  - image: /images/uploads/bianca-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/bianca-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/bianca-8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/bianca-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/bianca-5.jpg
 meta:
   title: Bianca
 ---

@@ -1,7 +1,8 @@
 ---
 title: 'Torin '
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/torin.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/torin.jpg
 firstName: Torin
 collection: Global
 height: 143cm
@@ -14,7 +15,7 @@ shoeSize: '6'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/torin.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/torin.jpg
 meta:
   title: Totin
 ---

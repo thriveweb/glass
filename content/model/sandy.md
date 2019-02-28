@@ -1,7 +1,8 @@
 ---
 title: Sandy
-featuredImage: /images/uploads/sandy.jpg
-imageThumbnail: /images/uploads/sandy5.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/sandy.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/sandy5.jpg
 firstName: Sandy
 collection: Classic
 height: 163cm
@@ -14,11 +15,11 @@ shoeSize: '7'
 hair: Dark Brown
 eyes: Light Brown
 imagePortfolio:
-  - image: /images/uploads/sandy1.jpg
-  - image: /images/uploads/sandy6.jpg
-  - image: /images/uploads/sandy2.jpg
-  - image: /images/uploads/sandy4.jpg
-  - image: /images/uploads/sandy5.jpg
-  - image: /images/uploads/sandy6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sandy1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sandy6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sandy2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sandy4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sandy5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/sandy6.jpg
 ---
 

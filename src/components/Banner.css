@@ -9,10 +9,6 @@
 	z-index: 2;
 }
 
-.section--banner * {
-	color: white;
-}
-
 .section--banner .LazyImage {
 	margin: 0 auto 3rem;
 	max-height: 10rem;
@@ -25,12 +21,14 @@
 .section--banner h1 {
 	font-size: 7em;
 	margin-bottom: 1.5rem;
+	color: white;
 }
 
 .section--banner-content {
 	max-width: 50%;
 	margin: 0 auto 4rem !important;
 	line-height: 1.4;
+	color: white;
 }
 
 .section--banner:before {
@@ -81,17 +79,3 @@
 		max-height: 5rem;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

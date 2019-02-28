@@ -1,7 +1,8 @@
 ---
 title: Kaileigh
-featuredImage: /images/uploads/image12.jpeg
-imageThumbnail: /images/uploads/amn_5298.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/image12.jpeg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/amn_5298.jpg
 firstName: Kaileigh
 collection: Women
 height: 181cm
@@ -13,13 +14,13 @@ shoeSize: '9'
 hair: Brunette
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/amn_5284.jpg
-  - image: /images/uploads/image10.jpeg
-  - image: /images/uploads/kail2.jpeg
-  - image: /images/uploads/kail1.jpeg
-  - image: /images/uploads/kail3.jpeg
-  - image: /images/uploads/image19.jpeg
-  - image: /images/uploads/kail-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amn_5284.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/image10.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/kail2.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/kail1.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/kail3.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/image19.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/kail-5.jpg
   - {}
 ---
 

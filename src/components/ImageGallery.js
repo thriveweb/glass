@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
 import './ImageGallery.css'
 import _kebabCase from 'lodash/kebabCase'
-import { Link } from 'react-router-dom'
+import { Link } from 'gatsby'
+
 // import Masonry from 'react-masonry-component'
 import BackgroundImage from './BackgroundImage'
 
@@ -28,7 +29,6 @@ class ImageGallery extends Component {
                 {galleryItem.image && (
                   <BackgroundImage
                     src={galleryItem.image}
-                    imageSize={window.innerWidth}
                   />
                 )}
                 <h3 className='title-fancy'>{galleryItem.title}</h3>

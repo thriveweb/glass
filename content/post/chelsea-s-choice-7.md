@@ -1,6 +1,7 @@
 ---
 title: 'Chelsea''s Choice #7'
-image: /images/uploads/chelsea-choice-s-social-media124iu.jpeg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/chelsea-choice-s-social-media124iu.jpeg
 collection: 'Social Media #2'
 author: Chelsea
 date: 21st August 2018

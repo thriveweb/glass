@@ -1,7 +1,8 @@
 ---
 title: Vicky
-featuredImage: /images/uploads/vicki-3.jpeg
-imageThumbnail: /images/uploads/vicki-1.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/vicki-3.jpeg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/vicki-1.jpg
 firstName: Vicky
 collection: Classic
 height: 166cm
@@ -14,9 +15,9 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/vicki-2.jpg
-  - image: /images/uploads/vicki-3.jpeg
-  - image: /images/uploads/vicki-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vicki-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/vicki-3.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/vicki-1.jpg
 meta:
   title: Vicky
 ---

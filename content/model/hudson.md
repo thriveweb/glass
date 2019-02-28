@@ -1,7 +1,8 @@
 ---
 title: Hudson
-featuredImage: /images/uploads/hudson-banner.jpg
-imageThumbnail: /images/uploads/hudson-hs.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/hudson-banner.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/hudson-hs.jpg
 firstName: Hudson
 collection: Boys
 height: 124cm
@@ -14,17 +15,17 @@ shoeSize: '2'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/hudson-2.jpg
-  - image: /images/uploads/hudson-hs.jpg
-  - image: /images/uploads/hudson-banner.jpg
-  - image: /images/uploads/hudson-13.jpg
-  - image: /images/uploads/hudson-4.jpg
-  - image: /images/uploads/hudson-12.jpg
-  - image: /images/uploads/hudson-19.jpg
-  - image: /images/uploads/hudson-7.jpg
-  - image: /images/uploads/hudson-14.jpg
-  - image: /images/uploads/hudson-16.jpg
-  - image: /images/uploads/hudson-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hudson-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hudson-hs.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hudson-banner.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hudson-13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hudson-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hudson-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hudson-19.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hudson-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hudson-14.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hudson-16.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/hudson-6.jpg
 meta:
   title: Hudson
 ---

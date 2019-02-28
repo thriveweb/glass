@@ -1,11 +1,12 @@
 ---
 title: Jodi
-featuredImage: /images/uploads/jodie-banner.jpg
-imageThumbnail: /images/uploads/amn_5062-1-1-.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/jodie-banner.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/amn_5062-1-1-.jpg
 firstName: Jodi
 collection: Classic
 imagePortfolio:
-  - image: /images/uploads/jodi-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jodi-2.jpg
 meta:
   title: Jodi
 ---

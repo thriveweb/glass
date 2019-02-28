@@ -1,7 +1,8 @@
 ---
 title: Xavier
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/xavier-cruz-munuz-1.11.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/xavier-cruz-munuz-1.11.jpg
 firstName: Xavier
 collection: Global
 height: 82cm
@@ -14,8 +15,8 @@ shoeSize: '7'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/xavier-cruz-munuz-1.11.jpg
-  - image: /images/uploads/family.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/xavier-cruz-munuz-1.11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/family.jpg
 meta:
   title: Xavier
 ---

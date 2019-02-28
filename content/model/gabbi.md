@@ -1,7 +1,8 @@
 ---
 title: Gabbi
-featuredImage: /images/uploads/gabbi361728.jpg
-imageThumbnail: /images/uploads/gabbi2367829.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/gabbi361728.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/gabbi2367829.jpg
 firstName: Gabbi
 collection: Girls
 height: 138cm
@@ -14,14 +15,14 @@ shoeSize: '3'
 hair: Light Brown
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/gabbi326782.jpg
-  - image: /images/uploads/gabbi2346789.jpg
-  - image: /images/uploads/gabbi2367829.jpg
-  - image: /images/uploads/gabbi236178.jpg
-  - image: /images/uploads/gabbi.png
-  - image: /images/uploads/gabbi-3.png
-  - image: /images/uploads/gabbi-4.png
-  - image: /images/uploads/gabbi-2.png
+  - image: https://glassmanagement.imgix.net/images/uploads/gabbi326782.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/gabbi2346789.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/gabbi2367829.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/gabbi236178.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/gabbi.png
+  - image: https://glassmanagement.imgix.net/images/uploads/gabbi-3.png
+  - image: https://glassmanagement.imgix.net/images/uploads/gabbi-4.png
+  - image: https://glassmanagement.imgix.net/images/uploads/gabbi-2.png
 meta:
   title: Gabbi
 ---

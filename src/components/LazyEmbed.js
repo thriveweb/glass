@@ -42,12 +42,10 @@ class LazyEmbed extends React.Component {
     }
 
     return (
-      <Observer {...options}>
         <div
           className={`LazyEmbed ${className}`}
           dangerouslySetInnerHTML={{ __html: this.state.src }}
         />
-      </Observer>
     )
   }
 }

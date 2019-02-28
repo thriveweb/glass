@@ -1,6 +1,8 @@
 ---
-featuredImage: /images/uploads/kris-atomic-73943-unsplash.png
+featuredImage: https://glassmanagement.imgix.net/images/uploads/kris-atomic-73943-unsplash.png
 subTitle: Welcome To
+template: HomePage
+slug: ''
 content: >-
   A boutique talent agency based on the Gold Coast, Australia.  Providing
   professional talent of all ages.
@@ -8,23 +10,23 @@ buttonText: See our Models
 buttonUrl: models/women
 gallery:
   galleryImages:
-    - image: /images/uploads/wy7nbxtq.jpg
+    - image: https://glassmanagement.imgix.net/images/uploads/wy7nbxtq.jpg
       title: Women
-    - image: /images/uploads/tanne.jpg
+    - image: https://glassmanagement.imgix.net/images/uploads/tanne.jpg
       title: Girls
-    - image: /images/uploads/globe-1290378_1920.jpg
+    - image: https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg
       title: Global
-    - image: /images/uploads/unnamed.jpg
+    - image: https://glassmanagement.imgix.net/images/uploads/unnamed.jpg
       title: Men
-    - image: /images/uploads/Bitmap.png
+    - image: https://glassmanagement.imgix.net/images/uploads/Bitmap.png
       title: Classic
-    - image: /images/uploads/unnamed-14.jpg
+    - image: https://glassmanagement.imgix.net/images/uploads/unnamed-14.jpg
       title: Boys
   subTitle: Our Models
   title: Explore Our Models
 about:
   image: >-
-    /images/uploads/8e8e6d8ccaa4e8063cbf3a3eb3c6c3e4-timeless-beauty-classic-beauty.jpg
+    https://glassmanagement.imgix.net/images/uploads/8e8e6d8ccaa4e8063cbf3a3eb3c6c3e4-timeless-beauty-classic-beauty.jpg
   subTitle: ''
   content: >-
     > _"For beautiful eyes, look for the good in others; for beautiful lips,
@@ -57,7 +59,7 @@ testimonials:
 
 
         www.warehousestudio.com.au
-      logo: /images/uploads/83abe0_b72f87a1a7d24228bcdbcb56aab62d30.png
+      logo: https://glassmanagement.imgix.net/images/uploads/83abe0_b72f87a1a7d24228bcdbcb56aab62d30.png
       name: Philip Holder- Associate Director www.warehousestudio.com.au
       title: The Warehouse Studio
     - content: >-
@@ -75,7 +77,7 @@ testimonials:
 
 
         John Conomos CEO Lexus Australia
-      logo: /images/uploads/lexus.jpeg
+      logo: https://glassmanagement.imgix.net/images/uploads/lexus.jpeg
       name: ' CEO John Conomos'
       title: 'Lexus Australia '
   title: What Our Clients Say
@@ -88,4 +90,3 @@ featuredPosts:
   subTitle: Our Journal
   title: Read Our Latest News
 ---
-

@@ -1,6 +1,7 @@
 ---
 title: 'Chelsea''s Choice #3'
-image: /images/uploads/chelsea-schoice12745365876.jpg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/chelsea-schoice12745365876.jpg
 collection: Development
 author: Chelsea
 date: 15th June 2018
@@ -55,7 +56,7 @@ content: >-
   <http://www.warehousestudio.com.au/>
 
 
-  ![](/images/uploads/screen-shot-2018-06-15-at-4.43.05-pm.png)
+  ![](https://glassmanagement.imgix.net/images/uploads/screen-shot-2018-06-15-at-4.43.05-pm.png)
 
 
   And remember -

@@ -1,7 +1,8 @@
 ---
 title: Amihan
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/amihan-mendoza-46.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/amihan-mendoza-46.jpg
 firstName: Amihan
 collection: Global
 height: 161cm
@@ -14,6 +15,6 @@ shoeSize: '8'
 hair: Dark Blonde/Silver
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/amihan-mendoza-46.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amihan-mendoza-46.jpg
 ---
 

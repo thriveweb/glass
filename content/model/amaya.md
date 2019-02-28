@@ -1,7 +1,8 @@
 ---
 title: Amaya
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/amaya-hs.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/amaya-hs.jpg
 firstName: Amaya
 collection: Global
 height: 162cm
@@ -14,16 +15,16 @@ shoeSize: '7'
 hair: Blonde
 eyes: Green
 imagePortfolio:
-  - image: /images/uploads/amaya-17.jpg
-  - image: /images/uploads/amaya-12.jpg
-  - image: /images/uploads/amaya-13.jpg
-  - image: /images/uploads/amaya-10.jpg
-  - image: /images/uploads/amaya-16.jpg
-  - image: /images/uploads/amaya-8.jpg
-  - image: /images/uploads/amaya-4.jpg
-  - image: /images/uploads/amaya-5.jpg
-  - image: /images/uploads/amaya-1.jpg
-  - image: /images/uploads/amaya-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amaya-17.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amaya-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amaya-13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amaya-10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amaya-16.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amaya-8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amaya-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amaya-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amaya-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amaya-3.jpg
 meta:
   title: Amaya
 ---

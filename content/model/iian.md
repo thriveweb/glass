@@ -1,7 +1,8 @@
 ---
 title: Ilan
-featuredImage: /images/uploads/jkhjhjhjasa.jpg
-imageThumbnail: /images/uploads/l-hs.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/jkhjhjhjasa.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/l-hs.jpg
 firstName: Ilan
 collection: Boys
 height: 140cm
@@ -14,13 +15,13 @@ shoeSize: '5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/kndkqhklwhewq.jpg
-  - image: /images/uploads/jhjhj.jpg
-  - image: /images/uploads/ldldld.jpg
-  - image: /images/uploads/lgagag.jpg
-  - image: /images/uploads/bjh.jpg
-  - image: /images/uploads/lflflf.jpg
-  - image: /images/uploads/lhlhlh.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/kndkqhklwhewq.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jhjhj.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ldldld.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lgagag.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/bjh.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lflflf.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/lhlhlh.jpg
 meta:
   title: Ilan
 ---

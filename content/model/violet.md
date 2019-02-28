@@ -1,7 +1,8 @@
 ---
 title: Violet
-featuredImage: /images/uploads/violet-banner.jpg
-imageThumbnail: /images/uploads/v-14.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/violet-banner.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/v-14.jpg
 firstName: Violet
 collection: Girls
 height: 103cm
@@ -14,19 +15,19 @@ shoeSize: '8'
 hair: Dark Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/v.jpg
-  - image: /images/uploads/v-16.jpg
-  - image: /images/uploads/v-3.jpg
-  - image: /images/uploads/v-10.jpg
-  - image: /images/uploads/v-7.jpg
-  - image: /images/uploads/v-13.jpg
-  - image: /images/uploads/v-1.jpg
-  - image: /images/uploads/violet-1111.jpg
-  - image: /images/uploads/v-14.jpg
-  - image: /images/uploads/v-5.jpg
-  - image: /images/uploads/v-18.jpg
-  - image: /images/uploads/v10.jpg
-  - image: /images/uploads/v17.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v-16.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v-10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v-13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/violet-1111.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v-14.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v-18.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/v17.jpg
 meta:
   title: Violet
 ---

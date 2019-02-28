@@ -1,7 +1,8 @@
 ---
 title: Amelie
-featuredImage: /images/uploads/ama6.jpg
-imageThumbnail: /images/uploads/ama3.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/ama6.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/ama3.jpg
 firstName: Amelie
 collection: Global
 height: 142cm
@@ -14,15 +15,15 @@ shoeSize: '3'
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/ama7.jpg
-  - image: /images/uploads/ama1.jpg
-  - image: /images/uploads/ama8.jpg
-  - image: /images/uploads/ama6.jpg
-  - image: /images/uploads/ama11.jpg
-  - image: /images/uploads/ama12.jpg
-  - image: /images/uploads/ama10.jpg
-  - image: /images/uploads/ama5.jpg
-  - image: /images/uploads/ama3.jpg
-  - image: /images/uploads/ama2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ama7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ama1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ama8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ama6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ama11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ama12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ama10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ama5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ama3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ama2.jpg
 ---
 

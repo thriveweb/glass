@@ -1,7 +1,8 @@
 ---
 title: Tiann
-featuredImage: /images/uploads/truc-16.jpg
-imageThumbnail: /images/uploads/tt-1.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/truc-16.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/tt-1.jpg
 firstName: Tiann
 collection: Girls
 height: 125cm
@@ -13,34 +14,34 @@ shoeSize: '12'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/tt-4.jpg
-  - image: /images/uploads/truc-51.jpg
-  - image: /images/uploads/truc-1.jpg
-  - image: /images/uploads/truc-13.jpg
-  - image: /images/uploads/ti1.jpg
-  - image: /images/uploads/truc-85.jpg
-  - image: /images/uploads/tiann-12.jpeg
-  - image: /images/uploads/tt-1.jpg
-  - image: /images/uploads/ti4.jpg
-  - image: /images/uploads/ti6.jpg
-  - image: /images/uploads/ti7.jpg
-  - image: /images/uploads/tt-2.jpg
-  - image: /images/uploads/ti8.jpg
-  - image: /images/uploads/ti10.jpg
-  - image: /images/uploads/tt-6.jpg
-  - image: /images/uploads/tiann-16.jpeg
-  - image: /images/uploads/ti12.jpg
-  - image: /images/uploads/ti13.jpg
-  - image: /images/uploads/tiann-11.jpeg
-  - image: /images/uploads/ti14.jpg
-  - image: /images/uploads/truc-family-3.jpg
-  - image: /images/uploads/yi9.jpg
-  - image: /images/uploads/tiann-13.jpeg
-  - image: /images/uploads/truc-16.jpg
-  - image: /images/uploads/tiann-15.jpeg
-  - image: /images/uploads/tiann-17.jpeg
-  - image: /images/uploads/tiann-19.jpeg
-  - image: /images/uploads/tt-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tt-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/truc-51.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/truc-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/truc-13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ti1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/truc-85.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tiann-12.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/tt-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ti4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ti6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ti7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tt-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ti8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ti10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tt-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tiann-16.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/ti12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/ti13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tiann-11.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/ti14.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/truc-family-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/yi9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tiann-13.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/truc-16.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tiann-15.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/tiann-17.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/tiann-19.jpeg
+  - image: https://glassmanagement.imgix.net/images/uploads/tt-3.jpg
   - {}
 meta:
   title: Tiann

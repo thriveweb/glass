@@ -1,5 +1,7 @@
 ---
-featuredImage: /images/uploads/avel-chuklanov-509630-unsplash.png
+template: JoinUsPage
+slug: 'join-us'
+featuredImage: https://glassmanagement.imgix.net/images/uploads/avel-chuklanov-509630-unsplash.png
 subTitle: Fill the Form
 title: Join Us
 intro:
@@ -18,4 +20,3 @@ intro:
     office so allow some time for us to get back to you.
   title: Expectations & Requirements
 ---
-

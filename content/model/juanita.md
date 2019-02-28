@@ -1,7 +1,8 @@
 ---
 title: Juanita
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/juanita-cangelosi-20.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/juanita-cangelosi-20.jpg
 firstName: Juanita
 collection: Global
 height: 176cm
@@ -14,7 +15,7 @@ shoeSize: '9'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/juanita-cangelosi-20.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/juanita-cangelosi-20.jpg
 meta:
   title: Juanita
 ---

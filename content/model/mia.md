@@ -1,7 +1,8 @@
 ---
 title: Mia T
-featuredImage: /images/uploads/mia11banener213.jpg
-imageThumbnail: /images/uploads/mia9.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/mia11banener213.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/mia9.jpg
 firstName: Mia T
 collection: Girls
 height: 169cm
@@ -13,14 +14,14 @@ shoeSize: '8'
 hair: 'Blonde '
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/mia-t.jpg
-  - image: /images/uploads/mia-t-11.jpg
-  - image: /images/uploads/mia-t-12.jpg
-  - image: /images/uploads/mia-t-6.jpg
-  - image: /images/uploads/mia-t-8.jpg
-  - image: /images/uploads/mia-t-5.jpg
-  - image: /images/uploads/mia-t-4.jpg
-  - image: /images/uploads/_89a1470-copy.jpg
-  - image: /images/uploads/mia-t-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mia-t.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mia-t-11.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mia-t-12.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mia-t-6.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mia-t-8.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mia-t-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mia-t-4.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/_89a1470-copy.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/mia-t-2.jpg
 ---
 

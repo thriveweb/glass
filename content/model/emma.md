@@ -1,7 +1,8 @@
 ---
 title: Emma
-featuredImage: /images/uploads/emmie.jpg
-imageThumbnail: /images/uploads/emmaheadshot723.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/emmie.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/emmaheadshot723.jpg
 firstName: Emma
 collection: Classic
 height: 165cm
@@ -14,17 +15,17 @@ shoeSize: '6'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/emma-1-.jpg
-  - image: /images/uploads/emma-9.jpg
-  - image: /images/uploads/emmabaner793y.jpg
-  - image: /images/uploads/emma-1.jpg
-  - image: /images/uploads/emma-13.jpg
-  - image: /images/uploads/emma-3.jpg
-  - image: /images/uploads/emma-19.jpg
-  - image: /images/uploads/emma-5.jpg
-  - image: /images/uploads/emma.jpg
-  - image: /images/uploads/emmabaner793y32.jpg
-  - image: /images/uploads/emma-17.jpg
-  - image: /images/uploads/emma-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emma-1-.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emma-9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emmabaner793y.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emma-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emma-13.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emma-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emma-19.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emma-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emma.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emmabaner793y32.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emma-17.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/emma-7.jpg
 ---
 

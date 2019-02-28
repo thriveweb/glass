@@ -1,7 +1,8 @@
 ---
 title: Veronica
-featuredImage: /images/uploads/veronicabanner234y0.jpg
-imageThumbnail: /images/uploads/vee.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/veronicabanner234y0.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/vee.jpg
 firstName: Veronica
 collection: Classic
 height: 162cm
@@ -13,16 +14,16 @@ shoeSize: '7.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/img_0764.png
-  - image: /images/uploads/img_0762.png
-  - image: /images/uploads/img_0768.jpg
-  - image: /images/uploads/nykmp0ig.jpg
-  - image: /images/uploads/img_0770.jpg
-  - image: /images/uploads/img_0766.jpg
-  - image: /images/uploads/amn_3091.jpg
-  - image: /images/uploads/img_0769.jpg
-  - image: /images/uploads/img_0767.jpg
-  - image: /images/uploads/defxh_jq.jpg
-  - image: /images/uploads/16423000-0.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/img_0764.png
+  - image: https://glassmanagement.imgix.net/images/uploads/img_0762.png
+  - image: https://glassmanagement.imgix.net/images/uploads/img_0768.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/nykmp0ig.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/img_0770.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/img_0766.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/amn_3091.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/img_0769.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/img_0767.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/defxh_jq.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/16423000-0.jpg
 ---
 

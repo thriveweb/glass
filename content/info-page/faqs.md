@@ -1,6 +1,7 @@
 ---
+template: InfoPage
 title: FAQs
-featuredImage: /images/uploads/celeste-4-.jpg
+featuredImage: https://glassmanagement.imgix.net/images/uploads/celeste-4-.jpg
 content: >-
   **How do I become a model on your site?**
 
@@ -65,4 +66,3 @@ content: >-
   early in the morning or late at night. Public transport, unfortunately, just
   doesn't cut it.
 ---
-

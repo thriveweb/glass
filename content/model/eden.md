@@ -1,7 +1,8 @@
 ---
 title: Eden
-featuredImage: /images/uploads/edenabnner2348.jpg
-imageThumbnail: /images/uploads/eden-headshot.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/edenabnner2348.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/eden-headshot.jpg
 firstName: Eden
 collection: Classic
 height: 189cm
@@ -12,7 +13,7 @@ shoeSize: '11'
 hair: Silver
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/eden-headshot.jpg
-  - image: /images/uploads/eden.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/eden-headshot.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/eden.jpg
 ---
 

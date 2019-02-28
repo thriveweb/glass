@@ -1,6 +1,7 @@
 ---
 title: 'Chelsea''s Choice #10'
-image: /images/uploads/chelsea-s-choice-10puppetry.jpeg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/chelsea-s-choice-10puppetry.jpeg
 collection: Why You Need to Diversify Yourself
 author: Chelsea
 date: 13th September 2018

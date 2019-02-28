@@ -1,7 +1,8 @@
 ---
 title: Jeremy R
-featuredImage: /images/uploads/jerm-banner-1-.jpg
-imageThumbnail: /images/uploads/jerm-2.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/jerm-banner-1-.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/jerm-2.jpg
 firstName: Jeremy R
 collection: Classic
 height: 177cm
@@ -14,11 +15,11 @@ shoeSize: '7.5'
 hair: Grey
 eyes: Blue
 imagePortfolio:
-  - image: /images/uploads/jerm-2.jpg
-  - image: /images/uploads/jerm-5.jpg
-  - image: /images/uploads/jerm-10.jpg
-  - image: /images/uploads/jerm-7.jpg
-  - image: /images/uploads/jerm-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerm-2.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerm-5.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerm-10.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerm-7.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jerm-1.jpg
 meta:
   title: Jeremy R
 ---

@@ -1,7 +1,8 @@
 ---
 title: Tayyib
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/tayyib.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/tayyib.jpg
 firstName: Tayyib
 collection: Global
 height: 185cm
@@ -14,8 +15,8 @@ shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/tayyib-3.jpg
-  - image: /images/uploads/tayyib-1.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tayyib-3.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/tayyib-1.jpg
 meta:
   title: Tayyib
 ---

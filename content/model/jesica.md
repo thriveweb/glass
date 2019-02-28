@@ -1,7 +1,8 @@
 ---
 title: Jesica
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/jesica-caviglia-37.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/jesica-caviglia-37.jpg
 firstName: Jesica
 collection: Global
 height: 164cm
@@ -14,7 +15,7 @@ shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/jesica-caviglia-37.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/jesica-caviglia-37.jpg
 meta:
   title: Jesica
 ---

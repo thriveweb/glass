@@ -1,20 +1,21 @@
 ---
 title: ' BTS at the Island Hotel Shoot'
-image: /images/uploads/img_0755.jpg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/img_0755.jpg
 collection: Agency
 author: Tegan Glass
 date: 14th May 2018
 content: >-
-  ![Party time](/images/uploads/img_0753.jpg)
+  ![Party time](https://glassmanagement.imgix.net/images/uploads/img_0753.jpg)
 
 
-  ![Pamper Time](/images/uploads/img_0754.jpg)
+  ![Pamper Time](https://glassmanagement.imgix.net/images/uploads/img_0754.jpg)
 
 
-  ![](/images/uploads/img_0757.jpg)
+  ![](https://glassmanagement.imgix.net/images/uploads/img_0757.jpg)
 
 
-  ![](/images/uploads/img_0758.jpg)
+  ![](https://glassmanagement.imgix.net/images/uploads/img_0758.jpg)
 
 
   Celeste, Dani and Aaron from Glass had such a fun shoot at The Island Hotel

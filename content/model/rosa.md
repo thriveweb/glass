@@ -1,7 +1,8 @@
 ---
 title: Rosa
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/rosa-peńa-45.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/rosa-peńa-45.jpg
 firstName: Rosa
 collection: Global
 height: 166cm
@@ -14,7 +15,7 @@ shoeSize: '9'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/rosa-peńa-45.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/rosa-peńa-45.jpg
 meta:
   title: Rosa
 ---

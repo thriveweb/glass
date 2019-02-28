@@ -1,6 +1,7 @@
 ---
 title: 'Chelsea''s Choice #9'
-image: /images/uploads/targetaudiencechelsea-schoice.jpg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/targetaudiencechelsea-schoice.jpg
 collection: Determine Target Audience
 author: Chelsea
 date: 7th September 2018

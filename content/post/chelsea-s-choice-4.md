@@ -1,6 +1,7 @@
 ---
 title: 'Chelsea''s Choice #4'
-image: /images/uploads/chelsea-schoice172463944.jpg
+template: BlogPost
+image: https://glassmanagement.imgix.net/images/uploads/chelsea-schoice172463944.jpg
 collection: Video ID
 author: Chelsea
 date: 24th June 2018
@@ -76,7 +77,7 @@ content: >-
   in two weeks time, Dialect/Voice Performance and Coaching.**
 
 
-  ![null](/images/uploads/mock-video-id.png)
+  ![null](https://glassmanagement.imgix.net/images/uploads/mock-video-id.png)
 videoSource: ''
 meta:
   title: 'Chelsea''s Choice #4'

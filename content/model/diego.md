@@ -1,7 +1,8 @@
 ---
 title: Diego
-featuredImage: /images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: /images/uploads/diego-tuki-9.jpg
+template: ModelPage
+featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: https://glassmanagement.imgix.net/images/uploads/diego-tuki-9.jpg
 firstName: Diego
 collection: Global
 height: 137cm
@@ -14,7 +15,7 @@ shoeSize: '3'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: /images/uploads/diego-tuki-9.jpg
+  - image: https://glassmanagement.imgix.net/images/uploads/diego-tuki-9.jpg
 meta:
   title: Diego
 ---
