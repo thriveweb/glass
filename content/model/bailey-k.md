@@ -17,7 +17,6 @@ shoeSize: '12'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/17a57aa4-3e8a-4d77-800b-e726ddde8fdb/'
   - image: 'https://ucarecdn.com/7d7f875e-045c-4856-96a3-453db97534e0/'
   - image: 'https://ucarecdn.com/7a119095-e8e6-4577-9a00-8bf87d4defc8/'
   - image: 'https://ucarecdn.com/d3813020-443d-4aba-a1f7-16e8ea8f180a/'
@@ -25,6 +24,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c9e3aa95-12c1-4794-b09a-9ab890a5df78/'
   - image: 'https://ucarecdn.com/7e47cf0f-5deb-4704-8b58-351bbf752a87/'
   - image: 'https://ucarecdn.com/069bf2d9-3c84-4f61-8eb4-e12dd40497e6/'
+  - image: 'https://ucarecdn.com/17a57aa4-3e8a-4d77-800b-e726ddde8fdb/'
 meta:
   title: Bailey K
 ---
