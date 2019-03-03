@@ -15,10 +15,12 @@ shoeSize: 2 US
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: 'https://glassmanagement.imgix.net/images/uploads/heanen675123786321.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-7.webp'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-5.webp'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/hean-5.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/hean-3.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/hean-6.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/heanen675123786321.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/hean-2.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pipeline10.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-1.webp'
   - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-1.jpg'
@@ -33,13 +35,9 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-12.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amn_1580.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/201710284169.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/hean-6.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/hean-5.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/hean-4.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/hean-2.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/pipeline05text.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/pipeline06text.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/pipeline10.jpg'
 meta:
   title: Heanen
 ---
