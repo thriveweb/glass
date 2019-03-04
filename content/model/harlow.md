@@ -1,8 +1,8 @@
 ---
-title: Harlow
 template: ModelPage
-featuredImage: https://glassmanagement.imgix.net/images/uploads/harlow.jpg
-imageThumbnail: https://glassmanagement.imgix.net/images/uploads/harlow-hs-1-.jpg
+title: Harlow
+featuredImage: 'https://glassmanagement.imgix.net/images/uploads/harlow.jpg'
+imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/harlow-hs-1-.jpg'
 firstName: Harlow
 collection: Girls
 height: 128cm
@@ -15,26 +15,29 @@ shoeSize: 1-2
 hair: Golden Blonde
 eyes: Blue
 imagePortfolio:
-  - image: https://glassmanagement.imgix.net/images/uploads/photo-29-10-18-3-47-17-am-1-.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harl3.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harl11.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/bubblegum6-.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harlow8.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harlow9.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/bubblegum7.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/photo-16-2-19-9-07-29-pm.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harl5.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harlow15.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harl1.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harl2.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harl18.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/haerl4.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harlow12.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harl16.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harlow-13.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harl10.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harl-17pg.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/harlow-hs.jpg
+  - image: >-
+      https://glassmanagement.imgix.net/images/uploads/photo-29-10-18-3-47-17-am-1-.jpg
+  - image: 'https://ucarecdn.com/ec3dbdb7-2df1-487e-9abf-3e1d4024c94c/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harl3.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harl11.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/bubblegum6-.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harlow8.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harlow9.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/bubblegum7.jpg'
+  - image: >-
+      https://glassmanagement.imgix.net/images/uploads/photo-16-2-19-9-07-29-pm.jpg
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harl5.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harlow15.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harl1.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harl2.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harl18.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/haerl4.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harlow12.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harl16.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-13.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harl10.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harl-17pg.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-hs.jpg'
 meta:
   title: Harlow
 ---
