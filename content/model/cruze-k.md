@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Cruze K
+title: 'Cruze '
 featuredImage: >-
   https://ucarecdn.com/f57785d1-ff3f-48ab-b5a0-ad595681fd4c/-/crop/1631x637/0,944/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/357c99b4-36de-438d-b6c4-a93d0d96f338/-/crop/418x567/116,47/-/preview/
-firstName: Cruze K
+firstName: 'Cruze '
 collection: Boys
 height: 115cm
 measurementType: chest
@@ -27,6 +27,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/ad3166b2-67be-42a4-966d-d94d2ad0776f/'
   - image: 'https://ucarecdn.com/5941efc8-7f8c-4273-8516-acc93990d54f/'
 meta:
-  title: Cruze K
+  title: 'Cruze '
 ---
 
