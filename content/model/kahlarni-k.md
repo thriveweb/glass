@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Kahlarni K
+title: Kahlarni
 featuredImage: >-
   https://ucarecdn.com/81a22c55-6553-41cc-9631-130ba1addf7d/-/crop/1631x995/0,0/-/preview/
 imageThumbnail: >-
