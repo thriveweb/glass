@@ -8,7 +8,7 @@ export default ({
 
   if(imageSize) {
     imgSrc = src.includes('imgix')
-      ? `${imgSrc.replace('webp', 'png')}?fm=jpg&auto=compress,format&w=${imageSize}`
+      ? `${imgSrc.replace('webp', 'png')}?auto=compress,format&w=${imageSize}&fm=png`
       : `${imgSrc}-/resize/${imageSize}x/`
   }
 
