@@ -338,7 +338,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Featured Image, name: featuredImage, widget: image}
       - {label: Image Thumbnail, name: imageThumbnail, widget: image}
       - {label: First Name, name: firstName, widget: string}
-      - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title'}
+      - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title', required: false}
       - {label: Height, name: height, widget: string, required: false}
       - label: "Measurement Type"
         name: "measurementType"
