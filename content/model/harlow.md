@@ -26,16 +26,19 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/bubblegum7.jpg'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/photo-16-2-19-9-07-29-pm.jpg
+  - image: 'https://ucarecdn.com/d42d2770-a9b8-4717-8aa2-e0de400fc94d/'
+  - image: 'https://ucarecdn.com/6f2db391-e320-4d5e-b397-9a56a5028e6f/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl5.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow15.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl2.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/harl18.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/haerl4.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow12.jpg'
+  - image: 'https://ucarecdn.com/3b2d7482-e543-44fe-99f7-366e5d5ccdb8/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harl18.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl16.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-13.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl10.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-13.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl-17pg.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-hs.jpg'
 meta:
