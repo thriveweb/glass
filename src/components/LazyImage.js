@@ -53,9 +53,13 @@ class LazyImage extends React.Component {
     let imgSrc = src
 
     if(sizes) {
-      imgSrc = src.includes('imgix')
-        ? `${imgSrc.replace('webp', 'png')}?auto=compress,format&w=${sizes}&fm=png`
-        : `${imgSrc}-/resize/${sizes}x/`
+      if(src.includes('imgix')) {
+        imgSrc = imgSrc.includes('webp')
+          ? `${imgSrc.replace('https://glassmanagement.imgix.net/images/uploads/', 'https://glassmanagement.imgix.net/images/uploads/resized/')}.png?auto=compress,format&w=${sizes}&fm=png`
+          : `${imgSrc}?auto=compress,format&w=${sizes}&fm=png`
+      } else {
+        imgSrc = `${imgSrc}-/resize/${sizes}x/`
+      }
     }
 
     return <img

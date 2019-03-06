@@ -7,9 +7,13 @@ export default ({
   let imgSrc = src
 
   if(imageSize) {
-    imgSrc = src.includes('imgix')
-      ? `${imgSrc.replace('webp', 'png')}?auto=compress,format&w=${imageSize}&fm=png`
-      : `${imgSrc}-/resize/${imageSize}x/`
+    if(src.includes('imgix')) {
+      imgSrc = imgSrc.includes('webp')
+        ? `${imgSrc.replace('https://glassmanagement.imgix.net/images/uploads/', 'https://glassmanagement.imgix.net/images/uploads/resized/')}.png?auto=compress,format&w=${imageSize}&fm=png`
+        : `${imgSrc}?auto=compress,format&w=${imageSize}&fm=png`
+    } else {
+      imgSrc = `${imgSrc}-/resize/${imageSize}x/`
+    }
   }
 
   return <div
