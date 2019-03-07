@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: 'Nicolina '
+title: Nikolina
 featuredImage: 'https://ucarecdn.com/c59c5bdb-acf1-4f98-a524-e30a5f19996a/'
 imageThumbnail: 'https://ucarecdn.com/64638c2d-feb4-461e-943a-99329fc7178a/'
-firstName: Nicolina A
+firstName: Nikolina
 collection: Global
 height: 170cm
 measurementType: bust
@@ -25,6 +25,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/144e2fef-4bb3-455e-a01f-c33a4a1429c2/'
   - {}
 meta:
-  title: 'Nicolina '
+  title: Nikolina
 ---
 
