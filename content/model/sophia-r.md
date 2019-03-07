@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Sophia R
-featuredImage: 'https://ucarecdn.com/43ffb587-749e-46c6-858e-181d048738f6/'
+featuredImage: >-
+  https://ucarecdn.com/43ffb587-749e-46c6-858e-181d048738f6/-/crop/4480x4746/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/126eaf0b-ab50-40f6-b919-5d0a10df3148/'
 firstName: Sophia R
 collection: Girls
