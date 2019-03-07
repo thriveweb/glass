@@ -6,7 +6,15 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/126eaf0b-ab50-40f6-b919-5d0a10df3148/'
 firstName: Sophia R
 collection: Girls
+height: 145cm
 measurementType: bust
+bust: 74cm
+waist: 64cm
+hips: 82cm
+size: '10 Dress, 10 Pants, 12 Shirt'
+shoeSize: '6'
+hair: Brown
+eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/ee529183-f9bc-4857-9878-5ea52c1ff4fc/'
   - image: 'https://ucarecdn.com/3731775e-7f67-4541-ac55-b4ec4c3a1236/'
