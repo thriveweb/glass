@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Peter R
-featuredImage: 'https://ucarecdn.com/07a0d248-bf2c-4c54-8fd0-92bc596826c2/'
+featuredImage: 'https://ucarecdn.com/d08ef9f6-b00c-4370-8089-79af0aed72d1/'
 imageThumbnail: 'https://ucarecdn.com/5e3781aa-eb9e-4bb0-8111-1b5d89e3667c/'
 firstName: Peter R
 collection: Classic
