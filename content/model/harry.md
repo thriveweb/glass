@@ -2,7 +2,7 @@
 template: ModelPage
 title: Harry
 featuredImage: >-
-  https://ucarecdn.com/5b04dcd2-bc34-4001-a82d-db5784252b17/-/crop/2222x1599/163,101/-/preview/
+  https://ucarecdn.com/5b04dcd2-bc34-4001-a82d-db5784252b17/-/crop/2194x1488/163,101/-/preview/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/harry-161616161.jpg'
 firstName: Harry
 collection: Boys
