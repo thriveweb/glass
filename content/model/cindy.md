@@ -28,11 +28,10 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/wchiautw.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/guo3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/qi0l1tuw.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/cindy-1111.jpg'
   - image: 'https://ucarecdn.com/c586731c-2b7d-4571-baf3-e54430e83ffb/'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/62428f54-25a8-4034-bcc4-6b4771433bce.jpg
-  - image: 'https://glassmanagement.imgix.net/images/uploads/cindy-1111.jpg'
-  - {}
   - image: 'https://ucarecdn.com/c53aaa27-ce64-4ea9-bff2-40287d428c4d/'
   - image: 'https://ucarecdn.com/d588d44c-db64-4252-b390-a9d90d13c73c/'
 meta:
