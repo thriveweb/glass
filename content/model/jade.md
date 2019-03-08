@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Jade
-featuredImage: 'https://ucarecdn.com/4cc71070-2809-4f35-b566-9e697836b9d2/'
+featuredImage: 'https://ucarecdn.com/7bc58133-ade5-4e27-bf54-fd8bdc2dbd63/'
 imageThumbnail: 'https://ucarecdn.com/e46a6a96-06d9-4f4f-a6a0-abb25e37983b/'
 firstName: Jade
 collection: Girls
