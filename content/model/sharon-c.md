@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Sharon C
-featuredImage: 'https://ucarecdn.com/b0e59ecf-41f6-4673-ac0d-0a55df488508/'
+featuredImage: 'https://ucarecdn.com/2148367b-195d-43e7-adeb-424915291fb6/'
 imageThumbnail: 'https://ucarecdn.com/6f2af3f1-cfb8-43d9-8ad9-57d93f4f6b43/'
 firstName: Sharon C
 collection: Global
