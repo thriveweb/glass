@@ -5,8 +5,8 @@ template: HomePage
 slug: ''
 subTitle: Welcome To
 content: >-
-  A boutique talent agency based on the Gold Coast, Australia.  Providing
-  professional talent of all ages. 
+  A boutique modeling and talent agency based on the Gold Coast, Australia. 
+  Providing professional talent of all ages. 
 buttonText: See our Models
 buttonUrl: models/women
 gallery:
