@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Jasmine C
-featuredImage: 'https://ucarecdn.com/88e96d5b-02e6-47aa-8ca6-edb4a9a9f823/'
+featuredImage: 'https://ucarecdn.com/e45d509e-4761-4e5d-8f3f-82795365350c/'
 imageThumbnail: >-
   https://glassmanagement.imgix.net/images/uploads/jasmine-colicchia-2_preview.jpg
 firstName: Jasmine C
