@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Bailey
+title: Bailey K
 featuredImage: >-
   https://ucarecdn.com/c3483e42-30f5-49ec-8fb4-618fce0d344e/-/crop/2451x976/0,0/-/preview/
 imageThumbnail: >-
