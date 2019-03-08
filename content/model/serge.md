@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Serge
-featuredImage: 'https://ucarecdn.com/a385ea34-65f9-491e-8c6b-c6b097dafe5f/'
+featuredImage: 'https://ucarecdn.com/cd9ee7f0-315b-48c4-aee8-7de9b0f78815/'
 imageThumbnail: 'https://ucarecdn.com/c389a826-2ae4-405f-818f-cf383c0729d0/'
 firstName: Serge
 collection: Classic
