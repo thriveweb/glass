@@ -1,19 +1,25 @@
 ---
 template: ModelPage
 title: Haru
-featuredImage: 'https://ucarecdn.com/948a3ad4-d5dd-4613-bd74-130758badffc/'
+featuredImage: 'https://ucarecdn.com/7e4ac310-e07f-4a16-8a00-81f3a1129ebc/'
 imageThumbnail: >-
-  https://ucarecdn.com/42d4c2db-ff0b-44f4-b32e-bb708da1bcbe/-/crop/840x1143/772,105/-/preview/
+  https://ucarecdn.com/74720a74-5f95-4e77-b909-dbb565cfd4b6/-/crop/456x248/0,0/-/preview/
 firstName: Haru
 collection: Global
+height: 168cm
+measurementType: chest
+bust: 92m
+waist: 79cm
+hips: 96cm
+size: 'Shirt XS, Pants 30'
+shoeSize: '8'
 hair: Black
 eyes: Brown
 imagePortfolio:
   - image: >-
-      https://ucarecdn.com/6421f2bb-4497-45c0-b7d7-f3068b98880b/-/crop/1367x2281/0,168/-/preview/
-  - image: >-
-      https://ucarecdn.com/66c1a86a-b9b8-45ad-8e0b-31087064e8ee/-/crop/1632x1995/0,138/-/preview/
-  - image: 'https://ucarecdn.com/50263d6c-5772-42bd-ab41-2234fb7c0969/'
+      https://ucarecdn.com/342a541b-8e61-408c-9e61-267253b232ba/-/crop/465x305/0,0/-/preview/
+  - image: 'https://ucarecdn.com/0607b2da-9595-4e97-8a51-fd6b843b1b4f/'
+  - image: 'https://ucarecdn.com/bc12a4a1-ab2e-4b01-bf32-b44947dc822e/'
 meta:
   title: Haru
 ---
