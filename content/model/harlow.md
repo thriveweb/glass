@@ -41,6 +41,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-13.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl-17pg.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-hs.jpg'
+  - image: 'https://ucarecdn.com/500de6b6-40a8-427f-9995-6ed72e156a73/'
 meta:
   title: Harlow
 ---
