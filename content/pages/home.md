@@ -11,13 +11,13 @@ buttonText: See our Models
 buttonUrl: models/women
 gallery:
   galleryImages:
-    - image: 'https://glassmanagement.imgix.net/images/uploads/wy7nbxtq.jpg'
+    - image: 'https://ucarecdn.com/e2e87ca6-c1db-4ee1-ade5-1cc4646dcc60/'
       title: Women
-    - image: 'https://glassmanagement.imgix.net/images/uploads/tanne.jpg'
+    - image: 'https://ucarecdn.com/fa582303-700d-4f64-be2a-2efd2b53bc7a/'
       title: Girls
     - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
       title: Global
-    - image: 'https://glassmanagement.imgix.net/images/uploads/unnamed.jpg'
+    - image: 'https://ucarecdn.com/a63e024a-4dcf-4d22-bc1b-ea134f369a8e/'
       title: Men
     - image: 'https://glassmanagement.imgix.net/images/uploads/Bitmap.png'
       title: Classic
