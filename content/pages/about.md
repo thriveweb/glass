@@ -1,7 +1,7 @@
 ---
-featuredImage: https://glassmanagement.imgix.net/images/uploads/201711013258crop.jpg
 template: AboutPage
-slug: 'about'
+slug: about
+featuredImage: 'https://glassmanagement.imgix.net/images/uploads/201711013258crop.jpg'
 subTitle: ''
 title: About Us
 teamMembers:
@@ -30,7 +30,7 @@ teamMembers:
       Tegan has the entertainment industry covered in all areas and her can-do
       energetic personality means it's exciting times ahead for her new chapter:
       Glass Management.
-    image: https://glassmanagement.imgix.net/images/uploads/amn_8380-1-_preview.jpg
+    image: 'https://glassmanagement.imgix.net/images/uploads/amn_8380-1-_preview.jpg'
     leftAlign: true
     subTitle: Our Story
     title: Tegan Glass
@@ -40,9 +40,9 @@ teamMembers:
       Queensland and tailor a plan for each model, and target the right brand
       that suits their style. With over 25 years of experience in the marketing,
       promotion and events Industry - Glass are very lucky to have her on board!
-    image: https://glassmanagement.imgix.net/images/uploads/profile.jpg
+    image: 'https://glassmanagement.imgix.net/images/uploads/profile.jpg'
     subTitle: Marketing Manager
-    title: Jo Glenn
+    title: Jo G
   - content: >-
       Beautiful 17 year old Actress/Model/Writer and intern works tirelessly at
       keeping the Website and Casting Networks up to date. Chelsea teaches the
@@ -53,7 +53,7 @@ teamMembers:
       wonderful asset to the Glass Team. She does all this Whilst studying and
       attending the Warehouse Acting Workshops weekly and Voice and Performance
       training.
-    image: https://glassmanagement.imgix.net/images/uploads/chelsea-her-shadow.jpg
+    image: 'https://ucarecdn.com/1b8aebb4-4e2e-490e-afd0-a20d0c7f4c43/'
     leftAlign: true
     subTitle: Intern
     title: Chelsea
@@ -69,10 +69,11 @@ services:
         With talent in Brisbane, Gold Coast, Sydney and Melbourne.
 
         We have that special someone for any campaign.
-      image: https://glassmanagement.imgix.net/images/uploads/alisha-2.jpg
+      image: 'https://glassmanagement.imgix.net/images/uploads/alisha-2.jpg'
       title: ' Models'
     - content: Talent for Feature Films and TV Commercials.
-      image: https://glassmanagement.imgix.net/images/uploads/avel-chuklanov-509630-unsplash.png
+      image: >-
+        https://glassmanagement.imgix.net/images/uploads/avel-chuklanov-509630-unsplash.png
       title: Actor/Extras
     - content: >-
         Make your next event stand out in the crowd with our intelligent, well
@@ -82,7 +83,7 @@ services:
         Also Team Glass offer expertise in full Event Management, from theming,
         run sheets, MC's, entertainment, catering etc. From your vision right
         through to completion.
-      image: https://glassmanagement.imgix.net/images/uploads/bts2.jpg
+      image: 'https://glassmanagement.imgix.net/images/uploads/bts2.jpg'
       title: Event Management and Brand Ambassadors
     - content: >-
         Karli our gorgeous make up artist will transform you to be camera ready.
@@ -94,7 +95,7 @@ services:
 
 
         Email: talent@glassmanagement.com.au
-      image: https://glassmanagement.imgix.net/images/uploads/mu.jpg
+      image: 'https://glassmanagement.imgix.net/images/uploads/mu.jpg'
       title: Makeup Artist
     - content: >-
         Studio and location shoots can be booked by emailing  the office
@@ -105,7 +106,7 @@ services:
 
 
         Specialising in portfolio shoots, head shots and Instagram photos.
-      image: https://glassmanagement.imgix.net/images/uploads/amn_1580.jpg
+      image: 'https://glassmanagement.imgix.net/images/uploads/amn_1580.jpg'
       title: Photography
     - content: >-
         We use Gracey Criss Films, who are avid film lovers who want to create
@@ -118,7 +119,8 @@ services:
 
 
         Email the office on: talent@glassmanagement.com.au
-      image: https://glassmanagement.imgix.net/images/uploads/sharegrid-554231-unsplash.png
+      image: >-
+        https://glassmanagement.imgix.net/images/uploads/sharegrid-554231-unsplash.png
       title: Videographer
   subTitle: Modeling and Talent Agency
   title: Services Provided
