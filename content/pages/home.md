@@ -21,7 +21,7 @@ gallery:
       title: Men
     - image: 'https://glassmanagement.imgix.net/images/uploads/Bitmap.png'
       title: Classic
-    - image: 'https://glassmanagement.imgix.net/images/uploads/unnamed-14.jpg'
+    - image: 'https://ucarecdn.com/c509c19d-8496-45fa-a3d2-2f3031a7525c/'
       title: Boys
   subTitle: Our Models
   title: Explore Our Models
