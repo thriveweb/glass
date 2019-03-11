@@ -19,7 +19,7 @@ gallery:
       title: Global
     - image: 'https://ucarecdn.com/a63e024a-4dcf-4d22-bc1b-ea134f369a8e/'
       title: Men
-    - image: 'https://glassmanagement.imgix.net/images/uploads/Bitmap.png'
+    - image: 'https://ucarecdn.com/31dc20b6-836b-49e2-aa34-7f765b03652f/'
       title: Classic
     - image: 'https://ucarecdn.com/c509c19d-8496-45fa-a3d2-2f3031a7525c/'
       title: Boys
