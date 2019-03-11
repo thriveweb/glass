@@ -4,7 +4,7 @@ title: Debbie
 featuredImage: 'https://ucarecdn.com/84a88d50-7b26-4a11-be8d-cc5b69948f15/-/preview/'
 imageThumbnail: 'https://ucarecdn.com/c5cec1a7-2195-4bf8-8b3f-225a0d62d8b7/'
 firstName: Debbie
-collection: Global
+collection: Classic
 height: 157cm
 measurementType: bust
 bust: 77cm
