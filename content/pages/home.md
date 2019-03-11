@@ -1,6 +1,5 @@
 ---
-featuredImage: >-
-  https://glassmanagement.imgix.net/images/uploads/kris-atomic-73943-unsplash.png
+featuredImage: 'https://ucarecdn.com/d5e9a814-74dd-48c6-bc81-54a0ab93af14/'
 template: HomePage
 slug: ''
 subTitle: Welcome To
