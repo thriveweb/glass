@@ -1,5 +1,5 @@
 ---
-featuredImage: 'https://ucarecdn.com/d5e9a814-74dd-48c6-bc81-54a0ab93af14/'
+featuredImage: 'https://ucarecdn.com/47997601-8a3d-4f4c-b0f7-5debeef6b7b5/'
 template: HomePage
 slug: ''
 subTitle: Welcome To
