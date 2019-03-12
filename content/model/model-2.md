@@ -49,7 +49,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-13131313.jpg'
 meta:
   canonicalLink: ''
-  noindex: true
-  title: amanda
+  noindex: false
+  title: Amanda
 ---
 
