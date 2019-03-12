@@ -10,7 +10,7 @@ measurementType: chest
 bust: 63cm
 waist: 65cm
 hips: 69cm
-size: '6'
+size: '8'
 shoeSize: '5'
 hair: Brown
 eyes: Brown
