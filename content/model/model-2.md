@@ -6,6 +6,7 @@ imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-sha
 firstName: Amanda
 collection: Women
 height: 167.5cm
+measurementType: bust
 bust: 88cm
 waist: 66cm
 hips: 86cm
@@ -47,6 +48,8 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-shadow-yes.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-13131313.jpg'
 meta:
+  canonicalLink: ''
+  noindex: true
   title: amanda
 ---
 
