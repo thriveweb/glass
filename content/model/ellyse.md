@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Ellyse
-featuredImage: 'https://ucarecdn.com/75200af5-bbce-4e91-ad73-5c73a8c080f8/'
+featuredImage: 'https://ucarecdn.com/12da3668-fa47-41a2-8981-314292500e57/'
 imageThumbnail: 'https://ucarecdn.com/56384481-35b0-400a-9d4e-e8a446f7128d/'
 firstName: Ellyse
 collection: Global
