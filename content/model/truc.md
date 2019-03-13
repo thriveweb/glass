@@ -3,7 +3,7 @@ template: ModelPage
 title: Truc
 featuredImage: 'https://ucarecdn.com/8e2d9d91-23e7-41e2-b348-5a5e1d082a41/'
 imageThumbnail: >-
-  https://ucarecdn.com/f57c3af7-9fe0-4bd1-b1f6-0c4048c44ea6/-/crop/1280x1149/0,0/-/preview/
+  https://ucarecdn.com/f57c3af7-9fe0-4bd1-b1f6-0c4048c44ea6/-/crop/1267x1070/0,79/-/preview/
 firstName: Truc
 collection: Classic
 height: 150cm
