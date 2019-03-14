@@ -74,6 +74,11 @@ partners:
   - image: 'https://glassmanagement.imgix.net/images/uploads/download-8.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/download-4.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/download-4.jpg'
+  - image: 'https://ucarecdn.com/23fa168e-1b40-4836-a509-319d848031ed/'
+  - image: 'https://ucarecdn.com/a8c7ae5f-8225-4b40-8946-d2bb313ec645/'
+  - image: 'https://ucarecdn.com/7b41afa4-a11e-4647-bec1-015cc6afe058/'
+  - image: 'https://ucarecdn.com/a388d10b-ff20-4fc2-b95c-49c5d96bf469/'
+  - image: 'https://ucarecdn.com/3adf40ba-2fbd-4f67-a4f6-62b374534563/'
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
