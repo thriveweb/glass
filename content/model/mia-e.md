@@ -1,8 +1,9 @@
 ---
 template: ModelPage
 title: Mia E
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/mia-banner.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/mia-001.jpg'
+featuredImage: 'https://ucarecdn.com/fd4d2c9e-7ad0-49cd-b028-ba0679ff1af2/'
+imageThumbnail: >-
+  https://ucarecdn.com/0805affe-8f8b-4444-8862-3f2f3d6ccfff/-/crop/1584x2111/0,0/-/preview/
 firstName: Mia E
 collection: Girls
 height: 153cm
@@ -48,6 +49,7 @@ imagePortfolio:
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/photo-8-7-18-4-17-43-am_preview.jpg
   - image: 'https://glassmanagement.imgix.net/images/uploads/mia-e-1010101.png'
+  - image: 'https://ucarecdn.com/19a68f07-dce1-4b1b-9c75-71b783ee75a5/'
 meta:
   title: Mia E
 ---
