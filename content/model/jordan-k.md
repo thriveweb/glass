@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Jordan K
+title: Jordan L
 featuredImage: >-
   https://ucarecdn.com/b60d7955-87b5-49e0-a85c-200e336b0575/-/crop/1619x660/0,51/-/preview/
 imageThumbnail: 'https://ucarecdn.com/83a0abd9-894d-4d9b-a807-c2f4d5f822c6/'
-firstName: Jordan K
+firstName: Jordan L
 collection: Global
 height: 189cm
 measurementType: chest
