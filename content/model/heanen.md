@@ -2,7 +2,8 @@
 template: ModelPage
 title: Heanen
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/hean-1.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/heanen-2.webp'
+imageThumbnail: >-
+  https://ucarecdn.com/370f589a-4a91-42ab-a51e-36f614c337e1/-/crop/720x771/137,92/-/preview/
 firstName: Heanen
 collection: Boys
 height: 127cm
@@ -15,18 +16,18 @@ shoeSize: 2 US
 hair: Brown
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/bd0f293f-2c28-41c6-829b-eb19c860a43d/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/hean-5.jpg'
+  - image: 'https://ucarecdn.com/aea9f0db-ae11-42c0-8922-6af4db713bac/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/hean-3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/hean-6.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/heanen675123786321.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/hean-2.jpg'
+  - image: 'https://ucarecdn.com/8c9a7732-dc43-413c-b44f-8f1bc17808df/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/heanen675123786321.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/pipeline10.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-3.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-1.webp'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-1.jpg'
+  - image: 'https://ucarecdn.com/6981c754-deef-4c7b-a385-0a17fcc77b02/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-11.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-4.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-6.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-9.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-7.jpg'
@@ -34,7 +35,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-13.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/heanen-12.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amn_1580.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/201710284169.jpg'
+  - image: 'https://ucarecdn.com/4d5410b1-110f-4ae5-915d-a1dc27787f0c/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/hean-4.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/pipeline05text.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/pipeline06text.jpg'
