@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Sharnae B
+title: 'Sharnae '
 featuredImage: >-
   https://ucarecdn.com/f38eb659-2001-451b-9ac5-473aa81c510d/-/crop/1632x726/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/254dcaac-3bf1-47d1-a50e-466c48e4d9cb/'
-firstName: Sharnae B
+firstName: 'Sharnae '
 collection: Global
 height: 168cm
 measurementType: bust
