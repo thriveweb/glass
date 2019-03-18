@@ -3,7 +3,8 @@ template: ModelPage
 title: Karyn
 featuredImage: >-
   https://ucarecdn.com/0ce585fe-9266-40a7-83cf-9677b6fe465e/-/crop/1632x951/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/89010e77-296c-445b-9c08-bc655a480902/'
+imageThumbnail: >-
+  https://ucarecdn.com/89010e77-296c-445b-9c08-bc655a480902/-/crop/1632x1828/0,0/-/preview/
 firstName: Karyn
 collection: Classic
 height: 165cm
