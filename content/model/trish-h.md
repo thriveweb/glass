@@ -4,9 +4,9 @@ title: Trish H
 featuredImage: >-
   https://ucarecdn.com/fc3c6dcf-077d-4bce-b159-c6aa67a6fa3c/-/crop/1632x654/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/3609940b-e0ea-42ba-af16-a3ccfb1c37d3/'
-firstName: Trish H
+firstName: Trish S
 collection: Global
-height: 156cm
+height: 154cm
 measurementType: bust
 bust: 97cm
 waist: 79cm
