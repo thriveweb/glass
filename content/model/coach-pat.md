@@ -1,16 +1,17 @@
 ---
 template: ModelPage
-title: Coach Pat
+title: Patrick Y
 featuredImage: >-
   https://ucarecdn.com/7e4206db-00aa-4766-ad1c-7756cdd395c8/-/crop/2420x1425/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/5ab22266-fe6a-48a4-b8fd-b23f2e0ccf6b/'
-firstName: Coach Pat
+firstName: Patrick Y
 collection: Classic
 height: 191cm
 measurementType: chest
 bust: 103cm
 waist: 91cm
 hips: 97cm
+size: 32 Inch Shirt L
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
