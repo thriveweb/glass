@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Zorana
-featuredImage: 'https://ucarecdn.com/362217c0-8c0c-4809-b8c9-16931fb91bb3/'
+featuredImage: 'https://ucarecdn.com/4aecc7e7-46f2-4146-84ff-173edccb5934/'
 imageThumbnail: 'https://ucarecdn.com/b74c470b-dc86-4fc9-b12a-3895221453dc/'
 firstName: Zorana
 collection: Girls
