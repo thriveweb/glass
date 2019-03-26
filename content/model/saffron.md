@@ -1,8 +1,8 @@
 ---
 template: ModelPage
 title: Saffron
-featuredImage: 'https://ucarecdn.com/117dbd13-6a4c-46c2-9b42-9f67edf41d42/'
-imageThumbnail: 'https://ucarecdn.com/19d18b8d-a0cf-41b1-85ce-0d5b24fdca00/'
+featuredImage: 'https://ucarecdn.com/4bf2a0df-632b-4cc1-a8de-c3ea0fd733c6/'
+imageThumbnail: 'https://ucarecdn.com/3b1684cd-6021-4154-96b3-c2530626f125/'
 firstName: Saffron
 collection: Girls
 height: 103cm
