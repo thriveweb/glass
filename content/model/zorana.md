@@ -2,7 +2,7 @@
 template: ModelPage
 title: Zorana
 featuredImage: 'https://ucarecdn.com/4aecc7e7-46f2-4146-84ff-173edccb5934/'
-imageThumbnail: 'https://ucarecdn.com/b74c470b-dc86-4fc9-b12a-3895221453dc/'
+imageThumbnail: 'https://ucarecdn.com/3c7c7ef1-65fa-425b-9e91-8339baa54d05/'
 firstName: Zorana
 collection: Girls
 height: 168.5cm
