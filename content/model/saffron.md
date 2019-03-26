@@ -5,7 +5,15 @@ featuredImage: 'https://ucarecdn.com/117dbd13-6a4c-46c2-9b42-9f67edf41d42/'
 imageThumbnail: 'https://ucarecdn.com/19d18b8d-a0cf-41b1-85ce-0d5b24fdca00/'
 firstName: Saffron
 collection: Girls
+height: 103cm
+measurementType: bust
+bust: 53cm
+waist: 53.5cm
+hips: 56cm
+size: 4-5 girls
+shoeSize: 7-9 girls
 hair: RED
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/5825c9ef-67b2-46c4-bc27-b69b12e2acd0/'
   - image: 'https://ucarecdn.com/a1028c33-0e63-4920-b650-02163fa09cd9/'
