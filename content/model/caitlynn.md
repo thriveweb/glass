@@ -2,7 +2,7 @@
 template: ModelPage
 title: Caitlynn
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/caitlynn-cover-2-2-.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/img_5829.jpg'
+imageThumbnail: 'https://ucarecdn.com/8b7393b7-5f1e-43b0-8be8-cb27a5c0cf3b/'
 firstName: Caitlynn
 collection: Women
 height: 166cm
@@ -24,5 +24,6 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_5597.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/cait-1-.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_5772.jpg'
+  - image: 'https://ucarecdn.com/ef50292d-3620-4cdb-a619-5736483b01e2/'
 ---
 
