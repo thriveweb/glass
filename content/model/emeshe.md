@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Emeshe
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/eme-banner.jpg'
+featuredImage: 'https://ucarecdn.com/d4bc95e6-74e3-4e91-af20-2e2823de4c16/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/emeshe-hs.jpg'
 firstName: Emeshe
 collection: Women
