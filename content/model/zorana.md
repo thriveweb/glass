@@ -16,12 +16,17 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/dac7b140-ec9a-4559-ab99-daeed7128555/'
+  - image: 'https://ucarecdn.com/1da43ebe-8313-4a6d-b622-185c866fea62/'
   - image: 'https://ucarecdn.com/6aed5227-ae07-4737-827d-da57f874d8a0/'
+  - image: 'https://ucarecdn.com/d70aaf82-4b93-4ea8-8350-38b98a877cee/'
+  - image: 'https://ucarecdn.com/1900f8f8-9455-475e-a06b-20d29b269ea1/'
+  - image: 'https://ucarecdn.com/947fb02b-1982-4933-ad0d-70f3b52cd277/'
   - image: 'https://ucarecdn.com/e55e93aa-cfdc-4675-9841-863f75dd5d1b/'
   - image: 'https://ucarecdn.com/98de03c3-0899-4917-84d1-4258fef55fce/'
   - image: 'https://ucarecdn.com/237f9e5e-f022-43d1-8961-b0826eb3971f/'
   - image: 'https://ucarecdn.com/ca054571-2477-4c3f-aa10-26db843ad108/'
   - image: 'https://ucarecdn.com/f38a91fc-a93d-46c8-89f1-ea2f70d072ca/'
+  - image: 'https://ucarecdn.com/b001dac4-0bb1-44b3-89b1-71474bfdce0f/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/zorana-4.jpg'
   - image: 'https://ucarecdn.com/de3988b2-f78b-470d-aef6-79dbeb023f90/'
   - image: 'https://ucarecdn.com/83814757-b39d-489e-bd9b-8bfafc133f80/'
