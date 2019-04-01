@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Harlow
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/harlow.jpg'
+featuredImage: 'https://ucarecdn.com/a7ccf834-2f20-4ba9-b462-18602f4b1b08/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/harlow-hs-1-.jpg'
 firstName: Harlow
 collection: Girls
@@ -33,17 +33,18 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl2.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/haerl4.jpg'
+  - image: 'https://ucarecdn.com/edac648a-b3a8-4bb3-86a6-6da442bed794/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow12.jpg'
+  - image: 'https://ucarecdn.com/2e2dfe29-5430-460e-89d1-58147a0d3529/'
   - image: 'https://ucarecdn.com/3b2d7482-e543-44fe-99f7-366e5d5ccdb8/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl18.jpg'
+  - image: 'https://ucarecdn.com/ea682fdd-b210-448f-bee6-d84faf0575ad/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl16.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl10.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-13.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl-17pg.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-hs.jpg'
-  - image: 'https://ucarecdn.com/500de6b6-40a8-427f-9995-6ed72e156a73/'
-  - image: 'https://ucarecdn.com/2e2dfe29-5430-460e-89d1-58147a0d3529/'
-  - image: 'https://ucarecdn.com/8a980beb-16de-43fe-9bc8-47aaef41daa1/'
+  - image: 'https://ucarecdn.com/c8c2ec8a-3548-4324-8a5a-a55f07a6b7b8/'
   - image: 'https://ucarecdn.com/bc01d9ae-4e2e-410c-a535-e628c6d7c8ee/'
 meta:
   title: Harlow
