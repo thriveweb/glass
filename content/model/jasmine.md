@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Jasmine C
+title: Jassie C
 featuredImage: 'https://ucarecdn.com/e45d509e-4761-4e5d-8f3f-82795365350c/'
 imageThumbnail: 'https://ucarecdn.com/01b0a392-915b-498e-8a3a-fff176d7ae9e/'
 firstName: Jasmine C
