@@ -2,7 +2,8 @@
 template: ModelPage
 title: Cindy
 featuredImage: 'https://ucarecdn.com/1e33baed-b67c-4bcd-b31d-6eaeeb9d37f1/'
-imageThumbnail: 'https://ucarecdn.com/ec9e1f7e-0c21-4c7f-8c70-487111dc78ab/'
+imageThumbnail: >-
+  https://ucarecdn.com/64ba990b-0523-45bf-9141-0019e9c19685/-/crop/796x598/384,838/-/preview/
 firstName: Cindy
 collection: Women
 height: 174cm
