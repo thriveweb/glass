@@ -7,7 +7,15 @@ imageThumbnail: >-
   https://ucarecdn.com/e0fda540-3c49-424b-84f2-1ea88561f097/-/crop/1719x2674/1451,369/-/preview/
 firstName: Emma B
 collection: Women
+height: 166cm
+measurementType: bust
+bust: 81cm
+waist: 78cm
+hips: 82cm
+size: '8'
+shoeSize: '8'
 hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/ffcfe410-3ab9-4638-b503-29aa78077040/'
   - image: 'https://ucarecdn.com/ae79888b-b15a-486a-acd9-79dbebc971ef/'
