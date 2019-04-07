@@ -3,8 +3,7 @@ template: ModelPage
 title: Will F
 featuredImage: >-
   https://ucarecdn.com/86d89709-009b-492c-9e6c-6790ed7634c8/-/crop/724x357/0,113/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/01aff335-83d8-450d-934f-63bc2102eeed/-/crop/476x471/137,29/-/preview/
+imageThumbnail: 'https://ucarecdn.com/e7676471-c734-430a-8088-503a7d951754/'
 firstName: Will F
 collection: Classic
 height: 170cm
@@ -23,6 +22,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/683a0be8-fcae-431a-b2cd-b4807136c48b/'
   - image: 'https://ucarecdn.com/1de48d59-2b5b-4252-b58f-abcd369dcf23/'
   - image: 'https://ucarecdn.com/e4c9176f-c8ae-48b0-b18a-58ae24f7f3b6/'
+  - image: 'https://ucarecdn.com/f49c732c-2c78-41e4-9dc4-497f8531cfca/'
+  - image: 'https://ucarecdn.com/b3327cbe-b4a3-4bb8-9b6e-4251bb455607/'
 meta:
   title: Will F
 ---
