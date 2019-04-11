@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Costa
-featuredImage: >-
-  https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+featuredImage: 'https://ucarecdn.com/a965a864-b117-4509-ae1a-b0416049749f/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/con-hs.jpg'
 firstName: Costa
 collection: Global
