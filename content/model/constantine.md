@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Constantine
+title: Costa
 featuredImage: >-
   https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/con-hs.jpg'
-firstName: Constantine
+firstName: Costa
 collection: Global
 height: 172cm
 measurementType: chest
