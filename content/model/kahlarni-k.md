@@ -21,6 +21,7 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/dbbf3af2-88c9-44e6-843a-ce56473d2e58/-/crop/1398x1359/173,91/-/preview/
   - image: 'https://ucarecdn.com/49f348e5-aba5-4c93-bb13-3b0cb7fb4ee7/'
+  - image: 'https://ucarecdn.com/d466fb57-face-4715-9f53-3a93f0955ccc/'
   - image: 'https://ucarecdn.com/f266c983-c5b1-45ae-925d-a51fee66096b/'
   - image: 'https://ucarecdn.com/67490357-df20-42f2-87cb-f08113d2c50b/'
   - image: 'https://ucarecdn.com/9fb2725c-8fa5-46fc-ba2d-f617e211e291/'
@@ -32,7 +33,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/55c2e620-c04e-4c0a-920e-937e45658421/'
   - image: 'https://ucarecdn.com/f05e6660-92c5-4560-a468-7bdcfb79087b/'
   - image: 'https://ucarecdn.com/ee33cf08-6b9d-4e74-9025-c7fdbbfa4b53/'
-  - {}
 meta:
   title: Kahlarni K
 ---
