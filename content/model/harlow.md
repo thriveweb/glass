@@ -18,6 +18,7 @@ imagePortfolio:
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/photo-29-10-18-3-47-17-am-1-.jpg
   - image: 'https://ucarecdn.com/ec3dbdb7-2df1-487e-9abf-3e1d4024c94c/'
+  - image: 'https://ucarecdn.com/467bc814-ced3-4e88-8ace-b96761d470fa/'
   - image: 'https://ucarecdn.com/fd93b421-9ba9-4ffc-837f-730e69a260d5/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl11.jpg'
@@ -40,12 +41,14 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/2e2dfe29-5430-460e-89d1-58147a0d3529/'
   - image: 'https://ucarecdn.com/3b2d7482-e543-44fe-99f7-366e5d5ccdb8/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl18.jpg'
+  - image: 'https://ucarecdn.com/0dedfe3c-0291-4e44-b96f-57bb282c2d87/'
   - image: 'https://ucarecdn.com/ea682fdd-b210-448f-bee6-d84faf0575ad/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl16.jpg'
   - image: 'https://ucarecdn.com/f891ecc8-d326-4694-ae59-cdd600562633/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl10.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-13.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl-17pg.jpg'
+  - image: 'https://ucarecdn.com/629bfb42-95ae-48d1-83f7-a1f79cf2fc04/'
   - image: 'https://ucarecdn.com/daf0cd1d-1ec8-4a1e-ab58-197303013596/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-hs.jpg'
   - image: 'https://ucarecdn.com/c8c2ec8a-3548-4324-8a5a-a55f07a6b7b8/'
