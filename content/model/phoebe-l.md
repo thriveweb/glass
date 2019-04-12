@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: 'Phoebe '
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/phoebe37798313banner.png'
+featuredImage: 'https://ucarecdn.com/cb6bb410-52f1-4f30-911e-9df416233393/'
 imageThumbnail: >-
   https://glassmanagement.imgix.net/images/uploads/phoebe3897732182317headshot.png
 firstName: 'Phoebe '
