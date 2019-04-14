@@ -2,7 +2,8 @@
 template: ModelPage
 title: Chelsea
 featuredImage: 'https://ucarecdn.com/0e8cc8fd-4ece-4e2a-8510-c1702872b72c/'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/chelseag98123.jpg'
+imageThumbnail: >-
+  https://ucarecdn.com/d5989e3c-d7ca-4981-834d-05ad881eec62/-/crop/2911x2920/464,1003/-/preview/
 firstName: Chelsea
 collection: Women
 height: 168cm
@@ -59,6 +60,12 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b4204584-e6e8-4c9d-9d36-7dc7dec8b8a8/'
   - image: 'https://ucarecdn.com/c96d7dd0-19ab-4e74-9a3a-3ebf9b5dce44/'
   - image: 'https://ucarecdn.com/aed70c80-7e6e-492d-abc4-4a449769015d/'
+  - image: 'https://ucarecdn.com/0e369177-9bf2-4f99-a44a-1244ac3dfac9/'
+  - image: 'https://ucarecdn.com/4438bbe2-142f-4e85-9ca9-840bf0e023c5/'
+  - image: 'https://ucarecdn.com/7f4beda9-628e-47e1-b9d6-2f46c227391f/'
+  - image: 'https://ucarecdn.com/5de5717f-11fd-44b6-9d72-f4198622c67a/'
+  - image: 'https://ucarecdn.com/832badde-c15c-425c-8fb5-322075a69945/'
+  - image: 'https://ucarecdn.com/fc8e68db-7b33-416c-82f9-592ba5230325/'
 meta:
   title: Chelsea
 ---
