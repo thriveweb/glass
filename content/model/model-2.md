@@ -3,7 +3,7 @@ template: ModelPage
 title: Amanda
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/amandabannery313.jpg'
 featuredVideo: 'https://ucarecdn.com/a6404a5a-23e5-41a0-b979-cd1bd806f9c4/'
-featuredVideoMobile: 'https://ucarecdn.com/a71aadb0-6e23-4e6e-bf25-492e11542f81/'
+featuredVideoMobile: ''
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-shadow-yes.jpg'
 firstName: Amanda
 collection: Women
