@@ -17,6 +17,8 @@ import SectionPartners from '../components/SectionPartners'
 export const HomePageTemplate = ({
   subTitle,
   featuredImage,
+  featuredVideo,
+  featuredVideoMobile,
   content,
   buttonText,
   buttonUrl,
@@ -43,6 +45,8 @@ export const HomePageTemplate = ({
         content={content}
         buttonText={buttonText}
         buttonUrl={buttonUrl}
+        featuredVideo={featuredVideo}
+        featuredVideoMobile={featuredVideoMobile}
       />
       <ImageGallery gallery={gallery} />
       <SectionAbout about={about} />
@@ -77,6 +81,8 @@ export const pageQuery = graphql`
       frontmatter {
         subTitle
         featuredImage
+        featuredVideo
+        featuredVideoMobile
         content
         buttonText
         buttonUrl

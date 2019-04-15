@@ -13,7 +13,6 @@ const Meta = props => {
     absoluteImageUrl,
     twitterSiteAccount,
     twitterCreatorAccount,
-    headerScripts,
     noindex,
     canonicalLink,
     googleTrackingId
@@ -23,7 +22,7 @@ const Meta = props => {
     ...onlyTruthyValues(_get(props, 'fields')),
     ...onlyTruthyValues(_get(props, 'fields.meta'))
   }
-  
+
   return (
     <Helmet>
       {title && <title>{title}</title>}

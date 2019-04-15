@@ -1,6 +1,4 @@
 import React from 'react'
-
-import { getImageSrc } from '../util/getImageUrl'
 import './Logo.css'
 
 export default ({ inverted }) => (

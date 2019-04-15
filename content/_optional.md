@@ -29,6 +29,8 @@ featuredPosts:
     - collection: Pink Ribbon Event
   subTitle: Our Journal
   title: Read Our Latest News
+featuredVideoMobile: ''
+featuredVideo: ''
 ---
 
 <!-- Use this to force Gatsby to correctly determine optional images/file schema -->

@@ -89,7 +89,7 @@ handleSubmit = e => {
 }
 
   render () {
-    const { name, subject, hidden, onFormSubmit } = this.props
+    const { name, subject, hidden } = this.props
     const { filesUploading } = this.state
 
     return (

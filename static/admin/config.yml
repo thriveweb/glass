@@ -27,6 +27,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "home-page"
         fields:
           - {label: Featured Image, name: featuredImage, widget: image, required: false}
+          - {label: Featured Video, name: featuredVideo, widget: file, required: false}
+          - {label: Featured Video Mobile, name: featuredVideoMobile, widget: file, required: false}
           - {label: Template, name: template, widget: hidden, default: 'HomePage'}
           - {label: Slug, name: slug, widget: hidden, default: '/'}
           - {label: Sub Title, name: subTitle, widget: string, required: false}
@@ -336,6 +338,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Template, name: template, widget: hidden, default: ModelPage}
       - {label: Title, name: title, widget: string}
       - {label: Featured Image, name: featuredImage, widget: image}
+      - {label: Featured Video, name: featuredVideo, widget: file, required: false}
+      - {label: Featured Video Mobile, name: featuredVideoMobile, widget: file, required: false}
       - {label: Image Thumbnail, name: imageThumbnail, widget: image}
       - {label: First Name, name: firstName, widget: string}
       - {label: Collection, name: collection, widget: relation, collection: 'model-types', searchFields: ['title'], valueField: 'title', required: false}

@@ -11,33 +11,36 @@ import SingleModel from '../components/SingleModel'
 
 export const ModelPageTemplate = ({
   featuredImage,
-    firstName,
-    height,
-    waist,
-    measurementType,
-    bust,
-    hips,
-    size,
-    shoeSize,
-    hair,
-    eyes,
-    imagePortfolio,
-    collection,
-    modelTypes,
-    meta
+  featuredVideo,
+  featuredVideoMobile,
+  firstName,
+  height,
+  waist,
+  measurementType,
+  bust,
+  hips,
+  size,
+  shoeSize,
+  hair,
+  eyes,
+  imagePortfolio,
+  collection,
+  modelTypes,
+  meta
 }) => {
 
   return (
     <main className='Model'>
-      <Helmet defaultTitle={meta && `Glass Management | ${_get(meta, 'title')}` || `Glass Management | ${firstName}`}>
+      <Helmet defaultTitle={meta ? `Glass Management | ${_get(meta, 'title')}` : `Glass Management | ${firstName}`}>
         {meta && <meta name="description" content={meta.description} />}
         {meta && <link rel="canonical" href={meta.canonicalLink} />}
         {meta && meta.noindex && <meta name="robots" content="noindex" />}
       </Helmet>
       <Banner
         image={featuredImage}
-        title={firstName}
-        subTitle={"Model's Profile"}
+        featuredVideo={featuredVideo}
+        featuredVideoMobile={featuredVideoMobile}
+        modelPage
       />
       <SingleModel
         firstName={firstName}
@@ -77,6 +80,8 @@ export const ModelPageQuery = graphql`
       frontmatter {
         firstName
         featuredImage
+        featuredVideo
+        featuredVideoMobile
         height
         waist
         measurementType

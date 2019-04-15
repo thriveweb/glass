@@ -1,7 +1,6 @@
 import React from 'react'
 import CMS from 'netlify-cms'
 import './cms-utils'
-import _get from 'lodash/get'
 
 import { HomePageTemplate } from '../templates/HomePage'
 import { AboutPageTemplate } from '../templates/AboutPage'

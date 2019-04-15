@@ -40,22 +40,22 @@ export default ({
         <p>Copyright 2018 Glass Management</p>
         <div className='footer--social-media'>
           {twitter && (
-            <a href={`${twitter}`} target="_blank">
+            <a href={`${twitter}`} target="_blank" rel="noopener noreferrer">
               <ICONTwitter />
             </a>
           )}
           {facebook && (
-            <a href={`${facebook}`} target="_blank">
+            <a href={`${facebook}`} target="_blank" rel="noopener noreferrer">
               <ICONFacebook />
             </a>
           )}
           {linkedin && (
-            <a href={`${linkedin}`} target="_blank">
+            <a href={`${linkedin}`} target="_blank" rel="noopener noreferrer">
               <ICONLinkedin />
             </a>
           )}
           {instagram && (
-            <a href={`${instagram}`} target="_blank">
+            <a href={`${instagram}`} target="_blank" rel="noopener noreferrer">
               <ICONInstagram />
             </a>
           )}

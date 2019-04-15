@@ -11,5 +11,5 @@ export default ({ title, content, active, handlePopup }) =>
 			{ title && <h3>{title}</h3> }
 			<p className='title'>Service Provided</p>
 			{ content && <Content source={content} /> }
-		</div>	
+		</div>
 	</div>
