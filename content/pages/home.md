@@ -1,6 +1,6 @@
 ---
 featuredImage: 'https://ucarecdn.com/51329f30-b59c-47c0-93a6-e830874dca6f/'
-featuredVideo: 'https://ucarecdn.com/03e38262-2f2a-47b9-8956-babd784de91b/'
+featuredVideo: ''
 featuredVideoMobile: ''
 template: HomePage
 slug: ''
