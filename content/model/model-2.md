@@ -2,7 +2,7 @@
 template: ModelPage
 title: Amanda
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/amandabannery313.jpg'
-featuredVideo: 'https://ucarecdn.com/a6404a5a-23e5-41a0-b979-cd1bd806f9c4/'
+featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-shadow-yes.jpg'
 firstName: Amanda
