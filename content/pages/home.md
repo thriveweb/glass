@@ -1,7 +1,7 @@
 ---
 featuredImage: 'https://ucarecdn.com/51329f30-b59c-47c0-93a6-e830874dca6f/'
 featuredVideo: 'https://ucarecdn.com/03e38262-2f2a-47b9-8956-babd784de91b/'
-featuredVideoMobile: 'https://ucarecdn.com/b22c85d2-9c7b-4ba0-9eec-935fd34a7c4d/'
+featuredVideoMobile: ''
 template: HomePage
 slug: ''
 subTitle: Welcome To
