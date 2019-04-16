@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/9607305b-189d-4bb0-bae6-33a4973776ca/'
 imageThumbnail: >-
   https://ucarecdn.com/fa6958c6-f0a5-4d19-aea1-1d9372e220a4/-/crop/1632x1386/0,0/-/preview/
 firstName: Amanda W
-collection: Women
+collection: Classic
 imagePortfolio:
   - image: 'https://ucarecdn.com/fa3817cb-df8a-4f85-9c8d-aae577683b3f/'
   - image: 'https://ucarecdn.com/7f337042-1db6-42af-be42-4793c067422f/'
