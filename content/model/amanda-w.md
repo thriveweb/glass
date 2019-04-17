@@ -2,14 +2,22 @@
 template: ModelPage
 title: Amanda W
 featuredImage: 'https://ucarecdn.com/9607305b-189d-4bb0-bae6-33a4973776ca/'
-imageThumbnail: >-
-  https://ucarecdn.com/fa6958c6-f0a5-4d19-aea1-1d9372e220a4/-/crop/1632x1386/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/14ac629e-74bb-4970-8486-a2dcdaecc678/'
 firstName: Amanda W
 collection: Classic
+height: 170cm
+measurementType: bust
+size: '16'
+shoeSize: '9'
+hair: Light Brown
+eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/fa3817cb-df8a-4f85-9c8d-aae577683b3f/'
+  - image: 'https://ucarecdn.com/e13961bd-93fd-4f95-8d73-9e3b89103569/'
+  - image: 'https://ucarecdn.com/dbcd7ea3-ce32-41a6-a91e-bdc7ec6c5ccb/'
+  - image: 'https://ucarecdn.com/fb800d88-82eb-48ac-99a2-e899db0d8bc3/'
   - image: 'https://ucarecdn.com/7f337042-1db6-42af-be42-4793c067422f/'
   - image: 'https://ucarecdn.com/ce6e3e2e-8df3-491b-a8c3-a8e028da17de/'
+  - image: 'https://ucarecdn.com/2a93d6c7-5718-4727-a959-e527ecf06acc/'
   - image: 'https://ucarecdn.com/e7c1cf42-84d0-4dd8-9a28-4def24297e3c/'
   - image: 'https://ucarecdn.com/09d2c63d-47a7-4d3b-9788-463903b80bb0/'
   - image: 'https://ucarecdn.com/2621d517-5f13-43fa-a9d1-f8d36b3d6756/'
@@ -20,6 +28,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/82dea06d-5ac6-4f2c-8f5f-ea8f77a617cc/'
   - image: 'https://ucarecdn.com/41c1cd7b-1815-44f2-8b90-73c85ead1217/'
   - image: 'https://ucarecdn.com/4f07cde9-898d-4857-802f-4e146c6e5c44/'
+  - image: 'https://ucarecdn.com/a15cadcd-ff4d-4ca9-bf79-24803f338a26/'
 meta:
   title: Amanda W
 ---
