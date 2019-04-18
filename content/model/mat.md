@@ -2,7 +2,7 @@
 template: ModelPage
 title: Mat
 featuredImage: >-
-  https://ucarecdn.com/bf2758ac-a49b-4e7f-ae17-8ef4c6a9ff6e/-/crop/1077x841/0,55/-/preview/
+  https://ucarecdn.com/bf2758ac-a49b-4e7f-ae17-8ef4c6a9ff6e/-/crop/1080x391/0,55/-/preview/
 imageThumbnail: 'https://ucarecdn.com/ad9a8a75-eced-45a2-8019-5fded679246b/'
 firstName: Mat
 collection: Classic
