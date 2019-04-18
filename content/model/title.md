@@ -3,7 +3,7 @@ template: ModelPage
 title: Chelsea
 featuredImage: 'https://ucarecdn.com/0e8cc8fd-4ece-4e2a-8510-c1702872b72c/'
 featuredVideo: 'https://ucarecdn.com/53d61ab6-45dc-433d-bf1e-cda5bf454109/'
-featuredVideoMobile: 'https://ucarecdn.com/0f57eeae-67dc-41fe-9830-980ed25cc71d/'
+featuredVideoMobile: 'https://ucarecdn.com/67ea32d0-7895-4e86-9cb9-dd49becdace2/'
 imageThumbnail: >-
   https://ucarecdn.com/d5989e3c-d7ca-4981-834d-05ad881eec62/-/crop/2911x2920/464,1003/-/preview/
 firstName: Chelsea
