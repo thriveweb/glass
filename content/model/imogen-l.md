@@ -2,6 +2,8 @@
 template: ModelPage
 title: 'Imogen '
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/imogenl098349834banner_.png'
+featuredVideo: 'https://ucarecdn.com/ae004f96-b19b-417c-9385-8c0de864bf29/'
+featuredVideoMobile: 'https://ucarecdn.com/a007b65e-b444-4a0c-900f-1600cdd11687/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/imogenl2309-87373.jpg'
 firstName: 'Imogen '
 collection: Girls
