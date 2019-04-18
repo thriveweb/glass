@@ -1,7 +1,9 @@
 ---
 template: ModelPage
 title: Harlow
-featuredImage: 'https://ucarecdn.com/a7ccf834-2f20-4ba9-b462-18602f4b1b08/'
+featuredImage: 'https://ucarecdn.com/a29f1e35-f033-4a45-a933-2f1b78c10266/'
+featuredVideo: 'https://ucarecdn.com/2e34186e-4b9c-44a6-b86a-5f6d1abd2a19/'
+featuredVideoMobile: 'https://ucarecdn.com/d10b6607-9231-41a5-82a8-05cbb62b3f2a/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/harlow-hs-1-.jpg'
 firstName: Harlow
 collection: Girls
