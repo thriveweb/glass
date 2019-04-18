@@ -2,8 +2,8 @@
 template: ModelPage
 title: 'Maya '
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/maya-banner.jpg'
-featuredVideo: 'https://ucarecdn.com/cbb746f5-33eb-4715-a724-0e5e2a5bb3d2/'
-featuredVideoMobile: 'https://ucarecdn.com/2b760de8-d11a-4564-b4c5-a78cb4266dc1/'
+featuredVideo: 'https://ucarecdn.com/e25153b2-bc03-4b45-9168-a54958f56f20/'
+featuredVideoMobile: 'https://ucarecdn.com/7bb18863-77fa-49d8-b240-3f80dc84cbcf/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/maya-hs.jpg'
 firstName: Maya A
 collection: Girls
