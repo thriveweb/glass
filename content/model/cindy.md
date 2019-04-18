@@ -2,6 +2,8 @@
 template: ModelPage
 title: Cindy
 featuredImage: 'https://ucarecdn.com/1e33baed-b67c-4bcd-b31d-6eaeeb9d37f1/'
+featuredVideo: 'https://ucarecdn.com/4bcf8b34-0a59-4115-9e0a-5cdad9bb4760/'
+featuredVideoMobile: 'https://ucarecdn.com/efd8359c-cedd-46b6-b542-a764f9561f2c/'
 imageThumbnail: >-
   https://ucarecdn.com/64ba990b-0523-45bf-9141-0019e9c19685/-/crop/796x598/384,838/-/preview/
 firstName: Cindy
