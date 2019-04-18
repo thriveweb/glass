@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: GG Sophia
-featuredImage: 'https://ucarecdn.com/ff4ff27c-6e65-4e76-97ce-9e06271560e3/'
+featuredImage: >-
+  https://ucarecdn.com/ff4ff27c-6e65-4e76-97ce-9e06271560e3/-/crop/1989x1375/0,197/-/preview/
 imageThumbnail: 'https://ucarecdn.com/1bfc2752-208d-4bea-abec-40272a928250/'
 firstName: GG Sophia
 collection: Girls
