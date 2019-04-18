@@ -1,8 +1,11 @@
 ---
 template: ModelPage
 title: 'Hannah '
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/han-banner.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/han-dad.jpg'
+featuredImage: 'https://ucarecdn.com/199a8042-6d0a-4ebc-a011-a72d0c5efbdd/'
+featuredVideo: >-
+  https://ucarecdn.com/e2ac0b8c-e37a-4ace-a31a-3da7ba465919/-/crop/1471x1809/325,14/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/4620cd1c-6559-4e61-9450-f5c7c91572fa/-/crop/1633x1576/219,57/-/preview/
 firstName: Hannah W
 collection: Global
 height: 181cm
