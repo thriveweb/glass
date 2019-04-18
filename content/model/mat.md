@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/ad9a8a75-eced-45a2-8019-5fded679246b/'
 firstName: Mat
 collection: Classic
-height: 182cm
+height: 183cm
 measurementType: chest
 hips: Pant 32
 size: Shirt M/L
