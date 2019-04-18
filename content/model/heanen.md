@@ -2,6 +2,8 @@
 template: ModelPage
 title: Heanen
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/hean-1.jpg'
+featuredVideo: 'https://ucarecdn.com/d7e95b62-1e25-4123-811c-b18b8d1460b7/'
+featuredVideoMobile: 'https://ucarecdn.com/ce97d1fc-3546-42f8-aeda-884be9938632/'
 imageThumbnail: >-
   https://ucarecdn.com/370f589a-4a91-42ab-a51e-36f614c337e1/-/crop/720x771/137,92/-/preview/
 firstName: Heanen
