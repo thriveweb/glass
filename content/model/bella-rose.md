@@ -2,6 +2,8 @@
 template: ModelPage
 title: Bella Rose
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/brose1.jpg'
+featuredVideo: 'https://ucarecdn.com/842e3987-129b-424e-a1d4-a342d3abb517/'
+featuredVideoMobile: 'https://ucarecdn.com/945a2a26-99a3-46ea-8bff-c32353f67ead/'
 imageThumbnail: 'https://ucarecdn.com/f8a0dc63-f7e7-493f-94e1-d0aaa90ad224/'
 firstName: Bella Rose
 collection: Girls
