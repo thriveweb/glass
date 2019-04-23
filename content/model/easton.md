@@ -16,8 +16,8 @@ hair: Blonde
 eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/easton-6.jpg'
-  - image: 'https://ucarecdn.com/234ca1fa-49ca-4cea-8858-d20947076a09/'
   - image: 'https://ucarecdn.com/3e920650-da5a-417d-b70a-3b6e3f0efca4/'
+  - image: 'https://ucarecdn.com/234ca1fa-49ca-4cea-8858-d20947076a09/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/easton-7.jpg'
   - image: 'https://ucarecdn.com/931659f1-d02b-4fa2-9465-df0972e0f552/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/easton-9.jpg'
