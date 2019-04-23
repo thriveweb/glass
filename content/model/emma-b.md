@@ -54,6 +54,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/09f429d5-2c20-4bd2-97a9-41dd17e8673e/'
   - image: 'https://ucarecdn.com/9a62640e-4e3a-4bed-81b2-d8ae71ff9c2d/'
   - image: 'https://ucarecdn.com/c21707de-237c-4701-93cb-a0040f976f59/'
+  - image: 'https://ucarecdn.com/709e1f53-e671-4c40-8bd0-633bb1bbf6ad/'
+  - image: 'https://ucarecdn.com/31f48231-015c-40cb-9128-406656725a1e/'
+  - image: 'https://ucarecdn.com/954b27fe-148c-4035-bada-e78acfe6587e/'
 meta:
   title: Emma B
 ---
