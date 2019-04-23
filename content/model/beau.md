@@ -32,7 +32,10 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/beaudenelg-9.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/beaudenelg-21.jpg'
   - image: 'https://ucarecdn.com/06d4a241-2376-4125-94de-f04effe9b0f4/'
-  - {}
+  - image: 'https://ucarecdn.com/b2bcda23-6913-42b0-bbe7-a90d8f84e78e/'
+  - image: 'https://ucarecdn.com/0654be4d-da22-4458-994b-43df914ab7f5/'
+  - image: 'https://ucarecdn.com/ad283182-051c-4040-91f6-a215a3ee383d/'
+  - image: 'https://ucarecdn.com/47ddb877-4c44-4c44-be97-cc60d3eacb75/'
 meta:
   title: Beau
 ---
