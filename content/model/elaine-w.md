@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Elaine W
-featuredImage: 'https://ucarecdn.com/d5b6f30f-074a-4b7e-987f-f8f84d2bc3da/'
+featuredImage: 'https://ucarecdn.com/9a097125-1e5d-4307-853b-7b93371cf264/'
 featuredVideo: ''
 imageThumbnail: 'https://ucarecdn.com/a7be15a7-fe83-44d3-817b-581b2b62ae31/'
 firstName: Elaine
