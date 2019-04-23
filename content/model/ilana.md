@@ -6,7 +6,13 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/531041ca-c0db-46ff-bbc6-daf9719bfd3d/'
 firstName: Ilana
 collection: Women
+height: 164cm
 measurementType: bust
+bust: 89cm
+waist: 69cm
+hips: 93cm
+size: 8-10
+shoeSize: '7'
 hair: Blonde
 eyes: Green
 imagePortfolio:
