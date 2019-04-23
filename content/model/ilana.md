@@ -3,7 +3,8 @@ template: ModelPage
 title: Ilana
 featuredImage: >-
   https://ucarecdn.com/3680aedb-7c8e-4603-9f11-c26890d0a4a9/-/crop/2529x959/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/531041ca-c0db-46ff-bbc6-daf9719bfd3d/'
+imageThumbnail: >-
+  https://ucarecdn.com/531041ca-c0db-46ff-bbc6-daf9719bfd3d/-/crop/1377x1851/88,63/-/preview/
 firstName: Ilana
 collection: Women
 height: 164cm
