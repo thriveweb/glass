@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Harlow
-featuredImage: 'https://ucarecdn.com/a29f1e35-f033-4a45-a933-2f1b78c10266/'
+featuredImage: 'https://ucarecdn.com/166ea4ef-226b-4227-8268-917601174172/'
 featuredVideo: 'https://ucarecdn.com/2e34186e-4b9c-44a6-b86a-5f6d1abd2a19/'
 featuredVideoMobile: 'https://ucarecdn.com/d10b6607-9231-41a5-82a8-05cbb62b3f2a/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/harlow-hs-1-.jpg'
@@ -17,8 +17,11 @@ shoeSize: 1-2
 hair: Golden Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/8823ce80-b986-4921-b11e-898450bb7e38/'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/photo-29-10-18-3-47-17-am-1-.jpg
+  - image: 'https://ucarecdn.com/81487518-39c7-4b3b-b7fa-f830d8759fcb/'
+  - image: 'https://ucarecdn.com/ca02c45e-518a-4fc9-a343-d96255c605c9/'
   - image: 'https://ucarecdn.com/ec3dbdb7-2df1-487e-9abf-3e1d4024c94c/'
   - image: 'https://ucarecdn.com/467bc814-ced3-4e88-8ace-b96761d470fa/'
   - image: 'https://ucarecdn.com/fd93b421-9ba9-4ffc-837f-730e69a260d5/'
@@ -56,6 +59,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c8c2ec8a-3548-4324-8a5a-a55f07a6b7b8/'
   - image: 'https://ucarecdn.com/bc01d9ae-4e2e-410c-a535-e628c6d7c8ee/'
   - image: 'https://ucarecdn.com/ef31a798-12fc-423a-9079-8f94fee51fab/'
+  - image: 'https://ucarecdn.com/101537a7-5f08-4de8-b8ee-b30f14def8a9/'
+  - image: 'https://ucarecdn.com/959e3ddb-1bf8-4852-b59a-0c71cdcd58f8/'
+  - image: 'https://ucarecdn.com/7e601258-f586-4826-8108-cc5e6f43b532/'
+  - image: 'https://ucarecdn.com/138c1828-c7f3-4e4a-acd4-1b7daeb422f7/'
 meta:
   title: Harlow
 ---
