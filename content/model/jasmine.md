@@ -16,6 +16,8 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/34d0083c-624d-44c1-af00-0c4be4d05596/'
+  - image: >-
+      https://ucarecdn.com/acd4b322-8588-42de-90a1-49a717608aa5/-/crop/1424x2131/208,159/-/preview/
   - image: 'https://glassmanagement.imgix.net/images/uploads/jamine3g.jpg'
   - image: 'https://ucarecdn.com/5ff90a7b-7e80-4e45-bc6b-d94bf28242ba/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jasminec-1.jpg'
