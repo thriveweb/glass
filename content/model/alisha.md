@@ -17,6 +17,7 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/alisha-higgins-35.jpg'
+  - image: 'https://ucarecdn.com/68643b64-5003-4e48-a30a-988f906e5b46/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/higgins-family.jpg'
 meta:
   title: Alisha
