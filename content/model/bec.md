@@ -16,6 +16,7 @@ hair: Brunette
 eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/unnamed-2.jpg'
+  - image: 'https://ucarecdn.com/5938bc39-da37-45a0-a18c-d9eba229b05f/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/bec-2.webp'
   - image: 'https://glassmanagement.imgix.net/images/uploads/bec-4.webp'
   - image: 'https://glassmanagement.imgix.net/images/uploads/bec.webp'
