@@ -2,8 +2,7 @@
 template: ModelPage
 title: Sophie Ava
 featuredImage: 'https://ucarecdn.com/fbebe571-73de-472c-aa23-54b83b7677ea/'
-imageThumbnail: >-
-  https://ucarecdn.com/0c0dac9a-87b8-49da-b876-9aa08a1cd662/-/crop/1315x1238/565,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/e35c566e-9e74-437f-9c5a-62f146adb18f/'
 firstName: Sophie Ava
 collection: Girls
 height: 107cm
