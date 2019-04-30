@@ -31,6 +31,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/ecd906a5-4836-4a6a-8751-f2fccba18972/'
   - image: 'https://ucarecdn.com/ce46caf2-5a3e-4e74-9d3e-e1b77244a73c/'
   - image: 'https://ucarecdn.com/b3f91cba-ff4e-4c06-9f10-bae22dcd7142/'
+  - image: 'https://ucarecdn.com/9d651929-5cf2-4265-affa-f2c20e6adc87/'
 meta:
   title: Sophie Ava
 ---
