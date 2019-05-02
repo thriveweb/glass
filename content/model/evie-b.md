@@ -3,7 +3,8 @@ template: ModelPage
 title: 'Evie '
 featuredImage: >-
   https://ucarecdn.com/3a79fe17-e603-4322-be0a-c68be3b14c4a/-/crop/1629x837/0,507/-/preview/
-imageThumbnail: 'https://ucarecdn.com/7d15a1ca-9e7d-4817-a1b2-3abb5d8d0297/'
+imageThumbnail: >-
+  https://ucarecdn.com/9b609e7c-5324-4779-9526-0970ede8e854/-/crop/681x886/405,242/-/preview/
 firstName: Evie B
 collection: Women
 height: 166cm
