@@ -1,11 +1,12 @@
 ---
-title: Karli
 template: ModelPage
-featuredImage: https://glassmanagement.imgix.net/images/uploads/karli.png
-imageThumbnail: https://glassmanagement.imgix.net/images/uploads/karli-10.png
+title: Karli
+featuredImage: 'https://glassmanagement.imgix.net/images/uploads/karli.png'
+imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/karli-10.png'
 firstName: Karli
-collection: Women
+collection: Global
 height: 175cm
+measurementType: bust
 bust: 88cm
 waist: 76cm
 hips: 96cm
@@ -14,14 +15,14 @@ shoeSize: '10'
 hair: Blonde/Brown
 eyes: Hazel
 imagePortfolio:
-  - image: https://glassmanagement.imgix.net/images/uploads/karli-3.png
-  - image: https://glassmanagement.imgix.net/images/uploads/karli-1.png
-  - image: https://glassmanagement.imgix.net/images/uploads/karli-7.png
-  - image: https://glassmanagement.imgix.net/images/uploads/karli-8.png
-  - image: https://glassmanagement.imgix.net/images/uploads/karli.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/karli-9.png
-  - image: https://glassmanagement.imgix.net/images/uploads/karli-5.png
-  - image: https://glassmanagement.imgix.net/images/uploads/karli-4.png
-  - image: https://glassmanagement.imgix.net/images/uploads/karli.png
+  - image: 'https://glassmanagement.imgix.net/images/uploads/karli-3.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/karli-1.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/karli-7.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/karli-8.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/karli.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/karli-9.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/karli-5.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/karli-4.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/karli.png'
 ---
 
