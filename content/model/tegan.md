@@ -2,7 +2,7 @@
 template: ModelPage
 title: Tegan
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/img_0580.jpg'
-imageThumbnail: 'https://ucarecdn.com/f6e3408f-f8aa-4a6c-8990-73c43f3e4f4a/'
+imageThumbnail: 'https://ucarecdn.com/53ed0a0c-ed43-4979-b23e-d51ae8146daf/'
 firstName: Tegan
 collection: Classic
 height: 168cm
