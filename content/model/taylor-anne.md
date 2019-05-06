@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Taylor Anne
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/ta3.jpg'
+featuredImage: 'https://ucarecdn.com/2f800daa-e68c-4f72-b1a4-4599c9c40d4c/'
 featuredVideo: 'https://ucarecdn.com/6237073b-01b4-4556-939a-85c562c67d70/'
 featuredVideoMobile: 'https://ucarecdn.com/69441c28-a860-45e8-899c-06fa2a395d55/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/taylor-anne.jpg'
@@ -18,21 +18,20 @@ hair: Red
 eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/ta2.jpg'
+  - image: 'https://ucarecdn.com/862aaa15-b337-4655-b949-812247087b65/'
   - image: 'https://ucarecdn.com/4b6f5f68-c999-436d-b4ca-e3a555f0d866/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay3.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/anne-4.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/anne-1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/anne-2.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/anne-3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay2.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/ta10.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/page083.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ta5.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/page081.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay1.jpg'
   - image: 'https://ucarecdn.com/66962e2d-4c24-4202-844c-27d8c6be979f/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ta4.jpg'
+  - image: 'https://ucarecdn.com/a498dc6a-4791-45dd-b810-c634d763e218/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ta7.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ta8.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ta9.jpg'
@@ -55,5 +54,9 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay-6.jpg'
   - image: 'https://ucarecdn.com/78a117fb-18f6-4add-a96e-1a4919d54640/'
   - image: 'https://ucarecdn.com/2acb4735-a67c-4025-8ad6-0eacc26252f8/'
+  - image: 'https://ucarecdn.com/dbe7d3b6-1d6e-456d-b5ef-a3734f024591/'
+  - image: 'https://ucarecdn.com/a804d786-f52d-40da-b921-d3e9862d4093/'
+  - image: 'https://ucarecdn.com/0c2639a6-e71d-453e-b18c-11a1641de525/'
+  - image: 'https://ucarecdn.com/808fa615-83bb-414c-8447-da7efa0059d5/'
 ---
 
