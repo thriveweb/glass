@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Alisha
-featuredImage: >-
-  https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+featuredImage: 'https://ucarecdn.com/21c8dd88-683e-45e9-a000-d0e5600aa75f/'
 imageThumbnail: 'https://ucarecdn.com/8b0f43fa-f99c-4ca4-913e-7a849fcd4d7e/'
 firstName: Alisha H
 collection: Classic
