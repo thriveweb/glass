@@ -18,6 +18,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/4064358e-47bd-4747-8686-3682d2675f6b/'
   - image: 'https://ucarecdn.com/be6a0d9f-f781-402f-a1ac-5c48f5eabf4a/'
+  - image: 'https://ucarecdn.com/62479a4a-d66f-422d-84c3-2622987e6f06/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/carys-higgins-14.jpg'
   - image: 'https://ucarecdn.com/3362f9cf-103e-4799-85e3-3af60a4a15dd/'
   - image: 'https://ucarecdn.com/4bb49f88-6a6e-4017-a3e3-5604e8d9c8d8/'
