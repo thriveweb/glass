@@ -14,7 +14,6 @@ shoeSize: '7.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/146afb65-01f8-4344-ad33-a50cc15b517d/'
   - image: 'https://ucarecdn.com/e4019b9e-9bde-4d87-9a22-1bc3c919cb1d/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0577.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tegan.jpg'
@@ -27,7 +26,6 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0576.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0573.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0578.jpg'
-  - image: 'https://ucarecdn.com/04828acf-f13f-45f4-ba4e-16bd028a09f6/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0574.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tegan4.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tegan2.jpg'
