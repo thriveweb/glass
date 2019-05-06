@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Kora
-featuredImage: 'https://ucarecdn.com/8b4ac08f-2e49-4c9b-8285-f770bcd810cb/'
+featuredImage: 'https://ucarecdn.com/ff16f1aa-d396-49c4-8cd2-7fdcda30bc6c/'
 imageThumbnail: 'https://ucarecdn.com/a2909bed-c2c4-4079-97d1-6fd88e28ae39/'
 firstName: Kora
 collection: Girls
