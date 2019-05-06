@@ -4,7 +4,7 @@ title: Kora
 featuredImage: 'https://ucarecdn.com/8b4ac08f-2e49-4c9b-8285-f770bcd810cb/'
 imageThumbnail: 'https://ucarecdn.com/a2909bed-c2c4-4079-97d1-6fd88e28ae39/'
 firstName: Kora
-collection: Global
+collection: Girls
 height: 106cm
 measurementType: bust
 bust: 22inch
