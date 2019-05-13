@@ -2,11 +2,11 @@
 template: ModelPage
 title: Annie
 featuredImage: 'https://ucarecdn.com/c594eb01-427a-477e-bfa3-38701fa1ae2a/'
-featuredVideo: 'https://ucarecdn.com/7452efc2-ac3c-4956-9184-9f692481c21a/'
-featuredVideoMobile: 'https://ucarecdn.com/c0021c98-3f5f-4771-968f-55de42f9b110/'
+featuredVideo: 'https://ucarecdn.com/c8cef8bc-5999-4b88-a3ca-06f3e7b1788b/'
+featuredVideoMobile: 'https://ucarecdn.com/c7c24375-73c2-4af8-b7c7-f41b68edbbbd/'
 imageThumbnail: 'https://ucarecdn.com/c9a3ad27-2032-46ef-a00e-9c05f0370628/'
 firstName: Annie
-collection: Women
+collection: Global
 height: 171cm
 measurementType: bust
 bust: 86cm
