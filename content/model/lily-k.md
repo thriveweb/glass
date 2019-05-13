@@ -9,7 +9,10 @@ firstName: Lily K
 collection: Women
 imagePortfolio:
   - image: 'https://ucarecdn.com/b781aa45-dd2b-4664-8c23-2e972ba674d6/'
+  - image: 'https://ucarecdn.com/b6892d01-b4e7-44ff-a6cb-06e63c1af33d/'
   - image: 'https://ucarecdn.com/d2bcee9b-916b-4ac4-ae38-2bc4cc4ad210/'
+  - image: >-
+      https://ucarecdn.com/b70a6fbc-f8cb-43b6-8f0b-e13dfcb50160/-/crop/521x616/0,18/-/preview/
   - image: 'https://ucarecdn.com/7e4d64ce-7841-4000-92bd-952ab1ca9c35/'
   - image: 'https://ucarecdn.com/883d53b5-635f-45ee-88fd-d1548e13a40e/'
 meta:
