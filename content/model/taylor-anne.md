@@ -19,6 +19,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/ta2.jpg'
   - image: 'https://ucarecdn.com/862aaa15-b337-4655-b949-812247087b65/'
+  - image: 'https://ucarecdn.com/13e9c337-b783-433a-9179-05c45e1d5e97/'
   - image: 'https://ucarecdn.com/4b6f5f68-c999-436d-b4ca-e3a555f0d866/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/anne-2.jpg'
