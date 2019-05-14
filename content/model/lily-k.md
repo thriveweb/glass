@@ -11,9 +11,9 @@ bust: 81cm
 waist: 66cm
 hips: 91cm
 size: '8'
-shoeSize: '8'
+shoeSize: 9/10
 hair: Brown
-eyes: Green
+eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/04700cd0-f986-4c78-b09f-5a1f58335116/'
   - image: 'https://ucarecdn.com/b6892d01-b4e7-44ff-a6cb-06e63c1af33d/'
