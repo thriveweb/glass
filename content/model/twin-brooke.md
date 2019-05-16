@@ -1,8 +1,10 @@
 ---
 template: ModelPage
 title: Twin Brooke
-featuredImage: 'https://ucarecdn.com/14702126-2ee4-4f67-9eeb-5b272ad70767/'
-imageThumbnail: 'https://ucarecdn.com/eb2446a7-993a-4793-ae2a-974d26ad5c39/'
+featuredImage: >-
+  https://ucarecdn.com/14702126-2ee4-4f67-9eeb-5b272ad70767/-/crop/1000x341/0,42/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/eb2446a7-993a-4793-ae2a-974d26ad5c39/-/crop/733x1021/818,0/-/preview/
 firstName: Brooke
 collection: Women
 measurementType: bust
