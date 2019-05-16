@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Suzie
+title: Susie
 featuredImage: 'https://ucarecdn.com/bfbfad16-9d81-4089-9e08-9c08afe20193/'
 imageThumbnail: 'https://ucarecdn.com/45a07010-dfd7-4a99-ac8d-16092418db91/'
 firstName: Susie
