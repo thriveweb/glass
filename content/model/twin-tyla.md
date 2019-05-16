@@ -1,8 +1,10 @@
 ---
 template: ModelPage
 title: Twin Tyla
-featuredImage: 'https://ucarecdn.com/0eb60aec-c706-4d00-ac70-f63c870f2f7b/'
-imageThumbnail: 'https://ucarecdn.com/45a256e8-26f0-43ff-baa8-942072c24453/'
+featuredImage: >-
+  https://ucarecdn.com/0eb60aec-c706-4d00-ac70-f63c870f2f7b/-/crop/1000x428/0,0/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/45a256e8-26f0-43ff-baa8-942072c24453/-/crop/1312x1783/137,0/-/preview/
 firstName: Tyla
 collection: Women
 measurementType: bust
