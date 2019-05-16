@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Kyah
+title: Kyah Lani
 featuredImage: >-
   https://ucarecdn.com/c207466f-d04a-4dc5-9d65-72ef1d83bfb8/-/crop/1230x1177/0,208/-/preview/
 imageThumbnail: 'https://ucarecdn.com/db8a5341-0262-48d4-ace7-c7b114c8b535/'
-firstName: Kyah
+firstName: Kyah Lani
 collection: Girls
 height: 166cm
 measurementType: bust
