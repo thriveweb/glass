@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/f3405519-dd55-4a13-ab71-7dcce1ed3e5d/'
 featuredVideo: ''
 imageThumbnail: 'https://ucarecdn.com/b2ceba4f-206d-43db-9a8c-6c5775f89dfa/'
 firstName: Jean Luc
-collection: Global
+collection: Classic
 height: 165cm
 measurementType: chest
 bust: 89cm
