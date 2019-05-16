@@ -6,6 +6,15 @@ featuredVideo: 'https://ucarecdn.com/5d1be9fb-9067-4f6e-b2cf-b96e4b3dc53f/'
 imageThumbnail: 'https://ucarecdn.com/e757acb1-b20b-4ea5-997e-b6baa2b397ae/'
 firstName: Chris
 collection: Classic
+height: 178cm
+measurementType: chest
+bust: 103cm
+waist: 92cm
+hips: 99cm
+size: Pant 32 Shoe 10
+shoeSize: '10'
+hair: Brown
+eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/c9c0817c-4a05-446e-a6d7-0c76bbc4577a/'
   - image: 'https://ucarecdn.com/b479949f-48d9-4acf-97dc-ed54a1a5dbac/'
