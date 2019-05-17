@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: ' F Annie'
+title: ' KK Annie'
 featuredImage: 'https://ucarecdn.com/c594eb01-427a-477e-bfa3-38701fa1ae2a/'
 featuredVideo: 'https://ucarecdn.com/c8cef8bc-5999-4b88-a3ca-06f3e7b1788b/'
 featuredVideoMobile: 'https://ucarecdn.com/c7c24375-73c2-4af8-b7c7-f41b68edbbbd/'
