@@ -9,7 +9,7 @@ firstName: Brooke
 collection: Women
 measurementType: bust
 imagePortfolio:
-  - image: 'https://ucarecdn.com/702c7061-da3b-4a8a-a733-cc1c3acca8da/'
+  - image: 'https://ucarecdn.com/523901e0-4bd0-4e98-9323-634275307107/'
   - image: 'https://ucarecdn.com/da102544-d986-43e6-bbcc-21e508a849b7/'
   - image: 'https://ucarecdn.com/f1be1cfa-0a94-4db4-8f4a-521199d94946/'
   - image: 'https://ucarecdn.com/2631311d-7ae2-4e7b-a972-2f85798e147b/'
