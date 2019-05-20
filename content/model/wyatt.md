@@ -3,6 +3,8 @@ template: ModelPage
 title: Wyatt
 featuredImage: >-
   https://ucarecdn.com/248d5f2a-43f8-4c92-b2d9-0b397f0d4f6a/-/crop/1633x613/0,573/-/preview/
+featuredVideo: 'https://ucarecdn.com/448a8317-e386-4c09-b5a6-f822c87fa3fe/'
+featuredVideoMobile: 'https://ucarecdn.com/c33db135-e711-43a0-b0e6-e825a134f4ae/'
 imageThumbnail: 'https://ucarecdn.com/d4dce63c-e6f5-4a2c-824b-d20eb3cf70d1/'
 firstName: Wyatt
 collection: Boys
