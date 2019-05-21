@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/c6cfa7a5-f5ce-42e1-8acd-6b28ac2d6624/'
 imageThumbnail: 'https://ucarecdn.com/bb3f8347-ec00-4408-a67d-89cfa6789200/'
 firstName: Dakota
 collection: Girls
-height: 138cm
+height: 140cm
 measurementType: bust
 bust: 62cm
 waist: 60cm
