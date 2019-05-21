@@ -5,7 +5,7 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/sharika-1.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/laila237289.jpg'
 firstName: Laila
 collection: Girls
-height: 132cm
+height: 140cm
 measurementType: bust
 bust: 63cm
 waist: 51cm
