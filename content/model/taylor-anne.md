@@ -18,6 +18,7 @@ hair: Red
 eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/ta2.jpg'
+  - image: 'https://ucarecdn.com/4df8cdc6-fe9a-45de-9990-d679c7acfe24/'
   - image: 'https://ucarecdn.com/862aaa15-b337-4655-b949-812247087b65/'
   - image: 'https://ucarecdn.com/13e9c337-b783-433a-9179-05c45e1d5e97/'
   - image: 'https://ucarecdn.com/4b6f5f68-c999-436d-b4ca-e3a555f0d866/'
@@ -51,6 +52,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c0d592ee-3cd3-4d3a-a20f-29b22c7bbcaf/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tata-3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay8.jpg'
+  - image: 'https://ucarecdn.com/99ee67ed-da6f-422f-8d77-304f41c45115/'
   - image: 'https://ucarecdn.com/dbe7d3b6-1d6e-456d-b5ef-a3734f024591/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay-4.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay-8.jpg'
