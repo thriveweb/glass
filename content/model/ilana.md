@@ -3,7 +3,7 @@ template: ModelPage
 title: Ilana
 featuredImage: >-
   https://ucarecdn.com/3680aedb-7c8e-4603-9f11-c26890d0a4a9/-/crop/2529x959/0,0/-/preview/
-featuredVideo: 'https://ucarecdn.com/e4658c1e-2fb4-4641-b18c-96777b6258d7/'
+featuredVideo: 'https://ucarecdn.com/bcfec724-66af-4c69-9ba1-4e7f23227555/'
 featuredVideoMobile: 'https://ucarecdn.com/cdb0534c-ddea-4588-9de2-ce34369e83d1/'
 imageThumbnail: >-
   https://ucarecdn.com/531041ca-c0db-46ff-bbc6-daf9719bfd3d/-/crop/1377x1851/88,63/-/preview/
