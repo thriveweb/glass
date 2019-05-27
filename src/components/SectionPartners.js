@@ -14,7 +14,6 @@ export default ({ partners = [] }) => (
                 src={`${partner.image}`}
                 alt='logo'
                 imageSize={100}
-                sizes='100px'
               />
             )}
           </div>
