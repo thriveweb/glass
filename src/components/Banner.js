@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react'
+import React, { Component } from 'react'
 import './Banner.css'
 
 import { slugify } from '../util/url'

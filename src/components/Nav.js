@@ -76,9 +76,6 @@ class Nav extends Component {
               <li className="mobile-only">
                 <Link to="/">Home</Link>
               </li>
-              <li>
-                <Link to="/about">About</Link>
-              </li>
               <li
                 onClick={this.onMenuItemClick}
                 className={`menu-item-has-children ${
@@ -109,6 +106,9 @@ class Nav extends Component {
                       )
                     })}
                 </ul>
+              </li>
+              <li>
+                <Link to="/about">About</Link>
               </li>
               <li>
                 <Link to="/blog">Blog</Link>
