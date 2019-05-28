@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/4dbca9bf-d31e-403f-b3e4-4560f68a737d/'
 imageThumbnail: >-
   https://ucarecdn.com/c456b3b1-5767-4099-a3f3-a66e8a9081d7/-/crop/884x1150/401,0/-/preview/
 firstName: Nicole
-collection: Women
+collection: Classic
 height: 176cm
 measurementType: bust
 bust: 34inch
