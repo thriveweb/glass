@@ -1,53 +1,34 @@
 ---
 template: ModelPage
 title: Nicole
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/nicole37625481.jpg'
+featuredImage: 'https://ucarecdn.com/4dbca9bf-d31e-403f-b3e4-4560f68a737d/'
 imageThumbnail: >-
-  https://ucarecdn.com/e4300c1a-eb4c-4139-ade8-92a61a02b3bf/-/crop/287x428/78,5/-/preview/
+  https://ucarecdn.com/c456b3b1-5767-4099-a3f3-a66e8a9081d7/-/crop/884x1150/401,0/-/preview/
 firstName: Nicole
 collection: Women
-height: 183cm
+height: 176cm
 measurementType: bust
-bust: 81cm
-waist: 68cm
-hips: 92cm
-size: 6-8
-shoeSize: 9.5-10
+bust: 34inch
+waist: 26inch
+hips: 36inch
+size: 8-10
+shoeSize: '9'
 hair: Blonde
-eyes: Blue
+eyes: Green/Hazel
 imagePortfolio:
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole3289120.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole8974283.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole32789.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole63127890.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole32849023.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole9823478.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole04928793.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole32678.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole18329.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole9837284.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole3287.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole37625481.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole13287.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole671328.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole32947861538294.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole16782.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole42876432.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole237489.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole2783490.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole892364239.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole32748.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole342897863.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole4958022384.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole328746.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole2384672.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole238497.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole237488.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole328749.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole924837.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nicole328479.jpg'
-  - image: 'https://ucarecdn.com/7ee4ac8e-e302-4355-af1d-f0f9059ec2d2/'
-meta:
-  title: Nicole
+  - image: 'https://ucarecdn.com/2d9f5d44-5bac-45ff-88a0-6424cf611914/'
+  - image: 'https://ucarecdn.com/81a42821-11f5-46cf-8c82-f844cd83ffee/'
+  - image: 'https://ucarecdn.com/2d0ef0ec-758c-4d15-91b6-09d676a48fbb/'
+  - image: 'https://ucarecdn.com/98745fb8-2db1-4d0e-a2d0-56a1577482fd/'
+  - image: 'https://ucarecdn.com/35b4f8dc-41d6-48d9-a918-97206c9bb4b2/'
+  - image: 'https://ucarecdn.com/681a8e65-67a7-4844-86fb-9c925c702c1e/'
+  - image: 'https://ucarecdn.com/16f13752-4798-4d15-a696-6e217ad3f39f/'
+  - image: 'https://ucarecdn.com/ca3e9975-c4f3-4304-bceb-dfe145758832/'
+  - image: 'https://ucarecdn.com/f706990d-aa83-4263-9199-6c853089db76/'
+  - image: 'https://ucarecdn.com/d31c4fba-56a4-4e68-815f-d0d0bcd9ac57/'
+  - image: 'https://ucarecdn.com/b35fe71d-9c4a-480f-90d0-091a500f3394/'
+  - image: 'https://ucarecdn.com/1a9ba06e-6e4b-4cc0-8ae0-dfac8780a9d9/'
+  - image: 'https://ucarecdn.com/02290b2f-8b49-4a39-a666-ba9d6c5fc65d/'
+meta: {}
 ---
 
