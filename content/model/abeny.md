@@ -2,7 +2,7 @@
 template: ModelPage
 title: Abeny
 featuredImage: 'https://ucarecdn.com/d0e18595-e2fb-4ddf-a156-41a84b8a23e8/'
-imageThumbnail: 'https://ucarecdn.com/bc5a47c1-ffec-446c-bf24-ea6dc0f93f10/'
+imageThumbnail: 'https://ucarecdn.com/20bd5245-2b66-4062-86fd-2b03c7b24c09/'
 firstName: Abeny
 collection: Women
 height: 178cm
@@ -25,6 +25,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b00bc1fd-0df6-4666-a50a-49c835f7c1ca/'
   - image: 'https://ucarecdn.com/1c7269db-5c36-4a40-9c9a-15a3308b8dc0/'
   - image: 'https://ucarecdn.com/e21dcf59-f979-46f7-85b4-49f73525a1e8/'
+  - image: 'https://ucarecdn.com/51cbae2a-9ced-4c04-b4a5-39242555387f/'
 meta: {}
 ---
 
