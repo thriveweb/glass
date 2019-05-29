@@ -33,7 +33,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaredm432673.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaredm4847.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaredm342773824.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/jaredm674832.jpg'
+  - image: 'https://ucarecdn.com/fd76871a-8522-46fc-a16e-b15cfbd7c7bc/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaredm348972.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaredm74829.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaredm247839.jpg'
