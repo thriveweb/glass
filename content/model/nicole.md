@@ -9,9 +9,9 @@ firstName: Nicole
 collection: Classic
 height: 176cm
 measurementType: bust
-bust: 34inch
-waist: 26inch
-hips: 36inch
+bust: 86cm
+waist: 66cm
+hips: 91cm
 size: 8-10
 shoeSize: '9'
 hair: Blonde
