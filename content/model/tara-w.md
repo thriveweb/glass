@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Tara '
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/tara-banner.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/tara-.png'
+imageThumbnail: 'https://ucarecdn.com/b3c1c1e9-4896-463b-a5de-4982d016f903/'
 firstName: 'Tara '
 collection: Classic
 height: 172cm
