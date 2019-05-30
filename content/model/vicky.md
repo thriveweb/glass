@@ -4,7 +4,7 @@ title: Vicky
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/vicki-3.jpeg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/vicki-1.jpg'
 firstName: Vicky
-collection: Classic
+collection: Global
 height: 166cm
 measurementType: bust
 bust: 86cm
