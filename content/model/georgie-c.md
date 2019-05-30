@@ -41,6 +41,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/df74620b-cc33-422b-8956-c0503d54382e/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/gc-2.jpg'
   - image: 'https://ucarecdn.com/1b59d51f-a78a-4ff6-9b2a-0004be93129f/'
+  - image: 'https://ucarecdn.com/17c6316d-d3d2-49da-bbb6-c5647200476d/'
+  - image: 'https://ucarecdn.com/122f5187-363f-42b8-9273-9287bb085bfc/'
 meta:
   title: Georgie C
 ---
