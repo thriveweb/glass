@@ -4,7 +4,7 @@ title: Narelle
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/bradley-78.jpg'
 imageThumbnail: 'https://ucarecdn.com/c303a3e7-80f2-49bf-9e0b-f4e9e6c29d67/'
 firstName: Narelle
-collection: Classic
+collection: Global
 height: 162cm
 measurementType: bust
 bust: 103cm
