@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/86d89709-009b-492c-9e6c-6790ed7634c8/-/crop/724x357/0,113/-/preview/
 imageThumbnail: 'https://ucarecdn.com/e7676471-c734-430a-8088-503a7d951754/'
 firstName: Will F
-collection: Classic
+collection: Global
 height: 170cm
 measurementType: chest
 bust: 100cm
