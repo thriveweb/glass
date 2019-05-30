@@ -3,9 +3,9 @@ template: ModelPage
 title: Jessie
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/jessie73682banner.png'
 imageThumbnail: >-
-  https://ucarecdn.com/7dd092d0-a418-45ae-90d7-05b846ca7d39/-/crop/876x1217/2359,1607/-/preview/
+  https://ucarecdn.com/2ffd0dfe-3c3d-4d57-833c-731af107984f/-/crop/788x1094/411,156/-/preview/
 firstName: Jessie
-collection: Women
+collection: Girls
 height: 170cm
 measurementType: bust
 bust: 84cm
