@@ -4,7 +4,7 @@ title: Patti
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/patti-6.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/patti.jpg'
 firstName: Patti
-collection: Classic
+collection: Global
 height: 157cm
 measurementType: bust
 bust: 87cm
