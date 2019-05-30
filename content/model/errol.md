@@ -1,10 +1,10 @@
 ---
-title: Errol
 template: ModelPage
-featuredImage: https://glassmanagement.imgix.net/images/uploads/errol.jpg
-imageThumbnail: https://glassmanagement.imgix.net/images/uploads/errol-2.jpg
+title: Errol
+featuredImage: 'https://glassmanagement.imgix.net/images/uploads/errol.jpg'
+imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/errol-2.jpg'
 firstName: Errol
-collection: Classic
+collection: Global
 height: 190cm
 measurementType: chest
 bust: 115cm
@@ -15,8 +15,8 @@ shoeSize: 12-13
 hair: Silver Fox
 eyes: Brown
 imagePortfolio:
-  - image: https://glassmanagement.imgix.net/images/uploads/errol-2.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/errol1pg.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/errol3pg.jpg
+  - image: 'https://glassmanagement.imgix.net/images/uploads/errol-2.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/errol1pg.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/errol3pg.jpg'
 ---
 
