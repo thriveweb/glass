@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/64bd0ad2-369e-4dce-a429-1c6adbcb7d2e/'
 imageThumbnail: >-
   https://ucarecdn.com/71f1f9ba-ea39-4404-b3ae-58f38d693b28/-/crop/1051x1412/298,0/-/preview/
 firstName: Ellyse
-collection: Women
+collection: Global
 height: 177cm
 measurementType: bust
 bust: 91cm
