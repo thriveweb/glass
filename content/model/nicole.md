@@ -2,7 +2,7 @@
 template: ModelPage
 title: Nicole
 featuredImage: >-
-  https://ucarecdn.com/4dbca9bf-d31e-403f-b3e4-4560f68a737d/-/crop/1600x650/0,0/-/preview/
+  https://ucarecdn.com/ca09e868-9253-40c5-bc94-99ec9f65a54d/-/crop/2449x953/0,76/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/c456b3b1-5767-4099-a3f3-a66e8a9081d7/-/crop/884x1150/401,0/-/preview/
 firstName: Nicole
