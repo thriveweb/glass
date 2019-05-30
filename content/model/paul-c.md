@@ -4,7 +4,7 @@ title: 'Paul '
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/paul-.jpg'
 imageThumbnail: 'https://ucarecdn.com/3388bb11-9e1e-40b8-9bbc-76c06a6a105a/'
 firstName: 'Paul '
-collection: Classic
+collection: Global
 height: 185cm
 measurementType: chest
 bust: 109cm
