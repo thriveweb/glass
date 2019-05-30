@@ -4,7 +4,7 @@ title: 'Jeremy '
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/jerm-banner-1-.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/jerm-2.jpg'
 firstName: 'Jeremy '
-collection: Classic
+collection: Global
 height: 177cm
 measurementType: chest
 bust: 101cm
