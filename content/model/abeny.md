@@ -2,6 +2,8 @@
 template: ModelPage
 title: Abeny
 featuredImage: 'https://ucarecdn.com/d0e18595-e2fb-4ddf-a156-41a84b8a23e8/'
+featuredVideo: 'https://ucarecdn.com/a771a847-191b-4276-8fa0-f52414a0a5a3/'
+featuredVideoMobile: 'https://ucarecdn.com/f89018a6-11b7-4892-bfbc-a10ebba82fe9/'
 imageThumbnail: 'https://ucarecdn.com/20bd5245-2b66-4062-86fd-2b03c7b24c09/'
 firstName: Abeny
 collection: Women
