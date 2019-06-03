@@ -2,6 +2,8 @@
 template: ModelPage
 title: Saffron
 featuredImage: 'https://ucarecdn.com/d9bacf58-0375-4b45-a0dc-f74473683021/'
+featuredVideo: 'https://ucarecdn.com/2424610e-5161-4678-b885-9997bac9ec73/'
+featuredVideoMobile: 'https://ucarecdn.com/9f8bc6aa-3fc4-49c7-9a0d-db55c16a834e/'
 imageThumbnail: 'https://ucarecdn.com/3b1684cd-6021-4154-96b3-c2530626f125/'
 firstName: Saffron
 collection: Girls
