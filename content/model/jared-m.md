@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: 'Jared '
-featuredImage: 'https://ucarecdn.com/0c752f2d-df25-4c24-bb52-7338e9c3db19/'
+featuredImage: >-
+  https://ucarecdn.com/0c752f2d-df25-4c24-bb52-7338e9c3db19/-/crop/2429x1347/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/c7ec12fe-d3e1-4de8-8f00-a73df598af6c/-/crop/1582x1856/0,0/-/preview/
 firstName: 'Jared '
