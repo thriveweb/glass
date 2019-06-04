@@ -7,9 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/14ac9516-cd5e-421e-89d1-784337eeb7e3/-/crop/3744x4147/0,0/-/preview/
 firstName: Talia
 collection: Classic
-height: 178cm
+height: 177cm
 measurementType: bust
+bust: 84cm
+waist: 71cm
+hips: 95cm
 size: '8'
+shoeSize: '9'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
@@ -22,6 +26,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/bbb9b2de-b0c3-41fd-8f4e-3a353cd71c77/'
   - image: 'https://ucarecdn.com/92097ed8-cbd2-471b-b2b7-2f33aa8cf37b/'
   - image: 'https://ucarecdn.com/0ccf7275-388b-4682-aa46-38c0dc666dff/'
+  - image: 'https://ucarecdn.com/69af477f-ee1e-4486-957b-06f8b7cec0f6/'
+  - image: 'https://ucarecdn.com/1dd08e82-cf85-4cab-b068-044a124f58c5/'
 meta: {}
 ---
 
