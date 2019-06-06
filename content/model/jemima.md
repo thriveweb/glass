@@ -38,6 +38,12 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/f6e87588-a350-4205-b9c2-123da783a066/'
   - image: 'https://ucarecdn.com/cc713743-6753-46dd-bc9d-b3c5f261e49d/'
   - image: 'https://ucarecdn.com/0423d01d-c10b-4210-9026-4d56f89073c9/'
+  - image: 'https://ucarecdn.com/b736a43b-c824-4c8b-ae47-f8186260db75/'
+  - image: 'https://ucarecdn.com/cd42db83-d87d-48d3-8dca-33628a779e55/'
+  - image: 'https://ucarecdn.com/aede5087-7e7d-4d7c-8917-4e5353c466ef/'
+  - image: 'https://ucarecdn.com/c4fc4581-e5d3-4111-89b8-69f5af8cb913/'
+  - image: 'https://ucarecdn.com/174c82ac-c7cf-479f-9a7a-cd66f8e83af3/'
+  - image: 'https://ucarecdn.com/01d345e5-a7b7-4522-ad24-54a54d601294/'
 meta:
   title: Jemima
 ---
