@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Mikaela
-featuredImage: 'https://ucarecdn.com/47801207-8b00-4764-88b6-147c3ff596d3/'
+featuredImage: >-
+  https://ucarecdn.com/47801207-8b00-4764-88b6-147c3ff596d3/-/crop/1080x1105/0,0/-/preview/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/mik11.jpg'
 firstName: Mikaela
 collection: Women
