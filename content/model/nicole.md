@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Nicole
+title: Nicole P
 featuredImage: >-
   https://ucarecdn.com/ca09e868-9253-40c5-bc94-99ec9f65a54d/-/crop/2449x953/0,76/-/preview/
 imageThumbnail: >-
