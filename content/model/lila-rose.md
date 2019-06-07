@@ -17,8 +17,6 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/2c98a505-3251-455d-810a-d994fe0c0f51/'
   - image: 'https://ucarecdn.com/b50fac47-8496-49b1-9ffe-0b41f32de0fb/'
-  - image: 'https://ucarecdn.com/481f3fd0-d596-4d6d-b8b1-01ad19e0f401/'
-  - image: 'https://ucarecdn.com/ff8ec4d8-ad44-4335-b6ac-8f5845f0d3e4/'
   - image: 'https://ucarecdn.com/2051fe22-34e1-4a23-9156-4e3e4208d1dc/'
   - image: 'https://ucarecdn.com/45a999d8-6240-42b7-9efb-52db8f3c13d3/'
   - image: 'https://ucarecdn.com/4288a886-308d-438d-b0d7-b23710d75636/'
@@ -32,12 +30,12 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/23e6d996-bc5c-4253-aaa3-8dc643ad385d/'
   - image: 'https://ucarecdn.com/b255d6a7-20e5-465e-b541-ce3165be8ed7/'
   - image: 'https://ucarecdn.com/2bf8c853-a867-4771-a9a8-d736d9d16da2/'
-  - image: 'https://ucarecdn.com/af1e5459-1238-47db-b2bc-bbb7128549dc/'
-  - image: 'https://ucarecdn.com/6c8b3785-87aa-4b7b-a249-4898ac553b9f/'
-  - image: 'https://ucarecdn.com/3fdba854-df59-4490-9696-c91cb49a4d37/'
-  - image: 'https://ucarecdn.com/c186d496-3c54-4d3b-89c1-2a702d4ebeda/'
-  - image: 'https://ucarecdn.com/742fea13-7dee-4737-ab1e-d3dd878cdac6/'
   - image: 'https://ucarecdn.com/98a15c08-65a6-4bb3-9b61-5f459b742086/'
+  - image: 'https://ucarecdn.com/af1e5459-1238-47db-b2bc-bbb7128549dc/'
+  - image: 'https://ucarecdn.com/3fdba854-df59-4490-9696-c91cb49a4d37/'
+  - image: 'https://ucarecdn.com/6c8b3785-87aa-4b7b-a249-4898ac553b9f/'
+  - image: 'https://ucarecdn.com/742fea13-7dee-4737-ab1e-d3dd878cdac6/'
+  - image: 'https://ucarecdn.com/c186d496-3c54-4d3b-89c1-2a702d4ebeda/'
 meta:
   title: Lila Rose
 ---
