@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Debbie
-featuredImage: 'https://ucarecdn.com/9c1a009c-ae3b-47fa-87e9-c68b82d18560/'
+featuredImage: >-
+  https://ucarecdn.com/9c1a009c-ae3b-47fa-87e9-c68b82d18560/-/crop/2082x1126/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/6a70dc63-3d94-4e07-a816-6a0455f5fcfa/-/crop/2216x2912/1256,0/-/preview/
 firstName: Debbie
