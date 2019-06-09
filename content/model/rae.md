@@ -17,5 +17,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/rae4.webp'
   - image: 'https://glassmanagement.imgix.net/images/uploads/rae-.jpg'
   - image: 'https://ucarecdn.com/4c656ce3-6d26-4c2b-b759-046236fe14fa/'
+  - image: 'https://ucarecdn.com/c8ae7c31-cb66-46fd-8bda-a8883f53f93f/'
+  - image: 'https://ucarecdn.com/aa89d859-f1e7-4b8e-b902-f38129a4caa0/'
 ---
 
