@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jules
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/boys1.jpg'
-imageThumbnail: 'https://ucarecdn.com/4a7b9c56-7e2c-4e89-809b-72478390a5bc/'
+imageThumbnail: 'https://ucarecdn.com/5ed723dd-a7fc-4065-8f67-ed43fa0e77c9/'
 firstName: Jules
 collection: Boys
 height: 128cm
@@ -14,10 +14,10 @@ shoeSize: '4'
 hair: 'Blonde '
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/1605e41c-3f3f-4af5-862a-d6aac2069eef/'
   - image: 'https://ucarecdn.com/73854b8b-3ab3-4f4b-b3a4-9388bffaa304/'
+  - image: 'https://ucarecdn.com/1605e41c-3f3f-4af5-862a-d6aac2069eef/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jules-glass-2.jpg'
-  - image: 'https://ucarecdn.com/9c8f2104-aad7-4c84-97f4-3f8037fd36b1/'
+  - image: 'https://ucarecdn.com/deda9055-fc35-4faa-bfd6-8c978ffbc2cb/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/2817028_8595970.jpg'
   - image: 'https://ucarecdn.com/cee67ca6-cfdb-4502-9575-c5bcdef1e836/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jules.jpg'
