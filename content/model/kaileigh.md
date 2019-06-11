@@ -4,7 +4,7 @@ title: Kaileigh
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/image12.jpeg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/amn_5298.jpg'
 firstName: Kaileigh
-collection: Global
+collection: Women
 height: 181cm
 measurementType: bust
 bust: 81cm
