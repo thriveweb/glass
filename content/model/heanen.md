@@ -8,13 +8,13 @@ imageThumbnail: >-
   https://ucarecdn.com/370f589a-4a91-42ab-a51e-36f614c337e1/-/crop/720x771/137,92/-/preview/
 firstName: Heanen
 collection: Boys
-height: 127cm
+height: 131cm
 measurementType: chest
-bust: 66cm
-waist: 58cm
-hips: 63cm
-size: 7-8
-shoeSize: 2 US
+bust: 67cm
+waist: 60cm
+hips: 64cm
+size: 8-9
+shoeSize: 3 US
 hair: Brown
 eyes: Blue
 imagePortfolio:
