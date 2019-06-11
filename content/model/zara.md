@@ -15,11 +15,11 @@ shoeSize: '4'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/9254f9b5-82bb-42b7-98d0-d849ae9cea61/'
   - image: 'https://ucarecdn.com/d5d96a1c-9fc5-4fab-9f55-6c8dae705a1f/'
   - image: 'https://ucarecdn.com/da89af54-030e-4d7d-a286-5d21e64e625e/'
-  - image: 'https://ucarecdn.com/0386cf25-7e2c-4d78-8840-acc72ece6f80/'
+  - image: 'https://ucarecdn.com/9254f9b5-82bb-42b7-98d0-d849ae9cea61/'
   - image: 'https://ucarecdn.com/ebf9f02b-750b-49e6-9996-7d3d25bcb3e8/'
+  - image: 'https://ucarecdn.com/0386cf25-7e2c-4d78-8840-acc72ece6f80/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/zara.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/zara5.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/zara4.jpg'
