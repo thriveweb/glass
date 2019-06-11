@@ -2,8 +2,7 @@
 template: ModelPage
 title: Zara
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/zara5-banner.jpg'
-imageThumbnail: >-
-  https://ucarecdn.com/52581d78-3d6c-447d-9ba2-81dd7d838cb6/-/crop/357x359/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/b6742e87-385f-4bae-8b0d-b1a0aa96fce6/'
 firstName: Zara
 collection: Girls
 height: 150cm
@@ -29,7 +28,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/zara7.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/zara2.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/zara1.jpeg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/zara36q7283456.jpg'
+  - image: 'https://ucarecdn.com/4c0d7aee-d799-4124-a686-e3713e885f2c/'
 meta:
   title: Zara
 ---
