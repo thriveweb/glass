@@ -5,6 +5,15 @@ featuredImage: 'https://ucarecdn.com/d5d0adc3-d5f8-4003-a1cb-369588a6db1c/'
 imageThumbnail: 'https://ucarecdn.com/6158e7e1-ac3d-43a3-87f0-48cbe1d1f519/'
 firstName: Anna M
 collection: Classic
+height: 177cm
+measurementType: bust
+bust: 91cm
+waist: 79cm
+hips: 99cm
+size: 10-12
+shoeSize: '39'
+hair: Blonde
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/2611825b-d505-4821-8b7a-142ced9db23e/'
   - image: 'https://ucarecdn.com/3e0ada82-6714-4d0f-bf2d-38ef2975729e/'
