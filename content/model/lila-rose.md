@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/b54ce0c5-2c33-4c63-8434-9a0bd05e70fe/'
 imageThumbnail: >-
   https://ucarecdn.com/5f42e115-5031-4c81-8c3d-0bba0740a91a/-/crop/1770x1299/366,0/-/preview/
 firstName: Lila Rose
-collection: Global
+collection: Girls
 height: 149cm
 measurementType: bust
 bust: 71cm
