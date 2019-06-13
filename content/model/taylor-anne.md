@@ -18,7 +18,9 @@ hair: Red
 eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/ta2.jpg'
+  - image: 'https://ucarecdn.com/da3308e7-556a-4c89-9478-919a455c8fea/'
   - image: 'https://ucarecdn.com/4df8cdc6-fe9a-45de-9990-d679c7acfe24/'
+  - image: 'https://ucarecdn.com/f3506364-76e0-4070-96db-c01fcf36e7a3/'
   - image: 'https://ucarecdn.com/862aaa15-b337-4655-b949-812247087b65/'
   - image: 'https://ucarecdn.com/13e9c337-b783-433a-9179-05c45e1d5e97/'
   - image: 'https://ucarecdn.com/4b6f5f68-c999-436d-b4ca-e3a555f0d866/'
