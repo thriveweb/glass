@@ -43,6 +43,9 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/pipeline05text.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/pipeline06text.jpg'
   - image: 'https://ucarecdn.com/e8ea8e0b-268d-4087-b588-59d78b6383be/'
+  - image: 'https://ucarecdn.com/3b00f0c8-e153-4788-bf1e-360c86aa8f0d/'
+  - image: 'https://ucarecdn.com/ee8ec51b-6117-44eb-8d3e-48eccc61c423/'
+  - image: 'https://ucarecdn.com/75164f85-e0e1-4cf4-8c42-b9141e2dc65a/'
 meta:
   title: Heanen
 ---
