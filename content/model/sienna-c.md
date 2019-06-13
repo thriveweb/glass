@@ -3,7 +3,7 @@ template: ModelPage
 title: Sienna C
 featuredImage: 'https://ucarecdn.com/a3f192ea-da74-4860-a262-c4154c2387e0/'
 imageThumbnail: 'https://ucarecdn.com/1281ffea-5d13-44a8-9dca-3d3d9a229136/'
-firstName: Sienna
+firstName: Sienna C
 collection: Girls
 height: 161cm
 measurementType: bust
