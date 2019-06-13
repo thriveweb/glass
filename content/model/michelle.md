@@ -4,8 +4,9 @@ title: Michelle
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/a19i4399_preview.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/unnamed-57.jpg'
 firstName: Michelle
-collection: Global
+collection: Classic
 height: 168cm
+measurementType: bust
 size: '10'
 shoeSize: '8'
 hair: Brown
