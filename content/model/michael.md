@@ -4,7 +4,7 @@ title: Michael
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/michaelbanner28347.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/mich7.jpg'
 firstName: Michael
-collection: Global
+collection: Classic
 height: 173cm
 measurementType: chest
 waist: 34cm
