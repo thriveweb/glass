@@ -2,9 +2,10 @@
 template: ModelPage
 title: Jeff D
 featuredImage: 'https://ucarecdn.com/15e1d319-c620-4694-bfb1-874932e80ca3/'
-imageThumbnail: 'https://ucarecdn.com/377985eb-7129-497e-8864-e444a6a1bc7c/'
+imageThumbnail: >-
+  https://ucarecdn.com/b6d28e39-1433-4c40-be60-6368ac675a64/-/crop/346x411/296,0/-/preview/
 firstName: Jeff D
-collection: Global
+collection: Boys
 height: 157cm
 measurementType: chest
 bust: 71cm
