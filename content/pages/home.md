@@ -83,6 +83,10 @@ testimonials:
       logo: 'https://glassmanagement.imgix.net/images/uploads/lexus.jpeg'
       name: ' CEO John Conomos'
       title: 'Lexus Australia '
+    - content: 'Glad to hear the talent enjoyed themselves, they were truly great!'
+      logo: 'https://ucarecdn.com/15695dd1-2155-41a9-b46f-11ebf46f4c80/'
+      name: Greta Waters The-Sensory
+      title: The Sensory
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
