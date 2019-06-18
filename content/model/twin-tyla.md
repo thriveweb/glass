@@ -7,7 +7,15 @@ imageThumbnail: >-
   https://ucarecdn.com/45a256e8-26f0-43ff-baa8-942072c24453/-/crop/1312x1783/137,0/-/preview/
 firstName: Tyla
 collection: Women
+height: 167cm
 measurementType: bust
+bust: 82cm
+waist: 64cm
+hips: 76cm
+size: 6-8
+shoeSize: '7'
+hair: 'Blonde '
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/9bcd2841-86be-4b53-8ef5-01c9c079aa6d/'
   - image: 'https://ucarecdn.com/ad1083d4-136c-46e9-b188-c79052d65344/'
