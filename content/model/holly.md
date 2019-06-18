@@ -3,7 +3,7 @@ template: ModelPage
 title: Holly
 featuredImage: 'https://ucarecdn.com/62319b51-5b9b-4c8f-8066-e133357f0d35/'
 imageThumbnail: >-
-  https://ucarecdn.com/359fae93-654e-4012-9bff-164c8766863f/-/crop/604x817/122,142/-/preview/
+  https://ucarecdn.com/10b205c3-0deb-4662-9c73-ab8c59720f30/-/crop/697x757/88,0/-/preview/
 firstName: Holly
 collection: Women
 height: 175cm
@@ -26,6 +26,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/f7d285f4-9ec9-469a-9365-fbfe68707781/'
   - image: 'https://ucarecdn.com/505904b8-e323-46e9-8c29-ad50d83160ca/'
   - image: 'https://ucarecdn.com/a114c420-e09e-473d-8a8d-8d8bd2513495/'
+  - image: 'https://ucarecdn.com/54cf0658-1e66-4d51-b4d9-644e0b7c273c/'
 meta: {}
 ---
 
