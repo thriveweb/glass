@@ -15,6 +15,7 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/201710284370crop.jpg'
+  - image: 'https://ucarecdn.com/f806b2ce-90da-4786-803d-f2424c688987/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/201710284189crop.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/201710284370bw.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ciara1.jpg'
