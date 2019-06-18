@@ -7,7 +7,15 @@ imageThumbnail: >-
   https://ucarecdn.com/eb2446a7-993a-4793-ae2a-974d26ad5c39/-/crop/733x1021/818,0/-/preview/
 firstName: Brooke
 collection: Women
+height: 167cm
 measurementType: bust
+bust: 82cm
+waist: 65cm
+hips: 76cm
+size: 6-8
+shoeSize: '7'
+hair: Blonde
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/523901e0-4bd0-4e98-9323-634275307107/'
   - image: 'https://ucarecdn.com/da102544-d986-43e6-bbcc-21e508a849b7/'
