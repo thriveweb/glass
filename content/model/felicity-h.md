@@ -5,6 +5,8 @@ featuredImage: 'https://ucarecdn.com/bb10bd13-ba42-4e9e-b2d7-bdb743131384/'
 imageThumbnail: >-
   https://ucarecdn.com/3a1f7ab9-95d6-4a2a-9632-9fe7b294e0ca/-/crop/1065x761/2,0/-/preview/
 firstName: Felicity H
+collection: Women
+hair: Red
 imagePortfolio:
   - image: 'https://ucarecdn.com/a151cccc-1182-47c1-9963-ad78157ce886/'
   - image: 'https://ucarecdn.com/7637a004-2332-482e-a1e1-1f479a99af91/'
