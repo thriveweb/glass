@@ -15,6 +15,7 @@ shoeSize: 5 kids 7L
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/56e83a02-7bea-40ab-93e4-99886eea8886/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/201710284431bw.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/201710284413.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/201710284425.jpg'
