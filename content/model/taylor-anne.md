@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Taylor Anne
-featuredImage: 'https://ucarecdn.com/2f800daa-e68c-4f72-b1a4-4599c9c40d4c/'
+featuredImage: 'https://ucarecdn.com/0df93212-758d-46b7-964d-4f9c4eccc8f8/'
 featuredVideo: 'https://ucarecdn.com/6237073b-01b4-4556-939a-85c562c67d70/'
 featuredVideoMobile: 'https://ucarecdn.com/69441c28-a860-45e8-899c-06fa2a395d55/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/taylor-anne.jpg'
@@ -17,7 +17,9 @@ shoeSize: '36'
 hair: Red
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/d76b5229-102c-4497-ba36-01818f6e754a/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ta2.jpg'
+  - image: 'https://ucarecdn.com/ae7c6e7a-4dbe-4114-b960-6368fa83d1ca/'
   - image: 'https://ucarecdn.com/da3308e7-556a-4c89-9478-919a455c8fea/'
   - image: 'https://ucarecdn.com/4df8cdc6-fe9a-45de-9990-d679c7acfe24/'
   - image: 'https://ucarecdn.com/f3506364-76e0-4070-96db-c01fcf36e7a3/'
@@ -26,6 +28,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/4b6f5f68-c999-436d-b4ca-e3a555f0d866/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/anne-2.jpg'
+  - image: 'https://ucarecdn.com/0b8f21a6-60f2-401c-ba55-d2e609a434a0/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/anne-3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay2.jpg'
@@ -49,6 +52,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/528eb00b-4c31-44b4-aa51-3a9ceb407f35/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/taytay-4.jpg'
   - image: 'https://ucarecdn.com/a804d786-f52d-40da-b921-d3e9862d4093/'
+  - image: 'https://ucarecdn.com/dca80ab3-1f50-4538-9215-cc3c1e6dc428/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/taytay-1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay-tay-10.jpg'
   - image: 'https://ucarecdn.com/c0d592ee-3cd3-4d3a-a20f-29b22c7bbcaf/'
@@ -67,5 +71,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/2acb4735-a67c-4025-8ad6-0eacc26252f8/'
   - image: 'https://ucarecdn.com/7a5d0a2a-a515-4926-953e-e58b99aed0e8/'
   - image: 'https://ucarecdn.com/0c2639a6-e71d-453e-b18c-11a1641de525/'
+  - image: 'https://ucarecdn.com/01f5d7e7-2d77-4ad6-9320-b9dcb5b6253a/'
+meta:
+  title: Taylor Anne
 ---
 
