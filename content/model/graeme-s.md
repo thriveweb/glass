@@ -5,6 +5,7 @@ featuredImage: 'https://ucarecdn.com/d7d244a8-abc7-476a-902d-b8efbb5e7ebc/'
 featuredVideoMobile: ''
 imageThumbnail: 'https://ucarecdn.com/332c12b6-e31f-4994-a85b-f30d573fd472/'
 firstName: Graeme S
+collection: Global
 height: 178cm
 measurementType: chest
 bust: 107cm
