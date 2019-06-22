@@ -87,6 +87,27 @@ testimonials:
       logo: 'https://ucarecdn.com/15695dd1-2155-41a9-b46f-11ebf46f4c80/'
       name: Greta Waters The-Sensory
       title: The Sensory
+    - content: >-
+        Hi
+
+
+        I wanted to thank you both for yesterday. Tegan, the models were
+        perfect. Little Heanan was a pro! And Nicole was lovely to work with.
+
+
+        I  look forward to receiving the first edit.
+
+
+        Kind regards,
+
+
+        Sarah Davis
+
+
+        Marketing Manager
+      logo: 'https://ucarecdn.com/d752c597-d856-4ee6-ba23-3f10489bc142/'
+      name: Sarah Davis
+      title: The Pines Shopping Centre
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
