@@ -20,6 +20,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/kail2.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kail1.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kail3.jpeg'
+  - image: 'https://ucarecdn.com/ea557f35-1ff6-4848-9710-d60c434494f6/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/image19.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kail-5.jpg'
   - {}
