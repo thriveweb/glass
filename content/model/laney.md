@@ -3,6 +3,8 @@ template: ModelPage
 title: Laney
 featuredImage: >-
   https://glassmanagement.imgix.net/images/uploads/laney24879banner7623548i1y37367uyqewhjsay376qyudgajhsbmnxdas138u123.png
+featuredVideo: 'https://ucarecdn.com/a2a0ff53-1e0f-4222-afd3-22f89d0a89f0/'
+featuredVideoMobile: 'https://ucarecdn.com/c9c189ce-9873-4616-9f9c-4aa999d88867/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/laney987234headshot32847.png'
 firstName: Laney
 collection: Women
