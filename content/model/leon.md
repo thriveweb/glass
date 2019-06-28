@@ -1,8 +1,8 @@
 ---
 template: ModelPage
 title: Leon
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/leon-.jpg'
-imageThumbnail: 'https://ucarecdn.com/da7803db-8664-44d3-bca5-826924c84da6/'
+featuredImage: 'https://ucarecdn.com/bb7f0206-240f-441f-9c99-5851320dd8a4/'
+imageThumbnail: 'https://ucarecdn.com/352bdb68-718f-466f-8f66-c3f6a3508b4a/'
 firstName: Leon
 collection: Boys
 height: 83cm
@@ -15,6 +15,11 @@ shoeSize: 6-7
 hair: Light Brown
 eyes: Green
 imagePortfolio:
+  - image: 'https://ucarecdn.com/a6e19191-15f2-4c91-a20a-2b8fca334351/'
+  - image: 'https://ucarecdn.com/1b5cbd32-4b44-4357-8a4d-02ccfdb78f8a/'
+  - image: 'https://ucarecdn.com/9727aac4-049a-4ed6-b8cc-5a4f4740e67b/'
+  - image: 'https://ucarecdn.com/bf3b6376-63fe-4023-94cb-22a03a613dc1/'
+  - image: 'https://ucarecdn.com/479c7ca7-ebb2-4640-8f8e-b469dfcb3b08/'
   - image: 'https://ucarecdn.com/2cacbef5-28d5-4e2a-a636-3b5dd056f834/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/leo.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/leon.jpg'
