@@ -20,6 +20,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a6357c42-da48-4f8c-a5be-e76110fc2521/'
   - image: 'https://ucarecdn.com/f7401118-ef00-4308-ad8c-b687a4159fb4/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amy-l-1.jpg'
+  - image: 'https://ucarecdn.com/3dfd6bc3-ad69-4ab5-8012-73af980774f2/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/law-1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/law-2.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/law-8.jpg'
