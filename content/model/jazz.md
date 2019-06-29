@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jazz
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/jaz-banner-101.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/jaz-21.jpg'
+imageThumbnail: 'https://ucarecdn.com/9c5d322e-4cba-4b1a-873b-d5582693ef35/'
 firstName: Jazz
 collection: Girls
 height: 161cm
