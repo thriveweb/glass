@@ -4,7 +4,8 @@ title: Chelsea
 featuredImage: 'https://ucarecdn.com/0e8cc8fd-4ece-4e2a-8510-c1702872b72c/'
 featuredVideo: 'https://ucarecdn.com/53d61ab6-45dc-433d-bf1e-cda5bf454109/'
 featuredVideoMobile: 'https://ucarecdn.com/67ea32d0-7895-4e86-9cb9-dd49becdace2/'
-imageThumbnail: 'https://ucarecdn.com/88b77d38-8f88-4940-a307-0dd04d898d38/'
+imageThumbnail: >-
+  https://ucarecdn.com/62a9c585-e28c-4af4-9145-26926d00353a/-/crop/383x369/129,0/-/preview/
 firstName: Chelsea
 collection: Women
 height: 168cm
