@@ -2,7 +2,8 @@
 template: ModelPage
 title: Georgia K
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/smith-family-5.jpg'
-featuredVideo: 'https://ucarecdn.com/924057ec-dbf1-490b-a6c7-0eff2c848658/'
+featuredVideo: 'https://ucarecdn.com/c5e3721b-c0a3-4c7e-bc2b-e7ed591ff751/'
+featuredVideoMobile: 'https://ucarecdn.com/f5b88881-5b03-4c65-b893-0dbccb079c4d/'
 imageThumbnail: >-
   https://ucarecdn.com/a4d2217b-5871-47d1-8187-9449e5bceb27/-/crop/2171x2257/0,0/-/preview/
 firstName: Georgia K
