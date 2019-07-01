@@ -17,6 +17,7 @@ shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/6c455e8e-517c-4833-b6a1-fe29f713e4b9/'
   - image: 'https://ucarecdn.com/5ee27363-f8aa-4821-a329-b91fad2df314/'
   - image: 'https://ucarecdn.com/6bea66d3-4faa-4a76-9df8-2bc50d04980b/'
   - image: 'https://ucarecdn.com/4c281cb6-1b5d-4001-9fe7-fb7a23ec2fc9/'
@@ -38,6 +39,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/1c7269db-5c36-4a40-9c9a-15a3308b8dc0/'
   - image: 'https://ucarecdn.com/e21dcf59-f979-46f7-85b4-49f73525a1e8/'
   - image: 'https://ucarecdn.com/51cbae2a-9ced-4c04-b4a5-39242555387f/'
-meta: {}
+meta:
+  title: Abeny
 ---
 
