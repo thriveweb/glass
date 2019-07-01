@@ -1,10 +1,9 @@
 ---
 template: ModelPage
 title: Hattie
-featuredImage: >-
-  https://ucarecdn.com/a3964db5-a5dc-4fbf-9631-6c29dac8ead3/-/crop/2400x1260/0,220/-/preview/
+featuredImage: 'https://ucarecdn.com/9184fa99-cd7a-4f50-b84c-577f56db1272/'
 imageThumbnail: >-
-  https://ucarecdn.com/4e23fd73-c401-428d-b496-f5c71601e658/-/crop/1033x994/119,95/-/preview/
+  https://ucarecdn.com/013b34ab-66bf-4d30-954b-6853a12a3344/-/crop/1229x1126/13,0/-/preview/
 firstName: Hattie
 collection: Girls
 height: 108cm
@@ -17,16 +16,21 @@ shoeSize: '10'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/2801640b-e615-4d57-b4b3-da81277b866f/'
   - image: 'https://ucarecdn.com/7fe53676-2938-455d-9413-8ecca5de3261/'
+  - image: 'https://ucarecdn.com/d4ef151f-2d3b-4468-8d20-14f343a241e3/'
   - image: >-
       https://ucarecdn.com/aa30a666-9031-4fe4-8f4a-651534258a8d/-/crop/1595x2400/400,0/-/preview/
   - image: 'https://ucarecdn.com/a12c4a91-df4f-4d81-8946-d564ba63741d/'
   - image: >-
       https://ucarecdn.com/a3e002cd-0bd8-45ec-a3ac-d7da4b420d2f/-/crop/1590x2400/405,0/-/preview/
+  - image: 'https://ucarecdn.com/307025d9-e98e-4369-8a54-25ed6bd09c9e/'
   - image: 'https://ucarecdn.com/cc89b675-47ae-40ca-8ce9-87d50b46f4de/'
   - image: 'https://ucarecdn.com/dc25e5de-a2e1-4c5f-b507-f3215fc38a17/'
+  - image: 'https://ucarecdn.com/e82dead2-c5a0-443a-bab7-86f990145773/'
   - image: >-
       https://ucarecdn.com/fb7525bf-544d-47d2-b49a-6d075311f2bb/-/crop/1580x2400/410,0/-/preview/
+  - image: 'https://ucarecdn.com/51412545-2555-4c37-aa97-5948c1f8d391/'
   - image: >-
       https://ucarecdn.com/a2e0df31-208e-450c-944c-a216b8ea324f/-/crop/1585x2400/410,0/-/preview/
   - image: 'https://ucarecdn.com/43d85c55-bd94-407d-bd56-5451f38ab723/'
