@@ -18,6 +18,7 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/7d7f875e-045c-4856-96a3-453db97534e0/'
+  - image: 'https://ucarecdn.com/28e11d25-e492-4e34-a484-599197d11e9d/'
   - image: 'https://ucarecdn.com/7a119095-e8e6-4577-9a00-8bf87d4defc8/'
   - image: 'https://ucarecdn.com/d3813020-443d-4aba-a1f7-16e8ea8f180a/'
   - image: 'https://ucarecdn.com/d0ee3212-f665-4589-b94a-02beb9275138/'
