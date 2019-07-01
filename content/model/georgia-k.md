@@ -2,10 +2,11 @@
 template: ModelPage
 title: Georgia K
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/smith-family-5.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/g-smith-2.jpg'
+imageThumbnail: >-
+  https://ucarecdn.com/a4d2217b-5871-47d1-8187-9449e5bceb27/-/crop/2171x2257/0,0/-/preview/
 firstName: Georgia K
 collection: Girls
-height: 125cm
+height: 128cm
 measurementType: bust
 bust: 64cm
 waist: 56cm
