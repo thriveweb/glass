@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/c4608b11-a008-4374-85c3-ee3e59e4baf1/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/amu-her-shadow-law.jpg'
 firstName: Amy L
 collection: Girls
-height: 142cm
+height: 149cm
 measurementType: bust
 bust: 70cm
 waist: 65cm
