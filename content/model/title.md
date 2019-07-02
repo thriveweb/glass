@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/0e8cc8fd-4ece-4e2a-8510-c1702872b72c/'
 featuredVideo: 'https://ucarecdn.com/53d61ab6-45dc-433d-bf1e-cda5bf454109/'
 featuredVideoMobile: 'https://ucarecdn.com/67ea32d0-7895-4e86-9cb9-dd49becdace2/'
 imageThumbnail: >-
-  https://ucarecdn.com/62a9c585-e28c-4af4-9145-26926d00353a/-/crop/383x369/129,0/-/preview/
+  https://ucarecdn.com/d9f50122-4ed2-436c-bde0-1323426b511e/-/crop/3493x2844/858,0/-/preview/
 firstName: Chelsea
 collection: Women
 height: 168cm
@@ -20,6 +20,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/chelsea-12.jpg'
   - image: 'https://ucarecdn.com/ba146417-58e8-4e66-99d8-5d5945839bca/'
   - image: 'https://ucarecdn.com/8d9ba087-67b4-4329-95c4-83e8a314b2dd/'
+  - image: 'https://ucarecdn.com/c39ce21a-e2e4-47be-92d9-e83612fba7d6/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/chelsea-21.jpg'
   - image: 'https://ucarecdn.com/d5297705-ead3-4fc1-8988-a79ced5dbf9a/'
   - image: 'https://ucarecdn.com/0e369177-9bf2-4f99-a44a-1244ac3dfac9/'
