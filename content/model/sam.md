@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Sam
+title: Sam H
 featuredImage: >-
   https://ucarecdn.com/9ea02f34-02f9-4086-9fb8-ebfdf2474387/-/crop/2448x1266/0,95/-/preview/
 imageThumbnail: >-
@@ -61,6 +61,6 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/d74282fb-02bf-4aaa-afb6-bf69d7799a08/-/crop/2305x1484/143,71/-/preview/
 meta:
-  title: Sam
+  title: Sam H
 ---
 
