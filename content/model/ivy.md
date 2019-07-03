@@ -10,7 +10,7 @@ measurementType: bust
 bust: 52cm
 waist: 103cm
 hips: 101cm
-size: '3'
+size: '4'
 shoeSize: 6-7
 hair: Blonde
 eyes: Blue
