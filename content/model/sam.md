@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/9ea02f34-02f9-4086-9fb8-ebfdf2474387/-/crop/2448x1266/0,95/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/c579931b-8cdd-4ff3-bcc3-e09f1b770c04/-/crop/643x974/572,413/-/preview/
-firstName: Sam
+firstName: Sam H
 collection: Girls
 height: 135cm
 measurementType: bust
