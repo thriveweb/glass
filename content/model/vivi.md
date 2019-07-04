@@ -6,6 +6,7 @@ imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/vivi14.jpg'
 firstName: Vivi
 collection: Girls
 height: 110cm
+measurementType: bust
 bust: 51cm
 waist: 52cm
 hips: 56cm
