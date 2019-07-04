@@ -16,9 +16,11 @@ shoeSize: 7 1/2
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: 'https://glassmanagement.imgix.net/images/uploads/marley.jpg'
+  - image: 'https://ucarecdn.com/6c23fa9e-2731-444f-9862-7bc4424a78ea/'
+  - image: 'https://ucarecdn.com/787ebe6b-9f71-485b-8cc2-22c8dbe81730/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/marley-113.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/marley-111.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/marley.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/marley-2.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/marley-116.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/marley-7.jpg'
