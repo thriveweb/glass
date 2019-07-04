@@ -10,7 +10,7 @@ measurementType: bust
 bust: 62cm
 waist: 60cm
 hips: 73cm
-size: 8-10
+size: '10'
 shoeSize: '7'
 hair: Brown
 eyes: Brown
