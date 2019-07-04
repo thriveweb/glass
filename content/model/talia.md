@@ -4,7 +4,7 @@ title: Talia
 featuredImage: >-
   https://ucarecdn.com/3d0bfd32-1b08-44d4-8eb7-cf200d5cee66/-/crop/735x437/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/14ac9516-cd5e-421e-89d1-784337eeb7e3/-/crop/3744x4147/0,0/-/preview/
+  https://ucarecdn.com/7e9eba27-cf7b-432b-8ee6-beaa7f87bca9/-/crop/423x546/51,0/-/preview/
 firstName: Talia
 collection: Classic
 height: 177cm
@@ -17,9 +17,13 @@ shoeSize: '9'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/dbb5faaf-2f80-4a8b-bb64-2514ec486e27/'
   - image: 'https://ucarecdn.com/a5ab27cb-4324-4da3-b0cd-a82ad475b475/'
+  - image: 'https://ucarecdn.com/6926fd2d-2bec-4d23-a0f2-f4a6b60a1c16/'
   - image: 'https://ucarecdn.com/1c08e668-d829-49ed-ad3d-447e6ffdb7b9/'
+  - image: 'https://ucarecdn.com/a5b8dae5-5a09-4ae5-9b4c-8e062cc8e50f/'
   - image: 'https://ucarecdn.com/50b6bbbc-6789-4842-a19c-684a8a046010/'
+  - image: 'https://ucarecdn.com/00507b62-5faf-455a-902b-b99bd7274d67/'
   - image: 'https://ucarecdn.com/74448361-069e-4a8e-b7a9-257ddb25f456/'
   - image: 'https://ucarecdn.com/2da798b6-1d0a-4401-a4b4-3979e320ee1c/'
   - image: 'https://ucarecdn.com/70bad579-95f0-4d5b-b219-f2fe24e74d00/'
