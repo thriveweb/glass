@@ -9,7 +9,7 @@ height: 125cm
 bust: 60cm
 waist: 53cm
 hips: 60cm
-size: 5-6
+size: '6'
 shoeSize: '1'
 hair: Light Brown
 eyes: Blue
