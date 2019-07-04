@@ -11,7 +11,7 @@ height: 109cm
 bust: 54cm
 waist: 51cm
 hips: 51cm
-size: '4'
+size: '5'
 shoeSize: '10'
 hair: Light Brown
 eyes: Brown
