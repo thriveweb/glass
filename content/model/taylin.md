@@ -2,8 +2,8 @@
 template: ModelPage
 title: Taylin
 featuredImage: 'https://ucarecdn.com/b6e5405a-e301-40f9-be4c-057aab27266b/'
-imageThumbnail: >-
-  https://ucarecdn.com/90b1433a-bd8b-4daf-a24e-bc35fb851115/-/crop/410x385/90,24/-/preview/
+featuredVideo: 'https://ucarecdn.com/ccff7e46-5cd4-443e-a3c3-fa3b68173e9b/'
+imageThumbnail: 'https://ucarecdn.com/62a9d5c7-4aee-4d07-a2ee-e06b83b26dbf/'
 firstName: Taylin
 collection: Global
 height: 136cm
