@@ -19,6 +19,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/7ea3d1d2-1eca-44a6-95c0-b7711cef6fa4/'
   - image: 'https://ucarecdn.com/4be9c191-dfe9-48be-93f8-d060a165c319/'
   - image: 'https://ucarecdn.com/80b99c5a-e66b-4a42-8155-f18034ca1665/'
+  - image: 'https://ucarecdn.com/d05527a3-e999-40ad-9007-fefa8a1bc3f7/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/prilia-3.jpg'
   - image: 'https://ucarecdn.com/ff1e2ac0-82d6-44f8-a02c-8033fa9970b3/'
   - image: 'https://ucarecdn.com/2171a957-0862-455f-be1e-5964006da3a9/'
