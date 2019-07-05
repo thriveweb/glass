@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Lily K
-featuredImage: 'https://ucarecdn.com/43c0e9a7-2c91-46d9-b37a-78cd30b8a7c8/'
+featuredImage: >-
+  https://ucarecdn.com/a5d25c04-e7be-4740-87d8-d939f52f2ae3/-/crop/427x253/0,74/-/preview/
 imageThumbnail: 'https://ucarecdn.com/63b04033-b439-4b99-9630-476f47f5c54d/'
 firstName: Lily K
 collection: Women
