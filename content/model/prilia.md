@@ -4,7 +4,7 @@ title: Prilia
 featuredImage: 'https://ucarecdn.com/d7432089-7cd1-4956-b9b0-78ee7c5856ff/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/prilia-1.jpg'
 firstName: Prilia
-collection: Global
+collection: Girls
 height: 142cm
 measurementType: bust
 bust: 65cm
