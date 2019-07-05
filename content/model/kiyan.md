@@ -17,6 +17,7 @@ hair: Light Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/kiyann.jpg'
+  - image: 'https://ucarecdn.com/d1d43b15-933c-45b0-84fd-6ab4000ea870/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kiana-8.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kiana-3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kiana-6.jpg'
