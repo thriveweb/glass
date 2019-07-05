@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Rylah
-featuredImage: >-
-  https://ucarecdn.com/f01fb819-4ccd-446d-98cc-e8fc6860db4a/-/crop/2415x1407/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/daeb1120-cdf5-4326-961a-921f781923c5/'
 imageThumbnail: >-
   https://ucarecdn.com/80b3607b-e789-4543-907e-ed72a24ebc6b/-/crop/1437x1702/0,0/-/preview/
 firstName: Rylah
@@ -31,6 +30,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/154ff211-0ad5-44ad-bf86-10dfa8cf1981/'
   - image: 'https://ucarecdn.com/dfac36f4-104d-4a64-84b7-99850324b76d/'
   - image: 'https://ucarecdn.com/f0025d2c-d9f7-4fb6-a39d-69a8fdf9679c/'
+  - image: 'https://ucarecdn.com/d399b5f9-9a4f-4187-8edf-64a90050c4bb/'
+  - image: 'https://ucarecdn.com/8bd27cd3-5b03-4d08-bd6c-58a73f061531/'
+  - image: 'https://ucarecdn.com/54ea9a06-2f45-4350-b17a-3268db14c20a/'
 meta:
   title: Rylah
 ---
