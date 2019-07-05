@@ -17,6 +17,7 @@ eyes: Green
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/rylah.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/rhy4.jpg'
+  - image: 'https://ucarecdn.com/1da27c39-41a7-4909-99c4-fb96698317d1/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ry.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/rylah29335.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/rylah-2.jpg'
