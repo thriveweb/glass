@@ -2,7 +2,8 @@
 template: ModelPage
 title: Prilia
 featuredImage: 'https://ucarecdn.com/d7432089-7cd1-4956-b9b0-78ee7c5856ff/'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/prilia-1.jpg'
+imageThumbnail: >-
+  https://ucarecdn.com/136259c8-a607-4339-9ec8-624330557430/-/crop/442x396/0,0/-/preview/
 firstName: Prilia
 collection: Girls
 height: 142cm
