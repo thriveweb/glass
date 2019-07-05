@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/4b646dab-f4b1-42bd-8630-d67ceab45756/-/crop/956x909/107,44/-/preview/
 firstName: Alex H
 collection: Boys
-height: 155cm
+height: 160cm
 measurementType: chest
 bust: 67cm
 waist: 63cm
