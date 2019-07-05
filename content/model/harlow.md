@@ -4,7 +4,8 @@ title: Harlow
 featuredImage: 'https://ucarecdn.com/166ea4ef-226b-4227-8268-917601174172/'
 featuredVideo: 'https://ucarecdn.com/6a7ab4d2-28b0-47e2-b5de-95a0879c49e9/'
 featuredVideoMobile: 'https://ucarecdn.com/af461493-2d9c-45d0-aa42-cb207ef91d85/'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/harlow-hs-1-.jpg'
+imageThumbnail: >-
+  https://ucarecdn.com/a5a5f0e9-e65e-42f9-a252-576fe8ec0ffe/-/crop/1224x1905/131,0/-/preview/
 firstName: Harlow
 collection: Girls
 height: 128cm
@@ -17,6 +18,7 @@ shoeSize: 1-2
 hair: Golden Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/344a0934-b623-4c2d-bbc6-65dc4ec8515d/'
   - image: 'https://ucarecdn.com/8823ce80-b986-4921-b11e-898450bb7e38/'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/photo-29-10-18-3-47-17-am-1-.jpg
@@ -41,6 +43,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl5.jpg'
   - image: 'https://ucarecdn.com/d1bc54d5-6bce-46c4-b47b-56e99f748e7e/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/haerl4.jpg'
+  - image: 'https://ucarecdn.com/bb98475d-88d5-4274-b262-1777f48d6840/'
   - image: 'https://ucarecdn.com/3eedc789-574a-4ff7-a5be-33cdaa23257c/'
   - image: 'https://ucarecdn.com/ea682fdd-b210-448f-bee6-d84faf0575ad/'
   - image: 'https://ucarecdn.com/27a04fb1-573f-433a-bf3d-278ad14c494d/'
@@ -54,6 +57,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/7e601258-f586-4826-8108-cc5e6f43b532/'
   - image: 'https://ucarecdn.com/f891ecc8-d326-4694-ae59-cdd600562633/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harl10.jpg'
+  - image: 'https://ucarecdn.com/9cac43dc-f105-4f8b-b993-fcf063f8fd11/'
   - image: 'https://ucarecdn.com/138c1828-c7f3-4e4a-acd4-1b7daeb422f7/'
   - image: 'https://ucarecdn.com/629bfb42-95ae-48d1-83f7-a1f79cf2fc04/'
   - image: 'https://ucarecdn.com/1b7970d1-8fd2-4182-94d0-ac84206b9377/'
