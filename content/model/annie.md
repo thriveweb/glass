@@ -33,6 +33,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/074f31f3-d525-4c37-a2fa-7c760b74640f/'
   - image: 'https://ucarecdn.com/f63e8356-21c3-41d8-a858-86081a6cda37/'
   - image: 'https://ucarecdn.com/eb473761-8407-4f18-a322-7274c56124b2/'
+  - image: 'https://ucarecdn.com/7a0d10a5-735f-41f9-8893-539c25bf7bd1/'
 meta:
   title: Annie
 ---
