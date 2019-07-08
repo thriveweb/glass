@@ -19,6 +19,7 @@ hair: Golden Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/344a0934-b623-4c2d-bbc6-65dc4ec8515d/'
+  - image: 'https://ucarecdn.com/f5a7c996-c40d-4ceb-a18e-f3299a972ee1/'
   - image: 'https://ucarecdn.com/8823ce80-b986-4921-b11e-898450bb7e38/'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/photo-29-10-18-3-47-17-am-1-.jpg
