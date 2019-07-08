@@ -13,7 +13,7 @@ bust: 84cm
 waist: 64cm
 hips: 90cm
 size: '8'
-shoeSize: '9'
+shoeSize: '8'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
