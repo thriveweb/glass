@@ -17,6 +17,7 @@ shoeSize: '8'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/780876f0-2e1a-4580-95fe-c0e6833e9dfc/'
   - image: 'https://ucarecdn.com/ba146417-58e8-4e66-99d8-5d5945839bca/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/chelsea-12.jpg'
   - image: 'https://ucarecdn.com/8d9ba087-67b4-4329-95c4-83e8a314b2dd/'
@@ -27,7 +28,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/fc8e68db-7b33-416c-82f9-592ba5230325/'
   - image: 'https://ucarecdn.com/5de5717f-11fd-44b6-9d72-f4198622c67a/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/chelsea-14.jpg'
-  - image: 'https://ucarecdn.com/780876f0-2e1a-4580-95fe-c0e6833e9dfc/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/chelseag987421111111.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/201711013097.jpg'
   - image: 'https://ucarecdn.com/7f4beda9-628e-47e1-b9d6-2f46c227391f/'
