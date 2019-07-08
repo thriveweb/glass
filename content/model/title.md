@@ -17,8 +17,8 @@ shoeSize: '8'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://glassmanagement.imgix.net/images/uploads/chelsea-12.jpg'
   - image: 'https://ucarecdn.com/ba146417-58e8-4e66-99d8-5d5945839bca/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/chelsea-12.jpg'
   - image: 'https://ucarecdn.com/8d9ba087-67b4-4329-95c4-83e8a314b2dd/'
   - image: 'https://ucarecdn.com/c39ce21a-e2e4-47be-92d9-e83612fba7d6/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/chelsea-21.jpg'
