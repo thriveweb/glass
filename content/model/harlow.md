@@ -1,11 +1,11 @@
 ---
 template: ModelPage
 title: Harlow
-featuredImage: 'https://ucarecdn.com/166ea4ef-226b-4227-8268-917601174172/'
+featuredImage: 'https://ucarecdn.com/eaaa70c9-7ffd-48b3-b0d5-6e7628f13b24/'
 featuredVideo: 'https://ucarecdn.com/6a7ab4d2-28b0-47e2-b5de-95a0879c49e9/'
 featuredVideoMobile: 'https://ucarecdn.com/af461493-2d9c-45d0-aa42-cb207ef91d85/'
 imageThumbnail: >-
-  https://ucarecdn.com/a5a5f0e9-e65e-42f9-a252-576fe8ec0ffe/-/crop/1224x1905/131,0/-/preview/
+  https://ucarecdn.com/0fcdd2bd-66b3-45ad-8628-8f482861eff1/-/crop/1705x1593/0,0/-/preview/
 firstName: Harlow
 collection: Girls
 height: 128cm
@@ -52,7 +52,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/2e2dfe29-5430-460e-89d1-58147a0d3529/'
   - image: 'https://ucarecdn.com/959e3ddb-1bf8-4852-b59a-0c71cdcd58f8/'
   - image: 'https://ucarecdn.com/392448ac-1e83-43be-9875-513819b5de5b/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/harl18.jpg'
+  - image: 'https://ucarecdn.com/b0d37ef2-89e8-4122-9043-d10f82731792/'
   - image: 'https://ucarecdn.com/0dedfe3c-0291-4e44-b96f-57bb282c2d87/'
   - image: 'https://ucarecdn.com/7e601258-f586-4826-8108-cc5e6f43b532/'
   - image: 'https://ucarecdn.com/f891ecc8-d326-4694-ae59-cdd600562633/'
@@ -61,9 +61,11 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/138c1828-c7f3-4e4a-acd4-1b7daeb422f7/'
   - image: 'https://ucarecdn.com/629bfb42-95ae-48d1-83f7-a1f79cf2fc04/'
   - image: 'https://ucarecdn.com/1b7970d1-8fd2-4182-94d0-ac84206b9377/'
+  - image: 'https://ucarecdn.com/6ee3780a-7667-4cfa-a479-211bd11dcc60/'
   - image: 'https://ucarecdn.com/daf0cd1d-1ec8-4a1e-ab58-197303013596/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow-hs.jpg'
   - image: 'https://ucarecdn.com/bc01d9ae-4e2e-410c-a535-e628c6d7c8ee/'
+  - image: 'https://ucarecdn.com/3ebd05fe-ef94-4e0e-8fa3-5c49117b8268/'
 meta:
   title: Harlow
 ---
