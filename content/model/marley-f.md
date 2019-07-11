@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/9e7a1c02-c5bf-4be1-848d-3efed7ec86e1/'
 imageThumbnail: 'https://ucarecdn.com/5ecb8460-0843-47cd-bffa-497ff37130bd/'
 firstName: Marley F
 collection: Boys
-height: 155cm
+height: 158cm
 measurementType: chest
 bust: 74cm
 waist: 61cm
