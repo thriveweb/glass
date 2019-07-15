@@ -5,6 +5,15 @@ featuredImage: 'https://ucarecdn.com/4218fd7f-1f42-4f2a-a791-8ef0cd198bb5/'
 imageThumbnail: 'https://ucarecdn.com/a2ba21d5-044e-4950-b950-be97eb947f49/'
 firstName: Toby R
 collection: Global
+height: 180cm
+measurementType: chest
+bust: 96cm
+waist: 82cm
+hips: 89cm
+size: M
+shoeSize: '12'
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/82ba6213-805f-4d92-8165-15333569c01b/'
   - image: 'https://ucarecdn.com/0b390b12-1d71-4b2b-ac6d-4a572d46eca9/'
