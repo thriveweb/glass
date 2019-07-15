@@ -6,7 +6,7 @@ imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/josh-b-hs.jpg'
 firstName: Josh B
 collection: Classic
 height: 183cm
-size: XXL
+size: 2XL
 shoeSize: '11'
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/josh-b-4.jpg'
