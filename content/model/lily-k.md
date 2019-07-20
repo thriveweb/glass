@@ -53,6 +53,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a6e0a39c-fd17-4247-83a1-68a8708527b6/'
   - image: 'https://ucarecdn.com/ec0aa805-3aa7-4969-90cd-55722ce6a99e/'
   - image: 'https://ucarecdn.com/64ae6c47-8df0-4144-8731-f65febec2b3f/'
+  - image: 'https://ucarecdn.com/34428ba6-e3f5-4290-9588-1e0226ddecc3/'
+  - image: 'https://ucarecdn.com/24f81cfb-1a44-41c9-a75f-da6c540aae44/'
+  - image: 'https://ucarecdn.com/b65f61e8-00e0-4996-ac5c-2a8a547fc682/'
 meta:
   title: Lily K
 ---
