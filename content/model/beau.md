@@ -36,6 +36,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0654be4d-da22-4458-994b-43df914ab7f5/'
   - image: 'https://ucarecdn.com/ad283182-051c-4040-91f6-a215a3ee383d/'
   - image: 'https://ucarecdn.com/47ddb877-4c44-4c44-be97-cc60d3eacb75/'
+  - image: 'https://ucarecdn.com/4a51e714-724b-474f-9b3d-2b9b82f9785f/'
 meta:
   title: Beau
 ---
