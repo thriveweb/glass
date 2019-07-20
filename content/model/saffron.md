@@ -4,7 +4,7 @@ title: Saffron
 featuredImage: 'https://ucarecdn.com/d9bacf58-0375-4b45-a0dc-f74473683021/'
 featuredVideo: 'https://ucarecdn.com/2424610e-5161-4678-b885-9997bac9ec73/'
 featuredVideoMobile: 'https://ucarecdn.com/9f8bc6aa-3fc4-49c7-9a0d-db55c16a834e/'
-imageThumbnail: 'https://ucarecdn.com/04137237-f9c3-41fe-a63b-f91d62122130/-/preview/'
+imageThumbnail: 'https://ucarecdn.com/0b7b4d6b-8474-42bc-a0c6-744837264fc1/'
 firstName: Saffron
 collection: Girls
 height: 103cm
