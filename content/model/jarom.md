@@ -5,6 +5,13 @@ featuredImage: 'https://ucarecdn.com/da468dc1-dab0-430b-8d56-3b7ca714bae9/'
 imageThumbnail: 'https://ucarecdn.com/2b4ef773-a74e-40d1-9ce3-6490c24f5be7/'
 firstName: Jarom
 collection: Classic
+height: 186cm
+measurementType: chest
+bust: 117cm
+waist: 107cm
+hips: 117cm
+size: Shirt L/XL  Pants 36
+shoeSize: '11'
 hair: Black
 eyes: Brown
 imagePortfolio:
