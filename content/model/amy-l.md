@@ -2,7 +2,7 @@
 template: ModelPage
 title: Amy L
 featuredImage: 'https://ucarecdn.com/c4608b11-a008-4374-85c3-ee3e59e4baf1/'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/amu-her-shadow-law.jpg'
+imageThumbnail: 'https://ucarecdn.com/383932ad-8aa2-4646-8e8b-abe68e49b987/'
 firstName: Amy L
 collection: Girls
 height: 149cm
