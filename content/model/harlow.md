@@ -8,13 +8,13 @@ imageThumbnail: >-
   https://ucarecdn.com/0fcdd2bd-66b3-45ad-8628-8f482861eff1/-/crop/1705x1593/0,0/-/preview/
 firstName: Harlow
 collection: Girls
-height: 128cm
+height: 130cm
 measurementType: bust
 bust: 57cm
 waist: 48cm
 hips: 55cm
-size: 6/7
-shoeSize: 1-2
+size: 7-8
+shoeSize: '2'
 hair: Golden Blonde
 eyes: Blue
 imagePortfolio:
