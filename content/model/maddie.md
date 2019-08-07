@@ -2,7 +2,7 @@
 template: ModelPage
 title: Maddie
 featuredImage: 'https://ucarecdn.com/fdea9028-7496-4cf1-8082-ca5ecc5b9caf/'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/maddie-5.jpg'
+imageThumbnail: 'https://ucarecdn.com/db3ca3d6-1ede-4611-a5ef-729ce570a06e/'
 firstName: Maddie
 collection: Girls
 height: 97cm
@@ -15,11 +15,11 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://glassmanagement.imgix.net/images/uploads/maddie.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/mad2.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/dsc_0513.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/mad5.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/mad3.jpg'
+  - image: 'https://ucarecdn.com/804299d6-f88d-4bd7-bfe9-52a84b093c16/'
+  - image: 'https://ucarecdn.com/f1cfab66-b1d8-4713-90fb-86f29641329d/'
+  - image: 'https://ucarecdn.com/d92edf25-0a12-45e7-bcdf-2e6e5bd9a24d/'
+  - image: 'https://ucarecdn.com/e9310f81-440c-475e-822a-a3f7bcb05cf4/'
+  - image: 'https://ucarecdn.com/6a7ba198-9cab-4d10-ac72-677354dcd908/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/mad4.jpg'
   - {}
 meta:
