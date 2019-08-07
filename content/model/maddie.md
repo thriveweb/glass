@@ -19,9 +19,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/f1cfab66-b1d8-4713-90fb-86f29641329d/'
   - image: 'https://ucarecdn.com/d92edf25-0a12-45e7-bcdf-2e6e5bd9a24d/'
   - image: 'https://ucarecdn.com/e9310f81-440c-475e-822a-a3f7bcb05cf4/'
+  - image: 'https://ucarecdn.com/c6342ee0-3a1f-4310-b366-501adf958428/'
   - image: 'https://ucarecdn.com/6a7ba198-9cab-4d10-ac72-677354dcd908/'
-  - image: 'https://ucarecdn.com/6a7ba198-9cab-4d10-ac72-677354dcd908/'
-  - {}
 meta:
   title: Maddie
 ---
