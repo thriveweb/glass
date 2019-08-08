@@ -1,8 +1,10 @@
 ---
 template: ModelPage
 title: Krystal
-featuredImage: 'https://ucarecdn.com/d3e436fc-c6d5-46d9-b225-d07781e4e427/'
-imageThumbnail: 'https://ucarecdn.com/3e10b16a-ac10-4490-a953-9c5992e0290d/'
+featuredImage: >-
+  https://ucarecdn.com/d3e436fc-c6d5-46d9-b225-d07781e4e427/-/crop/1632x603/0,0/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/3e10b16a-ac10-4490-a953-9c5992e0290d/-/crop/1359x1931/124,0/-/preview/
 firstName: Krystal
 collection: Girls
 height: 135cm
