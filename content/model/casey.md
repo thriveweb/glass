@@ -20,12 +20,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/f77d0cbe-45c9-471c-9cd6-4b38a88fd606/'
   - image: 'https://ucarecdn.com/01402d35-0780-4288-a0f9-808178e492d3/'
   - image: 'https://ucarecdn.com/0ad66fb1-fe29-4d8c-9592-99d4e454c6e6/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/casey-3.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/casey-2.jpg'
+  - image: 'https://ucarecdn.com/96f4a67e-3a76-4bb7-9c90-3b3a1162e27e/'
+  - image: 'https://ucarecdn.com/a787dc53-a0ed-4f56-be57-f7ad2f59513b/'
   - image: 'https://ucarecdn.com/a6c44c31-270d-4dbd-a53d-36cdae52bdcd/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/casey5.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/casey4.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/caseyjpg.jpg'
+  - image: 'https://ucarecdn.com/bbb5e78d-ce3d-4467-a3e7-d371ea6e561d/'
 meta:
   title: Casey
 ---
