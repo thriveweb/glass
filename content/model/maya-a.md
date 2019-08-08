@@ -41,6 +41,9 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/maya-052.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/group-018.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/maya-058.jpg'
+  - image: 'https://ucarecdn.com/55ec5c81-47d9-4b11-953c-9520f2ea10e9/'
+  - image: 'https://ucarecdn.com/af5bf5d1-ad34-40da-9c73-36c0e75bc605/'
+  - image: 'https://ucarecdn.com/fafaf894-3c8f-4ffd-b92a-6d39e16a651e/'
 meta:
   title: 'Maya '
 ---
