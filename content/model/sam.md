@@ -62,7 +62,6 @@ imagePortfolio:
       https://ucarecdn.com/d74282fb-02bf-4aaa-afb6-bf69d7799a08/-/crop/2305x1484/143,71/-/preview/
   - image: 'https://ucarecdn.com/ea454207-746a-4499-98ae-abd773384ecf/'
   - image: 'https://ucarecdn.com/01b2f979-7def-4031-964b-8ed394f7311c/'
-  - image: 'https://ucarecdn.com/24947f8a-959d-4790-a70e-dbd051806927/'
 meta:
   title: Sam H
 ---
