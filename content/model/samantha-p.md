@@ -4,7 +4,7 @@ title: Samantha P
 featuredImage: >-
   https://ucarecdn.com/9931abb5-7a48-473d-bdb1-ef44fd694868/-/crop/1958x947/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/30c4fe34-8ff6-42d8-a94a-7c3fa4837e2f/-/crop/2424x2540/1635,0/-/preview/
+  https://ucarecdn.com/6af0d6e5-b44e-4785-9991-5078b4ed2744/-/crop/700x689/187,0/-/preview/
 firstName: Samantha P
 collection: Women
 measurementType: bust
@@ -16,7 +16,7 @@ shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/0a59b81a-8a8c-4492-83e9-db219f85e9c1/'
+  - image: 'https://ucarecdn.com/9d9e06d6-7d70-4f19-aa6c-dd3561e9cc97/'
   - image: 'https://ucarecdn.com/8dd6c3a5-c81b-4859-9f56-0082e00ea95f/'
   - image: 'https://ucarecdn.com/ff670a61-e741-44c9-8ec8-e2a480b5ecfe/'
   - image: 'https://ucarecdn.com/07411862-f3e1-4fe3-9cb5-29de7ac6ef82/'
