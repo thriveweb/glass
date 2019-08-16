@@ -12,17 +12,17 @@ buttonText: See our Models
 buttonUrl: models/women
 gallery:
   galleryImages:
-    - image: 'https://ucarecdn.com/e2e87ca6-c1db-4ee1-ade5-1cc4646dcc60/'
+    - image: 'https://ucarecdn.com/315ddcb2-2672-4b55-b934-2d2178f03c15/'
       title: Women
     - image: 'https://ucarecdn.com/fa582303-700d-4f64-be2a-2efd2b53bc7a/'
       title: Girls
     - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
       title: Global
-    - image: 'https://ucarecdn.com/a63e024a-4dcf-4d22-bc1b-ea134f369a8e/'
+    - image: 'https://ucarecdn.com/925831f3-4d16-474c-8e0b-768bdc5bea35/'
       title: Men
     - image: 'https://ucarecdn.com/31dc20b6-836b-49e2-aa34-7f765b03652f/'
       title: Classic
-    - image: 'https://ucarecdn.com/c509c19d-8496-45fa-a3d2-2f3031a7525c/'
+    - image: 'https://ucarecdn.com/d67775d3-701b-40e6-9a00-c1a36577000b/'
       title: Boys
   subTitle: Our Models
   title: Explore Our Models
