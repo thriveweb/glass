@@ -21,6 +21,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/d1d43b15-933c-45b0-84fd-6ab4000ea870/'
   - image: 'https://ucarecdn.com/f1724f5f-433b-4805-9b09-3c3e51ed6dd2/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kiyann.jpg'
+  - image: 'https://ucarecdn.com/047cb1b3-75e0-420c-9324-b398c013a6fa/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kiana-8.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kiana-3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kiana-6.jpg'
