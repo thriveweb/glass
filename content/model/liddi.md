@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Liddi
-featuredImage: 'https://ucarecdn.com/0188d8bc-e77f-4bc4-9c61-f8219148980f/'
+featuredImage: >-
+  https://ucarecdn.com/0188d8bc-e77f-4bc4-9c61-f8219148980f/-/crop/2395x1260/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/67b56fd1-3054-46f3-9f66-0e5560e62050/-/crop/1244x1510/321,275/-/preview/
 firstName: Liddi
