@@ -5,7 +5,8 @@ featuredImage: 'https://ucarecdn.com/36de393a-331b-4d78-b940-c7055d1201da/'
 imageThumbnail: 'https://ucarecdn.com/5ed723dd-a7fc-4065-8f67-ed43fa0e77c9/'
 firstName: Jules
 collection: Boys
-height: 128cm
+height: 138cm
+measurementType: chest
 bust: 63cm
 waist: 59cm
 hips: 64cm
