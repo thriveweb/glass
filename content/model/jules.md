@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Jules
-featuredImage: 'https://ucarecdn.com/36de393a-331b-4d78-b940-c7055d1201da/'
+featuredImage: >-
+  https://ucarecdn.com/3da27fea-48c5-41e2-adcd-c3e71323b152/-/crop/850x417/1,30/-/preview/
 imageThumbnail: 'https://ucarecdn.com/5ed723dd-a7fc-4065-8f67-ed43fa0e77c9/'
 firstName: Jules
 collection: Boys
@@ -30,5 +31,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/403201ab-87ca-46dc-87d6-9ad552106291/'
   - image: 'https://ucarecdn.com/af0dfe88-6f3f-4fa8-b4b6-5b2c783c9f0d/'
   - image: 'https://ucarecdn.com/89013b45-61f8-4e5b-ae4c-43238e367d05/'
+  - image: 'https://ucarecdn.com/0465fa45-f577-48e6-ab1f-25e214dcc32a/'
 ---
 
