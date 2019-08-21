@@ -2,7 +2,8 @@
 template: ModelPage
 title: Elaine W
 featuredImage: 'https://ucarecdn.com/9a097125-1e5d-4307-853b-7b93371cf264/'
-featuredVideo: ''
+featuredVideo: 'https://ucarecdn.com/ef3bb4cd-af6a-41b4-87c6-264e5d7cce43/'
+featuredVideoMobile: 'https://ucarecdn.com/c126ad78-a2ae-4fac-b551-30732f8440a2/'
 imageThumbnail: 'https://ucarecdn.com/a7be15a7-fe83-44d3-817b-581b2b62ae31/'
 firstName: Elaine
 collection: Global
