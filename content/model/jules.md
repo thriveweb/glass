@@ -3,6 +3,7 @@ template: ModelPage
 title: Jules
 featuredImage: >-
   https://ucarecdn.com/3da27fea-48c5-41e2-adcd-c3e71323b152/-/crop/850x417/1,30/-/preview/
+featuredVideo: 'https://ucarecdn.com/931f9887-5beb-4fa0-b52d-e7d1423c7e5a/'
 imageThumbnail: 'https://ucarecdn.com/5ed723dd-a7fc-4065-8f67-ed43fa0e77c9/'
 firstName: Jules
 collection: Boys
