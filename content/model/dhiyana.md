@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Dhiyana
-featuredImage: 'https://ucarecdn.com/a66477e6-e91f-4d3e-a393-77bb231d163b/'
+featuredImage: >-
+  https://ucarecdn.com/a66477e6-e91f-4d3e-a393-77bb231d163b/-/crop/2449x1480/0,93/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/a14a0295-e735-4835-a4b6-0cd0832fef79/-/crop/1311x1566/569,0/-/preview/
 firstName: Dhiyana
