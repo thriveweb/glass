@@ -2,6 +2,8 @@
 template: ModelPage
 title: 'Phoebe '
 featuredImage: 'https://ucarecdn.com/cb6bb410-52f1-4f30-911e-9df416233393/'
+featuredVideo: 'https://ucarecdn.com/e984c98c-4228-4929-b378-face9aa9f379/'
+featuredVideoMobile: 'https://ucarecdn.com/38997d29-ce50-4ae0-be3b-0e3aa718ae00/'
 imageThumbnail: >-
   https://glassmanagement.imgix.net/images/uploads/phoebe3897732182317headshot.png
 firstName: 'Phoebe '
