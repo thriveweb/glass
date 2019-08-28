@@ -23,7 +23,7 @@ content: >-
   Hipikin is now unisex and has boys only ranges too. Seen here pictured in last
   weeks shoot. 
 
-   Sailor Jacket  and hat by Mini Rodini.
+   Sailor Jacket  and hat by Mini Rodini at Hipkin
 
   Photography @imbecg
 
