@@ -111,9 +111,9 @@ testimonials:
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
-    - collection: 'Chelsea''s Choice #12'
     - collection: 'Chelsea''s Choice #11'
     - collection: Pink Ribbon Event
+    - collection: Hipkin
   subTitle: Our Journal
   title: Read Our Latest News
 ---
