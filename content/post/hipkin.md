@@ -10,20 +10,14 @@ content: >-
   was styled by the  boutique online store Hipkins.
 
 
-
-
   Hipkins is a super cool selection of fashion forward kid's clothing that have
   been hand picked  from around the globe. Every item you see online is there
   because they love it. And love it you will!
 
 
-
-
   Born in Melbourne, Hipkin makes finding that unique kids fashion clothing
   piece, outfit or entire wardrobe, easy and enjoyable. From the depths of New
   York Soho, to the corners of Scandinavia.
-
-
 
 
   Hipikin is now unisex and has boys only ranges too. Seen here pictured in last
