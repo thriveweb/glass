@@ -43,7 +43,7 @@ content: >-
   ![](https://ucarecdn.com/e8c510c7-c00c-495c-b838-a925bd66f83d/)
 
 
-  ![](https://ucarecdn.com/fb59ab50-d5c1-49d9-96a5-b5922b22e952/)
+  ![](https://ucarecdn.com/2b705764-2e30-4787-80a4-05d39e3853f9/)
 meta: {}
 ---
 
