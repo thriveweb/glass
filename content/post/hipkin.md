@@ -7,7 +7,7 @@ author: Tegan Glass
 date: 28th August 2019
 content: >-
   I had the pleasure to attend a shoot with the amazing Bec G last weekend. It
-  was styled by the  boutique online store Hipkins.
+  was styled by the  boutique online store Hipkin.
 
 
   Hipkins is a super cool selection of fashion forward kid's clothing that have
