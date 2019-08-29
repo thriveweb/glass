@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/44cd7370-7fbb-4d1c-abf3-05ec3fc9892c/-/crop/1246x1774/0,0/-/preview/
 firstName: Angelene T
-collection: Global
+collection: Girls
 height: 158cm
 measurementType: bust
 bust: 83cm
