@@ -27,10 +27,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/e903a710-8127-4b4e-8deb-f2bcc8fc6d35/'
   - image: >-
       https://ucarecdn.com/ad6a143a-eba9-48bf-a36c-ce1d1c8ecf40/-/crop/750x950/0,172/-/preview/
-  - image: >-
-      https://ucarecdn.com/7db76128-3b9f-4d0f-b741-4254575d0e96/-/crop/750x940/0,180/-/preview/
-  - image: >-
-      https://ucarecdn.com/0716f843-891d-41d8-84eb-dad6886065dd/-/crop/750x1002/0,120/-/preview/
+  - image: 'https://ucarecdn.com/ebb5fdca-0b7b-4961-9bbd-9734715c7d09/'
+  - image: 'https://ucarecdn.com/ec724ad2-d099-444f-9388-765e01f4203e/'
 meta:
   title: Kathleen T
 ---
