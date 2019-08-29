@@ -23,6 +23,8 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/0ce68f59-2feb-443a-8b65-b8fa46df293c/-/crop/1632x2163/0,286/-/preview/
   - image: 'https://ucarecdn.com/9260311c-8999-4b0b-9078-eab93d04406e/'
+  - image: 'https://ucarecdn.com/122bc64a-8f41-459a-941f-05c96d9de301/'
+  - image: 'https://ucarecdn.com/6f930a58-3a03-4cf4-a4a5-25c161e7f906/'
 meta:
   title: Angelene T
 ---
