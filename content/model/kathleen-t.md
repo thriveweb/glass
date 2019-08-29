@@ -4,7 +4,7 @@ title: Kathleen T
 featuredImage: >-
   https://ucarecdn.com/0b3c9785-40b1-4635-aaea-42975e183a8b/-/crop/1632x820/0,598/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/1d6b447e-a7e3-4c4a-bb3b-32324f7ff4e9/-/crop/991x1270/389,256/-/preview/
+  https://ucarecdn.com/fd2c3738-9fc7-4620-9c1a-423c12731657/-/crop/841x1293/367,393/-/preview/
 firstName: Kathleen T
 collection: Global
 measurementType: bust
@@ -29,6 +29,14 @@ imagePortfolio:
       https://ucarecdn.com/ad6a143a-eba9-48bf-a36c-ce1d1c8ecf40/-/crop/750x950/0,172/-/preview/
   - image: 'https://ucarecdn.com/ebb5fdca-0b7b-4961-9bbd-9734715c7d09/'
   - image: 'https://ucarecdn.com/ec724ad2-d099-444f-9388-765e01f4203e/'
+  - image: 'https://ucarecdn.com/d70683fb-c269-4362-8f30-a2e17d2d9717/'
+  - image: 'https://ucarecdn.com/294cfeba-1436-4bb8-aa61-5e1a8863a312/'
+  - image: 'https://ucarecdn.com/127ed7c4-e132-46ca-9ac8-bb37e9905ef0/'
+  - image: 'https://ucarecdn.com/a3199842-059f-4ee2-85e2-ea764c569b79/'
+  - image: 'https://ucarecdn.com/c40b5ab4-2f65-4749-9a16-3a267bb1a5f2/'
+  - image: 'https://ucarecdn.com/01041e6c-65cd-4e28-9114-39a7206b9b48/'
+  - image: 'https://ucarecdn.com/9716b28a-7d25-418a-a21c-78dccf1d9341/'
+  - image: 'https://ucarecdn.com/b8d3ef3c-954f-4d95-a773-4a1a0de2846c/'
 meta:
   title: Kathleen T
 ---
