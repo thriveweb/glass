@@ -6,8 +6,14 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/fd2c3738-9fc7-4620-9c1a-423c12731657/-/crop/841x1293/367,393/-/preview/
 firstName: Kathleen T
-collection: Global
+collection: Girls
+height: 160cm
 measurementType: bust
+bust: 76cm
+waist: 61cm
+hips: 79cm
+size: '6'
+shoeSize: '8'
 hair: Black
 eyes: Brown
 imagePortfolio:
