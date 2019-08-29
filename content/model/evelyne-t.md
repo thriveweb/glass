@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/309a612d-fa99-412e-85ba-b85b69e51176/-/crop/875x1190/299,308/-/preview/
 firstName: Evelyne T
-collection: Global
+collection: Girls
 height: 91cm
 measurementType: bust
 bust: 53cm
