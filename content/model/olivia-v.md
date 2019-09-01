@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/e4b0d9b8-208b-42f0-9f71-6ec26ffa5421/-/crop/3648x4469/0,0/-/preview/
 firstName: Olivia V
 collection: Girls
-height: 108cm
+height: 123cm
 measurementType: bust
-bust: 58cm
-waist: 56cm
-hips: 55cm
-size: 4-5
-shoeSize: '12'
+bust: 60cm
+waist: 58cm
+hips: 65cm
+size: '6'
+shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
