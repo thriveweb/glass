@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Anu
-featuredImage: 'https://ucarecdn.com/a305cad4-af65-42d8-a80d-fba07322d3ad/'
+featuredImage: 'https://ucarecdn.com/1e80f238-2a7d-4258-b00a-4ff2fdb1b7f4/'
 imageThumbnail: 'https://ucarecdn.com/7919b76d-c7ab-4d47-bba6-9912935887d2/'
 firstName: Anu
 collection: Classic
