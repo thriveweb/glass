@@ -17,6 +17,8 @@ hair: Dark Blonde
 eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/a5747ed3-efc2-4dde-8163-c7b011cd819a/'
+  - image: >-
+      https://ucarecdn.com/61a8ec2a-fea3-4861-8dfa-6e620b104799/-/crop/1240x2028/0,180/-/preview/
   - image: 'https://ucarecdn.com/4a9b8984-f7c4-40e4-b941-08e17b4f2888/'
   - image: 'https://ucarecdn.com/7dbda1f0-c17d-467d-9e20-5e16d62ae548/'
   - image: >-
