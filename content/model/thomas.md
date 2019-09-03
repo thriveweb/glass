@@ -4,7 +4,14 @@ title: Thomas
 featuredImage: 'https://ucarecdn.com/370866af-0dd0-4272-ad4c-0c323a75294b/'
 imageThumbnail: 'https://ucarecdn.com/3221ac62-1a43-45c4-8bb7-e157eb745b45/'
 firstName: Thomas
-collection: Global
+collection: Men
+height: 180cm
+measurementType: chest
+bust: 98cm
+waist: 75cm
+hips: 98cm
+size: Pant 30 Shirt M/L
+shoeSize: '10'
 hair: Brown
 eyes: 'Brown '
 imagePortfolio:
