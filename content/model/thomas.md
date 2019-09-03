@@ -13,7 +13,7 @@ hips: 98cm
 size: Pant 30 Shirt M/L
 shoeSize: '10'
 hair: Brown
-eyes: 'Brown '
+eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/a6856153-7ed5-44aa-8f84-dad84ed136fa/'
   - image: 'https://ucarecdn.com/c442bf73-3784-4604-8702-0e073b02dbc5/'
