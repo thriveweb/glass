@@ -20,9 +20,11 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/25a5b28b-cb06-45c2-b7f3-7e684aae2e3b/'
   - image: 'https://ucarecdn.com/bc85f01c-e40a-4919-938b-ca84b5f7ff09/'
   - image: 'https://ucarecdn.com/92d8abc9-6c56-4029-9a5b-2b3fa5251fec/'
+  - image: 'https://ucarecdn.com/9f4fc4cb-9408-4429-b3d1-d5ace4a623d3/'
   - image: 'https://ucarecdn.com/1901c736-ba45-4262-ad55-630525164afb/'
   - image: 'https://ucarecdn.com/46a01771-95f8-408c-9419-e41fd877b10a/'
-  - image: 'https://ucarecdn.com/9f4fc4cb-9408-4429-b3d1-d5ace4a623d3/'
+  - image: >-
+      https://ucarecdn.com/9d91b372-dcbd-4d3d-b189-7ce76df9dd0f/-/crop/651x2238/0,0/-/preview/
 meta:
   title: Jake W
 ---
