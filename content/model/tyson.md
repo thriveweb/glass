@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Tyson
-featuredImage: 'https://ucarecdn.com/7afb4396-82b5-48de-b471-02de6419281e/'
+featuredImage: >-
+  https://ucarecdn.com/7afb4396-82b5-48de-b471-02de6419281e/-/crop/724x404/0,0/-/preview/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/unnamed-24-2-.jpg'
 firstName: Tyson
 collection: Men
