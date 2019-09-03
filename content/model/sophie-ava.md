@@ -16,6 +16,8 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/a6925eec-3d08-4efb-8c38-7de85b28f4fb/'
+  - image: >-
+      https://ucarecdn.com/ca11ccf0-2543-4a21-aa11-0eed227bb84a/-/crop/1231x2005/0,203/-/preview/
   - image: 'https://ucarecdn.com/06c7fba1-2890-4d70-a0f8-f0551c9a71ae/'
   - image: 'https://ucarecdn.com/52afe2e6-11ce-4e96-a6a3-7a6c542de320/'
   - image: 'https://ucarecdn.com/cffa16d9-2e27-4f8c-ad01-8674576cd5d9/'
