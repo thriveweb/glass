@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Thomas
-featuredImage: 'https://ucarecdn.com/370866af-0dd0-4272-ad4c-0c323a75294b/'
+featuredImage: >-
+  https://ucarecdn.com/370866af-0dd0-4272-ad4c-0c323a75294b/-/crop/2351x1290/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/3221ac62-1a43-45c4-8bb7-e157eb745b45/'
 firstName: Thomas
 collection: Men
