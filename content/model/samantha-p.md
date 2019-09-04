@@ -7,6 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/6af0d6e5-b44e-4785-9991-5078b4ed2744/-/crop/700x689/187,0/-/preview/
 firstName: Samantha P
 collection: Women
+height: 178cm
 measurementType: bust
 bust: 90cm
 waist: 70cm
