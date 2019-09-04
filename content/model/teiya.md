@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Teiya
-featuredImage: 'https://ucarecdn.com/4ac74de3-776d-4f1c-847c-e0dfe0f14136/'
+featuredImage: >-
+  https://ucarecdn.com/4ac74de3-776d-4f1c-847c-e0dfe0f14136/-/crop/2216x1310/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/fc0a5154-aa34-40c0-b384-9bcd51da6899/-/crop/1564x1861/0,0/-/preview/
 firstName: Teiya
