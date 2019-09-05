@@ -2,6 +2,7 @@
 template: ModelPage
 title: Debbie
 featuredImage: 'https://ucarecdn.com/4e433010-8403-487f-ab1f-d2ba9686a09e/'
+featuredVideo: 'https://ucarecdn.com/6046befc-df1a-46fa-b5ed-38690927793a/'
 imageThumbnail: >-
   https://ucarecdn.com/6a70dc63-3d94-4e07-a816-6a0455f5fcfa/-/crop/2216x2912/1256,0/-/preview/
 firstName: Debbie
