@@ -32,6 +32,8 @@ imagePortfolio:
       https://ucarecdn.com/aa4d8b70-6fd2-457b-b4eb-a58c92e8545d/-/crop/1151x651/20,758/-/preview/
   - image: >-
       https://ucarecdn.com/788204a8-1c06-4baf-ac78-a1bc86ea0730/-/crop/916x915/0,55/-/preview/
+  - image: 'https://ucarecdn.com/b131ac16-fea4-4f88-b6f7-0297767ae921/'
+  - image: 'https://ucarecdn.com/6b4c3908-93b1-4299-a173-174d890cfcff/'
 meta:
   title: Bailey K
 ---
