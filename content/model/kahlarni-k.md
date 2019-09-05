@@ -35,6 +35,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c8c56245-81b0-4bed-98e8-0322d5ffe16e/'
   - image: 'https://ucarecdn.com/55c2e620-c04e-4c0a-920e-937e45658421/'
   - image: 'https://ucarecdn.com/ee33cf08-6b9d-4e74-9025-c7fdbbfa4b53/'
+  - image: 'https://ucarecdn.com/a9ad6bbd-6d8c-4e24-9e81-931e18b64b2e/'
+  - image: 'https://ucarecdn.com/69bf95b7-53b7-43ec-b816-95d7c780c66c/'
+  - image: 'https://ucarecdn.com/2deb0f42-6fb3-454c-98b3-8a4a5bb27a9b/'
 meta:
   title: 'Kahlarni '
 ---
