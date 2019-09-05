@@ -30,6 +30,8 @@ imagePortfolio:
       https://ucarecdn.com/eb94ce9c-7827-4747-876f-95ab828b536e/-/crop/1151x674/25,740/-/preview/
   - image: >-
       https://ucarecdn.com/4771bc46-b5c5-40e1-a9af-5a3e38282cdb/-/crop/1242x1407/0,139/-/preview/
+  - image: 'https://ucarecdn.com/f8f46efb-d78a-481d-b0a2-e1f719d5bc1f/'
+  - image: 'https://ucarecdn.com/e8144f3d-3f5a-4c21-9ad5-751d4df73efa/'
 meta:
   title: 'Cruze '
 ---
