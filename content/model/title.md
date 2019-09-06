@@ -3,12 +3,12 @@ template: ModelPage
 title: Chelsea
 featuredImage: 'https://ucarecdn.com/0e8cc8fd-4ece-4e2a-8510-c1702872b72c/'
 featuredVideo: 'https://ucarecdn.com/59da84e6-4387-49b9-b53e-8f645855f0fe/'
-featuredVideoMobile: 'https://ucarecdn.com/1c2de6f8-3c79-477b-85e6-c8198f44287f/'
+featuredVideoMobile: 'https://ucarecdn.com/e1353d67-201d-4c4f-92ae-66a8260c01e3/'
 imageThumbnail: >-
   https://ucarecdn.com/f1b96892-1c94-4e5e-8dfc-847b59e92047/-/crop/1514x1103/85,0/-/preview/
 firstName: Chelsea
 collection: Women
-height: 168cm
+height: 169cm
 bust: 84cm
 waist: 64cm
 hips: 90cm
@@ -70,6 +70,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/aed70c80-7e6e-492d-abc4-4a449769015d/'
   - image: 'https://ucarecdn.com/499357d0-1f5f-4b20-aa88-6638b8dbf774/'
   - image: 'https://ucarecdn.com/93800f87-540c-4724-9fff-61038c006c88/'
+  - image: 'https://ucarecdn.com/9fded298-6545-47a4-b217-a5f8207189cb/'
+  - image: 'https://ucarecdn.com/371c8e8d-3763-45dc-ae03-6096534805bc/'
+  - image: 'https://ucarecdn.com/5616cd29-cba1-483e-bbdf-53a944513294/'
 meta:
   title: Chelsea
 ---
