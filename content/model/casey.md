@@ -10,10 +10,10 @@ firstName: Casey
 collection: Men
 height: 183cm
 measurementType: chest
-bust: 105cm M shirt
+bust: '105cm '
 waist: 90cm
-hips: 107cm -36 pant
-size: M
+hips: '107cm '
+size: M shirt/ 32 pant
 shoeSize: '11.5'
 hair: Dark Brown
 eyes: Green
