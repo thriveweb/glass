@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/harry-161616161.jpg'
 firstName: Harry
 collection: Boys
-height: 173cm
+height: 176cm
 measurementType: chest
 bust: 74cm
 waist: 69cm
