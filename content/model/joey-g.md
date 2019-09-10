@@ -3,7 +3,8 @@ template: ModelPage
 title: Joey G
 featuredImage: >-
   https://ucarecdn.com/a36db10f-124a-4005-b5bc-970f9a2e1ded/-/crop/1581x824/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/9f8136d5-3d60-4b91-978d-9544bbb7d990/'
+imageThumbnail: >-
+  https://ucarecdn.com/9f8136d5-3d60-4b91-978d-9544bbb7d990/-/crop/1524x1678/0,0/-/preview/
 firstName: Joey G
 collection: Boys
 height: 162cm
