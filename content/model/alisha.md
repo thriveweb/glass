@@ -25,6 +25,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a6fc28cd-e563-43f9-ae1a-c1eaae3e8f99/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/higgins-family.jpg'
   - {}
+  - image: 'https://ucarecdn.com/ce9582d9-5fbc-4107-b755-116d16ad472b/'
 meta:
   title: Alisha
 ---
