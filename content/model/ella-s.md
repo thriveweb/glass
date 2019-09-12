@@ -4,7 +4,7 @@ title: Ella S
 featuredImage: >-
   https://ucarecdn.com/9288edec-f7c0-487b-bd33-ec590024d322/-/crop/1581x771/0,146/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/fd5497e8-fc0c-45c2-91e7-9fff848d4cc8/-/crop/216x282/229,22/-/preview/
+  https://ucarecdn.com/2e5973a4-d83f-49f4-9b28-7cd3569cf482/-/crop/641x822/546,100/-/preview/
 firstName: Ella S
 collection: Girls
 height: 154cm
