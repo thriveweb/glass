@@ -30,6 +30,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b2b984bb-f5f4-4228-b273-3e47596deb36/'
   - image: 'https://ucarecdn.com/6cfb277f-e818-4d79-9d0c-005e71972722/'
   - image: 'https://ucarecdn.com/04225401-5fa3-4440-8a40-c3055c1d6f8d/'
+  - image: 'https://ucarecdn.com/a52624b3-df06-4bdf-a3ec-6ae256df1822/'
 meta:
   title: Montana
 ---
