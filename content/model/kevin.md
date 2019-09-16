@@ -26,6 +26,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/cb45b5c2-f33b-4e02-926d-3a7bacc086a3/'
   - image: 'https://ucarecdn.com/4a12ddb8-dbd6-4494-a3d9-e900fed4cecb/'
   - image: 'https://ucarecdn.com/44d76a4f-b6b1-414f-adbe-96972ec08738/'
+  - image: 'https://ucarecdn.com/a5f40a76-5920-4d9f-998f-8e80a63279b9/'
 meta:
   title: Kevin L
 ---
