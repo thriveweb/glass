@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/11fa2a85-d8bd-42e9-8aed-c05288a4b2f3/-/crop/480x527/0,0/-/preview/
 firstName: Kayla
 collection: Girls
-height: 172cm
+height: 173cm
 measurementType: bust
 bust: 84cm
 waist: 65cm
