@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Rina
-featuredImage: >-
-  https://ucarecdn.com/64a8497e-23b8-4664-ae35-4e0b7a9a2584/-/crop/5299x3035/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/31ed1872-819d-4fa4-80d2-1371ddf9967e/'
 imageThumbnail: >-
   https://ucarecdn.com/ea2824ac-9085-498e-b11a-2a66cce369c4/-/crop/1594x2068/0,0/-/preview/
 firstName: Rina
