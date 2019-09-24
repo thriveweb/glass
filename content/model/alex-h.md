@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Alex H
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/alex-hughes-banner.jpg'
+featuredImage: >-
+  https://ucarecdn.com/8a163ee7-c44c-46a2-b592-8f5f7e315768/-/crop/1088x867/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/4b646dab-f4b1-42bd-8630-d67ceab45756/-/crop/956x909/107,44/-/preview/
 firstName: Alex H
@@ -16,6 +17,7 @@ shoeSize: '8'
 hair: Light Brown
 eyes: Hazel
 imagePortfolio:
+  - image: 'https://ucarecdn.com/1410f259-8fc0-40be-9072-a05c4d1afdd0/'
   - image: 'https://ucarecdn.com/cab71c26-daab-40c8-a2c0-5b2b8cd9a014/'
   - image: 'https://ucarecdn.com/30c5d598-d59c-4e12-a5bf-879ad261ae4e/'
   - image: 'https://ucarecdn.com/08c6718a-20fe-4410-89db-ce9939efced9/'
@@ -28,11 +30,10 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/alexh3427893.jpg'
   - image: 'https://ucarecdn.com/de83b46a-9b37-4f2e-8f6f-77879c95132c/'
   - image: 'https://ucarecdn.com/55bce784-d5bf-4fb9-9301-c0ec0ce98cf9/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/alex-hughes-6.jpg'
   - image: 'https://ucarecdn.com/87c2c7bb-30bb-49b4-a54c-60d7bbf9d08b/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/alexh472389.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/alexh324789302.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/alex-hughes-8.jpg'
+  - image: 'https://ucarecdn.com/bf49b36e-52e4-4202-bf04-62dee43374d5/'
 meta:
   title: Alex H
 ---
