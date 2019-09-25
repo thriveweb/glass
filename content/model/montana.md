@@ -27,7 +27,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/6c0f7ce2-857d-4f31-8df8-f840b48c26b1/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/nevada-4.jpg'
   - image: 'https://ucarecdn.com/5ab25c3d-3adc-4328-817c-fdb61bbc467f/'
-  - image: 'https://ucarecdn.com/b2b984bb-f5f4-4228-b273-3e47596deb36/'
+  - image: 'https://ucarecdn.com/5009c361-535b-4e4a-baa1-f9a819eb79ac/'
   - image: 'https://ucarecdn.com/6cfb277f-e818-4d79-9d0c-005e71972722/'
   - image: 'https://ucarecdn.com/04225401-5fa3-4440-8a40-c3055c1d6f8d/'
   - image: 'https://ucarecdn.com/a52624b3-df06-4bdf-a3ec-6ae256df1822/'
