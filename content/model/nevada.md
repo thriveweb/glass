@@ -5,7 +5,7 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/nevada-aaaa.jpg
 imageThumbnail: >-
   https://ucarecdn.com/9ecdaf4c-275e-4937-81df-1a146de7dbad/-/crop/479x495/0,0/-/preview/
 firstName: Nevada
-collection: Global
+collection: Girls
 height: 110cm
 measurementType: bust
 bust: 51cm
@@ -27,6 +27,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/d6535a60-7c74-487a-8271-c50ad41e4ac9/'
   - image: 'https://ucarecdn.com/92f3acb6-e06d-479a-a136-dfe84b610aa6/'
   - image: 'https://ucarecdn.com/5cebb851-83b0-466e-a0a0-c600302f4b53/'
+  - image: 'https://ucarecdn.com/db23bb2e-4f3c-4024-8f3a-8eff4540e731/'
+  - image: 'https://ucarecdn.com/7f337060-6564-4a1d-b1a8-d5439b60ae36/'
 meta:
   title: Nevada
 ---
