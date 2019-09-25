@@ -116,5 +116,8 @@ featuredPosts:
     - collection: Hipkin
   subTitle: Our Journal
   title: Read Our Latest News
+meta:
+  description: ''
+  title: 'Gold Coast Model & Talent Agency | Glass Management '
 ---
 
