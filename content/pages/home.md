@@ -117,7 +117,9 @@ featuredPosts:
   subTitle: Our Journal
   title: Read Our Latest News
 meta:
-  description: ''
+  description: >-
+    A boutique modeling and talent agency based on the Gold Coast, Australia.
+    Providing professional talent of all ages.
   title: 'Gold Coast Model & Talent Agency | Glass Management '
 ---
 
