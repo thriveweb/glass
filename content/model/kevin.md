@@ -2,7 +2,7 @@
 template: ModelPage
 title: Kevin
 featuredImage: >-
-  https://ucarecdn.com/c7a3934b-d407-4b0a-9ae8-b873f58f4b27/-/crop/960x674/0,0/-/preview/
+  https://ucarecdn.com/c7a3934b-d407-4b0a-9ae8-b873f58f4b27/-/crop/941x555/0,64/-/preview/
 imageThumbnail: 'https://ucarecdn.com/536e37ca-ca66-41d0-aea0-9f17d2ca58c3/'
 firstName: Kevin L
 collection: Classic
