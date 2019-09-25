@@ -2,7 +2,7 @@
 template: ModelPage
 title: Lee
 featuredImage: >-
-  https://ucarecdn.com/10dcb89e-91b9-46cc-8e43-670b7898ca5e/-/crop/598x397/0,0/-/preview/
+  https://ucarecdn.com/10dcb89e-91b9-46cc-8e43-670b7898ca5e/-/crop/589x267/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/698bd281-c9e2-491c-9023-8539d1312764/-/crop/1168x1237/612,0/-/preview/
 firstName: Lee
