@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/0805affe-8f8b-4444-8862-3f2f3d6ccfff/-/crop/1584x2111/0,0/-/preview/
 firstName: Mia E
 collection: Girls
-height: 153cm
+height: 162cm
 measurementType: bust
-bust: 70cm
-waist: 62cm
-hips: 74cm
-size: '12'
-shoeSize: '7'
+bust: 76cm
+waist: 66cm
+hips: 82cm
+size: '12 Girls : 4-6 Ladies'
+shoeSize: '8'
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
