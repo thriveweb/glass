@@ -47,6 +47,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/d1cdbdcf-de01-4796-8c1a-46438b2b1004/'
   - image: 'https://ucarecdn.com/8aa0a6a4-8954-4710-b531-aaea84095ad1/'
   - image: 'https://ucarecdn.com/efee7a2a-0def-4f39-83ed-31629dd51aa7/'
+  - image: 'https://ucarecdn.com/55c87208-3b49-4412-8bf6-e5e95d0aab54/'
 meta:
   title: Ilana
 ---
