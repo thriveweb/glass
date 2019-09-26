@@ -9,11 +9,11 @@ imageThumbnail: >-
   https://ucarecdn.com/2ffd0dfe-3c3d-4d57-833c-731af107984f/-/crop/788x1094/411,156/-/preview/
 firstName: Jessie
 collection: Women
-height: 170cm
+height: 172cm
 measurementType: bust
-bust: 84cm
-waist: 65cm
-hips: 90cm
+bust: 88cm
+waist: 68cm
+hips: 93cm
 size: '8'
 shoeSize: '8'
 hair: Dark Blonde
