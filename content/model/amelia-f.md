@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Amelia F
-featuredImage: 'https://ucarecdn.com/b7c31c77-fddd-41b4-8e01-37d7ca082ed2/'
+featuredImage: >-
+  https://ucarecdn.com/b7c31c77-fddd-41b4-8e01-37d7ca082ed2/-/crop/1536x641/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/ddb08dbd-42f6-4550-bd58-af7bb8b13066/'
 firstName: Amelia F
 collection: Girls
