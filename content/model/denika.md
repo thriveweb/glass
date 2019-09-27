@@ -22,6 +22,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/3cba8e9b-ac51-43a4-88e6-ed8cc2ae04d4/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/dee11.jpg'
   - image: 'https://ucarecdn.com/8f3f5daa-efb6-4276-bce5-9edbd0d3493e/'
+  - image: 'https://ucarecdn.com/c3b06171-3b8f-4417-a1f4-02ac03b147b7/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/dee4.jpg'
   - image: 'https://ucarecdn.com/34fa8db5-f249-40fe-9054-d34c670de655/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/deedee.jpg'
@@ -29,13 +30,14 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/817d0b4c-f15b-4d1a-8107-fdf420db22e4/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/dee1.jpg'
   - image: 'https://ucarecdn.com/3c04702c-0924-44a3-8f82-7df4f2af26ff/'
+  - image: 'https://ucarecdn.com/1aeac819-14ac-4d66-8fd7-57b80346d8dc/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/dee6.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/dee12.png'
+  - image: 'https://ucarecdn.com/8a3cb8d1-7624-4472-9774-3a022e6d2e3f/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/dee13.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/d.jpg'
   - image: 'https://ucarecdn.com/f472f11f-733f-41eb-8d5e-c3772ec22e69/'
-  - image: 'https://ucarecdn.com/075022c3-2fad-4173-bf05-b7dcfe7eb31d/'
-  - image: 'https://ucarecdn.com/cf5f6895-9192-43ab-94d1-6bf910990f0a/'
+  - image: 'https://ucarecdn.com/c540c77c-7865-49f5-8045-ee8dd6df541a/'
 meta:
   title: Womens
 ---
