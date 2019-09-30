@@ -10,8 +10,8 @@ measurementType: chest
 bust: 53cm
 waist: 51cm
 hips: 55cm
-size: '3'
-shoeSize: US 10
+size: '4'
+shoeSize: US 11
 hair: Blonde
 eyes: Brown
 imagePortfolio:
