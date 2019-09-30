@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/d8bff70f-3edc-4ab3-9920-e7e27ef8f553/'
 featuredVideo: 'https://ucarecdn.com/448a8317-e386-4c09-b5a6-f822c87fa3fe/'
 featuredVideoMobile: 'https://ucarecdn.com/c33db135-e711-43a0-b0e6-e825a134f4ae/'
 imageThumbnail: >-
-  https://ucarecdn.com/20f58421-5306-4af8-9c7e-22b84a950bdf/-/crop/1646x1702/0,0/-/preview/
+  https://ucarecdn.com/9f30726a-adec-4a98-b8ca-dcf07b33d02f/-/crop/1683x2235/0,0/-/preview/
 firstName: Wyatt
 collection: Boys
 height: 173cm
