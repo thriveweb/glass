@@ -32,15 +32,15 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/e89137c3-25f4-4875-a552-153f41ec6ec3/'
   - image: >-
       https://ucarecdn.com/730ed29c-2358-4310-a391-8c6fc4aac245/-/crop/1634x1752/0,695/-/preview/
-  - image: 'https://ucarecdn.com/51231258-c2aa-4843-8d41-037a2231fe84/'
   - image: 'https://ucarecdn.com/290b6436-d07e-4acc-ad05-05154ff6da84/'
+  - image: 'https://ucarecdn.com/51231258-c2aa-4843-8d41-037a2231fe84/'
   - image: 'https://ucarecdn.com/6ab3d6fc-f437-4ec8-bf71-c813962a4e72/'
   - image: 'https://ucarecdn.com/5ec38ab2-5dc0-4e98-bafd-0850adaedaef/'
   - image: 'https://ucarecdn.com/c349c355-0fae-404f-b0e9-4d2869d9bec1/'
   - image: 'https://ucarecdn.com/c8128139-f1ea-4825-aa0f-e74d14c3f30e/'
   - image: 'https://ucarecdn.com/c2027ac2-2e1f-4312-ad5b-53e708f5d47c/'
-  - image: 'https://ucarecdn.com/94284c35-e1ca-4f5c-8b1c-e9a6a672d289/'
   - image: 'https://ucarecdn.com/94ea8643-a830-4fb5-81a7-ec65f5317d28/'
+  - image: 'https://ucarecdn.com/94284c35-e1ca-4f5c-8b1c-e9a6a672d289/'
   - image: 'https://ucarecdn.com/179e3603-06de-4c74-b19f-f5b65f3120cd/'
   - image: 'https://ucarecdn.com/448b1cd2-4729-464e-b5be-2314b4316be3/'
   - image: 'https://ucarecdn.com/f3345e94-e578-4c62-9ce5-dbc4936b93fa/'
@@ -51,8 +51,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/2413ed77-8652-4e42-87a3-55da2d3960cb/'
   - image: 'https://ucarecdn.com/f0d59867-a5f9-4980-ad0d-1a69917966cc/'
   - image: 'https://ucarecdn.com/b602ec27-dda6-4bb3-8319-9870768f3173/'
-  - image: 'https://ucarecdn.com/aa057d94-af09-43b2-965a-43e34bf768e7/'
   - image: 'https://ucarecdn.com/4c2566bb-c17e-426a-a91d-d1c2f5485f95/'
+  - image: 'https://ucarecdn.com/aa057d94-af09-43b2-965a-43e34bf768e7/'
 meta:
   title: Wyatt
 ---
