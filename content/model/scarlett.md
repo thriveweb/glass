@@ -6,10 +6,11 @@ imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/scarlett-hs.jp
 firstName: Scarlett
 collection: Girls
 height: 160cm
+measurementType: bust
 bust: 78cm
 waist: 58cm
 hips: 78cm
-size: Ladies 8
+size: Ladies 6 or kids 14
 shoeSize: '5'
 hair: Blonde
 eyes: Blue
