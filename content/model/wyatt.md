@@ -8,11 +8,11 @@ imageThumbnail: >-
   https://ucarecdn.com/20f58421-5306-4af8-9c7e-22b84a950bdf/-/crop/1646x1702/0,0/-/preview/
 firstName: Wyatt
 collection: Boys
-height: 170cm
+height: 173cm
 measurementType: chest
-bust: 76cm
+bust: 81cm
 waist: 70cm
-hips: 86cm
+hips: 84cm
 size: '14'
 shoeSize: '9'
 hair: Blonde
