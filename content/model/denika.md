@@ -9,9 +9,9 @@ collection: Women
 height: 173cm
 measurementType: bust
 bust: 93cm
-waist: 73cm
+waist: 70cm
 hips: 92cm
-size: '12'
+size: 10-12
 shoeSize: '9'
 hair: Blonde
 eyes: Green
