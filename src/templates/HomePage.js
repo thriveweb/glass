@@ -16,6 +16,7 @@ import SectionPartners from '../components/SectionPartners'
 
 export const HomePageTemplate = ({
   subTitle,
+  title,
   featuredImage,
   featuredVideo,
   featuredVideoMobile,
@@ -42,6 +43,7 @@ export const HomePageTemplate = ({
       <Banner
         image={featuredImage}
         subTitle={subTitle}
+        title={title}
         content={content}
         buttonText={buttonText}
         buttonUrl={buttonUrl}
@@ -81,6 +83,7 @@ export const pageQuery = graphql`
     page: markdownRemark(id: { eq: $id }) {
       frontmatter {
         subTitle
+        title
         featuredImage
         featuredVideo
         featuredVideoMobile
