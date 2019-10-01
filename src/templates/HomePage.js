@@ -47,6 +47,7 @@ export const HomePageTemplate = ({
         buttonUrl={buttonUrl}
         featuredVideo={featuredVideo}
         featuredVideoMobile={featuredVideoMobile}
+        home
       />
       <ImageGallery gallery={gallery} />
       <SectionAbout about={about} />
