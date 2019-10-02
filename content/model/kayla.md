@@ -39,6 +39,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a1d78444-09dc-45ad-91f1-363ba311a58c/'
   - image: 'https://ucarecdn.com/998f20ad-02f7-4548-a2f7-176d0a67aa2c/'
   - image: 'https://ucarecdn.com/9a271abf-90f6-40b9-88b2-7a3c2eb4976c/'
+  - image: 'https://ucarecdn.com/3d9c6a67-54e9-43fe-9710-0cb716fdc02b/'
+  - image: 'https://ucarecdn.com/a3f41fd1-cf56-4b7d-96c2-1bf86c307bc2/'
 meta:
   title: Kayla
 ---
