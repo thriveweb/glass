@@ -5,6 +5,7 @@ featuredVideoMobile: 'https://ucarecdn.com/d7433717-7d75-434a-8596-c3fdf3570ad4/
 template: HomePage
 slug: ''
 subTitle: Welcome To
+title: Glass Management
 content: >-
   A boutique modeling and talent agency based on the Gold Coast, Australia. 
   Providing professional talent of all ages. 
@@ -30,6 +31,7 @@ about:
   image: >-
     https://glassmanagement.imgix.net/images/uploads/8e8e6d8ccaa4e8063cbf3a3eb3c6c3e4-timeless-beauty-classic-beauty.jpg
   subTitle: ' '
+  title: Our Mission Statement
   content: >-
     > _"For beautiful eyes, look for the good in others; for beautiful lips,
     speak only words of kindness; and for poise, walk with the knowledge you are
@@ -40,10 +42,10 @@ about:
     aspiring talent and to provide our clients with exceptional service.**
   buttonText: Why Choose Us
   buttonUrl: about
-  title: Our Mission Statement
 testimonials:
   testimonial:
-    - content: >-
+    - title: The Warehouse Studio
+      content: >-
         I am the Associate Director of the Warehouse Workshop Screen Acting
         Studio, a fully owned subsidiary of McSweeney Newman Casting
 
@@ -64,8 +66,8 @@ testimonials:
       logo: >-
         https://glassmanagement.imgix.net/images/uploads/83abe0_b72f87a1a7d24228bcdbcb56aab62d30.png
       name: Philip Holder- Associate Director www.warehousestudio.com.au
-      title: The Warehouse Studio
-    - content: >-
+    - title: 'Lexus Australia '
+      content: >-
         **Appreciation**
 
 
@@ -82,12 +84,12 @@ testimonials:
         John Conomos CEO Lexus Australia
       logo: 'https://glassmanagement.imgix.net/images/uploads/lexus.jpeg'
       name: ' CEO John Conomos'
-      title: 'Lexus Australia '
-    - content: 'Glad to hear the talent enjoyed themselves, they were truly great!'
+    - title: The Sensory
+      content: 'Glad to hear the talent enjoyed themselves, they were truly great!'
       logo: 'https://ucarecdn.com/15695dd1-2155-41a9-b46f-11ebf46f4c80/'
       name: Greta Waters The-Sensory
-      title: The Sensory
-    - content: >-
+    - title: The Pines Shopping Centre
+      content: >-
         Hi
 
 
@@ -107,7 +109,6 @@ testimonials:
         Marketing Manager
       logo: 'https://ucarecdn.com/d752c597-d856-4ee6-ba23-3f10489bc142/'
       name: Sarah Davis
-      title: The Pines Shopping Centre
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
