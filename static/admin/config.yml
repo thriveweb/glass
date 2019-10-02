@@ -32,7 +32,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Template, name: template, widget: hidden, default: 'HomePage'}
           - {label: Slug, name: slug, widget: hidden, default: '/'}
           - {label: Sub Title, name: subTitle, widget: string, required: false}
-          - {label: Title, name: title, widget: string, required: false}
           - {label: Content, name: content, widget: string, required: false}
           - {label: Button Text, name: buttonText, widget: string, required: false}
           - {label: Button Url, name: buttonUrl, widget: string, required: false}

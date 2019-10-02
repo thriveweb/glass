@@ -39,7 +39,7 @@ class Banner extends Component {
   }
 
   render() {
-    const { image, title, subTitle, content, buttonText, buttonUrl, featuredVideo, featuredVideoMobile, modelPage, home } = this.props
+    const { image, title, subTitle, content, buttonText, buttonUrl, featuredVideo, featuredVideoMobile, modelPage } = this.props
     const { videoPlaying, mobileWidth } = this.state
 
     return <section className={`section--banner relative ${modelPage && 'section-thick'}`}>
@@ -91,10 +91,11 @@ class Banner extends Component {
       }
       <div className='container relative'>
         {subTitle && <p className='title'>{subTitle}</p>}
-        {home && <LazyImage src='https://glassmanagement.imgix.net/images/uploads/logo-white.png' alt='logo' />}
         {title
           ? <h1>{title}</h1>
           : modelPage
+          ? ''
+          : <LazyImage src='https://glassmanagement.imgix.net/images/uploads/logo-white.png' alt='logo' />
         }
         {content && <p className='section--banner-content'>{content}</p>}
         {buttonUrl &&
