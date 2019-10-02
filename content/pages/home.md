@@ -5,7 +5,7 @@ featuredVideoMobile: 'https://ucarecdn.com/d7433717-7d75-434a-8596-c3fdf3570ad4/
 template: HomePage
 slug: ''
 subTitle: Welcome To
-title: Glass Management
+title: ''
 content: >-
   A boutique modeling and talent agency based on the Gold Coast, Australia. 
   Providing professional talent of all ages. 
