@@ -4,7 +4,7 @@ title: Harrison T
 featuredImage: 'https://ucarecdn.com/ab8d066d-ba9e-4037-9bde-dfce1ea76ccf/'
 imageThumbnail: 'https://ucarecdn.com/c1ee5321-7333-4b9d-9dbe-8d7f87f482ca/'
 firstName: Harrison T
-collection: Global
+collection: Boys
 height: 120cm
 measurementType: chest
 bust: 57cm
