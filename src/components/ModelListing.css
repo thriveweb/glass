@@ -84,6 +84,18 @@
 }
 
 
+.Models .influencer-link {
+	display: none;
+}
+
+.influencer-link {
+	max-width: 160px;
+}
+
+.influencer-link a {
+	padding: 1.5rem;
+}
+
 @media only screen and (max-width: 1400px) {
 	.section--model-list-item-link {
 		height: 36vw;
@@ -201,15 +213,3 @@
 		word-break: break-all;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-

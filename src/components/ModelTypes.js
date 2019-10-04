@@ -54,6 +54,9 @@ export default ({ modelTypes, handleSelect, selectedModelType }) => {
                     </li>
                   )
                 })}
+                <li className={`nav--list-item influencer-link`}>
+                  <Link to={`/influencers/`} activeClassName='active'>Influencers</Link>
+                </li>
           </ul>
         )
       }}
