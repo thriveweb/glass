@@ -1,4 +1,6 @@
 ---
+template: InfluencersPage
+slug: influencers
 featuredImage: 'https://ucarecdn.com/76e7e524-050e-4f40-9241-cf636cb37e49/'
 subTitle: Our People
 title: Influencers
@@ -13,4 +15,3 @@ influencerList:
     instagram: 'https://instagram.com'
     name: Aaron
 ---
-
