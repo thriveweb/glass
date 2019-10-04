@@ -11,6 +11,7 @@ import { InfoPageTemplate } from '../templates/InfoPage'
 import { JoinUsPageTemplate } from '../templates/JoinUsPage'
 import { ModelPageTemplate } from '../templates/ModelPage'
 import { ModelsPageTemplate } from '../templates/ModelsPage'
+import { InfluencersPageTemplate } from '../templates/InfluencersPage'
 
 if (
   window.location.hostname === 'localhost' &&
@@ -57,4 +58,7 @@ CMS.registerPreviewTemplate('model', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('models', ({ entry }) => (
   <ModelsPageTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('influencers', ({ entry }) => (
+  <InfluencersPageTemplate {...entry.toJS().data} />
 ))
