@@ -157,6 +157,32 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
               - {label: Noindex, name: noindex, widget: boolean, required: false}
 
+      - file: "content/pages/influencers.md"
+        label: "Influencers"
+        name: "influencers"
+        required: false
+        fields:
+          - {label: Featured Image, name: featuredImage, widget: image, required: false}
+          - {label: Sub Title, name: subTitle, widget: string, required: false}
+          - {label: Title, name: title, widget: string, required: false}
+          - label: "Infuencer List"
+            name: "influencerList"
+            widget: "list"
+            required: false
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Featured Image, name: featuredImage, widget: image}
+              - {label: Instagram, name: instagram, widget: string}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
+
       - file: "content/pages/blog.md"
         label: "Blog"
         name: "blog"
