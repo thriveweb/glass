@@ -49,6 +49,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/e6f1514e-edb5-45b3-b333-7a64e836d143/'
   - image: 'https://ucarecdn.com/b0e09716-4e7e-4812-947e-35fc11e49e86/'
   - image: 'https://ucarecdn.com/7ec1601d-e5c2-4e19-ad16-5c52a7d0235f/'
+  - image: 'https://ucarecdn.com/c7814dc1-3cb4-4357-9f8d-23aee3f1cb73/'
+  - image: 'https://ucarecdn.com/c73bc694-7fea-47c5-89f9-16ca2eb3ff19/'
+  - image: 'https://ucarecdn.com/0a1ee6eb-ba51-4ab1-aa85-3a397ef2eaac/'
+  - image: 'https://ucarecdn.com/d7d62d2d-4afe-4e4d-a649-2e463508d8b6/'
 meta:
   title: Dakota
 ---
