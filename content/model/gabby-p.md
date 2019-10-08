@@ -24,8 +24,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0715211e-7de5-4b96-a2e1-cee069f93de8/'
   - image: 'https://ucarecdn.com/040122db-7764-494e-87db-df55ea7a0ba1/'
   - image: 'https://ucarecdn.com/04b74be4-e41c-4124-9080-58c2de4c6864/'
-  - {}
-  - {}
-meta: {}
+meta:
+  title: Gabby P
 ---
 
