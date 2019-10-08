@@ -1,27 +1,26 @@
 ---
 template: ModelPage
 title: Toby B
-featuredImage: >-
-  https://ucarecdn.com/9696c62b-f034-4111-9ecf-c0ab65dc740b/-/crop/633x360/0,10/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/65d7f7ae-a1c5-4a83-a5fe-2ed28001cf62/-/crop/1218x1543/599,0/-/preview/
+featuredImage: 'https://ucarecdn.com/cb2b6410-5012-49a9-91d7-c3a9d21ebcc8/'
+imageThumbnail: 'https://ucarecdn.com/9f6a1cf2-7174-439e-b1ca-ed3daab81be0/'
 firstName: Toby B
-collection: Global
-height: 174 cm
+collection: Classic
+height: 176cm
 measurementType: chest
 bust: 99cm
 waist: 89cm
 hips: 103cm
-size: M Shirt 32 pant
+size: Shirt M
 shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/f077e3a6-d347-473a-b82d-73b95a610297/'
-  - image: 'https://ucarecdn.com/03d30a09-04f4-4e53-92e3-9d2af43d10ca/'
-  - image: 'https://ucarecdn.com/22dc8d5b-5e77-4747-a0aa-277df57f3a2b/'
-  - image: 'https://ucarecdn.com/ae79e5de-2fe4-49a8-8cc9-52aaf60f0099/'
-  - image: 'https://ucarecdn.com/e6be318f-e918-4743-9c38-26b25c97b87a/'
-meta: {}
+  - image: 'https://ucarecdn.com/69e09f9a-cdc0-4f1a-b6fb-3993d3a35c7c/'
+  - image: 'https://ucarecdn.com/822dd9b0-d262-4f36-a438-ac8223b6a2bc/'
+  - image: 'https://ucarecdn.com/cdc4e40b-5ccb-4904-9f18-24b905921053/'
+  - image: 'https://ucarecdn.com/c0b39d69-a407-4475-a0c1-61528dca7e4c/'
+  - image: 'https://ucarecdn.com/44135441-dcac-495c-b105-efff8651dfbb/'
+meta:
+  title: Toby B
 ---
 
