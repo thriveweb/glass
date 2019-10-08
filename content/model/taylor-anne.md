@@ -2,7 +2,7 @@
 template: ModelPage
 title: Taylor Anne
 featuredImage: 'https://ucarecdn.com/0df93212-758d-46b7-964d-4f9c4eccc8f8/'
-featuredVideo: 'https://ucarecdn.com/6237073b-01b4-4556-939a-85c562c67d70/'
+featuredVideo: 'https://ucarecdn.com/f225f9bf-6c66-4c9d-aae9-078c0c1515c0/'
 featuredVideoMobile: 'https://ucarecdn.com/69441c28-a860-45e8-899c-06fa2a395d55/'
 imageThumbnail: >-
   https://ucarecdn.com/429cbcd0-a6c7-40c3-be93-9b58099e6aca/-/crop/1220x1504/298,433/-/preview/
