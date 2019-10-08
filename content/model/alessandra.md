@@ -20,5 +20,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b357e892-0fb0-4335-928a-db7bb2bdb07d/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/alessandra876543.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/alessandra4432332.png'
+  - image: 'https://ucarecdn.com/452d4842-f468-4c1c-be74-9948a4f5e91a/'
+  - image: 'https://ucarecdn.com/e25ef743-c352-4010-8176-34ae57dea3d8/'
 ---
 
