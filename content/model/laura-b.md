@@ -23,6 +23,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c016a1c6-c824-4917-820d-2153a199efda/'
   - image: 'https://ucarecdn.com/391989b8-2c4b-40b3-a4d6-4c8adfec1cbb/'
   - image: 'https://ucarecdn.com/15c6fa0f-b42e-40a1-a9bc-f44b6e2ff446/'
+  - image: 'https://ucarecdn.com/bc4eea85-ab3d-4404-b248-fd8c4f34b84b/'
+  - image: 'https://ucarecdn.com/654c05c6-6678-4f44-98a3-8aff108fc1ec/'
 meta:
   title: Laura B
 ---
