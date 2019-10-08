@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Sienna C
-featuredImage: 'https://ucarecdn.com/a3f192ea-da74-4860-a262-c4154c2387e0/'
+featuredImage: 'https://ucarecdn.com/f04904e6-aa8b-41ab-ab58-85c86ea10156/'
 imageThumbnail: >-
   https://ucarecdn.com/98331bf0-cdf6-4a7d-9f04-a74341fd9584/-/crop/1098x1509/299,114/-/preview/
 firstName: Sienna C
@@ -60,6 +60,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/8036f1f4-7d14-48a2-8b6c-1f696d180931/'
   - image: 'https://ucarecdn.com/9b23a221-82da-437e-b522-1140e7ab47e7/'
   - image: 'https://ucarecdn.com/5da889e4-9e96-4651-abf0-4aad119f301e/'
+  - image: 'https://ucarecdn.com/0ebb83b6-691d-45cb-b8a6-3a040227ae6c/'
+  - image: 'https://ucarecdn.com/da895fc3-8744-4b8f-9e0c-84a932573228/'
+  - image: 'https://ucarecdn.com/88c9c7c1-84ed-46c8-af4e-4c72ce252d85/'
+  - image: 'https://ucarecdn.com/5d81cd82-8aca-4c38-8a48-15f39c8b9b07/'
 meta:
   title: Sienna C
 ---
