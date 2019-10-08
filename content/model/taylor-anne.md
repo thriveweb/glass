@@ -19,9 +19,13 @@ hair: Red
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/d76b5229-102c-4497-ba36-01818f6e754a/'
+  - image: 'https://ucarecdn.com/6b35c955-21b5-4bd8-a947-7854f3c052b4/'
+  - image: 'https://ucarecdn.com/f294ec05-22a5-4d77-b6f0-2ca2790d5a23/'
+  - image: 'https://ucarecdn.com/538d655f-0575-4bc9-a65b-b48f97487adc/'
+  - image: 'https://ucarecdn.com/86c29977-5609-42cb-b3ea-aa8b002222e7/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/ta2.jpg'
   - image: 'https://ucarecdn.com/ae7d6a00-6acf-462b-854c-dae93e590f2b/'
   - image: 'https://ucarecdn.com/725fad3e-761a-4012-bce2-151c636763d8/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/ta2.jpg'
   - image: 'https://ucarecdn.com/ae7c6e7a-4dbe-4114-b960-6368fa83d1ca/'
   - image: 'https://ucarecdn.com/da3308e7-556a-4c89-9478-919a455c8fea/'
   - image: 'https://ucarecdn.com/4df8cdc6-fe9a-45de-9990-d679c7acfe24/'
@@ -34,6 +38,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0b8f21a6-60f2-401c-ba55-d2e609a434a0/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/anne-3.jpg'
+  - image: 'https://ucarecdn.com/91624efd-d212-4a6b-84d3-a4f8c0a62d5d/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay2.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/page083.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ta5.jpg'
@@ -53,6 +58,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/taytay-7.jpg'
   - image: 'https://ucarecdn.com/8f7b8126-a025-4eca-9899-3204ef52234a/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/taytay-5-.jpg'
+  - image: 'https://ucarecdn.com/ac364236-28e9-4f90-a3ca-890074a66a55/'
   - image: 'https://ucarecdn.com/528eb00b-4c31-44b4-aa51-3a9ceb407f35/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/taytay-4.jpg'
   - image: 'https://ucarecdn.com/a804d786-f52d-40da-b921-d3e9862d4093/'
@@ -72,11 +78,13 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/e2cc305e-dd28-4a87-a10b-64a1e4d6bc29/'
   - image: 'https://ucarecdn.com/c9f5ce26-d4ee-4be4-98b7-c30b4beefda3/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tay-6.jpg'
+  - image: 'https://ucarecdn.com/d3e0537c-3c4b-4bd5-800e-5e62933f7923/'
   - image: 'https://ucarecdn.com/808fa615-83bb-414c-8447-da7efa0059d5/'
   - image: 'https://ucarecdn.com/2acb4735-a67c-4025-8ad6-0eacc26252f8/'
   - image: 'https://ucarecdn.com/7a5d0a2a-a515-4926-953e-e58b99aed0e8/'
   - image: 'https://ucarecdn.com/0c2639a6-e71d-453e-b18c-11a1641de525/'
   - image: 'https://ucarecdn.com/01f5d7e7-2d77-4ad6-9320-b9dcb5b6253a/'
+  - image: 'https://ucarecdn.com/de075fa7-92e2-4e10-9182-1409d084cef1/'
 meta:
   title: Taylor Anne
 ---
