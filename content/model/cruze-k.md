@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Cruze '
 featuredImage: >-
-  https://ucarecdn.com/f57785d1-ff3f-48ab-b5a0-ad595681fd4c/-/crop/1631x637/0,944/-/preview/
+  https://ucarecdn.com/ae68b47e-67d7-4318-9c44-13b8fb4113de/-/crop/603x415/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/357c99b4-36de-438d-b6c4-a93d0d96f338/-/crop/418x567/116,47/-/preview/
 firstName: 'Cruze '
