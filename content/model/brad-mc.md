@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Brad Mc
+title: 'Brad '
 featuredImage: 'https://ucarecdn.com/348cdc6f-fe27-4b1e-9210-8377cd4ad938/'
 imageThumbnail: >-
   https://ucarecdn.com/834a0783-1607-4b69-a296-5008d0e3dd19/-/crop/750x676/0,0/-/preview/
-firstName: Brad Mc
+firstName: 'Brad '
 collection: Classic
 height: 193cm
 measurementType: chest
@@ -16,9 +16,9 @@ shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/bae8fd3a-c299-406d-88e2-c59c4449cd80/'
-  - image: 'https://ucarecdn.com/e0134e9b-3a47-4998-8e20-be8927c49561/'
   - image: 'https://ucarecdn.com/97ad0d84-8692-4852-8187-47a7eee26ec1/'
+  - image: 'https://ucarecdn.com/e0134e9b-3a47-4998-8e20-be8927c49561/'
+  - image: 'https://ucarecdn.com/bae8fd3a-c299-406d-88e2-c59c4449cd80/'
   - image: 'https://ucarecdn.com/f5a55666-e486-4570-acf0-d623a26a4ead/'
   - image: 'https://ucarecdn.com/74a78d77-2879-486e-a44c-eb0618982bce/'
   - image: 'https://ucarecdn.com/2c2cb00f-948f-4e84-9884-181a8fa2c3f3/'
