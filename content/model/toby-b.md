@@ -4,7 +4,7 @@ title: Toby B
 featuredImage: 'https://ucarecdn.com/cb2b6410-5012-49a9-91d7-c3a9d21ebcc8/'
 imageThumbnail: 'https://ucarecdn.com/9f6a1cf2-7174-439e-b1ca-ed3daab81be0/'
 firstName: Toby B
-collection: Classic
+collection: Global
 height: 176cm
 measurementType: chest
 bust: 99cm
