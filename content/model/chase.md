@@ -16,7 +16,6 @@ hair: Brown
 eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/25cdc158-ab94-455a-8102-cc153d8a9e7d/'
-  - image: 'https://ucarecdn.com/e8d7d99e-c12b-4f88-8a6e-6d2164589ab8/'
   - image: 'https://ucarecdn.com/7b3776f2-d379-4d53-a3da-a7cef211b6e9/'
   - image: 'https://ucarecdn.com/1498c995-c5c0-4c5c-9f52-21a8af2e0b18/'
   - image: 'https://ucarecdn.com/89a1e6bb-7f4c-4299-a9d8-6ea6bdf09a75/'
