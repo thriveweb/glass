@@ -29,6 +29,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/be528f93-aca7-4bae-949c-44a9d29cc7ba/'
   - image: 'https://ucarecdn.com/b450aa03-f0e2-40be-b68a-e0aed6121cb6/'
   - image: 'https://ucarecdn.com/80792fae-cb52-49e8-8934-0f2f79491dd2/'
+  - image: 'https://ucarecdn.com/0839d0ee-879d-4457-9d03-8a63c55ff1de/'
 meta:
   title: 'Brad '
 ---
