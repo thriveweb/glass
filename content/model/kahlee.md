@@ -38,6 +38,8 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlee-111.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlee-1112.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kka-3.jpeg'
+  - image: 'https://ucarecdn.com/ccb95c6f-ed41-446d-8446-3bda1ac7373e/'
+  - image: 'https://ucarecdn.com/5751dd14-435a-4618-a109-dc5f5a392d40/'
 meta:
   title: Kahlee
 ---
