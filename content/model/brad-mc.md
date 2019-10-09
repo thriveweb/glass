@@ -28,6 +28,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b450aa03-f0e2-40be-b68a-e0aed6121cb6/'
   - image: 'https://ucarecdn.com/80792fae-cb52-49e8-8934-0f2f79491dd2/'
 meta:
-  title: Brad Mc
+  title: 'Brad '
 ---
 
