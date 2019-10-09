@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: 'Brad '
-featuredImage: 'https://ucarecdn.com/348cdc6f-fe27-4b1e-9210-8377cd4ad938/'
+featuredImage: 'https://ucarecdn.com/f1a5fcaa-c623-47c8-8e15-1df6f462c72d/'
 imageThumbnail: >-
   https://ucarecdn.com/834a0783-1607-4b69-a296-5008d0e3dd19/-/crop/750x676/0,0/-/preview/
 firstName: 'Brad '
