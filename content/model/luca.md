@@ -16,6 +16,7 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/luca-2.webp'
+  - image: 'https://ucarecdn.com/6bf3c52c-28c6-4609-88c8-8598f31cb13d/'
   - image: 'https://ucarecdn.com/c6b1ff68-e625-4c06-b3f9-87a72af57aa2/'
   - image: 'https://ucarecdn.com/2bda3e7e-fa16-42c5-997f-0c8f3430a5c8/'
   - image: >-
