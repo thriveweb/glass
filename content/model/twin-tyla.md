@@ -10,8 +10,8 @@ collection: Women
 height: 167cm
 measurementType: bust
 bust: 82cm
-waist: 64cm
-hips: 76cm
+waist: 65cm
+hips: 87cm
 size: 6-8
 shoeSize: '7'
 hair: 'Blonde '
