@@ -3,7 +3,7 @@ template: ModelPage
 title: Jemima
 featuredImage: 'https://ucarecdn.com/2bca3ecd-2d7a-4387-83ad-1aad9b9a4787/'
 imageThumbnail: >-
-  https://ucarecdn.com/b821ffc7-8022-428f-9d67-5c4be4f78cce/-/crop/1258x1488/236,153/-/preview/
+  https://ucarecdn.com/3204e657-78ff-46a3-8a7d-6eaef44c7c1e/-/crop/350x431/0,163/-/preview/
 firstName: Jemima
 collection: Girls
 height: 126cm
@@ -17,6 +17,7 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/22092cfc-9a29-4e26-9ec9-9006d74d2875/'
+  - image: 'https://ucarecdn.com/b914e129-3abf-42b3-af43-ddc2ff91ef27/'
   - image: 'https://ucarecdn.com/359f42e5-4d20-4cdf-b197-0eaa51409c0f/'
   - image: 'https://ucarecdn.com/480405cc-d8b8-41b5-99b8-de1e8cd606e1/'
   - image: 'https://ucarecdn.com/1922e076-03f6-4d7c-96db-7da0bf2a1ae0/'
@@ -28,7 +29,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/7da4450c-9547-4b1c-a73e-e352cead46c4/'
   - image: 'https://ucarecdn.com/a4436c49-7938-4202-9c75-015a7a969403/'
   - image: 'https://ucarecdn.com/f201e486-04d1-42b5-8af3-89e32ea23e22/'
-  - image: 'https://ucarecdn.com/f6e87588-a350-4205-b9c2-123da783a066/'
   - image: 'https://ucarecdn.com/cc713743-6753-46dd-bc9d-b3c5f261e49d/'
   - image: 'https://ucarecdn.com/0423d01d-c10b-4210-9026-4d56f89073c9/'
   - image: 'https://ucarecdn.com/b736a43b-c824-4c8b-ae47-f8186260db75/'
