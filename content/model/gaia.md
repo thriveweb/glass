@@ -1,7 +1,9 @@
 ---
 template: ModelPage
 title: Gaia
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/131218_19.jpg'
+featuredImage: 'https://ucarecdn.com/0b8a82e8-a3ed-4798-b862-dd8ba8f89cde/'
+featuredVideo: 'https://ucarecdn.com/a374ad42-6e79-4f8a-a1df-a3c038e36988/'
+featuredVideoMobile: 'https://ucarecdn.com/b189093e-1384-4e93-933f-238d286b8ee9/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/131218_15.jpg'
 firstName: Gaia
 collection: Girls
