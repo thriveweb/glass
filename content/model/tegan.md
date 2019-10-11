@@ -2,6 +2,8 @@
 template: ModelPage
 title: Tegan
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/img_0580.jpg'
+featuredVideo: 'https://ucarecdn.com/dc9aaced-4143-4362-97f1-742d2160bb01/'
+featuredVideoMobile: 'https://ucarecdn.com/ccc8de8e-9f63-4cff-b351-6dca75e994cc/'
 imageThumbnail: 'https://ucarecdn.com/53ed0a0c-ed43-4979-b23e-d51ae8146daf/'
 firstName: Tegan
 collection: Classic
@@ -15,20 +17,20 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/ccb4f3c7-f3d8-48db-9e47-0140ba6b8a80/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/img_0577.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan3.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/2817028_8595970.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/img_3180.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/img_3175.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/amn_8380-1-_preview.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan1.jpg'
   - image: 'https://ucarecdn.com/28182a02-f039-45ea-8e5b-4564b961cd74/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/img_3180.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/img_0577.jpg'
+  - image: 'https://ucarecdn.com/0ffe00eb-8608-4155-aa25-393edec143cc/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan3.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/img_3175.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan4.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/2817028_8595970.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/amn_8380-1-_preview.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0576.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0573.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0578.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0574.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan4.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tegan2.jpg'
 meta:
   title: Tegan
