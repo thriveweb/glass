@@ -5,12 +5,12 @@ featuredImage: 'https://ucarecdn.com/c4d211db-6e50-4dbb-a87a-bf14b565fa76/'
 imageThumbnail: 'https://ucarecdn.com/0c1b461e-484b-4ae6-8010-b1da2ac28f9e/'
 firstName: Luca K
 collection: Boys
-height: 164cm
+height: 167cm
 measurementType: chest
-bust: 84cm
-waist: 68cm
-hips: 84cm
-size: Boys 14
+bust: 90cm
+waist: 74cm
+hips: 90cm
+size: Mens small
 shoeSize: '10'
 hair: Blonde
 eyes: Green
