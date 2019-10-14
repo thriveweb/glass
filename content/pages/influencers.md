@@ -14,6 +14,10 @@ influencerList:
   - featuredImage: 'https://ucarecdn.com/983bda57-7e8b-44ec-a82f-702e6c482b3a/'
     instagram: 'https://www.instagram.com/chelsea_glenn_official/'
     name: Chelsea
+  - featuredImage: >-
+      https://ucarecdn.com/7e154879-71b3-497f-96f3-e17384980d4e/-/crop/575x867/0,76/-/preview/
+    instagram: 'https://www.instagram.com/caitlynnhenry/'
+    name: Caitlynn
 meta:
   title: ''
 ---
