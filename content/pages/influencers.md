@@ -11,7 +11,7 @@ influencerList:
     instagram: 'https://instagram.com'
     name: Aaron
   - featuredImage: 'https://ucarecdn.com/355f5b40-a9ba-435a-a77a-0b4647edad45/'
-    instagram: www.instagram.com/chelsea_glenn_official/
+    instagram: chelsea_glenn_official
     name: Chelsea
 meta:
   title: Chelsea
