@@ -15,6 +15,6 @@ influencerList:
     instagram: 'https://www.instagram.com/chelsea_glenn_official/'
     name: Chelsea
 meta:
-  title: Chelsea
+  title: ''
 ---
 
