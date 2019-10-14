@@ -10,7 +10,7 @@ collection: Boys
 height: Little
 size: 12-18 months
 shoeSize: '5'
-hair: Strawberry Blonde
+hair: Blonde
 eyes: Green/Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/c67930cc-5d3b-40c3-a0b2-36f4a7c1801c/'
