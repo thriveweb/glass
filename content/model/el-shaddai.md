@@ -24,6 +24,14 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/4c51fda5-cd3c-43b1-b59f-242833ec42b2/'
   - image: 'https://ucarecdn.com/b92bd73a-4f6c-4080-9c7f-86dcd0dfbb94/'
   - image: 'https://ucarecdn.com/6ec5b18d-6f91-42a5-846f-67a74928f68f/'
+  - image: >-
+      https://ucarecdn.com/1742d351-b77e-4aba-aefe-98036815bd95/-/crop/1164x1214/127,153/-/preview/
+  - image: >-
+      https://ucarecdn.com/4bbc1c9c-0b3e-4335-acc9-7874e9c4b81d/-/crop/563x723/0,105/-/preview/
+  - image: 'https://ucarecdn.com/1d3bae3a-4296-402f-a405-e2da6ded9914/'
+  - image: 'https://ucarecdn.com/9c7704a1-5cfd-40e4-a667-fc98c427ae18/'
+  - image: >-
+      https://ucarecdn.com/58c60d25-8da5-44bd-8c01-241e0fc0b87d/-/crop/1089x1382/274,278/-/preview/
 meta:
   title: El-Shaddai
 ---
