@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/1ac12612-b779-4e7a-b063-a7aa571194cc/-/crop/433x660/753,120/-/preview/
 firstName: Kellie S
-collection: Women
+collection: Global
 height: 180cm
 measurementType: bust
 bust: 80cm
