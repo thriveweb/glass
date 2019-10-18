@@ -2,7 +2,8 @@
 template: ModelPage
 title: Amy L
 featuredImage: 'https://ucarecdn.com/c4608b11-a008-4374-85c3-ee3e59e4baf1/'
-imageThumbnail: 'https://ucarecdn.com/383932ad-8aa2-4646-8e8b-abe68e49b987/'
+imageThumbnail: >-
+  https://ucarecdn.com/0b256d7f-bd76-4df2-82d4-de7b73317b13/-/crop/803x1124/283,0/-/preview/
 firstName: Amy L
 collection: Girls
 height: 149cm
