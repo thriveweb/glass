@@ -1,8 +1,8 @@
 ---
 template: ModelPage
 title: Katie H
-featuredImage: 'https://ucarecdn.com/4ecbfd0f-b6c9-4d21-bcaf-1fd3155bc7fc/'
-imageThumbnail: 'https://ucarecdn.com/558d948f-56ee-448e-9a07-800e9d462c13/'
+featuredImage: 'https://ucarecdn.com/3f482a3a-120e-4c3d-93be-e19533273509/'
+imageThumbnail: 'https://ucarecdn.com/1a70c459-6e16-4ca9-936f-91c76d08173b/'
 firstName: Katie H
 collection: Girls
 height: 144cm
