@@ -4,7 +4,7 @@ title: Kellie S
 featuredImage: >-
   https://ucarecdn.com/cbfff76b-3d60-4574-84da-980b9e1c7160/-/crop/1633x666/0,91/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/1ac12612-b779-4e7a-b063-a7aa571194cc/-/crop/433x660/753,120/-/preview/
+  https://ucarecdn.com/aa030139-2b02-4121-b73d-3cd626c18948/-/crop/1701x2160/981,0/-/preview/
 firstName: Kellie S
 collection: Global
 height: 180cm
@@ -14,7 +14,7 @@ waist: 63cm
 hips: 91.8cm
 size: 8/10
 shoeSize: '10'
-hair: Dirty Blonde
+hair: ' Blonde'
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/f9413297-2202-4f3c-b43a-c217b830b256/'
