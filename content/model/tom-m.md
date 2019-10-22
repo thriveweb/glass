@@ -4,7 +4,7 @@ title: Tom M
 featuredImage: 'https://ucarecdn.com/691b67a5-b5fe-4452-9218-c23e3f1d50d9/'
 imageThumbnail: 'https://ucarecdn.com/58823787-ce55-4cc4-8e8d-613d56d50464/'
 firstName: Tom M
-collection: Global
+collection: Men
 height: 191cm
 measurementType: chest
 bust: 97cm
