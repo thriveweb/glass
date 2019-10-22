@@ -29,6 +29,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/4635259b-64f8-4618-9fe4-f24e96c250c4/'
   - image: 'https://ucarecdn.com/0e66950a-9cf7-4ebb-8cda-d2fb7d90465a/'
   - image: 'https://ucarecdn.com/84cfc6ea-a240-48fc-be04-8662ed87f061/'
+  - image: 'https://ucarecdn.com/d29f5148-cb74-4a74-b216-dd3b479ddb11/'
 meta:
   title: Anna M
 ---
