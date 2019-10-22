@@ -17,6 +17,7 @@ shoeSize: Kids 1 -2
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/9e5d9634-a3ff-4308-a766-da0ccdf81d96/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/131218_20.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/131218_17.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/131218_2.jpg'
