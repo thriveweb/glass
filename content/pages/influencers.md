@@ -21,6 +21,12 @@ influencerList:
   - featuredImage: 'https://ucarecdn.com/f243f0f2-fb98-42b1-87fd-02b4084d2bfe/'
     instagram: 'https://www.instagram.com/dani_byrnes/'
     name: Dani
+  - featuredImage: 'https://ucarecdn.com/87e65121-ef61-46ab-b7c4-add4d8b38123/'
+    instagram: 'https://www.instagram.com/itsemmabass/'
+    name: Emma
+  - featuredImage: 'https://ucarecdn.com/b72af340-5e83-4d6e-afde-bac367942976/'
+    instagram: 'https://www.instagram.com/eviegracebrown/'
+    name: Evie
 meta:
   title: ''
 ---
