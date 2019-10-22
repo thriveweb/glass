@@ -42,17 +42,22 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c725d9d4-9007-4143-8b2a-9813254598db/'
   - image: 'https://ucarecdn.com/0e8e3741-e867-4398-9ec5-1b447d27b7b4/'
   - image: 'https://ucarecdn.com/7b45fd4b-5785-433a-81d2-c14765f877c3/'
+  - image: 'https://ucarecdn.com/cf000afd-2a28-43d0-afad-904e00c44943/'
   - image: 'https://ucarecdn.com/a9983630-602b-4d8e-8d93-fbc25b316bb9/'
   - image: 'https://ucarecdn.com/6a64bf1e-b4e3-4ffa-b8f5-94152967b6be/'
   - image: 'https://ucarecdn.com/1aefec31-bd5d-4a7f-b2af-47cc0bc73f2c/'
   - image: 'https://ucarecdn.com/b6bcc22c-864a-4344-b472-993e05871856/'
   - image: 'https://ucarecdn.com/e6f1514e-edb5-45b3-b333-7a64e836d143/'
+  - image: 'https://ucarecdn.com/a073f6d6-7bba-4388-b313-1a06b78e4ade/'
   - image: 'https://ucarecdn.com/b0e09716-4e7e-4812-947e-35fc11e49e86/'
   - image: 'https://ucarecdn.com/7ec1601d-e5c2-4e19-ad16-5c52a7d0235f/'
   - image: 'https://ucarecdn.com/c7814dc1-3cb4-4357-9f8d-23aee3f1cb73/'
+  - image: 'https://ucarecdn.com/c6f70639-c490-42c0-b6db-67b9f2356486/'
   - image: 'https://ucarecdn.com/c73bc694-7fea-47c5-89f9-16ca2eb3ff19/'
   - image: 'https://ucarecdn.com/0a1ee6eb-ba51-4ab1-aa85-3a397ef2eaac/'
   - image: 'https://ucarecdn.com/d7d62d2d-4afe-4e4d-a649-2e463508d8b6/'
+  - image: 'https://ucarecdn.com/9fb190a0-ca1a-4b1d-bc7b-fbb3a0d37ea3/'
+  - {}
 meta:
   title: Dakota
 ---
