@@ -15,7 +15,7 @@ gallery:
   galleryImages:
     - image: 'https://ucarecdn.com/315ddcb2-2672-4b55-b934-2d2178f03c15/'
       title: Women
-    - image: 'https://ucarecdn.com/fa582303-700d-4f64-be2a-2efd2b53bc7a/'
+    - image: 'https://ucarecdn.com/e0ef611d-7b63-438d-819b-6b1a0d76d4d9/'
       title: Girls
     - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
       title: Global
