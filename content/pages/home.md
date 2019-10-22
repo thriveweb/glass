@@ -23,7 +23,8 @@ gallery:
       title: Men
     - image: 'https://ucarecdn.com/31dc20b6-836b-49e2-aa34-7f765b03652f/'
       title: Classic
-    - image: 'https://ucarecdn.com/d67775d3-701b-40e6-9a00-c1a36577000b/'
+    - image: >-
+        https://ucarecdn.com/cff4f1d5-7a3c-4b49-ae84-4620aba34e20/-/crop/1272x1010/0,0/-/preview/
       title: Boys
   subTitle: Our Models
   title: Explore Our Models
