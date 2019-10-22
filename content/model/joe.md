@@ -31,6 +31,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia-co.-6-of-31-.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia-joe478.jpg'
   - image: 'https://ucarecdn.com/d9c2fd3d-8a24-482c-9ae5-d1193f32f552/'
+  - image: 'https://ucarecdn.com/ca1bc675-2702-47fc-9c41-a99dd7a56f10/'
 meta:
   title: Joe
 ---
