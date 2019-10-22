@@ -27,6 +27,18 @@ influencerList:
   - featuredImage: 'https://ucarecdn.com/b72af340-5e83-4d6e-afde-bac367942976/'
     instagram: 'https://www.instagram.com/eviegracebrown/'
     name: Evie
+  - featuredImage: 'https://ucarecdn.com/b6c0615d-b2c0-450f-8c27-0c51e0173dd3/'
+    instagram: 'https://www.instagram.com/jessie.lockley/'
+    name: Jessie
+  - featuredImage: 'https://ucarecdn.com/be9858ed-f921-4953-a35a-029da814b6e2/'
+    instagram: 'https://www.instagram.com/julietaroldann/'
+    name: Julieta
+  - featuredImage: 'https://ucarecdn.com/2aa3a9ec-2b4a-4c29-a4b2-c8a1bcd782c3/'
+    instagram: 'https://www.instagram.com/kayla_h_official/'
+    name: Kayla H
+  - featuredImage: 'https://ucarecdn.com/a143e8a2-61fc-431f-87fd-04aac1c76b87/'
+    instagram: 'https://www.instagram.com/portia.large/'
+    name: Portia
 meta:
   title: ''
 ---
