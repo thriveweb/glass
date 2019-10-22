@@ -34,7 +34,6 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/gus239057.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/gus203974.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/gus152683.jpg'
-  - {}
 meta:
   title: Gus
 ---
