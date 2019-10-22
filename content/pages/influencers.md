@@ -39,6 +39,15 @@ influencerList:
   - featuredImage: 'https://ucarecdn.com/a143e8a2-61fc-431f-87fd-04aac1c76b87/'
     instagram: 'https://www.instagram.com/portia.large/'
     name: Portia
+  - featuredImage: 'https://ucarecdn.com/d10e4157-d457-4092-8b12-4ed3dcae43c5/'
+    instagram: 'https://www.instagram.com/bailey_perussich/'
+    name: Bailey
+  - featuredImage: 'https://ucarecdn.com/e4825402-737e-47cc-9927-2a040dc5420f/'
+    instagram: 'https://www.instagram.com/brayden_dunbar/'
+    name: Brayden
+  - featuredImage: 'https://ucarecdn.com/e95a5cc9-b68a-498f-af90-dd9fcc40f483/'
+    instagram: 'https://www.instagram.com/danreardon122/'
+    name: Dan R
 meta:
   title: ''
 ---
