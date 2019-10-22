@@ -18,12 +18,9 @@ eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/011d146e-6611-49d1-854a-899048c7ca95/'
   - image: 'https://ucarecdn.com/d79d6cbf-8bf1-4a84-8711-2f9d4328ee56/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/joshua237829.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/joshua327829.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/joshua263789.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/joshua843572346213.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/joshua783.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/joshua904387.jpg'
   - {}
 meta:
   title: Joshua K
