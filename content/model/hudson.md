@@ -35,6 +35,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/37953bf0-db94-41ce-9bca-6ee44651e77e/'
   - image: 'https://ucarecdn.com/21c9401d-767c-4ea2-b51d-68b11c95dab1/'
   - image: 'https://ucarecdn.com/4ecfbfb3-ac51-483a-b451-b5208f5e96d2/'
+  - image: 'https://ucarecdn.com/b2809cd2-b0ce-40aa-978a-72c31e3d10f2/'
+  - image: 'https://ucarecdn.com/70a02d8a-a5da-4014-88a0-69166e30d1e2/'
 meta:
   title: Hudson
 ---
