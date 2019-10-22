@@ -18,6 +18,9 @@ influencerList:
       https://ucarecdn.com/7e154879-71b3-497f-96f3-e17384980d4e/-/crop/575x867/0,76/-/preview/
     instagram: 'https://www.instagram.com/caitlynnhenry/'
     name: Caitlynn
+  - featuredImage: 'https://ucarecdn.com/f243f0f2-fb98-42b1-87fd-02b4084d2bfe/'
+    instagram: 'https://www.instagram.com/dani_byrnes/'
+    name: Dani
 meta:
   title: ''
 ---
