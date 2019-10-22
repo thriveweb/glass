@@ -16,6 +16,7 @@ hair: Blonde
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/11546e25-355a-4238-af3e-90cae360d52f/'
+  - image: 'https://ucarecdn.com/d2c090ea-5548-487f-be99-27fb180f0acd/'
   - image: 'https://ucarecdn.com/3def2036-aa6c-468a-ab5d-df9f1aa70f8d/'
   - image: 'https://ucarecdn.com/8178ef64-32de-401b-8d2b-b8a9784fc28b/'
   - image: 'https://ucarecdn.com/5d8f3f42-2dac-486b-a044-060bfcd6eb30/'
@@ -33,6 +34,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/gus239057.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/gus203974.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/gus152683.jpg'
+  - {}
 meta:
   title: Gus
 ---
