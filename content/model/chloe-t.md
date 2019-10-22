@@ -33,6 +33,9 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/harry-t-11.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/harry-t-10.jpg'
   - image: 'https://ucarecdn.com/6440c772-b4fe-455e-9821-37ab42298609/'
+  - image: 'https://ucarecdn.com/52fde5e7-fbb0-41bc-96d2-815dc73f5e8c/'
+  - image: 'https://ucarecdn.com/fd75fad6-4732-4ff1-a75d-b024d1194b4d/'
+  - image: 'https://ucarecdn.com/72995971-99a2-4b96-a1c7-48b25e231c20/'
 meta:
   title: Chloe T
 ---
