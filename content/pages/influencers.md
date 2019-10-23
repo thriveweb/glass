@@ -1,6 +1,4 @@
 ---
-template: InfluencersPage
-slug: influencers
 featuredImage: 'https://ucarecdn.com/76e7e524-050e-4f40-9241-cf636cb37e49/'
 subTitle: Our People
 title: Influencers
@@ -64,6 +62,11 @@ influencerList:
     instagram: 'https://www.instagram.com/danreardon122/'
     name: Dan R
     type: adult
+  - featuredImage: 'https://ucarecdn.com/45ea72c4-5100-423a-914f-46f9c379defe/'
+    instagram: 'https://www.instagram.com/bellarosebrisbane/'
+    name: Bella Rose
+    type: child
 meta:
   title: ''
 ---
+
