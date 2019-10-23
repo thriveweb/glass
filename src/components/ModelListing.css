@@ -166,6 +166,14 @@
 	}
 }
 
+.Influencers .influencer-listing {
+	margin-top: 4rem;
+}
+
+.Influencers .influencer-listing h3 {
+	font-size: 3.4rem;
+}
+
 @media only screen and (max-width: 600px) {
 	.archive--listing {
 		margin: 5rem 0;

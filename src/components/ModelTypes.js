@@ -36,27 +36,27 @@ export default ({ modelTypes, handleSelect, selectedModelType }) => {
         return (
           <ul className="nav--list-items">
             {modelTypes.edges &&
-              !!modelTypes.edges.length &&
-              modelTypes.edges
-                .sort((a, b) =>
-                  modelTypeOrder.indexOf(a.node.frontmatter.title) >
-                  modelTypeOrder.indexOf(b.node.frontmatter.title)
-                    ? 1
-                    : -1
-                )
-                .map(({ node }) => {
-                  const { frontmatter } = node
-                  const { title } = frontmatter
+            !!modelTypes.edges.length &&
+            modelTypes.edges
+            .sort((a, b) =>
+              modelTypeOrder.indexOf(a.node.frontmatter.title) >
+              modelTypeOrder.indexOf(b.node.frontmatter.title)
+                ? 1
+                : -1
+            )
+            .map(({ node }) => {
+              const { frontmatter } = node
+              const { title } = frontmatter
 
-                  return (
-                    <li className={`nav--list-item`} key={title}>
-                      <Link to={`/models/${_kebabCase(title)}/`} activeClassName='active'>{title}</Link>
-                    </li>
-                  )
-                })}
-                <li className={`nav--list-item influencer-link`}>
-                  <Link to={`/influencers/`} activeClassName='active'>Influencers</Link>
+              return (
+                <li className={`nav--list-item`} key={title}>
+                  <Link to={`/models/${_kebabCase(title)}/`} activeClassName='active'>{title}</Link>
                 </li>
+              )
+            })}
+            <li className={`nav--list-item influencer-link`}>
+              <Link to={`/influencers/`} activeClassName='active'>Influencers</Link>
+            </li>
           </ul>
         )
       }}

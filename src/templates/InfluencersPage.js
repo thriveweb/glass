@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { graphql } from 'gatsby'
 
 import Layout from '../layouts/Layout'
@@ -18,6 +18,9 @@ export const InfluencersPageTemplate = ({
   meta
 }) => {
 
+  const children = influencerList.filter(item => item.type === 'child')
+  const adults = influencerList.filter(item => item.type === 'adult')
+
   return (
     <main className='Influencers'>
       <Helmet defaultTitle={_get(meta, 'title') || `Glass Management | ${title}`}>
@@ -34,19 +37,43 @@ export const InfluencersPageTemplate = ({
     				<h2>Explore Our Models</h2>
     			</div>
     			<ModelTypes />
-    			<div className='section--model-list-items'>
-    				{influencerList && !!influencerList.length && influencerList.map(({ name, featuredImage, instagram }, index) => {
-
-    					return <div key={`influencer-${index}`} className='section--model-list-item'>
-    						<p className='name-rotate'>{name}</p>
-    						<a className='section--model-list-item-link' href={instagram} target='_blank' rel='noopener'>
-    							{featuredImage && <BackgroundImage src={featuredImage} imageSize='600' />}
-    							<p className='category title'>influencers</p>
-    							{name && <h3>{name}</h3>}
-    						</a>
-    					</div>
-    				})}
-    			</div>
+          <div className='influencer-listing'>
+            {/*<a className='button nav--list-item influencer-link' href='#child-listing'>Test</a>*/}
+            {adults && !!adults.length &&
+              <Fragment>
+                <h3>Adults</h3>
+                <div className='section--model-list-items'>
+                  {adults.map(({ name, featuredImage, instagram }, index) => {
+                    return <div key={`influencer-${index}`} className='section--model-list-item'>
+                      <p className='name-rotate'>{name}</p>
+                      <a className='section--model-list-item-link' href={instagram} target='_blank' rel='noopener'>
+                        {featuredImage && <BackgroundImage src={featuredImage} imageSize='600' />}
+                        <p className='category title'>influencers</p>
+                        {name && <h3>{name}</h3>}
+                      </a>
+                    </div>
+                  })}
+                </div>
+              </Fragment>
+            }
+            {children && !!children.length &&
+              <Fragment>
+                <h3>Children</h3>
+                <div className='section--model-list-items' id='child-listing'>
+                  {children.map(({ name, featuredImage, instagram }, index) => {
+                    return <div key={`influencer-${index}`} className='section--model-list-item'>
+                      <p className='name-rotate'>{name}</p>
+                      <a className='section--model-list-item-link' href={instagram} target='_blank' rel='noopener'>
+                        {featuredImage && <BackgroundImage src={featuredImage} imageSize='600' />}
+                        <p className='category title'>influencers</p>
+                        {name && <h3>{name}</h3>}
+                      </a>
+                    </div>
+                  })}
+                </div>
+              </Fragment>
+            }
+          </div>
     		</div>
     	</section>
     </main>
@@ -76,6 +103,7 @@ export const InfluencersPageQuery = graphql`
           featuredImage
           instagram
           name
+          type
         }
         meta {
           canonicalLink
