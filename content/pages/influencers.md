@@ -66,6 +66,14 @@ influencerList:
     instagram: 'https://www.instagram.com/bellarosebrisbane/'
     name: Bella Rose
     type: child
+  - featuredImage: 'https://ucarecdn.com/6e5c79a2-6afb-4964-86ba-ab1d176b5d73/'
+    instagram: 'https://www.instagram.com/allaboutharlowrayne/'
+    name: Harlow
+    type: child
+  - featuredImage: 'https://ucarecdn.com/462d8804-5244-47de-8970-47485456ec5c/'
+    instagram: 'https://www.instagram.com/jasminehendriks/'
+    name: Jasmine H
+    type: child
 meta:
   title: ''
 ---
