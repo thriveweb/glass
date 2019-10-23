@@ -7,6 +7,7 @@ influencerList:
       https://ucarecdn.com/f2202709-9fb0-4491-b581-7c88444e2d1f/-/crop/455x575/0,0/-/preview/
     instagram: 'https://www.instagram.com/amanda_blanks/'
     name: Amanda
+    type: adult
   - featuredImage: >-
       https://ucarecdn.com/cc35a286-c559-4784-91b3-2e5149d50438/-/crop/499x529/85,0/-/preview/
     instagram: 'https://www.instagram.com/iamaaronshaw/'
