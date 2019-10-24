@@ -11,7 +11,7 @@ bust: 71cm
 waist: 59cm
 hips: 68cm
 size: '10'
-shoeSize: '4'
+shoeSize: '3'
 hair: Brown
 eyes: Hazel/Brown
 imagePortfolio:
