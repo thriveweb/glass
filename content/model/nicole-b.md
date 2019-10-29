@@ -7,10 +7,10 @@ firstName: Nicole B
 collection: Women
 height: 183cm
 measurementType: bust
-bust: 77.5cm
-waist: 64cm
-hips: 88.5cm
-size: Dress 6-8
+bust: 85cm
+waist: 67cm
+hips: 89cm
+size: Dress 8
 shoeSize: 9.5 -10
 hair: Blonde
 eyes: Blue
