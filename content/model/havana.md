@@ -15,6 +15,8 @@ shoeSize: 11-12
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/c8bd981a-7869-472f-9a85-9a6f2c16c652/'
+  - image: 'https://ucarecdn.com/b4470392-d3af-41aa-a14a-f41bb9c6fd74/'
   - image: 'https://ucarecdn.com/c9dac1ba-7a81-4269-bd63-5d944842dbf6/'
   - image: 'https://ucarecdn.com/696ede40-420f-4c01-b343-d34327eab29f/'
   - image: 'https://ucarecdn.com/1f67ad4d-fb5a-45bd-bd92-a02225113c95/'
