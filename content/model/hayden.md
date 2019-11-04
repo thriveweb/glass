@@ -5,13 +5,13 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/bradley-1.jpg'
 imageThumbnail: 'https://ucarecdn.com/30f2aa16-4969-46d9-8451-1f5477d203ad/'
 firstName: Hayden
 collection: Boys
-height: 138cm
+height: 144cm
 measurementType: chest
-bust: 61cms
-waist: 59cms
-hips: 65cms
+bust: 60cm
+waist: 55cm
+hips: 60cm
 size: '10'
-shoeSize: '4'
+shoeSize: 4-5
 hair: Blonde
 eyes: Grey
 imagePortfolio:
