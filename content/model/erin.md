@@ -5,13 +5,13 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/erin-new-banner
 imageThumbnail: 'https://ucarecdn.com/15293f79-635d-4002-ab3d-4c37eb338f61/'
 firstName: Erin
 collection: Girls
-height: 119cm
+height: 127cm
 measurementType: bust
-bust: 55cm
-waist: 51.5cm
-hips: 54cm
-size: '7'
-shoeSize: '12'
+bust: 57cm
+waist: 55cm
+hips: 57cm
+size: '8'
+shoeSize: 13-1
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
