@@ -29,6 +29,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/5cebb851-83b0-466e-a0a0-c600302f4b53/'
   - image: 'https://ucarecdn.com/db23bb2e-4f3c-4024-8f3a-8eff4540e731/'
   - image: 'https://ucarecdn.com/7f337060-6564-4a1d-b1a8-d5439b60ae36/'
+  - image: 'https://ucarecdn.com/d68516c8-d1a7-4abc-809d-8d35e189cdd8/'
+  - image: 'https://ucarecdn.com/6b01da7c-fabf-4fb8-9856-4a8743da4606/'
 meta:
   title: Nevada
 ---
