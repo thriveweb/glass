@@ -25,6 +25,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/8b851a15-9b83-4f88-9831-178ea290a48e/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/monty-121212121.jpg'
   - image: 'https://ucarecdn.com/a52624b3-df06-4bdf-a3ec-6ae256df1822/'
+  - image: 'https://ucarecdn.com/508f0422-30a9-43c3-ab2f-5b3ecb9d6442/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/monny-her-shadow.jpg'
   - image: 'https://ucarecdn.com/6c0f7ce2-857d-4f31-8df8-f840b48c26b1/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/nevada-4.jpg'
