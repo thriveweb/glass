@@ -5,12 +5,12 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/vivi11.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/vivi14.jpg'
 firstName: Vivi
 collection: Girls
-height: 110cm
+height: 111cm
 measurementType: bust
-bust: 51cm
+bust: 52cm
 waist: 52cm
-hips: 56cm
-size: 3-4
+hips: 55cm
+size: 4-5
 shoeSize: 27Euro
 hair: Light Brown
 eyes: Blue
