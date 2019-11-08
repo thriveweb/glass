@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/eaaa70c9-7ffd-48b3-b0d5-6e7628f13b24/'
 featuredVideo: 'https://ucarecdn.com/6a7ab4d2-28b0-47e2-b5de-95a0879c49e9/'
 featuredVideoMobile: 'https://ucarecdn.com/af461493-2d9c-45d0-aa42-cb207ef91d85/'
 imageThumbnail: >-
-  https://ucarecdn.com/0fcdd2bd-66b3-45ad-8628-8f482861eff1/-/crop/1705x1593/0,0/-/preview/
+  https://ucarecdn.com/5b7cf0d9-be3d-4636-ac17-4057e551107a/-/crop/875x1580/460,96/-/preview/
 firstName: Harlow
 collection: Girls
 height: 130cm
@@ -18,6 +18,7 @@ shoeSize: '2'
 hair: Golden Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/49f9bfb6-c15f-4682-ba54-096b227328f5/'
   - image: 'https://ucarecdn.com/2c06ffba-cef7-4a70-8267-5e00e921fd09/'
   - image: 'https://ucarecdn.com/a37e4273-3f32-4094-8c31-56259086f881/'
   - image: 'https://ucarecdn.com/344a0934-b623-4c2d-bbc6-65dc4ec8515d/'
