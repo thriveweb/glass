@@ -4,7 +4,7 @@ title: Saije
 featuredImage: >-
   https://ucarecdn.com/d1be86e4-2a84-4088-b7c1-4b9a3a65b9d0/-/crop/1211x1012/0,1/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/2cf6d573-e367-4433-a829-0d24dd26c8c3/-/crop/1007x1361/175,0/-/preview/
+  https://ucarecdn.com/b52e028c-e59c-4d62-9c2e-10f24259e681/-/crop/444x495/347,166/-/preview/
 firstName: Saije
 collection: Girls
 height: 137cm
