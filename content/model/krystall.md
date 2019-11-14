@@ -7,7 +7,7 @@ featuredVideo: ''
 imageThumbnail: >-
   https://ucarecdn.com/b993da03-51f6-4cb0-8a13-50096d8031bb/-/crop/3472x4800/2413,0/-/preview/
 firstName: Krystall
-collection: Classic
+collection: Global
 height: 171.5cm
 measurementType: bust
 bust: 95cm
@@ -23,8 +23,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/451dc689-bcee-4062-96db-0558b0bcf300/'
   - image: 'https://ucarecdn.com/9293aece-6d0c-4a7a-bb94-dd7018627fd3/'
   - image: 'https://ucarecdn.com/37dd5060-0cd5-405b-b925-8a5b4fdedc77/'
-  - image: 'https://ucarecdn.com/ac15f35a-4d1e-4399-bb55-a4fdd0d0d109/'
-  - image: 'https://ucarecdn.com/9a5b2070-72e6-4234-9cfb-1dea55456480/'
 meta: {}
 ---
 
