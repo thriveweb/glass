@@ -6,12 +6,12 @@ featuredImage: >-
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/201710284006_preview.jpg'
 firstName: 'Felicity '
 collection: Girls
-height: 164cm
+height: 170cm
 measurementType: bust
 bust: 80cm
-waist: 66cm
-hips: 76cm
-size: 14 kids/ Ladies 6/8
+waist: 70cm
+hips: 89cm
+size: 14 Kids 6/8 Ladies
 shoeSize: '9'
 hair: Blonde
 eyes: Green
