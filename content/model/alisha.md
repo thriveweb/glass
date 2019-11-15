@@ -4,13 +4,13 @@ title: Alisha
 featuredImage: 'https://ucarecdn.com/8376c393-d76d-477c-8011-1d6939805c0c/'
 imageThumbnail: 'https://ucarecdn.com/8b0f43fa-f99c-4ca4-913e-7a849fcd4d7e/'
 firstName: Alisha H
-collection: Classic
+collection: Curve
 height: 167cm
 measurementType: bust
 bust: 37inch
 waist: 33inch
 hips: 39inch
-size: 10/12
+size: '12'
 shoeSize: '7'
 hair: Brown
 eyes: Brown
