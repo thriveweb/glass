@@ -4,7 +4,7 @@ title: Amanda W
 featuredImage: 'https://ucarecdn.com/9607305b-189d-4bb0-bae6-33a4973776ca/'
 imageThumbnail: 'https://ucarecdn.com/14ac629e-74bb-4970-8486-a2dcdaecc678/'
 firstName: Amanda W
-collection: Classic
+collection: Curve
 height: 170cm
 measurementType: bust
 bust: 110cm 16DD
