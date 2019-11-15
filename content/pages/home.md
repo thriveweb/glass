@@ -26,6 +26,8 @@ gallery:
     - image: >-
         https://ucarecdn.com/cff4f1d5-7a3c-4b49-ae84-4620aba34e20/-/crop/1272x1010/0,0/-/preview/
       title: Boys
+    - image: 'https://ucarecdn.com/208bc515-f8aa-42c8-9493-5cb5040b821b/'
+      title: Curve
   subTitle: Our Models
   title: Explore Our Models
 about:
