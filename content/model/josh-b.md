@@ -10,7 +10,7 @@ measurementType: chest
 bust: 126cm
 waist: 118cm
 hips: 126cm
-size: 2XL
+size: 2XL shirt -38 Pant
 shoeSize: '11'
 hair: Light Brown
 eyes: Blue/Green
