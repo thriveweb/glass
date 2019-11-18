@@ -2,7 +2,7 @@
 template: ModelPage
 title: Andy
 featuredImage: >-
-  https://ucarecdn.com/c68b20c6-6773-43d3-a9cc-8f22064f685c/-/crop/1632x1319/0,0/-/preview/
+  https://ucarecdn.com/c68b20c6-6773-43d3-a9cc-8f22064f685c/-/crop/1632x720/0,146/-/preview/
 imageThumbnail: 'https://ucarecdn.com/cc57eb17-f84c-4436-b41c-53c278bac90e/'
 firstName: Andy
 collection: Classic
