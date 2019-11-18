@@ -3,7 +3,7 @@ template: ModelPage
 title: Arya
 featuredImage: 'https://ucarecdn.com/82133f6f-2cf0-4c98-a1be-058594d8a8ce/'
 imageThumbnail: >-
-  https://ucarecdn.com/8425211c-c159-4f17-9a18-74d804400a48/-/crop/1632x1726/0,0/-/preview/
+  https://ucarecdn.com/8425211c-c159-4f17-9a18-74d804400a48/-/crop/1071x1700/255,141/-/preview/
 firstName: Arya
 collection: Girls
 height: 127cm
