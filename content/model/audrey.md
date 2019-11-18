@@ -1,10 +1,12 @@
 ---
-title: Audrey
 template: ModelPage
-featuredImage: https://glassmanagement.imgix.net/images/uploads/film-movie-motion-picture-390089.jpeg
-imageThumbnail: https://glassmanagement.imgix.net/images/uploads/audreybangay63728.jpg
+title: Audrey
+featuredImage: >-
+  https://ucarecdn.com/2a7079d8-7b10-40e5-9086-c3f276863509/-/crop/1632x714/0,76/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/01c3f564-e429-44ae-86ea-01d330838403/-/crop/740x1038/450,75/-/preview/
 firstName: Audrey
-collection: Global
+collection: Women
 height: 183cm
 measurementType: bust
 bust: 91cm
@@ -15,27 +17,27 @@ shoeSize: '9.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay49872.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay2678.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay467832.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay63728.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay647234.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay267348.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay423879.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay42738.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay124.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay263478.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay267382.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay46728.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay64789.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay674289.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay5624378.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay23874.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay46781239.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay263478.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay6728349120.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay234768.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay462387623.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/audreybangay478.jpg
+  - image: 'https://ucarecdn.com/1670415f-c46f-4bca-9239-63e2ee6b13d6/'
+  - image: 'https://ucarecdn.com/e4f0f53b-75b6-4baa-bcd0-195cb112cf62/'
+  - image: 'https://ucarecdn.com/cf7bb257-d598-4c4d-bd94-111f77ca8a04/'
+  - image: 'https://ucarecdn.com/f417db34-40db-4c12-b3ab-57812d3efa6c/'
+  - image: 'https://ucarecdn.com/1b235c91-bd2a-4c7a-80a7-277937902dec/'
+  - image: 'https://ucarecdn.com/7c0f97ce-769d-4352-95f9-8c76c437d93d/'
+  - image: 'https://ucarecdn.com/771d3a17-a4f6-4a9e-9e67-f6708ad46ad8/'
+  - image: 'https://ucarecdn.com/a5546d28-12ed-4f5d-b548-39789c74245c/'
+  - image: 'https://ucarecdn.com/6b23598e-4b41-4d08-b368-2e3fe40039c6/'
+  - image: 'https://ucarecdn.com/83ed94d6-9a63-4048-b707-738cf8fd3856/'
+  - image: 'https://ucarecdn.com/c97380b1-4d4c-4437-befb-e9e1b35b8dde/'
+  - image: 'https://ucarecdn.com/6e90a305-2e6c-4ae8-bcca-db10927f482a/'
+  - image: 'https://ucarecdn.com/6bbbe809-c18b-4d43-b16c-30d89f02d3e8/'
+  - image: 'https://ucarecdn.com/d4d8537c-f227-43f0-86c2-5c8d12b1e487/'
+  - image: 'https://ucarecdn.com/eecd2811-6698-4039-899f-f38791626950/'
+  - image: 'https://ucarecdn.com/398b81fd-504e-44b6-8a1d-5d6ab5b976cf/'
+  - image: 'https://ucarecdn.com/f4a57a2a-de90-49b0-a82b-3059912064e1/'
+  - image: 'https://ucarecdn.com/ccf87e4f-ee2b-42ac-a1ef-85f465ab2832/'
+  - image: 'https://ucarecdn.com/da45d9c8-7c1d-4cbd-bd9f-488a74b85b7b/'
+  - image: 'https://ucarecdn.com/8f126798-67d0-4ab4-90a3-6560672ed72a/'
+meta:
+  title: Audrey
 ---
 
