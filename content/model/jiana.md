@@ -1,8 +1,10 @@
 ---
 template: ModelPage
 title: Jiana
-featuredImage: 'https://ucarecdn.com/86c84f75-ac3f-4385-bc73-42b7131f90ff/'
-imageThumbnail: 'https://ucarecdn.com/420b0c54-426c-4b8c-8dfb-77f12a57fada/'
+featuredImage: >-
+  https://ucarecdn.com/bb69a862-2415-4809-a684-92edb20cb178/-/crop/1632x719/0,66/-/preview/-/enhance/50/
+imageThumbnail: >-
+  https://ucarecdn.com/ecf507d2-4b0d-4da0-bf0a-de6159f766d7/-/preview/-/enhance/59/
 firstName: Jiana
 collection: Girls
 height: 95cm
@@ -15,12 +17,16 @@ shoeSize: '8'
 hair: Black
 eyes: Dark Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/0545ddf7-e65f-49c2-a0de-af89bbecc716/'
-  - image: 'https://ucarecdn.com/e0093e79-f1f2-427c-ad46-99ca5edea2ae/'
-  - image: 'https://ucarecdn.com/83bf9ea6-f801-4859-8243-e3c395ea02fe/'
-  - image: 'https://ucarecdn.com/7603304a-8771-4175-b16e-21455bf4d49c/'
-  - image: >-
-      https://ucarecdn.com/1ed980e1-80fb-46a5-8d9d-6c0688ab4b13/-/crop/1525x943/107,0/-/preview/
+  - image: 'https://ucarecdn.com/68505ca7-3866-4d6f-8830-df00ad43d267/'
+  - image: 'https://ucarecdn.com/f6f29850-777b-432e-ab41-85069bf474ac/'
+  - image: 'https://ucarecdn.com/e5fcda10-f345-4b57-99af-3dcd5e7d07a0/'
+  - image: 'https://ucarecdn.com/5d4088b1-85fc-426c-8524-00ed45543814/'
+  - image: 'https://ucarecdn.com/b24ae640-788a-48e2-aaa1-2d4377885e2c/'
+  - image: 'https://ucarecdn.com/b76193ba-8ca3-49d7-986b-0b8e9bcbf0ff/'
+  - image: 'https://ucarecdn.com/bd0ba076-625b-431e-9312-e3a47756e017/'
+  - image: 'https://ucarecdn.com/2bb9f2ca-0b79-48e3-be10-18802de56736/'
+  - image: 'https://ucarecdn.com/350280e7-572b-44ed-9e27-372b03456268/'
+  - image: 'https://ucarecdn.com/c329d20c-750b-4b61-9cf7-b21bf181f331/'
 meta:
   title: Jiana
 ---
