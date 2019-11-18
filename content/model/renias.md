@@ -15,8 +15,8 @@ size: 'Shirt M, Pant 32'
 shoeSize: '8'
 imagePortfolio:
   - image: 'https://ucarecdn.com/dc9d5af0-a51b-445f-a64d-53d3f25fcafc/'
-  - image: 'https://ucarecdn.com/2feec52f-e32d-4446-b8f8-a0baad6aab41/'
   - image: 'https://ucarecdn.com/41cd140c-18c5-47c2-a379-a05abe0827a5/'
+  - image: 'https://ucarecdn.com/2feec52f-e32d-4446-b8f8-a0baad6aab41/'
   - image: >-
       https://ucarecdn.com/b55fbdab-3bf7-4a98-9f61-d8e1529b6f2a/-/crop/1588x1628/408,4/-/preview/
 meta:
