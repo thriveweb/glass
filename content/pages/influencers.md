@@ -28,7 +28,7 @@ influencerList:
     instagram: 'https://www.instagram.com/itsemmabass/'
     name: Emma
     type: adult
-  - featuredImage: 'https://ucarecdn.com/dc98738e-d67c-4f5f-9843-cc430bfe936d/'
+  - featuredImage: 'https://ucarecdn.com/99a4fae0-3b44-42b2-82c3-bd749b5856b7/'
     instagram: 'https://www.instagram.com/eviegracebrown/'
     name: Evie
     type: adult
