@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Juan
-featuredImage: 'https://ucarecdn.com/98e20271-bd4b-420f-a5cd-93539a05d545/'
+featuredImage: >-
+  https://ucarecdn.com/98e20271-bd4b-420f-a5cd-93539a05d545/-/crop/2449x820/0,205/-/preview/
 imageThumbnail: 'https://ucarecdn.com/fc30825a-daab-4e64-83f1-5f91732baae3/'
 firstName: Juan
 collection: Boys
