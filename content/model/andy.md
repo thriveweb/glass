@@ -14,7 +14,7 @@ hips: 96cm
 size: '32 Pants, XL shirt'
 shoeSize: '10'
 hair: Brown
-eyes: Brown
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/f0c84207-c4e9-44f4-878d-d514b6720062/'
   - image: 'https://ucarecdn.com/ac39071d-02ad-42a3-b3d6-83e8b4a30b25/'
