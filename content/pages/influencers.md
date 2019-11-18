@@ -42,7 +42,7 @@ influencerList:
     instagram: 'https://www.instagram.com/itsemmabass/'
     name: Emma
     type: adult
-  - featuredImage: 'https://ucarecdn.com/dc98738e-d67c-4f5f-9843-cc430bfe936d/'
+  - featuredImage: 'https://ucarecdn.com/9c6a750a-2da1-4b18-99ee-f489954802b4/'
     instagram: 'https://www.instagram.com/eviegracebrown/'
     name: Evie
     type: adult
@@ -83,10 +83,6 @@ influencerList:
     instagram: 'https://www.instagram.com/easton.edwards/'
     name: Easton
     type: child
-  - featuredImage: 'https://ucarecdn.com/0df4cf7c-78f4-4aa9-8879-f014e4ae9248/'
-    instagram: 'https://www.instagram.com/heanen_official/'
-    name: Heanen
-    type: child
   - featuredImage: 'https://ucarecdn.com/6e5c79a2-6afb-4964-86ba-ab1d176b5d73/'
     instagram: 'https://www.instagram.com/allaboutharlowrayne/'
     name: Harlow
@@ -120,17 +116,21 @@ influencerList:
     instagram: 'https://www.instagram.com/miakelliott/'
     name: Mia
     type: child
-  - featuredImage: 'https://ucarecdn.com/10154022-be1e-4386-9f82-97b232d5ac51/'
-    instagram: 'https://www.instagram.com/oliver.oconnell_official/'
-    name: Oliver
-    type: child
   - featuredImage: 'https://ucarecdn.com/5141b87c-7fef-478e-96f4-a57e9d9a62c5/'
     instagram: 'https://www.instagram.com/siennamjohnston/'
     name: Sienna
     type: child
+  - featuredImage: 'https://ucarecdn.com/0df4cf7c-78f4-4aa9-8879-f014e4ae9248/'
+    instagram: 'https://www.instagram.com/heanen_official/'
+    name: Heanen
+    type: child
   - featuredImage: 'https://ucarecdn.com/13febd87-daca-4e17-80b2-0477d820d404/'
     instagram: 'https://www.instagram.com/marshallgradisnik/'
     name: Wyatt
+    type: child
+  - featuredImage: 'https://ucarecdn.com/10154022-be1e-4386-9f82-97b232d5ac51/'
+    instagram: 'https://www.instagram.com/oliver.oconnell_official/'
+    name: Oliver
     type: child
 meta:
   title: ''
