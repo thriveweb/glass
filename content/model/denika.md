@@ -38,6 +38,8 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/d.jpg'
   - image: 'https://ucarecdn.com/f472f11f-733f-41eb-8d5e-c3772ec22e69/'
   - image: 'https://ucarecdn.com/c540c77c-7865-49f5-8045-ee8dd6df541a/'
+  - image: 'https://ucarecdn.com/4479b755-3074-4cda-9229-6830d5466ae4/'
+  - image: 'https://ucarecdn.com/b6ab7e4f-f44f-46d0-93ae-a36c6f254b8a/'
 meta:
   title: Womens
 ---
