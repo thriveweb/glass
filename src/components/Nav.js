@@ -90,6 +90,7 @@ class Nav extends Component {
                 <ul className="subMenu">
                   {modelTypes.edges
                     .sort((a, b) =>
+                      modelTypeOrder.indexOf(a.node.frontmatter.title) > 0 && modelTypeOrder.indexOf(b.node.frontmatter.title) > 0 &&
                       modelTypeOrder.indexOf(a.node.frontmatter.title) >
                       modelTypeOrder.indexOf(b.node.frontmatter.title)
                         ? 1
@@ -139,7 +140,7 @@ class Nav extends Component {
   }
 
   static defaultProps = {
-    modelTypeOrder: ['Women', 'Men', 'Girls', 'Boys', 'Classic', 'Global', 'Curve']
+    modelTypeOrder: ['Women', 'Men', 'Girls', 'Boys', 'Classic', 'Global']
   }
 }
 

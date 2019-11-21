@@ -31,7 +31,6 @@ export default ({ modelTypes, handleSelect, selectedModelType }) => {
           'Boys',
           'Classic',
           'Global',
-          'Curve'
         ]
 
         return (
@@ -40,6 +39,7 @@ export default ({ modelTypes, handleSelect, selectedModelType }) => {
             !!modelTypes.edges.length &&
             modelTypes.edges
             .sort((a, b) =>
+              modelTypeOrder.indexOf(a.node.frontmatter.title) > 0 && modelTypeOrder.indexOf(b.node.frontmatter.title) > 0 &&
               modelTypeOrder.indexOf(a.node.frontmatter.title) >
               modelTypeOrder.indexOf(b.node.frontmatter.title)
                 ? 1
