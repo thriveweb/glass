@@ -6,11 +6,11 @@ featuredImage: >-
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/sj-new-hs.jpg'
 firstName: Sienna
 collection: Girls
-height: 161cm
+height: 165cm
 measurementType: bust
-bust: 76cm
-waist: 63cm
-hips: 82cm
+bust: 78cm
+waist: 64cm
+hips: 84cm
 size: '12'
 shoeSize: 7-8
 hair: Blonde
