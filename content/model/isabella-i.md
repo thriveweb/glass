@@ -20,7 +20,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c806accd-fd15-403f-8856-561b30cdf59e/'
   - image: 'https://ucarecdn.com/9d35e01d-2d05-476a-84ac-a3ef7e44f3ef/'
   - image: 'https://ucarecdn.com/67bd367a-4507-4f1f-b0b8-33c3d2db24cb/'
-  - image: 'https://ucarecdn.com/5624ee6a-f8b7-46ec-88ce-0cb38f10d9d7/'
+  - image: 'https://ucarecdn.com/bbda8551-22a8-4a1d-97ba-85847dc0030a/'
 meta:
   title: Isabella I
 ---
