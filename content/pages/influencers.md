@@ -71,6 +71,10 @@ influencerList:
     instagram: 'https://www.instagram.com/tanmanbrar/'
     name: Tanman
     type: adult
+  - featuredImage: 'https://ucarecdn.com/9945a9ee-ff3f-415f-89e4-853a5c69b6e8/'
+    instagram: 'https://www.instagram.com/thatlittleglamgirl_/?hl=en'
+    name: Ariah
+    type: child
   - featuredImage: 'https://ucarecdn.com/45ea72c4-5100-423a-914f-46f9c379defe/'
     instagram: 'https://www.instagram.com/bellarosebrisbane/'
     name: Bella Rose
