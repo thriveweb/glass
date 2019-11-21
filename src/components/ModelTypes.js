@@ -30,7 +30,8 @@ export default ({ modelTypes, handleSelect, selectedModelType }) => {
           'Girls',
           'Boys',
           'Classic',
-          'Global'
+          'Global',
+          'Curve'
         ]
 
         return (

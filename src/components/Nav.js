@@ -58,6 +58,8 @@ class Nav extends Component {
     const { header, modelTypes = [], modelTypeOrder } = this.props
     const { mobileActive, navActive, menuItemActive } = this.state
 
+    console.log(modelTypes)
+
     return (
       <nav
         className={`nav ${navActive ? 'active' : ''} ${
@@ -137,7 +139,7 @@ class Nav extends Component {
   }
 
   static defaultProps = {
-    modelTypeOrder: ['Women', 'Men', 'Girls', 'Boys', 'Classic', 'Global']
+    modelTypeOrder: ['Women', 'Men', 'Girls', 'Boys', 'Classic', 'Global', 'Curve']
   }
 }
 
