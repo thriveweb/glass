@@ -2,7 +2,7 @@
 template: ModelPage
 title: Eva K
 featuredImage: >-
-  https://ucarecdn.com/03f0e25c-a164-4a11-86f2-2766dfaa03fa/-/crop/1080x266/0,153/-/preview/
+  https://ucarecdn.com/03f0e25c-a164-4a11-86f2-2766dfaa03fa/-/crop/817x244/0,153/-/preview/
 imageThumbnail: 'https://ucarecdn.com/6c87a616-27b0-4647-bc61-4997016c8d1c/'
 firstName: Eva K
 collection: Women
