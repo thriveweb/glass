@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Krystall
+title: Kristall
 featuredImage: >-
   https://ucarecdn.com/0ff6bfab-c3f8-4a9f-99ed-b9b77d2241f0/-/crop/960x364/0,0/-/preview/
 featuredVideo: ''
