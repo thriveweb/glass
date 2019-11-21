@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/4f85dc61-329e-4e64-ab0f-a26e9b7103e9/-/crop/825x1212/145,51/-/preview/
 firstName: Tiann
 collection: Girls
-height: 125cm
+height: 137cm
 bust: 66cm
 waist: 60cm
 hips: 67cm
