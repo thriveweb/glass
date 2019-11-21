@@ -6,7 +6,7 @@ featuredImage: >-
 featuredVideo: ''
 imageThumbnail: >-
   https://ucarecdn.com/b993da03-51f6-4cb0-8a13-50096d8031bb/-/crop/3472x4800/2413,0/-/preview/
-firstName: Krystall
+firstName: Kristall
 collection: Global
 height: 171.5cm
 measurementType: bust
