@@ -10,8 +10,8 @@ measurementType: chest
 bust: 55cm
 waist: 45cm
 hips: 37cm
-size: 1-2
-shoeSize: 6-7
+size: 2 Pants-2-3 shirts
+shoeSize: '8'
 hair: Light Brown
 eyes: Green
 imagePortfolio:
