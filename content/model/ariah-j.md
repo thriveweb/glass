@@ -7,7 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/f947950d-e6be-4830-ab6d-f183a3e5f5e4/-/crop/525x687/650,506/-/preview/
 firstName: Ariah J
 collection: Girls
+height: 95cm
 measurementType: bust
+size: '2'
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/79aa3c24-2bbb-42db-ac18-4331ff46b4fa/'
   - image: 'https://ucarecdn.com/76873cdb-4fd1-4459-a437-ca53bfa21e76/'
