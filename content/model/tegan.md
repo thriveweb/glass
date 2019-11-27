@@ -17,21 +17,28 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/ccb4f3c7-f3d8-48db-9e47-0140ba6b8a80/'
+  - image: 'https://ucarecdn.com/1e6c2842-dccf-41c9-9ccf-bd1c1552d4c6/'
+  - image: 'https://ucarecdn.com/c2b9e828-b11c-4b74-bbfb-c026396c29de/'
   - image: 'https://ucarecdn.com/28182a02-f039-45ea-8e5b-4564b961cd74/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/img_3180.jpg'
+  - image: 'https://ucarecdn.com/96ea078e-7f21-44a8-8d7a-76c9f5627400/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0577.jpg'
-  - image: 'https://ucarecdn.com/0ffe00eb-8608-4155-aa25-393edec143cc/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan3.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/img_3175.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan4.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/2817028_8595970.jpg'
+  - image: 'https://ucarecdn.com/5b2bff4f-085f-42a2-851a-69ed5cd203bc/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amn_8380-1-_preview.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/img_3180.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/img_3175.jpg'
+  - image: 'https://ucarecdn.com/c99cf075-e4dc-435a-9f49-a13f94841e84/'
+  - image: 'https://ucarecdn.com/0b505c4f-9b40-4953-bee3-96666a9f1ef0/'
+  - image: 'https://ucarecdn.com/0ffe00eb-8608-4155-aa25-393edec143cc/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0576.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0573.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/img_0578.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/img_0574.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/tegan2.jpg'
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 meta:
   title: Tegan
 ---
