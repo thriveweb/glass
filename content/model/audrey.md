@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/01c3f564-e429-44ae-86ea-01d330838403/-/crop/740x1038/450,75/-/preview/
 firstName: Audrey
 collection: Women
-height: 183cm
+height: 180cm
 measurementType: bust
 bust: 91cm
 waist: 71cm
