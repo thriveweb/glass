@@ -16,7 +16,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/50d5b13e-e177-47b1-b83d-a61e27464288/'
   - image: 'https://ucarecdn.com/6cdaebc0-1aa8-4297-8953-e2245a78a73a/'
   - image: 'https://ucarecdn.com/ab6debca-7cea-455b-a25a-95a8579a3865/'
-  - image: 'https://ucarecdn.com/996cfad3-46d3-41e6-ab21-f9b3b4287df3/'
   - image: 'https://ucarecdn.com/40ddf8d3-920d-40cc-a552-a31a7f6970db/'
 meta:
   title: Tracey T
