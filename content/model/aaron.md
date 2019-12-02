@@ -2,7 +2,8 @@
 template: ModelPage
 title: Aaron
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/aaron54768.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/aaron-7.jpg'
+imageThumbnail: >-
+  https://ucarecdn.com/23797483-b692-49a1-af9f-c94c1065f3b0/-/crop/321x380/0,22/-/preview/
 firstName: Aaron
 collection: Men
 height: 182cm
@@ -14,8 +15,10 @@ shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/158d7ba7-bad6-4419-860a-96fe8f7223fb/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/aaron.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/aaron-1.jpg'
+  - image: 'https://ucarecdn.com/79a88222-fba6-499f-aef5-a4f067dde553/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/aaron-7.webp'
   - image: 'https://glassmanagement.imgix.net/images/uploads/aaron-4.webp'
   - image: 'https://glassmanagement.imgix.net/images/uploads/aaron-3.png'
