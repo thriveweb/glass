@@ -20,6 +20,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/ashya-jet-1.jpg'
   - image: 'https://ucarecdn.com/00805e29-aee0-445b-9104-9635f59134c7/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ashya-jet-2.jpg'
+  - image: 'https://ucarecdn.com/0bf4143e-f39f-43be-bbd4-27c4fc8427e2/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ashya-.1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/asyha-jet-7.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/asyha-jet-6.jpg'
