@@ -27,6 +27,11 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/2bb9f2ca-0b79-48e3-be10-18802de56736/'
   - image: 'https://ucarecdn.com/350280e7-572b-44ed-9e27-372b03456268/'
   - image: 'https://ucarecdn.com/c329d20c-750b-4b61-9cf7-b21bf181f331/'
+  - image: 'https://ucarecdn.com/391f06f7-44b1-4dd9-940a-3dc23895bdf7/'
+  - image: 'https://ucarecdn.com/9b198bab-6ef6-41bc-a942-1be1dee5779b/'
+  - image: 'https://ucarecdn.com/3370faed-c107-4959-b4e8-b1333fc751d8/'
+  - image: 'https://ucarecdn.com/0f395dd8-98e8-410d-a7b9-0e7d7fe9bb6b/'
+  - image: 'https://ucarecdn.com/95c1f016-813d-4669-9b15-1effd9efdcc7/'
 meta:
   title: Jiana
 ---
