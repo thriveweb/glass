@@ -5,12 +5,12 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/kahlae23467q892
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/kahlae378q64.jpg'
 firstName: Kahlae
 collection: Girls
-height: 127cm
+height: 134cm
 measurementType: bust
 bust: 57cm
-waist: 51cm
+waist: 55cm
 hips: 61cm
-size: '7'
+size: 7-8
 shoeSize: '13'
 hair: Blonde
 eyes: Dark Brown
