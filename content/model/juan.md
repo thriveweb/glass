@@ -27,6 +27,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0d1897cd-3b5c-46f6-9b18-5275aa3d1bc1/'
   - image: >-
       https://ucarecdn.com/dd2627ef-5cad-4021-a039-097d42bfe460/-/crop/1717x1619/386,13/-/preview/
+  - image: 'https://ucarecdn.com/bfcd3415-3142-4be8-a9ac-f34ec157ec69/'
+  - image: 'https://ucarecdn.com/b7499f66-ff12-4f6e-b7fa-a4b327f3c0d7/'
 meta:
   title: Juan
 ---
