@@ -37,6 +37,8 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/e843438a-1877-4905-8d7c-aa15b0ddbd70/-/crop/2400x1930/0,235/-/preview/
   - image: 'https://ucarecdn.com/fc528a4a-9468-44cf-b84e-e993a03387fa/'
+  - image: 'https://ucarecdn.com/e7d34627-9406-40f7-8d86-8c4ba4363c11/'
+  - image: 'https://ucarecdn.com/20d4c67c-b3e0-4954-b54c-71ac2c45c594/'
 meta:
   title: Hattie
 ---
