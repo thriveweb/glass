@@ -5,13 +5,13 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/karter893724342
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/karter3489723.jpg'
 firstName: Karter
 collection: Boys
-height: 105cm
+height: 114cm
 measurementType: chest
-bust: 58cm
-waist: 53cm
+bust: 60cm
+waist: 57.5cm
 hips: 63cm
-size: '5'
-shoeSize: '10'
+size: 5-6
+shoeSize: '11'
 hair: Brown
 eyes: Brown
 imagePortfolio:
