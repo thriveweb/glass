@@ -1,8 +1,10 @@
 ---
 template: ModelPage
 title: Bryella
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/bryella4banner.png'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/bryella7profile.png'
+featuredImage: >-
+  https://ucarecdn.com/d627c7fc-8262-4ae3-892d-183af3a1e149/-/crop/618x437/0,0/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/1b4d125a-bb77-45fa-9800-f9f94b6268b7/-/crop/182x225/250,100/-/preview/
 firstName: Bryella
 collection: Girls
 height: 82cm
@@ -15,6 +17,9 @@ shoeSize: '6'
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/08d2ff4b-b361-43d1-a284-cbb0566db044/'
+  - image: 'https://ucarecdn.com/84ef743f-694e-4191-848e-c9cc0ecca051/'
+  - image: 'https://ucarecdn.com/133bc2ae-7232-4b4d-8d6b-6cb6fe2783b1/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/bryella3.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/bryella8.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/bryella1.jpeg'
