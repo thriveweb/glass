@@ -3,8 +3,7 @@ template: ModelPage
 title: Jad
 featuredImage: >-
   https://ucarecdn.com/cd5cf762-736c-43c8-b3fb-f7f87e82a7e2/-/crop/2302x1303/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/69292730-ddb1-4796-83a7-4cc9eadb2ab4/-/crop/2842x3635/543,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/acd41b3c-b49d-4073-a363-76c08dc369df/'
 firstName: Jad
 collection: Men
 height: 185cm
