@@ -4,7 +4,7 @@ title: 'Fraser '
 featuredImage: 'https://ucarecdn.com/f5168b7c-f1ab-4ece-b905-0d0600b7c7fe/'
 imageThumbnail: 'https://ucarecdn.com/99f2279f-a349-4251-9877-9c911d7076b4/'
 firstName: Fraser
-collection: Men
+collection: Global
 height: 6'3"
 measurementType: chest
 bust: '37'
