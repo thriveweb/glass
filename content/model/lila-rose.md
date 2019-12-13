@@ -16,6 +16,7 @@ shoeSize: '6'
 hair: Black
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/0a05caf8-ab06-4dfb-b83a-419fda316350/'
   - image: 'https://ucarecdn.com/00f66f62-c892-40ce-ad51-80ab6559bea9/'
   - image: 'https://ucarecdn.com/4ec5c8f3-a106-4019-9ec6-bdc2875cbb60/'
   - image: 'https://ucarecdn.com/9d0ad601-08e8-4184-9f03-fb097cdc5c07/'
@@ -33,6 +34,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/5faa9609-9381-4057-b0eb-f6594c9bf9bb/'
   - image: 'https://ucarecdn.com/a34755c2-a420-4470-9a3e-9a38d730009c/'
   - image: 'https://ucarecdn.com/c0b3be3a-1771-419c-b076-f18380d551e5/'
+  - image: 'https://ucarecdn.com/aa1c8c10-7dd0-42d5-a845-27e141aa1516/'
   - image: 'https://ucarecdn.com/742fea13-7dee-4737-ab1e-d3dd878cdac6/'
   - image: 'https://ucarecdn.com/b9d065c0-73de-4bc4-b22b-24a157037787/'
   - image: 'https://ucarecdn.com/7a3d2031-2dd8-4dd6-9ead-1854220416a0/'
@@ -66,6 +68,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/bf8d7cf4-3df8-4ce7-9de2-6770ad146cd9/'
   - image: 'https://ucarecdn.com/a77eb951-95bf-4362-9952-266a41e0286a/'
   - image: 'https://ucarecdn.com/dd04e194-53be-45bd-bda5-93bba9f74870/'
+  - image: 'https://ucarecdn.com/008182de-bacc-4ed8-9069-72fba0f51b5f/'
 meta:
   title: Lila Rose
 ---
