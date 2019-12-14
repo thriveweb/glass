@@ -4,7 +4,7 @@ title: Matt H
 featuredImage: 'https://ucarecdn.com/9a3aeb27-69ca-4d1d-abab-2127c49fb4fb/'
 imageThumbnail: 'https://ucarecdn.com/f08f5e8c-8b41-4149-82a5-8fee819775c0/'
 firstName: Matt H
-collection: Classic
+collection: Global
 height: 6'2"
 measurementType: chest
 bust: '43'
