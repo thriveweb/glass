@@ -6,7 +6,10 @@ imageThumbnail: 'https://ucarecdn.com/68ee7a42-f8da-4721-931a-530c8b8315a4/'
 firstName: Montez
 collection: Men
 height: 185cm
+measurementType: chest
 waist: 86cm
+size: Pant 34- XL Shirt
+shoeSize: 13US
 hair: Black
 eyes: Brown
 imagePortfolio:
