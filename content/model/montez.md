@@ -1,8 +1,8 @@
 ---
 template: ModelPage
 title: Montez
-featuredImage: 'https://ucarecdn.com/ae238fa9-8038-4ebf-91b0-4ad1ac74fdf6/'
-imageThumbnail: 'https://ucarecdn.com/9ca4a626-117c-47df-ba3f-7f93e716b62c/'
+featuredImage: 'https://ucarecdn.com/9b07d075-d6e7-4df3-970e-bb2a3f308b53/'
+imageThumbnail: 'https://ucarecdn.com/68ee7a42-f8da-4721-931a-530c8b8315a4/'
 firstName: Montez
 collection: Men
 height: 185cm
