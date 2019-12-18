@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Montez
-featuredImage: 'https://ucarecdn.com/ea963762-fe03-49c3-abe4-88a79246cf19/'
+featuredImage: 'https://ucarecdn.com/ae238fa9-8038-4ebf-91b0-4ad1ac74fdf6/'
 imageThumbnail: 'https://ucarecdn.com/9ca4a626-117c-47df-ba3f-7f93e716b62c/'
 firstName: Montez
 collection: Men
