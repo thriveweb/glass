@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/dd49f552-e3c6-4292-8e32-8b71c0e8c446/'
 imageThumbnail: >-
   https://ucarecdn.com/2604717e-6d96-415d-817e-75e503be8671/-/crop/649x691/304,126/-/preview/
 firstName: Misha
-collection: Global
+collection: Women
 height: 177cm
 measurementType: bust
 bust: 81cm
