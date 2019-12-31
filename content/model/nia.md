@@ -20,6 +20,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/55908d1f-c9d6-4290-b0c7-06c3cb0de5a0/'
   - image: 'https://ucarecdn.com/ace91b31-ef30-4534-81dc-f976eb72f726/'
   - image: 'https://ucarecdn.com/7c775d1d-3740-408d-8b1b-f524edf6017f/'
+  - image: 'https://ucarecdn.com/a14efcea-e341-4042-90e0-4d5bc9796689/'
 meta:
   title: Nia
 ---
