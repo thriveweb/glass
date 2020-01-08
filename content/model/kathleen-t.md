@@ -9,11 +9,11 @@ firstName: Kathleen T
 collection: Girls
 height: 161cm
 measurementType: bust
-bust: 77cm
-waist: 61cm
+bust: 75cm
+waist: 60cm
 hips: 79cm
 size: '6'
-shoeSize: '8'
+shoeSize: '9'
 hair: Black
 eyes: Brown
 imagePortfolio:
