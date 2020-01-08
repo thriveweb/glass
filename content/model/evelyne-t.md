@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/309a612d-fa99-412e-85ba-b85b69e51176/-/crop/875x1190/299,308/-/preview/
 firstName: Evelyne T
 collection: Girls
-height: 91cm
+height: 94cm
 measurementType: bust
-bust: 53cm
-waist: 53cm
-hips: 56cm
+bust: 51cm
+waist: 51cm
+hips: 54cm
 size: '3'
-shoeSize: Kids 7
+shoeSize: Kids 9
 hair: Black
 eyes: Brown
 imagePortfolio:
