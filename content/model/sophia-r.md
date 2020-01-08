@@ -6,11 +6,11 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/1bfc2752-208d-4bea-abec-40272a928250/'
 firstName: GG Sophia
 collection: Girls
-height: 145cm
+height: 152cm
 measurementType: bust
-bust: 74cm
-waist: 64cm
-hips: 82cm
+bust: 75cm
+waist: 66cm
+hips: 84cm
 size: '10 Dress, 10 Pants, 12 Shirt'
 shoeSize: '6'
 hair: Brown
