@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Kathleen T
-featuredImage: >-
-  https://ucarecdn.com/0b3c9785-40b1-4635-aaea-42975e183a8b/-/crop/1632x820/0,598/-/preview/
+featuredImage: 'https://ucarecdn.com/602306d3-9e45-40c4-ba18-319e952a1f81/'
 imageThumbnail: >-
   https://ucarecdn.com/fd2c3738-9fc7-4620-9c1a-423c12731657/-/crop/841x1293/367,393/-/preview/
 firstName: Kathleen T
