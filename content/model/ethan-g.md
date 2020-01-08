@@ -11,7 +11,7 @@ measurementType: chest
 bust: 92cm
 waist: 70cm
 hips: 79cm
-size: Pants 30 Shirt S
+size: Pants 30 Shirt M
 shoeSize: '10'
 hair: Dark Brown
 eyes: Hazel
