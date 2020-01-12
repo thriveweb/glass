@@ -8,7 +8,7 @@ imageThumbnail: >-
   https://ucarecdn.com/5b7cf0d9-be3d-4636-ac17-4057e551107a/-/crop/875x1580/460,96/-/preview/
 firstName: Harlow
 collection: Girls
-height: 130cm
+height: 133cm
 measurementType: bust
 bust: 57cm
 waist: 48cm
