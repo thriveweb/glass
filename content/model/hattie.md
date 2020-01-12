@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/013b34ab-66bf-4d30-954b-6853a12a3344/-/crop/1229x1126/13,0/-/preview/
 firstName: Hattie
 collection: Girls
-height: 111cm
+height: 116cm
 measurementType: bust
 bust: 53.5cm
 waist: 49cm
