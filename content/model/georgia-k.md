@@ -8,13 +8,13 @@ imageThumbnail: >-
   https://ucarecdn.com/a4d2217b-5871-47d1-8187-9449e5bceb27/-/crop/2171x2257/0,0/-/preview/
 firstName: Georgia K
 collection: Girls
-height: 128cm
+height: 129cm
 measurementType: bust
-bust: 64cm
-waist: 56cm
-hips: 68cm
+bust: 66cm
+waist: 60cm
+hips: 70cm
 size: '8'
-shoeSize: 2-3
+shoeSize: '3'
 hair: Dark Blonde
 eyes: Blue
 imagePortfolio:
