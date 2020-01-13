@@ -5,11 +5,11 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/pkelly-4.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/pkelly.jpg'
 firstName: 'Piper '
 collection: Girls
-height: 122cm
+height: 125cm
 measurementType: bust
-bust: 58cm
-waist: 50.5cm
-hips: 60.5cm
+bust: 60cm
+waist: 54.5cm
+hips: 60 cm
 size: '6'
 shoeSize: '1'
 hair: Blonde
