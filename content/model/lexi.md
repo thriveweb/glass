@@ -28,7 +28,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/f726c561-2259-4474-819d-93149812f1f4/'
   - image: 'https://ucarecdn.com/c8c4c246-d6b5-442a-a27d-a27a4aefab8b/'
   - image: 'https://ucarecdn.com/0f2038ce-3eae-4812-a71c-79df73fa5c36/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/-3323.jpg'
   - image: 'https://ucarecdn.com/98935ce3-e213-4601-8e66-dd57dc2f2620/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/l-h-s-.jpg'
   - image: 'https://ucarecdn.com/82c211c6-1672-497e-871b-7eb20585375e/'
