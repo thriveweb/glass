@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/22d4070a-2f32-4bb2-926b-433e171b51b4/'
 imageThumbnail: 'https://ucarecdn.com/cfa473d5-7b66-4a60-af93-231ab01833b0/'
 firstName: Ty B
 collection: Boys
-height: 116cm
+height: 125cm
 measurementType: chest
-bust: 63cm
-waist: 65cm
-hips: 69cm
-size: '8'
-shoeSize: '5'
+bust: 69cm
+waist: 63cm
+hips: 72cm
+size: 9-10
+shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
