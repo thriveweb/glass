@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/c579931b-8cdd-4ff3-bcc3-e09f1b770c04/-/crop/643x974/572,413/-/preview/
 firstName: Sam H
 collection: Girls
-height: 135cm
+height: 155cm
 measurementType: bust
-bust: 71cm
-waist: 57cm
-hips: 73cm
+bust: 75cm
+waist: 61cm
+hips: 75cm
 size: 10-12
-shoeSize: '5'
+shoeSize: '6'
 hair: Brown
 eyes: Green
 imagePortfolio:
