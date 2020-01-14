@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/fc0a5154-aa34-40c0-b384-9bcd51da6899/-/crop/1564x1861/0,0/-/preview/
 firstName: Teiya
 collection: Girls
-height: 158cm
+height: 165cm
 measurementType: bust
-bust: 75cm
-waist: 61cm
-hips: 84cm
+bust: 84cm
+waist: 72cm
+hips: 91cm
 size: Ladies 8
-shoeSize: '6'
+shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
