@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/0b256d7f-bd76-4df2-82d4-de7b73317b13/-/crop/803x1124/283,0/-/preview/
 firstName: Amy L
 collection: Girls
-height: 149cm
+height: 150cm
 measurementType: bust
-bust: 70cm
-waist: 65cm
-hips: 75cm
+bust: 72cm
+waist: 64cm
+hips: 72cm
 size: '10'
-shoeSize: '6'
+shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
