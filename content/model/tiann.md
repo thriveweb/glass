@@ -7,11 +7,12 @@ imageThumbnail: >-
 firstName: Tiann
 collection: Girls
 height: 137cm
-bust: 66cm
-waist: 60cm
-hips: 67cm
+measurementType: bust
+bust: 73cm
+waist: 67cm
+hips: 76cm
 size: '12'
-shoeSize: '12'
+shoeSize: '2'
 hair: Brown
 eyes: Brown
 imagePortfolio:
