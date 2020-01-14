@@ -6,12 +6,12 @@ imageThumbnail: >-
   https://ucarecdn.com/261a4a1f-1cd5-41b2-8883-3b9c4ce5ab55/-/crop/1294x1133/195,0/-/preview/
 firstName: Gabby P
 collection: Girls
-height: 154cm
+height: 158cm
 measurementType: bust
-bust: 68cm
-waist: 60cm
-hips: 72cm
-size: '12'
+bust: 75cm
+waist: 62cm
+hips: 76cm
+size: 12-14
 shoeSize: 6/7
 hair: Brown
 eyes: Brown
