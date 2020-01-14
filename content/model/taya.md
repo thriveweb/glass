@@ -5,12 +5,13 @@ featuredImage: 'https://ucarecdn.com/c83b9f23-7ce8-4a2f-8613-6aeb6a7d04b9/'
 imageThumbnail: 'https://ucarecdn.com/4a435d48-7f75-4a01-932d-9ac2155975a0/'
 firstName: Taya
 collection: Girls
-height: 107cm
-bust: 53cm
+height: 119cm
+measurementType: bust
+bust: 56cm
 waist: 50cm
-hips: 55cm
-size: '4'
-shoeSize: '9'
+hips: 60cm
+size: '5'
+shoeSize: '11'
 hair: Brown
 eyes: Brown
 imagePortfolio:
