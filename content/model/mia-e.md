@@ -7,9 +7,9 @@ firstName: Mia E
 collection: Girls
 height: 162cm
 measurementType: bust
-bust: 76cm
-waist: 66cm
-hips: 82cm
+bust: 79cm
+waist: 65cm
+hips: 81cm
 size: '12 Girls : 4-6 Ladies'
 shoeSize: '8'
 hair: Light Brown
