@@ -7,11 +7,11 @@ firstName: Rocco
 collection: Boys
 height: 124cm
 measurementType: chest
-bust: 55cm
-waist: 57cm
-hips: 64cm
-size: '7'
-shoeSize: '13'
+bust: 61cm
+waist: 58cm
+hips: 60cm
+size: 7-8
+shoeSize: '1'
 hair: Brown
 eyes: Brown
 imagePortfolio:
