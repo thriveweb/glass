@@ -5,12 +5,13 @@ featuredImage: 'https://ucarecdn.com/4a53a3d9-91c0-4213-b322-122e5eaccf00/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/amn_9952-1-.jpg'
 firstName: Ava
 collection: Global
-height: 153cm
-bust: 86cm
-waist: 56cm
-hips: 75cm
-size: 10-12
-shoeSize: '6'
+height: 164cm
+measurementType: bust
+bust: 73cm
+waist: 60cm
+hips: 76cm
+size: '12'
+shoeSize: 7-8
 hair: Blonde
 eyes: Green
 imagePortfolio:
