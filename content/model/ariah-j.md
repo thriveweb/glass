@@ -9,7 +9,8 @@ firstName: Ariah J
 collection: Girls
 height: 95cm
 measurementType: bust
-size: '2'
+size: '3'
+shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
