@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/59eb98e9-d839-4161-8966-b91369a28111/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/easton-hs.jpg'
 firstName: Easton
 collection: Boys
-height: 123cm
+height: 130cm
 measurementType: chest
-bust: 64cm
-waist: 62cm
-hips: 68cm
-size: '7'
-shoeSize: '3'
+bust: 66cm
+waist: 64cm
+hips: 73cm
+size: '8'
+shoeSize: '4'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
