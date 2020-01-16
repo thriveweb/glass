@@ -5,13 +5,13 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/ivy-banner.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/ivy.jpg'
 firstName: Ivy
 collection: Girls
-height: 100cm
+height: 107cm
 measurementType: bust
-bust: 52cm
-waist: 103cm
-hips: 101cm
-size: '4'
-shoeSize: 6-7
+bust: 55cm
+waist: 50cm
+hips: 54cm
+size: 4-5
+shoeSize: '12'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
