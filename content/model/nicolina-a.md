@@ -7,10 +7,10 @@ firstName: Nikolina
 collection: Global
 height: 170cm
 measurementType: bust
-bust: 95cm
-waist: 80cm
-hips: 100cm
-size: Size 12
+bust: 87cm
+waist: 69cm
+hips: 87cm
+size: Size 10
 shoeSize: '9'
 hair: Brown
 eyes: Green
