@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/3f482a3a-120e-4c3d-93be-e19533273509/'
 imageThumbnail: 'https://ucarecdn.com/1a70c459-6e16-4ca9-936f-91c76d08173b/'
 firstName: Katie H
 collection: Girls
-height: 144cm
+height: 145cm
 measurementType: bust
-bust: 71cm
-waist: 59cm
-hips: 68cm
-size: '10'
-shoeSize: '3'
+bust: 72cm
+waist: 65cm
+hips: 71cm
+size: 10-12
+shoeSize: '4'
 hair: Brown
 eyes: Hazel/Brown
 imagePortfolio:
