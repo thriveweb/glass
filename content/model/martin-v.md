@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/66786554-c10c-4417-af4b-1d0f50ac0c4a/-/crop/492x644/401,0/-/preview/
 firstName: Martin V
 collection: Boys
-height: 125cm
+height: 130cm
 measurementType: chest
-bust: 66cm
-waist: 60cm
+bust: 60cm
+waist: 64cm
 hips: 66cm
-size: 7-8
-shoeSize: 1-2
+size: 8-9
+shoeSize: '2'
 hair: Brown
 eyes: Brown
 imagePortfolio:
