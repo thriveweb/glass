@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/44cd7370-7fbb-4d1c-abf3-05ec3fc9892c/-/crop/1246x1774/0,0/-/preview/
 firstName: Angelene T
 collection: Girls
-height: 158cm
+height: 159cm
 measurementType: bust
-bust: 83cm
-waist: 72cm
+bust: 82cm
+waist: 73cm
 hips: 87cm
 size: '14'
-shoeSize: '8'
+shoeSize: '9'
 hair: Black
 eyes: Brown
 imagePortfolio:
