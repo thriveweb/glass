@@ -7,13 +7,13 @@ featuredVideoMobile: 'https://ucarecdn.com/945a2a26-99a3-46ea-8bff-c32353f67ead/
 imageThumbnail: 'https://ucarecdn.com/f8a0dc63-f7e7-493f-94e1-d0aaa90ad224/'
 firstName: Bella Rose
 collection: Girls
-height: 144cm
+height: 151cm
 measurementType: bust
-bust: 67cm
-waist: 55cm
-hips: 66cm
-size: '10'
-shoeSize: 5-6 Adults
+bust: 73cm
+waist: 59cm
+hips: 73cm
+size: '12'
+shoeSize: 7 Adult
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
