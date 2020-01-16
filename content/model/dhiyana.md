@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/a14a0295-e735-4835-a4b6-0cd0832fef79/-/crop/1311x1566/569,0/-/preview/
 firstName: Dhiyana
 collection: Girls
-height: 119cm
+height: 121cm
 measurementType: bust
-bust: 62cm
-waist: 39cm
-hips: 70cm
-size: 7-8
-shoeSize: '12'
+bust: 60cm
+waist: 56cm
+hips: 63cm
+size: '8'
+shoeSize: '13'
 hair: Black
 eyes: Brown
 imagePortfolio:
