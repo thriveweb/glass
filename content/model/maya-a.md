@@ -7,13 +7,13 @@ featuredVideoMobile: 'https://ucarecdn.com/7bb18863-77fa-49d8-b240-3f80dc84cbcf/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/maya-hs.jpg'
 firstName: Maya A
 collection: Girls
-height: 160cm
+height: 165cm
 measurementType: bust
-bust: 79cm
-waist: 69cm
-hips: 80cm
-size: '14'
-shoeSize: '7'
+bust: 84cm
+waist: 70cm
+hips: 84cm
+size: Size 8 adult
+shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
