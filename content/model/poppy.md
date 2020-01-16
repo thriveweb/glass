@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/c40d3f8e-6320-49b6-8244-6443670ef9f4/-/crop/212x262/104,34/-/preview/
 firstName: Poppy
 collection: Girls
-height: 166cm
-measurementType: chest
-bust: 82cm
-waist: 68cm
-hips: 88cm
+height: 168cm
+measurementType: bust
+bust: 80cm
+waist: 61cm
+hips: 84cm
 size: 6/8
 shoeSize: '8'
 hair: Blonde
