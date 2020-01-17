@@ -4,8 +4,7 @@ title: Harlow
 featuredImage: 'https://ucarecdn.com/eaaa70c9-7ffd-48b3-b0d5-6e7628f13b24/'
 featuredVideo: 'https://ucarecdn.com/6a7ab4d2-28b0-47e2-b5de-95a0879c49e9/'
 featuredVideoMobile: 'https://ucarecdn.com/af461493-2d9c-45d0-aa42-cb207ef91d85/'
-imageThumbnail: >-
-  https://ucarecdn.com/5b7cf0d9-be3d-4636-ac17-4057e551107a/-/crop/875x1580/460,96/-/preview/
+imageThumbnail: 'https://ucarecdn.com/8d7525f4-aa5a-4a56-b87d-5a00f57a4218/'
 firstName: Harlow
 collection: Girls
 height: 133cm
@@ -26,6 +25,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/8823ce80-b986-4921-b11e-898450bb7e38/'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/photo-29-10-18-3-47-17-am-1-.jpg
+  - image: 'https://ucarecdn.com/3bb504f1-6dc7-4f67-bb55-9d7712af1383/'
   - image: 'https://ucarecdn.com/ec3dbdb7-2df1-487e-9abf-3e1d4024c94c/'
   - image: 'https://ucarecdn.com/ec26e6f0-550c-448a-bba7-447fe0bad99f/'
   - image: 'https://ucarecdn.com/81487518-39c7-4b3b-b7fa-f830d8759fcb/'
@@ -39,6 +39,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/harlow8.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/bubblegum7.jpg'
   - image: 'https://ucarecdn.com/7d7651f4-1fcf-4f15-805a-eb5863a625ce/'
+  - image: 'https://ucarecdn.com/beb3f33a-8b29-443f-a088-16d964bec5c8/'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/photo-16-2-19-9-07-29-pm.jpg
   - image: 'https://ucarecdn.com/6f2db391-e320-4d5e-b397-9a56a5028e6f/'
