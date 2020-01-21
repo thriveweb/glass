@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/2ef46057-1b09-42e1-ae4b-b86a22c14143/'
 imageThumbnail: 'https://ucarecdn.com/8effefb1-53c8-4a57-be5b-cc0e542b8a33/'
 firstName: Hannah D
 collection: Global
-height: 155cm
+height: 152cm
 measurementType: bust
 bust: 76cm
-waist: 82cm
-hips: 87cm
-size: Girls 14
-shoeSize: '8 '
+waist: 63cm
+hips: 76cm
+size: Ladies 6
+shoeSize: 4-5 Adults
 hair: Black
 eyes: Brown
 imagePortfolio:
