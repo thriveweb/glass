@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/5a422d51-514a-4a42-b397-e3f6019f1a0d/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/a-1.jpg'
 firstName: Ari
 collection: Boys
-height: 120cm
+height: 135cm
 measurementType: chest
-bust: 59cm
-waist: 54cm
-hips: 71cm
-size: '6'
-shoeSize: '2'
+bust: 64cm
+waist: 56cm
+hips: 63cm
+size: '8'
+shoeSize: '3'
 hair: Brown
 eyes: Brown
 imagePortfolio:
