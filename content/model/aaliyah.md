@@ -7,13 +7,15 @@ imageThumbnail: >-
   https://ucarecdn.com/d5c022da-1208-4b64-9734-2ae3c25560cc/-/crop/835x1287/757,0/-/preview/
 firstName: Aaliyah
 collection: Girls
-height: 113cm
+height: 115cm
 measurementType: bust
-bust: 53cm
+bust: 55cm
 waist: 51cm
-hips: 58cm
-size: Dress 4- Pants 4
-shoeSize: '11'
+hips: 55cm
+size: >-
+  Dress - size 5/6                        Tops - size
+  4/5                         Shorts - size 3/4
+shoeSize: '29'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
