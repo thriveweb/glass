@@ -32,6 +32,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/truc-13.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ti1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/truc-85.jpg'
+  - image: 'https://ucarecdn.com/679cdb2e-0a5a-4ba0-bdb4-f3c455eafae1/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tiann-12.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ti7.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tt-2.jpg'
@@ -45,8 +46,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b1de9402-7751-466f-9ef0-10dab6f280d3/'
   - image: 'https://ucarecdn.com/63bc8fad-15b8-4119-8888-d4ce5f2265f4/'
   - image: 'https://ucarecdn.com/ab8886ce-da4f-457a-a8cb-4040dbd5b69e/'
-  - image: 'https://ucarecdn.com/679cdb2e-0a5a-4ba0-bdb4-f3c455eafae1/'
   - image: 'https://ucarecdn.com/1f1250e7-9b1b-413c-afb8-b72ae19a9879/'
+  - image: 'https://ucarecdn.com/dec1e809-5bf7-4d4b-93e3-ddb5c4142de7/'
 meta:
   title: Tiann
 ---
