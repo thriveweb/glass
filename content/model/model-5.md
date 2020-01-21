@@ -8,10 +8,10 @@ firstName: Sienna
 collection: Girls
 height: 165cm
 measurementType: bust
-bust: 78cm
-waist: 64cm
-hips: 84cm
-size: '12'
+bust: 79cm
+waist: 63cm
+hips: 88cm
+size: Ladies 8
 shoeSize: 7-8
 hair: Blonde
 eyes: Green
