@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/8e245856-2c52-4988-a29b-77cdb7a70dbf/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/l-h-s-.jpg'
 firstName: Lexi
 collection: Girls
-height: 115cm
+height: 127cm
 measurementType: bust
-bust: 61cm
-waist: 61cm
-hips: 63cm
-size: '5'
-shoeSize: '12'
+bust: 62cm
+waist: 58cm
+hips: 64cm
+size: '7'
+shoeSize: '3'
 hair: Brown
 eyes: Brown
 imagePortfolio:
