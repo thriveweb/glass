@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/4b646dab-f4b1-42bd-8630-d67ceab45756/-/crop/956x909/107,44/-/preview/
 firstName: Alex H
 collection: Boys
-height: 160cm
+height: 166cm
 measurementType: chest
 bust: 67cm
 waist: 63cm
 hips: 80cm
-size: 12-14
-shoeSize: '8'
+size: '14'
+shoeSize: 9/10
 hair: Light Brown
 eyes: Hazel
 imagePortfolio:
