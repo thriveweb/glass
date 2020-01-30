@@ -2,7 +2,8 @@
 template: ModelPage
 title: Tyra
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/tyrabanner29uo82.jpg'
-imageThumbnail: 'https://ucarecdn.com/d5525f72-e4b2-4643-9ffa-df447db602ae/'
+imageThumbnail: >-
+  https://ucarecdn.com/42d88c06-00c2-4cbe-b617-533b7f2e2410/-/preview/-/enhance/58/
 firstName: Tyra
 collection: Girls
 height: 153cm
