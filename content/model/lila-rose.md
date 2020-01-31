@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/5f42e115-5031-4c81-8c3d-0bba0740a91a/-/crop/1770x1299/366,0/-/preview/
 firstName: Lila Rose
 collection: Girls
-height: 149cm
+height: 152cm
 measurementType: bust
 bust: 71cm
 waist: 63.5cm
 hips: 76cm
-size: '10'
-shoeSize: '6'
+size: '12'
+shoeSize: '7'
 hair: Black
 eyes: Brown
 imagePortfolio:
