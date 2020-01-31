@@ -9,11 +9,11 @@ firstName: Indah
 collection: Girls
 height: 148cm
 measurementType: bust
-bust: 73cm
-waist: 63cm
-hips: 79cm
-size: '12'
-shoeSize: '5'
+bust: 78cm
+waist: 62cm
+hips: 76cm
+size: 12-14
+shoeSize: '7'
 hair: Black
 eyes: Brown
 imagePortfolio:
