@@ -11,8 +11,8 @@ measurementType: bust
 bust: 79cm
 waist: 63cm
 hips: 88cm
-size: Ladies 8
-shoeSize: 7-8
+size: Ladies 8/ 14 kids
+shoeSize: '8'
 hair: Blonde
 eyes: Green
 imagePortfolio:
