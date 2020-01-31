@@ -3,8 +3,7 @@ template: ModelPage
 title: 'Jared '
 featuredImage: >-
   https://ucarecdn.com/0c752f2d-df25-4c24-bb52-7338e9c3db19/-/crop/2429x1347/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/c7ec12fe-d3e1-4de8-8f00-a73df598af6c/-/crop/1582x1856/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/8fa7a530-d8e5-4a3a-81b3-b65d71492295/'
 firstName: 'Jared '
 collection: Men
 height: 180cm
