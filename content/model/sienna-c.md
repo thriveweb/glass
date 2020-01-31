@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/98331bf0-cdf6-4a7d-9f04-a74341fd9584/-/crop/1098x1509/299,114/-/preview/
 firstName: Sienna C
 collection: Girls
-height: 161cm
+height: 167cm
 measurementType: bust
-bust: 75cm
-waist: 63cm
-hips: 83cm
+bust: 81cm
+waist: 70cm
+hips: 81cm
 size: '12'
-shoeSize: '12'
+shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
