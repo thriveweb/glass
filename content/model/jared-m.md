@@ -36,13 +36,14 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaredm342773824.jpg'
   - image: 'https://ucarecdn.com/fd76871a-8522-46fc-a16e-b15cfbd7c7bc/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaredm348972.jpg'
+  - image: 'https://ucarecdn.com/1aa1e172-e70c-44dc-bf7c-db4d8d6f7f75/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaredm74829.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaredm247839.jpg'
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+  - image: 'https://ucarecdn.com/46208ec4-4f8c-4f35-9107-20cfccc9b159/'
+  - image: 'https://ucarecdn.com/06f14299-9b1f-4cd4-a2e4-e738f76814d0/'
+  - image: 'https://ucarecdn.com/04e2c59f-87fc-43e0-ac22-4d74c74d9a03/'
+  - image: 'https://ucarecdn.com/3905a9ea-7152-4542-92d8-ef4d018448f5/'
+  - image: 'https://ucarecdn.com/c2c1e274-dd87-45aa-b99c-68e72d23962c/'
 meta:
   title: Jared M
 ---
