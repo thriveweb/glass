@@ -7,13 +7,13 @@ featuredVideoMobile: 'https://ucarecdn.com/9d9f0b94-99a2-450b-a987-e18adfca3526/
 imageThumbnail: 'https://ucarecdn.com/842ebf91-f699-4950-b816-3da2e4a26572/'
 firstName: 'Phoebe '
 collection: Girls
-height: 157cm
+height: 164cm
 measurementType: bust
-bust: 70cm
-waist: 55cm
-hips: 62cm
-size: '10'
-shoeSize: '7.5'
+bust: 78cm
+waist: 61cm
+hips: 75cm
+size: 12-14
+shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
