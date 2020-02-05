@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/92bc7733-35a2-4d6d-9010-86825d1898b1/'
 imageThumbnail: >-
   https://ucarecdn.com/5042bdcc-b04c-4283-936c-d9912ec8f17d/-/crop/1076x1071/233,174/-/preview/
 firstName: Ethan G
-collection: Men
+collection: Global
 height: 182cm
 measurementType: chest
 bust: 92cm
