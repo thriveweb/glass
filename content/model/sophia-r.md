@@ -28,12 +28,14 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/11727ce7-773a-449a-a484-a810272c9940/'
   - image: 'https://ucarecdn.com/8f5dd1c7-edae-4de6-96bf-99005d750a73/'
   - image: 'https://ucarecdn.com/4ef91fb6-63c9-483a-950e-88f71da93d85/'
-  - image: 'https://ucarecdn.com/5ea5995a-c543-409f-bdf9-189c84779cb5/'
+  - image: 'https://ucarecdn.com/2c912280-11ae-4eac-89cd-cdda8c6ad821/'
   - image: 'https://ucarecdn.com/80de07ba-4603-40c1-94d8-8e9713a8963c/'
+  - image: 'https://ucarecdn.com/2a3aabd0-ffd4-4d95-bfcf-7605f061376c/'
   - image: 'https://ucarecdn.com/16abdcbd-d80d-4d6e-99aa-5eb5a264f91e/'
   - image: 'https://ucarecdn.com/eea6069c-54e5-4581-91ea-b9949ec34d5a/'
   - image: 'https://ucarecdn.com/f764d805-1a33-44a1-bb20-1bd7f1953bbe/'
   - image: 'https://ucarecdn.com/313eed5a-8121-4957-b103-b80856804716/'
+  - image: 'https://ucarecdn.com/0f89215a-85e3-4e5a-a36e-c11c6172273f/'
 meta:
   title: GG Sophia
 ---
