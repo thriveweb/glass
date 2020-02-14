@@ -21,6 +21,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/204441cf-15cc-4ab1-bcbf-dedd0e12ee20/'
   - image: 'https://ucarecdn.com/b39a0104-2579-49ce-a7ec-990c03826275/'
   - image: 'https://ucarecdn.com/19c0f811-cc09-483a-a908-6b1e16175d2f/'
+  - image: 'https://ucarecdn.com/f68fb022-1c74-46c7-86b5-b4b93008011f/'
   - image: 'https://ucarecdn.com/189c65aa-66f8-483a-9e4b-12bb3f2f8613/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jamine3g.jpg'
   - image: 'https://ucarecdn.com/318b03fa-c8a8-4841-80fd-8435aa6b7fe8/'
