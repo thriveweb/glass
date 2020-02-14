@@ -5,12 +5,12 @@ featuredImage: 'https://ucarecdn.com/e45d509e-4761-4e5d-8f3f-82795365350c/'
 imageThumbnail: 'https://ucarecdn.com/01b0a392-915b-498e-8a3a-fff176d7ae9e/'
 firstName: Jasmine C
 collection: Girls
-height: 145cm
+height: 149cm
 measurementType: bust
-bust: 63cm
-waist: 56cm
-hips: 64cms
-size: 8/10
+bust: 67cm
+waist: 57cm
+hips: 70cms
+size: '10'
 shoeSize: '6'
 hair: Brown
 eyes: Brown
