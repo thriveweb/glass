@@ -5,12 +5,12 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/felix3-banner.j
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/felix9.jpg'
 firstName: Felix
 collection: Boys
-height: 125cm
+height: 128cm
 bust: 60cm
-waist: 53cm
+waist: 55cm
 hips: 60cm
-size: '6'
-shoeSize: '1'
+size: '7'
+shoeSize: '2'
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
