@@ -4,7 +4,8 @@ title: Bella Rose
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/brose1.jpg'
 featuredVideo: 'https://ucarecdn.com/842e3987-129b-424e-a1d4-a342d3abb517/'
 featuredVideoMobile: 'https://ucarecdn.com/945a2a26-99a3-46ea-8bff-c32353f67ead/'
-imageThumbnail: 'https://ucarecdn.com/f8a0dc63-f7e7-493f-94e1-d0aaa90ad224/'
+imageThumbnail: >-
+  https://ucarecdn.com/82d31d6b-aa3b-4f53-81ce-fb6bb6c2a3e0/-/crop/505x667/37,39/-/preview/
 firstName: Bella Rose
 collection: Girls
 height: 151cm
@@ -17,6 +18,8 @@ shoeSize: 7 Adult
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
+  - image: >-
+      https://ucarecdn.com/31e7c9da-b337-4c53-a331-e9a32d451eb8/-/crop/488x726/42,0/-/preview/
   - image: 'https://ucarecdn.com/59ab6154-63b7-4896-b7e0-7a2ad7ecd115/'
   - image: 'https://ucarecdn.com/1d02bcda-8d84-49af-a354-0015063949c5/'
   - image: 'https://ucarecdn.com/d52e8a82-e4d3-4399-92f9-63a736ca062d/'
