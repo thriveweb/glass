@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Joey G
-featuredImage: >-
-  https://ucarecdn.com/a36db10f-124a-4005-b5bc-970f9a2e1ded/-/crop/1581x824/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/b6a97e80-164b-4421-9766-06258191ef5e/'
 imageThumbnail: >-
   https://ucarecdn.com/9f8136d5-3d60-4b91-978d-9544bbb7d990/-/crop/1524x1678/0,0/-/preview/
 firstName: Joey G
@@ -17,15 +16,16 @@ shoeSize: '8'
 hair: Red
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/7faa43d0-fd6e-4a29-9ed6-319e568904af/'
   - image: 'https://ucarecdn.com/bd007da1-27ac-49a9-b2cf-37efcce45f43/'
   - image: 'https://ucarecdn.com/e60d9d50-6b76-4755-adfb-363c378faff5/'
   - image: 'https://ucarecdn.com/599614fa-0e41-462e-950a-ab183b4c7667/'
   - image: 'https://ucarecdn.com/892c7cd6-2bd9-4530-95cb-ce1e35e4390d/'
-  - image: 'https://ucarecdn.com/d09a03ff-c5b9-48d2-bc79-2637a2bbaa39/'
   - image: 'https://ucarecdn.com/1c5bc8c8-f302-4354-832b-9703da3466ec/'
   - image: 'https://ucarecdn.com/25904eed-252e-4bb0-a728-6a19fc889d97/'
   - image: 'https://ucarecdn.com/bb935987-a8bd-4df0-8257-c25c03b8ba9e/'
   - image: 'https://ucarecdn.com/ce81f5fe-6d10-420d-b039-ca5cb354519b/'
+  - image: 'https://ucarecdn.com/9621dad7-f046-4eb1-bc78-acda5ce8eb40/'
   - image: 'https://ucarecdn.com/f661cb1c-d937-41a3-80a8-67ccc71e8d6f/'
   - image: 'https://ucarecdn.com/1132f3e6-daaf-4d02-a5cd-2674ab511082/'
   - image: 'https://ucarecdn.com/bda87e9b-284e-4bbc-9781-ff745b19ded6/'
@@ -39,6 +39,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/9a08811c-d8b1-4987-b63c-b347d55adda6/'
   - image: 'https://ucarecdn.com/3f5ab71a-061d-41d5-b632-19d25f617e6f/'
   - image: 'https://ucarecdn.com/7519577f-909c-434f-8631-24e67dab5e62/'
+  - image: 'https://ucarecdn.com/4de356c3-0557-4963-938d-28358af3418e/'
   - image: 'https://ucarecdn.com/a4ff12eb-c3de-4d97-aa4c-73ed6810db47/'
   - image: 'https://ucarecdn.com/5abbbe72-1fd8-43a8-a25f-732ce85d72b6/'
   - image: 'https://ucarecdn.com/84632809-b697-4a21-bb5f-219d16b334cc/'
@@ -50,7 +51,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/f85a61f0-7ef2-4749-adf4-0ea93d628fca/'
   - image: 'https://ucarecdn.com/e1ada890-75cb-410c-b8f5-d4176cae3834/'
   - image: 'https://ucarecdn.com/8f0673d4-06c3-4b5f-a546-2a3ac16281e2/'
-  - image: 'https://ucarecdn.com/f67da1d2-8274-4846-ae3c-ec08226a2ec4/'
   - image: 'https://ucarecdn.com/576d2cbb-d51d-49bf-b0a0-0c16a9109438/'
   - image: 'https://ucarecdn.com/dc956dcc-1fd4-489f-8cc7-9eb169649772/'
 meta:
