@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/14e1bcc0-90a1-4efc-ab56-6a52fb9490f9/-/crop/680x1026/902,93/-/preview/
 firstName: Zoe C
 collection: Girls
-height: 137cm
+height: 138cm
 measurementType: bust
 bust: 70cm
 waist: 62cm
