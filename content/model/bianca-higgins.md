@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Bianca Higgins
+title: Bianca H
 featuredImage: 'https://ucarecdn.com/e2c144d8-278d-47d4-8f9a-ea257fefb88e/'
 imageThumbnail: 'https://ucarecdn.com/286c0706-adff-4815-8166-206db0665845/'
 firstName: Bianca
