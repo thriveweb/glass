@@ -29,6 +29,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/345f0c12-b713-463b-bcd7-68c7fec82081/'
   - image: 'https://ucarecdn.com/a4730124-b61c-4f1b-ab09-47b860852f35/'
   - image: 'https://ucarecdn.com/0ca7241f-9b48-4348-a60c-de4bbeb28854/'
+  - image: 'https://ucarecdn.com/a9cfa6f8-18a2-4ec0-a6be-92b4b0034629/'
+  - image: 'https://ucarecdn.com/ffe503e6-b653-4db1-b524-c5524062f774/'
+  - image: 'https://ucarecdn.com/6cbb4ae1-64e8-4681-a444-a2472213e9b0/'
 meta:
   title: Aaliyah
 ---
