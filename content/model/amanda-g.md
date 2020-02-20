@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Amanda G
+title: 'G Amanda '
 featuredImage: 'https://ucarecdn.com/6ffe7a08-a881-4e54-856c-ca58f2465260/'
 imageThumbnail: >-
   https://ucarecdn.com/8d7b9bcd-cffa-433d-8cb9-91b594fec650/-/crop/563x666/102,0/-/preview/
