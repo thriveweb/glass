@@ -40,6 +40,10 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/e843438a-1877-4905-8d7c-aa15b0ddbd70/-/crop/2400x1930/0,235/-/preview/
   - image: 'https://ucarecdn.com/fc528a4a-9468-44cf-b84e-e993a03387fa/'
+  - image: 'https://ucarecdn.com/e20e9465-e490-448a-9789-54ba49c5733f/'
+  - image: 'https://ucarecdn.com/2f93a244-ca81-49b7-8163-b93d17c192b0/'
+  - image: 'https://ucarecdn.com/f0974b0b-a3e0-4b3f-bf7d-97f18320b089/'
+  - image: 'https://ucarecdn.com/5057f99e-22e8-4c64-a075-446f945f2d53/'
 meta:
   title: Hattie
 ---
