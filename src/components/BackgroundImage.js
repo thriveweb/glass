@@ -6,6 +6,8 @@ export default ({
 }) => {
   let imgSrc = src
 
+  console.log(src)
+
   if(imageSize) {
     if(src && src.includes('imgix')) {
       imgSrc = imgSrc.includes('webp')
