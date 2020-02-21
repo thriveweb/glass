@@ -7,7 +7,7 @@ export default ({
   let imgSrc = src
 
   if(imageSize) {
-    if(src.includes('imgix')) {
+    if(src && src.includes('imgix')) {
       imgSrc = imgSrc.includes('webp')
         ? `${imgSrc.replace('https://glassmanagement.imgix.net/images/uploads/', 'https://glassmanagement.imgix.net/images/uploads/resized/')}.png?auto=compress,format&w=${imageSize}&fm=png`
         : `${imgSrc}?auto=compress,format&w=${imageSize}&fm=png`
