@@ -50,6 +50,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/6c4e64d7-49a3-4160-97e5-1e81ddb54f31/'
   - image: 'https://ucarecdn.com/2554557a-5aa6-4450-bf48-3f322ad7e608/'
   - image: 'https://ucarecdn.com/b74f2117-11f3-4cec-9eff-0b42cd627edd/'
+  - image: 'https://ucarecdn.com/95e8a772-3580-40db-8e36-526045a16e5c/'
 meta:
   title: Amy L
 ---
