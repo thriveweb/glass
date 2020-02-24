@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/9d297d21-57d5-4694-83fd-4782c82afde1/'
 imageThumbnail: >-
   https://ucarecdn.com/39a6389a-13ec-42ef-971e-40f9901dd46f/-/crop/1549x1482/83,0/-/preview/
 firstName: Marie G
-collection: Women
+collection: Curve
 height: 171cm
 measurementType: bust
 bust: 89cm
