@@ -12,9 +12,7 @@ measurementType: bust
 bust: 55cm
 waist: 51cm
 hips: 55cm
-size: >-
-  Dress - size 5/6                        Tops - size
-  4/5                         Shorts - size 3/4
+size: '5'
 shoeSize: '29'
 hair: Dark Brown
 eyes: Brown
