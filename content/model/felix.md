@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Felix
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/felix3-banner.jpg'
+featuredImage: >-
+  https://ucarecdn.com/f4aa06d2-93a4-47ed-a87d-d17cb5fe2aeb/-/crop/500x346/0,124/-/preview/
 imageThumbnail: 'https://ucarecdn.com/53d3a4bf-c634-4c02-9530-eb731848c478/'
 firstName: Felix
 collection: Boys
