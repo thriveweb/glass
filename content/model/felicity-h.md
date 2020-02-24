@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/bb10bd13-ba42-4e9e-b2d7-bdb743131384/'
 imageThumbnail: >-
   https://ucarecdn.com/4eb2bcb1-c1fa-4ff7-81d7-89bdeb81c008/-/crop/1102x1298/265,346/-/preview/
 firstName: Felicity H
-collection: Women
+collection: Curve
 height: 173cm
 measurementType: bust
 bust: 85cm
 waist: 73cm
 hips: 97cm
-size: '10'
+size: 10-12
 shoeSize: '9'
 hair: Red
 eyes: Blue
