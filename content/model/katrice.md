@@ -2,7 +2,7 @@
 template: ModelPage
 title: Katrice
 featuredImage: >-
-  https://ucarecdn.com/b38169f1-f6ee-4592-b3e0-4c89ea6d8af5/-/crop/491x350/0,239/-/preview/
+  https://ucarecdn.com/b38169f1-f6ee-4592-b3e0-4c89ea6d8af5/-/crop/481x256/0,245/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/46567b9f-81c1-4ee5-a02d-929e6ff758eb/-/crop/386x514/78,0/-/preview/
 firstName: Katrice
