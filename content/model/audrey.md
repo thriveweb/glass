@@ -1,12 +1,12 @@
 ---
 template: ModelPage
-title: ' TT Audrey '
+title: '  Audrey '
 featuredImage: >-
   https://ucarecdn.com/2a7079d8-7b10-40e5-9086-c3f276863509/-/crop/1632x714/0,76/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/01c3f564-e429-44ae-86ea-01d330838403/-/crop/740x1038/450,75/-/preview/
 firstName: Audrey
-collection: Women
+collection: Global
 height: 180cm
 measurementType: bust
 bust: 91cm
