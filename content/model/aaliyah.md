@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Aaliyah
+title: Aaliyah.
 featuredImage: >-
   https://ucarecdn.com/90b8b851-1c3d-40bd-b132-7b785919e538/-/crop/2488x705/7,276/-/preview/
 imageThumbnail: >-
