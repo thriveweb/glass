@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: '  LL Audrey '
+title: '  DD Audrey '
 featuredImage: >-
   https://ucarecdn.com/2a7079d8-7b10-40e5-9086-c3f276863509/-/crop/1632x714/0,76/-/preview/
 imageThumbnail: >-
