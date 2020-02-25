@@ -34,6 +34,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/f4a57a2a-de90-49b0-a82b-3059912064e1/'
   - image: 'https://ucarecdn.com/ccf87e4f-ee2b-42ac-a1ef-85f465ab2832/'
 meta:
-  title: LL Audrey
+  title: DD Audrey
 ---
 
