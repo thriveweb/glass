@@ -5,7 +5,7 @@ import './SectionTestimonials.css'
 import {ICONQuotes} from './Icons'
 
 
-import 'react-id-swiper/src/styles/css/swiper.css'
+import 'swiper/css/swiper.css'
 import Slider from 'react-id-swiper'
 import Content from './Content'
 
@@ -44,7 +44,7 @@ class SimpleSlider extends Component {
 								{singleTestimonial.name && <p className='title'>{singleTestimonial.name}</p>}
 							</div>
 						})}
-					</Slider>	
+					</Slider>
 				</div>
 			</section>
 		)
