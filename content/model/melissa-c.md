@@ -2,7 +2,7 @@
 template: ModelPage
 title: Melissa C
 featuredImage: >-
-  https://ucarecdn.com/cd7aa3d1-7373-4d10-8e77-fea6cfe8fdef/-/crop/2424x1435/0,0/-/preview/
+  https://ucarecdn.com/cd7aa3d1-7373-4d10-8e77-fea6cfe8fdef/-/crop/2420x1230/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/c6e3c1fb-91b3-40ae-8169-a01f9d73d00b/-/crop/1025x1457/268,0/-/preview/
 firstName: Melissa C
