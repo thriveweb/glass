@@ -1,6 +1,8 @@
 import React from 'react'
-import CMS from 'netlify-cms'
+import CMS from 'netlify-cms-app';
 import './cms-utils'
+
+import uploadcare from 'netlify-cms-media-library-uploadcare';
 
 import { HomePageTemplate } from '../templates/HomePage'
 import { AboutPageTemplate } from '../templates/AboutPage'
@@ -12,6 +14,8 @@ import { JoinUsPageTemplate } from '../templates/JoinUsPage'
 import { ModelPageTemplate } from '../templates/ModelPage'
 import { ModelsPageTemplate } from '../templates/ModelsPage'
 import { InfluencersPageTemplate } from '../templates/InfluencersPage'
+
+CMS.registerMediaLibrary(uploadcare);
 
 if (
   window.location.hostname === 'localhost' &&
