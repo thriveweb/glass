@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Elizabeth
-featuredImage: 'https://ucarecdn.com/995c5cc4-df41-48a1-a2d7-1ff781026135/'
+featuredImage: >-
+  https://ucarecdn.com/995c5cc4-df41-48a1-a2d7-1ff781026135/-/crop/1011x606/13,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/b7e31321-f5c6-474f-b230-8290f311551d/'
 featuredVideoMobile: 'https://ucarecdn.com/0de2bd30-79e8-42fd-b63f-6594bb438ef1/'
 imageThumbnail: 'https://ucarecdn.com/8d29101c-592e-4e74-89ab-fb1437dc1ce4/'
