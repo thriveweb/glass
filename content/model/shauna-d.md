@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Shauna D
-featuredImage: 'https://ucarecdn.com/0c1311bf-a65a-4e51-9ce0-f10a46901ab8/'
+featuredImage: 'https://ucarecdn.com/c571eb69-97c0-4dd8-9782-7970a8e0e0ea/'
 imageThumbnail: 'https://ucarecdn.com/8fa7526f-00b9-43d0-a966-4000c585a7ae/'
 firstName: Shauna D
 collection: Curve
@@ -15,11 +15,12 @@ shoeSize: '7'
 hair: Dark Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/214ed6a2-2d2d-4e2a-b33f-7f32c7a472cc/'
+  - image: 'https://ucarecdn.com/33948c76-893a-4345-89ba-2a86ffb2630a/'
   - image: 'https://ucarecdn.com/cace41c7-b50f-4b27-afbb-0d02e421efb0/'
+  - image: 'https://ucarecdn.com/af493322-3022-40df-82be-8458a0a27591/'
   - image: 'https://ucarecdn.com/ccf9ae89-203a-4293-a3ce-43a6c6b48521/'
-  - image: 'https://ucarecdn.com/bfee51aa-18ae-4cc5-8de0-33f89f0e4a0c/'
   - image: 'https://ucarecdn.com/72ef703a-ac6f-4837-946d-5717bcdb9e66/'
-  - {}
+  - image: 'https://ucarecdn.com/5be51b44-3065-4dc5-a175-d0995ffb6370/'
 meta: {}
 ---
 
