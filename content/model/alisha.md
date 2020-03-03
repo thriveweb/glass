@@ -7,10 +7,10 @@ firstName: Alisha H
 collection: Curve
 height: 167cm
 measurementType: bust
-bust: 94cm
-waist: 75cm
-hips: 98cm
-size: '12'
+bust: 96cm
+waist: 78cm
+hips: 95cm
+size: 10-12
 shoeSize: '7.5'
 hair: Brown
 eyes: Brown
