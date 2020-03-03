@@ -8,8 +8,12 @@ firstName: Bonny
 collection: Classic
 height: 177cm
 measurementType: bust
-size: '8'
-hair: Brown
+waist: 70cm
+hips: 102cm
+size: '10'
+shoeSize: '10'
+hair: ' Light Brown'
+eyes: green/grey
 imagePortfolio:
   - image: 'https://ucarecdn.com/1162e510-e361-4adc-801d-74ba910ef2b5/'
   - image: 'https://ucarecdn.com/43ffbddc-c436-4600-8ebd-615f4f64e7fb/'
