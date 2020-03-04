@@ -6,7 +6,7 @@ featuredVideo: 'https://ucarecdn.com/6046befc-df1a-46fa-b5ed-38690927793a/'
 imageThumbnail: 'https://ucarecdn.com/6cf8d7a1-898c-4402-b3bb-6552fad55917/'
 firstName: Debbie
 collection: Classic
-height: 157cm
+height: 159cm
 measurementType: bust
 bust: 80cm
 waist: 64cm
