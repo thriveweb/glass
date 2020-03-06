@@ -19,6 +19,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a3820721-84d1-4d7f-b84e-53d85350599c/'
   - image: 'https://ucarecdn.com/ce300bc5-c429-4a2c-a9ae-bb6a33dc854d/'
   - image: 'https://ucarecdn.com/f80f74e7-a08d-48b9-a2b3-67d01293722e/'
+  - image: 'https://ucarecdn.com/531c3229-38c3-4052-9104-b6ad29936ce6/'
 meta:
   title: Tyler D
 ---
