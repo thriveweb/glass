@@ -1,10 +1,11 @@
 ---
 template: ModelPage
 title: Tyler D
-featuredImage: 'https://ucarecdn.com/24799693-c97d-4b46-b1e0-e054090f4c75/'
+featuredImage: >-
+  https://ucarecdn.com/971c0e4e-ba6f-4186-8a56-57eb3b822cb6/-/crop/6303x4532/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/316f3da2-a53d-499a-8547-e8e7e0f69285/'
 firstName: Tyler D
-collection: Global
+collection: Classic
 height: 6'4"
 measurementType: chest
 bust: '39'
