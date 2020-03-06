@@ -5,9 +5,16 @@ featuredImage: 'https://ucarecdn.com/df870ec0-7d1d-4a9f-b5d2-a44c91526d4f/'
 imageThumbnail: >-
   https://ucarecdn.com/37548120-c6b7-4e6c-9452-02d13521345e/-/crop/854x1101/467,58/-/preview/
 firstName: Mikaela M
-collection: Global
+collection: Women
+height: 167cm
 measurementType: bust
+bust: 83cm
+waist: 80cm
+hips: 80cm
 size: '8'
+shoeSize: EU 40
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/7ce8c5f6-4dec-44fe-b764-3483c6b8c714/'
   - image: 'https://ucarecdn.com/81cc9b47-3c2e-4820-ad32-dc12c7044bcb/'
