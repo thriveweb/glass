@@ -8,7 +8,7 @@ firstName: Debbie
 collection: Classic
 height: 159cm
 measurementType: bust
-bust: 80cm
+bust: 81cm
 waist: 64cm
 hips: 88cm
 size: 6-8
