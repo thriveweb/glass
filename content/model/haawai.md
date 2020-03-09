@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/ddd4e265-0b77-4bea-b99d-b076185ee621/-/crop/1149x1640/188,256/-/preview/
 firstName: Haawai
 collection: Boys
-height: 111cm
+height: 115cm
 measurementType: chest
-bust: 55cm
-waist: 49cm
+bust: 56cm
+waist: 50cm
 hips: 58cm
-size: 4-5
-shoeSize: '12'
+size: 5-6
+shoeSize: '2'
 hair: Brown
 eyes: Brown
 imagePortfolio:
