@@ -8,7 +8,7 @@ collection: Girls
 height: 145cm
 measurementType: bust
 bust: 72cm
-waist: 65cm
+waist: 62cm
 hips: 71cm
 size: 10-12
 shoeSize: '4'
