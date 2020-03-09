@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Jak
-featuredImage: >-
-  https://ucarecdn.com/a16f56dc-ea1b-451d-a842-f0b1c0ac3c4b/-/crop/1629x1000/0,997/-/preview/
+featuredImage: 'https://ucarecdn.com/c9673ac8-9d3f-410d-b02b-53ea32f3e826/'
 imageThumbnail: >-
   https://ucarecdn.com/be6271b3-4860-4643-aa4f-8d960ec5759b/-/crop/514x777/269,0/-/preview/
 firstName: Jak
