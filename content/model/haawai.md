@@ -2,7 +2,7 @@
 template: ModelPage
 title: Haawai
 featuredImage: >-
-  https://ucarecdn.com/c002b536-79b0-47a2-82a8-81e1d480e723/-/crop/1632x1222/0,521/-/preview/
+  https://ucarecdn.com/a10e399f-6834-4d5c-988f-0872de7dff5c/-/crop/4463x4513/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/4c962147-b305-4acc-b96c-76dc515fb7ab/-/crop/2691x3921/1172,0/-/preview/
 firstName: Haawai
