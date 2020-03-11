@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Aaliyah.
+title: Aaliyah
 featuredImage: >-
   https://ucarecdn.com/90b8b851-1c3d-40bd-b132-7b785919e538/-/crop/2488x705/7,276/-/preview/
 imageThumbnail: >-
@@ -30,6 +30,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/345f0c12-b713-463b-bcd7-68c7fec82081/'
   - image: 'https://ucarecdn.com/a4730124-b61c-4f1b-ab09-47b860852f35/'
   - image: 'https://ucarecdn.com/0ca7241f-9b48-4348-a60c-de4bbeb28854/'
+  - image: 'https://ucarecdn.com/2ea60d64-83d1-4e1c-8135-2bd07451f16c/'
+  - image: 'https://ucarecdn.com/37fd0bb9-13a7-4443-887b-4b4730272e70/'
 meta:
   title: Aaliyah
 ---
