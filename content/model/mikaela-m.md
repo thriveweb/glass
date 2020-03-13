@@ -9,7 +9,7 @@ collection: Women
 height: 167cm
 measurementType: bust
 bust: 83cm
-waist: 80cm
+waist: 68cm
 hips: 80cm
 size: '8'
 shoeSize: EU 40
