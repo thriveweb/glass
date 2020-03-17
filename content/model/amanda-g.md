@@ -2,8 +2,7 @@
 template: ModelPage
 title: 'G Amanda '
 featuredImage: 'https://ucarecdn.com/6ffe7a08-a881-4e54-856c-ca58f2465260/'
-imageThumbnail: >-
-  https://ucarecdn.com/8d7b9bcd-cffa-433d-8cb9-91b594fec650/-/crop/563x666/102,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/60366c55-79d5-4145-9a9b-ea02f142ed5b/'
 firstName: Amanda G
 collection: Classic
 height: 171cm
@@ -16,6 +15,7 @@ shoeSize: 9-10
 hair: Light Brown
 eyes: Hazel
 imagePortfolio:
+  - image: 'https://ucarecdn.com/27e8d846-c707-4104-ae12-0b179858e163/'
   - image: 'https://ucarecdn.com/f1c868cd-0a43-4634-8813-bb14b57ae964/'
   - image: 'https://ucarecdn.com/765b27ee-22b0-42f3-9bc2-a3bc025b3f74/'
   - image: 'https://ucarecdn.com/b2ee04d2-fa4f-40f8-b77b-5c4f814ce0dc/'
