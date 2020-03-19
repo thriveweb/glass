@@ -8,6 +8,9 @@ imageThumbnail: >-
 firstName: Alessandra
 collection: Girls
 measurementType: bust
+bust: 54cm
+waist: 53cm
+hips: 57cm
 size: '4'
 shoeSize: '13'
 hair: Blonde
