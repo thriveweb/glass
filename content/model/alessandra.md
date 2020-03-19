@@ -7,6 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/e6f3646e-d928-41f3-80b5-b40cee9c00f9/-/crop/3262x3577/1011,0/-/preview/
 firstName: Alessandra
 collection: Girls
+height: 110cm
 measurementType: bust
 bust: 54cm
 waist: 53cm
