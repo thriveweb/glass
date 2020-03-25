@@ -98,8 +98,8 @@ handleSubmit = e => {
         name={name}
         method='post'
         onSubmit={this.handleSubmit}
+        netlify-honeypot='bot-field'
         data-netlify='true'
-        netlify-honeypot='_gotcha'
         style={hidden ? { display: 'none' } : {}}
       >
         <h2 className='form-description'>Please Submit your details here</h2>
@@ -210,7 +210,7 @@ handleSubmit = e => {
         )}
 
         <div className='form--footer'>
-          <input type='text' name='_gotcha' />
+          <input name='bot-field' />
           {!!subject && <input type='hidden' name='subject' value={subject} />}
           <input type='hidden' name='form-name' value={name} />
           <input
