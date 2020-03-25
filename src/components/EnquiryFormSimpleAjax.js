@@ -60,6 +60,8 @@ handleSubmit = e => {
       alert: 'Please attach both headshot & bodyshot'
     })
   } else {
+    console.log(data)
+
     this.setState({
       filesUploading: true
     }, () => {
@@ -80,12 +82,10 @@ handleSubmit = e => {
           disabled: false,
           alert: this.props.errorMessage,
           filesUploading: false
-
         })
       })
     })
   }
-
 }
 
   render () {
@@ -210,7 +210,6 @@ handleSubmit = e => {
         )}
 
         <div className='form--footer'>
-          <input type='text' name='_gotcha' style={{ display: 'none' }} />
           {!!subject && <input type='hidden' name='subject' value={subject} />}
           <input type='hidden' name='form-name' value={name} />
           <input
@@ -218,6 +217,7 @@ handleSubmit = e => {
             type='submit'
             value={!filesUploading ? 'Send' : 'Uploading Files...'}
           />
+          <input type='text' name='_gotcha' onChange={this.handleChange} style={{ opacity: 0, pointerEvents: 'none'}} />
         </div>
       </form>
     )

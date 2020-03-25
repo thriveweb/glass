@@ -58,8 +58,6 @@ class Nav extends Component {
     const { header, modelTypes = [], modelTypeOrder } = this.props
     const { mobileActive, navActive, menuItemActive } = this.state
 
-    console.log(modelTypes)
-
     return (
       <nav
         className={`nav ${navActive ? 'active' : ''} ${
