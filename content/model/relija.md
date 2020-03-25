@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Relija
+title: Relja
 featuredImage: >-
   https://ucarecdn.com/1c04e6a1-0c87-4a4a-9f58-ac7a14a06170/-/crop/1632x1055/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/3ea4b23e-ebff-4bdf-b197-f60c1a5f3b78/-/crop/1614x1500/0,0/-/preview/
-firstName: Relija
+firstName: Relja
 collection: Men
 height: 184cm
 measurementType: chest
