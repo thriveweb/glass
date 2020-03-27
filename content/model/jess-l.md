@@ -6,11 +6,11 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/1d394fb7-d558-45e7-b131-ca4d923cfe7a/'
 firstName: Jess L
 collection: Women
-height: 168cm
+height: 169cm
 measurementType: bust
 bust: 90cm
-waist: 72cm
-hips: 102cm
+waist: 75cm
+hips: 103cm
 size: '10'
 shoeSize: '9'
 hair: Blonde
