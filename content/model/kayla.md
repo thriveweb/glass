@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Kayla
-featuredImage: >-
-  https://ucarecdn.com/392b304f-edb6-4009-91df-1de5f763ea63/-/crop/2449x1334/0,298/-/preview/
+featuredImage: 'https://ucarecdn.com/9119a635-4af2-469c-8b77-7f9bd199469e/'
 imageThumbnail: >-
   https://ucarecdn.com/11fa2a85-d8bd-42e9-8aed-c05288a4b2f3/-/crop/480x527/0,0/-/preview/
 firstName: Kayla
@@ -19,6 +18,7 @@ eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/403f1718-bad5-4435-a0cc-7a9036ebf29f/'
   - image: 'https://ucarecdn.com/dc93a5e3-d574-4ef1-a11a-e104bf37bc5c/'
+  - image: 'https://ucarecdn.com/0d3dc6e9-37ce-425e-92b1-5caa00785fc3/'
   - image: 'https://ucarecdn.com/c10e9aaa-517c-416f-b397-c1b3fc503316/'
   - image: 'https://ucarecdn.com/177544a3-d6b1-4230-87d5-2a1c73cb6d7c/'
   - image: 'https://ucarecdn.com/af4e2e10-f81a-4acf-b37e-c4cd97b23535/'
@@ -33,6 +33,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/ba16481a-61ca-40d4-884f-4c682443267a/'
   - image: 'https://ucarecdn.com/0132a7d7-76fc-45ea-83ca-45f4097614b4/'
   - image: 'https://ucarecdn.com/d64bdacf-dd38-4b2c-89f4-6fedd80b15ef/'
+  - image: 'https://ucarecdn.com/e26e3e23-34d8-4025-ac24-22338be21c5f/'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/novasoma-photography-13.jpg
   - image: 'https://ucarecdn.com/ba78cc7f-1be6-4bf6-a715-809891d1662b/'
