@@ -1,7 +1,7 @@
 ---
 template: AboutPage
 slug: about
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/201711013258crop.jpg'
+featuredImage: 'https://ucarecdn.com/8eff1889-828b-4b10-b66e-a9cf554b8e64/'
 subTitle: ''
 title: About Us
 teamMembers:
@@ -34,15 +34,6 @@ teamMembers:
     leftAlign: true
     subTitle: Our Story
     title: Tegan Glass
-  - content: >-
-      Jo is passionate about building the modelling industry here on the GC. Her
-      mission is to increase the number of large companies that shoot here in
-      Queensland and tailor a plan for each model, and target the right brand
-      that suits their style. With over 25 years of experience in the marketing,
-      promotion and events Industry - Glass are very lucky to have her on board!
-    image: 'https://glassmanagement.imgix.net/images/uploads/profile.jpg'
-    subTitle: Marketing Manager
-    title: Jo G
 services:
   content: >-
     Glass Management supplies professional talent for Feature Films, TV
@@ -71,18 +62,6 @@ services:
         through to completion.
       image: 'https://glassmanagement.imgix.net/images/uploads/bts2.jpg'
       title: Event Management and Brand Ambassadors
-    - content: >-
-        Karli our gorgeous make up artist will transform you to be camera ready.
-        Not only will she create a flawless face but she will also style your
-        hair to match. Perfect for events and photo shoots.
-
-
-        Be shoot ready in a flash with Karli from Glass.
-
-
-        Email: talent@glassmanagement.com.au
-      image: 'https://glassmanagement.imgix.net/images/uploads/mu.jpg'
-      title: Makeup Artist
     - content: >-
         Studio and location shoots can be booked by emailing  the office
         talent@glassmanagement.com.au
