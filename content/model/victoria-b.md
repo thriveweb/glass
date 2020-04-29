@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Victoria B
-featuredImage: 'https://ucarecdn.com/efb49943-4f8e-49db-85de-079482952927/'
+featuredImage: >-
+  https://ucarecdn.com/9f39ed2a-bc33-4307-8094-83361f5df28e/-/crop/750x551/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/ffbfcc43-8b7b-47c4-b4a7-e2e227c53960/'
 firstName: Victoria B
 collection: Classic
@@ -17,8 +18,9 @@ eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/9711ac9d-f221-4555-a4c8-ea41b73a606c/'
   - image: 'https://ucarecdn.com/e0f8000b-952d-439e-b99d-4dd60ca9229e/'
-  - image: 'https://ucarecdn.com/07c06761-6902-4e3b-b790-4e6eb6ed1bbd/'
+  - image: 'https://ucarecdn.com/bfcdd6d4-f82d-444f-825f-a7ce3fb796ce/'
   - image: 'https://ucarecdn.com/952bd4d2-c624-4832-b864-592a03587275/'
+  - image: 'https://ucarecdn.com/07c06761-6902-4e3b-b790-4e6eb6ed1bbd/'
   - image: 'https://ucarecdn.com/615c3418-f3fa-4a7a-9cb6-058060213087/'
   - image: 'https://ucarecdn.com/bc1f78a9-a471-469e-aa40-74029aaa146c/'
   - image: 'https://ucarecdn.com/4cf942bf-ccec-4a90-8478-30493c6e426b/'
