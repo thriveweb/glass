@@ -2,8 +2,7 @@
 template: ModelPage
 title: Joey G
 featuredImage: 'https://ucarecdn.com/b6a97e80-164b-4421-9766-06258191ef5e/'
-imageThumbnail: >-
-  https://ucarecdn.com/9f8136d5-3d60-4b91-978d-9544bbb7d990/-/crop/1524x1678/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/b047ea2d-0cf7-4392-8e61-4c3993b2610b/'
 firstName: Joey G
 collection: Boys
 height: 165cm
@@ -17,14 +16,15 @@ hair: Red
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/7faa43d0-fd6e-4a29-9ed6-319e568904af/'
-  - image: 'https://ucarecdn.com/bd007da1-27ac-49a9-b2cf-37efcce45f43/'
+  - image: 'https://ucarecdn.com/ad98010f-85b0-4fc8-9d2f-15894ab01a04/'
   - image: 'https://ucarecdn.com/9be67fa8-10eb-43b0-968d-4156f71ddc02/'
-  - image: 'https://ucarecdn.com/e60d9d50-6b76-4755-adfb-363c378faff5/'
+  - image: 'https://ucarecdn.com/24ca47a3-e1ba-4fac-ac0d-e6ad7bdc8cbf/'
   - image: 'https://ucarecdn.com/b1e3e00c-2564-46ea-a88e-18ff8bab3f4f/'
   - image: 'https://ucarecdn.com/599614fa-0e41-462e-950a-ab183b4c7667/'
   - image: 'https://ucarecdn.com/f6a76b2c-0fe9-4955-aeac-a3726293e1f7/'
   - image: 'https://ucarecdn.com/1c5bc8c8-f302-4354-832b-9703da3466ec/'
   - image: 'https://ucarecdn.com/25904eed-252e-4bb0-a728-6a19fc889d97/'
+  - image: 'https://ucarecdn.com/b3e6cf65-dbba-4b12-9810-20dcd1b013f0/'
   - image: 'https://ucarecdn.com/bb935987-a8bd-4df0-8257-c25c03b8ba9e/'
   - image: 'https://ucarecdn.com/ce81f5fe-6d10-420d-b039-ca5cb354519b/'
   - image: 'https://ucarecdn.com/9621dad7-f046-4eb1-bc78-acda5ce8eb40/'
@@ -38,6 +38,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/93688fad-842f-4fed-b088-d4a515095373/'
   - image: 'https://ucarecdn.com/190843f3-5469-4324-8537-c614e2dbd3f8/'
   - image: 'https://ucarecdn.com/05721163-499d-4bd0-95d1-ec543772664f/'
+  - image: 'https://ucarecdn.com/ee40fa04-d4a0-4e1e-969e-23bc71611e94/'
   - image: 'https://ucarecdn.com/9a08811c-d8b1-4987-b63c-b347d55adda6/'
   - image: 'https://ucarecdn.com/3f5ab71a-061d-41d5-b632-19d25f617e6f/'
   - image: 'https://ucarecdn.com/7519577f-909c-434f-8631-24e67dab5e62/'
