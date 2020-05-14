@@ -8,7 +8,11 @@ firstName: Liam
 collection: Boys
 height: 127cm
 measurementType: chest
+bust: 64cm
+waist: 60cm
+hips: 62cm
 size: 8-10
+shoeSize: '2.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
