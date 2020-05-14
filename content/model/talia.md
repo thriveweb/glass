@@ -45,6 +45,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/3c050032-5c63-41f9-b3d9-f9762a766b3b/'
   - image: 'https://ucarecdn.com/f1963d89-52aa-4bd2-b451-a399986e4576/'
   - image: 'https://ucarecdn.com/b993f4b8-3bee-4f40-b398-4b7a3d98f59e/'
+  - image: 'https://ucarecdn.com/84a79f27-bf64-48d0-9d5c-1c239b99a9a3/'
 meta:
   title: Talia
 ---
