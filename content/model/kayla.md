@@ -2,8 +2,7 @@
 template: ModelPage
 title: Kayla
 featuredImage: 'https://ucarecdn.com/9119a635-4af2-469c-8b77-7f9bd199469e/'
-imageThumbnail: >-
-  https://ucarecdn.com/11fa2a85-d8bd-42e9-8aed-c05288a4b2f3/-/crop/480x527/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/b9b5227c-05d3-4b4e-b046-e70b663d9697/'
 firstName: Kayla
 collection: Women
 height: 173cm
@@ -16,6 +15,11 @@ shoeSize: '9'
 hair: Brown
 eyes: Green
 imagePortfolio:
+  - image: 'https://ucarecdn.com/5c1f9d81-5ead-4bfa-b898-7312c71d37b2/'
+  - image: 'https://ucarecdn.com/239cfe57-a3e2-4fe7-a212-255a8202bbc1/'
+  - image: 'https://ucarecdn.com/b50bb218-7a4f-4665-bba0-ef36fa88e77d/'
+  - image: 'https://ucarecdn.com/4b39724c-b1d6-436e-a1a4-d53d94815bea/'
+  - image: 'https://ucarecdn.com/855c40df-66d4-47f0-8d80-57c36fc5ab7c/'
   - image: 'https://ucarecdn.com/403f1718-bad5-4435-a0cc-7a9036ebf29f/'
   - image: 'https://ucarecdn.com/dc93a5e3-d574-4ef1-a11a-e104bf37bc5c/'
   - image: 'https://ucarecdn.com/0d3dc6e9-37ce-425e-92b1-5caa00785fc3/'
@@ -34,8 +38,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0132a7d7-76fc-45ea-83ca-45f4097614b4/'
   - image: 'https://ucarecdn.com/d64bdacf-dd38-4b2c-89f4-6fedd80b15ef/'
   - image: 'https://ucarecdn.com/e26e3e23-34d8-4025-ac24-22338be21c5f/'
-  - image: >-
-      https://glassmanagement.imgix.net/images/uploads/novasoma-photography-13.jpg
   - image: 'https://ucarecdn.com/ba78cc7f-1be6-4bf6-a715-809891d1662b/'
   - image: 'https://ucarecdn.com/50645299-9840-4133-bd79-372a8dec1f1e/'
   - image: 'https://ucarecdn.com/e7c5c068-11b6-4359-812f-e6c71d424a8a/'
