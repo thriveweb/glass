@@ -6,6 +6,7 @@ imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/unspecified-14
 firstName: Emily
 collection: Women
 height: 170cm
+measurementType: bust
 bust: 82cm
 waist: 64cm
 hips: 91cm
