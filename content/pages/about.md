@@ -74,10 +74,10 @@ services:
       image: 'https://glassmanagement.imgix.net/images/uploads/amn_1580.jpg'
       title: Photography
     - content: >-
-        We use Gracey Criss Films, who are avid film lovers who want to create
-        cinematic videos accessible to anyone and everyone! With a special focus
-        on visual and storytelling aspects, they strive to ensure quick and
-        affordable turnarounds.
+        We use various local Videographers who are avid film lovers who want to
+        create cinematic videos accessible to anyone and everyone! With a
+        special focus on visual and storytelling aspects, they strive to ensure
+        quick and affordable turnarounds.
 
 
         Book in for your show reel or self tape today.
