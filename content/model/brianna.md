@@ -5,7 +5,7 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/brianna543768.j
 imageThumbnail: 'https://ucarecdn.com/dbc63cd0-8824-45b6-aa9d-78e3713db666/'
 firstName: Brianna
 collection: Women
-height: 173cm
+height: 176cm
 measurementType: bust
 bust: 84cm
 waist: 61cm
