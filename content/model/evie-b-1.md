@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Evie B
-featuredImage: >-
-  https://ucarecdn.com/81b4c444-e719-4a4d-bfd1-19e3e27ec7da/-/crop/1624x1065/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/c79ff067-ff79-4f53-a9e3-d43e46d7f988/'
 imageThumbnail: >-
   https://ucarecdn.com/75975dd9-10eb-4ab1-b47e-d03b7493755c/-/crop/945x1444/250,0/-/preview/
 firstName: Evie B
@@ -23,9 +22,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/dbd8f03a-9219-4ebf-8dbf-82aa410b9617/'
   - image: 'https://ucarecdn.com/c3e1918a-06c8-44d8-b440-e826e7e855ae/'
   - image: 'https://ucarecdn.com/54aec6e3-b3d2-4735-baa9-1c7e2442475b/'
-  - {}
-  - {}
-  - {}
-  - {}
+  - image: 'https://ucarecdn.com/36953c9e-e298-468d-9c2b-ca1dc3116e02/'
+  - image: 'https://ucarecdn.com/c4e7757b-7b28-48a1-9abb-d7ed6958de86/'
+  - image: 'https://ucarecdn.com/00024dae-05bb-4001-9616-aa8c38dd8dc2/'
 ---
 
