@@ -12,8 +12,8 @@ waist: 53cm
 hips: 56cm
 size: '4'
 shoeSize: '10'
-hair: Light Brown/Blonde
-eyes: Blue/Green
+hair: Light Brown
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/688a0936-494d-48f9-9b87-0c39ead2fae2/'
   - image: 'https://ucarecdn.com/9dcdb427-a873-4d19-a32b-5c3c7f7c0be5/'
