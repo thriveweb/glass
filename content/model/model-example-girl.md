@@ -5,7 +5,7 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/emilywesbann238
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/unspecified-14.jpeg'
 firstName: Emily
 collection: Women
-height: 170cm
+height: 171cm
 measurementType: bust
 bust: 82cm
 waist: 64cm
