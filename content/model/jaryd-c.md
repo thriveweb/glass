@@ -4,7 +4,7 @@ title: Jaryd C
 featuredImage: 'https://ucarecdn.com/316485d4-9bd1-4802-ade1-cf5ba15902b7/'
 imageThumbnail: 'https://ucarecdn.com/30916a70-173e-48a4-b2a7-5ddfd6b84844/'
 firstName: Jaryd C
-collection: Global
+collection: Men
 height: 178cm
 measurementType: chest
 bust: 94cm
