@@ -25,15 +25,18 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/60ea0c0f-5c06-4af0-a61d-22aab8e3fb91/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaz-7.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaz-10.jpg'
+  - image: 'https://ucarecdn.com/b5bbefce-897a-483c-8d6d-41108b8ff4ed/'
+  - image: 'https://ucarecdn.com/bb0e3e11-45b7-41d2-894e-1bf62561e78d/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaz-her-shadow.jpg'
   - image: 'https://ucarecdn.com/b8252b7c-898b-4272-b788-fac3935c089b/'
   - image: 'https://ucarecdn.com/8e9580d5-d575-417d-96fc-a5aed89928c8/'
   - image: 'https://ucarecdn.com/d07a31aa-e314-4d04-a387-2e6322b7161e/'
+  - image: 'https://ucarecdn.com/0e753332-5d0b-497d-b832-f4f70c0a2caa/'
   - image: 'https://ucarecdn.com/d61587f7-ad66-42a2-a32c-5cce729e05bd/'
+  - image: 'https://ucarecdn.com/a0de3528-1b5b-40e5-9f0f-412d76dd86bc/'
   - image: 'https://ucarecdn.com/5dec410e-ac63-4752-a408-c54c7464308f/'
+  - image: 'https://ucarecdn.com/daeb0ae4-70c8-4cf0-9a6e-71f5c693d988/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jaz-8.jpg'
-  - {}
-  - {}
 meta:
   title: Jazz
 ---
