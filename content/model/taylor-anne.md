@@ -85,6 +85,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0c2639a6-e71d-453e-b18c-11a1641de525/'
   - image: 'https://ucarecdn.com/01f5d7e7-2d77-4ad6-9320-b9dcb5b6253a/'
   - image: 'https://ucarecdn.com/de075fa7-92e2-4e10-9182-1409d084cef1/'
+  - image: 'https://ucarecdn.com/ec15b81c-e79d-4e7e-8647-9b1fa03e6dae/'
+  - image: 'https://ucarecdn.com/b1558788-e700-4929-aa45-c5b53daabaa8/'
+  - image: 'https://ucarecdn.com/ff8123da-3cda-4540-a3f2-feb40128a20f/'
+  - image: 'https://ucarecdn.com/da6785fd-63d8-4584-9d99-ea09e2b7072f/'
 meta:
   title: Taylor Anne
 ---
