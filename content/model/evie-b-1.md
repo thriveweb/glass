@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/75975dd9-10eb-4ab1-b47e-d03b7493755c/-/crop/945x1444/250,0/-/preview/
 firstName: Evie B
-collection: Global
+collection: Girls
 measurementType: bust
 size: 2-3
 shoeSize: '11'
@@ -23,5 +23,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/dbd8f03a-9219-4ebf-8dbf-82aa410b9617/'
   - image: 'https://ucarecdn.com/c3e1918a-06c8-44d8-b440-e826e7e855ae/'
   - image: 'https://ucarecdn.com/54aec6e3-b3d2-4735-baa9-1c7e2442475b/'
+  - {}
+  - {}
+  - {}
+  - {}
 ---
 
