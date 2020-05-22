@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: India
-featuredImage: 'https://ucarecdn.com/0a4c94a0-ed73-4aa1-862c-d73cf1535164/'
+featuredImage: 'https://ucarecdn.com/5d577430-582d-41dc-868b-5aa01599cf28/'
 imageThumbnail: 'https://ucarecdn.com/e342fc5f-4ffa-4c5c-9db3-77d5bf6c44f2/'
 firstName: India
 collection: Girls
@@ -27,7 +27,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/2afece89-c9b4-408c-b397-ba737d647afa/'
   - image: 'https://ucarecdn.com/b800ab1f-b664-48cf-8788-839dad85bf64/'
   - image: 'https://ucarecdn.com/0d4e1b71-dbd6-4b4b-8539-e8794adfb242/'
-  - image: 'https://ucarecdn.com/88ec43f1-b577-4e67-875e-25100adad4e9/'
+  - image: 'https://ucarecdn.com/88eba407-6fac-4718-b36b-488a631eca0c/'
   - image: 'https://ucarecdn.com/dabc1e68-0fc8-4b62-adb6-631a695d8651/'
 ---
 
