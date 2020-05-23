@@ -6,11 +6,15 @@ imageThumbnail: >-
   https://ucarecdn.com/75975dd9-10eb-4ab1-b47e-d03b7493755c/-/crop/945x1444/250,0/-/preview/
 firstName: Evie B
 collection: Girls
+height: 106cm
 measurementType: bust
-size: 2-3
+bust: 54cm
+waist: 50cm
+hips: 55cm
+size: '4'
 shoeSize: '11'
 hair: Light Brown
-eyes: Brown
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/e345c544-0fcb-4f32-bd65-1a8ccbed7693/'
   - image: 'https://ucarecdn.com/72fd3f7a-4b4c-4f09-8ebc-b86130c425dc/'
