@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/fbebe571-73de-472c-aa23-54b83b7677ea/'
 imageThumbnail: 'https://ucarecdn.com/e35c566e-9e74-437f-9c5a-62f146adb18f/'
 firstName: Sophie Ava
 collection: Girls
-height: 112cm
+height: 114cm
 measurementType: bust
 bust: 55cm
 waist: 51cm
 hips: 54cm
-size: 4-5
-shoeSize: '11'
+size: '5'
+shoeSize: '1'
 hair: Brown
 eyes: Brown
 imagePortfolio:
