@@ -2,6 +2,8 @@
 template: ModelPage
 title: Joey G
 featuredImage: 'https://ucarecdn.com/b6a97e80-164b-4421-9766-06258191ef5e/'
+featuredVideo: 'https://ucarecdn.com/c6e861f4-8a82-4731-8bf1-84c56ab52a8a/'
+featuredVideoMobile: 'https://ucarecdn.com/82afba47-654e-45b6-9e8c-1f1b81a7d847/'
 imageThumbnail: 'https://ucarecdn.com/b047ea2d-0cf7-4392-8e61-4c3993b2610b/'
 firstName: Joey G
 collection: Boys
