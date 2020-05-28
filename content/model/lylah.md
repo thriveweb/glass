@@ -3,7 +3,7 @@ template: ModelPage
 title: 'Lylah '
 featuredImage: 'https://ucarecdn.com/cbaf2d5a-a15d-43f9-b752-40ead6d63c9a/'
 imageThumbnail: >-
-  https://ucarecdn.com/a7fcdf05-f097-41ba-8c01-95a07f671ed9/-/crop/1428x1545/688,0/-/preview/
+  https://ucarecdn.com/4f4b28b0-fdb5-4990-af93-7df9256cd7c8/-/crop/826x1113/922,95/-/preview/
 firstName: Lylah
 collection: Girls
 height: 130cm
