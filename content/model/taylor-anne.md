@@ -8,12 +8,12 @@ imageThumbnail: >-
   https://ucarecdn.com/429cbcd0-a6c7-40c3-be93-9b58099e6aca/-/crop/1220x1504/298,433/-/preview/
 firstName: Taylor Anne
 collection: Girls
-height: 145cm
+height: 161cm
 measurementType: bust
 bust: 71cm
 waist: 66cm
 hips: 76cm
-size: 10-12
+size: '12'
 shoeSize: '36'
 hair: Red
 eyes: Brown
