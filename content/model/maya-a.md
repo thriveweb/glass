@@ -7,7 +7,7 @@ featuredVideoMobile: 'https://ucarecdn.com/7bb18863-77fa-49d8-b240-3f80dc84cbcf/
 imageThumbnail: 'https://ucarecdn.com/6c5db773-45aa-4b80-af9d-e2e4be4b9573/'
 firstName: Maya A
 collection: Girls
-height: 165cm
+height: 170cm
 measurementType: bust
 bust: 84cm
 waist: 70cm
