@@ -14,7 +14,7 @@ bust: 71cm
 waist: 66cm
 hips: 76cm
 size: '12'
-shoeSize: '36'
+shoeSize: '37'
 hair: Red
 eyes: Brown
 imagePortfolio:
