@@ -1,10 +1,10 @@
 ---
 template: InfoPage
 title: Terms & Conditions
-featuredImage: https://glassmanagement.imgix.net/images/uploads/jordan-mixson-372459-unsplash copy 2.png
+featuredImage: >-
+  https://glassmanagement.imgix.net/images/uploads/jordan-mixson-372459-unsplash
+  copy 2.png
 content: >-
-
-
   RATES:
 
 
@@ -63,8 +63,6 @@ content: >-
   unless negotiated and cleared with GLASS prior to the commencement of the
   booking. It is the client’s responsibility to check product bookings with
   GLASS for conflicts.
-
-
 
 
   WEATHER PERMITTING BOOKINGS:
@@ -142,8 +140,8 @@ content: >-
 
   Agency Service Fee is a mandatory fee on all bookings made with GLASS
   Management, and is not a negotiable fee for the purposes of making a
-  booking.   The Agency Service Fee is calculated at 20% on the total of the job
-  and loading for all jobs booked.
+  booking.   The Agency Service Fee is calculated at 20% on modelling and TVC's
+  and 10% on any acting job.
 
 
   PAYMENT: ON ALL INVOICES PAYMENT IS REQUIRED WITHIN 14 DAYS OF THE DATE OF
@@ -152,16 +150,22 @@ content: >-
   TO THE COMMENCEMENT OF THE BOOKING.
 
 
-
-
   PLEASE NOTE: We, the Agency, act solely for and on behalf of our models and
   whilst making every endeavour to provide a satisfactory and efficient service
   we cannot be held ultimately responsible for a model’s conduct on an
-  assignment.
+  assignment. We always strive to be inclusive of who is put forward for any
+  campaign, although Glass Management is not responsible for who a client
+  chooses. 
 
 
-  Thank you
+  To join Glass Management we have a one off small IT fee of $200 that covers
+  the set up in our systems, as well as a profile on both our website and
+  casting network. 
+
+
+  Thank you.
 
 
   Team Glass xx
 ---
+
