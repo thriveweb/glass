@@ -163,6 +163,10 @@ content: >-
   casting network. 
 
 
+  We endeavour to make a personalised plan for each talent member that is
+  represented by us. 
+
+
   Thank you.
 
 
