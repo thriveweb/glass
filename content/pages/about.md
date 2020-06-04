@@ -63,7 +63,7 @@ services:
       image: 'https://glassmanagement.imgix.net/images/uploads/bts2.jpg'
       title: Event Management and Brand Ambassadors
     - content: >-
-        Studio and location shoots can be booked by emailing  the office
+        Studio and location shoots can be booked by emailing the office
         talent@glassmanagement.com.au
 
 
@@ -71,6 +71,24 @@ services:
 
 
         Specialising in portfolio shoots, head shots and Instagram photos.
+
+
+        Instagram's:
+
+
+        \- <https://www.instagram.com/imbecg/>
+
+
+        \- <https://www.instagram.com/evocativelight/>
+
+
+        \- <https://www.instagram.com/ricki_vale_photography/>
+
+
+        \- <https://www.instagram.com/mandymartin_photography/>
+
+
+        \- <https://www.instagram.com/elsadillonphotographer/>
       image: 'https://glassmanagement.imgix.net/images/uploads/amn_1580.jpg'
       title: Photography
     - content: >-
