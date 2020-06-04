@@ -81,19 +81,19 @@ services:
         Instagram's:
 
 
-        \- <https://www.instagram.com/imbecg/>
+        <https://www.instagram.com/imbecg/>
 
 
-        \- <https://www.instagram.com/evocativelight/>
+        <https://www.instagram.com/evocativelight/>
 
 
-        \- <https://www.instagram.com/ricki_vale_photography/>
+        <https://www.instagram.com/ricki_vale_photography/>
 
 
-        \- <https://www.instagram.com/mandymartin_photography/>
+        <https://www.instagram.com/mandymartin_photography/>
 
 
-        \- <https://www.instagram.com/elsadillonphotographer/>
+        <https://www.instagram.com/elsadillonphotographer/>
       image: 'https://glassmanagement.imgix.net/images/uploads/amn_1580.jpg'
       title: Photography
     - content: >-
