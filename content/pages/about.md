@@ -48,7 +48,12 @@ services:
         We have that special someone for any campaign.
       image: 'https://glassmanagement.imgix.net/images/uploads/alisha-2.jpg'
       title: ' Models'
-    - content: Talent for Feature Films and TV Commercials.
+    - content: |-
+        Talent for Feature Films and TV Commercials.
+
+        We have an extensive list of preferred acting schools who we recommend.
+
+        <https://www.warehousestudio.com.au/>
       image: >-
         https://glassmanagement.imgix.net/images/uploads/avel-chuklanov-509630-unsplash.png
       title: Actor/Extras
