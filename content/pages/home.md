@@ -113,6 +113,15 @@ testimonials:
         Marketing Manager
       logo: 'https://ucarecdn.com/d752c597-d856-4ee6-ba23-3f10489bc142/'
       name: Sarah Davis
+    - title: Model's mum Tracey
+      content: >-
+        "Thanks again! You guys have so much energy, passion, experience &
+        kindness & we are so lucky to share in it!"
+
+
+        \- June 2020
+      logo: 'https://ucarecdn.com/6a3e3da8-9dda-4227-9da6-4015a5e4ac76/'
+      name: Joey
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
