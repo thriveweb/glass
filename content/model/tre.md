@@ -3,7 +3,7 @@ template: ModelPage
 title: Tré
 featuredImage: 'https://ucarecdn.com/468c3408-c44f-4541-84bb-121661ebea2e/'
 imageThumbnail: 'https://ucarecdn.com/5c8ec232-8e8c-46cd-bbd5-9b6cef8d1d8f/'
-firstName: Tre
+firstName: Tré
 collection: Boys
 height: 144cm
 measurementType: chest
