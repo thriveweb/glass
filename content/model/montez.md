@@ -13,6 +13,8 @@ shoeSize: 13US
 hair: Black
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/3a91d5bb-cf05-419f-8ebd-58ae916148eb/'
+  - image: 'https://ucarecdn.com/773d8256-0a6e-4bc6-b9da-673c617b0f79/'
   - image: 'https://ucarecdn.com/ebc66955-c395-4da7-846b-1ae8ed5a4072/'
   - image: 'https://ucarecdn.com/172658de-3e43-4a4a-bed9-f7c28ab645cc/'
   - image: 'https://ucarecdn.com/4fa42628-cdbc-42d3-a2a0-22490c5947de/'
