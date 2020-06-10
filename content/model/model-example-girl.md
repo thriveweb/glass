@@ -2,7 +2,7 @@
 template: ModelPage
 title: Emily
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/emilywesbann23801873.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/unspecified-14.jpeg'
+imageThumbnail: 'https://ucarecdn.com/0397eac2-e272-4bf6-a8c9-d74b2abe7a41/'
 firstName: Emily
 collection: Women
 height: 171cm
@@ -20,10 +20,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a90fcc59-bae2-46d7-9008-5af61f7f213d/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/unspecified-2.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/unspecified-6.jpeg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/unspecified-8.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/emily673254bannerr.jpeg'
+  - image: 'https://ucarecdn.com/4ba71364-bf05-419d-8e37-bb082558f301/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/unspecified-9.jpeg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/amn_9737-1-.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/amn_9727.jpg'
+  - image: 'https://ucarecdn.com/11c870fb-55e2-4cb4-94d6-758d670f0f55/'
 ---
 
