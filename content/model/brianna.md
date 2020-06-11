@@ -18,15 +18,19 @@ eyes: Aqua
 imagePortfolio:
   - image: 'https://ucarecdn.com/34926fe2-23b8-404b-bfb1-1ee5b5361aef/'
   - image: 'https://ucarecdn.com/bd380fb4-b55d-4614-8d6d-0a8e937b1b34/'
+  - image: >-
+      https://ucarecdn.com/c4d69618-4adf-464a-abcf-5c07d400efce/-/crop/1633x1500/0,240/-/preview/
   - image: 'https://ucarecdn.com/01c03f73-130a-4d27-bf36-2ad41932271e/'
   - image: 'https://ucarecdn.com/3f48d1fe-111f-4e94-a7a0-24f43400dfe5/'
   - image: 'https://ucarecdn.com/bcf69837-e6ab-4009-974d-fa55d0440646/'
   - image: 'https://ucarecdn.com/b556fa64-d43e-4fc6-a088-353ac178ef6b/'
+  - image: 'https://ucarecdn.com/24b7797b-4b9b-4208-9c29-02d092524848/'
   - image: 'https://ucarecdn.com/43d4f129-cd17-45ad-a4fe-00edabf6dd6b/'
   - image: 'https://ucarecdn.com/94ef4555-3d34-49d9-96cd-29c38f3d3d49/'
   - image: 'https://ucarecdn.com/b4ab8a1b-142c-479c-881c-f806ca9c68fc/'
   - image: 'https://ucarecdn.com/19131cb3-ffba-4d90-8d59-e3d914c15644/'
   - image: 'https://ucarecdn.com/b9748d20-76f9-45b9-922c-75ef5cf83261/'
+  - image: 'https://ucarecdn.com/9ef69461-3b53-4368-8a12-d68a12d1966b/'
   - image: 'https://ucarecdn.com/f97bd978-28cd-4ae0-8152-7531fb69bbed/'
   - image: 'https://ucarecdn.com/77f5f784-263a-47e1-aa79-dabe77661c23/'
   - image: 'https://ucarecdn.com/dc46ad6e-c0a9-4f4b-b2cf-00a97cf41d2e/'
