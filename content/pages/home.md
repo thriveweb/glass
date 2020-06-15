@@ -13,7 +13,7 @@ buttonText: See our Models
 buttonUrl: models/women
 gallery:
   galleryImages:
-    - image: 'https://ucarecdn.com/315ddcb2-2672-4b55-b934-2d2178f03c15/'
+    - image: 'https://ucarecdn.com/a6fc9f1c-a8a6-4e06-b71b-69931842befd/'
       title: Women
     - image: >-
         https://ucarecdn.com/41704a41-f91c-4134-97c2-3f350b9999b7/-/crop/515x482/0,0/-/preview/
