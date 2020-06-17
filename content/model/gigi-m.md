@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/ee6646a2-a2c8-4c47-b8f5-9bbd87d44e68/-/crop/868x910/885,0/-/preview/
 firstName: Gigi M
 collection: Girls
-height: 111cm
+height: 115cm
 measurementType: bust
 bust: 58cm
 waist: 55cm
