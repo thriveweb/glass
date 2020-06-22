@@ -122,6 +122,13 @@ testimonials:
         \- June 2020
       logo: 'https://ucarecdn.com/6a3e3da8-9dda-4227-9da6-4015a5e4ac76/'
       name: Joey
+    - title: Swimwear Client- Sand Gaze
+      content: |2-
+         The shoot was amazing and Emily rocked it. I will be getting her to do most of my shoots, I feel like she is perfect for the brand xx
+
+        Thanks again
+      name: Gemma Hicks
+      logo: 'https://ucarecdn.com/19604881-a2f8-475f-8509-3d256be58bd8/'
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
