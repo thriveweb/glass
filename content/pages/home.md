@@ -127,8 +127,23 @@ testimonials:
          The shoot was amazing and Emily rocked it. I will be getting her to do most of my shoots, I feel like she is perfect for the brand xx
 
         Thanks again
-      name: Gemma Hicks
+      name: Gemma from Sand Gaze
       logo: 'https://ucarecdn.com/19604881-a2f8-475f-8509-3d256be58bd8/'
+    - title: Triumph International
+      content: >-
+        Anna was an absolute pleasure to work with. She was very professional
+        and looked amazing in the photos – such a gorgeous smile. 
+
+
+        Thanks again for all of your assistance
+
+
+        Cheers
+
+
+        Chantal
+      name: 'Chantal from Triumph '
+      logo: 'https://ucarecdn.com/7a3012db-2c83-41c5-ab7d-87b0998cb509/'
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
