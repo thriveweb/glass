@@ -5,12 +5,12 @@ featuredImage: 'https://ucarecdn.com/d17d3cbb-9439-45bc-8774-d7baefe2722d/'
 imageThumbnail: 'https://ucarecdn.com/ca5ef19e-05d5-4d2b-9817-2847f94237fa/'
 firstName: Gus
 collection: Boys
-height: 98cm
+height: 109cm
 measurementType: chest
 bust: 53cm
 waist: 51cm
 hips: 55cm
-size: '4'
+size: 4-5
 shoeSize: US 11
 hair: Blonde
 eyes: Brown
