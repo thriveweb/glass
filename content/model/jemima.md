@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/3204e657-78ff-46a3-8a7d-6eaef44c7c1e/-/crop/350x431/0,163/-/preview/
 firstName: Jemima
 collection: Girls
-height: 126cm
+height: 130cm
 measurementType: bust
 bust: 57cm
 waist: 53cm
 hips: 63cm
-size: 7/8
-shoeSize: 13/1
+size: '8'
+shoeSize: '1'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
