@@ -13,7 +13,7 @@ hips: 57cm
 size: 4-5
 shoeSize: '12'
 hair: Brown
-eyes: Brown
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/6a17c3b0-b7c9-4300-8d8e-0c7e46193a88/'
   - image: 'https://ucarecdn.com/57e1fe8f-6ba6-4aa9-ad85-83f4e09aeac8/'
