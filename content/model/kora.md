@@ -5,11 +5,11 @@ featuredImage: 'https://ucarecdn.com/ff16f1aa-d396-49c4-8cd2-7fdcda30bc6c/'
 imageThumbnail: 'https://ucarecdn.com/d96dbeab-2524-431f-9dd2-672672ce1015/'
 firstName: Kora
 collection: Girls
-height: 106cm
+height: 120cm
 measurementType: bust
-bust: 22inch
-waist: 20inch
-hips: 22inch
+bust: 63cm
+waist: 60cm
+hips: 60cm
 size: '4'
 shoeSize: '11'
 hair: Brown
