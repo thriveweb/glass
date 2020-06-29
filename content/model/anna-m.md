@@ -4,7 +4,7 @@ title: Anna M
 featuredImage: 'https://ucarecdn.com/e49d17d0-0cc5-44b3-9b9d-c029de877617/'
 imageThumbnail: 'https://ucarecdn.com/c8e74c9a-9078-4e07-965a-a1d1d22244d0/'
 firstName: Anna M
-collection: Classic
+collection: Women
 height: 177cm
 measurementType: bust
 bust: 91cm
