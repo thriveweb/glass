@@ -8,9 +8,9 @@ firstName: Carys
 collection: Girls
 height: 161cm
 measurementType: bust
-bust: 33inch
-waist: 27inch
-hips: 37inch
+bust: 90cm
+waist: 93cm
+hips: 93cm
 size: '10'
 shoeSize: '9'
 hair: Dark Brown
