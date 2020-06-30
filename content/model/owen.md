@@ -2,7 +2,7 @@
 template: ModelPage
 title: Owen
 featuredImage: >-
-  https://ucarecdn.com/d1b9bd25-7f34-430b-88fd-98c93b6e7d12/-/crop/1633x1163/0,188/-/preview/
+  https://ucarecdn.com/d1b9bd25-7f34-430b-88fd-98c93b6e7d12/-/crop/1402x929/0,188/-/preview/
 imageThumbnail: 'https://ucarecdn.com/8dd6ab4b-0235-4340-9703-549ba70724cf/'
 firstName: Owen
 collection: Boys
