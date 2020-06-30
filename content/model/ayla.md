@@ -11,7 +11,7 @@ height: 172cm
 measurementType: bust
 bust: 85cm
 waist: 73cm
-hips: 94cm
+hips: 88cm
 size: '8'
 shoeSize: '9'
 hair: Light Brown
