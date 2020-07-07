@@ -16,6 +16,9 @@ shoeSize: '10'
 hair: Dark Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/41cb197e-77ce-493e-9e7b-d049813b4423/'
+  - image: 'https://ucarecdn.com/5074b489-22e3-4ddd-87b8-d5e18d81e777/'
+  - image: 'https://ucarecdn.com/9fff42c1-a9ba-4d9b-9492-4874258635a4/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/nevada-her-shadow.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/nevada-123.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/nevada-6.jpg'
@@ -32,7 +35,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/7f337060-6564-4a1d-b1a8-d5439b60ae36/'
   - image: 'https://ucarecdn.com/d68516c8-d1a7-4abc-809d-8d35e189cdd8/'
   - image: 'https://ucarecdn.com/6b01da7c-fabf-4fb8-9856-4a8743da4606/'
-  - {}
 meta:
   title: Nevada
 ---
