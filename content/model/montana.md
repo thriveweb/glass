@@ -16,10 +16,13 @@ shoeSize: '1'
 hair: Blonde
 eyes: Blus
 imagePortfolio:
+  - image: 'https://ucarecdn.com/2fc62d2d-bf07-43e4-ba13-80bcb5720352/'
   - image: 'https://ucarecdn.com/6490f044-518c-4c0b-8c78-c0c20bf806e1/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/monty-121.jpg'
   - image: 'https://ucarecdn.com/373bae91-1840-4733-8a41-c903732de440/'
+  - image: 'https://ucarecdn.com/f0bc629f-16fc-4ae7-be7a-821eab6e5a70/'
   - image: 'https://ucarecdn.com/d93866b1-97e9-40e6-9c48-4fb1551b8bba/'
+  - image: 'https://ucarecdn.com/e7dbd10b-75e2-4ba3-9152-14c519786cda/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/monny-4.jpg'
   - image: 'https://ucarecdn.com/0a27db79-af2b-41fc-8f90-af1aa94eddb2/'
   - image: 'https://ucarecdn.com/8b851a15-9b83-4f88-9831-178ea290a48e/'
