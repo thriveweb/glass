@@ -12,6 +12,8 @@ hair: Black
 eyes: Black
 imagePortfolio:
   - image: 'https://ucarecdn.com/7b93d722-004c-4064-875b-610efd055cbe/'
+  - image: >-
+      https://ucarecdn.com/aa8af0de-e36c-48ec-a01c-2c37fbefea7b/-/preview/-/rotate/90/
   - image: 'https://ucarecdn.com/513a43f8-1103-4227-91ee-36281b4d2c8f/'
   - image: 'https://ucarecdn.com/966e2f69-950f-416e-b604-b853389c9cb6/'
   - image: 'https://ucarecdn.com/23332670-f024-41b9-a88d-44b98eff9ee3/'
