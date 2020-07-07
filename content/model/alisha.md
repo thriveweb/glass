@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Alisha
-featuredImage: 'https://ucarecdn.com/8376c393-d76d-477c-8011-1d6939805c0c/'
+featuredImage: 'https://ucarecdn.com/6ed25018-007d-42e2-af34-dbed06a316bf/'
 imageThumbnail: 'https://ucarecdn.com/8b0f43fa-f99c-4ca4-913e-7a849fcd4d7e/'
 firstName: Alisha H
 collection: Curve
@@ -16,6 +16,7 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/63aa198c-6181-493b-9822-15c2927f1c36/'
+  - image: 'https://ucarecdn.com/5001fcf2-8a98-4a49-879d-99fc02736e22/'
   - image: 'https://ucarecdn.com/749b3dd6-dbb0-4060-ac75-8915ceb35ccf/'
   - image: 'https://ucarecdn.com/3b1fb309-eb83-4a45-87bc-9e802379d36a/'
   - image: 'https://ucarecdn.com/790b028f-e7d4-4d0f-bd84-30f80b427ea0/'
