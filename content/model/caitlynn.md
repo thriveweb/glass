@@ -33,5 +33,6 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_5772.jpg'
   - image: 'https://ucarecdn.com/ef50292d-3620-4cdb-a619-5736483b01e2/'
   - image: 'https://ucarecdn.com/a1bcbad1-d40e-403b-a46d-90b7dcb45586/'
+  - image: 'https://ucarecdn.com/1666072a-949e-4781-8cb2-37c03014c13d/'
 ---
 
