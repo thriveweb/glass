@@ -20,10 +20,6 @@ influencerList:
     instagram: 'https://www.instagram.com/bailey_perussich/'
     name: Bailey
     type: adult
-  - featuredImage: 'https://ucarecdn.com/390bfc9e-dddc-4de1-bc43-9ce4128e4895/'
-    instagram: 'https://www.instagram.com/chelsea_glenn_official/'
-    name: Chelsea
-    type: adult
   - featuredImage: >-
       https://ucarecdn.com/7e154879-71b3-497f-96f3-e17384980d4e/-/crop/575x867/0,76/-/preview/
     instagram: 'https://www.instagram.com/caitlynnhenry/'
@@ -87,10 +83,6 @@ influencerList:
     instagram: 'https://www.instagram.com/easton.edwards/'
     name: Easton
     type: child
-  - featuredImage: 'https://ucarecdn.com/0df4cf7c-78f4-4aa9-8879-f014e4ae9248/'
-    instagram: 'https://www.instagram.com/heanen_official/'
-    name: Heanen
-    type: child
   - featuredImage: 'https://ucarecdn.com/6e5c79a2-6afb-4964-86ba-ab1d176b5d73/'
     instagram: 'https://www.instagram.com/allaboutharlowrayne/'
     name: Harlow
@@ -112,17 +104,9 @@ influencerList:
     instagram: 'https://www.instagram.com/jasmine.lessue/?hl=en'
     name: Jasmine L
     type: child
-  - featuredImage: 'https://ucarecdn.com/27ea2092-695c-4287-ba9a-4374fa333f7f/'
-    instagram: 'https://www.instagram.com/jessie.lockley/'
-    name: Jessie
-    type: child
   - featuredImage: 'https://ucarecdn.com/0133fd7f-0d08-4e37-8a19-65d327ce61f8/'
     instagram: 'https://www.instagram.com/kayla_h_official/'
     name: Kayla
-    type: child
-  - featuredImage: 'https://ucarecdn.com/0fdb71a9-ab0e-43f0-8a14-01309de7e507/'
-    instagram: 'https://www.instagram.com/miakelliott/'
-    name: Mia
     type: child
   - featuredImage: 'https://ucarecdn.com/10154022-be1e-4386-9f82-97b232d5ac51/'
     instagram: 'https://www.instagram.com/oliver.oconnell_official/'
