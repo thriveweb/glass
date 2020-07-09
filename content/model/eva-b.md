@@ -2,7 +2,7 @@
 template: ModelPage
 title: Eva B
 featuredImage: 'https://ucarecdn.com/38f9f1af-b893-45cd-9e8b-577ffb641da9/'
-imageThumbnail: 'https://ucarecdn.com/2c6df3d0-5cdf-4fb6-b410-de338c4b9a08/'
+imageThumbnail: 'https://ucarecdn.com/2d50b2b2-d3f1-43c7-95fd-640ead4f2f6a/'
 firstName: Eva B
 collection: Girls
 height: 160cm
