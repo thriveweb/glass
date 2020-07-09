@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/8425211c-c159-4f17-9a18-74d804400a48/-/crop/1071x1700/255,141/-/preview/
 firstName: Arya
 collection: Girls
-height: 127cm
+height: 131cm
 measurementType: bust
-bust: 58cm
-waist: 52cm
-hips: 63cm
-size: '5'
-shoeSize: 13-1
+bust: 61cm
+waist: 58.5cm
+hips: 68.5cm
+size: '7'
+shoeSize: '1'
 hair: Black
 eyes: Brown
 imagePortfolio:
