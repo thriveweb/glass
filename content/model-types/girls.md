@@ -1,8 +1,7 @@
 ---
 template: ModelsPage
 title: Girls
-featuredImage: >-
-  https://ucarecdn.com/c4700670-26c2-4c4f-8248-9a49e1b65898/-/crop/2421x1286/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/a6639143-4fde-4c1a-9494-f06c0603198c/'
 order: '3'
 ---
 
