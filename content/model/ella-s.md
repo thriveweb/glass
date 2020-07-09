@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/2e5973a4-d83f-49f4-9b28-7cd3569cf482/-/crop/641x822/546,100/-/preview/
 firstName: Ella S
 collection: Girls
-height: 156cm
+height: 160cm
 measurementType: bust
 bust: 73cm
-waist: 61cm
-hips: 76cm
+waist: 64cm
+hips: 82cm
 size: 12-14
 shoeSize: '7'
 hair: Brown
