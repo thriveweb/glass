@@ -10,7 +10,7 @@ collection: Women
 height: 171cm
 measurementType: bust
 bust: 83cm
-waist: 66cn
+waist: 66cm
 hips: 92cm
 size: '8'
 shoeSize: '7'
