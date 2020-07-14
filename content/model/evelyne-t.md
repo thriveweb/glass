@@ -17,6 +17,13 @@ shoeSize: Kids 9
 hair: Black
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/270a4f82-35e7-4f1f-9f4b-980379777923/'
+  - image: >-
+      https://ucarecdn.com/8c9b3e2e-9de4-4b86-97b6-13b13154ca82/-/preview/-/rotate/90/
+  - image: 'https://ucarecdn.com/7f5d6e36-322b-43f3-ae86-4df267979488/'
+  - image: 'https://ucarecdn.com/c28d9d1a-f72b-410e-94b5-3c771bc474bc/'
+  - image: 'https://ucarecdn.com/417c20be-2de3-4dc1-858e-aba1bbad76f6/'
+  - image: 'https://ucarecdn.com/49c542ba-8232-42cc-92ce-fd18d8b44386/'
   - image: >-
       https://ucarecdn.com/4b052b54-3836-4e36-83d9-4a565c3a20c3/-/crop/1632x2290/0,159/-/preview/
   - image: 'https://ucarecdn.com/8fb8e945-b5e8-4f53-8aec-59de84ffe22e/'
@@ -26,6 +33,7 @@ imagePortfolio:
       https://ucarecdn.com/42e22390-57cd-4058-86a6-48a53ee40026/-/crop/1632x2278/0,171/-/preview/
   - image: >-
       https://ucarecdn.com/9c2d616a-cdea-4c9c-9ab5-9ca6bac394a5/-/crop/1632x2153/0,296/-/preview/
+  - image: 'https://ucarecdn.com/3e3e72ed-5fe8-4124-8e8f-d858cc79b5be/'
   - image: 'https://ucarecdn.com/d33b3de4-1844-4d2a-9fbe-7d5e8a8f71fd/'
   - image: >-
       https://ucarecdn.com/9a921ecf-4a72-4722-a0cc-01b4690cf4f9/-/crop/2449x1427/0,205/-/preview/
