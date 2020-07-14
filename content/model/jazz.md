@@ -7,10 +7,10 @@ firstName: Jazz
 collection: Girls
 height: 165cm
 measurementType: bust
-bust: 72cm
-waist: 61cm
-hips: 81cm
-size: 'Ladies 6-8, Kids 14'
+bust: 75cm
+waist: 59cm
+hips: 87cm
+size: '6'
 shoeSize: '8.5'
 hair: Blonde
 eyes: Blue
