@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Anna M
-featuredImage: 'https://ucarecdn.com/e49d17d0-0cc5-44b3-9b9d-c029de877617/'
+featuredImage: 'https://ucarecdn.com/2dc88103-c4b3-4c8c-b69e-c8b05cc450a1/'
 imageThumbnail: 'https://ucarecdn.com/c8e74c9a-9078-4e07-965a-a1d1d22244d0/'
 firstName: Anna M
 collection: Women
@@ -26,6 +26,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/399a3611-0283-4a34-a71c-a98dec47a2bd/'
   - image: 'https://ucarecdn.com/c494bd38-6cd8-47d7-839a-75aff9e04436/'
   - image: 'https://ucarecdn.com/290877c2-8e69-4f79-865a-174320c25f4c/'
+  - image: 'https://ucarecdn.com/d0634e07-cfa1-4d24-a6f8-ace4d73cee6e/'
   - image: 'https://ucarecdn.com/a5a0ba82-efb3-460a-9f9d-7f744729606e/'
   - image: 'https://ucarecdn.com/8828754a-fba4-4361-a2a5-fc710032f833/'
   - image: 'https://ucarecdn.com/5f6065ed-73c2-42b7-bdb3-37ce57ae0cdb/'
