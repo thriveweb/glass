@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/00e2c725-d805-456a-a705-194a0df62c23/-/crop/1632x919/0,306/-/preview/
 imageThumbnail: 'https://ucarecdn.com/36dbb309-b3ee-4d0e-bc77-3b892230be5d/'
 firstName: Pawan
-collection: Women
+collection: Classic
 height: 163cm
 measurementType: bust
 bust: 34 inches
