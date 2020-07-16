@@ -162,7 +162,7 @@ testimonials:
 
         Tilly
       logo: 'https://ucarecdn.com/8601c6f1-be15-4be8-ab2b-1a5e5c87c683/'
-      name: Tilly
+      name: Tilly from Like A Photon
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
