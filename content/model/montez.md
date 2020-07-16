@@ -8,7 +8,7 @@ collection: Men
 height: 185cm
 measurementType: chest
 waist: 86cm
-size: Pant 34- XL Shirt
+size: Pant 32- L Shirt
 shoeSize: 13US
 hair: Black
 eyes: Brown
