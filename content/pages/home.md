@@ -144,6 +144,25 @@ testimonials:
         Chantal
       name: 'Chantal from Triumph '
       logo: 'https://ucarecdn.com/7a3012db-2c83-41c5-ab7d-87b0998cb509/'
+    - title: Like A Photon
+      content: >-
+
+
+        I just wanted to drop you a line to say a really big thank you for all
+        your help finding us our wonderful talent for both Tania Draws and Home
+        Heroes. We're cutting everything together at the moment and it's all
+        looking totally adorable!
+
+
+        We can't wait to share what we've got with you and the kids (in the next
+        few months).\
+
+        Thanks again, it was really a pleasure working with you.
+
+
+        Tilly
+      logo: 'https://ucarecdn.com/8601c6f1-be15-4be8-ab2b-1a5e5c87c683/'
+      name: Tilly
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
