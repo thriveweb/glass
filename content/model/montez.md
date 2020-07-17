@@ -7,7 +7,9 @@ firstName: Montez
 collection: Men
 height: 185cm
 measurementType: chest
+bust: 109cm
 waist: 86cm
+hips: 109cm
 size: Pant 32- L Shirt
 shoeSize: 13US
 hair: Black
