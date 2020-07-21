@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/75975dd9-10eb-4ab1-b47e-d03b7493755c/-/crop/945x1444/250,0/-/preview/
 firstName: Evie B
 collection: Girls
-height: 106cm
+height: 111cm
 measurementType: bust
 bust: 54cm
 waist: 50cm
