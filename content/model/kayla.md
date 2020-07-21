@@ -57,6 +57,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/9a271abf-90f6-40b9-88b2-7a3c2eb4976c/'
   - image: 'https://ucarecdn.com/3d9c6a67-54e9-43fe-9710-0cb716fdc02b/'
   - image: 'https://ucarecdn.com/a3f41fd1-cf56-4b7d-96c2-1bf86c307bc2/'
+  - image: 'https://ucarecdn.com/4320efd8-e2de-4451-ac61-cb1cb9d358ae/'
+  - image: 'https://ucarecdn.com/4cf3e82a-07c5-4c61-8633-8d318143d20a/'
+  - image: 'https://ucarecdn.com/927afedc-ae1f-4c9a-b075-990ea94b9f00/'
+  - image: 'https://ucarecdn.com/cbcd7ac5-6e33-4428-9264-8a84f716cfd3/'
 meta:
   title: Kayla
 ---
