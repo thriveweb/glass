@@ -2,7 +2,7 @@
 template: ModelPage
 title: Cherish
 featuredImage: >-
-  https://ucarecdn.com/c42aea03-1c5b-4722-b1a8-02a6d84ed0c0/-/crop/2449x1263/0,0/-/preview/
+  https://ucarecdn.com/542d28cf-2db9-4560-8ec8-7183344a7cb0/-/crop/2449x1215/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/a7c8156e-f532-4d64-aa47-dd6361bebbc7/'
 firstName: Cherish
 collection: Women
