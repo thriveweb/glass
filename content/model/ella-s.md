@@ -1,10 +1,8 @@
 ---
 template: ModelPage
 title: Ella S
-featuredImage: >-
-  https://ucarecdn.com/9288edec-f7c0-487b-bd33-ec590024d322/-/crop/1581x771/0,146/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/2e5973a4-d83f-49f4-9b28-7cd3569cf482/-/crop/641x822/546,100/-/preview/
+featuredImage: 'https://ucarecdn.com/21bc5d4f-5681-424c-ac46-ba1825d21343/'
+imageThumbnail: 'https://ucarecdn.com/626a1c83-ed6c-405f-9c32-956b02363e3d/'
 firstName: Ella S
 collection: Girls
 height: 160cm
@@ -17,6 +15,10 @@ shoeSize: '7'
 hair: Brown
 eyes: Green
 imagePortfolio:
+  - image: 'https://ucarecdn.com/4097bae7-0c65-43e1-88d3-7dd08702257d/'
+  - image: 'https://ucarecdn.com/913b08fe-5f4c-4300-aabd-0b27863b7592/'
+  - image: 'https://ucarecdn.com/741b7f40-6d1c-471d-bd56-19d2d017dbf3/'
+  - image: 'https://ucarecdn.com/de1604d8-c009-4d88-9dcd-8804ad70c578/'
   - image: 'https://ucarecdn.com/1e8d9b86-55e6-4742-9363-5e0db300d5bb/'
   - image: 'https://ucarecdn.com/b4f563cc-3ef3-4c2d-abcd-407c2219594b/'
   - image: >-
