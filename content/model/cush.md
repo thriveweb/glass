@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Cush
-featuredImage: >-
-  https://ucarecdn.com/23418a53-4e02-4aef-a9d2-68b76354c1b0/-/crop/5149x2687/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/23418a53-4e02-4aef-a9d2-68b76354c1b0/-/preview/'
 imageThumbnail: 'https://ucarecdn.com/0b37d990-44c8-4a35-b0b1-75c6455783a0/'
 firstName: Cush
 collection: Men
