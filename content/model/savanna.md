@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Savanna
-featuredImage: 'https://ucarecdn.com/c6b41042-96f1-4067-b2b4-f18119554f1b/'
+featuredImage: >-
+  https://ucarecdn.com/c6b41042-96f1-4067-b2b4-f18119554f1b/-/crop/2152x1229/95,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/b810e5f8-01f6-49f4-b63f-9d5ff938a80d/'
 firstName: Savanna
 collection: Women
