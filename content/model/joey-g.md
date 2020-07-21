@@ -27,6 +27,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c13f01d6-b9ef-42bb-818f-87a45fa15466/'
   - image: 'https://ucarecdn.com/b3e6cf65-dbba-4b12-9810-20dcd1b013f0/'
   - image: 'https://ucarecdn.com/bc68c864-0eef-4b4d-9717-d3a826593d70/'
+  - image: 'https://ucarecdn.com/24707b63-23df-4e78-9b2b-cd0fcb2da428/'
   - image: 'https://ucarecdn.com/48eda30e-e94d-4ee0-83df-6ec0a9ef9965/'
   - image: 'https://ucarecdn.com/503460ae-1b2e-46de-a559-ea1bc748023a/'
   - image: 'https://ucarecdn.com/bb935987-a8bd-4df0-8257-c25c03b8ba9e/'
@@ -55,6 +56,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/bfb0e4b5-8614-4973-a139-4dfe54ab8132/'
   - image: 'https://ucarecdn.com/e7e5b130-29fc-46f9-b695-b7ef6e3acbc1/'
   - image: 'https://ucarecdn.com/8f0673d4-06c3-4b5f-a546-2a3ac16281e2/'
+  - image: 'https://ucarecdn.com/a9efc8ed-2091-4c31-ab15-63c4334da68b/'
 meta:
   title: Joey G
 ---
