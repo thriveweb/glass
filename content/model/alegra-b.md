@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/2773c9e8-2b2c-41ae-92a6-6b91d6196272/-/crop/1061x1434/220,0/-/preview/
 firstName: Alegra B
 collection: Girls
-height: 121cm
+height: 128cm
 measurementType: bust
 bust: 56cm
 waist: 46cm
