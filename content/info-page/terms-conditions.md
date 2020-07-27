@@ -139,9 +139,10 @@ content: >-
 
 
   Agency Service Fee is a mandatory fee on all bookings made with GLASS
-  Management, and is not a negotiable fee for the purposes of making a
-  booking.   The Agency Service Fee is calculated at 20% on modelling and TVC's
-  and 10% on any acting job.
+  Management, and is not a negotiable fee for the purposes of making a booking. 
+  The talent at the time of the booking is given their rate after all fees have
+  been taken out.  The Agency Service Fee is calculated at 20% on modelling and
+  TVC's and 10% on any acting job.
 
 
   PAYMENT: ON ALL INVOICES PAYMENT IS REQUIRED WITHIN 14 DAYS OF THE DATE OF
