@@ -20,7 +20,6 @@ eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/216e4cbe-0ac9-45a1-8011-752fc7a0a8dd/'
   - image: 'https://ucarecdn.com/815d26b6-1c2f-46c9-aeaa-4575d4062c1b/'
-  - image: 'https://ucarecdn.com/cf577f1b-f729-4249-bbb3-c3a0fbad9eb1/'
   - image: 'https://ucarecdn.com/64898112-2dd1-425c-8c73-e459bdaada95/'
   - image: 'https://ucarecdn.com/f77d0cbe-45c9-471c-9cd6-4b38a88fd606/'
   - image: 'https://ucarecdn.com/01402d35-0780-4288-a0f9-808178e492d3/'
@@ -39,8 +38,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/4bae8903-9c80-4e7f-9e24-828d682d72c1/'
   - image: 'https://ucarecdn.com/a6c44c31-270d-4dbd-a53d-36cdae52bdcd/'
   - image: 'https://ucarecdn.com/8f3c2dd2-9d6d-42a2-9dfd-a6f41cadca7f/'
-  - image: 'https://ucarecdn.com/4b52f4ad-fe92-4133-9ade-7c25e5544123/'
   - image: 'https://ucarecdn.com/0cdd174d-47eb-4720-9f45-fe9f3cbef5b5/'
+  - image: 'https://ucarecdn.com/4b52f4ad-fe92-4133-9ade-7c25e5544123/'
+  - image: 'https://ucarecdn.com/cf577f1b-f729-4249-bbb3-c3a0fbad9eb1/'
   - image: 'https://ucarecdn.com/8f7776f5-aa44-4784-b982-ca970253e67c/'
 meta:
   title: Casey
