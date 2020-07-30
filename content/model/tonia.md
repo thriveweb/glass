@@ -2,7 +2,7 @@
 template: ModelPage
 title: Tonia
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/tonia912839.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/tonia2.jpg'
+imageThumbnail: 'https://ucarecdn.com/da5b0809-0995-4c00-a7f3-68e0eec28c9d/'
 firstName: Tonia
 collection: Classic
 height: 173cm
@@ -15,7 +15,9 @@ shoeSize: 8 1/2
 hair: 'Short, Brown'
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/616c3394-dd58-4272-855e-f26f149b1d0f/'
   - image: 'https://ucarecdn.com/0514caf7-ec8c-4967-9ae0-ca1911258901/'
+  - image: 'https://ucarecdn.com/f3ec8172-ab87-417a-a2eb-8aae1f42b654/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia6.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia-co.-6-of-31-.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia.jpg'
