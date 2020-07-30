@@ -5,6 +5,15 @@ featuredImage: 'https://ucarecdn.com/81bd6da9-ae9c-45fd-8a2b-599c87d55e26/'
 imageThumbnail: 'https://ucarecdn.com/989c385d-fc15-4182-a179-f1f42f1fb447/'
 firstName: James
 collection: Classic
+height: 186cm
+measurementType: chest
+bust: 110cm
+waist: 92cm
+hips: 104cm
+size: 'Pants: 32  Shirt: L/XL'
+shoeSize: '10'
+hair: None/Brown
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/56ebda96-5197-4955-9e6e-8742ff49803c/'
   - image: 'https://ucarecdn.com/7942824e-5c3d-43d2-bbd5-01dd19dcb4bc/'
