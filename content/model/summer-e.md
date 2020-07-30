@@ -3,6 +3,7 @@ template: ModelPage
 title: Summer E
 featuredImage: >-
   https://ucarecdn.com/42c918ed-ce06-4920-a174-45529003c07e/-/crop/2447x1510/0,124/-/preview/
+featuredVideo: 'https://ucarecdn.com/28083120-3bc9-4210-b509-9915128492f9/'
 imageThumbnail: >-
   https://ucarecdn.com/b408ce46-7e73-44b1-9166-049420f68525/-/crop/1500x1795/141,0/-/preview/
 firstName: Summer E
