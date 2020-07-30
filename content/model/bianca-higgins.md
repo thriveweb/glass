@@ -2,7 +2,7 @@
 template: ModelPage
 title: Bianca H
 featuredImage: 'https://ucarecdn.com/e2c144d8-278d-47d4-8f9a-ea257fefb88e/'
-imageThumbnail: 'https://ucarecdn.com/286c0706-adff-4815-8166-206db0665845/'
+imageThumbnail: 'https://ucarecdn.com/89530c25-2c98-42ab-ad7d-89b6fc8ff61a/'
 firstName: Bianca
 collection: Global
 height: 164cm
@@ -19,6 +19,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/3a183086-e0bc-4783-aa86-3b0935796e11/'
   - image: 'https://ucarecdn.com/d4c332b0-90d0-4add-a31e-2f49afa6c9ea/'
   - image: 'https://ucarecdn.com/52c115ab-4220-4b4f-af5c-423995cae49a/'
+  - image: 'https://ucarecdn.com/51746a5d-9b37-4ee0-9762-66a0883872b0/'
   - image: 'https://ucarecdn.com/36017e92-db4c-4f0c-9214-3df7143445fd/'
   - image: 'https://ucarecdn.com/2694f950-0899-4324-8f0f-cfb6560a95f1/'
   - image: 'https://ucarecdn.com/30a5270e-aa1c-410f-a2b9-33d3c5160873/'
