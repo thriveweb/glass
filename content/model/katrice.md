@@ -4,7 +4,7 @@ title: Katrice
 featuredImage: >-
   https://ucarecdn.com/b38169f1-f6ee-4592-b3e0-4c89ea6d8af5/-/crop/481x256/0,245/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/46567b9f-81c1-4ee5-a02d-929e6ff758eb/-/crop/386x514/78,0/-/preview/
+  https://ucarecdn.com/c3e221f5-66e2-4b90-a5b5-9b53b885235c/-/crop/1632x1840/0,0/-/preview/
 firstName: Katrice
 collection: Women
 height: 171cm
@@ -17,8 +17,10 @@ shoeSize: '7'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/6d57b9a1-d9e6-4913-95c6-9d4b800a4990/'
   - image: 'https://ucarecdn.com/fae201e1-da71-40eb-b386-8e9f1425fea2/'
   - image: 'https://ucarecdn.com/631a9399-ceef-4304-85ff-73264c433775/'
+  - image: 'https://ucarecdn.com/cb92c56a-c798-46e4-b03e-99e02223d2cf/'
   - image: 'https://ucarecdn.com/42c82606-0ff8-4b8a-a7a3-7d71bc66a0f5/'
   - image: 'https://ucarecdn.com/82617f32-d082-442e-9348-26265965a952/'
   - image: 'https://ucarecdn.com/77a094e1-f090-4a6d-bab7-a6c55e10ab15/'
