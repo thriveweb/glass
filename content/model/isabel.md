@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Isabel
+title: Isobel
 featuredImage: 'https://ucarecdn.com/1724dda7-680f-4927-bb57-c632d516bb92/'
 imageThumbnail: 'https://ucarecdn.com/105720bf-5039-4af0-85fa-6e78914e4e03/'
-firstName: Isabel
+firstName: Isobel
 collection: Global
 height: 165cm
 measurementType: bust
