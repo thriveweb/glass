@@ -4,7 +4,7 @@ title: Jade C
 featuredImage: 'https://ucarecdn.com/14b58e91-8dbb-4509-9a43-c374043b3aad/'
 imageThumbnail: 'https://ucarecdn.com/7cb8aead-de11-484f-a474-565df95f013a/'
 firstName: Jade C
-collection: Women
+collection: Classic
 height: 164cm
 measurementType: bust
 bust: 10B
