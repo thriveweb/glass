@@ -2,7 +2,7 @@
 template: ModelPage
 title: Pedro
 featuredImage: >-
-  https://ucarecdn.com/09a220b5-16ea-4445-8433-120a2b8629ec/-/crop/1632x1114/0,327/-/preview/
+  https://ucarecdn.com/09a220b5-16ea-4445-8433-120a2b8629ec/-/crop/1632x898/0,327/-/preview/
 imageThumbnail: 'https://ucarecdn.com/cf64bd90-d810-4265-81b1-e3b7cc56e340/'
 firstName: Pedro
 collection: Men
