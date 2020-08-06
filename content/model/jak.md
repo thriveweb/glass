@@ -2,8 +2,7 @@
 template: ModelPage
 title: Jak
 featuredImage: 'https://ucarecdn.com/c9673ac8-9d3f-410d-b02b-53ea32f3e826/'
-imageThumbnail: >-
-  https://ucarecdn.com/1e3e42d4-c479-422c-b5ab-6b5f709085c4/-/crop/823x893/369,316/-/preview/
+imageThumbnail: 'https://ucarecdn.com/ea4de728-8705-417c-b9f5-4c79b89d628f/'
 firstName: Jak
 collection: Men
 height: 174cm
