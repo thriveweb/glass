@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/fdea9028-7496-4cf1-8082-ca5ecc5b9caf/'
 imageThumbnail: 'https://ucarecdn.com/db3ca3d6-1ede-4611-a5ef-729ce570a06e/'
 firstName: Maddie
 collection: Girls
-height: 111cm
+height: 115cm
 measurementType: bust
 bust: 55cm
 waist: 50cm
