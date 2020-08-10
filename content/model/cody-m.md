@@ -14,7 +14,7 @@ hips: 107cm
 size: '34'
 shoeSize: 12-13
 hair: Blonde
-eyes: Blue
+eyes: Hazel/Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/af02327f-5b0b-4781-b940-99ea63313bc5/'
   - image: 'https://ucarecdn.com/21cb524c-6998-4cb3-9943-47188637ff51/'
