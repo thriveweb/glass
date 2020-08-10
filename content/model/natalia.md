@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/0e9d5121-3c48-439f-8c3e-1fc4e9c1dcff/-/crop/2038x2749/0,0/-/preview/
 firstName: Natalia  A
 collection: Girls
-height: 121cm
+height: 124cm
 measurementType: bust
 bust: 60cm
 waist: 57cm
