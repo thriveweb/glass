@@ -40,6 +40,9 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/joanna-229.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/joanna-228.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/joanna-230.jpg'
+  - image: 'https://ucarecdn.com/bc1b6e52-c153-4077-bb1c-55bcc156a373/'
+  - image: 'https://ucarecdn.com/751d537f-511c-4f66-8955-8f2376e6705b/'
+  - image: 'https://ucarecdn.com/8aa37edd-2ffa-4332-b596-d93edfb4b15e/'
 meta:
   title: Joanna
 ---
