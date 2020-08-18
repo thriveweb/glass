@@ -42,6 +42,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae-karter38497.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae-karter162573.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae-1120.jpg'
+  - image: 'https://ucarecdn.com/2af1a216-fd51-4bbe-a73f-9c0155119e65/'
 meta:
   title: Kahlae
 ---
