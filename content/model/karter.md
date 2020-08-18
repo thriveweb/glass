@@ -2,7 +2,7 @@
 template: ModelPage
 title: Karter
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/karter89372434234.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/karter3489723.jpg'
+imageThumbnail: 'https://ucarecdn.com/d065ab66-a395-4bac-9b12-88ab05eca79f/'
 firstName: Karter
 collection: Boys
 height: 120cm
@@ -15,6 +15,7 @@ shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/2e7f9d4a-bb25-4dad-8da8-93e5bc3a91d5/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/karter239874.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/karter237864.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/karter93467.jpg'
