@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/22874141-3f54-42ed-9fe7-ccf264b58e09/-/crop/1503x2075/129,0/-/preview/
 firstName: Torrek
 collection: Global
-height: 170cm
+height: 180cm
 measurementType: chest
 bust: 78cm
 waist: 70.5cm
