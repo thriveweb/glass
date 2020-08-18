@@ -4,14 +4,14 @@ title: Zeke
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/zeke-landscape.png'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/zeke-3.png'
 firstName: Zeke
-collection: Boys
+collection: Men
 height: 185cm
 measurementType: chest
-bust: 87cm
-waist: 77cm
-hips: 97cm
-size: '32 '
-shoeSize: '9'
+bust: 101cm
+waist: 84cm
+hips: 100cm
+size: 'Shirt: M       Pant: 32 '
+shoeSize: US 10
 hair: Brown
 eyes: Hazel
 imagePortfolio:
