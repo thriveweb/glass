@@ -5,7 +5,7 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/zeke-landscape.
 imageThumbnail: >-
   https://ucarecdn.com/14216f75-1f8b-49fb-8b07-ac6d8b25961f/-/crop/317x405/0,81/-/preview/
 firstName: Zeke
-collection: Men
+collection: Global
 height: 185cm
 measurementType: chest
 bust: 101cm
