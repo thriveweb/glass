@@ -27,6 +27,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae-karter38497.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae-karter1374867.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae-karter83726497.jpg'
+  - image: 'https://ucarecdn.com/75c78c6a-3901-498a-b738-c57ee7177689/'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/kahlae-karter124879380.jpg
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae-karter16427893.jpg'
