@@ -5,13 +5,13 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/lucabanner12890
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/luca-1.webp'
 firstName: Luca
 collection: Boys
-height: 114cm
+height: 122cm
 measurementType: chest
 bust: 57cm
-waist: 53cm
-hips: 56cm
+waist: 56cm
+hips: 57cm
 size: '5'
-shoeSize: 12-13
+shoeSize: 13-1
 hair: Brown
 eyes: Brown
 imagePortfolio:
