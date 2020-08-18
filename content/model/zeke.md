@@ -2,7 +2,8 @@
 template: ModelPage
 title: Zeke
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/zeke-landscape.png'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/zeke-3.png'
+imageThumbnail: >-
+  https://ucarecdn.com/14216f75-1f8b-49fb-8b07-ac6d8b25961f/-/crop/317x405/0,81/-/preview/
 firstName: Zeke
 collection: Men
 height: 185cm
@@ -15,6 +16,7 @@ shoeSize: US 10
 hair: Brown
 eyes: Hazel
 imagePortfolio:
+  - image: 'https://ucarecdn.com/494f01b2-3b88-42d4-b530-889b8db4e381/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/zeke-3.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/zeke-10.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/zeke-2.png'
