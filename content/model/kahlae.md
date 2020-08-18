@@ -16,8 +16,10 @@ hair: Blonde
 eyes: Dark Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae32648783.jpg'
+  - image: 'https://ucarecdn.com/c40cf20a-7629-4158-9220-1a5fb4fb8152/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae-11.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae3412873.jpg'
+  - image: 'https://ucarecdn.com/7c59129e-2ff7-4f13-8113-1d36c00a73c5/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae38q467.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae-119.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kahlae346782.jpg'
