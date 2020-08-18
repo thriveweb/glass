@@ -1,8 +1,9 @@
 ---
-title: Women
 template: ModelsPage
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/kris-atomic-73935-unsplash.png'
-order: 3
+title: Women
+featuredImage: >-
+  https://glassmanagement.imgix.net/images/uploads/kris-atomic-73935-unsplash.png
+order: 1
 meta:
   title: ''
 ---
