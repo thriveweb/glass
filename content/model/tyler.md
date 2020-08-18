@@ -2,7 +2,7 @@
 template: ModelPage
 title: Tyler
 featuredImage: >-
-  https://ucarecdn.com/c3989d2a-2264-4491-9efa-e2adf615218f/-/crop/1541x1043/0,851/-/preview/
+  https://ucarecdn.com/c3989d2a-2264-4491-9efa-e2adf615218f/-/crop/1245x777/104,879/-/preview/
 imageThumbnail: 'https://ucarecdn.com/a854e2a8-8061-44c9-90a2-19bf1b0979aa/'
 firstName: Tyler
 collection: Men
