@@ -4,7 +4,7 @@ title: Emma P
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/emma-a-4-1-1-.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/emma-a-head-shot.jpg'
 firstName: Emma P
-collection: Classic
+collection: Curve
 height: 175cm
 measurementType: bust
 bust: 94cm
