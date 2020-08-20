@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Jake W
-featuredImage: 'https://ucarecdn.com/44871ba9-0b3d-472b-a564-b54977f96b81/'
+featuredImage: >-
+  https://ucarecdn.com/e67252d1-1949-498f-8ce5-adfb6566e79d/-/crop/592x310/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/64b1864d-9ff0-41a6-9a8f-7789332f0e9a/'
 firstName: Jake W
 collection: Boys
@@ -15,6 +16,10 @@ shoeSize: US 4
 hair: Brown
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/c97a3d8f-b1e6-4657-903f-b8963ab56dc4/'
+  - image: 'https://ucarecdn.com/ef8ed3ba-9d19-4651-abec-835c45a46830/'
+  - image: 'https://ucarecdn.com/28a464db-535c-48fb-aea9-17c5cf9887ab/'
+  - image: 'https://ucarecdn.com/e6928956-2132-462d-b383-d97ad5a12696/'
   - image: 'https://ucarecdn.com/8888a2ef-d309-4ccf-a1a2-333156216eba/'
   - image: 'https://ucarecdn.com/6f6ba939-6529-460a-a28b-b2bddeffeded/'
   - image: 'https://ucarecdn.com/60e2c603-318f-4cc8-ad4a-a472e34454b9/'
