@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/fc0a5154-aa34-40c0-b384-9bcd51da6899/-/crop/1564x1861/0,0/-/preview/
 firstName: Teiya
-collection: Girls
+collection: Emerging
 height: 165cm
 measurementType: bust
 bust: 84cm
