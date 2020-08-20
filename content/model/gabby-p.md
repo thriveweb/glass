@@ -4,7 +4,7 @@ title: Gabby P
 featuredImage: 'https://ucarecdn.com/53506225-cef1-40ed-81e8-3f02f431598d/'
 imageThumbnail: 'https://ucarecdn.com/3b5c8afd-0a8a-4885-8da7-8edae018aed1/'
 firstName: Gabby P
-collection: Girls
+collection: Emerging
 height: 158cm
 measurementType: bust
 bust: 75cm
