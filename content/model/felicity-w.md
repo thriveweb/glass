@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/d58e440f-879a-4c92-9a9b-5e562112a90d/-/crop/1840x601/0,580/-/preview/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/201710284006_preview.jpg'
 firstName: 'Felicity '
-collection: Girls
+collection: Emerging
 height: 170cm
 measurementType: bust
 bust: 80cm
