@@ -6,7 +6,7 @@ featuredVideo: 'https://ucarecdn.com/e25153b2-bc03-4b45-9168-a54958f56f20/'
 featuredVideoMobile: 'https://ucarecdn.com/7bb18863-77fa-49d8-b240-3f80dc84cbcf/'
 imageThumbnail: 'https://ucarecdn.com/6c5db773-45aa-4b80-af9d-e2e4be4b9573/'
 firstName: Maya A
-collection: Girls
+collection: Emerging
 height: 170cm
 measurementType: bust
 bust: 84cm
