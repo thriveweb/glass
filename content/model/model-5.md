@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/f24b7650-440e-4b59-953c-db6b07295c4b/-/crop/2448x783/0,294/-/preview/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/sj-new-hs.jpg'
 firstName: Sienna
-collection: Girls
+collection: Emerging
 height: 165cm
 measurementType: bust
 bust: 79cm
