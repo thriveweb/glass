@@ -6,7 +6,7 @@ featuredImage: >-
 featuredVideo: 'https://ucarecdn.com/28dfe0fa-ee1c-447b-8c36-efe334fd9cc5/'
 imageThumbnail: 'https://ucarecdn.com/bd4610a4-a899-4882-894a-a465b1e767a3/'
 firstName: Ayla
-collection: Girls
+collection: Emerging
 height: 172cm
 measurementType: bust
 bust: 85cm
