@@ -4,7 +4,7 @@ title: Scarlett
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/quin-2.jpg'
 imageThumbnail: 'https://ucarecdn.com/e66ebb6a-a48c-425d-92db-6451d155fb02/'
 firstName: Scarlett
-collection: Girls
+collection: Emerging
 height: 160cm
 measurementType: bust
 bust: 78cm
