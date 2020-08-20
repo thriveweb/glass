@@ -4,7 +4,7 @@ title: Evangeline
 featuredImage: 'https://ucarecdn.com/d2b70257-a566-4066-a1d0-bf29f178b7df/'
 imageThumbnail: 'https://ucarecdn.com/319ef467-1dce-47af-bad7-9cd9543b5c37/'
 firstName: Evangeline
-collection: Girls
+collection: Emerging
 height: 158cm
 measurementType: bust
 bust: 64cm
