@@ -6,7 +6,7 @@ featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: 'https://ucarecdn.com/acacec17-d824-412f-9399-b4e1a3933b07/'
 firstName: Bella Rose
-collection: Girls
+collection: Emerging
 height: 151cm
 measurementType: bust
 bust: 73cm
