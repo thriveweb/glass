@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/4bacc2c1-540c-4e6c-af1f-a02128ff486b/'
 imageThumbnail: >-
   https://ucarecdn.com/14f54e7f-bca4-45ef-9bac-733dcf4f28ee/-/crop/2894x3648/1327,0/-/preview/
 firstName: Jasmine E
-collection: Girls
+collection: Emerging
 height: 174cm
 measurementType: bust
 bust: 80cm
