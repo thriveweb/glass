@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c40d3f8e-6320-49b6-8244-6443670ef9f4/-/crop/212x262/104,34/-/preview/
 firstName: Poppy
-collection: Girls
+collection: Emerging
 height: 168cm
 measurementType: bust
 bust: 80cm
