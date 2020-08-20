@@ -4,7 +4,7 @@ title: Nina
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/nins-a-banner.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/nina-hs.jpg'
 firstName: Nina
-collection: Girls
+collection: Emerging
 height: 178cm
 measurementType: bust
 bust: 86cm
