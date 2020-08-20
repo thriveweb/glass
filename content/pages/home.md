@@ -26,7 +26,7 @@ gallery:
       title: Men
     - image: 'https://ucarecdn.com/cfd70d02-92c6-4d62-963e-e8c1b718d3ec/'
       title: Boys
-    - image: 'https://ucarecdn.com/b9a2651c-bed6-47ef-9091-64b6e420c89a/'
+    - image: 'https://ucarecdn.com/73d047cf-5278-4306-817a-a16286a93d5d/'
       title: Emerging
     - image: 'https://ucarecdn.com/208bc515-f8aa-42c8-9493-5cb5040b821b/'
       title: Curve
