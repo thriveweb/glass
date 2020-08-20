@@ -6,7 +6,7 @@ featuredVideo: 'https://ucarecdn.com/e676b680-058f-4d61-9fe6-0e9c8db07607/'
 featuredVideoMobile: 'https://ucarecdn.com/9d9f0b94-99a2-450b-a987-e18adfca3526/'
 imageThumbnail: 'https://ucarecdn.com/842ebf91-f699-4950-b816-3da2e4a26572/'
 firstName: 'Phoebe '
-collection: Girls
+collection: Emerging
 height: 164cm
 measurementType: bust
 bust: 78cm
