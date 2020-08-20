@@ -7,7 +7,7 @@ featuredVideo: 'https://ucarecdn.com/931f9887-5beb-4fa0-b52d-e7d1423c7e5a/'
 imageThumbnail: 'https://ucarecdn.com/5ed723dd-a7fc-4065-8f67-ed43fa0e77c9/'
 firstName: Jules
 collection: Boys
-height: 138cm
+height: 145cm
 measurementType: chest
 bust: 63cm
 waist: 59cm
@@ -21,9 +21,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/21dbf622-e378-4d1c-ba66-2c523dd11076/'
   - image: 'https://ucarecdn.com/408e0125-5701-4deb-b440-382e3d444a7b/'
   - image: 'https://ucarecdn.com/aa65f7d2-9437-46af-b2b5-7aae43ee2bb5/'
-  - image: 'https://ucarecdn.com/73854b8b-3ab3-4f4b-b3a4-9388bffaa304/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/jules-glass-2.jpg'
   - image: 'https://ucarecdn.com/ad60a4be-00b9-4ae5-a1a9-f54d9377887d/'
+  - image: 'https://ucarecdn.com/73854b8b-3ab3-4f4b-b3a4-9388bffaa304/'
   - image: 'https://ucarecdn.com/1605e41c-3f3f-4af5-862a-d6aac2069eef/'
   - image: 'https://ucarecdn.com/bf3a752f-ee9d-4243-8afb-c97881956007/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jules.jpg'
