@@ -15,15 +15,15 @@ gallery:
   galleryImages:
     - image: 'https://ucarecdn.com/a6fc9f1c-a8a6-4e06-b71b-69931842befd/'
       title: Women
-    - image: 'https://ucarecdn.com/925831f3-4d16-474c-8e0b-768bdc5bea35/'
-      title: Men
     - image: >-
         https://ucarecdn.com/41704a41-f91c-4134-97c2-3f350b9999b7/-/crop/515x482/0,0/-/preview/
       title: Girls
-    - image: 'https://ucarecdn.com/cfd70d02-92c6-4d62-963e-e8c1b718d3ec/'
-      title: Boys
     - image: 'https://ucarecdn.com/31dc20b6-836b-49e2-aa34-7f765b03652f/'
       title: Classic
+    - image: 'https://ucarecdn.com/925831f3-4d16-474c-8e0b-768bdc5bea35/'
+      title: Men
+    - image: 'https://ucarecdn.com/cfd70d02-92c6-4d62-963e-e8c1b718d3ec/'
+      title: Boys
     - image: 'https://ucarecdn.com/b9a2651c-bed6-47ef-9091-64b6e420c89a/'
       title: Emerging
     - image: 'https://ucarecdn.com/208bc515-f8aa-42c8-9493-5cb5040b821b/'
