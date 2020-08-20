@@ -4,7 +4,7 @@ title: Mikayla
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/mika.jpg'
 imageThumbnail: 'https://ucarecdn.com/277055b6-cb95-4c77-a1f5-c8cacb5ea7a3/'
 firstName: Mikayla
-collection: Girls
+collection: Emerging
 height: 155cm
 measurementType: bust
 bust: 81cm
