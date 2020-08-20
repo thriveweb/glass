@@ -9,7 +9,7 @@ height: 144cm
 measurementType: chest
 waist: 58cm
 hips: 58cm
-size: 8-10
+size: '10'
 shoeSize: '3'
 hair: Blonde
 eyes: Green
