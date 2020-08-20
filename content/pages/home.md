@@ -20,6 +20,8 @@ gallery:
       title: Girls
     - image: 'https://ucarecdn.com/31dc20b6-836b-49e2-aa34-7f765b03652f/'
       title: Classic
+    - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
+      title: Global
     - image: 'https://ucarecdn.com/925831f3-4d16-474c-8e0b-768bdc5bea35/'
       title: Men
     - image: 'https://ucarecdn.com/cfd70d02-92c6-4d62-963e-e8c1b718d3ec/'
@@ -28,8 +30,6 @@ gallery:
       title: Emerging
     - image: 'https://ucarecdn.com/208bc515-f8aa-42c8-9493-5cb5040b821b/'
       title: Curve
-    - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
-      title: Global
   subTitle: Our Models
   title: Explore Our Models
 about:
