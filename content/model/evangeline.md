@@ -5,12 +5,12 @@ featuredImage: 'https://ucarecdn.com/d2b70257-a566-4066-a1d0-bf29f178b7df/'
 imageThumbnail: 'https://ucarecdn.com/319ef467-1dce-47af-bad7-9cd9543b5c37/'
 firstName: Evangeline
 collection: Emerging
-height: 158cm
+height: 160cm
 measurementType: bust
 bust: 64cm
 waist: 61cm
 hips: 69cm
-size: '12'
+size: 10-12 Kids
 shoeSize: Ladies 6
 hair: Dark Blonde
 eyes: Blue
