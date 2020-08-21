@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/e86565fc-3f8e-43e6-ae28-d389169d7a86/'
 firstName: Vas
 collection: Boys
-height: 148cm
+height: 153cm
 measurementType: chest
 bust: 67cm
 waist: 65cm
@@ -16,8 +16,8 @@ shoeSize: '41'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/5005a36d-6632-44b2-8699-82705fbfe7ed/'
   - image: 'https://ucarecdn.com/942e2e69-de28-4a5b-af09-e665c28bb4d2/'
+  - image: 'https://ucarecdn.com/5005a36d-6632-44b2-8699-82705fbfe7ed/'
   - image: 'https://ucarecdn.com/ffdebf11-cec6-403e-8ec0-7d03d0f24f28/'
   - image: 'https://ucarecdn.com/e0ba3db4-f333-458e-8e9b-42a0650746f9/'
   - image: 'https://ucarecdn.com/962906d4-6e63-4343-bfa9-a49607fdfbee/'
