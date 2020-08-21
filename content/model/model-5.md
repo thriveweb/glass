@@ -6,13 +6,13 @@ featuredImage: >-
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/sj-new-hs.jpg'
 firstName: Sienna
 collection: Emerging
-height: 165cm
+height: 168cm
 measurementType: bust
 bust: 79cm
 waist: 63cm
 hips: 88cm
 size: Ladies 8/ 14 kids
-shoeSize: '8'
+shoeSize: '9'
 hair: Blonde
 eyes: Green
 imagePortfolio:
