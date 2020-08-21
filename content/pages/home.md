@@ -128,8 +128,8 @@ testimonials:
          The shoot was amazing and Emily rocked it. I will be getting her to do most of my shoots, I feel like she is perfect for the brand xx
 
         Thanks again
-      name: Gemma from Sand Gaze
       logo: 'https://ucarecdn.com/19604881-a2f8-475f-8509-3d256be58bd8/'
+      name: Gemma from Sand Gaze
     - title: Triumph International
       content: >-
         Anna was an absolute pleasure to work with. She was very professional
@@ -143,8 +143,8 @@ testimonials:
 
 
         Chantal
-      name: 'Chantal from Triumph '
       logo: 'https://ucarecdn.com/7a3012db-2c83-41c5-ab7d-87b0998cb509/'
+      name: 'Chantal from Triumph '
     - title: Like A Photon
       content: >-
 
@@ -164,6 +164,15 @@ testimonials:
         Tilly
       logo: 'https://ucarecdn.com/8601c6f1-be15-4be8-ab2b-1a5e5c87c683/'
       name: Tilly from Like A Photon
+    - title: Shade Swim Shoot
+      content: |-
+        Thank you so much once again! The girls were fabulous! 
+
+        Can't wait to see the pics and share with you. 
+
+        Alyshia
+      logo: 'https://ucarecdn.com/1ba1fedb-f2af-4f93-acfc-4e1cabbc94e0/'
+      name: Alyshia from Shade Swim
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
