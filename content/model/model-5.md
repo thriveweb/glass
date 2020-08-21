@@ -16,9 +16,9 @@ shoeSize: '9'
 hair: Blonde
 eyes: Green
 imagePortfolio:
+  - image: 'https://glassmanagement.imgix.net/images/uploads/sj-2.jpg'
   - image: 'https://ucarecdn.com/878de32b-4ad2-4b00-9514-ab62275fa91c/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/sj-7.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/sj-2.jpg'
   - image: 'https://ucarecdn.com/e9f34597-99ae-4c86-83a4-3cdd313c6400/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/sienna-016_preview.jpg'
   - image: 'https://ucarecdn.com/17713652-eaa8-43aa-ad08-43f7bbd140ff/'
