@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/6b41d900-eab6-4746-8bb8-2c6e87fc61c8/'
 imageThumbnail: 'https://ucarecdn.com/bb3f8347-ec00-4408-a67d-89cfa6789200/'
 firstName: Dakota
 collection: Girls
-height: 145cm
+height: 148cm
 measurementType: bust
-bust: 70cm
-waist: 65cm
-hips: 74cm
+bust: 71cm
+waist: 63cm
+hips: 73cm
 size: '10'
-shoeSize: '8'
+shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
