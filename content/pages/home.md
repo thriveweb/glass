@@ -173,6 +173,30 @@ testimonials:
         Alyshia
       logo: 'https://ucarecdn.com/1ba1fedb-f2af-4f93-acfc-4e1cabbc94e0/'
       name: Alyshia from Shade Swim
+    - title: Orange Sherbet
+      content: >-
+        Hey Tegan!
+
+
+        I hope you are having a rocking day.
+
+
+        I just wanted to say how amazing Katrice was to work with!!
+
+
+        She was such a professional and such an amazing person to have on set.
+
+
+        We love having a laugh and having fun on the shoot and we definitely had
+        a lot of giggles today!!!
+
+
+        Have a great night!!
+
+
+        xx
+      logo: 'https://ucarecdn.com/3c174c3d-e195-4a76-8d08-3535f613b7ed/'
+      name: Jess from Orange Sherbet
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
