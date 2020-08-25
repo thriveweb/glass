@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Sienna
-featuredImage: 'https://ucarecdn.com/189bc4c0-5306-4360-b384-55854435d4f7/'
+featuredImage: >-
+  https://ucarecdn.com/189bc4c0-5306-4360-b384-55854435d4f7/-/crop/2449x1223/0,409/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d47e3804-3420-4447-95ac-2cd2f6e95694/-/crop/2184x1625/265,0/-/preview/
 firstName: Sienna
