@@ -8,10 +8,10 @@ firstName: Sienna C
 collection: Emerging
 height: 167cm
 measurementType: bust
-bust: 81cm
-waist: 70cm
-hips: 81cm
-size: '12'
+bust: 83cm
+waist: 75cm
+hips: 87cm
+size: Girls 14 / Women's 8
 shoeSize: '9'
 hair: Brown
 eyes: Brown
