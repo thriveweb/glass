@@ -12,7 +12,7 @@ measurementType: bust
 bust: 73cm
 waist: 59cm
 hips: 73cm
-size: '12'
+size: Kids 12 / Women's 4
 shoeSize: 7 Adult
 hair: Light Brown
 eyes: Blue
