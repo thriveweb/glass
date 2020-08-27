@@ -3,7 +3,7 @@ template: ModelPage
 title: Jazz
 featuredImage: 'https://ucarecdn.com/1f2f2602-1157-4e81-acf7-481d340d745e/'
 imageThumbnail: >-
-  https://ucarecdn.com/0343b43d-3d3d-4144-8c45-8091d291c925/-/crop/869x880/292,138/-/preview/
+  https://ucarecdn.com/9a56441a-dca2-4b8b-ae58-fa335ead9c4e/-/crop/2541x3407/926,0/-/preview/
 firstName: Jazz
 collection: Emerging
 height: 165cm
@@ -16,9 +16,11 @@ shoeSize: '8.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/ec8fe2e0-ae20-4df0-bfde-2a5887289bcd/'
   - image: 'https://ucarecdn.com/a5b4a5eb-6efb-4479-b358-7b36a87b5083/'
   - image: 'https://ucarecdn.com/d8e95b17-86c0-46b6-9402-80a144fb7d36/'
   - image: 'https://ucarecdn.com/3ba248c1-0833-4eac-a5b3-a3a98e7c7bdd/'
+  - image: 'https://ucarecdn.com/ca5d6d58-f41a-4b4e-8763-5d218052183c/'
   - image: 'https://ucarecdn.com/b5bbefce-897a-483c-8d6d-41108b8ff4ed/'
   - image: 'https://ucarecdn.com/77119edb-2c5e-4bd7-9416-82cc2a51a737/'
   - image: 'https://ucarecdn.com/f2e95ecf-ae4c-4c4d-ba57-8b985a0c9247/'
