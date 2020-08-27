@@ -12,7 +12,7 @@ waist: 61cm
 hips: 69cm
 size: 10-12 Kids
 shoeSize: Ladies 6
-hair: Dark Blonde
+hair: ' Blonde'
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/729f8bb9-a0eb-424b-b2a0-91c04f4ddb3e/'
