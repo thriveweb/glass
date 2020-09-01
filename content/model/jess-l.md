@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/1d394fb7-d558-45e7-b131-ca4d923cfe7a/'
 firstName: Jess L
 collection: Emerging
-height: 169cm
+height: 170cm
 measurementType: bust
 bust: 90cm
 waist: 75cm
