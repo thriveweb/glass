@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Jess L
+title: Jess Rose
 featuredImage: >-
   https://ucarecdn.com/be51bf1e-3e69-4242-9074-6ace786a6c59/-/crop/1632x828/0,465/-/preview/
 imageThumbnail: 'https://ucarecdn.com/1d394fb7-d558-45e7-b131-ca4d923cfe7a/'
-firstName: Jess L
+firstName: Jess Rose
 collection: Emerging
 height: 170cm
 measurementType: bust
