@@ -2,7 +2,7 @@
 template: ModelPage
 title: Trinity
 featuredImage: >-
-  https://ucarecdn.com/b21d3f9d-9cbe-43da-9835-c61f4f97e4c9/-/crop/2486x1235/0,0/-/preview/
+  https://ucarecdn.com/b21d3f9d-9cbe-43da-9835-c61f4f97e4c9/-/crop/2486x1016/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/6c1bdc4f-21ed-430c-b9c6-a7bf1e1f724e/'
 firstName: Trinity
 collection: Emerging
