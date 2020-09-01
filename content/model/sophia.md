@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Sophia
-featuredImage: 'https://ucarecdn.com/3a21f48b-ade5-401a-8612-89bd942c7b87/'
+featuredImage: 'https://ucarecdn.com/11182c12-3fcd-4365-8591-309ac548a966/'
 imageThumbnail: 'https://ucarecdn.com/a83c50e6-4d1a-40be-97e9-0452a9e282ec/'
 firstName: Sophia
 collection: Girls
