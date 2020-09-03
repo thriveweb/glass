@@ -3,7 +3,7 @@ template: ModelPage
 title: Relja
 featuredImage: 'https://ucarecdn.com/93b9d0a9-7054-4686-ab0e-996ffbcd1076/'
 imageThumbnail: >-
-  https://ucarecdn.com/3ea4b23e-ebff-4bdf-b197-f60c1a5f3b78/-/crop/1614x1500/0,0/-/preview/
+  https://ucarecdn.com/73adb001-031c-42fd-84c8-cc5467226ff3/-/crop/627x638/290,0/-/preview/
 firstName: Relja
 collection: Men
 height: 184cm
