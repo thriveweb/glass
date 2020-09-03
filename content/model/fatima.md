@@ -5,11 +5,11 @@ featuredImage: 'https://ucarecdn.com/8258fade-ddac-4512-be5c-ab73a573d27c/'
 imageThumbnail: 'https://ucarecdn.com/34094cbb-f6da-4681-a43b-173d6ed64d74/'
 firstName: Fatima
 collection: Classic
-height: 158cm
+height: 159cm
 measurementType: bust
-bust: 32inch
-waist: 27inch
-hips: 31inch
+bust: 82cm
+waist: 72cm
+hips: 86cm
 size: '8'
 shoeSize: '6.5'
 hair: Brown
