@@ -10,7 +10,7 @@ measurementType: bust
 bust: 32inch
 waist: 27inch
 hips: 31inch
-size: '6'
+size: '8'
 shoeSize: '6.5'
 hair: Brown
 eyes: Brown
