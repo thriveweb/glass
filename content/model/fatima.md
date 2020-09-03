@@ -4,7 +4,7 @@ title: Fatima
 featuredImage: 'https://ucarecdn.com/8258fade-ddac-4512-be5c-ab73a573d27c/'
 imageThumbnail: 'https://ucarecdn.com/34094cbb-f6da-4681-a43b-173d6ed64d74/'
 firstName: Fatima
-collection: Global
+collection: Classic
 height: 158cm
 measurementType: bust
 bust: 32inch
