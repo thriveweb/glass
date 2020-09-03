@@ -2,7 +2,8 @@
 template: ModelPage
 title: Willow
 featuredImage: 'https://ucarecdn.com/b26b0eb5-4ccf-44cb-9cc4-0634bf12efad/'
-imageThumbnail: 'https://ucarecdn.com/0c48ba6c-77e2-4030-9079-4c8888ca0e12/'
+imageThumbnail: >-
+  https://ucarecdn.com/0c48ba6c-77e2-4030-9079-4c8888ca0e12/-/crop/4179x3648/1041,0/-/preview/
 firstName: Willow
 collection: Girls
 height: 116cm
@@ -23,12 +24,8 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/dsc_3653_preview.jpg'
   - image: 'https://ucarecdn.com/2d79d5da-8aaa-4c25-9200-ee1d153dc25f/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/will.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/willow-1.webp'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/willow-4.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/willow-5.jpg'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/babesstudio-173_preview.jpg
-  - image: 'https://glassmanagement.imgix.net/images/uploads/willow1.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/willow-.webp'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/willow-1.webp'
 ---
 
