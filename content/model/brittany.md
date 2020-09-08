@@ -7,9 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/3f00ee63-c50e-420b-88e1-90793afaac39/-/crop/864x979/191,235/-/preview/
 firstName: Brittany
 collection: Women
-height: 6 ft
+height: 181cm
 measurementType: bust
-shoeSize: 8-10
+bust: 34 in
+waist: 28in
+hips: 35in
+size: 8-10
+shoeSize: 9-10
 hair: Blonde
 eyes: Blue
 imagePortfolio:
