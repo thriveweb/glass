@@ -4,7 +4,7 @@ title: Brittany
 featuredImage: >-
   https://ucarecdn.com/9195f34e-f237-44ef-88fa-24655d973066/-/crop/2688x1016/0,115/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/3f00ee63-c50e-420b-88e1-90793afaac39/-/crop/1106x1253/95,93/-/preview/
+  https://ucarecdn.com/3f00ee63-c50e-420b-88e1-90793afaac39/-/crop/864x979/191,235/-/preview/
 firstName: Brittany
 collection: Women
 height: 6 ft
