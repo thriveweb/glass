@@ -2,7 +2,8 @@
 template: ModelPage
 title: Susie
 featuredImage: 'https://ucarecdn.com/bfbfad16-9d81-4089-9e08-9c08afe20193/'
-imageThumbnail: 'https://ucarecdn.com/45a07010-dfd7-4a99-ac8d-16092418db91/'
+imageThumbnail: >-
+  https://ucarecdn.com/175556b1-a836-4d9e-ad9b-cfd73c0cf9b2/-/crop/749x914/135,0/-/preview/
 firstName: Susie
 collection: Classic
 height: 172cm
@@ -15,7 +16,7 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/ced4aa48-e0f9-4958-b68e-42313581d258/'
+  - image: 'https://ucarecdn.com/77ea915e-b6b8-45ff-b31f-3c8b59a61552/'
   - image: 'https://ucarecdn.com/842ec5f3-d3ed-4028-b54c-1f6013b9581c/'
   - image: 'https://ucarecdn.com/9367676b-b592-4353-85bd-2afb4842d3cf/'
   - image: 'https://ucarecdn.com/4730a063-e771-46dc-89ad-a4797bb4a7eb/'
