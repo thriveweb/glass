@@ -2,7 +2,7 @@
 template: ModelPage
 title: Trinity
 featuredImage: >-
-  https://ucarecdn.com/b21d3f9d-9cbe-43da-9835-c61f4f97e4c9/-/crop/2486x1016/0,0/-/preview/
+  https://ucarecdn.com/b21d3f9d-9cbe-43da-9835-c61f4f97e4c9/-/crop/2486x867/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/6c1bdc4f-21ed-430c-b9c6-a7bf1e1f724e/'
 firstName: Trinity
 collection: Emerging
@@ -16,6 +16,7 @@ shoeSize: '5'
 hair: Brown
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/06e7c1e8-c916-4806-92a3-2c01a303206a/'
   - image: 'https://ucarecdn.com/eb27f2e5-bfb8-4d0a-8311-2be4cfa492c1/'
   - image: 'https://ucarecdn.com/80cf229c-81a9-4f49-8aed-cf5a77a17502/'
   - image: 'https://ucarecdn.com/2c33034a-369b-492a-b185-ede820b00e03/'
