@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/e7178186-e2d6-4950-94a2-18ad8fb79d72/'
 firstName: Cody M
 collection: Men
-height: 197cm
+height: 195cm
 measurementType: chest
 bust: 107cm
 waist: 94cm
