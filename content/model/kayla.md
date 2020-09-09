@@ -39,7 +39,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/403f1718-bad5-4435-a0cc-7a9036ebf29f/'
   - image: 'https://ucarecdn.com/41ee4a98-88c1-467b-9e2c-1577ffca2431/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kayla3689711.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/kayla111.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kayla-119.jpg'
   - image: 'https://ucarecdn.com/772e3e6f-4e0c-4a8b-b345-121d31180566/'
   - image: 'https://ucarecdn.com/ba16481a-61ca-40d4-884f-4c682443267a/'
