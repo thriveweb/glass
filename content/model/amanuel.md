@@ -6,11 +6,11 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/d3aab248-df10-4116-b842-02b818bb4ff4/'
 firstName: Amanuel
 collection: Men
-height: 5ft 7
+height: 170cm
 measurementType: chest
-bust: 39 inches
-waist: 36 inches
-hips: 41 inches
+bust: 99cm
+waist: 91cm
+hips: 104cm
 size: 'Pant: 32   Shirt: M'
 shoeSize: '10'
 hair: Black
