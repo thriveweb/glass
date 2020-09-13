@@ -18,6 +18,8 @@ eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/5e633d76-9cb7-491a-85f4-152d7144ba40/'
   - image: 'https://ucarecdn.com/fa9627c8-19af-4c03-8120-871a2e59337d/'
+  - image: >-
+      https://ucarecdn.com/9e44ef8f-0ce4-43a6-bd84-1cbe365166e0/-/crop/1125x1115/0,159/-/preview/
   - image: 'https://ucarecdn.com/1da27c39-41a7-4909-99c4-fb96698317d1/'
   - image: 'https://ucarecdn.com/f1c46a3e-7af5-4b0e-ba2c-142fadb3aa9d/'
   - image: 'https://ucarecdn.com/c2feec6f-3d75-49be-9a27-68486ec0b344/'
@@ -32,7 +34,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/f0025d2c-d9f7-4fb6-a39d-69a8fdf9679c/'
   - image: 'https://ucarecdn.com/17309bc9-5c8b-40d6-86cc-34920a2984e6/'
   - image: 'https://ucarecdn.com/8bd27cd3-5b03-4d08-bd6c-58a73f061531/'
-  - image: 'https://ucarecdn.com/54ea9a06-2f45-4350-b17a-3268db14c20a/'
 meta:
   title: Rylah
 ---
