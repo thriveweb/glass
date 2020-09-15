@@ -28,5 +28,6 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/juilette-3.webp'
   - image: 'https://glassmanagement.imgix.net/images/uploads/juilette-11.webp'
   - image: 'https://glassmanagement.imgix.net/images/uploads/pinktop-hr-5.jpg'
+  - image: 'https://ucarecdn.com/1c95650e-a6bf-4e03-b8be-41e5ca2aaf7e/'
 ---
 
