@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/d1f02a98-6568-4852-8f1e-6484ae35515f/-/crop/1142x502/0,294/-/preview/
 imageThumbnail: 'https://ucarecdn.com/527a1819-f97e-446e-af32-7e3372af955b/'
 firstName: Brooke S
-collection: Women
+collection: Global
 height: 171cm
 measurementType: bust
 bust: 69cm
