@@ -16,7 +16,7 @@ hair: Brown
 eyes: Blue
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/unnamed-44.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/unnamed-21.jpg'
+  - image: 'https://ucarecdn.com/0ff93c08-16d0-4f3d-945a-1a6d27e9aa4c/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/2991127_9505070.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/russell-1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/russell-2.jpg'
