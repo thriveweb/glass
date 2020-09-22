@@ -14,7 +14,7 @@ hips: 65cm
 size: 7-8
 shoeSize: 1-2
 hair: Brown
-eyes: Brown
+eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/c97ff27a-73f8-4e41-bbed-bb41c2a7f989/'
   - image: 'https://ucarecdn.com/ab673b23-f3c2-467f-b6d3-ac21d0d9e6eb/'
