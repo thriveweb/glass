@@ -1,0 +1,33 @@
+---
+template: ModelPage
+title: Bailey B
+featuredImage: >-
+  https://ucarecdn.com/09549bf1-560b-4735-8b91-8f26ad640fd6/-/crop/1632x863/0,773/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/fd48d9c8-1c40-4fd2-ac97-d9f5bf9c1c17/-/crop/567x621/151,375/-/preview/
+firstName: Bailey B
+collection: Men
+height: 180cm
+measurementType: chest
+bust: 89cm
+waist: 78cm
+hips: 94cm
+size: 'Pants: 30    Shirt: M'
+shoeSize: '10.5'
+hair: Light Brown
+eyes: Blue
+imagePortfolio:
+  - image: 'https://ucarecdn.com/da640882-4cf5-4760-a63b-1736078989e5/'
+  - image: 'https://ucarecdn.com/b22c3076-e792-43aa-a1ae-cfa552a80981/'
+  - image: 'https://ucarecdn.com/825c0e34-b96d-430a-beae-c2a9b6089756/'
+  - image: 'https://ucarecdn.com/2665dd4d-ef72-4159-b889-805a13ce88bc/'
+  - image: 'https://ucarecdn.com/72f3cad3-1c68-41a7-a57e-4e26ef0d21c0/'
+  - image: 'https://ucarecdn.com/600c315c-1762-468d-ac43-a16dc9600c97/'
+  - image: 'https://ucarecdn.com/34228b07-85ef-45d6-ae30-5269a2e37dce/'
+  - image: 'https://ucarecdn.com/cf351e08-9970-43af-8282-53848df9921b/'
+  - image: 'https://ucarecdn.com/2d76892a-746c-4fe0-ac78-289b105beab1/'
+  - image: 'https://ucarecdn.com/a0fc84d5-9cba-456e-b95a-a5ffd68b60c3/'
+  - image: 'https://ucarecdn.com/fac477cc-db01-480d-814f-f70f8f3036b3/'
+  - image: 'https://ucarecdn.com/33e4a3dd-35df-4ab7-a05e-0bb9e5c84442/'
+---
+
