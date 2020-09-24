@@ -6,10 +6,13 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/2296f093-9091-46c1-aa77-dac65b256280/'
 firstName: Riley M
 collection: Global
-height: 187cm
+height: 188cm
 measurementType: chest
-size: 'Shirt: L/XL Pant: 34'
-shoeSize: '11.5'
+bust: 102cm
+waist: 92cm
+hips: 106cm
+size: 'Shirt: L/XL Pant: 36'
+shoeSize: 11.5US
 hair: Brown
 eyes: Green
 imagePortfolio:
