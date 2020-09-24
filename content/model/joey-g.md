@@ -7,13 +7,13 @@ featuredVideoMobile: 'https://ucarecdn.com/82afba47-654e-45b6-9e8c-1f1b81a7d847/
 imageThumbnail: 'https://ucarecdn.com/b047ea2d-0cf7-4392-8e61-4c3993b2610b/'
 firstName: Joey G
 collection: Boys
-height: 165cm
+height: 170cm
 measurementType: chest
 bust: 84cm
-waist: 73cm
-hips: 80cm
-size: 14/16
-shoeSize: '8'
+waist: 76cm
+hips: 88cm
+size: 'Boys: 16/Mens: S'
+shoeSize: 8/9
 hair: Red
 eyes: Brown
 imagePortfolio:
