@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/ba5f6481-7de4-461c-ba97-55f8108e054c/-/crop/3341x4340/562,0/-/preview/
 firstName: Mila
 collection: Girls
-height: 113cm
+height: 119cm
 measurementType: chest
-bust: 52cm
-waist: 48cm
-hips: 49cm
-size: '5'
-shoeSize: 13-1
+bust: 54cm
+waist: 52cm
+hips: 53cm
+size: 5-6
+shoeSize: 1-2
 hair: Brown
 eyes: Hazel
 imagePortfolio:
