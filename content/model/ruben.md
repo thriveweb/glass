@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/2f19c764-cf01-43cf-b53b-2e4b8155eba8/-/crop/3554x4169/337,0/-/preview/
 firstName: Ruben
 collection: Boys
-height: 124cm
+height: 128cm
 measurementType: chest
-bust: 58cm
-waist: 56cm
-hips: 63cm
-size: 7/8
-shoeSize: '2'
+bust: 60cm
+waist: 57cm
+hips: 61cm
+size: '8'
+shoeSize: 2-3
 hair: Brown
 eyes: Blue
 imagePortfolio:
