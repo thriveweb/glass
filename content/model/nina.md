@@ -3,8 +3,7 @@ template: ModelPage
 title: Nina
 featuredImage: >-
   https://ucarecdn.com/8da0c44c-8bd5-4a62-ada9-64cc4c99686c/-/crop/1043x575/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/cf0dcbc7-68d6-4e30-b7e0-92ba27adc29e/-/crop/671x890/116,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/973ee134-a6c3-4a2f-bafc-b0757c082a12/'
 firstName: Nina
 collection: Emerging
 height: 179cm
@@ -18,7 +17,7 @@ hair: Blonde
 eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/0ed3c47c-75bc-4bf5-a483-a722b3137f30/'
-  - image: 'https://ucarecdn.com/2495f27e-9eeb-4eea-93d7-97d798b4f78e/'
+  - image: 'https://ucarecdn.com/4f176abc-9e79-45ae-a4db-f52f616ad34d/'
   - image: 'https://ucarecdn.com/8f0457ca-8a53-4018-acb6-d044b529cd5f/'
   - image: 'https://ucarecdn.com/608ec808-06bc-48e0-9715-9ad0f2f5a4e0/'
   - image: 'https://ucarecdn.com/54055114-2688-44cc-9871-a49e0d362663/'
