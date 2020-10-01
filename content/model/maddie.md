@@ -17,6 +17,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/804299d6-f88d-4bd7-bfe9-52a84b093c16/'
   - image: 'https://ucarecdn.com/f1cfab66-b1d8-4713-90fb-86f29641329d/'
+  - image: 'https://ucarecdn.com/3571d287-3139-4015-8333-653d5ae89a2d/'
   - image: >-
       https://ucarecdn.com/342fbf37-3ab7-40c6-be41-9f019b391026/-/crop/704x740/0,0/-/preview/
   - image: 'https://ucarecdn.com/d92edf25-0a12-45e7-bcdf-2e6e5bd9a24d/'
@@ -31,6 +32,8 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/f8b76ce5-1bfc-4780-a074-301b939eaf8e/-/crop/416x671/0,8/-/preview/
   - image: 'https://ucarecdn.com/0959e609-df18-4298-973b-9284ea1ed134/'
+  - image: 'https://ucarecdn.com/dbf2b4e8-8f87-41b1-a8c4-c1dcc9c52bf3/'
+  - image: 'https://ucarecdn.com/7920dae1-af5c-49e5-b02b-0c28992b802a/'
 meta:
   title: Maddie
 ---
