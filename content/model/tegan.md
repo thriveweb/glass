@@ -9,7 +9,7 @@ firstName: Tegan
 collection: Classic
 height: 168cm
 bust: 88cm
-waist: 74cm
+waist: 70cm
 hips: 91cm
 size: '8'
 shoeSize: '7.5'
