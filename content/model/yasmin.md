@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/d668dd32-b356-4e1c-b574-c7c4cf7a518f/'
 imageThumbnail: 'https://ucarecdn.com/875d6407-41ad-469b-a1f0-eaf1a6f21df6/'
 firstName: Yasmin
 collection: Global
-height: 167cm
+height: 171cm
 measurementType: bust
 waist: 60cm
 hips: 90cm
