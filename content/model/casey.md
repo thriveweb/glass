@@ -42,6 +42,13 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/4b52f4ad-fe92-4133-9ade-7c25e5544123/'
   - image: 'https://ucarecdn.com/cf577f1b-f729-4249-bbb3-c3a0fbad9eb1/'
   - image: 'https://ucarecdn.com/8f7776f5-aa44-4784-b982-ca970253e67c/'
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 meta:
   title: Casey
 ---
