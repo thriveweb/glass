@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Jett
-featuredImage: 'https://ucarecdn.com/ec025607-c69f-49aa-8482-22857e09139b/'
+featuredImage: >-
+  https://ucarecdn.com/ec025607-c69f-49aa-8482-22857e09139b/-/crop/2449x999/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/e6fa55c7-0816-4145-a18f-af306998e091/-/crop/1573x1636/0,0/-/preview/
 firstName: Jett
