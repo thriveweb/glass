@@ -7,9 +7,9 @@ firstName: Hannah D
 collection: Global
 height: 152cm
 measurementType: bust
-bust: 76cm
-waist: 63cm
-hips: 76cm
+bust: '82.5'
+waist: 71cm
+hips: 84cm
 size: Ladies 8
 shoeSize: 6 Adults
 hair: Black
