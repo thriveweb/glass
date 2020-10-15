@@ -17,7 +17,7 @@ eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/1b219833-3a57-4520-9ede-e3c1583af8b1/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/jordy-8.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/jordy-5.jpg'
+  - image: 'https://ucarecdn.com/6c53c006-dcc1-47a3-a866-d7906b5b3686/'
   - image: 'https://ucarecdn.com/f32e7ece-f327-41ca-a304-aadd92a634e6/'
   - image: 'https://ucarecdn.com/84ead89d-fb6a-4d59-821a-a35f411bec0b/'
   - image: 'https://ucarecdn.com/ee7d9287-6ca4-44a6-8e8d-ed769e6d554e/'
