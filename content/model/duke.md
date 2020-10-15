@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/f6a56a1b-c4f9-413f-abe9-e61b180bf53b/-/crop/1385x1788/121,5/-/preview/
 firstName: Duke
 collection: Boys
-height: 152cm
+height: 135cm
 measurementType: chest
 bust: 60cm
 waist: 58cm
