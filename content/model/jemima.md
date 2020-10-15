@@ -45,6 +45,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/174c82ac-c7cf-479f-9a7a-cd66f8e83af3/'
   - image: 'https://ucarecdn.com/01d345e5-a7b7-4522-ad24-54a54d601294/'
   - image: 'https://ucarecdn.com/20ffe389-671f-4805-8533-9cb8ec6ac619/'
+  - image: 'https://ucarecdn.com/7cd248be-da7d-48ab-a68e-45c8e7d0d6ae/'
 meta:
   title: Jemima
 ---
