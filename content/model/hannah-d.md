@@ -10,8 +10,8 @@ measurementType: bust
 bust: 76cm
 waist: 63cm
 hips: 76cm
-size: Ladies 6
-shoeSize: 4-5 Adults
+size: Ladies 8
+shoeSize: 6 Adults
 hair: Black
 eyes: Brown
 imagePortfolio:
