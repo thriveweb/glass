@@ -1,8 +1,10 @@
 ---
 template: ModelPage
 title: Josh
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/dsc_0815.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/josh-4.jpg'
+featuredImage: >-
+  https://ucarecdn.com/f293eced-efe6-45ca-b3eb-566a5000f3c9/-/crop/713x1460/239,54/-/preview/-/rotate/270/
+imageThumbnail: >-
+  https://ucarecdn.com/145c7c94-5aba-49c5-adeb-404c81a8f443/-/crop/1151x1476/262,114/-/preview/
 firstName: Josh
 collection: Boys
 height: 99cm
