@@ -12,7 +12,7 @@ waist: 62cm
 hips: 70cm
 size: 10 Kids
 shoeSize: '4.5'
-hair: Dirty Blonde
+hair: ' Blonde'
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/5ccc3650-3738-4805-95ab-011e0a28bb07/'
