@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/20861843-a42b-443f-a804-1b460a271f07/'
 firstName: Rita
 collection: Global
-height: 150cm
+height: 153cm
 measurementType: chest
 bust: 90cm
 waist: 76cm
