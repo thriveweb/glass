@@ -15,26 +15,15 @@ content: >-
   THE WORKING DAY: (Photography)
 
 
-  Normal hours for a booking are between 8:00am to 6:00pm, including lunch
+  Normal hours for a booking are between 6:00am to 6:00pm, including lunch
   break. Penalty rates may apply outside these hours.
 
 
   PENALTY/OVERTIME RATE: (Photography)
 
 
-  Overtime & Finish Time: 20 minutes or more into the hour will be billed as a
+  Overtime & Finish Time: 30 minutes or more into the hour will be billed as a
   full hour.
-
-
-  a. The hourly rate is one and a half times the model’s normal rate before
-  8.00am and after 6.00pm.
-
-
-  b. Working on weekends can incur a higher rate which will be negotiated at
-  time of booking
-
-
-  c. A special rate is negotiated for work after 11.00pm and before 7.00am.
 
 
   TRAVEL RATE: (Photography)
@@ -157,6 +146,67 @@ content: >-
   assignment. We always strive to be inclusive of who is put forward for any
   campaign, although Glass Management is not responsible for who a client
   chooses. 
+
+
+
+
+  REPRESENTATION
+
+
+  Glass will act as your agent for all paid acting / modelling work offered to
+  you either through this Agency or from another source. Glass will negotiate
+  performance fees for you at or above minimum Award rates. We will also sign
+  standard industry contracts on your behalf and facilitate rollovers where
+  appropriate. Glass is never deemed the employer always the agent, and will
+  collect all money on your behalf deducting a commission of 20% on commercial
+  work and 10% on acting work, for the service provided. In some cases you may
+  be put forward for jobs which require you to work as a sub contractor
+  therefore you will need to have or apply for an ABN number. 
+
+
+
+
+  PAYMENT INFORMATION
+
+
+  Glass acts as your agent brokering deals on your behalf not as your employer.
+  You are paid one of two ways either on the Employers payroll requiring you to
+  fill in an employment declaration or as a Sub Contractor you will be required
+  to submit a TAX invoice with an ABN number for payment. At the point of
+  booking you for a job a Glass consultant will advise you of the method of
+  payment.
+
+
+
+
+  TERMINATION OF REPRESENTATION
+
+
+  You can terminate your representation by Glass at any time. Notification is
+  required in writing or via email info@glassmanagement.com.au
+
+
+  Glass also reserves the right to terminate your representation if no contact
+  has been made within a 12 month period. It is important for you to maintain
+  regular contact with Glass via email talent@glassmanagement.com.au to avoid
+  termination.
+
+
+
+
+  PRIVACY POLICY
+
+
+  Information is paramount at Glass as it is the ability to provide accurate
+  details to clients in order to maintain a superior service. The Privacy Act
+  1998 regulates the way Actors Ink uses your information provided by you.
+  Personal Information includes any information from which you can be reasonably
+  identified. This statement explains your privacy rights and our rights and
+  obligations in relation to your personal information.
+
+   
+
+  FEES
 
 
   To join Glass Management we have a one off small IT fee of $200 that covers
