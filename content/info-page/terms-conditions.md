@@ -148,8 +148,6 @@ content: >-
   chooses. 
 
 
-
-
   REPRESENTATION
 
 
@@ -164,8 +162,6 @@ content: >-
   therefore you will need to have or apply for an ABN number. 
 
 
-
-
   PAYMENT INFORMATION
 
 
@@ -175,8 +171,6 @@ content: >-
   to submit a TAX invoice with an ABN number for payment. At the point of
   booking you for a job a Glass consultant will advise you of the method of
   payment.
-
-
 
 
   TERMINATION OF REPRESENTATION
@@ -192,8 +186,6 @@ content: >-
   termination.
 
 
-
-
   PRIVACY POLICY
 
 
@@ -204,7 +196,18 @@ content: >-
   identified. This statement explains your privacy rights and our rights and
   obligations in relation to your personal information.
 
-   
+
+
+
+  TALENT CLIENT CONTACT & DIRECT WORK
+
+
+  Talent will not do work directly for any Client that has been introduced to
+  them by Glass either by way of a confirmed job or casting. Failure to do so
+  may incur legal action. 
+
+
+
 
   FEES
 
