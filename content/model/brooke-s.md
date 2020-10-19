@@ -3,9 +3,9 @@ template: ModelPage
 title: Brooke S
 featuredImage: >-
   https://ucarecdn.com/d1f02a98-6568-4852-8f1e-6484ae35515f/-/crop/1142x502/0,294/-/preview/
-imageThumbnail: 'https://ucarecdn.com/906d58b1-1277-4113-baea-a88212046110/'
+imageThumbnail: 'https://ucarecdn.com/1aaccdd5-17e9-4c34-9ab4-6a9fd35a7ec9/'
 firstName: Brooke S
-collection: Emerging
+collection: Women
 height: 171cm
 measurementType: bust
 bust: 69cm
