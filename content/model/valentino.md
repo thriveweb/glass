@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/2d7e58f1-4076-4ae9-b922-ba4b2e240ce6/-/crop/519x605/275,37/-/preview/
 firstName: Valentino
 collection: Men
-height: 174cm
+height: 180cm
 measurementType: chest
 bust: 38 inches
 waist: 31 inches
