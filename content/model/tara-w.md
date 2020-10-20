@@ -30,6 +30,9 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/tara-11.jpg'
   - image: 'https://ucarecdn.com/ec9f9688-bd69-4fab-8e81-676e85c4a48a/'
   - image: 'https://ucarecdn.com/00a2d5d5-4b05-48af-96b6-c2dc9e2c92a8/'
+  - image: 'https://ucarecdn.com/3ef4ac6f-f114-462a-b1eb-52750fccb4f6/'
+  - image: 'https://ucarecdn.com/74b3b7d3-e75a-45e4-87e8-bca471a8e41f/'
+  - image: 'https://ucarecdn.com/ed51f4ec-a55d-4bd1-9fa8-ee04c21fe3ee/'
 meta:
   title: Tara W
 ---
