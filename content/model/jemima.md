@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Jemima
-featuredImage: 'https://ucarecdn.com/64fadc89-68e7-451c-af85-cbc178e91158/'
+featuredImage: >-
+  https://ucarecdn.com/a09b1b29-6f23-432c-9ff5-4ce666299484/-/crop/2400x897/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/3204e657-78ff-46a3-8a7d-6eaef44c7c1e/-/crop/350x431/0,163/-/preview/
 firstName: Jemima
