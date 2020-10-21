@@ -3,7 +3,8 @@ template: ModelPage
 title: Kade
 featuredImage: >-
   https://ucarecdn.com/3d2d4e60-857f-4a1f-a32f-3e6d3a8b5001/-/crop/480x240/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/677082b9-33bc-40a1-9cd0-72229f37e5bb/'
+imageThumbnail: >-
+  https://ucarecdn.com/688e1202-f586-48ee-afad-18fdecf4e774/-/crop/2846x2898/1191,0/-/preview/
 firstName: Kade
 collection: Boys
 height: 130cm
