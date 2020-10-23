@@ -10,7 +10,7 @@ measurementType: chest
 bust: 95cm
 waist: 78cm
 hips: 82.5cm
-size: 32 pant L Shirt
+size: 32 pant M Shirt
 shoeSize: '10'
 hair: Light Brown
 eyes: Blue
