@@ -7,9 +7,9 @@ firstName: Brayden
 collection: Men
 height: 184cm
 measurementType: chest
-bust: 95cm
-waist: 78cm
-hips: 82.5cm
+bust: 108cm
+waist: 83cm
+hips: 93cm
 size: 32 pant M Shirt
 shoeSize: '10'
 hair: Light Brown
