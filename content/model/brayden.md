@@ -6,10 +6,11 @@ imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/brayden-16.jpg
 firstName: Brayden
 collection: Men
 height: 184cm
+measurementType: chest
 bust: 95cm
 waist: 78cm
 hips: 82.5cm
-size: M
+size: 32 pant L Shirt
 shoeSize: '10'
 hair: Light Brown
 eyes: Blue
