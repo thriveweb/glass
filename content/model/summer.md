@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/b1583551-b9ba-4e06-90c1-ea3e0aea5c1d/'
 imageThumbnail: 'https://ucarecdn.com/5bd2a503-91bd-4b93-80f0-0792a48f3990/'
 firstName: Summer
 collection: Girls
-height: '136'
+height: 140cm
 measurementType: bust
 bust: 67cm
 waist: 58cm
