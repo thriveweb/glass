@@ -197,10 +197,16 @@ testimonials:
         xx
       logo: 'https://ucarecdn.com/3c174c3d-e195-4a76-8d08-3535f613b7ed/'
       name: Jess from Orange Sherbet
+    - title: Joel from ATEM
+      content: |-
+        I used this agency for a project.\
+        Tegan is lovely and very helpful. 100% Recommend\
+        Models were also amazing!
+      logo: 'https://ucarecdn.com/b203f1ba-7737-4e46-885e-63a8c0cb7d13/'
+      name: Joel
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
-    - collection: 'Chelsea''s Choice #11'
     - collection: Pink Ribbon Event
     - collection: Hipkin
   subTitle: Our Journal
