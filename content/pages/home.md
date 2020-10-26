@@ -199,7 +199,9 @@ testimonials:
       name: Jess from Orange Sherbet
     - title: Joel from ATEM
       content: |-
-        I used this agency for a project.\
+        I used this agency for a project.
+
+        \
         Tegan is lovely and very helpful. 100% Recommend\
         Models were also amazing!
       logo: 'https://ucarecdn.com/b203f1ba-7737-4e46-885e-63a8c0cb7d13/'
