@@ -2,7 +2,7 @@
 template: ModelPage
 title: Amanda B
 featuredImage: >-
-  https://ucarecdn.com/9284e96f-945a-46c9-8636-4cd5421e9363/-/crop/1799x763/0,0/-/preview/
+  https://ucarecdn.com/1dac31b4-c55a-42fd-aa14-369dda15317f/-/crop/1280x427/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/267f7c9f-377f-4d3e-a9b9-ff729861dbf0/'
 firstName: Amanda B
 collection: Classic
@@ -16,11 +16,11 @@ shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/26034e21-7f2e-4773-ae8b-887ba7ad497d/'
+  - image: 'https://ucarecdn.com/a5daf393-d6ce-4e48-ad1c-5561cab3ac69/'
   - image: 'https://ucarecdn.com/19f60008-efd0-49ff-9900-a2fcf7888b4f/'
   - image: 'https://ucarecdn.com/91e98f7b-5914-4b98-8b86-cee551405382/'
   - image: 'https://ucarecdn.com/e48cee13-d448-4239-9d0f-9d9f7d04e279/'
-  - image: 'https://ucarecdn.com/a5daf393-d6ce-4e48-ad1c-5561cab3ac69/'
+  - image: 'https://ucarecdn.com/26034e21-7f2e-4773-ae8b-887ba7ad497d/'
   - image: 'https://ucarecdn.com/a5f31902-b62b-4154-88f6-56a10e948382/'
   - image: 'https://ucarecdn.com/bf3983c1-e301-4b1e-a10c-8560ad9ed62d/'
   - image: 'https://ucarecdn.com/7df81720-1995-414c-96fe-86f6ea42a909/'
