@@ -11,7 +11,7 @@ measurementType: bust
 bust: 34 inches
 waist: 29 inches
 hips: 35 inches
-size: 8-10
+size: '10'
 shoeSize: '9'
 hair: Blonde
 eyes: Blue
