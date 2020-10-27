@@ -8,9 +8,9 @@ firstName: Amanda B
 collection: Classic
 height: 170cm
 measurementType: bust
-bust: 34 inches
-waist: 29 inches
-hips: 35 inches
+bust: 86cm
+waist: 73cm
+hips: '88'
 size: '10'
 shoeSize: '9'
 hair: Blonde
