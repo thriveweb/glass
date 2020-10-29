@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/c594eb01-427a-477e-bfa3-38701fa1ae2a/'
 featuredVideo: 'https://ucarecdn.com/c8cef8bc-5999-4b88-a3ca-06f3e7b1788b/'
 featuredVideoMobile: 'https://ucarecdn.com/c7c24375-73c2-4af8-b7c7-f41b68edbbbd/'
 imageThumbnail: >-
-  https://ucarecdn.com/4a0bf667-9405-4389-bb1e-dbbe3de56ea4/-/crop/1305x1127/116,0/-/preview/
+  https://ucarecdn.com/9a49dbf8-a387-44ca-b7dc-083511b0069b/-/crop/799x883/291,114/-/preview/
 firstName: Annie
 collection: Women
 height: 171cm
