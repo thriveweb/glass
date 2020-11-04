@@ -2,7 +2,7 @@
 template: ModelPage
 title: Warwick
 featuredImage: >-
-  https://ucarecdn.com/2521c9e4-ae22-4957-8595-1c606df7fb45/-/crop/1632x1106/0,323/-/preview/
+  https://ucarecdn.com/2521c9e4-ae22-4957-8595-1c606df7fb45/-/crop/1632x1444/0,202/-/preview/
 imageThumbnail: 'https://ucarecdn.com/e8c7dd6d-60ee-4e9e-b837-beb7b4ac9610/'
 firstName: Warwick
 collection: Classic
