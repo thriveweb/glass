@@ -1,9 +1,9 @@
 ---
-title: 'Chelsea''s Choice #8'
 template: BlogPost
-image: https://glassmanagement.imgix.net/images/uploads/instachelsea-s-choice-.jpg
+title: Instagram 2
+image: 'https://glassmanagement.imgix.net/images/uploads/instachelsea-s-choice-.jpg'
 collection: 'Social Media #3'
-author: Chelsea
+author: Team Glass
 date: 31st AUgust 2018
 content: >-
   Last week we addressed many of the dos and don'ts of Instagram, and today we
@@ -110,6 +110,6 @@ meta:
     blog, social, social media, social media blog, instagram, instagram
     engagement, engagement, how to get better engagement on instagram, instagram
     help
-  title: 'Chelsea''s Choice #8'
+  title: Instagram 2
 ---
 
