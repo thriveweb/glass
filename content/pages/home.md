@@ -29,7 +29,7 @@ gallery:
     - image: 'https://ucarecdn.com/73d047cf-5278-4306-817a-a16286a93d5d/'
       title: Emerging
     - image: 'https://ucarecdn.com/f04527fd-203a-4f93-888b-dfef7f7567a2/'
-      title: Performers
+      title: Performer
   subTitle: Our Models
   title: Explore Our Models
 about:
