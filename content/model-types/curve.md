@@ -1,7 +1,7 @@
 ---
 template: ModelsPage
-title: Curve
-featuredImage: 'https://ucarecdn.com/382a36f9-1fea-45c0-b1b0-e3a7e681071b/'
+title: Performers
+featuredImage: 'https://ucarecdn.com/888138aa-c82a-4b62-aa72-b9db9b55515b/'
 order: 7
 meta: {}
 ---
