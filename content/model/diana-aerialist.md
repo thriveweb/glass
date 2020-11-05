@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Diana AERIALIST
+title: Diana AERIAL
 featuredImage: 'https://ucarecdn.com/c474fb6f-cb1b-4896-a6a1-4f7ab85c3ae4/'
 imageThumbnail: >-
   https://ucarecdn.com/1d0712ea-c96b-4180-91f2-3f1c35ee3172/-/crop/640x948/0,174/-/preview/
-firstName: Diana AERIALIST
+firstName: Diana AERIAL
 collection: Performer
 height: 170cm
 measurementType: bust
