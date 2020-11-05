@@ -28,8 +28,8 @@ gallery:
       title: Boys
     - image: 'https://ucarecdn.com/73d047cf-5278-4306-817a-a16286a93d5d/'
       title: Emerging
-    - image: 'https://ucarecdn.com/208bc515-f8aa-42c8-9493-5cb5040b821b/'
-      title: Curve
+    - image: 'https://ucarecdn.com/f04527fd-203a-4f93-888b-dfef7f7567a2/'
+      title: Performers
   subTitle: Our Models
   title: Explore Our Models
 about:
