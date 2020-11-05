@@ -3,7 +3,7 @@ template: ModelPage
 title: Savanna DANCER
 featuredImage: 'https://ucarecdn.com/52e53c14-11a2-4641-a1fd-9385ee7f1dd8/'
 imageThumbnail: 'https://ucarecdn.com/3a079c3d-a17c-40e2-ba51-89c46155c43b/'
-firstName: Savanna
+firstName: Savanna DANCER
 collection: Performer
 height: 181cm
 measurementType: bust
