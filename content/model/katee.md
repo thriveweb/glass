@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Katee
+title: 'Katee '
 featuredImage: >-
   https://ucarecdn.com/ae9d9be1-8fba-4164-b77a-dba96e255541/-/crop/564x372/0,149/-/preview/
 imageThumbnail: 'https://ucarecdn.com/f24e2106-1b44-4f59-b4ce-1e8c634cf475/'
 firstName: Katee
-collection: Curve
+collection: Classic
 height: 168cm
 measurementType: bust
 bust: 101cm
