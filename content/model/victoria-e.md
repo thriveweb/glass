@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Victoria E
+title: Victoria CURVE
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/victoria-edwards-white.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/victoria-edwards-c.jpg'
 firstName: Victoria E
-collection: Curve
+collection: Classic
 height: 178cm
 measurementType: bust
 bust: 106cm
