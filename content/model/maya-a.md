@@ -30,7 +30,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/maya-6.jpg'
   - image: 'https://ucarecdn.com/bd2059e7-c343-4b26-b81e-55babd316972/'
   - image: 'https://ucarecdn.com/3e8f3423-cec9-4d78-bcf0-56f01e99753b/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/maya-7.jpg'
+  - image: 'https://ucarecdn.com/759813aa-04b0-4a20-ab4d-66f02cac4c99/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/nat-020.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/maya-048.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/maya-034.jpg'
