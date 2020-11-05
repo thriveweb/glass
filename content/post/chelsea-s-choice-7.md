@@ -1,9 +1,10 @@
 ---
-title: 'Chelsea''s Choice #7'
 template: BlogPost
-image: https://glassmanagement.imgix.net/images/uploads/chelsea-choice-s-social-media124iu.jpeg
+title: Instagram
+image: >-
+  https://glassmanagement.imgix.net/images/uploads/chelsea-choice-s-social-media124iu.jpeg
 collection: 'Social Media #2'
-author: Chelsea
+author: Glass
 date: 21st August 2018
 content: >-
   Last week we talked about the importance of social media - _Instagram
@@ -126,6 +127,6 @@ content: >-
   _**Next week I will address social media once again, and expand on our
   knowledge!**_
 meta:
-  title: 'Chelsea''s Choice #7'
+  title: Instagram
 ---
 
