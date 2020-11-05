@@ -12,7 +12,7 @@ measurementType: chest
 bust: 40 inches
 waist: 34 inches
 hips: 38 inches
-size: L/34
+size: M/34
 shoeSize: '12'
 hair: Brown
 eyes: Brown
