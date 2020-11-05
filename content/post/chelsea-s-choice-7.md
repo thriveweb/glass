@@ -4,7 +4,7 @@ title: Instagram
 image: >-
   https://glassmanagement.imgix.net/images/uploads/chelsea-choice-s-social-media124iu.jpeg
 collection: 'Social Media #2'
-author: Glass
+author: Team Glass
 date: 21st August 2018
 content: >-
   Last week we talked about the importance of social media - _Instagram
