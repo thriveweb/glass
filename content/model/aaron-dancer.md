@@ -2,9 +2,8 @@
 template: ModelPage
 title: Aaron DANCER
 featuredImage: 'https://ucarecdn.com/023ec7e2-1ead-4932-8258-20bc427d5d5f/'
-imageThumbnail: >-
-  https://ucarecdn.com/f2053ad1-d7aa-4155-8768-41b407fa92c0/-/crop/462x379/0,21/-/preview/
-firstName: Aaron
+imageThumbnail: 'https://ucarecdn.com/f2053ad1-d7aa-4155-8768-41b407fa92c0/-/preview/'
+firstName: Aaron DANCER
 collection: Performers
 height: 180cm
 measurementType: chest
