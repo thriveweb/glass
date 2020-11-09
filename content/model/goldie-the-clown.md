@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: GoldieCLOWN
+title: Goldie CLOWN
 featuredImage: 'https://ucarecdn.com/2aebd260-31c1-468f-b229-597b3ed08895/'
 imageThumbnail: 'https://ucarecdn.com/dff314d5-55e8-4038-b47c-15c4ce5bf76b/'
-firstName: GoldieCLOWN
+firstName: Goldie CLOWN
 collection: Performer
 height: 176cm
 measurementType: chest
@@ -18,4 +18,3 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/e529eaaa-e1a4-49e9-b508-e9034748e85a/'
 meta: {}
 ---
-
