@@ -121,6 +121,7 @@
   .section--model-list-item h3 {
     opacity: 1;
     margin: 0;
+    font-size: 13px;
   }
 
   .section--model-list-item-link {
@@ -215,7 +216,6 @@
     font-size: 0.5em;
   }
 }
-
 @media only screen and (max-width: 415px) {
   .section--model-list-item h3 {
     font-size: 0.6em;

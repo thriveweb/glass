@@ -22,98 +22,84 @@
 }
 
 .nav--list-items {
-	padding: 0;
-	margin: 0;
-	display: flex;
-	flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .nav--list-item a.active {
-	background-color: var(--primary);
-	color: white;
+  background-color: var(--primary);
+  color: white;
 }
 
 .nav--list-item {
-	margin: 0 2rem 2rem 0;
-	font-size: 1.2em;
-	list-style-type: none;
-	min-width: 16rem;
+  margin: 0 2rem 2rem 0;
+  font-size: 1.2em;
+  list-style-type: none;
+  min-width: 16rem;
 }
 
 .nav--list-items a {
-	display: inline-block;
-	padding: 1.5rem 3.5rem;
-	min-width: 13rem;
-	border: 1px solid var(--primary);
-	color: var(--primary);
-	text-transform: uppercase;
-	font-weight: 600;
-	letter-spacing: 0.2em;
-	font-size: inherit;
-	text-align: center;
-	transition: all ease-in-out .2s;
-	width: 100%;
+  display: inline-block;
+  padding: 1.5rem 3.5rem;
+  min-width: 13rem;
+  border: 1px solid var(--primary);
+  color: var(--primary);
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  font-size: inherit;
+  text-align: center;
+  transition: all ease-in-out 0.2s;
+  width: 100%;
 }
 
 .nav--list-item:last-of-type {
-	margin-right: 0;
+  margin-right: 0;
 }
 
 .nav--list-items a:hover {
-	background-color: var(--primary);
-	color: white;
-	border-color: transparent;
-	cursor: pointer;
+  background-color: var(--primary);
+  color: white;
+  border-color: transparent;
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 1300px) {
-	.nav--list-items {
-		margin-top: 4rem;
-		flex: 0 0 100%;
-	}
+  .nav--list-items {
+    margin-top: 4rem;
+    flex: 0 0 100%;
+  }
 }
 
 @media only screen and (max-width: 768px) {
-	.archive--listing .container {
-		justify-content: center;
-	}
+  .archive--listing .container {
+    justify-content: center;
+  }
 
-	.archive--listing-heading {
-		margin-right: 0;
-		text-align: center;
-	}
+  .archive--listing-heading {
+    margin-right: 0;
+    text-align: center;
+  }
 
-	.nav--list-items {
-		justify-content: center;
-		flex-wrap: wrap;
-	}
+  .nav--list-items {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
 
-	.nav--list-item {
-		margin: 0 .5rem 2rem !important;
-	}
-}	
-
-@media only screen and (max-width: 375px) {
-	.nav--list-item {
-		min-width: 13rem;
-	}
+  .nav--list-item {
+    margin: 0 0.5rem 2rem !important;
+  }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+@media only screen and (max-width: 450px) {
+  .nav--list-item {
+    min-width: 0;
+    width: 46%;
+    padding: 0;
+  }
+  .nav--list-items a {
+    padding: 1.5rem 0;
+  }
+}
