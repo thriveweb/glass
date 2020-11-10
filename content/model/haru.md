@@ -8,7 +8,7 @@ firstName: Haru
 collection: Global
 height: 168cm
 measurementType: chest
-bust: 92m
+bust: 92cm
 waist: 79cm
 hips: 96cm
 size: 'Shirt XS, Pants 30'
