@@ -15,8 +15,9 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://glassmanagement.imgix.net/images/uploads/lena-6.jpg'
+  - image: 'https://ucarecdn.com/ec15db45-ffbc-4593-9cce-81792d063344/'
   - image: 'https://ucarecdn.com/393ab307-7ce1-4b8f-ab5a-91cb336a4178/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/lena-6.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/lena-12.jpg'
   - image: 'https://ucarecdn.com/cb5f2f63-d7de-46c3-9c65-62943f937e6d/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/lena-13.jpg'
