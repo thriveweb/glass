@@ -5,7 +5,7 @@ featuredImage: >-
   https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/fynn-1.jpg'
 firstName: 'Fynn '
-collection: Global
+collection: Boys
 height: 165cm
 measurementType: chest
 bust: 70cm
