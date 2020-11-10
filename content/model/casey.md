@@ -11,7 +11,7 @@ collection: Men
 height: 183cm
 measurementType: chest
 bust: '105cm '
-waist: 90cm
+waist: 82cm
 hips: '107cm '
 size: M shirt/ 32 pant
 shoeSize: '11.5'
