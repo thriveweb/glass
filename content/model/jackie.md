@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jackie
 featuredImage: >-
-  https://ucarecdn.com/16cbaa0d-9164-4e8f-ba9b-a9318db9aac1/-/crop/2001x1004/0,0/-/preview/
+  https://ucarecdn.com/c64cdf0b-0392-47a7-a4c5-7b9e71f14078/-/crop/3307x1333/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/4337ffa1-feee-4f24-96ad-d3f9afb79c43/'
 firstName: Jackie
 collection: Women
