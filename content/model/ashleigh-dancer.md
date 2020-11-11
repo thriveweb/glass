@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Ashleigh        DANCER
+title: DANCER Ashleigh
 featuredImage: 'https://ucarecdn.com/4b993ddd-f60f-4354-9c38-b44684c76626/'
 imageThumbnail: 'https://ucarecdn.com/5d426716-51ab-4443-97aa-660b605abeda/'
 firstName: Ashleigh        DANCER
