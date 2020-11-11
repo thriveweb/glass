@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: David       CIRC
+title: CIRC David
 featuredImage: 'https://ucarecdn.com/2f95604f-a62d-433a-a853-fc6ab19b5e8d/'
 imageThumbnail: 'https://ucarecdn.com/e4590ec6-abc8-40c5-9ece-c50c98256dce/'
 firstName: David      CIRC
