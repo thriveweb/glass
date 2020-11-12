@@ -4,7 +4,7 @@ title: SINGER / DANCER Marissa
 featuredImage: 'https://ucarecdn.com/b1fd055e-112b-4a1b-9c01-87260faf080d/'
 imageThumbnail: >-
   https://ucarecdn.com/b2bc5231-80e2-4e68-9f24-a7aac1c90729/-/crop/462x441/0,0/-/preview/
-firstName: Marissa SINGER / DANCER
+firstName: SINGER / DANCER Marissa
 collection: Performer
 height: 171cm
 measurementType: bust
