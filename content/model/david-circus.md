@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: CIRC David
+title: CIRCUS David
 featuredImage: 'https://ucarecdn.com/2f95604f-a62d-433a-a853-fc6ab19b5e8d/'
 imageThumbnail: 'https://ucarecdn.com/e4590ec6-abc8-40c5-9ece-c50c98256dce/'
-firstName: CIRC David
+firstName: CIRCUS David
 collection: Performer
 height: 184cm
 measurementType: chest
