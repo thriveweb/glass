@@ -3,7 +3,7 @@ template: ModelPage
 title: CIRCUS Carlo
 featuredImage: 'https://ucarecdn.com/8e1e2970-51f3-4bb9-97ad-6ff75587e023/'
 imageThumbnail: 'https://ucarecdn.com/f009015f-aef1-40fe-85b1-5c5b38f88e65/'
-firstName: Carlo CIRCUS
+firstName: CIRCUS Carlo
 collection: Performer
 height: 169cm
 measurementType: chest
