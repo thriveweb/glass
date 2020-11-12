@@ -2,8 +2,7 @@
 template: ModelPage
 title: Kayla
 featuredImage: 'https://ucarecdn.com/8df316ee-bcf8-489a-acdb-576b02a24290/'
-imageThumbnail: >-
-  https://ucarecdn.com/d9cba4de-3376-4f2f-84b8-f77914cbf342/-/crop/1374x1598/258,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/ccd3c713-60c9-468a-97c8-8b9f2fd8620a/'
 firstName: Kayla
 collection: Women
 height: 173cm
@@ -16,10 +15,11 @@ shoeSize: '9'
 hair: Brown
 eyes: Green
 imagePortfolio:
+  - image: 'https://ucarecdn.com/91be03fb-b493-4359-8afc-64b8d0bfcc60/'
+  - image: 'https://ucarecdn.com/6cf96b58-eba2-4b6a-a5f5-a81f620f058d/'
   - image: 'https://ucarecdn.com/52dd3951-547d-41b8-9fdd-0180d1298e1e/'
   - image: 'https://ucarecdn.com/92bcf28d-bb21-4d48-9a8e-88052e19af4d/'
   - image: 'https://ucarecdn.com/5c1f9d81-5ead-4bfa-b898-7312c71d37b2/'
-  - image: 'https://ucarecdn.com/6cf96b58-eba2-4b6a-a5f5-a81f620f058d/'
   - image: 'https://ucarecdn.com/0c6a1702-6823-4689-89f2-5a7fc70b4779/'
   - image: 'https://ucarecdn.com/239cfe57-a3e2-4fe7-a212-255a8202bbc1/'
   - image: 'https://ucarecdn.com/ee9b5d0c-e6d5-40b1-8891-3f4404ee6dee/'
