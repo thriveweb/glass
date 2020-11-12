@@ -10,7 +10,7 @@ measurementType: chest
 bust: 130cm
 waist: 122cm
 hips: 130cm
-size: 3XL Shirt - 46inch Pant
+size: 4-5XL Shirt - 46-48inch Pant
 shoeSize: '11'
 hair: Siver Fox
 eyes: Blue
