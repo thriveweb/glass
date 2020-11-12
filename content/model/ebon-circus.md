@@ -3,7 +3,7 @@ template: ModelPage
 title: CIRCUS Ebon
 featuredImage: 'https://ucarecdn.com/5f028475-c153-4605-a2dc-5c890256371d/'
 imageThumbnail: 'https://ucarecdn.com/7b5e7466-41b6-46a4-8283-5e11d97bb469/'
-firstName: Ebon CIRCUS
+firstName: CIRCUS Ebon
 collection: Performer
 height: 167cm
 measurementType: chest
