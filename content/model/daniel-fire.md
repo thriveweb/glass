@@ -4,7 +4,7 @@ title: FIRE Daniel
 featuredImage: 'https://ucarecdn.com/a10d4646-b197-425d-b9e1-5708aed7d744/'
 imageThumbnail: >-
   https://ucarecdn.com/5163b30c-7e64-49e7-9e7c-7933240ca558/-/crop/829x672/0,0/-/preview/
-firstName: Daniel FIRE
+firstName: FIRE Daniel
 collection: Performer
 height: 5'8
 measurementType: chest
