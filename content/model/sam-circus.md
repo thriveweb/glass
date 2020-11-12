@@ -3,7 +3,7 @@ template: ModelPage
 title: CIRCUS Sam
 featuredImage: 'https://ucarecdn.com/78a89fe8-4121-4f3f-a3b4-dc35d7fdd212/'
 imageThumbnail: 'https://ucarecdn.com/b5171e42-4cba-4d26-8c15-33028835ccb8/'
-firstName: Sam CIRCUS
+firstName: CIRCUS Sam
 collection: Performer
 height: 177cm
 measurementType: chest
