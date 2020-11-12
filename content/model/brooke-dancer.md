@@ -4,7 +4,7 @@ title: DANCER Brooke
 featuredImage: 'https://ucarecdn.com/ef786e0e-bbba-4ed7-a76d-f4ce2fa5b625/'
 imageThumbnail: >-
   https://ucarecdn.com/61e35075-2657-4fbb-8579-003d2f125c75/-/crop/436x515/0,91/-/preview/
-firstName: Brooke DANCER
+firstName: DANCER Brooke
 collection: Performer
 height: 171cm
 measurementType: bust
