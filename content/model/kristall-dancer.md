@@ -4,7 +4,7 @@ title: DANCER Kristall
 featuredImage: 'https://ucarecdn.com/e3052e6e-87f4-4b62-9c99-75daf11c3df1/'
 imageThumbnail: >-
   https://ucarecdn.com/ba8e57ec-2310-4d50-8de7-85eea605a9da/-/crop/520x583/0,0/-/preview/
-firstName: Kristall DANCER
+firstName: DANCER Kristall
 collection: Performer
 height: 171.5cm
 measurementType: bust
