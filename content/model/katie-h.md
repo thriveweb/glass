@@ -6,10 +6,10 @@ imageThumbnail: >-
   https://ucarecdn.com/97eb1add-1dd4-475b-a341-ee2705c559bd/-/crop/1024x1265/0,0/-/preview/
 firstName: Katie H
 collection: Girls
-height: 145cm
+height: 150cm
 measurementType: bust
-bust: 72cm
-waist: 62cm
+bust: 71cm
+waist: 63cm
 hips: 71cm
 size: 10-12
 shoeSize: '4'
