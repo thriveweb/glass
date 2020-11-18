@@ -31,7 +31,8 @@ teamMembers:
       Tegan has the entertainment industry covered in all areas and her can-do
       energetic personality means it's exciting times ahead for Glass
       Management.
-    image: 'https://glassmanagement.imgix.net/images/uploads/amn_8380-1-_preview.jpg'
+    image: >-
+      https://ucarecdn.com/1a94f885-e8d9-45b4-aa22-86c49a3b2534/-/crop/2052x3633/2108,0/-/preview/
     leftAlign: true
     subTitle: Our Story
     title: Tegan Glass
