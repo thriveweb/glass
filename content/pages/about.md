@@ -51,7 +51,7 @@ teamMembers:
     subTitle: Model Mentor
     title: Emily West
   - image: >-
-      https://ucarecdn.com/6f481208-b3ce-4f29-bfa6-91711df76bfc/-/crop/1490x1632/308,0/-/preview/
+      https://ucarecdn.com/6f481208-b3ce-4f29-bfa6-91711df76bfc/-/crop/1413x1632/308,0/-/preview/
     leftAlign: true
     subTitle: Team Glass
 services:
