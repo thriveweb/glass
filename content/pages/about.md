@@ -43,7 +43,7 @@ teamMembers:
 
       Em lives and breathes the Industry and has done since the age of 6!! So
       with years of experience under her belt there is no one better to bring
-      "calm" to the Team Glass office.
+      her skills to the Team Glass office.
 
 
       We love you Em!!
