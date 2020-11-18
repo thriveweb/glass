@@ -32,7 +32,7 @@ teamMembers:
       energetic personality means it's exciting times ahead for Glass
       Management.
     image: >-
-      https://ucarecdn.com/1a94f885-e8d9-45b4-aa22-86c49a3b2534/-/crop/2052x3633/2108,0/-/preview/
+      https://ucarecdn.com/1a94f885-e8d9-45b4-aa22-86c49a3b2534/-/crop/2060x3182/2108,0/-/preview/
     leftAlign: true
     subTitle: Our Story
     title: Tegan Glass
