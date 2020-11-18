@@ -29,8 +29,8 @@ teamMembers:
 
 
       Tegan has the entertainment industry covered in all areas and her can-do
-      energetic personality means it's exciting times ahead for her new chapter:
-      Glass Management.
+      energetic personality means it's exciting times ahead for Glass
+      Management.
     image: 'https://glassmanagement.imgix.net/images/uploads/amn_8380-1-_preview.jpg'
     leftAlign: true
     subTitle: Our Story
