@@ -51,6 +51,7 @@ teamMembers:
     title: Emily West
   - image: >-
       https://ucarecdn.com/6f481208-b3ce-4f29-bfa6-91711df76bfc/-/crop/1639x1632/257,0/-/preview/
+    leftAlign: true
     subTitle: Team Glass
 services:
   content: >-
