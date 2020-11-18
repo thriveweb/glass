@@ -14,9 +14,10 @@ teamMembers:
       Shows. This has led her to both a national and international career path.
 
 
-      Over the past four years, Tegan has been able to successfully immerse
+      Over the past seven years, Tegan has been able to successfully immerse
       herself into the Queensland market place with high end fashion labels,
-      national brands, feature films and local and national TVC Campaigns.
+      national brands, feature films, TV Series and local and national TVC
+      Campaigns.
 
 
       She has worked with some of Australia's biggest fashion and corporate
