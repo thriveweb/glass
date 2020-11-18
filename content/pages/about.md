@@ -1,7 +1,7 @@
 ---
 template: AboutPage
 slug: about
-featuredImage: 'https://ucarecdn.com/8eff1889-828b-4b10-b66e-a9cf554b8e64/'
+featuredImage: 'https://ucarecdn.com/a39d6d62-30a4-4441-92fe-0ecd2c9ce774/'
 subTitle: ''
 title: About Us
 teamMembers:
@@ -34,6 +34,22 @@ teamMembers:
     leftAlign: true
     subTitle: Our Story
     title: Tegan Glass
+  - content: >-
+      Emily not only runs new talent, model submissions , Model mentoring and
+      Model coaching but works in the Industry constantly too.
+
+
+      Em lives and breathes the Industry and has done since the age of 6!! So
+      with years of experience under her belt there is no one better to bring
+      "calm" to the Team Glass office.
+
+
+      We love you Em!!
+    image: 'https://ucarecdn.com/39fe9baf-28df-4861-b0ee-824fa02dd9d5/'
+    subTitle: Model Mentor
+    title: Emily West
+  - image: 'https://ucarecdn.com/6f481208-b3ce-4f29-bfa6-91711df76bfc/'
+    subTitle: Team Glass
 services:
   content: >-
     Glass Management supplies professional talent for Feature Films, TV
