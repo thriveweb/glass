@@ -1,8 +1,9 @@
 ---
-title: Angela
 template: ModelPage
-featuredImage: https://glassmanagement.imgix.net/images/uploads/film-movie-motion-picture-390089.jpeg
-imageThumbnail: https://glassmanagement.imgix.net/images/uploads/angela823974.jpg
+title: Angela
+featuredImage: >-
+  https://glassmanagement.imgix.net/images/uploads/film-movie-motion-picture-390089.jpeg
+imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/angela823974.jpg'
 firstName: Angela
 collection: Global
 height: 164cm
@@ -15,9 +16,9 @@ shoeSize: '8'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: https://glassmanagement.imgix.net/images/uploads/angela81297.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/angela823974.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/angela398274.jpg
+  - image: 'https://glassmanagement.imgix.net/images/uploads/angela81297.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/angela823974.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/angela398274.jpg'
 meta:
   title: Angela
 ---
