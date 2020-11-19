@@ -2,8 +2,9 @@
 template: ModelPage
 title: STUNT Dan
 featuredImage: 'https://ucarecdn.com/a7bbe07a-6ddc-4bd1-8948-7c90cc88958f/'
-imageThumbnail: 'https://ucarecdn.com/d5903eed-fb73-4ebe-a10b-368865899d56/'
-firstName: STUNT Dam
+imageThumbnail: >-
+  https://ucarecdn.com/d5903eed-fb73-4ebe-a10b-368865899d56/-/crop/815x953/0,0/-/preview/
+firstName: STUNT Dan
 collection: Performer
 height: 179cm
 measurementType: chest
