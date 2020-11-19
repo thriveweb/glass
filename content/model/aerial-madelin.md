@@ -3,7 +3,7 @@ template: ModelPage
 title: AERIAL Madelin
 featuredImage: 'https://ucarecdn.com/7785b6bc-2a5f-407a-81ac-7e6e632ac256/'
 imageThumbnail: 'https://ucarecdn.com/05cc9680-9e80-4347-a5e8-285de5abfd43/'
-firstName: Madelin
+firstName: AERIAL Madelin
 collection: Performer
 height: 165cm
 measurementType: bust
