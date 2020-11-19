@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/8265f431-b470-4e52-8fd1-564edfd2b113/-/crop/1316x1626/0,0/-/preview/
 firstName: Lisa
-collection: Global
+collection: Classic
 height: 150cm
 measurementType: chest
 size: 10-12
