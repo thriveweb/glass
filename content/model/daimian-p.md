@@ -4,7 +4,7 @@ title: Daimian P
 featuredImage: 'https://ucarecdn.com/63bfe210-f041-47cc-9b07-c11ee893a4ad/'
 imageThumbnail: 'https://ucarecdn.com/9b051eb3-ca7d-4a32-87ea-30e853161f74/'
 firstName: Daimian P
-collection: Global
+collection: Classic
 height: 180cm
 measurementType: chest
 bust: 106cm
