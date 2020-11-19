@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/a996e450-59c1-47b4-b2d3-5e3fa904e596/-/crop/1184x1308/299,0/-/preview/
 firstName: Daniel
-collection: Global
+collection: Classic
 height: 168cm
 size: 'Pants: 30         Shirt: S/M'
 shoeSize: US10
