@@ -3,7 +3,7 @@ template: ModelPage
 title: Allegra
 featuredImage: 'https://ucarecdn.com/9962ecbe-04ec-4f64-bc42-f727c27d3e59/'
 imageThumbnail: >-
-  https://ucarecdn.com/9271a30e-09ea-4d36-a181-1858d0dda836/-/crop/869x959/620,235/-/preview/
+  https://ucarecdn.com/053cb17b-a1a1-49d6-8340-a7213bc353fd/-/crop/3984x4855/0,0/-/preview/
 firstName: Allegra
 collection: Girls
 height: 131cm
@@ -17,14 +17,18 @@ hair: Brown
 eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/c97ff27a-73f8-4e41-bbed-bb41c2a7f989/'
-  - image: 'https://ucarecdn.com/76824dcf-be10-40c5-9fb6-9a2be20e6cd9/'
+  - image: 'https://ucarecdn.com/42973ba7-0595-4dcc-8edd-4309a9cb2acc/'
   - image: 'https://ucarecdn.com/fcb3b322-2902-4467-ad9c-7b359c872f15/'
-  - image: 'https://ucarecdn.com/ab673b23-f3c2-467f-b6d3-ac21d0d9e6eb/'
+  - image: 'https://ucarecdn.com/76824dcf-be10-40c5-9fb6-9a2be20e6cd9/'
   - image: 'https://ucarecdn.com/ed4e99df-91b4-49a9-8e81-84333a369d92/'
+  - image: 'https://ucarecdn.com/ab673b23-f3c2-467f-b6d3-ac21d0d9e6eb/'
+  - image: 'https://ucarecdn.com/e7b36391-ca5f-4ad1-88eb-30f456c74834/'
   - image: 'https://ucarecdn.com/13850042-ea34-4efb-99bd-933c73142b8f/'
+  - image: 'https://ucarecdn.com/f08ee674-e13d-4109-ad13-b0199631517d/'
   - image: 'https://ucarecdn.com/8b679c23-9b07-4fe4-8b00-d687be04c787/'
   - image: 'https://ucarecdn.com/24ef1fb8-1559-4db3-8fd8-4a921072cef6/'
   - image: 'https://ucarecdn.com/45627ceb-6c60-44e5-92c6-d0c5eb951b4e/'
+  - image: 'https://ucarecdn.com/cb06a9e3-e424-41a0-bbd4-20132be5c9d7/'
   - image: 'https://ucarecdn.com/cb85d2a4-4d16-4c49-9afe-8e106e4fc035/'
   - image: 'https://ucarecdn.com/06615e9f-6883-4ef0-9f67-550b906205c2/'
   - image: 'https://ucarecdn.com/3a9c15a1-e327-4abb-b344-dd0d5816d2c4/'
