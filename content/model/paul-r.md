@@ -9,7 +9,7 @@ firstName: Paul R
 collection: Classic
 height: 183cm
 measurementType: chest
-bust: 114cm
+bust: 107cm
 waist: 87cm
 hips: 102cm
 size: Shirt XL
