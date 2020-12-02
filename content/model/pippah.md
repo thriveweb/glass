@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Pippah
-featuredImage: 'https://ucarecdn.com/b8b4397e-571c-4e24-ab54-e1e11d8cfa56/'
+featuredImage: 'https://ucarecdn.com/910ede6f-c3b5-4dca-a92b-361ef6e9e764/'
 imageThumbnail: >-
   https://ucarecdn.com/47794480-3452-4937-bea4-acf1e90099b4/-/crop/1564x1904/0,0/-/preview/
 firstName: Pippah
