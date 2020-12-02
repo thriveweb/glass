@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Cleo
-featuredImage: >-
-  https://ucarecdn.com/e17af355-0722-4144-904e-9f73677294eb/-/crop/2449x1124/0,195/-/preview/
+featuredImage: 'https://ucarecdn.com/9bc7b4ea-2db7-44e3-9290-b698d2ddac78/'
 imageThumbnail: >-
   https://ucarecdn.com/08b1ceb7-cb0d-445c-b322-9aae14f5bb23/-/crop/1521x1843/111,0/-/preview/
 firstName: Cleo
