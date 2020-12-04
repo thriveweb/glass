@@ -16,12 +16,15 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/8fdc4eb3-6e75-4807-8b8f-ea16582e1d21/'
+  - image: 'https://ucarecdn.com/e3c60ef1-e001-49b9-abc0-bf63c16b3fc1/'
   - image: 'https://ucarecdn.com/cf000afd-2a28-43d0-afad-904e00c44943/'
   - image: 'https://ucarecdn.com/672c4df6-e49c-4542-814a-bbd99f368948/'
+  - image: 'https://ucarecdn.com/98bf2f5f-0666-4a44-b863-43d9961761a3/'
   - image: 'https://ucarecdn.com/b48edb97-6c55-4f8e-8ee8-1f992ed8ac9b/'
   - image: 'https://ucarecdn.com/8a898888-77b2-4444-a0a9-97230e77b34c/'
   - image: 'https://ucarecdn.com/f1b795f4-1e6f-46d9-a153-82c10e84dc6c/'
   - image: 'https://ucarecdn.com/741132e1-9009-4c25-b9e7-c62e143c393c/'
+  - image: 'https://ucarecdn.com/f385bdb8-3291-44c5-b2ce-6de1ce68324f/'
   - image: 'https://ucarecdn.com/38869e92-5e5c-47af-804a-e3f2b2527c40/'
   - image: 'https://ucarecdn.com/75654c9e-10f7-4778-996d-d97f1271caa7/'
   - image: 'https://ucarecdn.com/a6d3bb42-017e-4d40-8473-89f0a541f2fc/'
@@ -57,7 +60,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0a1ee6eb-ba51-4ab1-aa85-3a397ef2eaac/'
   - image: 'https://ucarecdn.com/d7d62d2d-4afe-4e4d-a649-2e463508d8b6/'
   - image: 'https://ucarecdn.com/9fb190a0-ca1a-4b1d-bc7b-fbb3a0d37ea3/'
-  - {}
 meta:
   title: Dakota
 ---
