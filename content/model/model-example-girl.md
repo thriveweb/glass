@@ -3,6 +3,7 @@ template: ModelPage
 title: Emily
 featuredImage: >-
   https://ucarecdn.com/f48ba204-1858-40d3-8f24-b6a401a0e528/-/crop/1350x568/0,90/-/preview/
+featuredVideo: 'https://ucarecdn.com/04063278-d496-4c62-875b-5565fc10976a/'
 imageThumbnail: 'https://ucarecdn.com/0397eac2-e272-4bf6-a8c9-d74b2abe7a41/'
 firstName: Emily
 collection: Women
