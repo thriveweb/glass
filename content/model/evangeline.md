@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/319ef467-1dce-47af-bad7-9cd9543b5c37/'
 firstName: Evangeline
 collection: Emerging
-height: 160cm
+height: 163cm
 measurementType: bust
 bust: 64cm
 waist: 61cm
