@@ -6,13 +6,13 @@ featuredImage: >-
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/img_6428-40-crop.jpg'
 firstName: Angel
 collection: Girls
-height: 125cm
+height: 134cm
 measurementType: bust
-bust: 66cm
-waist: 51cm
-hips: 61cm
-size: 6-7
-shoeSize: '1'
+bust: 61cm
+waist: 55cm
+hips: 67cm
+size: 8-9
+shoeSize: '2'
 hair: Dark Brown
 eyes: Hazel
 imagePortfolio:
