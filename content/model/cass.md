@@ -8,9 +8,9 @@ firstName: Cass
 collection: Women
 height: 175cm
 measurementType: bust
-bust: 82cm
-waist: 62cm
-hips: 86cm
+bust: 83cm
+waist: 64cm
+hips: 96cm
 size: '8'
 shoeSize: 9-10
 hair: Light brown
