@@ -2,7 +2,8 @@
 template: ModelPage
 title: 'DANCER Georgia '
 featuredImage: 'https://ucarecdn.com/062de6c2-428d-40a3-bef5-1fa7f5830a75/'
-imageThumbnail: 'https://ucarecdn.com/9ceedbbd-ee35-4308-8bc8-1c848506271b/'
+imageThumbnail: >-
+  https://ucarecdn.com/9ceedbbd-ee35-4308-8bc8-1c848506271b/-/crop/3706x3633/1210,0/-/preview/
 firstName: DANCER Georgia
 collection: Performer
 height: 166cm
