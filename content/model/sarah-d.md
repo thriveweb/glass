@@ -14,7 +14,7 @@ waist: 74cm
 hips: 95cm
 size: 10/12
 shoeSize: '9.5'
-hair: Red
+hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/b7ce0b91-6181-4d3a-b07d-b0b2da025aaf/'
