@@ -3,6 +3,8 @@ template: ModelPage
 title: Bailey B
 featuredImage: >-
   https://ucarecdn.com/09549bf1-560b-4735-8b91-8f26ad640fd6/-/crop/1632x863/0,773/-/preview/
+featuredVideo: 'https://ucarecdn.com/09323152-7867-471a-8a0b-a70b02ac855f/'
+featuredVideoMobile: 'https://ucarecdn.com/220ebfd9-8bcb-4863-9070-35406cc92751/'
 imageThumbnail: >-
   https://ucarecdn.com/fd48d9c8-1c40-4fd2-ac97-d9f5bf9c1c17/-/crop/567x621/151,375/-/preview/
 firstName: Bailey B
