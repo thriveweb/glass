@@ -3,6 +3,8 @@ template: ModelPage
 title: Montez
 featuredImage: >-
   https://ucarecdn.com/110a1aa3-e753-48aa-9f69-3a8cd935d858/-/crop/5472x2824/0,0/-/preview/
+featuredVideo: 'https://ucarecdn.com/9b99d69b-aa30-403c-b30c-0a037b167785/'
+featuredVideoMobile: 'https://ucarecdn.com/3b2527be-5ecf-430e-a235-28e600d3b9df/'
 imageThumbnail: 'https://ucarecdn.com/c9ec98c3-d93a-40f8-898f-46f8be78de7d/'
 firstName: Montez
 collection: Men
