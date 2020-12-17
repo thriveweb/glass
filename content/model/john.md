@@ -6,6 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/0b1c4595-9a3c-4495-b7b3-0d3a8ffc489e/-/crop/872x1030/891,0/-/preview/
 firstName: John
+collection: Men
 height: 5'5
 measurementType: chest
 bust: 39 inches
