@@ -8,7 +8,7 @@ imageThumbnail: >-
 firstName: Baby Luka
 collection: Boys
 height: Little
-size: 12 months
+size: 18 months
 hair: Brown
 eyes: Brown
 imagePortfolio:
