@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/bb7f0206-240f-441f-9c99-5851320dd8a4/'
 imageThumbnail: 'https://ucarecdn.com/352bdb68-718f-466f-8f66-c3f6a3508b4a/'
 firstName: Leon
 collection: Boys
-height: 83cm
+height: 110cm
 measurementType: chest
 bust: 55cm
 waist: 45cm
 hips: 37cm
-size: 2 Pants-2-3 shirts
-shoeSize: '8'
+size: 2 Pants-4 shirts
+shoeSize: '9'
 hair: Light Brown
 eyes: Green
 imagePortfolio:
@@ -19,6 +19,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a6e19191-15f2-4c91-a20a-2b8fca334351/'
   - image: 'https://ucarecdn.com/b9279013-a06c-4882-bdb2-9824ebb44a32/'
   - image: 'https://ucarecdn.com/0566f211-7974-4372-8313-b1dac914e8b5/'
+  - image: 'https://ucarecdn.com/60ee290f-cf77-4bb4-ace3-c66b7aae62a1/'
   - image: 'https://ucarecdn.com/1b5cbd32-4b44-4357-8a4d-02ccfdb78f8a/'
   - image: 'https://ucarecdn.com/6c226a01-c8a9-4a2d-a852-5794b6e4912a/'
   - image: 'https://ucarecdn.com/9727aac4-049a-4ed6-b8cc-5a4f4740e67b/'
