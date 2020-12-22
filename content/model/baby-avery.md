@@ -8,7 +8,7 @@ imageThumbnail: >-
 firstName: Baby Avery
 collection: Boys
 height: Little
-size: 12-18 months
+size: '2'
 shoeSize: '5'
 hair: Blonde
 eyes: Green/Blue
