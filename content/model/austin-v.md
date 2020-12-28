@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/d5a67f87-9649-40da-8e2b-2d31ed9508f2/-/crop/580x737/640,82/-/preview/
 firstName: Austin V
 collection: Boys
-height: 118cm
+height: 121cm
 measurementType: chest
 bust: 55cm
 waist: 54cm
 hips: 58cm
-size: '5'
+size: 5-6
 shoeSize: '12'
 hair: Brown
 eyes: Blue
