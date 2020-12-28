@@ -6,12 +6,12 @@ imageThumbnail: >-
   https://ucarecdn.com/47794480-3452-4937-bea4-acf1e90099b4/-/crop/1564x1904/0,0/-/preview/
 firstName: Pippah
 collection: Girls
-height: 128cm
+height: 118cm
 measurementType: bust
 bust: 56cm
 waist: 53cm
 hips: 52cm
-size: '4'
+size: '6'
 shoeSize: '11'
 hair: Blonde
 eyes: Hazel
