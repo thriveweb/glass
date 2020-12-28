@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/f3921580-80c3-4f60-acf0-5835104f5b06/-/crop/1269x1500/188,0/-/preview/
 firstName: Indie
 collection: Girls
-height: 103cm
+height: 105cm
 measurementType: bust
 bust: 53cm
 waist: 47cm
 hips: 50cm
-size: 4-5
+size: '5'
 shoeSize: '9'
 hair: Auburn
 eyes: Brown
