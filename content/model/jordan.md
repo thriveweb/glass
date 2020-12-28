@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/56c792b9-61f7-4133-94df-9e8a78029f19/-/crop/1315x1484/131,76/-/preview/
 firstName: Jordan
 collection: Boys
-height: 120cm
+height: 117cm
 measurementType: chest
 bust: 56.5cm
 waist: 51cm
