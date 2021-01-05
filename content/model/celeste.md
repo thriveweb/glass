@@ -16,16 +16,16 @@ shoeSize: '8'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/f29b1561-5717-4f4d-a8a8-d0680b169ae6/'
   - image: 'https://ucarecdn.com/41765a0e-6f44-4ba5-acf8-f5f7a6d2d69c/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-new-8.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-new-.jpg'
+  - image: 'https://ucarecdn.com/a8d97782-51ce-404e-a6e2-91d930cf7041/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-new-1.jpg'
+  - image: 'https://ucarecdn.com/581efbd8-28e8-4963-acb9-e3f53cc84edf/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-new-4.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-111.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-555.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-111000.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-444.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-88888.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-new-5.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-new-25.jpg'
@@ -38,6 +38,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-new-13.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-new-17.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/h7.jpg'
+  - image: 'https://ucarecdn.com/f3448294-7257-42eb-8024-d394a5522a12/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-333.jpg'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/35618149_1826107954362525_5394905895064829952_n.jpg
