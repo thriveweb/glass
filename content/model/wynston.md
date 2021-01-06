@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/4786f543-e3ac-4af1-9c7d-dd2a865d622a/'
 imageThumbnail: 'https://ucarecdn.com/ebd36498-55f0-44fa-a77e-5171c2d2e6ee/'
 firstName: ' Baby Wynston'
 collection: Boys
-height: 66cm
+height: 85cm
 measurementType: chest
 size: 18months
 hair: Black
