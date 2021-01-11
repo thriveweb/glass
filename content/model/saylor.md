@@ -2,7 +2,7 @@
 template: ModelPage
 title: Saylor
 featuredImage: >-
-  https://ucarecdn.com/5e943a15-1d51-43a2-8b18-f948949f27b5/-/crop/459x224/0,52/-/preview/
+  https://ucarecdn.com/865cee67-27bb-4f59-ad69-2c26ceda1f0a/-/crop/1637x1360/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/abe7752d-96ba-41ac-928c-35a605292813/'
 firstName: Saylor
 collection: Girls
