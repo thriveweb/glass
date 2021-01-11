@@ -2,7 +2,7 @@
 template: ModelPage
 title: Candice
 featuredImage: >-
-  https://ucarecdn.com/b8aa2cae-d43d-4a17-91e5-5665ffc4de69/-/crop/1687x843/313,113/-/preview/
+  https://ucarecdn.com/b8aa2cae-d43d-4a17-91e5-5665ffc4de69/-/crop/1682x739/313,113/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/c2ad218b-dad5-436e-b591-6ed3260f8939/-/crop/765x866/296,0/-/preview/
 firstName: Candice
