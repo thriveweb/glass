@@ -8,10 +8,10 @@ firstName: Nick H
 collection: Classic
 height: 180cm
 measurementType: chest
-bust: 108cm
+bust: 110cm
 waist: 92cm
-hips: 98cm
-size: Pant 34 inch Shirt L
+hips: 108cm
+size: Pant 33-34 inch Shirt L
 shoeSize: '10.5'
 hair: Brown
 eyes: Hazel
