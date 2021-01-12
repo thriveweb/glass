@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Baby Morrison
-featuredImage: 'https://ucarecdn.com/5d6a6d8a-9894-4416-89ea-97bdc43f19c5/'
+featuredImage: >-
+  https://ucarecdn.com/9651412f-d336-4f3e-9806-4295e9689a60/-/crop/1807x889/410,427/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/3503ee67-f23b-4e91-9db6-f3c42630f7fb/-/crop/1054x1262/0,0/-/preview/
 firstName: Baby Morrison
@@ -25,6 +26,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/d74e8a1d-4720-47be-952a-40e515a0da4f/'
   - image: 'https://ucarecdn.com/d53963f1-2521-4d1d-a105-1a020d4b60b1/'
   - image: 'https://ucarecdn.com/187829d2-9518-4a8f-a781-6ce1d680af3d/'
+  - image: 'https://ucarecdn.com/db921a24-c512-4c37-81c1-849390f6e7e2/'
   - image: 'https://ucarecdn.com/87fa3625-a31f-4410-ac30-41f79c30e514/'
   - image: 'https://ucarecdn.com/c2634d52-52b2-4c40-92dc-d56f0cbdbf55/'
   - image: 'https://ucarecdn.com/42deff23-10e7-47ea-b471-87ebc19c1e9b/'
