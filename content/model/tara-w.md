@@ -17,11 +17,11 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/bf443a36-9cb7-4b1f-9e97-99fe955c6e77/'
   - image: 'https://ucarecdn.com/954aecd8-8aa6-428f-a3ef-97ccb08902a9/'
+  - image: 'https://ucarecdn.com/04b53e89-5305-4f68-bb3e-18491eeeb7bb/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tara-10.jpg'
   - image: 'https://ucarecdn.com/1e9e5b0e-93d0-4c89-98d7-aa7306ba29e8/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tara-1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tara-8.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/tara-7.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tara-9.jpg'
   - image: 'https://ucarecdn.com/55ad89b8-cc73-4a61-ad71-6704e70e4e58/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tara-5.jpg'
