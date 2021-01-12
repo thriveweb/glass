@@ -8,6 +8,10 @@ imageThumbnail: >-
 firstName: Baby Morrison
 collection: Boys
 height: 91cm
+measurementType: chest
+bust: 53cm
+waist: 46.5cm
+hips: 48.5cm
 size: 1-2
 hair: Blonde
 eyes: Brown
