@@ -19,7 +19,6 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/19b8ab47-0913-4e7f-897c-1003f890e500/'
-  - image: 'https://ucarecdn.com/69a6680b-7700-4a44-87e8-78ec95adad3a/'
   - image: 'https://ucarecdn.com/f12b6eda-3f0d-4af9-9e1b-4a7f0bacbc52/'
   - image: 'https://ucarecdn.com/4c84ccc8-5404-4323-b0e2-9ab13e2a3bb2/'
   - image: 'https://ucarecdn.com/18fddaa6-0245-43b4-bd3a-86b32594492d/'
@@ -37,6 +36,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-6.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-shadow-yes.jpg'
+  - image: 'https://ucarecdn.com/69a6680b-7700-4a44-87e8-78ec95adad3a/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-13131313.jpg'
 meta:
   canonicalLink: ''
