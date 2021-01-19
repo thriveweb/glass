@@ -36,7 +36,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-6.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-shadow-yes.jpg'
-  - image: 'https://ucarecdn.com/69a6680b-7700-4a44-87e8-78ec95adad3a/'
+  - image: 'https://ucarecdn.com/cf1a9af0-75f2-4d30-b290-3e02c0d9e425/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-13131313.jpg'
 meta:
   canonicalLink: ''
