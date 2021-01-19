@@ -4,7 +4,7 @@ title: Ashleigh L
 featuredImage: >-
   https://ucarecdn.com/88dbcea3-3d04-487b-9e27-bb03970e72de/-/crop/475x264/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/0dba8963-6e4c-4bc9-b741-743b253684f9/-/crop/490x481/0,0/-/preview/
+  https://ucarecdn.com/0db5044a-aab2-43e9-98bd-afdbcb61f399/-/crop/1632x2292/0,157/-/preview/
 firstName: Ashleigh L
 collection: Women
 height: 175cm
