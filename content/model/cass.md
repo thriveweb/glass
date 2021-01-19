@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/3fcfd2e9-5336-4b35-b61e-ffe137384300/-/crop/416x602/205,40/-/preview/
 firstName: Cass
 collection: Women
-height: 175cm
+height: 177cm
 measurementType: bust
 bust: 83cm
 waist: 64cm
