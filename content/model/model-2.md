@@ -2,7 +2,7 @@
 template: ModelPage
 title: Amanda
 featuredImage: >-
-  https://ucarecdn.com/825bf912-0b1e-4882-be82-559dc8a95cd4/-/crop/475x276/0,0/-/preview/
+  https://ucarecdn.com/d46e3303-1a85-4b8a-aff3-830c305b8e66/-/crop/651x421/0,0/-/preview/
 featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-shadow-yes.jpg'
