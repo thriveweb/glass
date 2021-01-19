@@ -2,7 +2,7 @@
 template: ModelPage
 title: Ashleigh L
 featuredImage: >-
-  https://ucarecdn.com/88dbcea3-3d04-487b-9e27-bb03970e72de/-/crop/475x264/0,0/-/preview/
+  https://ucarecdn.com/673b66c8-94c3-4d86-a2e1-dbf21fda06cf/-/crop/652x430/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/0db5044a-aab2-43e9-98bd-afdbcb61f399/-/crop/1632x2292/0,157/-/preview/
 firstName: Ashleigh L
@@ -26,8 +26,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/6c861a4a-9d06-4327-9723-d336047c840d/'
   - image: 'https://ucarecdn.com/b54f8881-96ae-451c-bf6f-85dbab350655/'
   - image: 'https://ucarecdn.com/28b0a7c3-8013-40de-83f8-967918b45929/'
+  - image: 'https://ucarecdn.com/cddbc24b-e664-453a-a25b-f7047ecd27ac/'
   - image: 'https://ucarecdn.com/58cb807d-1041-42e0-a395-0a50d6f94ab7/'
   - image: 'https://ucarecdn.com/2fe65cfe-b50d-4fc6-b311-a73abc6199e1/'
-  - image: 'https://ucarecdn.com/cddbc24b-e664-453a-a25b-f7047ecd27ac/'
 ---
 
