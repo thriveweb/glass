@@ -206,6 +206,29 @@ testimonials:
         Models were also amazing!
       logo: 'https://ucarecdn.com/b203f1ba-7737-4e46-885e-63a8c0cb7d13/'
       name: Joel
+    - title: Shoot Location Burleigh
+      content: >-
+        "We don't normally encourage children's shoot here on location due to
+        the amount of stairs & retaining walls. It's a dream playground for
+        children which screams adventure & makes it difficult for kids to sit
+        still. BUT a huge congratulations to Ayo, Sophia & Jordan who acted
+        professional on location for Cotton On Kids all day long!"
+      logo: 'https://ucarecdn.com/0e92947a-2db3-438a-8dbb-deeb85d453f0/'
+      name: Shoot Location Burleigh
+    - title: Cotton On Kids
+      logo: 'https://ucarecdn.com/731f824f-6350-4f65-9b11-1e80dace1dd2/'
+      content: >-
+        Just wanted to get in touch and say a big thanks for your help on the
+        Cotton On Kids shoot.
+
+
+        All the kids were awesome. Such ROCKSTARS!
+
+
+
+
+        \- Andy Henson (APRH Productions)
+      name: Cotton On Kids
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
