@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/b6d28e39-1433-4c40-be60-6368ac675a64/-/crop/346x411/296,0/-/preview/
 firstName: Jeff D
 collection: Boys
-height: 159cm
+height: 164cm
 measurementType: chest
-bust: 74cm
-waist: 67cm
-hips: 78cm
-size: 12/14 kids
-shoeSize: '8'
+bust: 78cm
+waist: 68cm
+hips: 86cm
+size: 16/16 kids
+shoeSize: 8-9
 hair: Brown
 eyes: Brown
 imagePortfolio:
