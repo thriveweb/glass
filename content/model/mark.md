@@ -4,7 +4,7 @@ title: Mark
 featuredImage: >-
   https://ucarecdn.com/04425c87-4b16-4eba-bc72-127e9c3388e9/-/crop/2250x1109/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c328704c-60a9-4ae2-ad74-3724377c2132/-/crop/630x683/507,457/-/preview/
+  https://ucarecdn.com/c328704c-60a9-4ae2-ad74-3724377c2132/-/crop/736x839/426,467/-/preview/
 firstName: Mark
 collection: Classic
 height: 174cm
