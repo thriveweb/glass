@@ -3,7 +3,7 @@ template: ModelPage
 title: Cass
 featuredImage: 'https://ucarecdn.com/7f880f1b-0653-4a88-a94b-7e6c19b1f95f/'
 imageThumbnail: >-
-  https://ucarecdn.com/1a85ccb1-444d-4dd7-813b-2d359f68eead/-/crop/366x441/0,36/-/preview/
+  https://ucarecdn.com/1a85ccb1-444d-4dd7-813b-2d359f68eead/-/crop/290x435/38,36/-/preview/
 firstName: Cass
 collection: Women
 height: 177cm
