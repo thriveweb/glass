@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/952b1edc-815f-4586-8e60-ba4aad6e0ac7/'
 imageThumbnail: 'https://ucarecdn.com/d7f66ef9-ce52-4bf5-9741-4538909cd759/'
 firstName: Zoe C
 collection: Girls
-height: 138cm
+height: 145cm
 measurementType: bust
-bust: 70cm
-waist: 62cm
-hips: 70cm
-size: 10 Kids
-shoeSize: '4.5'
+bust: 75cm
+waist: 65cm
+hips: 75cm
+size: 10-12 Kids
+shoeSize: '6'
 hair: ' Blonde'
 eyes: Brown
 imagePortfolio:
