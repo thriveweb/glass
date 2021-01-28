@@ -2,7 +2,7 @@
 template: ModelPage
 title: Angel
 featuredImage: >-
-  https://ucarecdn.com/d4287040-5fd9-48e0-8137-2edf8f4060f2/-/crop/800x599/0,110/-/preview/
+  https://ucarecdn.com/d4287040-5fd9-48e0-8137-2edf8f4060f2/-/crop/800x423/0,110/-/preview/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/img_6428-40-crop.jpg'
 firstName: Angel
 collection: Girls
