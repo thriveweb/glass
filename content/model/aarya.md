@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Aarya
+title: K Aarya
 featuredImage: >-
   https://ucarecdn.com/2a83d09d-8fab-42c7-9084-651b527bd0da/-/crop/369x306/0,64/-/preview/
 imageThumbnail: >-
