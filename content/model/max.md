@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Max
-featuredImage: 'https://ucarecdn.com/f7bd9643-0c2c-49dd-ad94-d8e12c91d952/'
+featuredImage: 'https://ucarecdn.com/5fe26718-ab38-4962-812a-320839e53c45/'
 imageThumbnail: 'https://ucarecdn.com/79c5f403-3842-40a0-9ed6-011fbebb7051/'
 firstName: Max
 collection: Global
