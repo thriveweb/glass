@@ -12,7 +12,7 @@ bust: 76cm
 waist: 66.5cm
 hips: 77.5cm
 size: 12-14
-shoeSize: '6'
+shoeSize: '5'
 hair: Brown
 eyes: Hazel/Brown
 imagePortfolio:
