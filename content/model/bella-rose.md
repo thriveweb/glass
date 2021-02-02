@@ -1,39 +1,39 @@
 ---
 template: ModelPage
 title: Bella Rose
-featuredImage: 'https://ucarecdn.com/4f68d11f-2454-4ec9-94a9-7dc8a2e6026c/'
+featuredImage: >-
+  https://ucarecdn.com/133598c8-6b30-442c-873b-bbd459ae9b08/-/crop/9504x5234/0,0/-/preview/
 featuredVideo: ''
 featuredVideoMobile: ''
-imageThumbnail: 'https://ucarecdn.com/acacec17-d824-412f-9399-b4e1a3933b07/'
+imageThumbnail: 'https://ucarecdn.com/57cc4771-050f-4a83-a2a1-fe2ac311c1cf/-/preview/'
 firstName: Bella Rose
 collection: Emerging
-height: 151cm
+height: 163cm
 measurementType: bust
-bust: 73cm
-waist: 59cm
-hips: 73cm
-size: Kids 12 / Women's 4
-shoeSize: 7 Adult
-hair: Light Brown
+bust: 81cm
+waist: 63cm
+hips: 83cm
+size: Women's 6
+shoeSize: 7.5 Adult
+hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/e0d04fcc-29cc-455a-95da-fd0cc50961c7/'
-  - image: 'https://ucarecdn.com/74156afd-1922-4f85-a9db-e7fde3160017/'
-  - image: 'https://ucarecdn.com/baf41f54-d186-45d1-9a61-c8dfea0b8b4f/'
-  - image: 'https://ucarecdn.com/d803f8da-6908-4254-92e3-d16303c3ecf3/'
-  - image: 'https://ucarecdn.com/612c10e1-41ae-409b-998b-dbef06b9ced5/'
-  - image: 'https://ucarecdn.com/fee8b874-8260-4db3-819a-4a4e1af984fd/'
-  - image: 'https://ucarecdn.com/0d99f166-b342-42a0-81aa-f2684ed90b40/'
-  - image: 'https://ucarecdn.com/245b2097-158e-490a-96ac-c87493c3d97f/'
-  - image: 'https://ucarecdn.com/7d0591da-a19c-4b55-8f77-33194e574b02/'
-  - image: 'https://ucarecdn.com/0e62cbfc-460f-46d1-97e0-dda56f434ece/'
-  - image: 'https://ucarecdn.com/b70d6ab2-dcdf-4b68-8149-7323acb09420/'
-  - image: 'https://ucarecdn.com/cc88ce3e-af25-471a-bf98-19c801eb86e2/'
-  - image: 'https://ucarecdn.com/d343c064-44b2-4da0-a33d-6b90bd1d108f/'
-  - image: 'https://ucarecdn.com/cfab12a3-9f57-494b-a833-38f7a123fe7f/'
+  - image: 'https://ucarecdn.com/8e9b596f-ca68-4577-95f5-c8723d57c5f3/'
+  - image: 'https://ucarecdn.com/d50b27dc-f1f1-489d-9ca2-762d56d35f9b/'
+  - image: 'https://ucarecdn.com/11d7e86d-148c-4b4a-a36a-81eff8d3fde5/'
+  - image: 'https://ucarecdn.com/3d8b8801-fbe1-4d9e-a105-ceb921135ef1/'
   - image: 'https://ucarecdn.com/7256710c-2bbd-422d-946b-5fa0b3e66f30/'
-  - image: 'https://ucarecdn.com/b8543adb-5264-4d2d-96cc-c38393b4c41b/'
-  - image: 'https://ucarecdn.com/a1f0c50f-4e46-419c-8b47-adb2ef6c0feb/'
+  - image: 'https://ucarecdn.com/9d73ca84-17a2-4d43-b221-d9b942de4f0c/'
+  - image: 'https://ucarecdn.com/ac2814ed-9542-454a-a103-246c4d9926ef/'
+  - image: 'https://ucarecdn.com/9f75fb2e-1584-4159-bfb6-8cef36f54dc8/'
+  - image: 'https://ucarecdn.com/3f69c3f6-3f9e-418d-b93d-47217d0739c0/'
+  - image: 'https://ucarecdn.com/baf41f54-d186-45d1-9a61-c8dfea0b8b4f/'
+  - image: 'https://ucarecdn.com/bcd710ba-9c91-4e65-8a71-5274c67bd26d/'
+  - image: 'https://ucarecdn.com/7d0591da-a19c-4b55-8f77-33194e574b02/'
+  - image: 'https://ucarecdn.com/d343c064-44b2-4da0-a33d-6b90bd1d108f/'
+  - image: 'https://ucarecdn.com/9e6e3d88-84d9-411d-9f46-be4125b0afe6/'
+  - image: 'https://ucarecdn.com/612c10e1-41ae-409b-998b-dbef06b9ced5/'
+  - image: 'https://ucarecdn.com/cfab12a3-9f57-494b-a833-38f7a123fe7f/'
   - image: 'https://ucarecdn.com/80eb9738-13ad-4e99-a1b7-bf63af648a88/'
 ---
 
