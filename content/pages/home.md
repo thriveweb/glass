@@ -229,6 +229,18 @@ testimonials:
 
         \- Andy Henson (APRH Productions)
       name: Cotton On Kids
+    - title: City Beach
+      content: >-
+        Hi Tegan!
+
+
+        Thank you so much for all your continuing efforts! Your kids are so
+        great.
+
+
+        Seriously, they are so great!
+      name: Mary
+      logo: 'https://ucarecdn.com/956d132d-e3d9-4140-bc47-d9f7a7293d3c/'
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
