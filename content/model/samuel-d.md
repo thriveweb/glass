@@ -1,0 +1,26 @@
+---
+template: ModelPage
+title: Samuel D
+featuredImage: >-
+  https://ucarecdn.com/00a1b81d-7b2d-4ffc-85c8-b24596263e89/-/crop/2115x1136/0,0/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/5a7d75e7-3cc9-442e-9213-df32a5a3db82/-/crop/259x364/238,111/-/preview/
+firstName: Samuel D
+collection: Men
+height: 180cm
+measurementType: chest
+bust: 105cm
+waist: 81cm
+hips: 86cm
+size: 'Shirt: M   Pants: 32'
+shoeSize: '9.5'
+hair: Brown
+eyes: Hazel
+imagePortfolio:
+  - image: 'https://ucarecdn.com/bd47cf68-1d04-49ae-9451-db415cffaa29/'
+  - image: 'https://ucarecdn.com/41a10c40-49c4-4941-8845-1e32cc79837c/'
+  - image: 'https://ucarecdn.com/d9c12ca0-17f8-4c33-8bd4-2588923f7015/'
+  - image: 'https://ucarecdn.com/a49fd9c4-8cbc-40da-957d-9d406cf93904/'
+  - image: 'https://ucarecdn.com/24ffebd3-c23a-412f-b0c0-182e8a8451f8/'
+---
+
