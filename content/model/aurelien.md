@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/7597722c-e977-454e-945f-f76ac10c3c30/-/crop/1574x1930/294,167/-/preview/
 firstName: Aurelien
 collection: Boys
-height: 145cm
+height: 146cm
 measurementType: chest
-bust: 69cm
-waist: 61cm
-hips: 77cm
+bust: 71cm
+waist: 65cm
+hips: 72cm
 size: 10-12
 shoeSize: '38'
 hair: Light Brown
