@@ -11,7 +11,7 @@ measurementType: chest
 size: Boys 10-12
 shoeSize: Kids 10
 hair: Light Brown
-eyes: Blue
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/e8afe43f-e865-4bfa-9abb-7eefed9c9c89/'
   - image: 'https://ucarecdn.com/84a1bcfb-60bd-4667-b340-9ee073b695c3/'
