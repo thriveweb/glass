@@ -3,6 +3,8 @@ template: ModelPage
 title: Samuel D
 featuredImage: >-
   https://ucarecdn.com/00a1b81d-7b2d-4ffc-85c8-b24596263e89/-/crop/2115x1136/0,0/-/preview/
+featuredVideo: 'https://ucarecdn.com/7d15969d-ad76-45f4-a255-982956343d15/'
+featuredVideoMobile: 'https://ucarecdn.com/23459c8d-1041-48f4-bf93-8124ff55eb78/'
 imageThumbnail: >-
   https://ucarecdn.com/5a7d75e7-3cc9-442e-9213-df32a5a3db82/-/crop/259x364/238,111/-/preview/
 firstName: Samuel D
