@@ -2,7 +2,7 @@
 template: ModelPage
 title: Nathalie
 featuredImage: >-
-  https://ucarecdn.com/942d0e18-4705-4026-8fde-d35916a02662/-/crop/1611x1300/0,106/-/preview/
+  https://ucarecdn.com/942d0e18-4705-4026-8fde-d35916a02662/-/crop/1611x1055/0,106/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2b847171-f444-46a4-a5f5-225c7d5b4caf/-/crop/1324x1795/160,25/-/preview/
 firstName: Nathalie
