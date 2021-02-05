@@ -2,7 +2,7 @@
 template: ModelPage
 title: Gabby P
 featuredImage: >-
-  https://ucarecdn.com/c0aefa2a-7216-4216-b991-c129facae9aa/-/crop/2449x1062/0,0/-/preview/
+  https://ucarecdn.com/c0aefa2a-7216-4216-b991-c129facae9aa/-/crop/2449x820/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/082a20da-13d7-49bb-88be-09d3b4612165/-/crop/2728x3648/1208,0/-/preview/
 firstName: Gabby P
