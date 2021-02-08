@@ -11,7 +11,7 @@ bust: 61cm
 waist: 54cm
 hips: 62cm
 size: 8-10
-shoeSize: '4'
+shoeSize: '5'
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
