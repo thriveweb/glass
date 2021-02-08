@@ -4,7 +4,7 @@ title: David C
 featuredImage: 'https://ucarecdn.com/a1862968-8d21-406e-a118-544a7a9a1397/'
 imageThumbnail: 'https://ucarecdn.com/2b9fdb20-09d6-41d2-afe8-9dcaf075d884/'
 firstName: David C
-collection: Men
+collection: Classic
 height: 178cm
 measurementType: chest
 bust: 112cm
