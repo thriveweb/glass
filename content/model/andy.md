@@ -23,7 +23,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/1b46f4c7-ba60-47cc-b49b-6787da3bb1b3/'
   - image: 'https://ucarecdn.com/97411dc6-c05b-4120-a95f-d51e8ac3779e/'
   - image: 'https://ucarecdn.com/f9099ea0-8a7b-46b9-be7b-d660a76d7606/'
-  - image: 'https://ucarecdn.com/ac39071d-02ad-42a3-b3d6-83e8b4a30b25/'
+  - image: >-
+      https://ucarecdn.com/5cd619d1-d995-45e2-a66b-a4b3e4a12ebe/-/crop/359x568/54,0/-/preview/
   - image: 'https://ucarecdn.com/f4361156-c482-4ede-a255-174670e15ca1/'
 meta:
   title: Andy
