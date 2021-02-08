@@ -5,7 +5,15 @@ featuredImage: 'https://ucarecdn.com/a1862968-8d21-406e-a118-544a7a9a1397/'
 imageThumbnail: 'https://ucarecdn.com/2b9fdb20-09d6-41d2-afe8-9dcaf075d884/'
 firstName: David C
 collection: Men
+height: 178cm
 measurementType: chest
+bust: 112cm
+waist: 92cm
+hips: 109cm
+size: 'Pants: 34-36  Shirt: L'
+shoeSize: '11.5'
+hair: None
+eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/220eb7a7-3557-48ed-9e87-898db754c469/'
   - image: 'https://ucarecdn.com/01e0d23a-064d-4af9-8ae6-942aa567baa4/'
