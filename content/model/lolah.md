@@ -13,7 +13,7 @@ bust: 60cm
 waist: 53cm
 hips: 65cm
 size: '7'
-shoeSize: '2'
+shoeSize: '3'
 hair: Dark Blonde
 eyes: Brown
 imagePortfolio:
