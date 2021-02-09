@@ -12,7 +12,7 @@ measurementType: bust
 bust: 60cm
 waist: 53cm
 hips: 65cm
-size: '7'
+size: '8'
 shoeSize: '3'
 hair: Dark Blonde
 eyes: Brown
