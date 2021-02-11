@@ -2,7 +2,8 @@
 template: ModelPage
 title: Summer
 featuredImage: 'https://ucarecdn.com/b1583551-b9ba-4e06-90c1-ea3e0aea5c1d/'
-imageThumbnail: 'https://ucarecdn.com/5bd2a503-91bd-4b93-80f0-0792a48f3990/'
+imageThumbnail: >-
+  https://ucarecdn.com/c98fdc27-ae1b-46c7-81b9-996e71ff32d7/-/crop/1679x2203/0,0/-/preview/
 firstName: Summer
 collection: Girls
 height: 140cm
