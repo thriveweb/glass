@@ -4,7 +4,8 @@ title: Joey G
 featuredImage: 'https://ucarecdn.com/b6a97e80-164b-4421-9766-06258191ef5e/'
 featuredVideo: 'https://ucarecdn.com/74682603-0a52-4374-84d8-b474aa18317f/'
 featuredVideoMobile: 'https://ucarecdn.com/82afba47-654e-45b6-9e8c-1f1b81a7d847/'
-imageThumbnail: 'https://ucarecdn.com/b047ea2d-0cf7-4392-8e61-4c3993b2610b/'
+imageThumbnail: >-
+  https://ucarecdn.com/9d9485f7-8ab2-412c-b4a8-66839b0211fe/-/crop/3496x4088/418,300/-/preview/
 firstName: Joey G
 collection: Boys
 height: 170cm
@@ -17,9 +18,8 @@ shoeSize: 8/9
 hair: Red
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/7faa43d0-fd6e-4a29-9ed6-319e568904af/'
-  - image: 'https://ucarecdn.com/9fb57ccf-f90a-47c1-99bb-5e4ac218cb08/'
   - image: 'https://ucarecdn.com/8b54b8bd-b810-4185-8f19-97556eafa967/'
+  - image: 'https://ucarecdn.com/9fb57ccf-f90a-47c1-99bb-5e4ac218cb08/'
   - image: 'https://ucarecdn.com/1fd66fbd-851c-425f-8f19-c2b4d5f98fc7/'
   - image: 'https://ucarecdn.com/62b2da4e-93a3-4b69-a2a0-79905f96234f/'
   - image: 'https://ucarecdn.com/6857e6f4-ee29-4bdd-b9f1-fc7d0f361d0b/'
@@ -33,6 +33,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/bb935987-a8bd-4df0-8257-c25c03b8ba9e/'
   - image: 'https://ucarecdn.com/9621dad7-f046-4eb1-bc78-acda5ce8eb40/'
   - image: 'https://ucarecdn.com/213e9508-eb78-46e5-a86e-cff5a6481951/'
+  - image: 'https://ucarecdn.com/7faa43d0-fd6e-4a29-9ed6-319e568904af/'
   - image: 'https://ucarecdn.com/f85a61f0-7ef2-4749-adf4-0ea93d628fca/'
   - image: 'https://ucarecdn.com/a9090229-07f1-46a2-b097-ce8312cb4905/'
   - image: 'https://ucarecdn.com/de16cba6-aac9-425b-85eb-961e83b53cab/'
