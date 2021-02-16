@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/3e10b16a-ac10-4490-a953-9c5992e0290d/-/crop/1359x1931/124,0/-/preview/
 firstName: Krystal
 collection: Girls
-height: 136cm
+height: 143cm
 measurementType: bust
-bust: 66cm
-waist: 56cm
-hips: 67cm
-size: 6-7
-shoeSize: '4'
+bust: 67cm
+waist: 58cm
+hips: 66cm
+size: 8-10
+shoeSize: 4-5
 hair: Brown
 eyes: Brown
 imagePortfolio:
