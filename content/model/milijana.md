@@ -2,7 +2,8 @@
 template: ModelPage
 title: Milijana
 featuredImage: 'https://ucarecdn.com/f48071f4-a5d8-4bf5-8773-1421dd200630/'
-imageThumbnail: 'https://ucarecdn.com/9a1a3cee-a286-4377-a889-cebff2b0f886/'
+imageThumbnail: >-
+  https://ucarecdn.com/f4581358-1dbb-4c49-b12f-2b9012773f61/-/crop/1387x1782/138,59/-/preview/
 firstName: Milijana
 collection: Classic
 height: 185cm
@@ -15,7 +16,9 @@ shoeSize: '11'
 hair: Dark Blonde
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/df2e0c98-0f6d-4659-9932-2aaf066c6753/'
   - image: 'https://ucarecdn.com/b8e59002-2926-4690-aa94-2a23e1b52226/'
+  - image: 'https://ucarecdn.com/a7c887c8-cede-4370-b94c-aac29bf0fb17/'
   - image: 'https://ucarecdn.com/a36c71fa-fbf6-4a1a-9265-bbeb84014521/'
   - image: 'https://ucarecdn.com/ffd24a5c-ac13-4843-b0a8-e9a1ef0c78eb/'
   - image: 'https://ucarecdn.com/665318ae-02b9-40af-992a-1dba369f31bc/'
@@ -24,6 +27,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/2e9277ad-044f-4159-b7d0-ec1fa8aaa227/'
   - image: 'https://ucarecdn.com/4c472dd2-ca38-4305-a793-daa499965afa/'
   - image: 'https://ucarecdn.com/d4a6414c-92de-4dc9-a62e-c00cdde378b3/'
+  - image: 'https://ucarecdn.com/05ec0fa8-e668-4d4a-beac-38aa60fa1e34/'
   - image: 'https://ucarecdn.com/8b49806a-2fb8-4ded-b390-b0a5606b3e0f/'
   - image: 'https://ucarecdn.com/72af908b-3741-4ca7-a105-8aa15968c5ff/'
   - image: 'https://ucarecdn.com/cb911a19-0ba1-4b53-a537-f507a61f6884/'
@@ -32,10 +36,14 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/7bfa188e-ec43-4ca3-9900-7b8d4f9c2616/'
   - image: 'https://ucarecdn.com/fb5cbd50-026e-4901-8963-d3f20ca91aa9/'
   - image: 'https://ucarecdn.com/27faf071-79de-4a89-a7c9-bfbece249ac8/'
+  - image: 'https://ucarecdn.com/fe57826b-ea90-49d2-99bb-f24488df1177/'
   - image: 'https://ucarecdn.com/d6dc32c8-113e-4985-9484-998280140c70/'
+  - image: 'https://ucarecdn.com/512ad672-1ec4-4659-8da0-04e0b8612e42/'
   - image: 'https://ucarecdn.com/da6c3025-a939-499e-a60b-f04ad6cff89c/'
   - image: 'https://ucarecdn.com/1292b509-d041-4dab-890f-1c871190d964/'
   - image: 'https://ucarecdn.com/da5cc601-228a-44e4-9071-d54945e5a69c/'
   - image: 'https://ucarecdn.com/8ed23ba7-0682-4055-af8f-753dad16e9b6/'
+  - image: 'https://ucarecdn.com/8b07ad27-bf8b-458a-bbea-c0063b8c5580/'
+  - image: 'https://ucarecdn.com/b7150d22-34cc-486f-b42d-7af482b1ffe0/'
 ---
 
