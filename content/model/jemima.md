@@ -4,7 +4,7 @@ title: Jemima
 featuredImage: >-
   https://ucarecdn.com/a09b1b29-6f23-432c-9ff5-4ce666299484/-/crop/2400x897/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/3204e657-78ff-46a3-8a7d-6eaef44c7c1e/-/crop/350x431/0,163/-/preview/
+  https://ucarecdn.com/85241e4b-045a-49a2-9f7e-6028718e7328/-/crop/509x466/0,0/-/preview/
 firstName: Jemima
 collection: Girls
 height: 130cm
