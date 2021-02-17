@@ -6,14 +6,14 @@ imageThumbnail: >-
   https://ucarecdn.com/b079c637-662b-471f-a097-c45bc1756f73/-/crop/367x394/0,32/-/preview/
 firstName: Lila Rose
 collection: Emerging
-height: 152cm
+height: 163cm
 measurementType: bust
-bust: 71cm
-waist: 63.5cm
-hips: 76cm
-size: '12'
-shoeSize: '7'
-hair: Black
+bust: 88cm
+waist: 79cm
+hips: 91cm
+size: 10-12
+shoeSize: '9'
+hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/0a05caf8-ab06-4dfb-b83a-419fda316350/'
