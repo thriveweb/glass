@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/2c56b68e-b20e-4952-b26f-d503fc890c62/'
 imageThumbnail: 'https://ucarecdn.com/f292b833-1369-4ca5-958b-2568fb52e11c/'
 firstName: Kahlae
 collection: Girls
-height: 138cm
+height: 140cm
 measurementType: bust
-bust: 58cm
-waist: 55cm
-hips: 61cm
+bust: 61cm
+waist: 52cm
+hips: 63cm
 size: '8'
-shoeSize: 13/1
+shoeSize: 2-3
 hair: Blonde
 eyes: Dark Brown
 imagePortfolio:
