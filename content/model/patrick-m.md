@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f7f91961-4e14-4507-9b49-f026c9a26e6f/-/crop/174x222/113,58/-/preview/
 firstName: Patrick
-collection: Global
+collection: Boys
 height: 100cm
 measurementType: chest
 bust: 51cm
