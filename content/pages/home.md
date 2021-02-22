@@ -213,7 +213,7 @@ testimonials:
         children which screams adventure & makes it difficult for kids to sit
         still. BUT a huge congratulations to Ayo, Sophia & Jordan who acted
         professional on location for Cotton On Kids all day long!"
-      logo: 'https://ucarecdn.com/0e92947a-2db3-438a-8dbb-deeb85d453f0/'
+      logo: 'https://ucarecdn.com/dc19528c-fda8-4d46-bbca-fa7548987a4b/'
       name: Shoot Location Burleigh
     - title: Cotton On Kids
       logo: 'https://ucarecdn.com/731f824f-6350-4f65-9b11-1e80dace1dd2/'
