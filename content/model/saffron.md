@@ -13,8 +13,8 @@ measurementType: bust
 bust: 53cm
 waist: 52cm
 hips: 59cm
-size: 5 girls
-shoeSize: 11 girls
+size: 6-7 girls
+shoeSize: 12 girls
 hair: RED
 eyes: Blue
 imagePortfolio:
