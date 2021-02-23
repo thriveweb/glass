@@ -11,7 +11,7 @@ measurementType: bust
 bust: 101cm
 waist: 81cm
 hips: 105cm
-size: '14'
+size: 12-14
 shoeSize: '7.5'
 hair: Dark Blonde
 eyes: Blue
