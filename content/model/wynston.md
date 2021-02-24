@@ -11,6 +11,7 @@ size: 18months
 hair: Black
 eyes: Black
 imagePortfolio:
+  - image: 'https://ucarecdn.com/cf0fbfad-ac55-4272-9470-84d331302633/'
   - image: 'https://ucarecdn.com/07a8bfe3-d870-424c-94d5-f2793f4a9d40/'
   - image: 'https://ucarecdn.com/7b93d722-004c-4064-875b-610efd055cbe/'
   - image: 'https://ucarecdn.com/69d94eb7-a85d-47ef-ab5b-2d17680842a7/'
