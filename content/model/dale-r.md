@@ -7,7 +7,15 @@ imageThumbnail: >-
   https://ucarecdn.com/14f8e6b9-5251-4e58-8792-e86e2bc90a8a/-/crop/3638x3648/877,0/-/preview/
 firstName: Dale R
 collection: Classic
-size: 'Shirt: L'
+height: 168cm
+measurementType: chest
+bust: 98cm
+waist: 86.5cm
+hips: 95cm
+size: 'Shirt: L Pants:32'
+shoeSize: '9.5'
+hair: Brown
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/edea35fe-56e1-440a-b252-eb2ae1992bc4/'
   - image: 'https://ucarecdn.com/0a49520b-608d-47e7-a0e5-52c4986d540d/'
