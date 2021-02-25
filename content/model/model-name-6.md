@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c2fa1583-abb6-4e78-a7fc-626a65a11bb0/-/crop/262x305/75,28/-/preview/
 firstName: Ava
-collection: Girls
+collection: Emerging
 height: 164cm
 measurementType: bust
 bust: 73cm
