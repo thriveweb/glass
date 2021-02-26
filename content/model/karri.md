@@ -4,7 +4,7 @@ title: Karri
 featuredImage: >-
   https://ucarecdn.com/0b25c154-8027-4472-b6b4-d828da01f9da/-/crop/6124x2674/0,485/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/e61df351-9916-4c33-ad98-488b61d56604/-/crop/4174x4184/0,0/-/preview/
+  https://ucarecdn.com/7b4be135-c8e2-4a9a-831e-3a0b4a7a6c84/-/crop/1254x1443/259,123/-/preview/
 firstName: Karri
 collection: Women
 height: 173cm
@@ -17,10 +17,12 @@ shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/6c5aa1f1-e932-45fc-85d2-4f45e792e957/'
   - image: 'https://ucarecdn.com/a17479a7-c7aa-4570-a650-b9547b467aaf/'
   - image: 'https://ucarecdn.com/7ff720be-516c-4864-b897-9de7389e75d9/'
   - image: 'https://ucarecdn.com/7ba81ed2-d8ef-496a-af40-f30189b79426/'
   - image: 'https://ucarecdn.com/3444454d-d409-404c-a8ae-1b74a5cb11b9/'
+  - image: 'https://ucarecdn.com/30979e7a-ce2f-40f2-b2f3-f6215ba173bf/'
   - image: 'https://ucarecdn.com/2b62296c-501f-41cf-86a4-6f735a5dd977/'
   - image: 'https://ucarecdn.com/2f1d0124-39ef-4436-818d-f1321778f6b3/'
   - image: 'https://ucarecdn.com/f4093f03-5ec7-4170-bcf3-de628610e814/'
