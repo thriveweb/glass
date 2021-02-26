@@ -100,9 +100,17 @@ class Form extends React.Component {
 
     return (
       <Fragment>
-        {this.state.alert && (
-          <div className="EnquiryForm--Alert">{this.state.alert}</div>
+        {this.state.alert && this.state.hidden && (
+          <div className="EnquiryForm">
+            <h2>{this.state.alert}</h2>
+          </div>
         )}
+        {this.state.alert && !this.state.hidden && (
+          <div className="EnquiryForm">
+            <div style="EnquiryForm--Alert">{this.state.alert}</div>
+          </div>
+        )}
+
         <form
           className="EnquiryForm"
           name={name}
