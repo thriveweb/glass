@@ -23,7 +23,8 @@
   transition: all ease-in-out 0.2s;
 }
 
-.section--model-list-item-link .BackgroundImage {
+.section--model-list-item-link .BackgroundImage,
+.section--model-list-item-link .BackgroundVideo {
   filter: grayscale(100%);
   transition: all ease-in-out 0.2s;
 }
@@ -71,7 +72,8 @@
   z-index: 1;
 }
 
-.section--model-list-item-link:hover .BackgroundImage {
+.section--model-list-item-link:hover .BackgroundImage,
+.section--model-list-item-link:hover .BackgroundVideo {
   filter: grayscale(0%);
 }
 
