@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Lila Rose
-featuredImage: 'https://ucarecdn.com/b54ce0c5-2c33-4c63-8434-9a0bd05e70fe/'
+featuredImage: 'https://ucarecdn.com/f9711d6c-3173-46bb-a7f5-34f8ef8e892e/'
 imageThumbnail: >-
   https://ucarecdn.com/b079c637-662b-471f-a097-c45bc1756f73/-/crop/367x394/0,32/-/preview/
 firstName: Lila Rose
@@ -19,6 +19,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0a05caf8-ab06-4dfb-b83a-419fda316350/'
   - image: 'https://ucarecdn.com/cd66d2d0-112b-443d-9c53-94ebe9c9a8a9/'
   - image: 'https://ucarecdn.com/8d23d218-1749-46c7-aa89-11860d410ef3/'
+  - image: 'https://ucarecdn.com/03f997a1-e29d-476d-8b03-c4fd67dc443d/'
   - image: 'https://ucarecdn.com/821b0194-48ce-4c83-b6ab-ddd6eb198081/'
   - image: 'https://ucarecdn.com/65422fca-5b2c-4741-a357-aa3bdcb2dd75/'
   - image: 'https://ucarecdn.com/3c7f6f2b-d0ba-4568-a8da-108ba64e2ebc/'
@@ -27,6 +28,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/4ec5c8f3-a106-4019-9ec6-bdc2875cbb60/'
   - image: 'https://ucarecdn.com/2bf8c853-a867-4771-a9a8-d736d9d16da2/'
   - image: 'https://ucarecdn.com/6c8b3785-87aa-4b7b-a249-4898ac553b9f/'
+  - image: 'https://ucarecdn.com/1fdc5118-322a-482f-8329-8396bf40837d/'
   - image: 'https://ucarecdn.com/aa1c8c10-7dd0-42d5-a845-27e141aa1516/'
   - image: 'https://ucarecdn.com/00f66f62-c892-40ce-ad51-80ab6559bea9/'
   - image: 'https://ucarecdn.com/e7b25bb5-6c1c-4c70-8490-3185dfdcbada/'
