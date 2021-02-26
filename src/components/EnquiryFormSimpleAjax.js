@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 
 import './EnquiryForm.css'
 import '../templates/JoinUs.css'
@@ -99,138 +99,141 @@ class Form extends React.Component {
     const { filesUploading, hidden } = this.state
 
     return (
-      <form
-        className="EnquiryForm"
-        name={name}
-        method="post"
-        onSubmit={this.handleSubmit}
-        data-netlify="true"
-        data-netlify-honeypot="_gotcha"
-        style={hidden ? { display: 'none' } : {}}
-      >
-        <h2 className="form-description">Please Submit your details here</h2>
-        <label className="EnquiryForm--Label">
-          <input
-            className="EnquiryForm--Input"
-            type="text"
-            placeholder="Full Name"
-            name="name"
-            onChange={this.handleChange}
-            required
-          />
-        </label>
-        <label className="EnquiryForm--Label">
-          <input
-            className="EnquiryForm--Input"
-            type="text"
-            placeholder="Email"
-            name="email"
-            onChange={this.handleChange}
-            required
-          />
-        </label>
-        <label className="EnquiryForm--Label">
-          <input
-            className="EnquiryForm--Input"
-            type="text"
-            placeholder="Phone"
-            name="phone"
-            onChange={this.handleChange}
-            required
-          />
-        </label>
-        <label className="EnquiryForm--Label">
-          <input
-            className="EnquiryForm--Input"
-            type="text"
-            placeholder="Age"
-            name="age"
-            onChange={this.handleChange}
-            required
-          />
-        </label>
-        <label className="EnquiryForm--Label">
-          <input
-            className="EnquiryForm--Input"
-            type="text"
-            placeholder="Height"
-            name="height"
-            onChange={this.handleChange}
-            required
-          />
-        </label>
-        <label className="EnquiryForm--Label">
-          <input
-            className="EnquiryForm--Input"
-            type="text"
-            placeholder="Instagram"
-            name="instagram"
-            onChange={this.handleChange}
-          />
-        </label>
-        <label className="EnquiryForm--Label textarea">
-          <textarea
-            className="EnquiryForm--Input EnquiryForm--Textarea"
-            placeholder="Experience"
-            name="experience"
-            rows="10"
-            onChange={this.handleChange}
-            required
-          />
-        </label>
-        <div className="file-download">
-          <div className="file-download-item">
-            <label className="EnquiryForm--Label title">
-              <input
-                className="EnquiryForm--Input"
-                type="file"
-                accept="image/*"
-                placeholder="Upload Photo"
-                name="bodyshot"
-                onChange={this.handleUpload}
-                required
-              />
-              <span>Upload Photo</span> please attach a full length bodyshot
-            </label>
-            {this.state.bodyshot && <p>{this.state.bodyshot.name}</p>}
-          </div>
-          <div className="file-download-item">
-            <label className="EnquiryForm--Label title">
-              <input
-                className="EnquiryForm--Input"
-                type="file"
-                accept="image/*"
-                placeholder="Upload Photo"
-                name="headshot"
-                onChange={this.handleUpload}
-                required
-              />
-              <span>Upload Photo</span> please attach a current headshot
-            </label>
-            {this.state.headshot && <p>{this.state.headshot.name}</p>}
-          </div>
-        </div>
-
+      <Fragment>
         {this.state.alert && (
           <div className="EnquiryForm--Alert">{this.state.alert}</div>
         )}
+        <form
+          className="EnquiryForm"
+          name={name}
+          method="post"
+          onSubmit={this.handleSubmit}
+          data-netlify="true"
+          data-netlify-honeypot="_gotcha"
+          style={hidden ? { display: 'none' } : {}}
+        >
+          <h2 className="form-description">Please Submit your details here</h2>
+          <label className="EnquiryForm--Label">
+            <input
+              className="EnquiryForm--Input"
+              type="text"
+              placeholder="Full Name"
+              name="name"
+              onChange={this.handleChange}
+              required
+            />
+          </label>
+          <label className="EnquiryForm--Label">
+            <input
+              className="EnquiryForm--Input"
+              type="text"
+              placeholder="Email"
+              name="email"
+              onChange={this.handleChange}
+              required
+            />
+          </label>
+          <label className="EnquiryForm--Label">
+            <input
+              className="EnquiryForm--Input"
+              type="text"
+              placeholder="Phone"
+              name="phone"
+              onChange={this.handleChange}
+              required
+            />
+          </label>
+          <label className="EnquiryForm--Label">
+            <input
+              className="EnquiryForm--Input"
+              type="text"
+              placeholder="Age"
+              name="age"
+              onChange={this.handleChange}
+              required
+            />
+          </label>
+          <label className="EnquiryForm--Label">
+            <input
+              className="EnquiryForm--Input"
+              type="text"
+              placeholder="Height"
+              name="height"
+              onChange={this.handleChange}
+              required
+            />
+          </label>
+          <label className="EnquiryForm--Label">
+            <input
+              className="EnquiryForm--Input"
+              type="text"
+              placeholder="Instagram"
+              name="instagram"
+              onChange={this.handleChange}
+            />
+          </label>
+          <label className="EnquiryForm--Label textarea">
+            <textarea
+              className="EnquiryForm--Input EnquiryForm--Textarea"
+              placeholder="Experience"
+              name="experience"
+              rows="10"
+              onChange={this.handleChange}
+              required
+            />
+          </label>
+          <div className="file-download">
+            <div className="file-download-item">
+              <label className="EnquiryForm--Label title">
+                <input
+                  className="EnquiryForm--Input"
+                  type="file"
+                  accept="image/*"
+                  placeholder="Upload Photo"
+                  name="bodyshot"
+                  onChange={this.handleUpload}
+                  required
+                />
+                <span>Upload Photo</span> please attach a full length bodyshot
+              </label>
+              {this.state.bodyshot && <p>{this.state.bodyshot.name}</p>}
+            </div>
+            <div className="file-download-item">
+              <label className="EnquiryForm--Label title">
+                <input
+                  className="EnquiryForm--Input"
+                  type="file"
+                  accept="image/*"
+                  placeholder="Upload Photo"
+                  name="headshot"
+                  onChange={this.handleUpload}
+                  required
+                />
+                <span>Upload Photo</span> please attach a current headshot
+              </label>
+              {this.state.headshot && <p>{this.state.headshot.name}</p>}
+            </div>
+          </div>
 
-        <div className="form--footer">
-          {!!subject && <input type="hidden" name="subject" value={subject} />}
-          <input type="hidden" name="form-name" value={name} />
-          <input
-            className="button EnquiryForm--SubmitButton"
-            type="submit"
-            value={!filesUploading ? 'Send' : 'Uploading Files...'}
-          />
-          <input
-            type="text"
-            name="_gotcha"
-            onChange={this.handleChange}
-            style={{ opacity: 0, pointerEvents: 'none' }}
-          />
-        </div>
-      </form>
+          <div className="form--footer">
+            {!!subject && (
+              <input type="hidden" name="subject" value={subject} />
+            )}
+            <input type="hidden" name="form-name" value={name} />
+            <input
+              className="button EnquiryForm--SubmitButton"
+              type="submit"
+              value={!filesUploading ? 'Send' : 'Uploading Files...'}
+            />
+            <input
+              type="text"
+              name="_gotcha"
+              onChange={this.handleChange}
+              style={{ opacity: 0, pointerEvents: 'none' }}
+            />
+          </div>
+        </form>
+      </Fragment>
     )
   }
 }
