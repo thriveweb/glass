@@ -124,8 +124,8 @@ legend {
 
 .file-download .EnquiryForm--Label {
   background-color: white;
-  border: 0.1rem solid var(--primary);
-  padding: 2rem 2.5rem;
+  border: 0.1rem solid var(--lightGrey);
+  padding: 0 0 1rem 0;
   text-align: center !important;
   font-size: 1em;
   font-family: var(--font-secondary);
@@ -141,7 +141,8 @@ legend {
 }
 
 .file-download .EnquiryForm--Input {
-  display: none;
+  /* display: none; */
+  margin: 0 0 10px;
 }
 
 .file-download .EnquiryForm--Select {
