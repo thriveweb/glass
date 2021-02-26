@@ -17,75 +17,103 @@ export const InfluencersPageTemplate = ({
   influencerList,
   meta
 }) => {
-
   const children = influencerList.filter(item => item.type === 'child')
   const adults = influencerList.filter(item => item.type === 'adult')
 
   return (
-    <main className='Influencers'>
-      <Helmet defaultTitle={_get(meta, 'title') || `Glass Management | ${title}`}>
+    <main className="Influencers">
+      <Helmet
+        defaultTitle={_get(meta, 'title') || `Glass Management | ${title}`}
+      >
         {meta && <meta name="description" content={meta.description} />}
         {meta && <link rel="canonical" href={meta.canonicalLink} />}
         {/*meta && meta.noindex && <meta name="robots" content="noindex" />*/}
         <meta name="robots" content="noindex"></meta>
       </Helmet>
       <Banner image={featuredImage} title={title} subTitle={subTitle} />
-      <section className='section--models archive--listing'>
-    		<div className='container'>
-    			<div className='archive--listing-heading'>
-    				<p className='title'>OUR MODELS</p>
-    				<h2>Explore Our Models</h2>
-    			</div>
-    			<ModelTypes />
-          <div className='influencer-listing'>
+      <section className="section--models archive--listing">
+        <div className="container">
+          <div className="archive--listing-heading">
+            <p className="title">Our Talent</p>
+            <h2>Explore Our Talent</h2>
+          </div>
+          <ModelTypes />
+          <div className="influencer-listing">
             {/*<a className='button nav--list-item influencer-link' href='#child-listing'>Test</a>*/}
-            {adults && !!adults.length &&
+            {adults && !!adults.length && (
               <Fragment>
                 <h3>Adults</h3>
-                <div className='section--model-list-items'>
+                <div className="section--model-list-items">
                   {adults.map(({ name, featuredImage, instagram }, index) => {
-                    return <div key={`influencer-${index}`} className='section--model-list-item'>
-                      <p className='name-rotate'>{name}</p>
-                      <a className='section--model-list-item-link' href={instagram} target='_blank' rel='noopener'>
-                        {featuredImage && <BackgroundImage src={featuredImage} imageSize='600' />}
-                        <p className='category title'>influencers</p>
-                        {name && <h3>{name}</h3>}
-                      </a>
-                    </div>
+                    return (
+                      <div
+                        key={`influencer-${index}`}
+                        className="section--model-list-item"
+                      >
+                        <p className="name-rotate">{name}</p>
+                        <a
+                          className="section--model-list-item-link"
+                          href={instagram}
+                          target="_blank"
+                          rel="noopener"
+                        >
+                          {featuredImage && (
+                            <BackgroundImage
+                              src={featuredImage}
+                              imageSize="600"
+                            />
+                          )}
+                          <p className="category title">influencers</p>
+                          {name && <h3>{name}</h3>}
+                        </a>
+                      </div>
+                    )
                   })}
                 </div>
               </Fragment>
-            }
-            {children && !!children.length &&
+            )}
+            {children && !!children.length && (
               <Fragment>
                 <h3>Children</h3>
-                <div className='section--model-list-items' id='child-listing'>
+                <div className="section--model-list-items" id="child-listing">
                   {children.map(({ name, featuredImage, instagram }, index) => {
-                    return <div key={`influencer-${index}`} className='section--model-list-item'>
-                      <p className='name-rotate'>{name}</p>
-                      <a className='section--model-list-item-link' href={instagram} target='_blank' rel='noopener'>
-                        {featuredImage && <BackgroundImage src={featuredImage} imageSize='600' />}
-                        <p className='category title'>influencers</p>
-                        {name && <h3>{name}</h3>}
-                      </a>
-                    </div>
+                    return (
+                      <div
+                        key={`influencer-${index}`}
+                        className="section--model-list-item"
+                      >
+                        <p className="name-rotate">{name}</p>
+                        <a
+                          className="section--model-list-item-link"
+                          href={instagram}
+                          target="_blank"
+                          rel="noopener"
+                        >
+                          {featuredImage && (
+                            <BackgroundImage
+                              src={featuredImage}
+                              imageSize="600"
+                            />
+                          )}
+                          <p className="category title">influencers</p>
+                          {name && <h3>{name}</h3>}
+                        </a>
+                      </div>
+                    )
                   })}
                 </div>
               </Fragment>
-            }
+            )}
           </div>
-    		</div>
-    	</section>
+        </div>
+      </section>
     </main>
   )
 }
 
 const InfluencersPage = ({ data: { page } }) => (
   <Layout>
-    <InfluencersPageTemplate
-      {...page.frontmatter}
-      body={page.html}
-    />
+    <InfluencersPageTemplate {...page.frontmatter} body={page.html} />
   </Layout>
 )
 

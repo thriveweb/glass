@@ -83,14 +83,15 @@ class Nav extends Component {
                 }`}
               >
                 <span className="menu-item-content">
-                  Models <span className="dropdown-arrow">&#x25BE;</span>
+                  Talent <span className="dropdown-arrow">&#x25BE;</span>
                 </span>
                 <ul className="subMenu">
                   {modelTypes.edges
                     .sort((a, b) =>
-                      modelTypeOrder.indexOf(a.node.frontmatter.title) > 0 && modelTypeOrder.indexOf(b.node.frontmatter.title) > 0 &&
+                      modelTypeOrder.indexOf(a.node.frontmatter.title) > 0 &&
+                      modelTypeOrder.indexOf(b.node.frontmatter.title) > 0 &&
                       modelTypeOrder.indexOf(a.node.frontmatter.title) >
-                      modelTypeOrder.indexOf(b.node.frontmatter.title)
+                        modelTypeOrder.indexOf(b.node.frontmatter.title)
                         ? 1
                         : -1
                     )

@@ -19,13 +19,13 @@ gallery:
       title: Classic
     - image: https://glassmanagement.imgix.net/images/uploads/unnamed-14.jpg
       title: Boys
-  subTitle: Our Models
-  title: Explore Our Models
+  subTitle: Our Talent
+  title: Explore Our Talent
 featuredPosts:
   blogPosts:
-    - collection: 'Chelsea''s Choice #12'
+    - collection: "Chelsea's Choice #12"
     - collection: Sanctuary Cove Boat Show
-    - collection: 'Chelsea''s Choice #11'
+    - collection: "Chelsea's Choice #11"
     - collection: Pink Ribbon Event
   subTitle: Our Journal
   title: Read Our Latest News

@@ -128,7 +128,7 @@ content: >-
 
 
   Agency Service Fee is a mandatory fee on all bookings made with GLASS
-  Management, and is not a negotiable fee for the purposes of making a booking. 
+  Management, and is not a negotiable fee for the purposes of making a booking.
   The talent at the time of the booking is given their rate after all fees have
   been taken out.  The Agency Service Fee is calculated at 20% on modelling and
   TVC's and 10% on any acting job.
@@ -140,12 +140,12 @@ content: >-
   TO THE COMMENCEMENT OF THE BOOKING.
 
 
-  PLEASE NOTE: We, the Agency, act solely for and on behalf of our models and
+  PLEASE NOTE: We, the Agency, act solely for and on behalf of our talent and
   whilst making every endeavour to provide a satisfactory and efficient service
   we cannot be held ultimately responsible for a model’s conduct on an
   assignment. We always strive to be inclusive of who is put forward for any
   campaign, although Glass Management is not responsible for who a client
-  chooses. 
+  chooses.
 
 
   REPRESENTATION
@@ -159,7 +159,7 @@ content: >-
   collect all money on your behalf deducting a commission of 20% on commercial
   work and 10% on acting work, for the service provided. In some cases you may
   be put forward for jobs which require you to work as a sub contractor
-  therefore you will need to have or apply for an ABN number. 
+  therefore you will need to have or apply for an ABN number.
 
 
   PAYMENT INFORMATION
@@ -204,7 +204,7 @@ content: >-
 
   Talent will not do work directly for any Client that has been introduced to
   them by Glass either by way of a confirmed job or casting. Failure to do so
-  may incur legal action. 
+  may incur legal action.
 
 
 
@@ -214,11 +214,11 @@ content: >-
 
   To join Glass Management we have a one off small IT fee of $200 that covers
   the set up in our systems, as well as a profile on both our website and
-  casting network. 
+  casting network.
 
 
   We endeavour to make a personalised plan for each talent member that is
-  represented by us. 
+  represented by us.
 
 
   Thank you.
@@ -226,4 +226,3 @@ content: >-
 
   Team Glass xx
 ---
-

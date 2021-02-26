@@ -18,16 +18,18 @@ export const ModelsPageTemplate = ({
 }) => {
   return (
     <main className="Models">
-      <Helmet defaultTitle={_get(meta, 'title') || `Glass Management | ${title}`}>
+      <Helmet
+        defaultTitle={_get(meta, 'title') || `Glass Management | ${title}`}
+      >
         {meta && <meta name="description" content={meta.description} />}
         {meta && <link rel="canonical" href={meta.canonicalLink} />}
         {meta && meta.noindex && <meta name="robots" content="noindex" />}
       </Helmet>
-      <Banner image={featuredImage} title={title} subTitle={'OUR MODELS'} />
+      <Banner image={featuredImage} title={title} subTitle={'Our Talent'} />
       <ModelListing
         models={models}
-        title={'Explore Our Models'}
-        subTitle={'OUR MODELS'}
+        title={'Explore Our Talent'}
+        subTitle={'Our Talent'}
       />
     </main>
   )
@@ -67,10 +69,7 @@ export const ModelsPageQuery = graphql`
         fields: { contentType: { eq: "model" } }
         frontmatter: { collection: { eq: $title } }
       }
-      sort: {
-        fields: [frontmatter___title]
-        order: [ASC]
-      }
+      sort: { fields: [frontmatter___title], order: [ASC] }
     ) {
       edges {
         node {

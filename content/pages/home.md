@@ -7,9 +7,9 @@ slug: ''
 subTitle: Welcome To
 title: Gold Coast Model & Talent Agency
 content: >-
-  A boutique modeling and talent agency based on the Gold Coast, Australia. 
-  Providing professional talent of all ages. 
-buttonText: See our Models
+  A boutique modeling and talent agency based on the Gold Coast, Australia.
+  Providing professional talent of all ages.
+buttonText: See Our Talent
 buttonUrl: models/women
 gallery:
   galleryImages:
@@ -30,8 +30,8 @@ gallery:
       title: Emerging
     - image: 'https://ucarecdn.com/f04527fd-203a-4f93-888b-dfef7f7567a2/'
       title: Performer
-  subTitle: Our Models
-  title: Explore Our Models
+  subTitle: Our Talent
+  title: Explore Our Talent
 about:
   image: >-
     https://glassmanagement.imgix.net/images/uploads/8e8e6d8ccaa4e8063cbf3a3eb3c6c3e4-timeless-beauty-classic-beauty.jpg
@@ -133,7 +133,7 @@ testimonials:
     - title: Triumph International
       content: >-
         Anna was an absolute pleasure to work with. She was very professional
-        and looked amazing in the photos – such a gorgeous smile. 
+        and looked amazing in the photos – such a gorgeous smile.
 
 
         Thanks again for all of your assistance
@@ -166,9 +166,9 @@ testimonials:
       name: Tilly from Like A Photon
     - title: Shade Swim Shoot
       content: |-
-        Thank you so much once again! The girls were fabulous! 
+        Thank you so much once again! The girls were fabulous!
 
-        Can't wait to see the pics and share with you. 
+        Can't wait to see the pics and share with you.
 
         Alyshia
       logo: 'https://ucarecdn.com/1ba1fedb-f2af-4f93-acfc-4e1cabbc94e0/'
@@ -254,4 +254,3 @@ meta:
     Providing professional talent of all ages.
   title: 'Gold Coast Model & Talent Agency | Glass Management '
 ---
-
