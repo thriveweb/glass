@@ -87,7 +87,7 @@ collections: # A list of collections the CMS should be able to edit
             name: 'about'
             widget: 'object'
             fields:
-              - { label: Image, name: image, widget: image }
+              - { label: Image, name: image, widget: image, required: false }
               - { label: Sub Title, name: subTitle, widget: string }
               - { label: Title, name: title, widget: string }
               - { label: Content, name: content, widget: markdown }
