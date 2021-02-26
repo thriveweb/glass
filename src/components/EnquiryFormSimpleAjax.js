@@ -10,7 +10,7 @@ class Form extends React.Component {
     name: 'Enquiry Form',
     subject: '', // optional subject of the notification email
     action: '',
-    hidden: false,
+
     successMessage:
       'Thank you for your submission, we will be in contact with you shortly',
     errorMessage:
@@ -19,7 +19,8 @@ class Form extends React.Component {
 
   state = {
     alert: '',
-    disabled: false
+    disabled: false,
+    hidden: false
   }
 
   handleUpload = e => {
@@ -77,7 +78,8 @@ class Form extends React.Component {
             this.setState({
               alert: this.props.successMessage,
               filesUploading: false,
-              disabled: false
+              disabled: false,
+              hidden: true
             })
           })
           .catch(err => {
@@ -93,8 +95,8 @@ class Form extends React.Component {
   }
 
   render() {
-    const { name, subject, hidden } = this.props
-    const { filesUploading } = this.state
+    const { name, subject } = this.props
+    const { filesUploading, hidden } = this.state
 
     return (
       <form
