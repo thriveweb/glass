@@ -39,7 +39,7 @@ class BackgroundVideo extends Component {
   }
 
   render() {
-    const { poster, children } = this.props
+    const { src, poster, children } = this.props
     return (
       <Fragment>
         {!this.state.mobileWidth && (
@@ -56,7 +56,7 @@ class BackgroundVideo extends Component {
               loop
               preload="auto"
             >
-              {children}
+              <source src={src} type="video/mp4" />
             </video>
           </div>
         )}

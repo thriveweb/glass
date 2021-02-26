@@ -77,6 +77,7 @@ export const ModelsPageQuery = graphql`
             title
             collection
             imageThumbnail
+            thumbnailVideo
             firstName
           }
         }
