@@ -6,7 +6,7 @@ featuredImage: >-
 featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-shadow-yes.jpg'
-thumbnailVideo: 'https://ucarecdn.com/790156b6-d758-48ed-8860-12046cf75400/'
+thumbnailVideo: ''
 firstName: Amanda
 collection: Women
 height: 168cm
