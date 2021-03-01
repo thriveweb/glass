@@ -7,6 +7,15 @@ imageThumbnail: >-
   https://ucarecdn.com/bc6035c4-c2a7-460d-8c45-af432c36f458/-/crop/3648x3945/0,0/-/preview/
 firstName: Karen
 collection: Classic
+height: 166cm
+measurementType: bust
+bust: 34 inches
+waist: 28 inches
+hips: 33 inches
+size: 8/10
+shoeSize: 38 euro
+hair: Brown
+eyes: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/ed231643-3d8f-4189-9ac1-f1706bf296f1/'
   - image: 'https://ucarecdn.com/2f7e95b1-14ca-4f21-93b0-4ea8434ff140/'
