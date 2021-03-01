@@ -6,11 +6,11 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/53d3a4bf-c634-4c02-9530-eb731848c478/'
 firstName: Felix
 collection: Boys
-height: 128cm
+height: 135cm
 bust: 60cm
 waist: 55cm
 hips: 60cm
-size: '7'
+size: '8'
 shoeSize: '2'
 hair: Light Brown
 eyes: Blue
