@@ -15,7 +15,7 @@ hips: 57cm
 size: '3'
 shoeSize: '13'
 hair: Brown
-eyes: Brown
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/bae5a2ca-1fb7-4e2b-9f1b-e4dac6c3c063/'
   - image: 'https://ucarecdn.com/535e48b2-fb17-4c65-bbb1-198ff8027d68/'
