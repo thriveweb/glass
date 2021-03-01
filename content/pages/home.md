@@ -5,10 +5,10 @@ featuredVideoMobile: 'https://ucarecdn.com/728d4a6a-646c-40c2-a356-e3a5ca535624/
 template: HomePage
 slug: ''
 subTitle: Welcome To
-title: Gold Coast Model & Talent Agency
+title: 'Gold Coast Model,Talent & Acting Agency'
 content: >-
-  A boutique modeling and talent agency based on the Gold Coast, Australia.
-  Providing professional talent of all ages.
+  A boutique agency based on the Gold Coast, Australia. Providing professional
+  talent of all ages.
 buttonText: See Our Talent
 buttonUrl: models/women
 gallery:
@@ -216,7 +216,6 @@ testimonials:
       logo: 'https://ucarecdn.com/dc19528c-fda8-4d46-bbca-fa7548987a4b/'
       name: Shoot Location Burleigh
     - title: Cotton On Kids
-      logo: 'https://ucarecdn.com/731f824f-6350-4f65-9b11-1e80dace1dd2/'
       content: >-
         Just wanted to get in touch and say a big thanks for your help on the
         Cotton On Kids shoot.
@@ -228,6 +227,7 @@ testimonials:
 
 
         \- Andy Henson (APRH Productions)
+      logo: 'https://ucarecdn.com/731f824f-6350-4f65-9b11-1e80dace1dd2/'
       name: Cotton On Kids
     - title: City Beach
       content: >-
@@ -239,8 +239,8 @@ testimonials:
 
 
         Seriously, they are so great!
-      name: Mary
       logo: 'https://ucarecdn.com/956d132d-e3d9-4140-bc47-d9f7a7293d3c/'
+      name: Mary
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
@@ -254,3 +254,4 @@ meta:
     Providing professional talent of all ages.
   title: 'Gold Coast Model & Talent Agency | Glass Management '
 ---
+
