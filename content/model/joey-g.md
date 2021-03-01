@@ -19,12 +19,15 @@ hair: Red
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/8b54b8bd-b810-4185-8f19-97556eafa967/'
-  - image: 'https://ucarecdn.com/9fb57ccf-f90a-47c1-99bb-5e4ac218cb08/'
+  - image: 'https://ucarecdn.com/000effac-b2aa-4f0e-bea2-528ee4532a77/'
   - image: 'https://ucarecdn.com/1fd66fbd-851c-425f-8f19-c2b4d5f98fc7/'
+  - image: 'https://ucarecdn.com/9fb57ccf-f90a-47c1-99bb-5e4ac218cb08/'
   - image: 'https://ucarecdn.com/62b2da4e-93a3-4b69-a2a0-79905f96234f/'
   - image: 'https://ucarecdn.com/6857e6f4-ee29-4bdd-b9f1-fc7d0f361d0b/'
   - image: 'https://ucarecdn.com/f6a224cb-8215-4824-98c6-17906104b696/'
+  - image: 'https://ucarecdn.com/095911e4-33cc-4b1f-9577-6f5a215a3300/'
   - image: 'https://ucarecdn.com/733e7253-f4ad-4d85-a8bd-4cea0c32c99c/'
+  - image: 'https://ucarecdn.com/457ff1df-617d-439e-9f03-2b3b19b4c079/'
   - image: 'https://ucarecdn.com/e8b5c42f-ac49-4560-9a1b-ec9e4c8d4d25/'
   - image: 'https://ucarecdn.com/caf582fb-0a2b-4020-adc8-131245cef0c2/'
   - image: 'https://ucarecdn.com/bc68c864-0eef-4b4d-9717-d3a826593d70/'
@@ -44,6 +47,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/873972bc-09a1-4c59-b8e5-a58346d2eae6/'
   - image: 'https://ucarecdn.com/ee40fa04-d4a0-4e1e-969e-23bc71611e94/'
   - image: 'https://ucarecdn.com/a9bfbe04-96fa-4c49-86c6-1d904d7bb3cc/'
+  - image: 'https://ucarecdn.com/1f49e41b-37d4-4724-896c-b3d8ad0890b1/'
 meta:
   title: Joey G
 ---
