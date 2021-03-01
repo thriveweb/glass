@@ -38,11 +38,12 @@
 }
 
 .section--columns-item.column-right {
-  background: linear-gradient(
+  background: var(--primary);
+  /* background: linear-gradient(
     to right,
     var(--primary) 60%,
     var(--lightGrey) 50%
-  );
+  ); */
   padding-top: 18rem;
 }
 
