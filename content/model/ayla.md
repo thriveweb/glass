@@ -8,8 +8,8 @@ firstName: Ayla
 collection: Emerging
 height: 172cm
 measurementType: bust
-bust: 85cm
-waist: 73cm
+bust: 89cm
+waist: 72cm
 hips: 88cm
 size: '8'
 shoeSize: '9'
