@@ -33,8 +33,7 @@ gallery:
   subTitle: Our Talent
   title: Explore Our Talent
 about:
-  image: >-
-    https://glassmanagement.imgix.net/images/uploads/8e8e6d8ccaa4e8063cbf3a3eb3c6c3e4-timeless-beauty-classic-beauty.jpg
+  image: ''
   subTitle: ' '
   title: Our Mission Statement
   content: >-
@@ -254,4 +253,3 @@ meta:
     Providing professional talent of all ages.
   title: 'Gold Coast Model & Talent Agency | Glass Management '
 ---
-

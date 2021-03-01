@@ -1,83 +1,70 @@
 .section--about {
-	background-color: var(--primary);
+  background-color: var(--primary);
 }
 
 .section--about .container {
-	display: flex;
-	justify-content: center;
-	align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .section--about .LazyImage {
-	position: relative;
-	top: 6rem;
-	flex: 1;
-	width: 100%;
+  position: relative;
+  top: 6rem;
+  flex: 1;
+  width: 100%;
 }
 
 .section--about-content {
-	flex: 0 0 45%;
-	margin-left: 10%;
-	padding: 4rem 0;
+  padding: 4rem 0;
+  max-width: 600px;
+  text-align: center;
+  padding: 4rem 0;
 }
 
 .section--about-content * {
-	color: white;
+  color: white;
 }
 
 .section--about-content .title {
-	color: var(--secondary);
+  color: var(--secondary);
 }
 
 .section--about-content blockquote {
-	margin: 3rem 0 2rem;
+  margin: 3rem 0 2rem;
 }
 
 .section--about-content blockquote p {
-	color: white;
+  color: white;
 }
 
 .section--about-content p {
-	color: var(--secondaryGrey);
-	line-height: 1.4;
+  color: var(--secondaryGrey);
+  line-height: 1.4;
 }
 
 .section--about-content .button {
-	margin-top: 4rem;
+  margin-top: 4rem;
 }
 
 @media only screen and (max-width: 850px) {
-	.section--about .container {
-		flex-wrap: wrap;
-	}
+  .section--about .container {
+    flex-wrap: wrap;
+  }
 
-	.section--about .LazyImage {
-		flex: 0;
-	}
+  .section--about .LazyImage {
+    flex: 0;
+  }
 
-	.section--about-content {
-		flex: 0 0 100%;
-		margin: 4rem 0 0;
-		text-align: center;
-	}
+  .section--about-content {
+    flex: 0 0 100%;
+    margin: 4rem 0 0;
+    text-align: center;
+  }
 }
 
 @media only screen and (max-width: 600px) {
-	.section--about .LazyImage {
-		min-height: 30rem;
-	}
+  .section--about .LazyImage {
+    min-height: 30rem;
+  }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
