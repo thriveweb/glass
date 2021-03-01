@@ -5,7 +5,7 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/img_0580.jpg'
 featuredVideo: 'https://ucarecdn.com/dc9aaced-4143-4362-97f1-742d2160bb01/'
 featuredVideoMobile: 'https://ucarecdn.com/ccc8de8e-9f63-4cff-b351-6dca75e994cc/'
 imageThumbnail: 'https://ucarecdn.com/53ed0a0c-ed43-4979-b23e-d51ae8146daf/'
-thumbnailVideo: 'https://ucarecdn.com/35984bf4-cee9-4105-89e1-5ac9be0e58ba/'
+thumbnailVideo: ''
 firstName: Tegan
 collection: Classic
 height: 168cm
