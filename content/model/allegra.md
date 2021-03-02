@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/9eaff309-102a-4b99-aded-77ecf2c22231/-/crop/1240x1532/643,20/-/preview/
 firstName: Allegra
 collection: Girls
-height: 131cm
+height: 133cm
 measurementType: bust
 bust: 64cm
 waist: 53cm
 hips: 65cm
-size: 7-8
-shoeSize: 1-2
+size: 8-10
+shoeSize: 3-4
 hair: Brown
 eyes: Hazel
 imagePortfolio:
