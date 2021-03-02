@@ -6,12 +6,12 @@ imageThumbnail: >-
   https://ucarecdn.com/2cfbb910-1658-41ea-87f0-90d27dedab49/-/crop/2500x3048/1784,0/-/preview/
 firstName: Chloe R
 collection: Girls
-height: 94cm
+height: 104cm
 measurementType: bust
-bust: 50cm
-waist: 50cm
+bust: 53cm
+waist: 49cm
 hips: 57cm
-size: '3'
+size: 4-5
 hair: Blonde
 eyes: Blue
 imagePortfolio:
