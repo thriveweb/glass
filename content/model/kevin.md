@@ -9,8 +9,8 @@ firstName: Kevin L
 collection: Classic
 height: 175cm
 measurementType: chest
-bust: 112-116cm
-waist: 92-96cm
+bust: 116cm
+waist: 97cm
 shoeSize: '8.5'
 hair: Fair
 eyes: Blue/Grey
