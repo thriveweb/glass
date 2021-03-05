@@ -1,8 +1,8 @@
 ---
 template: ModelPage
 title: Max
-featuredImage: 'https://ucarecdn.com/5fe26718-ab38-4962-812a-320839e53c45/'
-imageThumbnail: 'https://ucarecdn.com/79c5f403-3842-40a0-9ed6-011fbebb7051/'
+featuredImage: 'https://ucarecdn.com/b5e6cf16-caf8-4bed-9dfb-d702311792a2/'
+imageThumbnail: 'https://ucarecdn.com/657e13f3-b401-4dd0-9fea-fbf73b09c9e8/'
 firstName: Max
 collection: Global
 height: 183cm
@@ -14,7 +14,8 @@ shoeSize: '12'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/56050ddb-8b86-4295-a697-356bbe598370/'
-  - image: 'https://ucarecdn.com/42e0718a-b11c-4c0e-963e-619224e00236/'
+  - image: 'https://ucarecdn.com/8b13fc51-b8d8-4390-8b1c-599d94f31578/'
+  - image: 'https://ucarecdn.com/92636631-50ff-4371-8942-b34fcf090d35/'
+  - image: 'https://ucarecdn.com/06abff05-2480-42a4-8bbf-7512ca18ae94/'
 ---
 
