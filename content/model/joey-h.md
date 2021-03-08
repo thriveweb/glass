@@ -2,7 +2,7 @@
 template: ModelPage
 title: Joey H
 featuredImage: >-
-  https://ucarecdn.com/29e4531d-3f9e-4e6d-8bd9-2720ae7b2053/-/crop/381x228/0,12/-/preview/
+  https://ucarecdn.com/07283757-f02c-4a02-809e-54dea675ef35/-/crop/381x256/0,28/-/preview/
 imageThumbnail: 'https://ucarecdn.com/3eb13d7c-58aa-4d09-9fd5-bbe1469b0e3b/'
 firstName: Joey H
 collection: Men
