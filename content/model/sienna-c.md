@@ -3,7 +3,7 @@ template: ModelPage
 title: Sienna C
 featuredImage: 'https://ucarecdn.com/f04904e6-aa8b-41ab-ab58-85c86ea10156/'
 imageThumbnail: >-
-  https://ucarecdn.com/ecb3f4af-b583-402d-a153-5131a7b34133/-/crop/261x351/36,42/-/preview/
+  https://ucarecdn.com/7c8f6b8e-1eca-4330-9575-e00cf20ecc75/-/crop/1629x1684/4,0/-/preview/
 firstName: Sienna C
 collection: Emerging
 height: 167cm
