@@ -12,7 +12,7 @@ measurementType: bust
 bust: 87cm
 waist: 70cm
 hips: 98cm
-size: '8'
+size: '10'
 shoeSize: 39 Eur
 hair: Brown
 eyes: Blue
