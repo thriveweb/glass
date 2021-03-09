@@ -17,8 +17,10 @@ hair: Black
 eyes: Dark brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0752.jpg'
+  - image: 'https://ucarecdn.com/59bf8abb-bdfb-4aab-870b-71872b1acbf4/'
   - image: 'https://ucarecdn.com/984888fe-475c-4e24-b9ce-e69f4d1da705/'
   - image: 'https://ucarecdn.com/12307392-669a-4f10-a865-cc37f7b62578/'
+  - image: 'https://ucarecdn.com/0961b2cd-3568-4fa8-8cba-9608acf8d423/'
   - image: 'https://ucarecdn.com/d92bca65-4423-4739-864f-43aee289af0b/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/unnamed-3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/unnamed-25-1-.jpg'
@@ -27,6 +29,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/fb69e62f-dc24-4765-84fb-2840bd05bc05/'
   - image: 'https://ucarecdn.com/da89e36e-8b4e-4e85-b24a-0ca0f2c22f02/'
   - image: 'https://ucarecdn.com/a0db2d97-c7c0-4705-8456-6e8a390ed927/'
+  - image: 'https://ucarecdn.com/fab2941c-5694-4c51-8e85-f65fc0a34acf/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_0747.jpg'
   - image: 'https://ucarecdn.com/e45efbc1-5e57-4401-bb99-fd24e6f02928/'
   - image: 'https://ucarecdn.com/da7827a1-68bb-4196-a6ba-204e7177f7be/'
