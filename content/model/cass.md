@@ -6,11 +6,11 @@ imageThumbnail: >-
   https://ucarecdn.com/1a85ccb1-444d-4dd7-813b-2d359f68eead/-/crop/290x435/38,36/-/preview/
 firstName: Cass
 collection: Women
-height: 177cm
+height: 178cm
 measurementType: bust
-bust: 83cm
-waist: 64cm
-hips: 96cm
+bust: 79cm
+waist: 61cm
+hips: 90cm
 size: '8'
 shoeSize: '9'
 hair: Light brown
