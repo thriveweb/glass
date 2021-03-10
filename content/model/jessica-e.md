@@ -3,7 +3,7 @@ template: ModelPage
 title: Jessica E
 featuredImage: 'https://ucarecdn.com/5d0ac623-fb1e-4da0-8320-5c2381ff5e12/'
 imageThumbnail: >-
-  https://ucarecdn.com/4b8d145d-f13a-47ec-9302-c443d73d773e/-/crop/642x960/160,0/-/preview/
+  https://ucarecdn.com/4b8d145d-f13a-47ec-9302-c443d73d773e/-/crop/646x684/156,0/-/preview/
 firstName: Jessica E
 collection: Women
 height: 179cm
