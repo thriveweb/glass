@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Ella Warrander
+title: Ella W
 featuredImage: 'https://ucarecdn.com/6738d34f-3d7e-48d1-9d3b-eae7e90ea52e/'
 imageThumbnail: >-
   https://ucarecdn.com/1bd09938-1fc5-436b-8d23-8f96e319c0c1/-/crop/2745x4386/1322,731/-/preview/
-firstName: Ella Warrander
+firstName: Ella W
 collection: Women
 height: 181cm
 measurementType: bust
