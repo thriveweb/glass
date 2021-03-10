@@ -6,7 +6,7 @@ featuredImage: >-
 featuredVideo: 'https://ucarecdn.com/7d15969d-ad76-45f4-a255-982956343d15/'
 featuredVideoMobile: 'https://ucarecdn.com/23459c8d-1041-48f4-bf93-8124ff55eb78/'
 imageThumbnail: >-
-  https://ucarecdn.com/f84d1036-e7bb-403e-baf6-3e2d3db54af7/-/crop/1252x1895/156,94/-/preview/
+  https://ucarecdn.com/d19a6beb-2245-45ae-b0e5-0fd4b29ac0dc/-/crop/1163x1749/219,209/-/preview/
 firstName: Samuel D
 collection: Men
 height: 180cm
