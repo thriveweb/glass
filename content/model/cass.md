@@ -2,7 +2,7 @@
 template: ModelPage
 title: Cass
 featuredImage: >-
-  https://ucarecdn.com/d8779ca0-394f-46ee-9e1c-a37d6079638b/-/crop/1691x1434/0,243/-/preview/
+  https://ucarecdn.com/d8779ca0-394f-46ee-9e1c-a37d6079638b/-/crop/1691x1434/0,129/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/48b3cbd7-a2ef-4393-81ca-07ee3c0402b1/-/crop/698x904/186,0/-/preview/
 firstName: Cass
