@@ -6,12 +6,12 @@ imageThumbnail: >-
   https://ucarecdn.com/5163b30c-7e64-49e7-9e7c-7933240ca558/-/crop/829x672/0,0/-/preview/
 firstName: FIRE Daniel
 collection: Performer
-height: 5'8
+height: 178cm
 measurementType: chest
-bust: '42'
-waist: '32'
-hips: '35'
-size: L
+bust: 103cm
+waist: 89cm
+hips: 104cm
+size: 'Shirt: L  Pants: 32'
 shoeSize: '11'
 imagePortfolio:
   - image: >-
