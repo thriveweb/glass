@@ -13,7 +13,7 @@ waist: 75cm
 hips: 103cm
 size: '10'
 shoeSize: '9'
-hair: Blonde
+hair: Brown
 eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/d0ad63f5-40f0-4122-9ed6-aa50ecc7cc3d/'
