@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/bbdd9648-61e4-4e3c-b00f-52a2cf867df5/-/crop/1170x753/0,60/-/preview/
 imageThumbnail: 'https://ucarecdn.com/453a7bc7-2074-440b-8fc2-492edcceb6be/'
 firstName: 'Olivia '
-collection: Girls
+collection: Emerging
 height: 175cm
 measurementType: bust
 bust: 71cm
