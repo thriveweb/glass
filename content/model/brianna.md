@@ -8,11 +8,11 @@ firstName: Brianna
 collection: Women
 height: 176cm
 measurementType: bust
-bust: 84cm
-waist: 61cm
-hips: 91cm
+bust: 78cm
+waist: 63cm
+hips: 82cm
 size: '6'
-shoeSize: '8'
+shoeSize: 7-8
 hair: Blonde
 eyes: Aqua
 imagePortfolio:
