@@ -17,6 +17,7 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/f29b1561-5717-4f4d-a8a8-d0680b169ae6/'
+  - image: 'https://ucarecdn.com/b2806e4b-de2e-451d-865f-19fa75eb4401/'
   - image: 'https://ucarecdn.com/41765a0e-6f44-4ba5-acf8-f5f7a6d2d69c/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-new-8.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/celeste-new-.jpg'
