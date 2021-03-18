@@ -7,9 +7,9 @@ firstName: Nadine
 collection: Women
 height: 166cm
 measurementType: bust
-bust: 88cm
-waist: 70cm
-hips: 94cm
+bust: 92cm
+waist: 77cm
+hips: 86cm
 size: 8-10
 shoeSize: '8'
 hair: Brown
