@@ -3,7 +3,7 @@ template: ModelPage
 title: Olivia
 featuredImage: >-
   https://ucarecdn.com/bbdd9648-61e4-4e3c-b00f-52a2cf867df5/-/crop/1170x753/0,60/-/preview/
-imageThumbnail: 'https://ucarecdn.com/453a7bc7-2074-440b-8fc2-492edcceb6be/'
+imageThumbnail: 'https://ucarecdn.com/3b7cee6b-eac1-4e57-8d75-9b67e7e3fe3a/'
 firstName: 'Olivia '
 collection: Emerging
 height: 175cm
@@ -23,5 +23,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0b32f59d-1773-4246-a6f3-038f380c086c/'
   - image: 'https://ucarecdn.com/209d2a16-b2c7-4018-bf40-861b955b5842/'
   - image: 'https://ucarecdn.com/a2b15eba-e735-4833-81df-c0f58bb748a5/'
+  - image: 'https://ucarecdn.com/c0ae78e7-1ac3-47b8-9b62-44a2e870d22f/'
 ---
 
