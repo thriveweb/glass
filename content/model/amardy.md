@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Amardy
-featuredImage: 'https://ucarecdn.com/b07a6ac7-b971-4c92-9e0c-bd88e3613e4b/'
+featuredImage: >-
+  https://ucarecdn.com/b07a6ac7-b971-4c92-9e0c-bd88e3613e4b/-/crop/5278x2406/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/7ca720ae-9126-4cd4-bda1-0b01016ad579/-/crop/930x1000/484,422/-/preview/
 firstName: Amardy
