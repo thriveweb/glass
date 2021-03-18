@@ -15,7 +15,7 @@ shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - {}
+  - image: 'https://ucarecdn.com/bcdff205-7531-4453-adb0-c9549501476c/'
 meta: {}
 ---
 
