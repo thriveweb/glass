@@ -3,7 +3,7 @@ template: ModelPage
 title: Mr Big
 featuredImage: 'https://ucarecdn.com/c64f9b89-f6ea-4b0a-a351-5089190356e5/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/rich2.jpg'
-thumbnailVideo: 'https://ucarecdn.com/dd5db301-1692-4514-a85b-4f6fc42f3a2b/'
+thumbnailVideo: ''
 firstName: Mr Big
 collection: Classic
 height: 187cm
