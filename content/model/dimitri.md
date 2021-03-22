@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/a03475d7-bfcc-4d77-973b-174662c2dccc/-/crop/5179x2881/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/4ebadb1d-1089-4718-b275-99692da24ed6/'
 firstName: Dimitri
-collection: Men
+collection: Classic
 measurementType: chest
 size: 'Shirt: M/L     Pants: 32'
 hair: Brown
