@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Jayden
+title: Jayden C
 featuredImage: 'https://ucarecdn.com/565eea2f-be1e-477a-80d0-22ec9cfdf2e9/'
 imageThumbnail: 'https://ucarecdn.com/0c91105c-6c3d-43bb-9799-45865b1c8e43/'
-firstName: Jayden
+firstName: Jayden C
 collection: Global
 height: 176cm
 imagePortfolio:
