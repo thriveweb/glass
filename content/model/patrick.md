@@ -1,8 +1,8 @@
 ---
-title: Patrick
 template: ModelPage
-featuredImage: https://glassmanagement.imgix.net/images/uploads/pat-21-land-1-1-.jpg
-imageThumbnail: https://glassmanagement.imgix.net/images/uploads/pat-head-shot.jpg
+title: Patrick
+featuredImage: 'https://glassmanagement.imgix.net/images/uploads/pat-21-land-1-1-.jpg'
+imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/pat-head-shot.jpg'
 firstName: Patrick
 collection: Men
 height: 181cm
@@ -15,19 +15,20 @@ shoeSize: '10'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-3.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-23.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-1.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-16.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-4.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-9.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-11.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-14.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-17.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-24.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-26.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-27.jpg
-  - image: https://glassmanagement.imgix.net/images/uploads/pat-28.jpg
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-3.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-23.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-1.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-16.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-4.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-9.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-11.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-14.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-17.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-24.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-26.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-27.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/pat-28.jpg'
+  - image: 'https://ucarecdn.com/41fe0051-e489-42ce-8826-260c12d99d1b/'
 meta:
   title: Patrick
 ---
