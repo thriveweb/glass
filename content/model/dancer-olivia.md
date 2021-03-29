@@ -3,7 +3,7 @@ template: ModelPage
 title: 'DANCER Olivia '
 featuredImage: 'https://ucarecdn.com/265ed215-b14f-4fea-ad3d-3b30cb3b4c5d/'
 imageThumbnail: 'https://ucarecdn.com/46143d1a-3f4c-41dd-a884-557d0e04df19/'
-firstName: Olivia
+firstName: DANCER Olivia
 collection: Performer
 height: 175cm
 measurementType: bust
