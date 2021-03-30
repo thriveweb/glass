@@ -4,7 +4,7 @@ title: Luke S
 featuredImage: >-
   https://ucarecdn.com/3e74b46a-944b-4906-8de0-acdf189b848c/-/crop/1279x727/0,341/-/preview/
 imageThumbnail: 'https://ucarecdn.com/718cd7f3-5ee2-4ff8-96e8-b07f07166cc7/'
-firstName: Luke
+firstName: Luke S
 collection: Men
 height: 172cm
 measurementType: chest
