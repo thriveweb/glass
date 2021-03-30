@@ -2,9 +2,8 @@
 template: ModelPage
 title: Melissa C
 featuredImage: >-
-  https://ucarecdn.com/cd7aa3d1-7373-4d10-8e77-fea6cfe8fdef/-/crop/2420x1230/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/c6e3c1fb-91b3-40ae-8169-a01f9d73d00b/-/crop/1025x1457/268,0/-/preview/
+  https://ucarecdn.com/fb1a9713-8e9b-4abd-b107-8f5b137ddfa2/-/crop/1632x1304/0,173/-/preview/
+imageThumbnail: 'https://ucarecdn.com/17b9f96f-3e4e-44e8-8e6b-676c9708a292/'
 firstName: Melissa C
 collection: Classic
 height: 176cm
@@ -17,12 +16,17 @@ shoeSize: '8.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/e8f8e602-9a3d-42a6-9512-b973f5b86340/'
-  - image: 'https://ucarecdn.com/4fdf604b-8054-456d-9926-3344d78e7e49/'
-  - image: 'https://ucarecdn.com/119cdb98-223f-4e35-beab-47068d0e0e8a/'
-  - image: 'https://ucarecdn.com/f3f712ab-4d77-4182-84dc-e885050882e2/'
-  - image: 'https://ucarecdn.com/e91391d0-cb0f-45f6-b84d-dbed27f258fa/'
+  - image: 'https://ucarecdn.com/90f5da55-36b2-4dcd-b7bd-aec3a5ef3921/'
+  - image: 'https://ucarecdn.com/ef33336d-e596-4500-9379-f2ee41d417a1/'
   - image: 'https://ucarecdn.com/74dad773-b463-438f-9be1-e9c5eb76a479/'
+  - image: 'https://ucarecdn.com/370c6e35-1657-405c-ab88-da852e8f76de/'
+  - image: 'https://ucarecdn.com/53d68a3f-40d4-4eff-9691-137b8f202015/'
+  - image: 'https://ucarecdn.com/58ed9ae6-ed46-4ba5-bd91-4a3e65af56f4/'
+  - image: 'https://ucarecdn.com/cb067a9c-04fb-49f4-9b81-565f08dc468b/'
+  - image: 'https://ucarecdn.com/5859e505-4dbb-4174-b3e9-dce3bd1af16f/'
   - image: 'https://ucarecdn.com/181a005f-d708-4be3-98c4-eab9111b6bbb/'
+  - image: 'https://ucarecdn.com/5a260945-1519-4099-a736-04cfac71a5f6/'
+  - image: 'https://ucarecdn.com/02832abc-b91a-4a1f-9421-4ea6edd12072/'
+  - image: 'https://ucarecdn.com/bde89698-ea81-44f5-ba3e-ff269cd2ed9b/'
 ---
 
