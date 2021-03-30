@@ -3,7 +3,8 @@ template: ModelPage
 title: Nick
 featuredImage: >-
   https://ucarecdn.com/29a23ee0-1bde-48e0-8949-9aa442d21fa0/-/crop/1732x1261/0,333/-/preview/
-imageThumbnail: 'https://ucarecdn.com/16cc582d-b164-4ab0-95bf-644926bf8db8/'
+imageThumbnail: >-
+  https://ucarecdn.com/63bbf250-066c-4916-bc71-d5cce5772b62/-/crop/1626x1647/43,48/-/preview/
 firstName: Nick
 collection: Global
 imagePortfolio:
