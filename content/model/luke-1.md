@@ -3,7 +3,8 @@ template: ModelPage
 title: Luke S
 featuredImage: >-
   https://ucarecdn.com/3e74b46a-944b-4906-8de0-acdf189b848c/-/crop/1279x727/0,341/-/preview/
-imageThumbnail: 'https://ucarecdn.com/718cd7f3-5ee2-4ff8-96e8-b07f07166cc7/'
+imageThumbnail: >-
+  https://ucarecdn.com/718cd7f3-5ee2-4ff8-96e8-b07f07166cc7/-/crop/1069x1057/14,71/-/preview/
 firstName: Luke S
 collection: Men
 height: 172cm
