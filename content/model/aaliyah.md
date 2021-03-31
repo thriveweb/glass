@@ -6,7 +6,9 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/04a1d5d8-8762-46c2-bf29-3d7b734bd32b/'
 firstName: Aaliyah
 collection: Girls
-size: Kids 4
+height: 105cm
+size: Kids 5
+shoeSize: '29'
 hair: Brown
 eyes: Brown
 imagePortfolio:
