@@ -4,7 +4,7 @@ title: DRAG Evalyn Eatdith
 featuredImage: 'https://ucarecdn.com/9c5fbd7b-6233-47fb-aff4-e59b8c270247/'
 imageThumbnail: >-
   https://ucarecdn.com/2c167e66-5abd-411f-847d-8eeeb458cec3/-/preview/-/rotate/270/
-firstName: Evalyn Eatdith
+firstName: DRAG Evalyn Eatdith
 collection: Performer
 height: 173cm
 size: Medium/Large
