@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Brittany M
-featuredImage: 'https://ucarecdn.com/96a0ff03-2199-4323-8671-e45714d3b62a/'
+featuredImage: >-
+  https://ucarecdn.com/96a0ff03-2199-4323-8671-e45714d3b62a/-/crop/2025x846/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b1c0eb33-9771-4ea1-8bfc-d9c17ddbe5bf/-/crop/796x1202/256,0/-/preview/
 firstName: Brittany M
