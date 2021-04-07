@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Meg
-featuredImage: >-
-  https://ucarecdn.com/61e5b839-36ac-4cd1-8428-6c784ec99879/-/crop/395x297/0,58/-/preview/
+featuredImage: 'https://ucarecdn.com/36d7f7d1-574e-4fa4-be0d-befe8a9234a2/'
 imageThumbnail: >-
   https://ucarecdn.com/6975b2a4-36f5-4668-b70d-ed910ceca547/-/crop/336x431/29,53/-/preview/
 firstName: Meg
