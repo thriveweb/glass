@@ -1,9 +1,10 @@
 ---
 template: ModelPage
 title: Meg
-featuredImage: 'https://ucarecdn.com/cebfc38f-77ff-4fc6-9fee-b20223c04353/-/preview/'
+featuredImage: >-
+  https://ucarecdn.com/61e5b839-36ac-4cd1-8428-6c784ec99879/-/crop/395x297/0,58/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/1e8c4d75-0266-4ae6-b6a6-145d691a3f23/-/crop/378x523/0,0/-/preview/
+  https://ucarecdn.com/6975b2a4-36f5-4668-b70d-ed910ceca547/-/crop/336x431/29,53/-/preview/
 firstName: Meg
 collection: Women
 height: 174cm
