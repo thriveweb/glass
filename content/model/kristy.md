@@ -3,7 +3,7 @@ template: ModelPage
 title: 'Kristy '
 featuredImage: 'https://ucarecdn.com/3c64536f-c4ed-4fd5-b93d-164cfc5e9165/'
 imageThumbnail: >-
-  https://ucarecdn.com/e62fcd91-0da1-4b17-9059-d45d8f7f7b6b/-/crop/1286x1297/204,311/-/preview/
+  https://ucarecdn.com/e62fcd91-0da1-4b17-9059-d45d8f7f7b6b/-/crop/697x985/491,399/-/preview/
 firstName: Kristy
 collection: Classic
 height: 178cm
