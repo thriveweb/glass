@@ -6,7 +6,12 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/ff0c9186-431d-41ef-81c8-e56a132e692e/'
 firstName: Adam W
 collection: Men
+height: 183cm
+measurementType: chest
+bust: 91cm
+waist: 79cm
 size: M
+shoeSize: '7'
 hair: 'Brown '
 eyes: Blue
 imagePortfolio:
