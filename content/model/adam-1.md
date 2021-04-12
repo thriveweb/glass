@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Adam
+title: Adam W
 featuredImage: >-
   https://ucarecdn.com/2f89fe34-95bb-4020-a49a-a2210926085d/-/crop/785x599/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/ff0c9186-431d-41ef-81c8-e56a132e692e/'
-firstName: Adam
+firstName: Adam W
 collection: Men
 size: M
 hair: 'Brown '
