@@ -5,11 +5,11 @@ featuredImage: 'https://ucarecdn.com/75f304ba-5ae8-49f9-870f-62d171b9273e/'
 imageThumbnail: 'https://ucarecdn.com/112a887e-6636-4c1a-9122-5c9f6c0ffb7b/'
 firstName: Kellie
 collection: Global
-height: 162cm
+height: 163cm
 measurementType: bust
-bust: 29in
-waist: 24in
-hips: 34in
+bust: 74cm
+waist: 61cm
+hips: 86cm
 size: '6'
 shoeSize: '8'
 hair: Blonde
