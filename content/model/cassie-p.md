@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Cassie P
-featuredImage: 'https://ucarecdn.com/8ff9e4f2-f486-41f4-b433-4257819d6a0d/'
+featuredImage: 'https://ucarecdn.com/77be0932-1330-4fe3-acdd-62481f828ae2/'
 imageThumbnail: 'https://ucarecdn.com/e84a1261-3900-4d48-898d-e43015193596/'
 firstName: Cassie P
 collection: Classic
@@ -20,6 +20,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/23e20566-f5cc-469a-bd30-9ad6b379af1f/'
   - image: 'https://ucarecdn.com/a8318a8e-c056-4d97-bec7-12fb1739a610/'
   - image: 'https://ucarecdn.com/883e877f-ed27-4c3c-8e08-6ecd81ab117c/'
+  - image: 'https://ucarecdn.com/ef9163fa-dacc-4ee5-a3d5-7b7ae7f555bf/'
 meta: {}
 ---
 
