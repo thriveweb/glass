@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/14f54e7f-bca4-45ef-9bac-733dcf4f28ee/-/crop/2894x3648/1327,0/-/preview/
 firstName: Jasmine E
 collection: Emerging
-height: 174cm
+height: 180cm
 measurementType: bust
 bust: 80cm
 waist: 64cm
