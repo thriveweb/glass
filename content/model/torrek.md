@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/59c6de67-6614-40e9-9e42-452803f96f7a/'
 firstName: Torrek
 collection: Boys
-height: 180cm
+height: 185cm
 measurementType: chest
 bust: 78cm
 waist: 70.5cm
