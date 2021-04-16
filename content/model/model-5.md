@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/d47e3804-3420-4447-95ac-2cd2f6e95694/-/crop/2184x1625/265,0/-/preview/
 firstName: Sienna
 collection: Emerging
-height: 168cm
+height: 171cm
 measurementType: bust
 bust: 80cm
 waist: 62cm
