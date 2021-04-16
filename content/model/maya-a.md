@@ -2,8 +2,8 @@
 template: ModelPage
 title: 'Maya '
 featuredImage: 'https://ucarecdn.com/06b58d49-8453-4599-8646-04ea902c0cc5/'
-featuredVideo: 'https://ucarecdn.com/e25153b2-bc03-4b45-9168-a54958f56f20/'
-featuredVideoMobile: 'https://ucarecdn.com/7bb18863-77fa-49d8-b240-3f80dc84cbcf/'
+featuredVideo: 'https://ucarecdn.com/a5d41a85-c4fd-4d0f-9858-f441472e3805/'
+featuredVideoMobile: 'https://ucarecdn.com/ae9796c4-c827-46c1-bbe0-7b7c40434ca5/'
 imageThumbnail: 'https://ucarecdn.com/6c5db773-45aa-4b80-af9d-e2e4be4b9573/'
 firstName: Maya A
 collection: Emerging
