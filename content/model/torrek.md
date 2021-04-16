@@ -26,9 +26,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/d1d49c74-bbdf-4079-98a9-d7ed32c5b445/'
   - image: 'https://ucarecdn.com/0c1b0009-722d-4ec4-9890-bde8ebf91067/'
   - image: 'https://ucarecdn.com/95edafce-6f3f-42c2-b9fb-a5d6a4785e86/'
-  - image: 'https://ucarecdn.com/bc88215c-952c-4dd0-bc37-9c0a257b4c09/'
-  - image: 'https://ucarecdn.com/dac2ca8f-c9fb-487b-8e14-bbf655aa7366/'
-  - image: 'https://ucarecdn.com/550b2b01-e6d5-48a7-8385-a7422ee530a4/'
+  - image: ''
+  - image: ''
   - {}
 meta:
   title: Torrek
