@@ -12,7 +12,7 @@ bust: 78cm
 waist: 70.5cm
 hips: 76.5cm
 size: '14 Pants, 16 Shirt'
-shoeSize: 10 US
+shoeSize: 12 US
 hair: Brown
 eyes: Blue
 imagePortfolio:
