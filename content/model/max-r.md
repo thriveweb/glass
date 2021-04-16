@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/c3a08e8a-9fd4-4865-92ab-5b2b34706065/'
 imageThumbnail: 'https://ucarecdn.com/d435f4c3-a302-4094-84c5-01fa18fbf8be/'
 firstName: Max R
 collection: Boys
-height: 147cm
+height: 150cm
 measurementType: chest
 bust: 71cm
 waist: 64cm
