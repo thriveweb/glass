@@ -11,7 +11,7 @@ measurementType: bust
 bust: 80cm
 waist: 64cm
 hips: 73cm
-size: '6 '
+size: 6-8
 shoeSize: '6'
 hair: Blonde
 eyes: Brown
