@@ -55,6 +55,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/5eede0f8-8707-4f2a-aefc-7ff8ba7ee2a6/'
   - image: 'https://ucarecdn.com/436f1e81-9a1c-4d2e-a7e9-f16ca9ed6c0b/'
   - image: 'https://ucarecdn.com/5cd77378-b5dc-4e14-8ea5-0d8f5a5fcb0d/'
+  - image: 'https://ucarecdn.com/4768f9aa-f50f-46cc-b3e4-1fa8f57b66a5/'
 meta:
   title: Montez
 ---
