@@ -32,6 +32,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a06d4980-3162-4f98-8859-ec9810776091/'
   - image: 'https://ucarecdn.com/fdf9c772-e520-41e0-89dc-6ef254ce23cf/'
   - image: 'https://ucarecdn.com/78fade72-3094-4ec5-a000-e0a1c1d03ddf/'
+  - image: 'https://ucarecdn.com/9a3692cd-fdfa-4772-9bbd-401c611076cb/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-1444.jpg'
   - image: 'https://ucarecdn.com/c4757b13-b02b-411c-b62f-ca62e565052b/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-3.jpg'
@@ -39,6 +40,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-shadow-yes.jpg'
   - image: 'https://ucarecdn.com/cf1a9af0-75f2-4d30-b290-3e02c0d9e425/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-13131313.jpg'
+  - image: 'https://ucarecdn.com/712b4a8b-1941-44fb-9364-079126a40452/'
 meta:
   canonicalLink: ''
   noindex: false
