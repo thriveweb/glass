@@ -3,7 +3,8 @@ template: ModelPage
 title: Brianna
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/brianna543768.jpg'
 featuredVideo: 'https://ucarecdn.com/d6f96008-0af3-4e47-8ba7-75596282f12b/'
-imageThumbnail: 'https://ucarecdn.com/dbc63cd0-8824-45b6-aa9d-78e3713db666/'
+imageThumbnail: >-
+  https://ucarecdn.com/a5856ff7-4e4e-4c09-8847-8dbb20c025a8/-/crop/670x729/74,4/-/preview/
 firstName: Brianna
 collection: Women
 height: 176cm
