@@ -21,6 +21,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia6.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia-co.-6-of-31-.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia.jpg'
+  - image: 'https://ucarecdn.com/f8f929ad-9395-4542-8498-bd6da397a447/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia-co.-25-of-31-.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia3.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/4-t7j1.jpg'
