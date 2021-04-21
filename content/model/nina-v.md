@@ -11,7 +11,7 @@ measurementType: bust
 bust: 86cm
 waist: 71cm
 hips: 89cm
-size: '12'
+size: '6'
 shoeSize: 35/36
 hair: Dark Brown
 eyes: Brown
