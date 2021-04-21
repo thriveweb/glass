@@ -6,6 +6,8 @@ imageThumbnail: >-
   https://ucarecdn.com/4ea842ff-be4a-462b-83b5-3cff94547cee/-/crop/1115x1462/354,224/-/preview/
 firstName: Jelka
 collection: Global
+hair: Brown
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/7f202129-c6bd-4e30-843f-905468cd75bb/'
   - image: 'https://ucarecdn.com/0dc3fdc5-0900-48d6-ba52-24a03075043f/'
