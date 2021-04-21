@@ -2,7 +2,7 @@
 template: ModelPage
 title: Grace
 featuredImage: >-
-  https://ucarecdn.com/1b9ce449-8d69-43c1-a24a-d94fe8b33435/-/crop/2449x1159/0,173/-/preview/
+  https://ucarecdn.com/1b9ce449-8d69-43c1-a24a-d94fe8b33435/-/crop/2437x1287/0,45/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/ba8c87e6-2eda-4ba3-9f9e-16134c5f9f3a/-/crop/763x1050/404,316/-/preview/
 firstName: Grace
