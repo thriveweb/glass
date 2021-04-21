@@ -17,9 +17,10 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/joe2637.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/4-t7j1.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/unnamed-18.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/joe2.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/joe1.png'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/unnamed-18.jpg'
+  - image: 'https://ucarecdn.com/3f2ee2d2-efe6-4552-844f-e0741cdc9fd0/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/joe2.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/joe3.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia-joe238479.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/t-j.jpg'
