@@ -4,7 +4,7 @@ title: Amardy
 featuredImage: >-
   https://ucarecdn.com/b07a6ac7-b971-4c92-9e0c-bd88e3613e4b/-/crop/5278x2406/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/7ca720ae-9126-4cd4-bda1-0b01016ad579/-/crop/930x1000/484,422/-/preview/
+  https://ucarecdn.com/66a2eb19-9eb5-4e10-b24d-1b3e443b8eaa/-/crop/1563x1793/0,207/-/preview/
 firstName: Amardy
 collection: Classic
 height: 178cm
@@ -17,11 +17,18 @@ shoeSize: '10'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/98cca4d4-5122-4316-8a24-d167af2b3085/'
+  - image: 'https://ucarecdn.com/8e622e2f-481f-41f7-bd40-617fceb20ada/'
+  - image: 'https://ucarecdn.com/97e794fd-9eea-4757-b5cb-03af3b510ace/'
+  - image: 'https://ucarecdn.com/f45549f9-df33-44ed-94f8-ab34d800e976/'
+  - image: 'https://ucarecdn.com/509ec111-c3c2-4e93-82d8-2d97f643b8da/'
+  - image: 'https://ucarecdn.com/92c67ddb-9409-42c5-ab06-b8cf0cef57aa/'
   - image: 'https://ucarecdn.com/7ceae65c-cf1e-4b11-9e2f-505c341d2597/'
-  - image: 'https://ucarecdn.com/1b78249c-6afc-4ac5-908c-6b1646af0d41/'
+  - image: 'https://ucarecdn.com/9b09773b-06fa-4a91-badb-284cd0ef972c/'
+  - image: 'https://ucarecdn.com/a7ac997b-a190-4050-ad2d-104465c9959d/'
+  - image: 'https://ucarecdn.com/6821bb86-65cb-4f10-a521-1e459ec67002/'
   - image: 'https://ucarecdn.com/9053351b-0117-45a0-9c1f-f05a9878aec8/'
+  - image: 'https://ucarecdn.com/9c86ffb4-7e17-4c72-b4cb-bb37d4918a9d/'
+  - image: 'https://ucarecdn.com/6123c55e-1783-483c-bbe3-ad095201fb89/'
   - image: 'https://ucarecdn.com/718b8ea1-b721-423f-808a-cf609bb5253c/'
-  - image: 'https://ucarecdn.com/eec92b71-b95f-49ed-83d6-f9ef3381cb51/'
 ---
 
