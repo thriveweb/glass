@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/b0299e39-614e-42ce-a039-03130a9eba14/-/crop/879x1222/270,179/-/preview/
 firstName: Jassie C
 collection: Girls
-height: 151cm
+height: 159cm
 measurementType: bust
 bust: 68cm
 waist: 59cm
