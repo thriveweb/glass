@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/89c8e89c-714f-4077-b0b9-b3d656d8789c/'
 imageThumbnail: 'https://ucarecdn.com/cd200ea8-379b-4048-a6de-6b56ea2bd740/'
 firstName: Jade
 collection: Girls
-height: 129cm
+height: 127cm
 measurementType: bust
 bust: 59m
 waist: 53cm
