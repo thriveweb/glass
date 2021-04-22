@@ -14,7 +14,7 @@ measurementType: chest
 bust: 105cm
 waist: 81cm
 hips: 86cm
-size: 'Shirt: M   Pants: 32'
+size: 'Shirt: M/L   Pants: 32'
 shoeSize: '9.5'
 hair: Brown
 eyes: Hazel
