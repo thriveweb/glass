@@ -2,8 +2,8 @@
 template: ModelPage
 title: Kay
 featuredImage: 'https://ucarecdn.com/418edfeb-d9a0-4479-be2a-d9d5183b69df/'
-featuredVideo: ''
-featuredVideoMobile: ''
+featuredVideo: 'https://ucarecdn.com/8e6b8909-211e-4877-9462-0923cc3e85aa/'
+featuredVideoMobile: 'https://ucarecdn.com/f9fd7c5e-41e8-4e44-b87c-41c2767c2127/'
 imageThumbnail: >-
   https://ucarecdn.com/9a49dbf8-a387-44ca-b7dc-083511b0069b/-/crop/799x883/291,114/-/preview/
 firstName: Annie
