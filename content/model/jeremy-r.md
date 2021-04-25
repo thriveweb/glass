@@ -12,7 +12,7 @@ bust: 101cm
 waist: 88cm
 hips: 36 inch pant
 size: XL Shirt
-shoeSize: '7.5'
+shoeSize: '8'
 hair: Grey
 eyes: Blue
 imagePortfolio:
