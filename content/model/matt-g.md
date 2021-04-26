@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Matt G
-featuredImage: 'https://ucarecdn.com/5154bb10-ab39-4819-8c99-f58af1bb3214/'
+featuredImage: 'https://ucarecdn.com/92aa84da-b951-4e31-a8cc-76ffa2274fb1/'
 imageThumbnail: 'https://ucarecdn.com/ed332637-7947-4943-92c9-bd5679ff6792/'
 firstName: Matt G
 collection: Classic
