@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Melissa C
-featuredImage: >-
-  https://ucarecdn.com/fb1a9713-8e9b-4abd-b107-8f5b137ddfa2/-/crop/1632x1304/0,173/-/preview/
+featuredImage: 'https://ucarecdn.com/bb7878af-bdcd-4e1b-bfb3-a9e871ee9b7b/'
 imageThumbnail: 'https://ucarecdn.com/17b9f96f-3e4e-44e8-8e6b-676c9708a292/'
 firstName: Melissa C
 collection: Classic
