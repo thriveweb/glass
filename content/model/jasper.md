@@ -5,13 +5,13 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/jasper3274.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/jasper-hs.jpg'
 firstName: Jasper
 collection: Boys
-height: 129cm
+height: 135cm
 measurementType: chest
-bust: 66cm
-waist: 57cm
-hips: 66cm
-size: 8-9
-shoeSize: 2-3
+bust: 67cm
+waist: 60cm
+hips: 68cm
+size: 9-10
+shoeSize: 3-4
 hair: Brown
 eyes: Aqua
 imagePortfolio:
