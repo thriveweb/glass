@@ -3,7 +3,7 @@ template: ModelPage
 title: Ranti
 featuredImage: 'https://ucarecdn.com/b4df4d20-122a-4b96-9edb-bbb764683e7c/'
 imageThumbnail: >-
-  https://ucarecdn.com/6cb71f77-8c78-4d2d-95a5-de2a2ec5542b/-/crop/1306x1487/205,5/-/preview/
+  https://ucarecdn.com/748f05b3-0f67-4a83-b65c-b6fa47c7031e/-/crop/1528x2037/0,112/-/preview/
 firstName: Ranti
 collection: Global
 height: 164cm
