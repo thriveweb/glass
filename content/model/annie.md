@@ -10,9 +10,9 @@ firstName: Annie
 collection: Women
 height: 171cm
 measurementType: bust
-bust: 86cm
-waist: 66cm
-hips: 85cm
+bust: 82cm
+waist: 63cm
+hips: 84cm
 size: '8'
 shoeSize: '8'
 hair: Black
