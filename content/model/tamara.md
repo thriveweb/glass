@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/652347d0-9d6a-442a-8fdc-f02f96faf231/-/crop/4480x2875/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/d083968f-a15b-4439-a52b-87d3ad5aa3b6/'
 firstName: Tamara
-collection: Emerging
+collection: Women
 height: 175cm
 measurementType: bust
 bust: 81cm
