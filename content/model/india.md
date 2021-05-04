@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/5d577430-582d-41dc-868b-5aa01599cf28/'
 imageThumbnail: 'https://ucarecdn.com/e342fc5f-4ffa-4c5c-9db3-77d5bf6c44f2/'
 firstName: India
 collection: Emerging
-height: 160cm
+height: 164cm
 measurementType: bust
 bust: 70cm
 waist: 65cm
