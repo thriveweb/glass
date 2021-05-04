@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/b4df4d20-122a-4b96-9edb-bbb764683e7c/'
 imageThumbnail: >-
   https://ucarecdn.com/748f05b3-0f67-4a83-b65c-b6fa47c7031e/-/crop/1528x2037/0,112/-/preview/
 firstName: Ranti
-collection: Global
+collection: Classic
 height: 164cm
 measurementType: bust
 bust: '-'
