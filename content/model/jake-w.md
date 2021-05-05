@@ -4,7 +4,7 @@ title: Jake W
 featuredImage: >-
   https://ucarecdn.com/e67252d1-1949-498f-8ce5-adfb6566e79d/-/crop/592x310/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/5cbef28d-1cfd-4d6e-9980-f9e34b856d75/-/crop/4439x5118/968,0/-/preview/
+  https://ucarecdn.com/5cbef28d-1cfd-4d6e-9980-f9e34b856d75/-/crop/3374x4311/1553,385/-/preview/
 firstName: Jake W
 collection: Boys
 height: 152cm
