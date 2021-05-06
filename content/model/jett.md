@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jett
 featuredImage: >-
-  https://ucarecdn.com/ec025607-c69f-49aa-8482-22857e09139b/-/crop/2449x999/0,0/-/preview/
+  https://ucarecdn.com/d3b95031-3e73-481b-b3a7-f5d1b04ddad6/-/crop/826x448/0,324/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/e6fa55c7-0816-4145-a18f-af306998e091/-/crop/1573x1636/0,0/-/preview/
 firstName: Jett
@@ -19,6 +19,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/ceb182be-11d7-4841-bc9d-ce54f123c142/'
   - image: 'https://ucarecdn.com/5cd97082-a95c-4729-b008-b87c23d76c5c/'
+  - image: 'https://ucarecdn.com/d5f89151-a145-4a02-a2a6-dffa9dac7806/'
   - image: 'https://ucarecdn.com/435e78c0-71ff-491b-9cff-3eb320194cb8/'
   - image: 'https://ucarecdn.com/0cd83a5b-135a-4218-86aa-8595fecd7593/'
   - image: 'https://ucarecdn.com/ee8a6349-6aca-400b-a315-91bc2e0e95da/'
