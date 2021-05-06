@@ -2,7 +2,8 @@
 template: ModelPage
 title: Jessica
 featuredImage: 'https://ucarecdn.com/9ea31f3a-fcb6-4a15-be02-0ac3cbcc4581/'
-imageThumbnail: 'https://ucarecdn.com/763cd43d-89d6-4ac2-bb00-31f49ffa3351/'
+imageThumbnail: >-
+  https://ucarecdn.com/32c14bbe-3904-4b98-8124-d0bdd88d3d57/-/crop/1633x2058/0,0/-/preview/
 firstName: Jessica
 collection: Classic
 height: 171cm
