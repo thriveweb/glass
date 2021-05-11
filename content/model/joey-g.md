@@ -19,12 +19,11 @@ hair: Red
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/8b54b8bd-b810-4185-8f19-97556eafa967/'
-  - image: 'https://ucarecdn.com/000effac-b2aa-4f0e-bea2-528ee4532a77/'
+  - image: 'https://ucarecdn.com/be1b04f7-7c09-440c-8c92-a2cbb7a0654f/'
   - image: 'https://ucarecdn.com/1fd66fbd-851c-425f-8f19-c2b4d5f98fc7/'
   - image: 'https://ucarecdn.com/9fb57ccf-f90a-47c1-99bb-5e4ac218cb08/'
   - image: 'https://ucarecdn.com/62b2da4e-93a3-4b69-a2a0-79905f96234f/'
-  - image: 'https://ucarecdn.com/6857e6f4-ee29-4bdd-b9f1-fc7d0f361d0b/'
-  - image: 'https://ucarecdn.com/f6a224cb-8215-4824-98c6-17906104b696/'
+  - image: 'https://ucarecdn.com/7d341183-f0ff-4369-b893-9fd56cfe7a31/'
   - image: 'https://ucarecdn.com/095911e4-33cc-4b1f-9577-6f5a215a3300/'
   - image: 'https://ucarecdn.com/733e7253-f4ad-4d85-a8bd-4cea0c32c99c/'
   - image: 'https://ucarecdn.com/457ff1df-617d-439e-9f03-2b3b19b4c079/'
@@ -40,8 +39,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/f85a61f0-7ef2-4749-adf4-0ea93d628fca/'
   - image: 'https://ucarecdn.com/a9090229-07f1-46a2-b097-ce8312cb4905/'
   - image: 'https://ucarecdn.com/de16cba6-aac9-425b-85eb-961e83b53cab/'
-  - image: 'https://ucarecdn.com/28fe21e0-ebe0-423e-a9a6-18382fcaaa8c/'
-  - image: 'https://ucarecdn.com/06e4eeb3-986e-4858-a80d-69fb4cf2bb8a/'
   - image: 'https://ucarecdn.com/497f2dc6-10c7-419c-8e73-4bd4c8476e22/'
   - image: 'https://ucarecdn.com/86a9b025-9e54-42b9-ac17-391ffe9717bb/'
   - image: 'https://ucarecdn.com/873972bc-09a1-4c59-b8e5-a58346d2eae6/'
