@@ -8,9 +8,9 @@ firstName: Kayla
 collection: Women
 height: 173cm
 measurementType: bust
-bust: 84cm
-waist: 65cm
-hips: 70cm
+bust: 86cm
+waist: 71cm
+hips: 78cm
 size: '8'
 shoeSize: '9'
 hair: Brown
