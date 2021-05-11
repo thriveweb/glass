@@ -240,6 +240,31 @@ testimonials:
         Seriously, they are so great!
       logo: 'https://ucarecdn.com/956d132d-e3d9-4140-bc47-d9f7a7293d3c/'
       name: Mary
+    - title: Assistant Director
+      logo: 'https://ucarecdn.com/d35fe314-a250-431a-8def-1dc546dfc400/'
+      name: Netflix US Series
+      content: >-
+        <!--StartFragment-->
+
+
+
+
+        "Many of the extras were envious of the Glass talent -- apparently Glass
+        sends payment before all the other agencies do.
+
+
+        Glass has a really good reputation amongst talent in the industry for
+        being honest and taking care of their talent.
+
+
+
+
+        Just wanted to pass on that wonderful feedback and congratulate
+        yourself, Tegan and the team"
+
+
+
+        <!--EndFragment-->
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
@@ -253,3 +278,4 @@ meta:
     Providing professional talent of all ages.
   title: 'Gold Coast Model & Talent Agency | Glass Management '
 ---
+
