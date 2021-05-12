@@ -17,10 +17,10 @@ shoeSize: '5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/edac7a89-203f-43e3-9f4d-bf5351def0a2/'
   - image: 'https://ucarecdn.com/ddaf7d46-fb72-4404-b25a-6c51794c721f/'
-  - image: 'https://ucarecdn.com/76f735a6-1640-477d-91b2-c9fb21847fb3/'
   - image: 'https://ucarecdn.com/00489f27-3ecb-4805-966f-97b990f8f61c/'
+  - image: 'https://ucarecdn.com/76f735a6-1640-477d-91b2-c9fb21847fb3/'
+  - image: 'https://ucarecdn.com/edac7a89-203f-43e3-9f4d-bf5351def0a2/'
   - image: 'https://ucarecdn.com/0d7ff31b-0065-449e-9e61-0a1bbd46a53a/'
 ---
 
