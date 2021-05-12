@@ -4,7 +4,7 @@ title: Grace
 featuredImage: >-
   https://ucarecdn.com/1b9ce449-8d69-43c1-a24a-d94fe8b33435/-/crop/2437x1287/0,45/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ba8c87e6-2eda-4ba3-9f9e-16134c5f9f3a/-/crop/763x1050/404,316/-/preview/
+  https://ucarecdn.com/12cf320a-ee31-45c8-aefa-24db0b41b3ff/-/crop/1147x1526/419,255/-/preview/
 firstName: Grace
 collection: Classic
 height: 168cm
@@ -19,6 +19,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/f5d75a7a-b72c-44f1-a610-1fddf2ea93db/'
   - image: 'https://ucarecdn.com/750a0cd2-8b2b-469b-b8dd-e417f3819c80/'
+  - image: 'https://ucarecdn.com/b1f5c004-3259-406f-afb3-1d21f2c61eea/'
   - image: 'https://ucarecdn.com/05eedd03-1b31-4816-9b06-1ac47450aba1/'
   - image: 'https://ucarecdn.com/4e2ef686-191c-4822-8696-f042f8a62960/'
   - image: 'https://ucarecdn.com/6af80778-4c60-4b76-b97f-b7c50001001b/'
