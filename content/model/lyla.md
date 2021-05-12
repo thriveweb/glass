@@ -4,7 +4,7 @@ title: Lyla
 featuredImage: >-
   https://ucarecdn.com/d20d0db9-de3a-463a-8506-fbf5d8751ba6/-/crop/6586x4035/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ffbf257f-d483-42d3-a891-1193a89eb7d6/-/crop/278x321/59,66/-/preview/
+  https://ucarecdn.com/f3c68be6-4260-410c-a1c1-4f4016965fee/-/crop/3179x3788/156,0/-/preview/
 firstName: Lyla
 collection: Girls
 height: 122cm
@@ -17,12 +17,14 @@ shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/49fdc78e-4f2f-4303-a57c-58f52204bd67/'
   - image: 'https://ucarecdn.com/6f77544a-5565-462c-8e1d-25e271f2be72/'
   - image: 'https://ucarecdn.com/d4f72c70-c6c9-4bff-8a0d-d52bfee7a8fc/'
   - image: 'https://ucarecdn.com/c0455522-ed6d-4bc4-8c9f-e917b12cbcc5/'
   - image: 'https://ucarecdn.com/355503cf-55ae-45de-87c4-9befce9a4f83/'
   - image: 'https://ucarecdn.com/6300d5fd-5dc8-4b1c-af12-d53a621eb5ae/'
   - image: 'https://ucarecdn.com/f03ef963-b8b7-492d-8df5-98f5ec771174/'
+  - image: 'https://ucarecdn.com/c497d758-fac6-45a9-9478-163b31af9e12/'
   - image: 'https://ucarecdn.com/f58c6ec8-544c-474a-beda-a3386f2a9bd2/'
   - image: 'https://ucarecdn.com/39b8ac04-83d5-4cff-b8c7-59b87502c55b/'
   - image: 'https://ucarecdn.com/4aeb1f1e-6c1a-4190-ab5a-3aebc964829d/'
