@@ -12,7 +12,7 @@ measurementType: bust
 bust: 45cm
 waist: 45cm
 hips: 50cm
-size: 1/2
+size: 12 months
 shoeSize: '4'
 hair: Black
 eyes: Dark Brown
