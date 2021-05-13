@@ -8,11 +8,11 @@ firstName: Jassie C
 collection: Girls
 height: 159cm
 measurementType: bust
-bust: 68cm
-waist: 59cm
-hips: 70cms
-size: '10'
-shoeSize: '6'
+bust: 77cm
+waist: 66cm
+hips: 75cms
+size: 10-12
+shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
