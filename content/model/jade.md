@@ -7,10 +7,10 @@ firstName: Jade
 collection: Girls
 height: 127cm
 measurementType: bust
-bust: 59m
-waist: 53cm
-hips: 59cm
-size: '6'
+bust: 58m
+waist: 55cm
+hips: 64cm
+size: 5-7
 shoeSize: '13'
 hair: Brown
 eyes: Brown
