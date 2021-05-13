@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Izaac
+title: Izaac S
 featuredImage: >-
   https://ucarecdn.com/7a8e11ba-d361-49bf-9c87-2d8658951c58/-/crop/5472x3306/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/a7934e14-0a4d-4107-b7f2-811fe5d9303f/-/crop/2616x3332/1195,34/-/preview/
-firstName: Izaac
+firstName: Izaac S
 collection: Boys
 height: 146cm
 measurementType: chest
