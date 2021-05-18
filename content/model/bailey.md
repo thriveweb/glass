@@ -4,7 +4,7 @@ title: Bailey
 featuredImage: 'https://ucarecdn.com/4d2cca29-76de-463a-8c83-76fc1434e358/'
 imageThumbnail: 'https://ucarecdn.com/7ad56caa-c74a-489e-aaec-b33bb8bb4c20/'
 firstName: Bailey
-collection: Men
+collection: Global
 height: 186cm
 measurementType: bust
 bust: 93cm
