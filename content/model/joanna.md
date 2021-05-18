@@ -2,7 +2,8 @@
 template: ModelPage
 title: Joanna
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/joanna-111.jpg'
-imageThumbnail: 'https://ucarecdn.com/340b1307-1e2c-4518-88bb-737d5e09805f/'
+imageThumbnail: >-
+  https://ucarecdn.com/a5a133e2-52a7-4d98-b868-b4c025334ac7/-/crop/1991x2557/383,88/-/preview/
 firstName: Joanna
 collection: Women
 height: 177cm
@@ -15,11 +16,14 @@ shoeSize: '10'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/2e02730f-9b64-475f-8cdc-63f2461672ff/'
+  - image: 'https://ucarecdn.com/581aa9ed-aa7d-435e-ae79-15a8d6743714/'
+  - image: 'https://ucarecdn.com/cf6fb887-9b6b-4acb-a9c4-89ae7a6d5e11/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/joanna21837.jpg'
+  - image: 'https://ucarecdn.com/2e02730f-9b64-475f-8cdc-63f2461672ff/'
   - image: 'https://ucarecdn.com/541c678d-8b9d-4608-9992-9fd32ec2d748/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/joanna237.jpg'
+  - image: 'https://ucarecdn.com/19e281a5-49fa-4243-8e42-6904fbb8ccad/'
   - image: 'https://ucarecdn.com/9e3ff2f6-4678-4bc8-aa09-70d5f627bdcb/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/joanna237.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/joanna-119.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/joanna21783.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/joanna2138.jpg'
