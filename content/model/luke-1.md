@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/81be195f-6a50-4bac-b922-c195f1376a39/'
 imageThumbnail: >-
   https://ucarecdn.com/718cd7f3-5ee2-4ff8-96e8-b07f07166cc7/-/crop/1069x1057/14,71/-/preview/
 firstName: Luke S
-collection: Men
+collection: Classic
 height: 172cm
 measurementType: chest
 bust: 91cm
