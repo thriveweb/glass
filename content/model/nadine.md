@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Nadine
+title: MIL Nadine
 featuredImage: 'https://ucarecdn.com/1e9b415f-fa6f-4deb-a4e7-237f4e7a5510/'
 imageThumbnail: 'https://ucarecdn.com/688b71d5-b0bb-4e01-93c0-f588ff0d53b8/'
 firstName: Nadine
