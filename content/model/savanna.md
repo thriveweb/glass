@@ -9,9 +9,9 @@ firstName: Savanna
 collection: Women
 height: 181cm
 measurementType: bust
-bust: 87cm
-waist: 70cm
-hips: 98cm
+bust: 86cm
+waist: 66cm
+hips: 99cm
 size: '10'
 shoeSize: 39 Eur
 hair: Brown
