@@ -3,8 +3,7 @@ template: ModelPage
 title: Avi
 featuredImage: >-
   https://ucarecdn.com/011a1f28-3db3-4263-acdc-1c3168cdb636/-/crop/750x399/0,109/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/a69ddc48-c9c8-4576-a06c-e0fa40c54e2a/-/crop/339x484/182,197/-/preview/
+imageThumbnail: 'https://ucarecdn.com/a27d42f5-d7e9-42fc-bd89-8331f1acc9ce/'
 firstName: Avi
 collection: Classic
 height: 165cm
