@@ -12,7 +12,7 @@ bust: 110cm
 waist: 100cm
 hips: 120cm
 size: 36/2XL
-shoeSize: '12'
+shoeSize: US12
 hair: Brown
 eyes: Brown
 imagePortfolio:
