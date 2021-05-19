@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/c571eb69-97c0-4dd8-9782-7970a8e0e0ea/'
 imageThumbnail: 'https://ucarecdn.com/921d138f-abc1-40c3-b331-2cf5a6b8d96d/'
 firstName: Shauna D
 collection: Global
-height: 153cm
+height: 163cm
 measurementType: bust
 bust: 40"
 waist: 36"
