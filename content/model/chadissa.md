@@ -11,8 +11,8 @@ measurementType: bust
 bust: 37"
 waist: 30"
 hips: 36"
-size: '8.5'
-shoeSize: '12'
+size: '12'
+shoeSize: '8.5'
 hair: Black
 eyes: Brown
 imagePortfolio:
