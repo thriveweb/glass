@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Krystal
-featuredImage: 'https://ucarecdn.com/54fefd5b-0c3f-4e83-a72d-211b50e73ea1/'
+featuredImage: 'https://ucarecdn.com/cfeee17d-ab0d-4650-bf09-0d72cf5ec2d2/'
 imageThumbnail: >-
   https://ucarecdn.com/3dee28c0-b581-49a6-aa7b-5a1ddfcc3b6f/-/crop/3673x4434/97,577/-/preview/
 firstName: Krystal
@@ -24,6 +24,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/db0d6c7c-0b6b-4985-9549-377178d49640/'
   - image: 'https://ucarecdn.com/37142e53-de26-4caf-86f0-0ece8525ea1d/'
   - image: 'https://ucarecdn.com/4e720a5e-a458-48ae-b758-5a1f80b8533f/'
+  - image: 'https://ucarecdn.com/501a046d-13f3-46fe-bbac-7edec1888c0f/'
   - image: 'https://ucarecdn.com/d1e2a9de-63e5-4ec4-8bd0-4707bfd3a41d/'
   - image: 'https://ucarecdn.com/d3aa7e73-1def-4be0-8ab5-103b3778f951/'
   - image: 'https://ucarecdn.com/61ee724f-0433-40b8-9e3c-d8bc1fc7b0c7/'
