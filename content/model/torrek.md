@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/ffa50071-e686-403f-8d9d-cc543d8da10b/-/crop/1632x601/0,174/-/preview/
 imageThumbnail: 'https://ucarecdn.com/59c6de67-6614-40e9-9e42-452803f96f7a/'
 firstName: Torrek
-collection: Boys
+collection: Emerging
 height: 185cm
 measurementType: chest
 bust: 78cm
