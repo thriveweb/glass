@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Louie
+title: Louis
 featuredImage: 'https://ucarecdn.com/0d6591e6-d42a-41f2-9f97-8b3bd2ab48ff/'
 imageThumbnail: >-
   https://ucarecdn.com/ed1ff58b-7809-4343-84c5-30c98042beb0/-/crop/749x1071/96,71/-/preview/
-firstName: Louie
+firstName: Louis
 collection: Men
 height: 184cm
 measurementType: chest
