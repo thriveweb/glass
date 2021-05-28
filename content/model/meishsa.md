@@ -5,7 +5,7 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/201710284189cro
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/20180517_132837.png'
 firstName: Meisha
 collection: Girls
-height: 154cm
+height: 164cm
 measurementType: bust
 bust: 66.5cm
 waist: 59cm
