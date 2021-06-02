@@ -2,7 +2,7 @@
 template: ModelPage
 title: Lexi
 featuredImage: >-
-  https://ucarecdn.com/53a95789-d399-45fb-bd53-25f08f169ede/-/crop/460x198/7,48/-/preview/
+  https://ucarecdn.com/a222f363-5446-4404-8b2c-5dfd692cb83a/-/crop/415x237/0,56/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/fda4a717-6738-4126-897c-f60a5dae781b/-/crop/291x410/19,0/-/preview/
 firstName: Lexi
