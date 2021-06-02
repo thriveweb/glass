@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Harley
-featuredImage: 'https://ucarecdn.com/8763e2e7-a74b-4941-bb0f-6c57ebb45dde/'
+featuredImage: >-
+  https://ucarecdn.com/8763e2e7-a74b-4941-bb0f-6c57ebb45dde/-/crop/2404x1196/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/083cf8d8-9922-4b6e-a2c7-e45951adcd50/'
 firstName: Harley
 collection: Global
