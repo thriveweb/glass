@@ -7,7 +7,7 @@ featuredVideoMobile: 'https://ucarecdn.com/82afba47-654e-45b6-9e8c-1f1b81a7d847/
 imageThumbnail: >-
   https://ucarecdn.com/9d9485f7-8ab2-412c-b4a8-66839b0211fe/-/crop/3496x4088/418,300/-/preview/
 firstName: Joey G
-collection: Boys
+collection: Emerging
 height: 170cm
 measurementType: chest
 bust: 84cm
@@ -21,6 +21,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/8b54b8bd-b810-4185-8f19-97556eafa967/'
   - image: 'https://ucarecdn.com/be1b04f7-7c09-440c-8c92-a2cbb7a0654f/'
   - image: 'https://ucarecdn.com/1fd66fbd-851c-425f-8f19-c2b4d5f98fc7/'
+  - image: 'https://ucarecdn.com/038595c1-ada3-49b2-9ab6-f4c3aa1a6e4a/'
   - image: 'https://ucarecdn.com/9fb57ccf-f90a-47c1-99bb-5e4ac218cb08/'
   - image: 'https://ucarecdn.com/62b2da4e-93a3-4b69-a2a0-79905f96234f/'
   - image: 'https://ucarecdn.com/7d341183-f0ff-4369-b893-9fd56cfe7a31/'
