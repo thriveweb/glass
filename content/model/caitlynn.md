@@ -19,6 +19,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/5033ae8f-97d2-4091-b4a8-af9bd927f73e/'
   - image: 'https://ucarecdn.com/025e260f-cc3a-483b-b4b9-1771c4a973d9/'
+  - image: 'https://ucarecdn.com/e689c673-59bc-4939-a819-60526043f13f/'
   - image: 'https://ucarecdn.com/689d832b-1a65-4a49-b84b-70b2ddf53b02/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_5575.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_5358.jpg'
@@ -29,7 +30,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/ad432971-6120-4fe6-9ba7-216d469ef1df/'
   - image: 'https://ucarecdn.com/f0862cb3-1485-4569-9048-db82b1c2d425/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_5125.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/caitlynn23ui.jpg'
+  - image: 'https://ucarecdn.com/15e139f9-1a61-498d-8c16-f9b0faa8a6b1/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_5597.jpg'
   - image: 'https://ucarecdn.com/8f6edae5-0db7-40b1-bbfe-c730ad9cefba/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/cait-1-.png'
