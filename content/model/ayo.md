@@ -6,10 +6,10 @@ featuredImage: >-
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/ayo72634327123111111.jpg'
 firstName: Ayo
 collection: Girls
-height: 122cm
+height: 125cm
 measurementType: bust
 bust: 58cm
-waist: 55cm
+waist: 57cm
 hips: 59cm
 size: '6'
 shoeSize: kids 10
