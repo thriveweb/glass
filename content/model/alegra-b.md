@@ -3,7 +3,7 @@ template: ModelPage
 title: Alegra B
 featuredImage: 'https://ucarecdn.com/a8d0f1bc-83f6-4396-9031-331db4349880/'
 imageThumbnail: >-
-  https://ucarecdn.com/2773c9e8-2b2c-41ae-92a6-6b91d6196272/-/crop/1061x1434/220,0/-/preview/
+  https://ucarecdn.com/3b9db672-d6f3-4689-b5b8-91a29f2f5940/-/crop/1307x2236/253,644/-/preview/
 firstName: Alegra B
 collection: Girls
 height: 128cm
@@ -38,6 +38,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a362cc3a-a092-44ab-be7e-8d6c260aa287/'
   - image: 'https://ucarecdn.com/2b0da8c8-24c8-45af-81cd-f8238cee31f1/'
   - image: 'https://ucarecdn.com/be143924-3192-463f-9f32-2a4b18582781/'
+  - image: 'https://ucarecdn.com/ecefe560-9d22-41e3-aee7-d048d2f4a606/'
   - image: 'https://ucarecdn.com/2b5b3e98-3efd-4719-808d-b17122e9aef0/'
   - image: 'https://ucarecdn.com/de6cced1-bee1-4f5b-bbb1-013e2a9f7c29/'
   - image: 'https://ucarecdn.com/7f69d7fc-98fd-4035-a26a-d739b70522a5/'
