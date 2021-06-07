@@ -9,6 +9,9 @@ firstName: Michelle
 collection: Classic
 height: 168cm
 measurementType: bust
+bust: 88cm
+waist: 73cm
+hips: 88cm
 size: '10'
 shoeSize: '8'
 hair: Brown
