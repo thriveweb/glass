@@ -26,6 +26,8 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo236789.jpg'
   - image: 'https://ucarecdn.com/e4efdaf1-2045-4992-b5da-4c5f74bac8a2/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo28736443.jpg'
+  - image: 'https://ucarecdn.com/a204d810-57d4-4294-8cd5-9ca14d3ad77b/'
+  - image: 'https://ucarecdn.com/33b4d3b4-137f-46de-9630-ca1ac78436fb/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo23786472.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo6327849.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo327689.jpg'
