@@ -9,9 +9,9 @@ height: 115cm
 measurementType: bust
 bust: 55cm
 waist: 50cm
-hips: 52cm
-size: 4 - 5
-shoeSize: '11'
+hips: 53cm
+size: 5-6
+shoeSize: '12'
 hair: Brown
 eyes: Brown
 imagePortfolio:
