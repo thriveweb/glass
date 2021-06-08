@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Alegra B
-featuredImage: 'https://ucarecdn.com/a8d0f1bc-83f6-4396-9031-331db4349880/'
+featuredImage: 'https://ucarecdn.com/5e080c97-b28c-4280-943c-e55a4b705309/'
 imageThumbnail: >-
   https://ucarecdn.com/3b9db672-d6f3-4689-b5b8-91a29f2f5940/-/crop/1307x2236/253,644/-/preview/
 firstName: Alegra B
