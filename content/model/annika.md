@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Annika
-featuredImage: >-
-  https://ucarecdn.com/bfb4c29a-c5ec-46eb-aaef-786bded911f4/-/crop/3000x1650/0,63/-/preview/
+featuredImage: 'https://ucarecdn.com/e6297c97-481e-4fe9-9e4e-c69bafb152d0/'
 imageThumbnail: >-
   https://ucarecdn.com/3ce77407-a4ad-45f6-8b9b-cdb4dc804d95/-/crop/272x319/98,45/-/preview/
 firstName: Annika
@@ -31,9 +30,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a8bd0c7b-182d-4613-81ad-e35ab854fe61/'
   - image: 'https://ucarecdn.com/c15e2393-5688-4c5c-bfff-9d60415e815d/'
   - image: 'https://ucarecdn.com/8b665c53-8d10-45ed-86f1-2a60cd14217d/'
-  - image: 'https://ucarecdn.com/83c8c4ba-09cb-444f-91b2-213a6189ed0c/'
-  - image: 'https://ucarecdn.com/f9577ecb-172b-4bf0-9471-7a213d08c614/'
+  - image: 'https://ucarecdn.com/845a41b8-9918-467c-b580-7944741878d2/'
+  - image: 'https://ucarecdn.com/9d6a21d2-b60a-47e4-842d-3f6a1abde6a6/'
   - image: 'https://ucarecdn.com/5546323c-739d-4e85-9077-e9909b402943/'
   - image: 'https://ucarecdn.com/e3ccbe74-1b46-4741-8fca-564828e8b0ac/'
+  - image: 'https://ucarecdn.com/b41cea66-560d-483a-b493-ee58e134a3b6/'
 ---
 
