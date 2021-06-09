@@ -10,6 +10,7 @@ height: 179cm
 measurementType: chest
 bust: 93cm
 waist: 72cm
+size: 'Shirt: M Pants: 32'
 shoeSize: 10.5 US
 hair: Brown
 eyes: Blue
