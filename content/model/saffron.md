@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/d9bacf58-0375-4b45-a0dc-f74473683021/'
 featuredVideo: 'https://ucarecdn.com/2424610e-5161-4678-b885-9997bac9ec73/'
 featuredVideoMobile: 'https://ucarecdn.com/9f8bc6aa-3fc4-49c7-9a0d-db55c16a834e/'
 imageThumbnail: >-
-  https://ucarecdn.com/6384b1cc-0dfa-43b6-9f20-d051793f7711/-/crop/1142x1067/224,0/-/preview/
+  https://ucarecdn.com/8905d5c7-dc27-4654-b373-c9d7f59ed79a/-/crop/1027x1089/979,319/-/preview/
 firstName: Saffron
 collection: Girls
 height: 114cm
@@ -20,6 +20,7 @@ eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/bcae9c1c-5d37-45fa-a9f6-c018f1d2b8c9/'
   - image: 'https://ucarecdn.com/60803b5a-b563-4eaa-abd4-1878bde813cd/'
+  - image: 'https://ucarecdn.com/afd1d801-3ddf-43e1-8971-793c973c08a0/'
   - image: 'https://ucarecdn.com/6aef552f-377b-4e61-9bb9-b5f71bce1d36/'
   - image: 'https://ucarecdn.com/79ccf443-4873-48e7-8e59-6a23b2052ef1/'
   - image: 'https://ucarecdn.com/84f7f5f1-f680-4f65-8085-1cbcf4dd9ff5/'
@@ -48,7 +49,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/38c48edc-3e7b-4034-9058-e149ee7ff083/'
   - image: 'https://ucarecdn.com/1104533e-4de0-4be8-96a5-0e59f9932e2b/'
   - image: 'https://ucarecdn.com/672a95ad-4c0a-4146-8e9b-4fae1d24a954/'
-  - image: 'https://ucarecdn.com/bed85628-d594-4e80-ae45-c5f5eb92f4d7/'
   - image: 'https://ucarecdn.com/7e7e80db-d0be-4d42-821c-fff9bce6378c/'
   - image: 'https://ucarecdn.com/5825c9ef-67b2-46c4-bc27-b69b12e2acd0/'
   - image: 'https://ucarecdn.com/187c8d56-9f0b-4cce-8e04-6dfb4434fd08/'
@@ -56,7 +56,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/2c4a2493-577f-4dba-a17f-b563cb64ef14/'
   - image: 'https://ucarecdn.com/5e64b07c-de8a-4040-a1f3-d7838855fc2b/'
   - image: 'https://ucarecdn.com/a1028c33-0e63-4920-b650-02163fa09cd9/'
-  - image: 'https://ucarecdn.com/bc226244-f2ba-4cea-999c-4da0ce31c629/'
   - image: 'https://ucarecdn.com/ddb108ab-0642-463b-9b11-4668a8b67440/'
   - image: 'https://ucarecdn.com/3fcf04f9-3a06-4da8-b465-3fd73ee09e3f/'
   - image: 'https://ucarecdn.com/788f1195-30b8-41d4-a9ad-acb301d0af69/'
