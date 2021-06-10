@@ -8,8 +8,9 @@ firstName: Connor
 collection: Men
 height: 179cm
 measurementType: chest
-bust: 93cm
-waist: 72cm
+bust: 96cm
+waist: 79cm
+hips: 99cm
 size: 'Shirt: M Pants: 32'
 shoeSize: 10.5 US
 hair: Brown
@@ -23,8 +24,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0dc41d10-af69-4388-b052-086bd635b986/'
   - image: 'https://ucarecdn.com/d2038864-4c2c-4b87-a0a0-1b1a1843a1bc/'
   - image: 'https://ucarecdn.com/7e10b7d6-7eca-47c9-80a1-6582b5918abb/'
-  - image: 'https://ucarecdn.com/ffa1731b-f51d-4cae-a161-8285b5761825/'
+  - image: 'https://ucarecdn.com/072ddbe3-bea4-4368-aaa7-7c9d852760fe/'
   - image: 'https://ucarecdn.com/e7807d5d-d786-4732-b174-8a56395e109b/'
   - image: 'https://ucarecdn.com/f3251ef7-96c1-494e-a24a-b92e5c1f7508/'
+  - image: 'https://ucarecdn.com/9a789e8b-649b-4db0-9d99-5c870dec3ef7/'
 ---
 
