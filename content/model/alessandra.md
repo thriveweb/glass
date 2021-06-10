@@ -10,7 +10,7 @@ collection: Girls
 height: 115.5cm
 measurementType: bust
 bust: 59cm
-waist: 55cm
+waist: 52.5cm
 hips: 62cm
 size: '6'
 shoeSize: US 12
