@@ -3,7 +3,7 @@ template: ModelPage
 title: Tamara
 featuredImage: >-
   https://ucarecdn.com/688384e9-c6f9-44c4-938b-e75057775003/-/crop/1718x1288/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/d083968f-a15b-4439-a52b-87d3ad5aa3b6/'
+imageThumbnail: 'https://ucarecdn.com/875cdaeb-6087-46a5-852d-c9ebfc4e1185/'
 firstName: Tamara
 collection: Women
 height: 175cm
