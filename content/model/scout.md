@@ -11,7 +11,7 @@ measurementType: bust
 bust: 59cm
 waist: 58cm
 hips: 62cm
-size: 4-6
+size: '4'
 shoeSize: 28/29
 hair: Brown
 eyes: Hazel
