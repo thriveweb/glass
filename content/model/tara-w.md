@@ -10,7 +10,7 @@ measurementType: bust
 bust: 88cm
 waist: 68cm
 hips: 96cm
-size: Dress 8 -10
+size: Dress 10
 shoeSize: '8'
 hair: Dark Brown
 eyes: Brown
