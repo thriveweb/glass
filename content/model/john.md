@@ -11,6 +11,7 @@ height: 5'5
 measurementType: chest
 bust: 39 inches
 waist: 28 inches
+size: 30 Pant M shirt
 shoeSize: '9'
 hair: Brown
 eyes: Brown
