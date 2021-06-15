@@ -3,8 +3,7 @@ template: ModelPage
 title: Grace
 featuredImage: >-
   https://ucarecdn.com/1b9ce449-8d69-43c1-a24a-d94fe8b33435/-/crop/2437x1287/0,45/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/12cf320a-ee31-45c8-aefa-24db0b41b3ff/-/crop/1147x1526/419,255/-/preview/
+imageThumbnail: 'https://ucarecdn.com/9b80eddc-3a76-4870-a283-c1c5316a0040/'
 firstName: Grace
 collection: Classic
 height: 168cm
@@ -17,9 +16,10 @@ shoeSize: 38/7.5
 hair: Black
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/5133b268-af96-4648-8d2b-320af6af6f2b/'
   - image: 'https://ucarecdn.com/f5d75a7a-b72c-44f1-a610-1fddf2ea93db/'
+  - image: 'https://ucarecdn.com/da5c0f54-78cb-4cc4-b44b-804bd06d2ad2/'
   - image: 'https://ucarecdn.com/750a0cd2-8b2b-469b-b8dd-e417f3819c80/'
-  - image: 'https://ucarecdn.com/b1f5c004-3259-406f-afb3-1d21f2c61eea/'
   - image: 'https://ucarecdn.com/6af80778-4c60-4b76-b97f-b7c50001001b/'
   - image: 'https://ucarecdn.com/9b22bbf6-47ce-4742-adb7-1d8ef1bf5c0e/'
   - image: 'https://ucarecdn.com/05eedd03-1b31-4816-9b06-1ac47450aba1/'
