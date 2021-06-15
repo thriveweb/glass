@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Aridge
+title: Arig
 featuredImage: 'https://ucarecdn.com/fabb291f-58b5-4bdd-99bc-bfe93b145f41/'
 imageThumbnail: >-
   https://ucarecdn.com/52af9f3b-6bc2-4e48-b2c6-c970e63aed0b/-/crop/1087x1288/700,0/-/preview/
-firstName: Aridge
+firstName: Arig
 collection: Global
 height: 160cm
 measurementType: bust
