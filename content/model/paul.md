@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Paul J
-featuredImage: 'https://ucarecdn.com/7582851e-263b-4bcf-8a97-0c28c6faec04/'
+featuredImage: >-
+  https://ucarecdn.com/7582851e-263b-4bcf-8a97-0c28c6faec04/-/crop/2087x1030/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2f6d23cc-5b10-46c6-987b-5c494fe19097/-/crop/1120x1632/586,0/-/preview/
 firstName: Paul J
