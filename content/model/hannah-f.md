@@ -14,6 +14,7 @@ hips: 93cm
 size: 8-10
 shoeSize: '8'
 hair: Blonde
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/913d7f8f-ebe6-4ddb-a835-79b11475e05c/'
   - image: 'https://ucarecdn.com/42e9357a-c55d-4572-a958-5c5131ed06c5/'
