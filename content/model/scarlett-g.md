@@ -3,8 +3,7 @@ template: ModelPage
 title: Scarlett G
 featuredImage: >-
   https://ucarecdn.com/bd0c35ea-33a9-40bf-9e3b-530190f5043f/-/crop/1744x1116/9,500/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/d57f2921-1d65-4bc8-8fa1-c650e268a37e/-/crop/1013x1473/548,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/b3af416e-8bd2-4a25-9406-b7550d8d5872/'
 firstName: Scarlett G
 collection: Women
 height: 171cm
