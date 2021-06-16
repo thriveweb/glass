@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: MIL Nadine
+title: Nadine
 featuredImage: 'https://ucarecdn.com/1e9b415f-fa6f-4deb-a4e7-237f4e7a5510/'
 imageThumbnail: >-
   https://ucarecdn.com/9e4e3be3-04fa-4369-af5d-416ab29c4e8d/-/crop/954x1099/824,0/-/preview/
 firstName: Nadine
-collection: Women
+collection: Classic
 height: 166cm
 measurementType: bust
 bust: 92cm
