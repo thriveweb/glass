@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Cassie P
-featuredImage: 'https://ucarecdn.com/77be0932-1330-4fe3-acdd-62481f828ae2/'
+featuredImage: >-
+  https://ucarecdn.com/c7f636a6-ae96-4a42-819c-92ec74c2799b/-/crop/1280x687/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/15d30df5-2629-4a5b-9bf0-a96148982044/-/crop/853x1178/0,102/-/preview/
 firstName: Cassie P
