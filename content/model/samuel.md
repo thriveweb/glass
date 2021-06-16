@@ -12,7 +12,7 @@ waist: 97cm
 hips: 101cm
 size: M
 shoeSize: '10'
-hair: ' Bald and black  beard  '
+hair: ' Bald and black beard  '
 eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/samuel-4.jpeg'
@@ -27,6 +27,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/sam9.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/sam7.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/sam3.jpg'
+  - image: 'https://ucarecdn.com/fa397938-dbac-4283-b905-3f5bfc2b87be/'
 meta:
   title: Samuel
 ---
