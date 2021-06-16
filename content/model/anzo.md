@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Anzo
-featuredImage: 'https://ucarecdn.com/36a506e1-a7c3-4a70-b6c5-07d95c67e93c/'
+featuredImage: >-
+  https://ucarecdn.com/74fc5720-e855-45bd-b193-1ce0f08d55da/-/crop/2448x1404/0,108/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/8d71403a-6680-4e2f-b6f4-8bca7b7923dd/-/crop/519x734/106,290/-/preview/
 firstName: Anzo
