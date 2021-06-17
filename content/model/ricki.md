@@ -2,11 +2,10 @@
 template: ModelPage
 title: Ricki
 featuredImage: >-
-  https://ucarecdn.com/1b192c73-9596-4941-bd6b-b34478f1a2ab/-/crop/723x539/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/14ad3792-b8aa-4be0-90f2-7574138dadd0/-/crop/965x1288/344,0/-/preview/
+  https://ucarecdn.com/4c2caf26-76c5-45b4-afb8-b21d7912bd47/-/crop/5472x3148/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/880c6378-ba69-410a-9be0-fcc740fd59a9/'
 firstName: Ricki
-collection: Global
+collection: Classic
 height: 175cm
 measurementType: bust
 bust: 84cm
@@ -17,8 +16,12 @@ shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/e9305f28-a83c-40b9-b074-c512473e2202/'
+  - image: 'https://ucarecdn.com/a82bec24-1557-4f67-abbd-2f49e0c0b52b/'
+  - image: 'https://ucarecdn.com/97eb3026-5b08-4251-97de-80e6aff1b9fd/'
+  - image: 'https://ucarecdn.com/2b1e8c62-5bac-41eb-a11f-3b802bb33f0b/'
+  - image: 'https://ucarecdn.com/b49014ce-d542-45b0-924c-7f6c4439c6aa/'
   - image: 'https://ucarecdn.com/a59738c3-f4a8-4684-b6fe-c694ce8f2682/'
-  - image: 'https://ucarecdn.com/e14ce9a0-e077-4b3a-9ee4-0fe0040999f4/'
   - image: 'https://ucarecdn.com/71615fcd-da76-4890-b868-ad0236523525/'
 meta: {}
 ---
