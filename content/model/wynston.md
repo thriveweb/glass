@@ -8,7 +8,7 @@ firstName: ' Baby Wynston'
 collection: Boys
 height: 85cm
 measurementType: chest
-size: 18months
+size: '2'
 hair: Black
 eyes: Black
 imagePortfolio:
