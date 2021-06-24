@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/47f34c92-9dd0-467e-b8d9-40a7897631c5/-/crop/1086x1186/282,129/-/preview/
 firstName: Lilla Snow
 collection: Girls
-height: 108cm
+height: 110cm
 measurementType: bust
 bust: 55cm
 waist: 53cm
@@ -17,6 +17,8 @@ hair: Black
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/411aad3d-4dea-4f9a-81c8-904b31c6a407/'
+  - image: 'https://ucarecdn.com/391c29fa-3b68-4395-9f36-7d253776c54a/'
+  - image: 'https://ucarecdn.com/b4754455-0803-4b71-b9c6-c572a5360f56/'
   - image: 'https://ucarecdn.com/aed9f156-2b20-4294-9710-c84341476ecd/'
   - image: 'https://ucarecdn.com/6526927a-a099-4269-abc4-ece25b50f674/'
   - image: 'https://ucarecdn.com/6f1ecf9d-a458-4a8f-a4b5-1444e901cb54/'
@@ -26,7 +28,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/11cab02c-0cb3-4497-b4d8-82f2849fd053/'
   - image: 'https://ucarecdn.com/99d2bd14-ae66-4d11-b69a-0c458d1e20bd/'
   - image: 'https://ucarecdn.com/f3401e1f-0805-4af2-a058-f0807907874e/'
-  - image: 'https://ucarecdn.com/9bb5b5d6-a1da-4cbf-a038-91d995046084/'
   - image: 'https://ucarecdn.com/2e79e60d-f163-43be-a7f0-8e50d6208a5f/'
   - image: 'https://ucarecdn.com/da1909a9-4de3-4758-9586-df2215a6b219/'
   - image: 'https://ucarecdn.com/f61c1360-ab3c-45d0-810a-e1c26ada785c/'
