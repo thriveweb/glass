@@ -6,11 +6,11 @@ imageThumbnail: >-
   https://ucarecdn.com/da98f082-04f3-475c-8ece-4c6a8ea1d44e/-/crop/2743x3543/1406,19/-/preview/
 firstName: Esther
 collection: Girls
-height: 145cm
+height: 158cm
 measurementType: bust
-bust: 68cm
-waist: 63cm
-hips: 74cm
+bust: 72cm
+waist: 64cm
+hips: 74m
 size: '10'
 shoeSize: '5'
 hair: Brown
