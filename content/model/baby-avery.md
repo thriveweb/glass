@@ -7,7 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/acd92017-c584-404d-b3a1-86c1137e1856/-/crop/575x618/173,0/-/preview/
 firstName: Baby Avery
 collection: Boys
-height: Little
+height: 94cm
+measurementType: chest
+bust: 52cm
+waist: 47cm
+hips: 49cm
 size: '2'
 shoeSize: '5'
 hair: Blonde
