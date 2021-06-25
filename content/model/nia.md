@@ -6,10 +6,10 @@ imageThumbnail: >-
   https://ucarecdn.com/0e1f4931-aa3a-4338-a470-b207b574f3d1/-/crop/1456x1408/488,0/-/preview/
 firstName: Nia
 collection: Girls
-height: 116cm
+height: 125cm
 measurementType: bust
-bust: 56cm
-waist: 53cm
+bust: 63cm
+waist: 56cm
 hips: 58cm
 size: 6-8
 shoeSize: '1'
