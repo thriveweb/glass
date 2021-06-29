@@ -5,12 +5,12 @@ featuredImage: 'https://ucarecdn.com/c8cf4eba-4976-46f1-af03-502db81bbf74/'
 imageThumbnail: 'https://ucarecdn.com/8575d3a4-c3a7-439c-bab8-67354ed67e7d/'
 firstName: Zimri
 collection: Boys
-height: 141cm
+height: 147cm
 measurementType: chest
-bust: 70cm
-waist: 67cm
-hips: 73cm
-size: '10'
+bust: 76cm
+waist: 66cm
+hips: 71cm
+size: '12'
 shoeSize: 5-6
 hair: Dark Blonde
 eyes: Blue
