@@ -2,9 +2,9 @@
 template: ModelPage
 title: Ashley
 featuredImage: >-
-  https://ucarecdn.com/72b2be36-e361-4d8f-8432-3c3f980af344/-/crop/869x619/0,225/-/preview/
+  https://ucarecdn.com/0a9db1d6-472e-4682-9a3c-ccf357b8a8d2/-/crop/4970x2331/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b5008c82-c24c-4387-8c7a-15daa44c7262/-/crop/958x1313/63,21/-/preview/
+  https://ucarecdn.com/ce4c920a-1ed9-4c30-a520-f6ea0b7c7a51/-/crop/2987x3648/1154,0/-/preview/
 firstName: Ashley
 collection: Emerging
 height: 170cm
@@ -17,9 +17,12 @@ shoeSize: '7'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/94d83eed-4887-4100-9abf-9aa6a6942539/'
   - image: 'https://ucarecdn.com/d1cb3cb9-66d7-4b1f-a195-a2bff159d361/'
   - image: 'https://ucarecdn.com/f509696a-3f9c-498a-b6c1-da0d47f09dec/'
+  - image: 'https://ucarecdn.com/96478def-ca04-41ab-b9fd-c207cc6e89e2/'
   - image: 'https://ucarecdn.com/5c93a2b6-56bd-42e2-afe7-5a528f71d2ae/'
+  - image: 'https://ucarecdn.com/44157600-ae73-491c-8404-d487ef5cb7d8/'
   - image: 'https://ucarecdn.com/14a2a42a-ead1-4006-9669-43c1e125fd3f/'
   - image: 'https://ucarecdn.com/ed5f181e-040c-4c6b-9c19-33aca68187d3/'
   - image: 'https://ucarecdn.com/25762581-a058-428f-acdc-745a64179f82/'
