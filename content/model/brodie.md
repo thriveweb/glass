@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Brodie B
-featuredImage: 'https://ucarecdn.com/34170ef3-0a1f-4b29-81d9-489e127da70f/'
+featuredImage: >-
+  https://ucarecdn.com/34170ef3-0a1f-4b29-81d9-489e127da70f/-/crop/2449x1259/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/7453e75d-c88c-4d1c-99af-883677ae9c07/-/crop/1177x1632/600,0/-/preview/
 firstName: Brodie B
