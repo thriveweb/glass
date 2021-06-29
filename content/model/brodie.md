@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: 'Brodie '
+title: Brodie B
 featuredImage: 'https://ucarecdn.com/34170ef3-0a1f-4b29-81d9-489e127da70f/'
 imageThumbnail: >-
   https://ucarecdn.com/7453e75d-c88c-4d1c-99af-883677ae9c07/-/crop/1177x1632/600,0/-/preview/
-firstName: 'Brodie '
+firstName: Brodie B
 collection: Classic
 height: 5'9
 measurementType: bust
