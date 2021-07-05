@@ -19,6 +19,7 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/cf667160-dc93-4bf5-a480-757ebc6596e6/'
+  - image: 'https://ucarecdn.com/cc119a66-ff60-4e3c-bf24-6ac613e8ce5a/'
   - image: 'https://ucarecdn.com/a47705b0-c702-4140-9be8-0c63e663ff84/'
   - image: 'https://ucarecdn.com/9160f5a4-e398-4b88-b135-e0f7bf2bf33d/'
   - image: 'https://ucarecdn.com/1fbbbfc2-6e4b-4b12-9d89-168463d9406c/'
@@ -36,6 +37,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0e2ab7d5-0d7a-4e5f-8094-90cae3547f92/'
   - image: 'https://ucarecdn.com/4b6a4ba2-212d-4467-bfe1-0d91153ca30d/'
   - image: 'https://ucarecdn.com/d30cec15-48a8-458e-890b-4a6e9f9d5430/'
+  - image: 'https://ucarecdn.com/e7bd47ff-5ff3-46c2-8d54-ed652bbbb803/'
 meta:
   title: 'Maya '
 ---
