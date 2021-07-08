@@ -6,13 +6,13 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/9077d4cd-a95e-4bec-9d53-d7a1dadb8cd1/'
 firstName: Bailey Cruz
 collection: Boys
-height: 151cm
+height: 155cm
 measurementType: chest
 bust: 74cm
 waist: 64cm
 hips: 76cm
-size: 10-12
-shoeSize: '6'
+size: 10-12 Boys
+shoeSize: Mens 7
 hair: Blonde
 eyes: Blue
 imagePortfolio:
