@@ -2,7 +2,7 @@
 template: ModelPage
 title: Gershwin
 featuredImage: >-
-  https://ucarecdn.com/321fbc47-01a4-476a-ab67-8cfe02568b1e/-/crop/2449x1550/0,0/-/preview/
+  https://ucarecdn.com/027f6364-c95f-4dff-a323-23ba274f1b99/-/crop/1633x783/0,63/-/preview/
 imageThumbnail: 'https://ucarecdn.com/e7d26843-9526-469d-801c-d53de9c447ab/'
 firstName: Gershwin
 collection: Classic
