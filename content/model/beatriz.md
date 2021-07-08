@@ -2,7 +2,7 @@
 template: ModelPage
 title: Beatriz
 featuredImage: >-
-  https://ucarecdn.com/43eeb6e3-b918-4fd2-91e4-b6a857c2dec0/-/crop/6838x3975/0,20/-/preview/
+  https://ucarecdn.com/43eeb6e3-b918-4fd2-91e4-b6a857c2dec0/-/crop/5540x3170/0,35/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/fa666b25-f965-44f6-bfb4-d4d7a65812c8/-/crop/3579x4912/1485,0/-/preview/
 firstName: Beatriz
