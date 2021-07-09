@@ -5,6 +5,8 @@ featuredImage: 'https://ucarecdn.com/8494722b-d8dd-4664-a6fe-c7456f6de1e8/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/rae.webp'
 firstName: Rae
 collection: Classic
+size: '10'
+shoeSize: EURO 40
 hair: White
 eyes: Blue
 imagePortfolio:
