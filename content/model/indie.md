@@ -12,7 +12,7 @@ measurementType: bust
 bust: 53cm
 waist: 47cm
 hips: 50cm
-size: '5'
+size: 5-6
 shoeSize: '9'
 hair: Auburn
 eyes: Brown
