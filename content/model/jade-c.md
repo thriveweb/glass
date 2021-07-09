@@ -10,7 +10,7 @@ measurementType: bust
 bust: 10B
 waist: 67cm
 hips: 81cm
-size: 6-8
+size: 8-10
 shoeSize: '35'
 hair: Brown
 eyes: Brown
