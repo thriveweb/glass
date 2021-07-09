@@ -12,8 +12,8 @@ measurementType: bust
 bust: 51cm
 waist: 47cm
 hips: 49cm
-size: '3'
-shoeSize: '8'
+size: '4'
+shoeSize: '11'
 hair: Black
 eyes: Dark Brown
 imagePortfolio:
