@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Roman '
 featuredImage: >-
-  https://ucarecdn.com/8b0cdb4a-39ec-4034-9050-f3584f818434/-/crop/1788x1212/0,245/-/preview/
+  https://ucarecdn.com/8b0cdb4a-39ec-4034-9050-f3584f818434/-/crop/1788x1212/0,70/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/04f29889-dc68-48ed-872d-496fd81a3318/-/crop/667x964/581,187/-/preview/
 firstName: Roman
