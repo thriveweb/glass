@@ -1,18 +1,18 @@
 ---
 template: ModelPage
-title: Baby Morrison
+title: Morrison
 featuredImage: >-
   https://ucarecdn.com/9651412f-d336-4f3e-9806-4295e9689a60/-/crop/1807x889/410,427/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/1b362e73-40a1-45ca-88d2-e8fe37344c34/-/crop/866x1117/597,923/-/preview/
-firstName: Baby Morrison
+firstName: Morrison
 collection: Boys
 height: 91cm
 measurementType: chest
 bust: 53cm
 waist: 46.5cm
 hips: 48.5cm
-size: 1-2
+size: '2'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
