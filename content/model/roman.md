@@ -7,8 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/04f29889-dc68-48ed-872d-496fd81a3318/-/crop/667x964/581,187/-/preview/
 firstName: Roman
 collection: Boys
+height: 116cm
 measurementType: chest
+bust: 62cm
+waist: 57cm
+hips: 65cm
 size: 5-6
+shoeSize: 12-13
 hair: Brown
 eyes: Brown
 imagePortfolio:
