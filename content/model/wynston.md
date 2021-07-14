@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: ' Baby Wynston'
+title: Aa Wynston
 featuredImage: 'https://ucarecdn.com/e238c25b-8fea-4593-a0cb-2a01a1c9ecb8/'
 imageThumbnail: >-
   https://ucarecdn.com/2627d2d6-6173-4850-af24-ea1895d085ba/-/crop/519x776/364,390/-/preview/
-firstName: ' Baby Wynston'
+firstName: Wynston
 collection: Boys
 height: 85cm
 measurementType: chest
