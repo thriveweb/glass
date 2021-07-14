@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Havana
-featuredImage: 'https://ucarecdn.com/d473810c-b502-4bf1-a9a8-942bf1fb034c/'
+featuredImage: >-
+  https://ucarecdn.com/d473810c-b502-4bf1-a9a8-942bf1fb034c/-/crop/1128x535/0,25/-/preview/
 imageThumbnail: 'https://ucarecdn.com/4e62a27d-ddbd-46e7-b345-108c412fb61b/'
 firstName: Havana
 collection: Girls
