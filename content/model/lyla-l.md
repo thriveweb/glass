@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Lyla L
+title: Lyla Star
 featuredImage: >-
   https://ucarecdn.com/36f983ef-0c6c-4885-8a41-c29cf1d7d339/-/crop/530x275/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/1207999d-86cf-44dc-9cd9-0af84386e976/-/crop/761x971/169,0/-/preview/
-firstName: Lyla L
+firstName: Lyla Star
 collection: Girls
 height: 89cm
 measurementType: bust
