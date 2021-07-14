@@ -9,11 +9,11 @@ firstName: Jemima
 collection: Girls
 height: 138cm
 measurementType: bust
-bust: 57cm
-waist: 53cm
-hips: 63cm
+bust: 63cm
+waist: 59cm
+hips: 64cm
 size: '10'
-shoeSize: '2'
+shoeSize: 2/3
 hair: Blonde
 eyes: Blue
 imagePortfolio:
