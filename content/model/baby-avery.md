@@ -4,7 +4,7 @@ title: Avery
 featuredImage: >-
   https://ucarecdn.com/a462b288-490b-45af-92f4-dcf45b309bf6/-/crop/1227x681/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/acd92017-c584-404d-b3a1-86c1137e1856/-/crop/575x618/173,0/-/preview/
+  https://ucarecdn.com/88a18668-f2d8-4a26-8b0b-075bd8390117/-/crop/596x845/770,1223/-/preview/
 firstName: Avery
 collection: Boys
 height: 94cm
