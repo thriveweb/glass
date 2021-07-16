@@ -30,5 +30,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/95312147-8dd4-450c-b6d0-48618bc4d48b/'
   - image: 'https://ucarecdn.com/39b59d15-731f-49df-9382-6953332d53c7/'
   - image: 'https://ucarecdn.com/7174e027-3421-4a05-96a7-55bf7b64306a/'
+  - image: 'https://ucarecdn.com/28ab06eb-4b65-41ec-93eb-0e02b1d38d69/'
 ---
 
