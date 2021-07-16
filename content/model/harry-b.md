@@ -6,13 +6,13 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/7e997330-1862-4c60-a8c0-5846a5209b04/'
 firstName: Harry B
 collection: Boys
-height: 93cm
+height: 105 cm
 measurementType: chest
-bust: 53cm
-waist: 53cm
-hips: 54cm
-size: 2-3
-shoeSize: '8'
+bust: 55 cm
+waist: 52 cm
+hips: 52cm
+size: '4'
+shoeSize: '11'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
