@@ -6,12 +6,12 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/fc30825a-daab-4e64-83f1-5f91732baae3/'
 firstName: Juan
 collection: Boys
-height: 106cm
+height: 113cm
 measurementType: chest
 bust: 54cm
-waist: 53cm
-hips: 54cm
-size: '4'
+waist: 57cm
+hips: 60cm
+size: '5'
 shoeSize: '11'
 hair: Black
 eyes: Dark Brown
