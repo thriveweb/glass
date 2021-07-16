@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/ecf507d2-4b0d-4da0-bf0a-de6159f766d7/-/preview/-/enhance/59/
 firstName: Jiana
 collection: Girls
-height: 95cm
+height: 104cm
 measurementType: bust
 bust: 51cm
-waist: 47cm
-hips: 49cm
+waist: 52cm
+hips: 56cm
 size: '4'
-shoeSize: '11'
+shoeSize: '12'
 hair: Black
 eyes: Dark Brown
 imagePortfolio:
