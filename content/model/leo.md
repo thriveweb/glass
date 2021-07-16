@@ -1,9 +1,8 @@
 ---
 template: ModelPage
 title: Leo
-featuredImage: 'https://ucarecdn.com/c15c6f26-4e55-46e3-83e4-57e061705a16/'
-imageThumbnail: >-
-  https://ucarecdn.com/4789a551-d649-4621-82a5-e542a7ff3885/-/crop/1481x1500/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/c53cd2de-0398-4a12-b204-c898cbcd0976/'
+imageThumbnail: 'https://ucarecdn.com/1a947626-b5ac-424f-95ff-3b77a4804142/'
 firstName: Leo
 collection: Boys
 height: 83cm
@@ -16,13 +15,10 @@ shoeSize: '5'
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/4edd3a18-baa2-4f36-a39a-bec3ecde743d/'
-  - image: 'https://ucarecdn.com/2b1177fa-b613-4fbc-be96-709559b7adb2/'
-  - image: 'https://ucarecdn.com/c4f44165-509c-4346-8c11-e0a888778857/'
-  - image: 'https://ucarecdn.com/72906a50-5df6-496f-b06c-c3ba2045c453/'
-  - image: 'https://ucarecdn.com/07decdcf-e587-49f4-947d-88444299b233/'
-  - image: 'https://ucarecdn.com/5c7b10da-b32f-43cb-80e7-c1e8aefbd751/'
-  - image: 'https://ucarecdn.com/30d7d06f-c897-471c-a68d-5088d957e83c/'
+  - image: 'https://ucarecdn.com/780b5ac8-12b0-4ed3-9385-ef609ddfd8b7/'
+  - image: 'https://ucarecdn.com/9da7f30a-1755-4e5d-915e-e5f51453393f/'
+  - image: 'https://ucarecdn.com/bdca9da6-154f-460a-ac2c-87d4da255669/'
+  - image: 'https://ucarecdn.com/7d934501-8837-4fe8-adaf-9e4399f16e30/'
 meta: {}
 ---
 
