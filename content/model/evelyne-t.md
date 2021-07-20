@@ -12,8 +12,8 @@ measurementType: bust
 bust: 54cm
 waist: 53cm
 hips: 56cm
-size: '3'
-shoeSize: Kids 9
+size: '5'
+shoeSize: Kids 12
 hair: Black
 eyes: Brown
 imagePortfolio:
