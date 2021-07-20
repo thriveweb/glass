@@ -8,7 +8,11 @@ firstName: Kelly
 collection: Global
 height: 172cm
 measurementType: bust
+bust: 78cm
+waist: 72cm
+hips: 97cm
 size: 8-10
+shoeSize: '8'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
