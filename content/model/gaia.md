@@ -7,12 +7,12 @@ featuredVideoMobile: 'https://ucarecdn.com/b189093e-1384-4e93-933f-238d286b8ee9/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/131218_15.jpg'
 firstName: Gaia
 collection: Girls
-height: 140cm
+height: 150cm
 measurementType: bust
-bust: 61cm
-waist: 54cm
-hips: 69cm
-size: '8'
+bust: 73cm
+waist: 60cm
+hips: 73cm
+size: '12'
 shoeSize: Kids 1 -2
 hair: Blonde
 eyes: Blue
