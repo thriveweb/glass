@@ -11,9 +11,9 @@ firstName: Emily
 collection: Women
 height: 171cm
 measurementType: bust
-bust: 82cm
+bust: 81cm
 waist: 66cm
-hips: 91cm
+hips: 93cm
 size: '8'
 shoeSize: '8'
 hair: Blonde
