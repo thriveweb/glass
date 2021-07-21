@@ -8,6 +8,7 @@ imageThumbnail: >-
 firstName: Yohan
 collection: Boys
 measurementType: chest
+size: '2'
 hair: Brown
 eyes: Brown
 imagePortfolio:
