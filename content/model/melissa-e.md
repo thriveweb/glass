@@ -9,7 +9,7 @@ collection: Classic
 height: 154cm
 measurementType: bust
 bust: 75cm
-waist: 69cm
+waist: 63cm
 hips: 80cm
 size: 6-8
 shoeSize: '6'
