@@ -2,7 +2,7 @@
 template: ModelPage
 title: Gus
 featuredImage: >-
-  https://ucarecdn.com/ca8a2be5-c1b8-444d-aa00-7685c7aab55d/-/crop/2048x1030/0,0/-/preview/
+  https://ucarecdn.com/22f6e85c-ed75-40ae-8acf-83470f8ba505/-/crop/948x374/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/564fd622-d72a-441f-8901-a19d93cbfaf2/'
 firstName: Gus
 collection: Boys
@@ -18,7 +18,9 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/d295c3be-95de-464e-9747-5a2bf06bf759/'
   - image: 'https://ucarecdn.com/c3573731-ff5a-49b5-bae4-3f45a9218560/'
+  - image: 'https://ucarecdn.com/ccd0b850-012b-4b04-b1a1-9d3f92970e23/'
   - image: 'https://ucarecdn.com/367d9519-d4eb-46f7-b479-be81151edfa4/'
+  - image: 'https://ucarecdn.com/3ff26aa9-5279-42a3-88f0-890db7412919/'
   - image: 'https://ucarecdn.com/0dfba73f-24ef-439b-a19c-a83c1dd6e1bf/'
   - image: 'https://ucarecdn.com/e052a511-1718-4140-8b22-9a76914d826c/'
   - image: 'https://ucarecdn.com/8e4a8834-1e7f-44db-9ce8-cadd367b81a6/'
