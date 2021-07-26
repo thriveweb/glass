@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Harper
-featuredImage: 'https://ucarecdn.com/a4052852-0419-4336-aeb2-5ca0561ca9fd/'
+featuredImage: >-
+  https://ucarecdn.com/06c51063-2169-40a3-a21c-fd277695672f/-/crop/1907x982/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/8e7516a5-6438-45d7-9056-bafbd7725e2a/-/crop/1189x1818/186,62/-/preview/
 firstName: Harper
@@ -17,7 +18,9 @@ hair: Black
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/db61ec33-aebe-4587-846a-b1ddfaa24cc6/'
+  - image: 'https://ucarecdn.com/22e11dfc-516d-4b48-84a4-0c362b329a87/'
   - image: 'https://ucarecdn.com/03e22671-97c4-481b-b67f-5461f1001236/'
+  - image: 'https://ucarecdn.com/d6bfa379-f08d-497d-b95a-ad963b4f1f27/'
   - image: 'https://ucarecdn.com/51cd6004-212a-48e1-acc3-fb0d8630ba50/'
   - image: 'https://ucarecdn.com/0d1e00fb-7ae1-4321-a0b2-69fe42de14c5/'
   - image: 'https://ucarecdn.com/3fcd020e-2358-45ee-91e4-ba30d27d00b8/'
