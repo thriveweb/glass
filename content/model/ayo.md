@@ -16,11 +16,13 @@ shoeSize: kids 10
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://glassmanagement.imgix.net/images/uploads/ayo27276.jpg'
+  - image: 'https://ucarecdn.com/bab68c33-c109-4d36-ac75-29f804e6d4be/'
   - image: 'https://ucarecdn.com/9ee9d52f-9839-4901-85aa-6e01e9fd916a/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo4782r634872.jpg'
   - image: 'https://ucarecdn.com/a55e8b3d-989e-4d65-aeaf-b6fe98cd7249/'
+  - image: 'https://ucarecdn.com/92727fb0-5814-4a7c-9dd5-1c306deddbbf/'
   - image: 'https://ucarecdn.com/5f69f359-a2ee-49f1-add1-c149933a5ee1/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/ayo27276.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo72634327123111111.jpg'
   - image: 'https://ucarecdn.com/6c7377ca-889c-4a2f-8cc3-0405eb0c291b/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo236789.jpg'
