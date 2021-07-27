@@ -12,6 +12,7 @@ bust: 84cm
 waist: 63cm
 hips: 97cm
 size: 10-12
+shoeSize: '8.5'
 hair: 'Brown '
 eyes: Dark Brown
 imagePortfolio:
