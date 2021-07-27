@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jesse
 featuredImage: >-
-  https://ucarecdn.com/9477f788-0012-4540-9b34-ef39540f41ff/-/crop/960x535/0,0/-/preview/
+  https://ucarecdn.com/9477f788-0012-4540-9b34-ef39540f41ff/-/crop/960x534/0,163/-/preview/
 imageThumbnail: 'https://ucarecdn.com/025035a6-f9ad-4d78-88cb-84383b9c7496/'
 firstName: Jesse
 collection: Girls
