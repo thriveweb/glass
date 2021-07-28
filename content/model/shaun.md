@@ -8,6 +8,12 @@ imageThumbnail: >-
 firstName: Shaun
 collection: Global
 height: 181cm
+measurementType: chest
+bust: 108cm
+waist: 97cm
+hips: 101cm
+shoeSize: '10.5'
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/cf3e4c39-d741-478d-920c-ef77913fe97d/'
   - image: 'https://ucarecdn.com/d45eefcd-8359-4b32-8a2b-8417873515b6/'
