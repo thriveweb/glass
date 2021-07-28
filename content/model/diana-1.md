@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Diana
+title: Diana A
 featuredImage: >-
   https://ucarecdn.com/6bc699d3-f48d-42fa-9fd8-175d2fffc147/-/crop/2048x1597/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/835f2f27-1e09-4a5e-a25b-3bf28a5db76c/'
