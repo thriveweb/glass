@@ -71,7 +71,7 @@ partners:
   - image: 'https://glassmanagement.imgix.net/images/uploads/download-4.jpg'
   - image: 'https://ucarecdn.com/23fa168e-1b40-4836-a509-319d848031ed/'
   - image: 'https://ucarecdn.com/a8c7ae5f-8225-4b40-8946-d2bb313ec645/'
-  - image: 'https://ucarecdn.com/7b41afa4-a11e-4647-bec1-015cc6afe058/'
+  - image: 'https://ucarecdn.com/b7ec7dfd-18f8-41a1-b428-0d168e552f83/'
   - image: 'https://ucarecdn.com/a388d10b-ff20-4fc2-b95c-49c5d96bf469/'
   - image: 'https://ucarecdn.com/3adf40ba-2fbd-4f67-a4f6-62b374534563/'
   - image: 'https://ucarecdn.com/2a218b1b-af64-4605-93c0-c03568de3cf4/'
@@ -95,6 +95,9 @@ partners:
   - image: 'https://ucarecdn.com/16f68b82-ce7b-4985-aea2-336c0c9f4b7e/'
   - image: 'https://ucarecdn.com/c8a89028-167d-466e-ba53-8b7f8373f9a4/'
   - image: 'https://ucarecdn.com/cd43a6a4-6646-49ba-b036-d4920328954a/'
+  - image: 'https://ucarecdn.com/2a08c42d-4465-4b2d-bd98-c3f512777d84/'
+  - image: 'https://ucarecdn.com/84d9b4a4-d8e4-4e91-88c0-95e3a777f085/'
+  - image: 'https://ucarecdn.com/7b00bb1c-8176-446d-9ca0-1efb65dbc37a/'
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
