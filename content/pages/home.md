@@ -244,9 +244,6 @@ testimonials:
       logo: 'https://ucarecdn.com/d35fe314-a250-431a-8def-1dc546dfc400/'
       name: Netflix US Series
       content: >-
-        <!--StartFragment-->
-
-
 
 
         "Many of the extras were envious of the Glass talent -- apparently Glass
@@ -257,14 +254,8 @@ testimonials:
         being honest and taking care of their talent.
 
 
-
-
         Just wanted to pass on that wonderful feedback and congratulate
         yourself, Tegan and the team"
-
-
-
-        <!--EndFragment-->
     - title: Sheridan
       content: >-
         "Thanks again for all the kids you submitted for the Sheridan casting
