@@ -265,6 +265,16 @@ testimonials:
 
 
         <!--EndFragment-->
+    - title: Sheridan
+      content: >-
+        "Thanks again for all the kids you submitted for the Sheridan casting
+        and for all your help.
+
+
+        The shoot went well yesterday – Kiyan is SUCH a cutie and performed
+        brilliantly. He followed direction well and nailed it!"
+      logo: 'https://ucarecdn.com/958f7490-1443-45d7-8c6c-67ea3e175653/'
+      name: Julie from Sheridan Kids
   title: What Our Clients Say
 featuredPosts:
   blogPosts:
