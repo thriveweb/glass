@@ -1,9 +1,8 @@
 ---
 template: ModelPage
 title: Kayla
-featuredImage: 'https://ucarecdn.com/8df316ee-bcf8-489a-acdb-576b02a24290/'
-imageThumbnail: >-
-  https://ucarecdn.com/79c08429-2536-4d45-8509-84ae4425919a/-/crop/1459x1720/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/129a6c8f-29e0-48a9-9da9-aa8b3a4490a4/'
+imageThumbnail: 'https://ucarecdn.com/cff0d7b9-4bcc-4752-b701-b6fe07ea9851/'
 firstName: Kayla
 collection: Women
 height: 173cm
@@ -25,6 +24,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/5c1f9d81-5ead-4bfa-b898-7312c71d37b2/'
   - image: 'https://ucarecdn.com/0c6a1702-6823-4689-89f2-5a7fc70b4779/'
   - image: 'https://ucarecdn.com/91099fae-a378-4f8a-b8b5-4801de2f3de3/'
+  - image: 'https://ucarecdn.com/7389a55a-85e4-4480-95b8-d0cd83b3f0dd/'
   - image: 'https://ucarecdn.com/794e3b77-d239-4526-bd92-61d14d6a6a51/'
   - image: 'https://ucarecdn.com/eaa3e91c-59e0-428f-b059-2fda11537dd0/'
   - image: 'https://ucarecdn.com/239cfe57-a3e2-4fe7-a212-255a8202bbc1/'
