@@ -12,8 +12,8 @@ measurementType: chest
 bust: 61cm
 waist: 56cm
 hips: 65cm
-size: '7'
-shoeSize: US 3
+size: 7/8
+shoeSize: US 3/4
 hair: Brown
 eyes: Brown
 imagePortfolio:
