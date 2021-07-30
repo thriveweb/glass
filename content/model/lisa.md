@@ -9,8 +9,8 @@ firstName: Lisa
 collection: Classic
 height: 150cm
 measurementType: chest
-size: 10-12
-shoeSize: US6 - 7
+size: '12'
+shoeSize: US 6.5/7
 hair: Black
 eyes: Brown
 imagePortfolio:
