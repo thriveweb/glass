@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/ae62af13-2a0f-4c70-9b25-2d8957be4a4d/'
 imageThumbnail: >-
   https://ucarecdn.com/716586b5-822b-4c6f-b8ab-ad10bf0f4e62/-/crop/1277x1633/790,0/-/preview/
 firstName: Nikolina
-collection: Global
+collection: Emerging
 height: 170cm
 measurementType: bust
 bust: 87cm
