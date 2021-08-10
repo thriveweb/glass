@@ -13,7 +13,7 @@ hips: 68cm
 size: Kids 12
 shoeSize: USA 5
 hair: Dark Brown
-eyes: Eyes
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/b8923b8d-0230-4635-adc3-cbdd88b69e93/'
   - image: 'https://ucarecdn.com/a8496e82-5dcd-488f-a391-0b3ced497d4d/'
