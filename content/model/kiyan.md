@@ -2,7 +2,7 @@
 template: ModelPage
 title: Kiyan
 featuredImage: >-
-  https://ucarecdn.com/8758d181-0cc3-41af-bdd5-6fdc16b6fa20/-/crop/3280x1479/0,0/-/preview/
+  https://ucarecdn.com/142cbcce-49c0-4e37-91f4-21f94349a549/-/crop/1920x962/0,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/83ba95d9-3387-4934-ade3-06c127c6790d/'
 featuredVideoMobile: 'https://ucarecdn.com/9d4ad5f4-848f-4754-8534-a0aff3276759/'
 imageThumbnail: >-
@@ -20,11 +20,14 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/2cd97380-60ac-4dea-abb8-4aaa6414dc3c/'
   - image: 'https://ucarecdn.com/6448750a-be63-4ba9-bdea-7e9c34cc9223/'
+  - image: 'https://ucarecdn.com/ac06ba0b-4842-47d3-9d24-dd66f7a24bbe/'
   - image: 'https://ucarecdn.com/d762201a-ce38-43fd-80f0-9c0886cf8d86/'
   - image: 'https://ucarecdn.com/760460d3-3aa8-4170-84bb-fb84e3c4f5b0/'
+  - image: 'https://ucarecdn.com/ae7d5058-29e0-47e6-ae90-27984e0f0c42/'
   - image: 'https://ucarecdn.com/c6f5f293-0f03-46d3-b651-2270aa5f5171/'
   - image: >-
       https://ucarecdn.com/791368bf-83a9-4998-bcc7-d97022c09c9d/-/preview/-/enhance/92/
+  - image: 'https://ucarecdn.com/d7ff8941-d8d2-4202-ba71-2447dd5f9038/'
   - image: 'https://ucarecdn.com/728b8d4d-29fe-4312-893a-c08099d24e9c/'
   - image: 'https://ucarecdn.com/fd9a2261-98b4-4db4-a6f2-14feaf76abd4/'
   - image: 'https://ucarecdn.com/7d0d60eb-c1a8-4956-b3f9-687d6452b02d/'
