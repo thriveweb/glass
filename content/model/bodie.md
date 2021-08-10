@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/ed8cbb65-ea08-442b-8c15-d94a7ca570a2/-/crop/720x609/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/552a14a5-d0f7-46b3-ba00-e926817a397c/'
 firstName: Bodie
-collection: Men
+collection: Global
 height: 183cm
 measurementType: chest
 bust: 91cm
