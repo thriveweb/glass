@@ -10,7 +10,7 @@ measurementType: chest
 bust: 112cm
 waist: 92cm
 hips: 109cm
-size: 'Pants: 34-36  Shirt: L'
+size: 'Pants: 36  Shirt: XL'
 shoeSize: '11.5'
 hair: None
 eyes: Hazel
