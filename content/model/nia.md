@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Nia
-featuredImage: 'https://ucarecdn.com/f16f6011-489b-4105-ac0f-8cb34d37272c/'
+featuredImage: >-
+  https://ucarecdn.com/fcdab05b-e06a-4265-8d7c-d4fa05535461/-/crop/962x394/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/0e1f4931-aa3a-4338-a470-b207b574f3d1/-/crop/1456x1408/488,0/-/preview/
 firstName: Nia
@@ -17,8 +18,11 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/b87dd125-c6ef-407c-9085-cf85a4a4789b/'
+  - image: 'https://ucarecdn.com/4d261b46-dcca-4d19-ab92-2c7684307f18/'
   - image: 'https://ucarecdn.com/51aa98df-a725-4702-a6d3-f09623cfcfdd/'
+  - image: 'https://ucarecdn.com/aa6128da-cf9e-48af-8729-6742dee63e95/'
   - image: 'https://ucarecdn.com/55908d1f-c9d6-4290-b0c7-06c3cb0de5a0/'
+  - image: 'https://ucarecdn.com/4ed73762-2e2d-4d63-8184-7884302b8950/'
   - image: 'https://ucarecdn.com/ace91b31-ef30-4534-81dc-f976eb72f726/'
   - image: 'https://ucarecdn.com/5ca51bdc-f51d-46c7-87dc-873f56e326e2/'
   - image: 'https://ucarecdn.com/7c775d1d-3740-408d-8b1b-f524edf6017f/'
