@@ -11,7 +11,7 @@ measurementType: bust
 bust: 87cm
 waist: 71cm
 hips: 99cm
-size: 7-8
+size: '10'
 shoeSize: 7-8
 hair: White
 eyes: Blue
