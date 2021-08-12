@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Max R
-featuredImage: 'https://ucarecdn.com/c3a08e8a-9fd4-4865-92ab-5b2b34706065/'
+featuredImage: 'https://ucarecdn.com/5d52f1e9-5ccf-4a7f-b228-219cbdfc9549/'
 imageThumbnail: 'https://ucarecdn.com/d435f4c3-a302-4094-84c5-01fa18fbf8be/'
 firstName: Max R
 collection: Boys
@@ -17,6 +17,7 @@ eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/b8923b8d-0230-4635-adc3-cbdd88b69e93/'
   - image: 'https://ucarecdn.com/a8496e82-5dcd-488f-a391-0b3ced497d4d/'
+  - image: 'https://ucarecdn.com/022e94df-c25f-4142-8fba-c936f1b8c641/'
   - image: 'https://ucarecdn.com/ce001556-f0bf-498d-9975-30989ef04260/'
   - image: 'https://ucarecdn.com/46533245-d899-48f0-9071-b314b7eee695/'
   - image: 'https://ucarecdn.com/780307ff-5abc-46a2-b430-28803a80ffd5/'
