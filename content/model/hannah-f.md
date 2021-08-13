@@ -18,17 +18,13 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/bc2312c4-63e2-442a-96c7-29bcbf33ad12/'
   - image: 'https://ucarecdn.com/42e9357a-c55d-4572-a958-5c5131ed06c5/'
   - image: 'https://ucarecdn.com/fd910c25-5fca-4df6-8b30-39ab10dd03e5/'
-  - image: 'https://ucarecdn.com/913d7f8f-ebe6-4ddb-a835-79b11475e05c/'
   - image: 'https://ucarecdn.com/6319755b-c37e-4360-9d1e-f33610876191/'
   - image: 'https://ucarecdn.com/a34b1487-47c7-4a41-9573-db3beb7c591c/'
   - image: 'https://ucarecdn.com/4708efe2-80d1-4931-a1a9-a38eb7ed4e66/'
   - image: 'https://ucarecdn.com/2f3b2350-1766-4311-870c-ccde99498cc3/'
   - image: 'https://ucarecdn.com/208be008-bf0b-487e-91f0-b7d5514db7fa/'
   - image: 'https://ucarecdn.com/de3bbf72-5369-4a8f-95cd-c83ee17badb4/'
-  - image: 'https://ucarecdn.com/0e9601f1-7433-4f0f-9a44-841c527d5d4f/'
   - image: 'https://ucarecdn.com/d7c357ad-2c17-4228-9497-d85bb553460b/'
   - image: 'https://ucarecdn.com/fe1b86dc-ed1c-416c-9cc8-6b36d4983cb0/'
-  - image: 'https://ucarecdn.com/1a88274e-b016-4077-8bb9-539f8cf2f6bf/'
-  - image: 'https://ucarecdn.com/7733bce1-6908-4f2f-b31c-fad44dd4be94/'
 ---
 
