@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Hannah F
-featuredImage: 'https://ucarecdn.com/5767712b-f2e8-49cb-b9d3-a5f4c2cfff68/'
+featuredImage: >-
+  https://ucarecdn.com/5767712b-f2e8-49cb-b9d3-a5f4c2cfff68/-/crop/2449x1221/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/5589ffb9-1c33-4143-a500-408cefacf581/'
 firstName: Hannah F
 collection: Classic
