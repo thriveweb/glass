@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Benjamin
-featuredImage: 'https://ucarecdn.com/7ba31cf9-bc44-4476-ba24-df38645de4a0/'
+featuredImage: >-
+  https://ucarecdn.com/d97a2c7a-58e0-47eb-867a-a077574bcd97/-/crop/2000x1257/0,278/-/preview/
 imageThumbnail: 'https://ucarecdn.com/03c037b1-8bcd-46d9-9923-bd8831179a5e/'
 firstName: Benjamin
 collection: Men
