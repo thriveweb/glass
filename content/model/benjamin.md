@@ -2,8 +2,9 @@
 template: ModelPage
 title: Benjamin
 featuredImage: >-
-  https://ucarecdn.com/d97a2c7a-58e0-47eb-867a-a077574bcd97/-/crop/2000x1257/0,278/-/preview/
-imageThumbnail: 'https://ucarecdn.com/03c037b1-8bcd-46d9-9923-bd8831179a5e/'
+  https://ucarecdn.com/9fd28bca-46d1-470d-83d5-f549a6a9472f/-/crop/4396x2831/0,315/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/546e5e39-3531-4fc7-97ed-f6b6d52b8edc/-/crop/3573x4838/907,0/-/preview/
 firstName: Benjamin
 collection: Men
 height: 187cm
