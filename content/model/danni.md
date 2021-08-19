@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Danni
+title: Dannie
 featuredImage: >-
   https://ucarecdn.com/756fb9c4-815f-476d-8b99-e8f50a240f53/-/crop/1080x645/0,61/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b2fe9da8-49c8-4edd-92db-69850ed4f759/-/crop/330x387/57,6/-/preview/
-firstName: Danni
+firstName: Dannie
 collection: Girls
 height: 119cm
 measurementType: chest
