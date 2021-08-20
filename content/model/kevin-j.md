@@ -12,7 +12,7 @@ measurementType: chest
 bust: 97cm
 waist: 75cm
 hips: 97cm
-size: 32cm
+size: '32'
 shoeSize: 43/44
 hair: 'Dark/Blonde '
 eyes: Brown
