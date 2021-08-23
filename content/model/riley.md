@@ -22,14 +22,13 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/44a7906e-59fc-44d6-b255-a8b4916ea741/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/riley38429.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/riley39842.jpeg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/riley4985.jpeg'
+  - image: 'https://ucarecdn.com/f0f41e24-bb54-4486-8e36-fa4c447040a3/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/riley8347.jpeg'
   - image: 'https://ucarecdn.com/d2e75172-5b86-48aa-a661-32454263c3a1/'
   - image: 'https://ucarecdn.com/4ffeb8c2-40ff-4b70-be60-4b5154ed814b/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/riley634278.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/riley893724.jpeg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/riley239847.jpeg'
-  - image: 'https://ucarecdn.com/6c861dbe-7f0b-44c6-a416-bc473f80f05a/'
 meta:
   title: Riley
 ---
