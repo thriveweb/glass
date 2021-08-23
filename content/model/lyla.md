@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Lyla
-featuredImage: 'https://ucarecdn.com/31e3d551-db05-49c7-8e93-6e0835f7dfc2/'
+featuredImage: >-
+  https://ucarecdn.com/d8ca78cd-901d-42f8-8f2d-bde9656b3b31/-/crop/1920x703/0,28/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/f3c68be6-4260-410c-a1c1-4f4016965fee/-/crop/3179x3788/156,0/-/preview/
 firstName: Lyla
@@ -19,7 +20,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/49fdc78e-4f2f-4303-a57c-58f52204bd67/'
   - image: 'https://ucarecdn.com/6f77544a-5565-462c-8e1d-25e271f2be72/'
   - image: 'https://ucarecdn.com/915564a0-5b5d-4de7-bad9-7c8f19d4dcaa/'
+  - image: 'https://ucarecdn.com/aae92b0e-26ac-4558-a2d1-2d22b34a2112/'
   - image: 'https://ucarecdn.com/d4f72c70-c6c9-4bff-8a0d-d52bfee7a8fc/'
+  - image: 'https://ucarecdn.com/68405591-6b92-4472-a01f-c70dbb5e010d/'
   - image: 'https://ucarecdn.com/39a62a5b-37f1-48ef-916d-784e479afa79/'
   - image: 'https://ucarecdn.com/c0455522-ed6d-4bc4-8c9f-e917b12cbcc5/'
   - image: 'https://ucarecdn.com/355503cf-55ae-45de-87c4-9befce9a4f83/'
@@ -36,6 +39,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/203d9533-6c43-4fad-a3a4-cfe2f57ce0c9/'
   - image: 'https://ucarecdn.com/8129b1d9-c216-47f4-85e9-7e3a648daf2b/'
   - image: 'https://ucarecdn.com/22c1e26c-9f22-41fb-b7e5-13d84fc46eea/'
+  - image: 'https://ucarecdn.com/31881d2e-d683-4e0f-9286-4096aea88eef/'
   - image: 'https://ucarecdn.com/82693001-61c6-4c6a-be4d-0dd8c2c3a0f5/'
   - image: 'https://ucarecdn.com/dd2eac5e-a61c-408b-94a2-ca9424e5dc7f/'
   - image: 'https://ucarecdn.com/105d0f14-67a3-4b43-8fbb-06e0f035140f/'
