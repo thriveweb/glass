@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Zion
-featuredImage: 'https://ucarecdn.com/25fad16f-21a7-4ea0-9588-d629c87d9a09/'
+featuredImage: >-
+  https://ucarecdn.com/0bae318b-bdbc-4b07-9579-9fd0f867436a/-/crop/724x300/276,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b90b106a-51d8-4fd7-ae6e-c9016ad90cdc/-/crop/3503x3648/679,0/-/preview/
 firstName: Zion
@@ -26,6 +27,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/baf0b430-a3f7-4b02-84f2-708bcce52f5b/'
   - image: 'https://ucarecdn.com/5995859b-ec88-4275-bc70-ba6f6593c3e5/'
   - image: 'https://ucarecdn.com/b50dcd7d-b4e5-4944-8f09-3ed27208221f/'
+  - image: >-
+      https://ucarecdn.com/b3a4b4f1-c5a4-4379-9527-bd2a11759380/-/crop/677x300/323,0/-/preview/
   - image: 'https://ucarecdn.com/55a46bc4-2d8e-46d5-84ff-a02eda8e14ca/'
   - image: 'https://ucarecdn.com/b9677693-483b-41db-8f1f-5f8813a3f6c7/'
   - image: 'https://ucarecdn.com/58e3bf7f-3ce9-4632-b66f-7a10723138b4/'
