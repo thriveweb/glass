@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Maddie
-featuredImage: 'https://ucarecdn.com/fdea9028-7496-4cf1-8082-ca5ecc5b9caf/'
+featuredImage: 'https://ucarecdn.com/86ef4e09-c73d-47a9-8fb4-c267e77c625e/'
 imageThumbnail: 'https://ucarecdn.com/db3ca3d6-1ede-4611-a5ef-729ce570a06e/'
 firstName: Maddie
 collection: Girls
@@ -17,6 +17,8 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/804299d6-f88d-4bd7-bfe9-52a84b093c16/'
   - image: 'https://ucarecdn.com/f1cfab66-b1d8-4713-90fb-86f29641329d/'
+  - image: >-
+      https://ucarecdn.com/a14de608-7a40-48c8-9282-cd22123d4035/-/crop/576x300/126,0/-/preview/
   - image: 'https://ucarecdn.com/3571d287-3139-4015-8333-653d5ae89a2d/'
   - image: >-
       https://ucarecdn.com/342fbf37-3ab7-40c6-be41-9f019b391026/-/crop/704x740/0,0/-/preview/
