@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Kobe '
 featuredImage: >-
-  https://ucarecdn.com/a27d139e-8a6b-4b15-84fa-d5a7dad2e718/-/crop/1632x1349/0,211/-/preview/
+  https://ucarecdn.com/9cb91883-6a45-4136-b648-5358d0248459/-/crop/780x300/220,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/f1c4119f-1a3f-4519-9d0d-2b5ffeb50271/'
 firstName: Kobe
 collection: Men
