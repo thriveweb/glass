@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Nathalie
+title: Nathalie E
 featuredImage: 'https://ucarecdn.com/19a228d4-4a1a-4eee-8a6e-a1ebfe9d5b08/'
 imageThumbnail: >-
   https://ucarecdn.com/ccf31aad-79c8-4276-9fb9-be87b861f0ed/-/crop/427x534/0,0/-/preview/
-firstName: Nathalie
+firstName: Nathalie E
 collection: Global
 height: 166cm
 measurementType: bust
