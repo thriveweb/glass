@@ -32,6 +32,8 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_5125.jpg'
   - image: 'https://ucarecdn.com/15e139f9-1a61-498d-8c16-f9b0faa8a6b1/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_5597.jpg'
+  - image: >-
+      https://ucarecdn.com/bc20f088-fdf6-4884-9a55-7c668b6a080b/-/crop/889x300/0,0/-/preview/
   - image: 'https://ucarecdn.com/8f6edae5-0db7-40b1-bbfe-c730ad9cefba/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/cait-1-.png'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_5772.jpg'
