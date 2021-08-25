@@ -6,7 +6,7 @@ featuredImage: >-
 featuredVideo: 'https://ucarecdn.com/04063278-d496-4c62-875b-5565fc10976a/'
 featuredVideoMobile: 'https://ucarecdn.com/130b8ce4-5592-481b-a123-40d3b0f31d66/'
 imageThumbnail: >-
-  https://ucarecdn.com/ccaeef98-3daf-4c63-ad32-3d90dd2aeb52/-/crop/2996x3921/474,305/-/preview/
+  https://ucarecdn.com/909aa38f-b659-4241-9e58-a42eae2641d3/-/crop/879x1098/671,123/-/preview/
 firstName: Emily
 collection: Women
 height: 171cm
