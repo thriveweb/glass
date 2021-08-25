@@ -11,10 +11,10 @@ measurementType: chest
 bust: 91cm
 waist: 76cm
 hips: 96cm
-size: Small shirt/ 30-32 pants
+size: Small Shirt/ 30-32 Pants
 shoeSize: '10'
-hair: black
-eyes: Dark brown
+hair: Black
+eyes: Dark Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/90cd47d4-16e2-4bca-9850-a0be28e79368/'
   - image: 'https://ucarecdn.com/28808589-8dea-4c2d-98fe-ceec2415a4d9/'
