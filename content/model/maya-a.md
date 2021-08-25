@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/06b58d49-8453-4599-8646-04ea902c0cc5/'
 featuredVideo: 'https://ucarecdn.com/a5d41a85-c4fd-4d0f-9858-f441472e3805/'
 featuredVideoMobile: 'https://ucarecdn.com/ae9796c4-c827-46c1-bbe0-7b7c40434ca5/'
 imageThumbnail: >-
-  https://ucarecdn.com/9561b4e7-8b4d-481b-baff-f48d3bc3cb34/-/crop/597x937/340,399/-/preview/
+  https://ucarecdn.com/82283e5a-ee82-4b32-aad9-8ea855fd0e87/-/crop/1246x1569/229,401/-/preview/
 firstName: Maya A
 collection: Emerging
 height: 170cm
