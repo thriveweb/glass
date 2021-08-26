@@ -1,7 +1,8 @@
 ---
 template: JoinUsPage
-slug: 'join-us'
-featuredImage: https://glassmanagement.imgix.net/images/uploads/avel-chuklanov-509630-unsplash.png
+slug: join-us
+featuredImage: >-
+  https://glassmanagement.imgix.net/images/uploads/avel-chuklanov-509630-unsplash.png
 subTitle: Fill the Form
 title: Join Us
 intro:
@@ -16,7 +17,11 @@ intro:
     notice on weekdays.
 
 
+    You must be QLD or Northern Rivers based only.
+
+
     Look forward to hearing from you. Please be mindful we are very busy in the
     office so allow some time for us to get back to you.
   title: Expectations & Requirements
 ---
+
