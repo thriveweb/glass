@@ -4,15 +4,15 @@ title: Samuel N
 featuredImage: 'https://ucarecdn.com/c758c419-cf84-4e5c-97a6-84a12a2b038d/'
 imageThumbnail: >-
   https://ucarecdn.com/567d0b83-2c40-4f77-8ac9-efb50dd4764b/-/crop/638x924/296,0/-/preview/
-firstName: Samuel Neal
+firstName: Samuel N
 collection: Men
 height: 185cm
 measurementType: chest
 bust: 106cm
 waist: 89cm
 hips: 110cm
-size: L
-shoeSize: 9 1/2
+size: L/34
+shoeSize: '9.5'
 imagePortfolio:
   - image: 'https://ucarecdn.com/7cc7a57e-739c-4fcc-a460-a733b59e4ed9/'
   - image: 'https://ucarecdn.com/9348d166-6d32-4d8a-9f34-87b72d367c9b/'
