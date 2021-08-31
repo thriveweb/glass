@@ -2,7 +2,7 @@
 template: ModelPage
 title: Chloe H
 featuredImage: >-
-  https://ucarecdn.com/77dc41fa-e267-4761-bb2d-4459a534f301/-/crop/1632x999/0,427/-/preview/
+  https://ucarecdn.com/cad8ddec-7260-40c6-ab94-ee72b0fcd931/-/crop/578x308/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/956aedf2-a100-44d1-bf73-90d4346657a6/-/crop/1758x1626/0,0/-/preview/
 firstName: Chloe H
@@ -22,6 +22,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c440245e-d724-4aff-a82d-0b6125abf488/'
   - image: 'https://ucarecdn.com/565bb206-cce0-423e-bcfa-39c0dd34f8d3/'
   - image: 'https://ucarecdn.com/1d69c035-c853-4e5d-a958-0a3716641bb0/'
+  - image: 'https://ucarecdn.com/3f9e453e-9708-4cf8-9e60-5580f21f4b86/'
   - image: 'https://ucarecdn.com/084af93a-5f0b-427f-8b68-880fefea61b0/'
   - image: 'https://ucarecdn.com/45c853b5-effe-43ed-b561-36ad5b00c734/'
   - image: 'https://ucarecdn.com/503a5f0c-12ec-4b44-a464-1a5b48d49dfc/'
