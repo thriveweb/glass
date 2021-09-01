@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Jillian
-featuredImage: 'https://ucarecdn.com/92afd2d6-1de7-445b-8065-fef7f16a1e62/'
+featuredImage: >-
+  https://ucarecdn.com/98aedbf1-d4d1-48d9-982d-cf09ce354130/-/crop/2305x1430/0,22/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/1208743e-e904-41af-9427-ed20c1e2cb6b/-/crop/1119x1509/333,0/-/preview/
 firstName: Jillian
@@ -22,10 +23,9 @@ imagePortfolio:
       https://ucarecdn.com/2f5e66bf-1b0b-4f98-bab4-2a11ebd21d61/-/preview/-/rotate/90/
   - image: 'https://ucarecdn.com/63f24f3d-90b4-4da6-96b5-2ef51c3681f3/'
   - image: 'https://ucarecdn.com/0a1b02cf-d580-41ac-bb26-bbbfb7b94a3c/'
-  - image: >-
-      https://ucarecdn.com/5374647e-7de8-47d0-b993-0efec69c3409/-/preview/-/rotate/90/
-  - image: 'https://ucarecdn.com/5a5fb0bf-558b-4d53-8593-449ce6b9ba87/'
-  - image: 'https://ucarecdn.com/992d2815-1cdc-4b6c-abff-32928e3b4d1b/'
   - image: 'https://ucarecdn.com/aca0233f-f078-4136-bc24-be16d8829f64/'
+  - image: 'https://ucarecdn.com/05e154e0-0d29-499d-a676-dcfcdd473c26/'
+  - image: 'https://ucarecdn.com/bb268c26-06cc-408e-b6d7-96d9bee0ca6b/'
+  - image: 'https://ucarecdn.com/553e8baa-e4c6-41ef-959a-65d817f5663e/'
 ---
 
