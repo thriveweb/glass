@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Willow
+title: Willow B
 featuredImage: 'https://ucarecdn.com/c7808962-6e33-45c3-ad3c-1776a70c0525/'
 imageThumbnail: >-
   https://ucarecdn.com/85d126fe-2735-4378-9550-026679a624a0/-/crop/538x688/443,0/-/preview/
-firstName: Willow
+firstName: Willow B
 collection: Girls
 height: 115cm
 size: 4-5
