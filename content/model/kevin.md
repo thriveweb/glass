@@ -11,7 +11,7 @@ bust: 116cm
 waist: 97cm
 size: 'Shirt: 42(L) Pants: 36-37 Suit: 44'
 shoeSize: '8.5'
-hair: Fair
+hair: Light Brown
 eyes: Blue/Grey
 imagePortfolio:
   - image: 'https://ucarecdn.com/27fa7afe-5de5-4c05-91b7-b875d9eb3ea5/'
