@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Katy '
 featuredImage: >-
-  https://ucarecdn.com/d691aa9e-09a0-41d9-8b21-1193c1634598/-/crop/5437x3041/27,187/-/preview/
+  https://ucarecdn.com/999b40c8-2958-44f6-9470-6dccf7c40724/-/crop/1242x712/0,658/-/preview/
 imageThumbnail: 'https://ucarecdn.com/18bccbbf-90e5-46d4-b460-539a9469f841/'
 firstName: Katy
 collection: Classic
@@ -19,6 +19,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/014008eb-f28d-47fb-9d2a-8c497399a19a/'
   - image: 'https://ucarecdn.com/01a9dd38-c306-4f01-aeac-3007c4a788c4/'
   - image: 'https://ucarecdn.com/ed4478ec-6168-4435-a81a-dce30f95716b/'
+  - image: >-
+      https://ucarecdn.com/a5677b2a-9f4d-43e6-8b2f-502f91bb5826/-/crop/1242x994/0,622/-/preview/
   - image: 'https://ucarecdn.com/593fcb87-2f62-4dc0-b5ef-b0263c7b9489/'
   - image: 'https://ucarecdn.com/8a052c33-9612-4ff8-9c07-02e98ef249fa/'
   - image: 'https://ucarecdn.com/2ea88cd9-85a8-4f3d-9ce7-37ce5a28e8eb/'
