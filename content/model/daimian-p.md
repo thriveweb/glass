@@ -10,7 +10,7 @@ measurementType: chest
 bust: 106cm
 waist: 92cm
 hips: 103cm
-size: L shirt
+size: 'L shirt - Pants: 36'
 shoeSize: '11'
 hair: Blacl
 eyes: Black
