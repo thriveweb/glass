@@ -4,7 +4,7 @@ title: 'Blessings '
 featuredImage: >-
   https://ucarecdn.com/8fb00626-1c7c-4a64-a7bb-f67c660dcd4c/-/crop/2449x1173/0,108/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/e81246e2-1a76-4963-bf32-8494d643cfbd/-/crop/1062x1369/610,0/-/preview/
+  https://ucarecdn.com/62863e0a-8b67-48f7-94dd-199ba258d9d4/-/crop/402x428/90,0/-/preview/
 firstName: Blessings
 collection: Men
 height: 190cm
