@@ -13,7 +13,7 @@ bust: 60cm
 waist: 58cm
 hips: 59cm
 size: 8-9
-shoeSize: Kids 2-3
+shoeSize: Kids 3
 hair: Blonde
 eyes: Blue
 imagePortfolio:
