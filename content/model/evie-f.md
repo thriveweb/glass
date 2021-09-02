@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Evie F
-featuredImage: 'https://ucarecdn.com/703708c4-8305-43d7-8aa8-45422562d50f/'
+featuredImage: >-
+  https://ucarecdn.com/6ced59c5-bfd1-401f-952a-5820ec5c896b/-/crop/5472x3005/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/c1e39c74-1ad5-4244-91dd-55a5389e1f6f/'
 firstName: Evie F
 collection: Global
