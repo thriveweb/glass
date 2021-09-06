@@ -11,7 +11,7 @@ bust: 73cm
 waist: 68cm
 hips: 80cm
 size: '10'
-shoeSize: US6
+shoeSize: US7
 hair: Black
 eyes: Brown
 imagePortfolio:
