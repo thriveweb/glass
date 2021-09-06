@@ -7,8 +7,8 @@ firstName: Tré
 collection: Boys
 height: 144cm
 measurementType: chest
-bust: 68cm
-waist: 64cm
+bust: 73cm
+waist: 68cm
 hips: 80cm
 size: '10'
 shoeSize: US6
