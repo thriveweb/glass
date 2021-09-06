@@ -7,8 +7,8 @@ firstName: Kodi
 collection: Boys
 height: 147cm
 measurementType: chest
-bust: 73cm
-waist: 68cm
+bust: 74cm
+waist: 69cm
 hips: 78cm
 size: '14'
 shoeSize: US9.5
