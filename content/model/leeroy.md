@@ -1,10 +1,9 @@
 ---
 template: ModelPage
 title: Leeroy
-featuredImage: >-
-  https://ucarecdn.com/25592fc6-2572-47e5-a2b7-c3b71a09a0a4/-/crop/1690x1179/0,46/-/preview/
+featuredImage: 'https://ucarecdn.com/0229e82b-79c4-4d79-9ee7-cf1a31f2c415/'
 imageThumbnail: >-
-  https://ucarecdn.com/41a10fdf-62a9-45e6-8e0c-54ce0c490052/-/crop/1912x2375/315,0/-/preview/
+  https://ucarecdn.com/846fc6f8-c3fb-42e6-9dc7-e4fdac0c7832/-/crop/1081x1669/286,600/-/preview/
 firstName: Leeroy
 collection: Boys
 height: 170cm
@@ -17,12 +16,11 @@ shoeSize: Mens 11
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/95915a2f-a93f-437a-91fd-560d0be74bcd/'
-  - image: 'https://ucarecdn.com/efd59606-2ab3-42d9-a52c-24fa601181a1/'
-  - image: 'https://ucarecdn.com/2c6852ba-8f4f-4e89-aba3-6c2289e5879d/'
-  - image: 'https://ucarecdn.com/a16b39e9-5ef9-4682-9b7c-3d7a6072dcf9/'
-  - image: 'https://ucarecdn.com/1fe04d44-f306-49a8-b237-1a66419fccc2/'
-  - image: 'https://ucarecdn.com/466bb628-0560-43fc-9542-05da4dfe236d/'
-  - image: 'https://ucarecdn.com/1c44b7f0-ec0f-45e7-801b-e26958de88ca/'
+  - image: 'https://ucarecdn.com/7caf798b-13db-4963-80aa-4a7c00ae5844/'
+  - image: 'https://ucarecdn.com/379d83c3-bb2a-4ff0-b1ca-942bfa0a7e6c/'
+  - image: 'https://ucarecdn.com/da1881b7-ca6a-4946-b8ef-e7de6db86fa2/'
+  - image: 'https://ucarecdn.com/f1b06669-7fb3-445a-b4c4-d7c0995f8202/'
+  - image: 'https://ucarecdn.com/5ee0c53c-f8a9-4d08-bf50-7d1e7a6397f5/'
+  - image: 'https://ucarecdn.com/ee52b3be-b47c-4cc1-89c2-e0d4d34c6ebf/'
 ---
 
