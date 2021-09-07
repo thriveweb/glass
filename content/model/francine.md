@@ -13,6 +13,7 @@ bust: 96cm
 waist: 80cm
 hips: 96cm
 size: '10'
+shoeSize: '39'
 hair: Brown
 eyes: Brown
 imagePortfolio:
