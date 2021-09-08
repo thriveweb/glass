@@ -1,0 +1,30 @@
+---
+template: ModelPage
+title: Zayden
+featuredImage: >-
+  https://ucarecdn.com/5f7d1be0-714d-4bc8-a3dc-32f60502db15/-/crop/2248x1344/0,0/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/b9ab3115-0e65-4767-a61d-7ab82aae29d7/-/crop/879x1060/336,0/-/preview/
+firstName: Zayden
+collection: Boys
+height: 115cm
+measurementType: chest
+bust: 60cm
+hips: 63cm
+size: 4-6
+shoeSize: '12'
+hair: Brown
+eyes: Brown
+imagePortfolio:
+  - image: 'https://ucarecdn.com/9ec8e60a-2f33-4151-a6f6-6e449ee08f93/'
+  - image: 'https://ucarecdn.com/1d92b6d8-82af-4c34-93e1-29092a3d6bab/'
+  - image: 'https://ucarecdn.com/f240cd66-c365-4144-96a8-5562f549e8ec/'
+  - image: 'https://ucarecdn.com/758f269e-6cf0-4b43-b733-65fb3443afd4/'
+  - image: 'https://ucarecdn.com/4a8bb397-47b1-4e14-b7a3-e00ec703ca59/'
+  - image: 'https://ucarecdn.com/3df68ce0-5800-4868-94a6-eb62c70f5781/'
+  - image: 'https://ucarecdn.com/5defb3bb-be04-4fdd-b309-0ea39f430b1a/'
+  - image: 'https://ucarecdn.com/81080101-f166-43b1-a009-323fb9f9b427/'
+  - image: 'https://ucarecdn.com/02231e68-7b5d-42bd-8f4a-729b599c0054/'
+  - image: 'https://ucarecdn.com/16c45b0c-d9d7-4b70-b023-5a42cec9932a/'
+---
+
