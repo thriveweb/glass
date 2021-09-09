@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Kymami
+title: Kymarni
 featuredImage: 'https://ucarecdn.com/9680c268-6349-46c8-b00a-0ea8548496a0/'
 imageThumbnail: >-
   https://ucarecdn.com/dc5165f0-f0f6-4f29-94ce-4c8a8dc67db4/-/crop/732x958/1125,264/-/preview/
-firstName: Kymami
+firstName: Kymarni
 collection: Girls
 size: '2'
 hair: ''
