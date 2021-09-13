@@ -3,7 +3,7 @@ template: ModelPage
 title: Ayla
 featuredImage: 'https://ucarecdn.com/152b9f9b-c266-41b6-b322-b960ac018417/'
 featuredVideo: 'https://ucarecdn.com/28dfe0fa-ee1c-447b-8c36-efe334fd9cc5/'
-imageThumbnail: 'https://ucarecdn.com/b7c45609-53ab-4ecf-bb65-18aa3be828f4/'
+imageThumbnail: 'https://ucarecdn.com/8a598a14-c9d5-43ab-bcdd-cf5c224ef38e/'
 firstName: Ayla
 collection: Emerging
 height: 172cm
