@@ -1,0 +1,28 @@
+---
+template: ModelPage
+title: Parker C
+featuredImage: 'https://ucarecdn.com/2fa934f2-f6c6-4888-a5f6-f013d138d902/'
+imageThumbnail: >-
+  https://ucarecdn.com/df5bea4e-af95-4a91-8ff0-4685669281db/-/crop/1224x1632/777,0/-/preview/
+firstName: 'Parker '
+collection: Boys
+height: 110cm
+measurementType: chest
+bust: 58cm
+waist: 56cm
+hips: 61cm
+size: 4-5
+shoeSize: '12'
+hair: Brown
+eyes: Hazel
+imagePortfolio:
+  - image: 'https://ucarecdn.com/f6da5e11-be37-4ba8-8507-45463ecb13b2/'
+  - image: 'https://ucarecdn.com/633c2d22-3c04-479b-8c25-0df23ac1eeff/'
+  - image: 'https://ucarecdn.com/cbd7b8ff-33a6-4c8d-a2a4-cdddd622f16d/'
+  - image: 'https://ucarecdn.com/e362af37-983d-4aaa-9e8d-c1e6b1a25a72/'
+  - image: 'https://ucarecdn.com/abfaf322-c44d-408d-a19c-739431716eac/'
+  - image: 'https://ucarecdn.com/fc6ba6da-d098-489a-bb01-28e96fd6210a/'
+  - image: 'https://ucarecdn.com/c1c6aaea-62f2-4126-b5a5-c834259e767c/'
+  - image: 'https://ucarecdn.com/a769fffb-f89a-4cd4-822a-46af24a57584/'
+---
+
