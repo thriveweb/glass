@@ -3,7 +3,7 @@ template: ModelPage
 title: 'Ai-My '
 featuredImage: 'https://ucarecdn.com/33df9cb9-7cbe-42bf-9a7e-bbec23eff569/'
 imageThumbnail: >-
-  https://ucarecdn.com/30e62dcb-1f1b-4ebf-a7e2-a9cf783df0ff/-/crop/159x198/133,59/-/preview/
+  https://ucarecdn.com/60293903-3bf4-44b6-82d1-9a4510960bb8/-/crop/922x1123/0,0/-/preview/
 firstName: Ai-My
 collection: Global
 height: 134cm
