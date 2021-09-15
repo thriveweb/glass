@@ -3,8 +3,7 @@ template: ModelPage
 title: Jemima
 featuredImage: >-
   https://ucarecdn.com/130756f0-fc12-4181-91d1-ccd064960156/-/crop/2449x1487/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/85241e4b-045a-49a2-9f7e-6028718e7328/-/crop/509x466/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/3142c96c-5024-4727-9173-0eb09b3b9552/'
 firstName: Jemima
 collection: Girls
 height: 138cm
