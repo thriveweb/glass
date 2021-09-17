@@ -7,9 +7,9 @@ firstName: Cindy L
 collection: Classic
 height: 175cm
 measurementType: bust
-bust: 32cm
-waist: 27cm
-hips: 37cm
+bust: 32 inches
+waist: 27 inches
+hips: 37 inches
 size: '8'
 shoeSize: '5'
 hair: Blonde
