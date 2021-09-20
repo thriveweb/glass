@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Alyssa '
 featuredImage: >-
-  https://ucarecdn.com/b65045bd-1a1c-4714-8ad3-48d904417079/-/crop/1599x1166/0,0/-/preview/
+  https://ucarecdn.com/b65045bd-1a1c-4714-8ad3-48d904417079/-/crop/1599x821/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/f062bfb9-4104-4d21-bd98-fbd75deeab77/-/crop/1218x1768/225,93/-/preview/
 firstName: Alyssa
