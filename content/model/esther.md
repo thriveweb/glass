@@ -10,7 +10,7 @@ height: 158cm
 measurementType: bust
 bust: 72cm
 waist: 64cm
-hips: 74m
+hips: 74cm
 size: '10'
 shoeSize: '5'
 hair: Brown
