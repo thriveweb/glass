@@ -11,7 +11,7 @@ measurementType: chest
 bust: 78cm
 waist: 70.5cm
 hips: 76.5cm
-size: '14 Pants, 16 Shirt'
+size: M/32
 shoeSize: 12 US
 hair: Brown
 eyes: Blue
