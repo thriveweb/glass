@@ -8,9 +8,9 @@ firstName: Emma P
 collection: Classic
 height: 175cm
 measurementType: bust
-bust: 94cm
-waist: 74cm
-hips: 101cm
+bust: 85cm
+waist: 75cm
+hips: 100cm
 size: '12'
 shoeSize: '9'
 hair: Blonde
