@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Haelen
+title: Haelan
 featuredImage: >-
   https://ucarecdn.com/ecc5f5af-ec75-4287-a62f-874d928b4ad0/-/crop/2233x1296/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/f07802ff-d4e8-4c80-831e-0c4976e13883/-/crop/673x816/867,5/-/preview/
-firstName: Haelen
+firstName: Haelan
 collection: Boys
 height: 124cm
 measurementType: chest
