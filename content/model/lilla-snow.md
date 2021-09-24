@@ -3,7 +3,7 @@ template: ModelPage
 title: Lilla Snow
 featuredImage: 'https://ucarecdn.com/5b66672f-c825-4c54-ae76-51416229ee46/'
 imageThumbnail: >-
-  https://ucarecdn.com/db07f05c-bb4c-4c9d-9df2-f86a098ff71c/-/crop/1632x2091/0,27/-/preview/
+  https://ucarecdn.com/d0fe6c7c-eb27-4143-b276-36f588e58931/-/crop/935x1183/695,0/-/preview/
 firstName: Lilla Snow
 collection: Girls
 height: 110cm
