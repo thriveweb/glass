@@ -3,7 +3,7 @@ template: ModelPage
 title: Parker C
 featuredImage: 'https://ucarecdn.com/2fa934f2-f6c6-4888-a5f6-f013d138d902/'
 imageThumbnail: >-
-  https://ucarecdn.com/df5bea4e-af95-4a91-8ff0-4685669281db/-/crop/1224x1632/777,0/-/preview/
+  https://ucarecdn.com/d4cd603b-9fdd-4313-9e43-592736d740c8/-/crop/1195x1575/352,0/-/preview/
 firstName: 'Parker '
 collection: Boys
 height: 110cm
