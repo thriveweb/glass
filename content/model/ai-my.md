@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: 'Ai-My '
+title: 'k Ai-My '
 featuredImage: 'https://ucarecdn.com/33df9cb9-7cbe-42bf-9a7e-bbec23eff569/'
 imageThumbnail: >-
   https://ucarecdn.com/60293903-3bf4-44b6-82d1-9a4510960bb8/-/crop/922x1123/0,0/-/preview/
 firstName: Ai-My
-collection: Global
+collection: Girls
 height: 134cm
 measurementType: bust
 bust: 66cm
