@@ -2,7 +2,7 @@
 template: ModelPage
 title: Harlow
 featuredImage: >-
-  https://ucarecdn.com/4a0e3a97-8e84-4822-add5-97a07fca241d/-/crop/5093x2983/0,0/-/preview/
+  https://ucarecdn.com/4a0e3a97-8e84-4822-add5-97a07fca241d/-/crop/5093x2448/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/33b9e9ad-a9fb-429f-a9a8-e4d091c1b9b9/-/crop/3184x3147/973,9/-/preview/
 firstName: Harlow
