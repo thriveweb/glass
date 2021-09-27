@@ -2,7 +2,7 @@
 template: ModelPage
 title: Hattie
 featuredImage: >-
-  https://ucarecdn.com/18df912c-c6e5-49ad-aeb3-994c22453528/-/crop/4795x2507/0,0/-/preview/
+  https://ucarecdn.com/18df912c-c6e5-49ad-aeb3-994c22453528/-/crop/4795x2190/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d3b59440-a192-4cb4-ba99-0887881e6c6a/-/crop/3050x4479/0,0/-/preview/
 firstName: Hattie
