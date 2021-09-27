@@ -20,9 +20,12 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/2cd97380-60ac-4dea-abb8-4aaa6414dc3c/'
   - image: 'https://ucarecdn.com/a5fc41fb-43fa-4492-b715-131ce90317c2/'
+  - image: 'https://ucarecdn.com/853871a2-3a32-43a2-8a17-3ace606d6363/'
   - image: 'https://ucarecdn.com/15bfe682-26df-4185-9bdc-8d3051325a29/'
   - image: 'https://ucarecdn.com/ac06ba0b-4842-47d3-9d24-dd66f7a24bbe/'
+  - image: 'https://ucarecdn.com/c576d253-50a0-4e78-908a-422963560409/'
   - image: 'https://ucarecdn.com/4b277167-8dcb-4fb5-ac14-47631d16aa70/'
+  - image: 'https://ucarecdn.com/0ed15f5a-26f4-4dfa-9d4a-2e7b38a32d62/'
   - image: 'https://ucarecdn.com/6448750a-be63-4ba9-bdea-7e9c34cc9223/'
   - image: 'https://ucarecdn.com/75b4a916-341d-420e-9229-a7d55434a3e5/'
   - image: 'https://ucarecdn.com/760460d3-3aa8-4170-84bb-fb84e3c4f5b0/'
@@ -34,19 +37,11 @@ imagePortfolio:
       https://ucarecdn.com/791368bf-83a9-4998-bcc7-d97022c09c9d/-/preview/-/enhance/92/
   - image: 'https://ucarecdn.com/d7ff8941-d8d2-4202-ba71-2447dd5f9038/'
   - image: 'https://ucarecdn.com/728b8d4d-29fe-4312-893a-c08099d24e9c/'
-  - image: 'https://ucarecdn.com/3eaf0b6c-09d0-43cd-a860-177cfb4f88aa/'
   - image: 'https://ucarecdn.com/fd9a2261-98b4-4db4-a6f2-14feaf76abd4/'
-  - image: 'https://ucarecdn.com/50a3c295-5d6e-4d73-b846-faa6ffb06b20/'
-  - image: 'https://ucarecdn.com/7d0d60eb-c1a8-4956-b3f9-687d6452b02d/'
   - image: 'https://ucarecdn.com/1e835512-776a-48e6-b80f-112da347e459/'
-  - image: 'https://ucarecdn.com/60a848ed-5dca-46b7-9f54-c2c57beebc1c/'
-  - image: 'https://ucarecdn.com/d1d43b15-933c-45b0-84fd-6ab4000ea870/'
-  - image: 'https://ucarecdn.com/896fe3a6-0714-4358-9ba5-e06f7ca2d3c8/'
   - image: >-
       https://ucarecdn.com/f1724f5f-433b-4805-9b09-3c3e51ed6dd2/-/preview/-/enhance/87/
-  - image: 'https://ucarecdn.com/6c7b3c58-bedc-48e1-826c-1b9088e30119/'
-  - image: >-
-      https://ucarecdn.com/047cb1b3-75e0-420c-9324-b398c013a6fa/-/preview/-/enhance/93/
+  - image: 'https://ucarecdn.com/896fe3a6-0714-4358-9ba5-e06f7ca2d3c8/'
   - image: 'https://ucarecdn.com/36ad72e0-3829-4e0b-af23-610287ad67b3/'
   - image: 'https://ucarecdn.com/20c7b96d-abf9-4558-ba59-501b0c42929e/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/vusa-fam.jpg'
