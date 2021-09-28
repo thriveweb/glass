@@ -6,14 +6,14 @@ featuredImage: >-
 featuredVideo: 'https://ucarecdn.com/04063278-d496-4c62-875b-5565fc10976a/'
 featuredVideoMobile: 'https://ucarecdn.com/130b8ce4-5592-481b-a123-40d3b0f31d66/'
 imageThumbnail: >-
-  https://ucarecdn.com/909aa38f-b659-4241-9e58-a42eae2641d3/-/crop/879x1098/671,123/-/preview/
+  https://ucarecdn.com/266469e4-2c38-494e-9c1f-202c6a81cce5/-/crop/3079x3494/1018,0/-/preview/
 firstName: Emily
 collection: Women
 height: 171cm
 measurementType: bust
 bust: 81cm
 waist: 66cm
-hips: 93cm
+hips: 90cm
 size: '8'
 shoeSize: '8'
 hair: Blonde
