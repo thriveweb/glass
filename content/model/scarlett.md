@@ -7,10 +7,10 @@ firstName: Scarlett
 collection: Emerging
 height: 160cm
 measurementType: bust
-bust: 78cm
-waist: 58cm
-hips: 78cm
-size: Ladies 6 or kids 14
+bust: 81cm
+waist: 60cm
+hips: 77cm
+size: Ladies 6
 shoeSize: '5'
 hair: Blonde
 eyes: Blue
