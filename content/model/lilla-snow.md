@@ -11,7 +11,7 @@ measurementType: bust
 bust: 55cm
 waist: 53cm
 hips: 57cm
-size: 5-6
+size: '5'
 shoeSize: 11 - 12
 hair: Black
 eyes: Brown
