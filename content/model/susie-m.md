@@ -2,7 +2,7 @@
 template: ModelPage
 title: Susie M
 featuredImage: 'https://ucarecdn.com/85ea703a-2b64-4594-a9ab-98ac68e3a2b2/'
-imageThumbnail: 'https://ucarecdn.com/f13936c9-5447-413f-b0e8-9ef9a6fc159f/'
+imageThumbnail: 'https://ucarecdn.com/3ca070e9-f4d2-42da-9264-3d9b598edbbf/'
 firstName: Susie
 collection: Classic
 height: 167cm
@@ -15,9 +15,12 @@ shoeSize: '6'
 hair: Strawberry Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/cf67d8d8-faee-4947-89a2-a5740e071425/'
   - image: 'https://ucarecdn.com/09255f59-d657-4624-ae70-7b2a3b43fdcc/'
   - image: 'https://ucarecdn.com/35ffb2d4-eddb-4703-b7aa-fd082a33446e/'
+  - image: 'https://ucarecdn.com/7cff60c0-fc25-4471-99af-8ebd4090ecb6/'
   - image: 'https://ucarecdn.com/27f23829-dd6d-4569-9f23-81c724095afc/'
+  - image: 'https://ucarecdn.com/86285ab4-540a-41f6-be47-18ba676788f0/'
   - image: >-
       https://ucarecdn.com/d4637cef-19c9-45c9-a720-d1082e8c9868/-/crop/1632x1528/0,0/-/preview/
   - image: 'https://ucarecdn.com/53245074-9449-48ae-906c-f97668d2b266/'
