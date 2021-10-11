@@ -2,7 +2,7 @@
 template: ModelPage
 title: Bryella
 featuredImage: >-
-  https://ucarecdn.com/b25dd2e8-9e67-4ef0-81d0-6cb70777b2ef/-/crop/2457x1302/0,0/-/preview/
+  https://ucarecdn.com/ef2d0fb2-c10b-431b-bbd3-89b1e0119115/-/crop/912x557/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/8c1fc891-35ab-410c-8387-7fab8faf2fc2/-/crop/367x492/0,59/-/preview/
 firstName: Bryella
@@ -20,6 +20,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/e3ab3687-4224-438e-817f-a68fe781bb03/'
   - image: 'https://ucarecdn.com/7c8bf353-9864-4ee6-ab7d-f0ad4783b091/'
   - image: 'https://ucarecdn.com/c698bd15-73b7-487e-9d1b-adb0dc1ee78c/'
+  - image: 'https://ucarecdn.com/9e20ede2-6276-4504-a8e2-8a21866c184d/'
   - image: 'https://ucarecdn.com/5d63e1f7-7ac6-4f73-87e9-71829c9e0c16/'
   - image: 'https://ucarecdn.com/b2f1c27e-4efb-4858-b475-bc7348b99632/'
   - image: 'https://ucarecdn.com/01d2add7-9266-4b19-99f5-19b675038947/'
