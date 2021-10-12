@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Amanda
-featuredImage: >-
-  https://ucarecdn.com/d46e3303-1a85-4b8a-aff3-830c305b8e66/-/crop/651x421/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/ae2d99aa-9a43-4281-a645-3d8c2fac8fae/'
 featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-shadow-yes.jpg'
@@ -19,33 +18,32 @@ shoeSize: '7.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/d07ef100-6ebb-4925-94c2-3f701c997385/'
   - image: 'https://ucarecdn.com/19b8ab47-0913-4e7f-897c-1003f890e500/'
-  - image: 'https://ucarecdn.com/f12b6eda-3f0d-4af9-9e1b-4a7f0bacbc52/'
+  - image: 'https://ucarecdn.com/fbb1d3c5-6907-4819-a491-9eb2ae8f72e3/'
   - image: 'https://ucarecdn.com/c683ab42-9fcf-4404-9fda-569630533cf7/'
-  - image: 'https://ucarecdn.com/4c84ccc8-5404-4323-b0e2-9ab13e2a3bb2/'
-  - image: 'https://ucarecdn.com/18fddaa6-0245-43b4-bd3a-86b32594492d/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-122.jpg'
   - image: 'https://ucarecdn.com/dda45182-f1bb-4f00-9d00-7d22d8796ec0/'
   - image: 'https://ucarecdn.com/01302906-6217-4cd6-b73f-80c90abee8ec/'
   - image: 'https://ucarecdn.com/2658cf4a-ecc5-4aa9-b7fb-52cd7e10eb60/'
-  - image: 'https://ucarecdn.com/b6a408fc-1573-4ba3-962b-f6bc30a28f0c/'
-  - image: 'https://ucarecdn.com/980108b9-a21f-4b03-a0ad-23d1429baf9e/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/amanada.jpg'
-  - image: 'https://ucarecdn.com/be1cc2ab-ae77-41cb-80c5-8612a9367dd7/'
   - image: 'https://ucarecdn.com/a06d4980-3162-4f98-8859-ec9810776091/'
+  - image: 'https://ucarecdn.com/5e060add-965a-4988-b996-b5c1809f1966/'
+  - image: 'https://ucarecdn.com/6cd9a02d-882f-4ffd-82bb-5e168105d80f/'
   - image: 'https://ucarecdn.com/fdf9c772-e520-41e0-89dc-6ef254ce23cf/'
   - image: 'https://ucarecdn.com/0fe4f0fb-b868-490a-b397-9f21d029f757/'
-  - image: 'https://ucarecdn.com/78fade72-3094-4ec5-a000-e0a1c1d03ddf/'
+  - image: 'https://ucarecdn.com/25d0df3c-431b-43f9-afe6-5f86482bc15e/'
   - image: 'https://ucarecdn.com/9a3692cd-fdfa-4772-9bbd-401c611076cb/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-1444.jpg'
-  - image: 'https://ucarecdn.com/c4757b13-b02b-411c-b62f-ca62e565052b/'
+  - image: 'https://ucarecdn.com/2e12b609-79e4-4524-99c9-b50b067f74ec/'
   - image: 'https://ucarecdn.com/749154a6-f7ba-45bd-a739-306335bffebf/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-3.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-6.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-shadow-yes.jpg'
   - image: 'https://ucarecdn.com/cf1a9af0-75f2-4d30-b290-3e02c0d9e425/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/amanda-13131313.jpg'
-  - image: 'https://ucarecdn.com/712b4a8b-1941-44fb-9364-079126a40452/'
+  - image: 'https://ucarecdn.com/9441d65a-d363-41aa-b0d7-6caec9b76b4d/'
+  - image: 'https://ucarecdn.com/0530831c-5c18-456d-998f-41c733fc1975/'
+  - image: 'https://ucarecdn.com/7bfdf75e-ce40-4f51-a6e9-91007788117f/'
+  - image: 'https://ucarecdn.com/7bfe905c-61f0-4098-8192-3cd2b08529c1/'
+  - image: 'https://ucarecdn.com/ed408e02-bc29-459b-be25-bbc49859f2fd/'
+  - image: 'https://ucarecdn.com/d55a95e4-b426-48a0-9d2e-ae41b0c4dbdd/'
+  - image: 'https://ucarecdn.com/736e6b89-1d00-4cb4-8a78-59ef2f7be10d/'
 meta:
   canonicalLink: ''
   noindex: false
