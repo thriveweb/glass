@@ -10,7 +10,7 @@ measurementType: chest
 bust: 109cm
 waist: 83cm
 hips: 83cm
-size: M
+size: 'Shirt: M  Pant: 32'
 shoeSize: 10US
 hair: Brown
 eyes: Blue
