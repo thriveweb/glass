@@ -4,7 +4,7 @@ title: Duke
 featuredImage: >-
   https://ucarecdn.com/94bee638-9017-4070-af41-3accc0e76e9e/-/crop/1632x808/0,308/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/f6a56a1b-c4f9-413f-abe9-e61b180bf53b/-/crop/1385x1788/121,5/-/preview/
+  https://ucarecdn.com/db792443-3a77-459a-afeb-cdffc9b3208d/-/crop/286x250/255,0/-/preview/
 firstName: Duke
 collection: Boys
 height: 142cm
@@ -17,6 +17,7 @@ shoeSize: Kids 3
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/1fe32e06-f1e7-4ec1-861c-e80820212266/'
   - image: 'https://ucarecdn.com/5faba1d0-9f62-45de-ab10-92c8add83830/'
   - image: 'https://ucarecdn.com/98c791fd-2b35-478d-b774-f6296ab6ba50/'
   - image: 'https://ucarecdn.com/839014c7-27bd-4e40-9e41-507e1539f379/'
