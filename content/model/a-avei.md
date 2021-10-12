@@ -2,7 +2,7 @@
 template: ModelPage
 title: A Avei
 featuredImage: >-
-  https://ucarecdn.com/5e0e76ae-472b-4a9a-a6eb-f5970d325330/-/crop/1178x658/0,0/-/preview/
+  https://ucarecdn.com/20f332e5-04cb-4205-8ec4-e6bd051ab958/-/crop/772x189/41,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b79505be-2704-4cc4-80af-6ad69cbd4db1/-/crop/1227x1366/534,35/-/preview/
 firstName: Avei
@@ -18,6 +18,7 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/0a346008-4c24-4d7b-ab88-a0c7b022c2f7/'
+  - image: 'https://ucarecdn.com/986b57b4-2993-4a48-adb1-5509b6a5b3d9/'
   - image: 'https://ucarecdn.com/75e20058-27bd-4a7c-ba1e-a81e216bf2cf/'
   - image: 'https://ucarecdn.com/d132dfe7-c5cf-4a1c-bf93-df9b03ebdeb6/'
   - image: 'https://ucarecdn.com/94130b8d-68ae-4d88-aead-8e197be825d0/'
