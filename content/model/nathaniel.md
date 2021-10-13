@@ -9,9 +9,9 @@ firstName: Nathaniel
 collection: Boys
 height: 130cm
 measurementType: chest
-bust: 63cm
+bust: 64cm
 waist: '59.5'
-hips: 71cm
+hips: 66.5cm
 size: '6'
 shoeSize: '2'
 hair: Brown
