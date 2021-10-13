@@ -9,6 +9,7 @@ collection: Girls
 size: '2'
 hair: ''
 imagePortfolio:
+  - image: 'https://ucarecdn.com/b0956309-8f0d-48d5-a495-b157d46ae9d7/'
   - image: 'https://ucarecdn.com/c688c67e-03fc-4566-8474-20493af9e10b/'
   - image: 'https://ucarecdn.com/d3af7181-1aee-4212-b5ce-006ba17a2662/'
   - image: 'https://ucarecdn.com/2ca51c93-0ba9-4516-a054-abf8e12f3295/'
