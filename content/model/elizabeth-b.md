@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Elizabeth B
+title: Ellie
 featuredImage: >-
-  https://ucarecdn.com/748c87b9-b91a-4cc3-8438-d2198c73db55/-/crop/2048x1383/0,430/-/preview/
+  https://ucarecdn.com/09618673-3c67-4cf2-8b61-938baa4bb50b/-/crop/2451x1473/0,79/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/cc34a0e9-ea7b-4235-9b7d-7baf2cc13cb0/-/crop/2048x2461/0,322/-/preview/
-firstName: Elizabeth B
+  https://ucarecdn.com/cc5cfd56-2bf9-4c1a-a46f-18173ab616d7/-/crop/1500x1876/0,0/-/preview/
+firstName: Ellie
 collection: Women
 height: ' 167cm'
 measurementType: bust
@@ -17,11 +17,23 @@ shoeSize: '7'
 hair: Black
 eyes: Black
 imagePortfolio:
-  - image: 'https://ucarecdn.com/85aa59f5-b72b-4168-87fa-65c5e0ddabf8/'
-  - image: 'https://ucarecdn.com/6f551dfd-4012-49ec-b422-e7a7fc69d369/'
-  - image: 'https://ucarecdn.com/c1a876a0-d8c6-4b37-a47d-5d4fa3eb083f/'
-  - image: 'https://ucarecdn.com/d6a2bebd-5215-4165-8044-2463961dc1fe/'
-  - image: 'https://ucarecdn.com/8ceb1557-f537-40ef-9367-3894aa317261/'
-  - image: 'https://ucarecdn.com/0c946e6a-ff69-4d76-9a44-7eda63d6c9cf/'
+  - image: 'https://ucarecdn.com/8fbaf141-6f09-4a41-afb6-88107db64c16/'
+  - image: 'https://ucarecdn.com/3e1114e6-9220-4a42-83fc-5cac0005da9f/'
+  - image: 'https://ucarecdn.com/64fc834e-8841-4bfe-ad75-c9d9232acdad/'
+  - image: 'https://ucarecdn.com/dc647028-4b1d-4627-98a8-e42de1baf7d5/'
+  - image: 'https://ucarecdn.com/437a8040-554c-4d45-9ac5-8caf4bcc2897/'
+  - image: 'https://ucarecdn.com/1b08c717-5260-44b5-91b7-c7e818401f2d/'
+  - image: 'https://ucarecdn.com/9553ea7a-5f62-4c6f-87ca-2530adecd07c/'
+  - image: 'https://ucarecdn.com/33aeed7c-cbde-42fb-b453-a27a94166836/'
+  - image: 'https://ucarecdn.com/41578171-f4e8-4502-ac75-e75a7e77d3f1/'
+  - image: 'https://ucarecdn.com/2f5ed7e8-637f-4b29-ab22-aea5ffbb998c/'
+  - image: 'https://ucarecdn.com/3e4f900d-0e4e-4828-8140-cd5b96c30445/'
+  - image: 'https://ucarecdn.com/8f6c15f7-95f3-44c1-b59d-bd4b59df0113/'
+  - image: 'https://ucarecdn.com/b41599e1-75c8-4221-9eee-1e34c9337dd2/'
+  - image: 'https://ucarecdn.com/e25a3885-924d-4451-97c1-e8e76630c967/'
+  - image: 'https://ucarecdn.com/ad0f6852-56aa-4972-90ca-77901ae5676f/'
+  - image: 'https://ucarecdn.com/b335727d-0f6d-44f6-bfda-45fe67009bf1/'
+  - image: 'https://ucarecdn.com/befcd5ed-049a-4e6f-bf47-f3c8ed1031ce/'
+  - image: 'https://ucarecdn.com/0407e975-93c5-4a96-b128-16932e9807d5/'
 ---
 
