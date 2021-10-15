@@ -4,7 +4,7 @@ title: Duke
 featuredImage: >-
   https://ucarecdn.com/94bee638-9017-4070-af41-3accc0e76e9e/-/crop/1632x808/0,308/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/db792443-3a77-459a-afeb-cdffc9b3208d/-/crop/286x250/255,0/-/preview/
+  https://ucarecdn.com/db792443-3a77-459a-afeb-cdffc9b3208d/-/crop/354x265/221,0/-/preview/
 firstName: Duke
 collection: Boys
 height: 142cm
