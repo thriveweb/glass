@@ -10,7 +10,7 @@ measurementType: bust
 bust: 93cm
 waist: 75cm
 hips: 104cm
-size: '12'
+size: '14'
 shoeSize: '9'
 hair: Brunette
 eyes: Brown
