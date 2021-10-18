@@ -28,26 +28,25 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/32797180-e91d-4324-93fa-34008d195c34/-/crop/920x960/0,0/-/preview/
   - image: 'https://ucarecdn.com/437f004b-411c-485a-932e-2b77ed9fb5fa/'
+  - image: >-
+      https://ucarecdn.com/1ec89b95-6eb9-402c-afa0-2d27675824a0/-/crop/630x957/0,0/-/preview/
   - image: 'https://ucarecdn.com/a55e8b3d-989e-4d65-aeaf-b6fe98cd7249/'
   - image: 'https://ucarecdn.com/c4abf9ee-2a59-42aa-b0cc-dd1c36bc0fcd/'
+  - image: 'https://ucarecdn.com/2ba851be-6342-4a06-8491-accd476c9de5/'
   - image: 'https://ucarecdn.com/92727fb0-5814-4a7c-9dd5-1c306deddbbf/'
   - image: 'https://ucarecdn.com/5f69f359-a2ee-49f1-add1-c149933a5ee1/'
   - image: 'https://ucarecdn.com/e99000e2-ff4a-4334-9945-32672379fa0b/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/ayo27276.jpg'
   - image: 'https://ucarecdn.com/6c7377ca-889c-4a2f-8cc3-0405eb0c291b/'
   - image: 'https://ucarecdn.com/e4efdaf1-2045-4992-b5da-4c5f74bac8a2/'
-  - image: 'https://ucarecdn.com/73abbdda-5c54-4b74-bec9-39b9732609ba/'
   - image: 'https://ucarecdn.com/ca72b426-4469-4286-ba43-3495749216c8/'
   - image: 'https://ucarecdn.com/a204d810-57d4-4294-8cd5-9ca14d3ad77b/'
   - image: 'https://ucarecdn.com/33b4d3b4-137f-46de-9630-ca1ac78436fb/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo23786472.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo2763890.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kayoda-10.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/ry.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/kayoda-3.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/kayode-ayo982734.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kayode-ayo897324.jpg'
   - image: 'https://ucarecdn.com/dd3cd18b-9bd8-49e8-a227-fbae1d1f3ab5/'
+  - image: 'https://ucarecdn.com/87ead2ab-23d2-475f-99ab-81a4894d0aab/'
 meta:
   title: Ayo
 ---
