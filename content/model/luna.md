@@ -19,6 +19,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/18d8ebcd-d1bf-4887-b7c5-df1667471e8e/'
   - image: 'https://ucarecdn.com/4c428225-0d3f-4ff0-ab7e-f78f08b778ad/'
+  - image: 'https://ucarecdn.com/0c0f68b0-c8a5-45a1-9929-26cf280aac9b/'
   - image: >-
       https://ucarecdn.com/7abed9b1-91f9-4a3c-bcee-45592a18b7ce/-/crop/478x375/962,0/-/preview/
   - image: 'https://ucarecdn.com/257b26ba-ad77-4930-a9b2-f0eed5572389/'
