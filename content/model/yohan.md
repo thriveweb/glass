@@ -7,7 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/baa496ae-c0a0-470d-af6b-40ad1ff49c30/-/crop/596x612/71,0/-/preview/
 firstName: Yohan
 collection: Boys
+height: 88cm
 measurementType: chest
+bust: 55cm
+waist: 56cm
+hips: 63cm
 size: '2'
 hair: Brown
 eyes: Brown
