@@ -6,7 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/dc5165f0-f0f6-4f29-94ce-4c8a8dc67db4/-/crop/732x958/1125,264/-/preview/
 firstName: Kymarni
 collection: Girls
+height: 92cm
+measurementType: bust
+bust: 56cm
+waist: 50cm
+hips: '50cm '
 size: '2'
+shoeSize: '8'
 hair: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/b0956309-8f0d-48d5-a495-b157d46ae9d7/'
