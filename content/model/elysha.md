@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/898c56f7-43a3-4e95-a44c-4755397dc1f3/-/crop/397x515/0,0/-/preview/
 firstName: Elysha
-collection: Global
+collection: Emerging
 height: 177cm
 measurementType: bust
 bust: 87cm
