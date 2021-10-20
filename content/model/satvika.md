@@ -2,7 +2,7 @@
 template: ModelPage
 title: Satvika
 featuredImage: >-
-  https://ucarecdn.com/4ba09185-8822-4aa3-9a37-cca82d9d8c8a/-/crop/683x518/0,213/-/preview/
+  https://ucarecdn.com/4ba09185-8822-4aa3-9a37-cca82d9d8c8a/-/crop/683x351/0,221/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/a5010f56-d7dc-433a-9b17-0dc23f4871c0/-/crop/510x715/83,25/-/preview/
 firstName: Satvika
