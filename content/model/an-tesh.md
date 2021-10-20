@@ -3,7 +3,7 @@ template: ModelPage
 title: An Tesh
 featuredImage: 'https://ucarecdn.com/b6f59c68-784e-47d2-bc61-e88d7f0cf273/'
 imageThumbnail: >-
-  https://ucarecdn.com/300e47b2-23fa-4d0d-9175-dbb9014ab6d7/-/crop/1045x1390/172,385/-/preview/
+  https://ucarecdn.com/c743c98c-4a81-4a2a-98a3-301de8c9c983/-/crop/497x788/411,42/-/preview/
 firstName: Tesh
 collection: Women
 height: '178cm '
@@ -17,6 +17,7 @@ hair: Dark blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/d82d1932-e78b-4a78-be44-21954a5ab1bd/'
+  - image: 'https://ucarecdn.com/93eca50f-d820-4006-8384-93548411057d/'
   - image: 'https://ucarecdn.com/b010e75b-5ebb-451f-916c-abd3385f6575/'
   - image: 'https://ucarecdn.com/1e132db3-50bb-498f-a065-d4e0077ee1b0/'
   - image: 'https://ucarecdn.com/0ff239c2-40a0-41d7-8d4b-70792b6d3632/'
