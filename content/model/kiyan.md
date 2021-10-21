@@ -49,5 +49,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/896fe3a6-0714-4358-9ba5-e06f7ca2d3c8/'
   - image: 'https://ucarecdn.com/20c7b96d-abf9-4558-ba59-501b0c42929e/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/vusa-fam.jpg'
+  - image: 'https://ucarecdn.com/5bf2a907-da95-4af0-81b3-8a40f1e499fc/'
 ---
 
