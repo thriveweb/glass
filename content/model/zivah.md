@@ -25,5 +25,6 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/beab0216-fcd4-4f4e-912a-b78bc522816f/-/preview/-/enhance/38/
   - image: 'https://glassmanagement.imgix.net/images/uploads/vusa-fam.jpg'
+  - image: 'https://ucarecdn.com/f85fa587-3a76-4de2-a6dd-51106caf0c3a/'
 ---
 
