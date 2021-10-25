@@ -20,8 +20,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/bab68c33-c109-4d36-ac75-29f804e6d4be/'
   - image: 'https://ucarecdn.com/9ee9d52f-9839-4901-85aa-6e01e9fd916a/'
   - image: 'https://ucarecdn.com/99136c58-0928-4286-92ca-9b67f7c5b54a/'
+  - image: 'https://ucarecdn.com/2124c5de-4f3e-4bf3-a5ae-03a6c33a9f66/'
   - image: >-
       https://ucarecdn.com/50f181e9-3830-46dd-a97f-37a16ab31a86/-/crop/476x375/0,0/-/preview/
+  - image: 'https://ucarecdn.com/ee40bad1-3f6b-4db2-ad96-b5582776b6ee/'
   - image: 'https://ucarecdn.com/e50187d3-833f-4bae-afdc-0173cdb92599/'
   - image: 'https://ucarecdn.com/8b7163d0-4735-4053-8232-92a4fc474366/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo72634327123111111.jpg'
@@ -43,6 +45,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/33b4d3b4-137f-46de-9630-ca1ac78436fb/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo23786472.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo2763890.jpg'
+  - image: 'https://ucarecdn.com/c70daa29-1b50-4d9d-8576-5fddb8cbea96/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kayoda-10.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kayode-ayo897324.jpg'
   - image: 'https://ucarecdn.com/dd3cd18b-9bd8-49e8-a227-fbae1d1f3ab5/'
