@@ -13,6 +13,7 @@ bust: 51cm
 waist: 51cm
 hips: 55cm
 size: '2'
+shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
