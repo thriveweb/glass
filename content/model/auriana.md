@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Auriana
-featuredImage: 'https://ucarecdn.com/5214d055-d9da-4812-8c22-4f4ed565ef95/'
+featuredImage: >-
+  https://ucarecdn.com/f708381d-2b16-44fc-b476-5eb4f0abf7cd/-/crop/624x375/204,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/68466dcc-ea84-4601-b170-7365201b50be/-/crop/619x905/1042,57/-/preview/
 firstName: Auriana
@@ -17,7 +18,9 @@ hair: Light brown/blonde
 eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/8205328d-c134-4231-af80-fef9745200cd/'
+  - image: 'https://ucarecdn.com/fe88692c-3729-4129-9ed8-477b34968c62/'
   - image: 'https://ucarecdn.com/3f63e160-0df9-4557-87d8-98ae2f49c81e/'
+  - image: 'https://ucarecdn.com/2c777faa-7913-4839-aa24-ed7a5d79e6fe/'
   - image: 'https://ucarecdn.com/7f9b41b6-6887-40e0-a1d1-417fd703b43c/'
   - image: 'https://ucarecdn.com/e142c4b1-8207-4066-8796-6c5d4714ac81/'
   - image: 'https://ucarecdn.com/b7eac039-bc7e-4d6a-8784-7fe2ffd42ac2/'
