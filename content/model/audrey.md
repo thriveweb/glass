@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Audrey
-featuredImage: 'https://ucarecdn.com/82bac966-f7ff-4014-bf6d-5ccd0fc47b3b/'
+featuredImage: >-
+  https://ucarecdn.com/82bac966-f7ff-4014-bf6d-5ccd0fc47b3b/-/crop/2351x1456/430,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/e7cbb996-735f-4478-b39b-9c4c1ef64ff3/-/crop/1614x2297/132,0/-/preview/
 firstName: Audrey
