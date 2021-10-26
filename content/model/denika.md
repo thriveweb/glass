@@ -10,7 +10,7 @@ height: 173cm
 measurementType: bust
 bust: 93cm
 waist: 70cm
-hips: 92cm
+hips: 100cm
 size: 10-12
 shoeSize: '9'
 hair: Blonde
