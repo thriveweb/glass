@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Shirlyn
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/shir-banner.jpg'
+featuredImage: 'https://ucarecdn.com/9d21d0ae-989c-4256-a09f-3a314873af9e/'
 imageThumbnail: 'https://ucarecdn.com/07b6f0cf-cb6d-45ea-a8a2-bb463afe7ae5/'
 firstName: Shirlyn
 collection: Classic
@@ -20,6 +20,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/shir2.jpg'
   - image: 'https://ucarecdn.com/c837d4e9-180f-4a1d-96b1-c168bd84a2f1/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/shir6.jpg'
+  - image: 'https://ucarecdn.com/5fcfd879-f42b-4eb7-bacc-d14418e6d60b/'
   - image: 'https://ucarecdn.com/8d9724a4-1ea4-440e-bba4-ddc538bcd96b/'
   - image: 'https://ucarecdn.com/9516069b-9d48-4952-8b99-9e44372f3e6f/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/shir1.jpg'
@@ -28,6 +29,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/d92215e1-273a-478f-9dcf-bd71a00fe85e/'
   - image: 'https://ucarecdn.com/367c0418-8ede-4798-b188-daac98645447/'
   - image: 'https://ucarecdn.com/bdab0c8c-06c8-4d3c-b90f-2f13304edf5b/'
+  - image: 'https://ucarecdn.com/a28643b1-ac5e-4e83-9c5e-948419837f38/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/shir7.jpg'
   - image: 'https://ucarecdn.com/daecd7ed-6e91-4759-a744-732f3e230fcc/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/shir4.jpg'
