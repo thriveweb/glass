@@ -3,8 +3,7 @@ template: ModelPage
 title: Jett
 featuredImage: >-
   https://ucarecdn.com/d3b95031-3e73-481b-b3a7-f5d1b04ddad6/-/crop/826x448/0,324/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/e6fa55c7-0816-4145-a18f-af306998e091/-/crop/1573x1636/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/639a97eb-efe3-493c-8a1e-5b529781d57f/'
 firstName: Jett
 collection: Boys
 height: 123cm
