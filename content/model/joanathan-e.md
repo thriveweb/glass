@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Joanathan E
+title: Jonathan E
 featuredImage: >-
   https://ucarecdn.com/c7d491f1-1f0f-4046-a07c-009cbc2999f7/-/crop/2449x1098/0,209/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/0b43a699-3761-462a-9ce2-88c4c7533eb6/-/crop/1082x1499/370,0/-/preview/
-firstName: Joanathan E
+firstName: Jonathan E
 collection: Classic
 height: 178cm
 measurementType: chest
