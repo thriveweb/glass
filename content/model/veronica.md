@@ -10,7 +10,7 @@ height: 162cm
 measurementType: bust
 bust: 85cm
 waist: 74cm
-hips: 95cm
+hips: 89cm
 size: 8-10
 shoeSize: '7.5'
 hair: Blonde
