@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/d668dd32-b356-4e1c-b574-c7c4cf7a518f/'
 imageThumbnail: >-
   https://ucarecdn.com/0c3bb77f-b78c-4f08-84ad-b4bbcb0dfb3d/-/crop/569x727/198,0/-/preview/
 firstName: Yasmin
-collection: Women
+collection: Emerging
 height: 171cm
 measurementType: bust
 waist: 60cm
