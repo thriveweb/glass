@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/4aab7acc-b333-45f4-9924-e5aebd3efe37/'
 imageThumbnail: >-
   https://ucarecdn.com/22defec0-c090-4818-80cb-510a2f3de841/-/crop/521x437/649,139/-/preview/
 firstName: Dani
-collection: Women
+collection: Classic
 height: 170cm
 measurementType: bust
 bust: 81cm
