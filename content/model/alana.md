@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/6f3b0624-711f-42b2-ae74-65beeb9541fa/'
 imageThumbnail: >-
   https://ucarecdn.com/ca869743-2ef8-4f77-9387-dd338335570e/-/crop/808x1195/810,75/-/preview/
 firstName: Alana
-collection: Women
+collection: Global
 height: 163cm
 measurementType: bust
 bust: 78cm
