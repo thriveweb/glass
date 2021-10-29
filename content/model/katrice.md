@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c3e221f5-66e2-4b90-a5b5-9b53b885235c/-/crop/1632x1840/0,0/-/preview/
 firstName: Katrice
-collection: Women
+collection: Classic
 height: 171cm
 measurementType: bust
 bust: 83cm
