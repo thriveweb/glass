@@ -8,7 +8,7 @@ featuredVideoMobile: 'https://ucarecdn.com/c9c189ce-9873-4616-9f9c-4aa999d88867/
 imageThumbnail: >-
   https://ucarecdn.com/0b4973b7-ffd9-466e-8500-ca49886ff6e3/-/crop/869x1313/412,336/-/preview/
 firstName: Laney
-collection: Women
+collection: Emerging
 height: 182cm
 measurementType: bust
 bust: 83cm
