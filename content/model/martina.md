@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/cf5571d5-9a9f-4513-aae3-45799f818f36/'
 imageThumbnail: >-
   https://ucarecdn.com/4ae84e3c-dcf0-4fca-9e56-1c6ff4d7daf5/-/crop/1228x1613/617,0/-/preview/
 firstName: Martina
-collection: Women
+collection: Global
 height: 178cm
 measurementType: bust
 bust: 85cm
