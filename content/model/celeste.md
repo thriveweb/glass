@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/9d22c0b2-340e-44db-879f-0dcb6af49f97/-/crop/1080x594/0,0/-/preview/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/celeste-headshot.jpg'
 firstName: Celeste
-collection: Women
+collection: Classic
 height: 170cm
 measurementType: bust
 bust: 82cm
