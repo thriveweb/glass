@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/846519a7-666a-4234-8a6d-471d3f10e9d3/-/crop/1021x1333/223,135/-/preview/
 firstName: Loren
-collection: Women
+collection: Emerging
 height: 176cm
 measurementType: bust
 bust: 86cm
