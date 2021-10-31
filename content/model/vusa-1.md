@@ -7,10 +7,13 @@ imageThumbnail: >-
 thumbnailVideo: ''
 firstName: Vusa
 collection: Classic
-height: 168cm
+height: 162cm
 measurementType: chest
-size: 30 Pant/ S Shirt
-shoeSize: '8.5'
+bust: 94cm
+waist: 77cm
+hips: 93cm
+size: 30 Pant/ XS Shirt
+shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
