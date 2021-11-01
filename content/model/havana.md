@@ -6,13 +6,13 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/4e62a27d-ddbd-46e7-b345-108c412fb61b/'
 firstName: Havana
 collection: Girls
-height: 134cm
+height: 142cm
 measurementType: bust
-bust: 60cm
-waist: 58cm
-hips: '66.5'
-size: 7-8
-shoeSize: '2'
+bust: 61cm
+waist: 61cm
+hips: 68cm
+size: 8-10
+shoeSize: 4-5
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
