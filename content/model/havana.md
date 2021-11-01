@@ -8,7 +8,7 @@ firstName: Havana
 collection: Girls
 height: 142cm
 measurementType: bust
-bust: 61cm
+bust: 71cm
 waist: 61cm
 hips: 68cm
 size: 8-10
