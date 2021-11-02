@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Uchechi
-featuredImage: 'https://ucarecdn.com/ea926a51-c7c1-46ab-aec4-6a287c99b1d4/'
+featuredImage: >-
+  https://ucarecdn.com/e0607ce4-b427-4f02-a594-c9c199ab585e/-/crop/983x270/18,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/f1d32fdf-b5c8-4091-bca7-361e0764a8b6/-/crop/1632x1805/0,0/-/preview/
 firstName: Uchechi
@@ -18,6 +19,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/1e146111-49b7-42c8-a0a5-5b9f2c62a139/'
   - image: 'https://ucarecdn.com/ec2940dd-e158-4b0a-bd8c-cb0d91d377b6/'
+  - image: 'https://ucarecdn.com/8bd96cb8-87ef-4f5a-b808-344b39647156/'
   - image: 'https://ucarecdn.com/51ce63d3-d144-4ac7-b793-b5c4a770f437/'
   - image: 'https://ucarecdn.com/ff15a5d8-c341-49c6-9ebf-254cfb93588b/'
   - image: 'https://ucarecdn.com/4ea8b503-13e2-40a2-a867-017b17f9d997/'
@@ -37,5 +39,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/ff3c8160-2b2c-41cb-a0ee-72578c2b6de2/'
   - image: 'https://ucarecdn.com/3a380bf2-be21-494e-be21-4f87e53e88a3/'
   - image: 'https://ucarecdn.com/bdb59926-804a-4382-8685-82e4d3f67afa/'
+  - image: 'https://ucarecdn.com/e53d9476-b1b7-4170-b715-ebd81874be8b/'
 ---
 
