@@ -4,7 +4,7 @@ title: Olivia
 featuredImage: >-
   https://ucarecdn.com/d1d1808d-19bd-4c7f-8971-ce9c5afe5090/-/crop/636x247/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/bd50772c-b2f8-4bf9-b950-08e3b1aa3bfa/-/crop/1040x1856/439,0/-/preview/
+  https://ucarecdn.com/08b749ae-0ddc-4d60-ac94-c20f96435ff8/-/crop/619x810/83,0/-/preview/
 firstName: 'Olivia '
 collection: Emerging
 height: 176cm
