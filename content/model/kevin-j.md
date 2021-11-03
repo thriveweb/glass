@@ -4,7 +4,7 @@ title: Kevin J
 featuredImage: >-
   https://ucarecdn.com/75bb0875-11cd-438c-bbbf-e41723677153/-/crop/1633x874/0,700/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/0027a3f8-5d1a-4bd6-98a1-df0625965777/-/crop/1164x1543/485,0/-/preview/
+  https://ucarecdn.com/710da5d9-6a58-454f-b41e-3b414508bde4/-/crop/690x1048/561,444/-/preview/
 firstName: Kevin J
 collection: Men
 height: 183cm
