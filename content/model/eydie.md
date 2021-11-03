@@ -3,7 +3,8 @@ template: ModelPage
 title: Eydie
 featuredImage: >-
   https://ucarecdn.com/c745c503-7498-4e0d-900e-abce72f839a1/-/crop/1800x872/0,96/-/preview/
-imageThumbnail: 'https://ucarecdn.com/7a00e85e-18fb-43ab-ba97-15629db3309b/'
+imageThumbnail: >-
+  https://ucarecdn.com/cf8728e8-4091-4e28-986e-1e2d3c0e4983/-/crop/450x601/300,392/-/preview/
 firstName: Eydie
 collection: Girls
 height: 136cm
