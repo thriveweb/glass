@@ -1,8 +1,10 @@
 ---
 template: ModelPage
 title: Tami
-featuredImage: 'https://ucarecdn.com/d21faf6c-faa0-4d5f-8c69-a1c1bb3c3424/'
-imageThumbnail: 'https://ucarecdn.com/173e3637-fe51-482a-b367-38f1b7f13ffc/'
+featuredImage: >-
+  https://ucarecdn.com/d21faf6c-faa0-4d5f-8c69-a1c1bb3c3424/-/crop/1920x1040/0,0/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/173e3637-fe51-482a-b367-38f1b7f13ffc/-/crop/1335x1280/219,0/-/preview/
 firstName: Tami
 collection: Classic
 height: 155cm
