@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/b2e93c25-33ea-4af6-a6e1-0ae344af1f00/-/crop/1711x1909/0,0/-/preview/
 firstName: Tayah M
 collection: Girls
-height: 145cm
+height: 143cm
 measurementType: bust
-bust: 62cm
-waist: 55cm
-hips: 64cm
+bust: 78cm
+waist: 68cm
+hips: 82cm
 size: '10'
 shoeSize: 3-4
 hair: Brown
