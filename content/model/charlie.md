@@ -1,10 +1,9 @@
 ---
 template: ModelPage
 title: Charlie
-featuredImage: >-
-  https://ucarecdn.com/a1c5baeb-bf07-464c-aad0-0e4e129ef816/-/crop/5472x3149/0,166/-/preview/
+featuredImage: 'https://ucarecdn.com/8b154a1e-1157-4a22-9206-4e99612b580c/'
 imageThumbnail: >-
-  https://ucarecdn.com/8daf3edd-e86e-4dbd-8870-5d4bcb956ab4/-/crop/2679x3149/1220,31/-/preview/
+  https://ucarecdn.com/7ed2a8b1-c438-4c54-b4d7-b7b9d935adef/-/crop/1112x1462/590,21/-/preview/
 firstName: Charlie
 collection: Boys
 height: 140cm
@@ -17,17 +16,17 @@ shoeSize: 7/8
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/b5931af3-3a2f-45cd-8e6a-704a27c5ca9d/'
-  - image: 'https://ucarecdn.com/1b863bfd-2596-4f16-903c-dacd3d1799e5/'
-  - image: 'https://ucarecdn.com/d4d0971d-416e-46be-b563-08d9dd8ce5ae/'
-  - image: 'https://ucarecdn.com/e7b7326c-1260-4982-803a-973976551489/'
-  - image: 'https://ucarecdn.com/4210fa3d-ecf6-49ab-aec0-75aeb5239789/'
+  - image: 'https://ucarecdn.com/807d403e-8317-4699-8109-c2ad1bb07c6f/'
+  - image: 'https://ucarecdn.com/04e66db3-f4ef-41ee-862e-72a076f2eca7/'
+  - image: 'https://ucarecdn.com/8f71747e-e000-48ee-abfe-ef113a174bc4/'
+  - image: 'https://ucarecdn.com/4a5e15ba-c08d-4993-91ce-57f1f87f9ad0/'
+  - image: 'https://ucarecdn.com/6f1ba2f7-ab70-4f3e-9f0d-c2390d435f7c/'
   - image: 'https://ucarecdn.com/c43ce123-79bb-4d5e-8b95-7e8639ed9314/'
   - image: 'https://ucarecdn.com/2de4400c-f9d6-4d8b-a292-7d86d2d6ec72/'
-  - image: 'https://ucarecdn.com/5e1235bc-e7c0-41c1-aafb-cf2b55d3cdc7/'
+  - image: 'https://ucarecdn.com/cbc54021-b249-4d00-b076-5eb7224b418d/'
   - image: 'https://ucarecdn.com/f8b41781-98cf-4ed9-8c76-39fce4ff374e/'
-  - image: 'https://ucarecdn.com/187c8865-c5de-4593-a33f-db826d2d1ece/'
-  - image: 'https://ucarecdn.com/6b075e1c-c281-4ac8-8374-9e7e8ec361e1/'
+  - image: 'https://ucarecdn.com/6022223a-da7d-46c6-ba32-88e5201e657d/'
+  - image: 'https://ucarecdn.com/4cd1c698-4153-4351-8cab-5658dd29aacf/'
   - image: 'https://ucarecdn.com/1fdc6826-b6aa-470e-a905-bcc04374f51a/'
   - image: 'https://ucarecdn.com/0aa8e000-a49b-4731-873a-ab5775ede2b8/'
 ---
