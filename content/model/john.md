@@ -7,10 +7,10 @@ imageThumbnail: >-
   https://ucarecdn.com/0b1c4595-9a3c-4495-b7b3-0d3a8ffc489e/-/crop/872x1030/891,0/-/preview/
 firstName: John
 collection: Men
-height: 5'5
+height: 165cm
 measurementType: chest
-bust: 39 inches
-waist: 28 inches
+bust: 99cm
+waist: 71cm
 size: 30 Pant M shirt
 shoeSize: '9'
 hair: Brown
