@@ -17,8 +17,9 @@ hair: Light Brown
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/3f1b8187-4f0e-4da1-b398-979ed13f1d9d/'
-  - image: 'https://ucarecdn.com/fd2402db-8ebe-4695-8629-f4fa4c652fdd/'
+  - image: 'https://ucarecdn.com/486c2f9a-d6a5-43f8-bbe2-144150107329/'
   - image: 'https://ucarecdn.com/d63c1a1e-1d54-46a3-8306-e82d4439240e/'
+  - image: 'https://ucarecdn.com/fd2402db-8ebe-4695-8629-f4fa4c652fdd/'
   - image: 'https://ucarecdn.com/d91ded41-0ece-4b5f-b25c-32399bde121a/'
   - image: 'https://ucarecdn.com/f12c90f1-2093-4425-8dd3-278d1cab3425/'
   - image: 'https://ucarecdn.com/4195a1df-3103-462c-92b7-d6b25b7224a8/'
@@ -37,7 +38,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/41c1cd7b-1815-44f2-8b90-73c85ead1217/'
   - image: 'https://ucarecdn.com/65f10589-a640-4423-a0c7-0fe424df9887/'
   - image: 'https://ucarecdn.com/e13961bd-93fd-4f95-8d73-9e3b89103569/'
-  - image: 'https://ucarecdn.com/486c2f9a-d6a5-43f8-bbe2-144150107329/'
 meta:
   title: Amanda W
 ---
