@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Fiona
-featuredImage: >-
-  https://ucarecdn.com/ace50b4d-e429-4b4e-9d3b-94dc73541895/-/crop/360x212/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/8f44e21c-e48d-4175-9095-729d770d6b86/'
 imageThumbnail: >-
   https://ucarecdn.com/5f9dad93-3e0a-4f74-afbe-706f30aa6304/-/crop/465x548/15,0/-/preview/
 firstName: Fiona
