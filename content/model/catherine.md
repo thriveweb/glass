@@ -2,7 +2,7 @@
 template: ModelPage
 title: Catherine
 featuredImage: >-
-  https://ucarecdn.com/354240a2-9b82-4490-a40a-b1842a6bd087/-/crop/4480x1960/0,1400/-/preview/
+  https://ucarecdn.com/354240a2-9b82-4490-a40a-b1842a6bd087/-/crop/4480x2273/0,988/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/6291af73-971e-4b19-abee-6bf0bdf241c5/-/crop/3559x5065/522,0/-/preview/
 firstName: Catherine
