@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/3ce77407-a4ad-45f6-8b9b-cdb4dc804d95/-/crop/272x319/98,45/-/preview/
 firstName: Annika
 collection: Girls
-height: 106cm
+height: 115cm
 measurementType: bust
-bust: 57cm
-waist: 53cm
-hips: 56cm
-size: '4'
-shoeSize: '10'
+bust: 62cm
+waist: 60cm
+hips: 63cm
+size: '5'
+shoeSize: '13'
 hair: Light Brown
 eyes: Green
 imagePortfolio:
