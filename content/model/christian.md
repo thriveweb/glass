@@ -6,8 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/c215a26b-6ca9-4977-ba0a-c158296f772e/-/crop/1604x1740/341,772/-/preview/
 firstName: Christian
 collection: Boys
-size: '14'
-shoeSize: '7'
+height: 162cm
+measurementType: chest
+bust: 92cm
+waist: 89cm
+hips: 95cm
+size: '16'
+shoeSize: '10.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
