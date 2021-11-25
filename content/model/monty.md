@@ -2,7 +2,7 @@
 template: ModelPage
 title: Monty
 featuredImage: >-
-  https://ucarecdn.com/eb8f1190-ca3c-4124-bfb3-bdc25148d37b/-/crop/1800x1056/0,0/-/preview/
+  https://ucarecdn.com/241ed78e-067c-4f2e-b4ca-2a8a27a6cf81/-/crop/600x208/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/3fd3eaab-94c9-41fd-bd78-fc406b2583a7/-/crop/245x337/1,1/-/preview/
 firstName: Monty
