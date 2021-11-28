@@ -2,7 +2,7 @@
 template: ModelPage
 title: Angela O
 featuredImage: >-
-  https://ucarecdn.com/ee924fe4-5ebb-44aa-85c7-0bf3099bea17/-/crop/788x336/0,0/-/preview/
+  https://ucarecdn.com/42e57b0a-9b57-4a15-b215-85d06f429e2b/-/crop/2449x1063/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/a2b0621d-bcdb-4c24-a1e4-2826e1866605/-/crop/222x262/301,27/-/preview/
 firstName: Angela O
