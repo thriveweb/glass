@@ -2,7 +2,7 @@
 template: ModelPage
 title: Luna
 featuredImage: >-
-  https://ucarecdn.com/1304a32f-c34d-4432-b2cc-4bb5716747a3/-/crop/1647x617/48,183/-/preview/
+  https://ucarecdn.com/4c1d87e7-630f-414d-aab5-e3ff40aee21a/-/crop/828x438/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/8ef47eb9-000f-4a30-bf17-c98b5f45a1d0/-/crop/1073x1245/622,92/-/preview/
 firstName: Luna
