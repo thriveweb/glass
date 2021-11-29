@@ -17,15 +17,17 @@ shoeSize: kids 10
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/bab68c33-c109-4d36-ac75-29f804e6d4be/'
-  - image: 'https://ucarecdn.com/9ee9d52f-9839-4901-85aa-6e01e9fd916a/'
+  - image: 'https://ucarecdn.com/8b7163d0-4735-4053-8232-92a4fc474366/'
   - image: 'https://ucarecdn.com/99136c58-0928-4286-92ca-9b67f7c5b54a/'
+  - image: 'https://ucarecdn.com/fb0bb70b-df59-4242-a635-7a1228b62a3b/'
+  - image: 'https://ucarecdn.com/bab68c33-c109-4d36-ac75-29f804e6d4be/'
   - image: 'https://ucarecdn.com/2124c5de-4f3e-4bf3-a5ae-03a6c33a9f66/'
+  - image: 'https://ucarecdn.com/a343c654-de6e-4217-b927-7c24113383e1/'
   - image: >-
       https://ucarecdn.com/50f181e9-3830-46dd-a97f-37a16ab31a86/-/crop/476x375/0,0/-/preview/
   - image: 'https://ucarecdn.com/ee40bad1-3f6b-4db2-ad96-b5582776b6ee/'
   - image: 'https://ucarecdn.com/e50187d3-833f-4bae-afdc-0173cdb92599/'
-  - image: 'https://ucarecdn.com/8b7163d0-4735-4053-8232-92a4fc474366/'
+  - image: 'https://ucarecdn.com/9ee9d52f-9839-4901-85aa-6e01e9fd916a/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo72634327123111111.jpg'
   - image: >-
       https://ucarecdn.com/32797180-e91d-4324-93fa-34008d195c34/-/crop/920x960/0,0/-/preview/
@@ -37,19 +39,15 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/2ba851be-6342-4a06-8491-accd476c9de5/'
   - image: 'https://ucarecdn.com/92727fb0-5814-4a7c-9dd5-1c306deddbbf/'
   - image: 'https://ucarecdn.com/5f69f359-a2ee-49f1-add1-c149933a5ee1/'
+  - image: 'https://ucarecdn.com/cb155d73-d85d-4aa1-8e45-9c5555d00f28/'
   - image: 'https://ucarecdn.com/e99000e2-ff4a-4334-9945-32672379fa0b/'
-  - image: 'https://ucarecdn.com/6c7377ca-889c-4a2f-8cc3-0405eb0c291b/'
   - image: 'https://ucarecdn.com/e4efdaf1-2045-4992-b5da-4c5f74bac8a2/'
-  - image: 'https://ucarecdn.com/ca72b426-4469-4286-ba43-3495749216c8/'
   - image: 'https://ucarecdn.com/a204d810-57d4-4294-8cd5-9ca14d3ad77b/'
-  - image: 'https://ucarecdn.com/33b4d3b4-137f-46de-9630-ca1ac78436fb/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo23786472.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/ayo2763890.jpg'
   - image: 'https://ucarecdn.com/c70daa29-1b50-4d9d-8576-5fddb8cbea96/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kayoda-10.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/kayode-ayo897324.jpg'
-  - image: 'https://ucarecdn.com/dd3cd18b-9bd8-49e8-a227-fbae1d1f3ab5/'
-  - image: 'https://ucarecdn.com/87ead2ab-23d2-475f-99ab-81a4894d0aab/'
 meta:
   title: Ayo
 ---
