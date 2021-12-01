@@ -4,7 +4,7 @@ title: Patrick M
 featuredImage: >-
   https://ucarecdn.com/3465f419-1523-4171-ae46-d82ee11f0fa8/-/crop/4593x2077/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/abbeac56-80da-4ee2-9403-49534f597c1e/-/crop/1904x2119/1212,222/-/preview/
+  https://ucarecdn.com/abbeac56-80da-4ee2-9403-49534f597c1e/-/crop/1596x1797/1282,250/-/preview/
 firstName: Patrick
 collection: Boys
 height: 106cm
