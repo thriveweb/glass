@@ -1,0 +1,27 @@
+---
+template: ModelPage
+title: Dionne
+featuredImage: >-
+  https://ucarecdn.com/8b3602a9-5cf4-4ee6-90b0-e217080da30d/-/crop/1242x701/0,161/-/preview/
+imageThumbnail: 'https://ucarecdn.com/754da6ad-6fee-44f9-b523-c1292c8c7d19/'
+firstName: Dionne
+collection: Women
+height: 160cm
+measurementType: bust
+bust: 84cm
+waist: 65cm
+hips: 94cm
+size: 6-8
+shoeSize: '7'
+hair: Blonde
+eyes: Blue
+imagePortfolio:
+  - image: >-
+      https://ucarecdn.com/e2a117d3-1623-417a-a6aa-def759e954cd/-/crop/1242x1495/0,0/-/preview/
+  - image: 'https://ucarecdn.com/eb4c3dc3-e5da-48e1-83d4-f29c59020ed9/'
+  - image: 'https://ucarecdn.com/f2c0e664-ec6d-4db5-80ad-6ef7fd519d63/'
+  - image: 'https://ucarecdn.com/d7310101-4e4f-485c-9c14-331290b0c288/'
+  - image: 'https://ucarecdn.com/cdcb3af1-af55-4f99-8782-b4fdb54d80c4/'
+  - image: 'https://ucarecdn.com/ebba8fa0-8abf-45d1-93b3-7ba547732585/'
+---
+
