@@ -9,9 +9,9 @@ firstName: Karen
 collection: Classic
 height: 166cm
 measurementType: bust
-bust: 34 inches
-waist: 28 inches
-hips: 33 inches
+bust: 86cm
+waist: 71cm
+hips: 83cm
 size: 8/10
 shoeSize: 38 euro
 hair: Brown
