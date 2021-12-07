@@ -8,6 +8,10 @@ imageThumbnail: >-
 firstName: Ali
 collection: Classic
 height: 154cm
+measurementType: bust
+bust: 81cm
+waist: 71cm
+hips: 86cm
 size: 6/XS
 shoeSize: '6.5'
 hair: Brown
