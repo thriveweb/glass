@@ -6,7 +6,10 @@ imageThumbnail: 'https://ucarecdn.com/8d853d49-b9d3-4929-9665-db56d50435e7/'
 firstName: Noah R
 collection: Classic
 height: 184cm
-measurementType: null
+measurementType: chest
+bust: 110cm
+waist: 90cm
+hips: 96cm
 size: M / 32
 shoeSize: '10'
 hair: Light Brown
