@@ -4,7 +4,7 @@ title: Samantha P
 featuredImage: >-
   https://ucarecdn.com/9931abb5-7a48-473d-bdb1-ef44fd694868/-/crop/1958x947/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/579b2c8d-67fd-4f3e-b3bc-2fc147def20e/-/crop/1806x1632/296,0/-/preview/
+  https://ucarecdn.com/2c52a998-6b31-4879-a844-391a7fa729eb/-/crop/923x1215/809,59/-/preview/
 firstName: Samantha P
 collection: Women
 height: 178cm
