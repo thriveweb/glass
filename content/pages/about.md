@@ -142,7 +142,7 @@ services:
         With talent in Brisbane, Gold Coast and Byron Bay.
 
         We have someone for everyone!!
-      image: 'https://glassmanagement.imgix.net/images/uploads/alisha-2.jpg'
+      image: 'https://ucarecdn.com/ccdfb6f6-ee6c-4bb3-8cd2-25ac2c36fcdb/'
       title: ' Models'
     - content: >-
         We have an array of actors in all ages. 
@@ -154,7 +154,7 @@ services:
 
         It really is Hollywood on the Gold Coast!!
       image: >-
-        https://glassmanagement.imgix.net/images/uploads/avel-chuklanov-509630-unsplash.png
+        https://ucarecdn.com/cadfde72-dd30-4954-9390-54585824004c/-/crop/1365x1326/0,0/-/preview/
       title: Actors
     - content: >-
         Glass extras work daily on exciting film sets, maintaining our high
