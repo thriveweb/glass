@@ -5,11 +5,11 @@ featuredImage: 'https://ucarecdn.com/f5168b7c-f1ab-4ece-b905-0d0600b7c7fe/'
 imageThumbnail: 'https://ucarecdn.com/99f2279f-a349-4251-9877-9c911d7076b4/'
 firstName: Fraser
 collection: Global
-height: 6'3"
+height: 190cm
 measurementType: chest
-bust: '37'
-waist: '34'
-hips: '43'
+bust: 93cm
+waist: 86cm
+hips: 109cm
 size: Pants 36  Short XL
 shoeSize: '13'
 imagePortfolio:
