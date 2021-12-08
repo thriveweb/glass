@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Olivia M
+title: Ca Olivia M
 featuredImage: >-
   https://ucarecdn.com/de03d430-8eb3-4a0b-81dd-c0ba9c3791b8/-/crop/4946x2786/0,1956/-/preview/
 imageThumbnail: >-
