@@ -13,16 +13,19 @@ buttonText: See Our Talent
 buttonUrl: models/women
 gallery:
   galleryImages:
-    - image: 'https://ucarecdn.com/a6fc9f1c-a8a6-4e06-b71b-69931842befd/'
+    - image: >-
+        https://ucarecdn.com/26422f21-deb9-4a9a-a05e-9a1de56aa43a/-/crop/1501x1344/0,0/-/preview/
       title: Women
     - image: >-
         https://ucarecdn.com/97f8e6dd-a8e8-4f99-a2c7-e6bb82f003eb/-/crop/1180x1378/0,0/-/preview/
       title: Girls
-    - image: 'https://ucarecdn.com/31dc20b6-836b-49e2-aa34-7f765b03652f/'
+    - image: >-
+        https://ucarecdn.com/29230f77-9251-4ff8-afcd-a961fca0cf40/-/crop/2449x1297/0,167/-/preview/
       title: Classic
     - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
       title: Global
-    - image: 'https://ucarecdn.com/925831f3-4d16-474c-8e0b-768bdc5bea35/'
+    - image: >-
+        https://ucarecdn.com/6c3b93ac-887f-4ba5-8a33-fe87f7ad3f2e/-/crop/3450x3771/0,0/-/preview/
       title: Men
     - image: 'https://ucarecdn.com/263ede51-a3f4-460b-a6e0-2b590d4baea0/'
       title: Boys
