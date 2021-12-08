@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Ali
+title: An Ali
 featuredImage: >-
   https://ucarecdn.com/d074dadd-f85c-4ee3-b30a-9f1a0d5078b4/-/crop/5472x2438/0,186/-/preview/
 imageThumbnail: >-
