@@ -5,7 +5,7 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/andy-1212121.jp
 imageThumbnail: >-
   https://glassmanagement.imgix.net/images/uploads/new-project-2018-12-27-11-06-12.jpg
 firstName: Andrew L
-collection: Classic
+collection: Global
 height: 185cm
 measurementType: chest
 bust: 99cm
