@@ -22,7 +22,8 @@ gallery:
       title: Classic
     - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
       title: Global
-    - image: 'https://ucarecdn.com/925831f3-4d16-474c-8e0b-768bdc5bea35/'
+    - image: >-
+        https://ucarecdn.com/fe37e788-1888-41b4-a18d-a67bd29cd941/-/crop/3450x4230/0,0/-/preview/
       title: Men
     - image: 'https://ucarecdn.com/263ede51-a3f4-460b-a6e0-2b590d4baea0/'
       title: Boys
