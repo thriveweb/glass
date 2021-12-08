@@ -24,7 +24,7 @@ gallery:
       title: Global
     - image: 'https://ucarecdn.com/925831f3-4d16-474c-8e0b-768bdc5bea35/'
       title: Men
-    - image: 'https://ucarecdn.com/cfd70d02-92c6-4d62-963e-e8c1b718d3ec/'
+    - image: 'https://ucarecdn.com/263ede51-a3f4-460b-a6e0-2b590d4baea0/'
       title: Boys
     - image: 'https://ucarecdn.com/73d047cf-5278-4306-817a-a16286a93d5d/'
       title: Emerging
