@@ -4,7 +4,7 @@ title: Dane
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/danebanner23841.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/dane.jpg'
 firstName: Dane
-collection: Classic
+collection: Global
 height: 184cm
 measurementType: chest
 bust: 111cm
