@@ -37,23 +37,33 @@ teamMembers:
     subTitle: Our Story
     title: Tegan Glass
   - content: >-
-      Emily not only runs new talent, model submissions , Model mentoring and
-      Model coaching but works in the Industry constantly too.
+      Meet Emily
 
 
-      Em lives and breathes the Industry and has done since the age of 6!! So
+      Super efficient, super friendly and super talented and ALWAYS at Glass
+      (unless she's on set or a shoot). 
+
+
+      Emily runs all the day to day campaigns for our Glass talent and ensures
+      that Glass remains a step above the rest in efficiency, professionalism
+      and first class service. 
+
+
+      She lives and breathes the Industry and has done since the age of 6!! So
       with years of experience under her belt there is no one better to bring
       her expertise to  Team Glass.
 
 
       We love you Em!!
     image: 'https://ucarecdn.com/39fe9baf-28df-4861-b0ee-824fa02dd9d5/'
-    subTitle: Model Mentor
+    subTitle: There's Nothing This Girl Can't Do
     title: Emily West
   - image: >-
       https://ucarecdn.com/6f481208-b3ce-4f29-bfa6-91711df76bfc/-/crop/1413x1632/308,0/-/preview/
     leftAlign: true
     subTitle: Team Glass
+  - leftAlign: true
+    title: Maya
 services:
   content: >-
     Glass Management supplies professional talent for Feature Films, TV
