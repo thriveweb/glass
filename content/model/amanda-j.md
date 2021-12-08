@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Amanda J
+title: T Amanda J
 featuredImage: >-
   https://ucarecdn.com/2fbdf0aa-33a4-4a9e-8df3-8fa076d5059f/-/crop/1800x939/0,67/-/preview/
 imageThumbnail: >-
