@@ -108,7 +108,7 @@ teamMembers:
       She is not one to brag about her past resume but has appeared in TVC's and
       shoots since birth! In fact, her first job was at one week old on Home and
       Away!
-  - leftAlign: false
+  - leftAlign: true
     title: Sam
     image: >-
       https://ucarecdn.com/f135dbee-fa3a-49cd-90f2-15e118ee8b08/-/crop/257x250/0,0/-/preview/
