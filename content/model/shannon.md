@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Ang Shanon
+title: Anh Shanon
 featuredImage: >-
   https://glassmanagement.imgix.net/images/uploads/shannon672348129header_32473.jpg
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/shannon36472839.jpg'
