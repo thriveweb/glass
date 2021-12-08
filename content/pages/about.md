@@ -6,31 +6,34 @@ subTitle: ''
 title: About Us
 teamMembers:
   - content: >-
-      Tegan has been in the Entertainment Industry for over 30 years (now you
+      Tegan has been in the Entertainment Industry for over 45 years (now you
       know how old she is!) With an extensive list of talents under her belt
       including Professional Dancer, Aerial Artist, Magicians Assistant,
-      Choreographer, Personal Trainer, Model, Presenter and Owner of Glasshouse
-      Events Sydney specialising in Corporate Events, Functions and Producing
-      Shows. This has led her to both a national and international career path.
+      Choreographer, Personal Trainer, Model and Presenter. This has led her to
+      both a national and international career path.
 
 
-      Over the past seven years, Tegan has been able to successfully immerse
+      Over the past ten years, Tegan has been able to successfully immerse
       herself into the Queensland market place with high end fashion labels,
       national brands, feature films, TV Series and local and national TVC
       Campaigns.
 
 
-      She has worked with some of Australia's biggest fashion and corporate
+      She has worked with most of Australia's biggest fashion and corporate
       lifestyle brands across all industries and has developed long standing
       relationships along the way. As we all know this industry is forever
       evolving and because of her experience and communication skills, clients
       and talent feel confident in her ability to match suitable talent to fit
-      the campaigns brief.
+      the campaigns brief. 
+
+
+      In 2021, she also launched Glass Studios - a custom made photography
+      studio, not only for her clients to book but for any one to use. 
 
 
       Tegan has the entertainment industry covered in all areas and her can-do
-      energetic personality means it's exciting times ahead for Glass
-      Management.
+      energetic personality means it's always exciting times ahead for Glass
+      Management and always a new idea around the corner!
     image: >-
       https://ucarecdn.com/1a94f885-e8d9-45b4-aa22-86c49a3b2534/-/crop/2060x3182/2108,0/-/preview/
     leftAlign: true
