@@ -15,7 +15,8 @@ gallery:
   galleryImages:
     - image: 'https://ucarecdn.com/a6fc9f1c-a8a6-4e06-b71b-69931842befd/'
       title: Women
-    - image: 'https://ucarecdn.com/97f8e6dd-a8e8-4f99-a2c7-e6bb82f003eb/'
+    - image: >-
+        https://ucarecdn.com/97f8e6dd-a8e8-4f99-a2c7-e6bb82f003eb/-/crop/1180x1378/0,0/-/preview/
       title: Girls
     - image: 'https://ucarecdn.com/31dc20b6-836b-49e2-aa34-7f765b03652f/'
       title: Classic
