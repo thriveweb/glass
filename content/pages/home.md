@@ -30,7 +30,7 @@ gallery:
     - image: >-
         https://ucarecdn.com/263ede51-a3f4-460b-a6e0-2b590d4baea0/-/crop/1200x1056/0,0/-/preview/
       title: Boys
-    - image: 'https://ucarecdn.com/73d047cf-5278-4306-817a-a16286a93d5d/'
+    - image: 'https://ucarecdn.com/d026e750-94da-47a1-ac1f-2500bb5cc074/'
       title: Emerging
     - image: 'https://ucarecdn.com/f04527fd-203a-4f93-888b-dfef7f7567a2/'
       title: Performer
