@@ -15,15 +15,13 @@ gallery:
   galleryImages:
     - image: 'https://ucarecdn.com/a6fc9f1c-a8a6-4e06-b71b-69931842befd/'
       title: Women
-    - image: >-
-        https://ucarecdn.com/aa4bb6dd-7a77-411d-8989-4c92ffec4ae6/-/crop/684x594/0,0/-/preview/
+    - image: 'https://ucarecdn.com/97f8e6dd-a8e8-4f99-a2c7-e6bb82f003eb/'
       title: Girls
     - image: 'https://ucarecdn.com/31dc20b6-836b-49e2-aa34-7f765b03652f/'
       title: Classic
     - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
       title: Global
-    - image: >-
-        https://ucarecdn.com/fe37e788-1888-41b4-a18d-a67bd29cd941/-/crop/3450x4230/0,0/-/preview/
+    - image: 'https://ucarecdn.com/925831f3-4d16-474c-8e0b-768bdc5bea35/'
       title: Men
     - image: 'https://ucarecdn.com/263ede51-a3f4-460b-a6e0-2b590d4baea0/'
       title: Boys
