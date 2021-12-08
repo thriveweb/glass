@@ -17,7 +17,7 @@ gallery:
         https://ucarecdn.com/26422f21-deb9-4a9a-a05e-9a1de56aa43a/-/crop/1501x1344/0,0/-/preview/
       title: Women
     - image: >-
-        https://ucarecdn.com/97f8e6dd-a8e8-4f99-a2c7-e6bb82f003eb/-/crop/1180x1378/0,0/-/preview/
+        https://ucarecdn.com/97f8e6dd-a8e8-4f99-a2c7-e6bb82f003eb/-/crop/1200x1115/0,0/-/preview/
       title: Girls
     - image: >-
         https://ucarecdn.com/29230f77-9251-4ff8-afcd-a961fca0cf40/-/crop/2449x1297/0,167/-/preview/
@@ -27,7 +27,8 @@ gallery:
     - image: >-
         https://ucarecdn.com/6c3b93ac-887f-4ba5-8a33-fe87f7ad3f2e/-/crop/3450x3771/0,0/-/preview/
       title: Men
-    - image: 'https://ucarecdn.com/263ede51-a3f4-460b-a6e0-2b590d4baea0/'
+    - image: >-
+        https://ucarecdn.com/263ede51-a3f4-460b-a6e0-2b590d4baea0/-/crop/1200x1056/0,0/-/preview/
       title: Boys
     - image: 'https://ucarecdn.com/73d047cf-5278-4306-817a-a16286a93d5d/'
       title: Emerging
