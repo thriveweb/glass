@@ -60,9 +60,9 @@ teamMembers:
     title: Emily West
   - image: >-
       https://ucarecdn.com/6f481208-b3ce-4f29-bfa6-91711df76bfc/-/crop/1413x1632/308,0/-/preview/
-    leftAlign: true
-    subTitle: Team Glass
-  - leftAlign: true
+    leftAlign: false
+    subTitle: ''
+  - leftAlign: false
     title: Maya
     image: 'https://ucarecdn.com/bb620c38-9c45-4498-aad0-4d4c611e4bba/'
     subTitle: Model Mentor and Coach
@@ -83,6 +83,50 @@ teamMembers:
 
 
       There's not much this girl can't do! Watch this space.
+  - leftAlign: false
+    image: 'https://ucarecdn.com/62e591e3-2c7f-4c15-af47-2e511998a296/'
+    title: ''
+  - leftAlign: false
+    title: Tyra
+    image: 'https://ucarecdn.com/9a8a16f8-04b0-4eb6-9a5d-e1d94af8c417/'
+    subTitle: Talent Admin
+    content: >-
+      Meet Tyra
+
+
+      Super chilled, super sweet and super switched on. 
+
+
+      Tyra ensures all of our systems are up to date, and our website is
+      uploaded daily! She brings the energy, and the vocals to our office
+      space. 
+
+
+      She is not one to brag about her past resume but has appeared in TVC's and
+      shoots since birth! In fact, her first job was at one week old on Home and
+      Away!
+  - leftAlign: false
+    title: Sam
+    image: >-
+      https://ucarecdn.com/f135dbee-fa3a-49cd-90f2-15e118ee8b08/-/crop/257x250/0,0/-/preview/
+    content: >-
+      Meet Sam
+
+
+      Super kind, super savvy and super camera shy (yes... we can't even get a
+      photo of her haha). 
+
+
+      Sam is head of new faces and is our talent scout! Sam answers the daily
+      talent submissions to join our team. 
+
+
+      She runs our Instagram, making sure that everybody is celebrated and feels
+      the love.
+
+
+      Go Team Glass!
+    subTitle: Talent Manager
 services:
   content: >-
     Glass Management supplies professional talent for Feature Films, TV
