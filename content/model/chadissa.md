@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: T Chadissa
+title: Chadissa
 featuredImage: >-
   https://ucarecdn.com/cea9a35d-4096-4abc-86ec-72082de4f3d3/-/crop/369x224/0,38/-/preview/
 imageThumbnail: 'https://ucarecdn.com/553f5aa1-6990-432d-a467-6c270cca1080/'
