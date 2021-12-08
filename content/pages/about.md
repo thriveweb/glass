@@ -142,8 +142,9 @@ services:
         With talent in Brisbane, Gold Coast and Byron Bay.
 
         We have someone for everyone!!
-      image: 'https://ucarecdn.com/ccdfb6f6-ee6c-4bb3-8cd2-25ac2c36fcdb/'
-      title: ' Models'
+      image: >-
+        https://ucarecdn.com/ccdfb6f6-ee6c-4bb3-8cd2-25ac2c36fcdb/-/crop/249x239/0,0/-/preview/
+      title: ' Glass Models'
     - content: >-
         We have an array of actors in all ages. 
 
@@ -155,12 +156,12 @@ services:
         It really is Hollywood on the Gold Coast!!
       image: >-
         https://ucarecdn.com/cadfde72-dd30-4954-9390-54585824004c/-/crop/1365x1326/0,0/-/preview/
-      title: Actors
+      title: Glass Actors
     - content: >-
-        Glass extras work daily on exciting film sets, maintaining our high
-        level of professionalism we are known for!
+        Our Extras work daily on exciting film sets, maintaining our high level
+        of professionalism we are known for!
       image: 'https://ucarecdn.com/b6a70455-9ea7-43b6-89f4-ef1d4fb8c678/'
-      title: Extras
+      title: Glass Extras
     - content: >-
         Glass studios is an all purpose photography studio, perfect for
         lifestyle, head shots, commercials and ecommerce shoots!!
