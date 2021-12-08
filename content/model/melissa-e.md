@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Melissa E
+title: B Melissa E
 featuredImage: >-
   https://ucarecdn.com/8e4b71a2-273a-498d-af18-50eaa2415f75/-/crop/1133x486/0,39/-/preview/
 imageThumbnail: 'https://ucarecdn.com/eddf74ef-6f33-4230-8753-51144613f1e3/'
