@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Denika
+title: Al Denika
 featuredImage: 'https://ucarecdn.com/4e5c88ad-c73d-4345-9d6b-0ae8b68ccd94/'
 imageThumbnail: >-
   https://ucarecdn.com/e6ee0cac-4034-48e8-8689-1157a602c4d8/-/crop/1092x1066/276,0/-/preview/
