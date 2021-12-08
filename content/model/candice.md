@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: TCandice
+title: Candice
 featuredImage: >-
   https://ucarecdn.com/b8aa2cae-d43d-4a17-91e5-5665ffc4de69/-/crop/1682x739/313,113/-/preview/
 imageThumbnail: >-
