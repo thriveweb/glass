@@ -64,6 +64,25 @@ teamMembers:
     subTitle: Team Glass
   - leftAlign: true
     title: Maya
+    image: 'https://ucarecdn.com/bb620c38-9c45-4498-aad0-4d4c611e4bba/'
+    subTitle: Model Mentor and Coach
+    content: >-
+      Meet Maya
+
+
+      Super bubbly, super excited and super energetic!
+
+
+      Maya brings to Glass her passion to educate and mentor our Glass kids with
+      acting and modelling skills. In the office she brings new ideas and
+      positive energy! 
+
+
+      She also lives and breathes the industry as a dancer, actor, model,
+      aerialist and coach. 
+
+
+      There's not much this girl can't do! Watch this space.
 services:
   content: >-
     Glass Management supplies professional talent for Feature Films, TV
