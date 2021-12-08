@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Chris B
+title: T Chris B
 featuredImage: >-
   https://ucarecdn.com/a654a4b0-c060-4b2a-8e67-9665953eac4b/-/crop/1977x1101/0,0/-/preview/
 imageThumbnail: >-
