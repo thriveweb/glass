@@ -63,7 +63,7 @@ teamMembers:
     title: Emily West
   - image: >-
       https://ucarecdn.com/6f481208-b3ce-4f29-bfa6-91711df76bfc/-/crop/1413x1632/308,0/-/preview/
-    leftAlign: false
+    leftAlign: true
     subTitle: ''
   - leftAlign: false
     title: Maya
@@ -86,7 +86,7 @@ teamMembers:
 
 
       There's not much this girl can't do! Watch this space.
-  - leftAlign: false
+  - leftAlign: true
     image: 'https://ucarecdn.com/62e591e3-2c7f-4c15-af47-2e511998a296/'
     title: ''
   - leftAlign: false
@@ -137,75 +137,38 @@ services:
     Promotional Events.
   serviceItems:
     - content: |-
-        Glass has professional talent of all ages.
+        Glass has professional talent of all ages, sizes and diversity.
 
-        With talent in Brisbane, Gold Coast, Sydney and Melbourne.
+        With talent in Brisbane, Gold Coast and Byron Bay.
 
-        We have that special someone for any campaign.
+        We have someone for everyone!!
       image: 'https://glassmanagement.imgix.net/images/uploads/alisha-2.jpg'
       title: ' Models'
-    - content: |-
-        Talent for Feature Films and TV Commercials.
+    - content: >-
+        We have an array of actors in all ages. 
 
-        We have an extensive list of preferred acting schools who we recommend.
 
-        <https://www.warehousestudio.com.au/>
+        Glass actors are being recognised for their roles in major feature
+        films, Netflix series and Australian dramas .
+
+
+        It really is Hollywood on the Gold Coast!!
       image: >-
         https://glassmanagement.imgix.net/images/uploads/avel-chuklanov-509630-unsplash.png
-      title: Actor/Extras
+      title: Actors
     - content: >-
-        Make your next event stand out in the crowd with our intelligent, well
-        spoken, charismatic Brand Ambassadors.
-
-
-        Also Team Glass offer expertise in full Event Management, from theming,
-        run sheets, MC's, entertainment, catering etc. From your vision right
-        through to completion.
-      image: 'https://glassmanagement.imgix.net/images/uploads/bts2.jpg'
-      title: Event Management and Brand Ambassadors
+        Glass extras work daily on exciting film sets, maintaining our high
+        level of professionalism we are known for!
+      image: 'https://ucarecdn.com/b6a70455-9ea7-43b6-89f4-ef1d4fb8c678/'
+      title: Extras
     - content: >-
-        Studio and location shoots can be booked by emailing the office
-        talent@glassmanagement.com.au
+        Glass studios is an all purpose photography studio, perfect for
+        lifestyle, head shots, commercials and ecommerce shoots!!
 
 
-        We have an extensive list of preferred photographers who we recommend.
-
-
-        Specialising in portfolio shoots, head shots and Instagram photos.
-
-
-        Instagram's:
-
-
-        <https://www.instagram.com/imbecg/>
-
-
-        <https://www.instagram.com/evocativelight/>
-
-
-        <https://www.instagram.com/ricki_vale_photography/>
-
-
-        <https://www.instagram.com/mandymartin_photography/>
-
-
-        <https://www.instagram.com/elsadillonphotographer/>
-      image: 'https://glassmanagement.imgix.net/images/uploads/amn_1580.jpg'
-      title: Photography
-    - content: >-
-        We use various local Videographers who are avid film lovers who want to
-        create cinematic videos accessible to anyone and everyone! With a
-        special focus on visual and storytelling aspects, they strive to ensure
-        quick and affordable turnarounds.
-
-
-        Book in for your show reel or self tape today.
-
-
-        Email the office on: talent@glassmanagement.com.au
-      image: >-
-        https://glassmanagement.imgix.net/images/uploads/sharegrid-554231-unsplash.png
-      title: Videographer
+        Book Now:<https://glassstudios.com.au/>
+      image: 'https://ucarecdn.com/6009186a-7cc8-45ab-be14-91ce8f9a60ad/'
+      title: Studio Hire
   subTitle: Modeling and Talent Agency
   title: Services Provided
 ---
