@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: T Barry
+title: Barry
 featuredImage: >-
   https://ucarecdn.com/69a0be76-efcf-4f1f-a136-fb3541d37d2c/-/crop/2309x1354/0,47/-/preview/
 imageThumbnail: >-
