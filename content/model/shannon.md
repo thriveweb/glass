@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Shannon
+title: Ang Shanon
 featuredImage: >-
   https://glassmanagement.imgix.net/images/uploads/shannon672348129header_32473.jpg
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/shannon36472839.jpg'
-firstName: Shannon
+firstName: Shanon
 collection: Classic
 height: 184cm
 measurementType: chest
