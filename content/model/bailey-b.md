@@ -2,7 +2,7 @@
 template: ModelPage
 title: Bailey B
 featuredImage: >-
-  https://ucarecdn.com/09549bf1-560b-4735-8b91-8f26ad640fd6/-/crop/1632x863/0,773/-/preview/
+  https://ucarecdn.com/a304a361-6f6a-424f-9056-c55578327da2/-/crop/1400x606/0,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/09323152-7867-471a-8a0b-a70b02ac855f/'
 featuredVideoMobile: 'https://ucarecdn.com/220ebfd9-8bcb-4863-9070-35406cc92751/'
 imageThumbnail: >-
@@ -21,6 +21,7 @@ eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/da640882-4cf5-4760-a63b-1736078989e5/'
   - image: 'https://ucarecdn.com/52055578-bf9b-4fb1-b2c4-0cf6fd8766cb/'
+  - image: 'https://ucarecdn.com/78161e70-81b9-4226-8886-0aa089ccc483/'
   - image: 'https://ucarecdn.com/b22c3076-e792-43aa-a1ae-cfa552a80981/'
   - image: 'https://ucarecdn.com/825c0e34-b96d-430a-beae-c2a9b6089756/'
   - image: 'https://ucarecdn.com/2665dd4d-ef72-4159-b889-805a13ce88bc/'
