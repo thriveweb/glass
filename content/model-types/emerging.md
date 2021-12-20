@@ -1,7 +1,7 @@
 ---
 template: ModelsPage
 title: Emerging
-featuredImage: 'https://ucarecdn.com/ba914cb3-247c-4a1b-9dd1-815d4c1f8705/'
+featuredImage: 'https://ucarecdn.com/a68b1a14-e66a-4fdd-a057-1badb62f6d37/'
 order: 6
 ---
 
