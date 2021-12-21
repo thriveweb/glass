@@ -4,7 +4,7 @@ title: Angela O
 featuredImage: >-
   https://ucarecdn.com/42e57b0a-9b57-4a15-b215-85d06f429e2b/-/crop/2449x1063/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/447324a9-9d9f-4c08-b0dd-5a63e0ebc57a/-/crop/211x213/339,23/-/preview/
+  https://ucarecdn.com/74c1799f-01af-4edd-9e7f-ab038a697d73/-/crop/310x351/307,0/-/preview/
 firstName: Angela O
 collection: Classic
 height: 170cm
