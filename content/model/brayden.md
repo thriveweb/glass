@@ -16,8 +16,10 @@ hair: Light Brown
 eyes: Blue
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-16.jpg'
+  - image: 'https://ucarecdn.com/b5944c0f-91f3-4782-a68c-ad96a7240f13/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-10.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-12.jpg'
+  - image: 'https://ucarecdn.com/9945a624-8a42-408c-94d1-d61aadd794db/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-14.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-15.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-5.jpg'
