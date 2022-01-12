@@ -9,9 +9,9 @@ firstName: Amanda G
 collection: Classic
 height: 171cm
 measurementType: bust
-bust: 92cm
-waist: 75cm
-hips: 106cm
+bust: 93cm
+waist: 77cm
+hips: 92.5cm
 size: '12'
 shoeSize: 9-10
 hair: Light Brown
