@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/3a4b76f5-a0ed-4cee-8c63-8827f5c2403c/-/crop/1164x1338/193,0/-/preview/
 firstName: Ash
 collection: Boys
-height: 142cm
+height: 149cm
 measurementType: chest
-bust: 66cm
-waist: 61cm
+bust: 68cm
+waist: 60cm
 hips: 73cm
 size: Kids 10
-shoeSize: Mens 7
+shoeSize: '9'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
