@@ -6,11 +6,11 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/35774373-ae44-4c15-afef-2c2f54e82dbb/'
 firstName: Gabrielle
 collection: Classic
-height: '167'
+height: 167cm
 measurementType: bust
-bust: '93'
-waist: '76'
-hips: '101'
+bust: 93cm
+waist: 76cm
+hips: 101cm
 size: '12'
 shoeSize: '7'
 hair: 'Blonde '
