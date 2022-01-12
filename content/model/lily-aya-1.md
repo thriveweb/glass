@@ -13,12 +13,13 @@ bust: 63cm
 waist: 60.5cm
 hips: 69cm
 size: '7'
-shoeSize: 2-3
+shoeSize: '3'
 hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/c2ce9911-cc59-4d46-86a3-413d49631b21/'
   - image: 'https://ucarecdn.com/b02c7fdc-2a09-42c0-93b3-fae791452a19/'
+  - image: 'https://ucarecdn.com/1ec4de5c-88c3-467b-87d4-624fcfd2e512/'
   - image: 'https://ucarecdn.com/6175db3f-f393-4713-9017-9b218c335a96/'
   - image: >-
       https://ucarecdn.com/0d827d4f-b87f-4963-ae54-0f36e18ea98a/-/crop/480x375/960,0/-/preview/
@@ -37,6 +38,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/d39af79d-d2c1-42b2-800b-51ed3603485f/'
   - image: 'https://ucarecdn.com/f6d8b264-e679-40e3-8674-d18050674d18/'
   - image: 'https://ucarecdn.com/c6405b88-7969-4112-b11a-56c9437cbf53/'
+  - image: 'https://ucarecdn.com/3a3db345-2a62-41ee-aa56-8a963f577893/'
   - image: 'https://ucarecdn.com/d5d740ad-cf4e-4e35-a439-f57559c91cf9/'
   - image: 'https://ucarecdn.com/4bcd2301-8c03-4106-83e7-cd02326c629f/'
   - image: 'https://ucarecdn.com/c646332c-73d8-45d6-85ce-fe01a253b553/'
