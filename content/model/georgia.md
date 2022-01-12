@@ -9,9 +9,9 @@ firstName: Georgia
 collection: Emerging
 height: 180cm
 measurementType: bust
-bust: 95cm
-waist: 75cm
-hips: 100cm
+bust: 96cm
+waist: 73cm
+hips: 83cm
 size: Ladies 10
 shoeSize: Ladies 12
 hair: Dark Brown
