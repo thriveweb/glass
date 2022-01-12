@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: 'Sophie '
-featuredImage: 'https://ucarecdn.com/0efd02fc-2b1e-466b-9bb1-cb32d98b6eac/'
+featuredImage: >-
+  https://ucarecdn.com/0efd02fc-2b1e-466b-9bb1-cb32d98b6eac/-/crop/2449x1046/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/6de68a24-781d-4f63-a9da-558b58eee0b1/'
 firstName: 'Sophie '
 collection: Girls
