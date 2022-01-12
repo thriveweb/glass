@@ -13,7 +13,7 @@ bust: 60cm
 waist: 54cm
 hips: 62cm
 size: '10'
-shoeSize: 30 Eur
+shoeSize: 4 US
 hair: Brown
 eyes: Brown
 imagePortfolio:
