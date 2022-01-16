@@ -2,7 +2,8 @@
 template: ModelPage
 title: Vivi
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/vivi11.jpg'
-imageThumbnail: 'https://ucarecdn.com/da9d152b-cd88-4a5f-9fd9-28f96e8a3039/'
+imageThumbnail: >-
+  https://ucarecdn.com/70e538ff-86b3-4b33-b918-3e468a8e31f0/-/crop/401x474/0,79/-/preview/
 firstName: Vivi
 collection: Girls
 height: 120cm
