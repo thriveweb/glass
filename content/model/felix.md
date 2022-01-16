@@ -3,7 +3,8 @@ template: ModelPage
 title: Felix
 featuredImage: >-
   https://ucarecdn.com/f4aa06d2-93a4-47ed-a87d-d17cb5fe2aeb/-/crop/500x346/0,124/-/preview/
-imageThumbnail: 'https://ucarecdn.com/53d3a4bf-c634-4c02-9530-eb731848c478/'
+imageThumbnail: >-
+  https://ucarecdn.com/0bff7e7f-861f-4d82-a624-53a081f24a4f/-/crop/404x479/0,48/-/preview/
 firstName: Felix
 collection: Boys
 height: 135cm
