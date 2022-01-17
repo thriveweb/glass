@@ -4,7 +4,7 @@ title: Jaxon
 featuredImage: >-
   https://ucarecdn.com/13a19103-0893-403d-b092-40df43efee8e/-/crop/2377x1119/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/32bc3e7d-3c85-4044-b0d5-583c5c8df031/-/crop/540x704/620,126/-/preview/
+  https://ucarecdn.com/e123af5f-ad07-402d-b8f4-4c60b7e7bbdb/-/crop/337x398/387,342/-/preview/
 firstName: Jaxon
 collection: Boys
 height: 143cm
