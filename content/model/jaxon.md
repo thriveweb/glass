@@ -9,6 +9,9 @@ firstName: Jaxon
 collection: Boys
 height: 143cm
 measurementType: chest
+bust: 67cm
+waist: 61cm
+hips: 68cm
 size: '10'
 hair: Dark Blonde
 eyes: Blue
