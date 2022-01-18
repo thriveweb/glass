@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Julian H
-featuredImage: 'https://ucarecdn.com/164bb75e-2f73-48be-aed0-b2f00e3fcb71/'
+featuredImage: >-
+  https://ucarecdn.com/164bb75e-2f73-48be-aed0-b2f00e3fcb71/-/crop/1632x972/0,255/-/preview/
 imageThumbnail: 'https://ucarecdn.com/4548247f-fbfd-4fe3-809c-ef11c81aa075/'
 firstName: 'Julian '
 collection: Global
@@ -15,7 +16,6 @@ hair: 'Black '
 eyes: 'Brown '
 imagePortfolio:
   - image: 'https://ucarecdn.com/6c15e534-231b-4b0e-9f38-007f6c4e2963/'
-  - {}
   - image: 'https://ucarecdn.com/750e6315-b044-41f4-ac15-d4aeb01799aa/'
   - image: 'https://ucarecdn.com/ed990b18-ae34-4107-b94b-a51dd92af819/'
   - image: 'https://ucarecdn.com/0dafc0db-4cdf-43f3-8e60-23f3cf0308d6/'
