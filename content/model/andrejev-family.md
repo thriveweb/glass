@@ -3,8 +3,7 @@ template: ModelPage
 title: Andrejev Family
 featuredImage: >-
   https://ucarecdn.com/75e841ab-cca4-4aaa-82ec-7bb97bd0b154/-/crop/1632x1346/0,450/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/c41aaa21-2f03-4d59-90b8-c146af44db9c/-/crop/1494x1693/137,123/-/preview/
+imageThumbnail: 'https://ucarecdn.com/c41aaa21-2f03-4d59-90b8-c146af44db9c/-/preview/'
 firstName: Andrejev Family
 collection: Family
 imagePortfolio:
