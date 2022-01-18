@@ -2,7 +2,7 @@
 template: ModelPage
 title: Lyon Family
 featuredImage: >-
-  https://ucarecdn.com/45dfbecf-7ae6-4f98-9f4a-bdbdf6efdeaf/-/crop/2301x1522/0,0/-/preview/
+  https://ucarecdn.com/ca2cfb70-5bfc-4124-9d4d-f107e2557293/-/crop/1887x985/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/c81c1fb4-bb37-4755-aef7-1132339496ac/-/crop/1340x1857/207,0/-/preview/
 firstName: Lyon Family
