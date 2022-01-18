@@ -4,7 +4,7 @@ title: Sofia O
 featuredImage: >-
   https://ucarecdn.com/cd096b5f-cb54-4204-b287-52785fcc61d0/-/crop/2048x677/0,222/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/a578dca0-ffd5-494b-889b-16ffee7671bb/-/crop/689x1082/424,273/-/preview/
+  https://ucarecdn.com/fd3c6e14-9a5e-47f7-89da-e490ea75f98a/-/crop/1090x1552/384,92/-/preview/
 firstName: Sofia O
 collection: Girls
 height: 131cm
