@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'Rueben '
+title: 'Reuben '
 featuredImage: 'https://ucarecdn.com/93c28c1b-38ad-4a63-aed3-76e8e24f2dbe/'
 imageThumbnail: 'https://ucarecdn.com/21439371-d27a-4bc5-a59c-5e6a42d0a518/'
 firstName: 'Rueben '
