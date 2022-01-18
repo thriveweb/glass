@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Parkes
+title: Parkes Family
 featuredImage: >-
   https://ucarecdn.com/bb71c413-2aba-4082-8216-992df189d61a/-/crop/2793x1284/0,284/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/8e5ddb43-7242-4a55-87e1-07cb7c5faa95/-/crop/761x782/20,15/-/preview/
-firstName: Parkes
+firstName: Parkes Family
 collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/55075f32-83c4-47cf-bde4-9118afa9810f/'
