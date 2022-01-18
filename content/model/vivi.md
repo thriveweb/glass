@@ -8,9 +8,9 @@ firstName: Vivi
 collection: Girls
 height: 120cm
 measurementType: bust
-bust: 53cm
-waist: 54cm
-hips: 57cm
+bust: 54cm
+waist: 51cm
+hips: 56cm
 size: '6'
 shoeSize: '12'
 hair: Light Brown
