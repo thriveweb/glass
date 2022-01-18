@@ -1,0 +1,17 @@
+---
+template: ModelPage
+title: Maiko Family
+featuredImage: >-
+  https://ucarecdn.com/2717ba6e-24ae-442f-a851-273d2cc6c46c/-/crop/8040x3489/0,1161/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/aedec80e-0abc-42a6-9699-d954060add3e/-/crop/5083x4812/1651,34/-/preview/
+firstName: Maiko Family
+collection: Family
+imagePortfolio:
+  - image: 'https://ucarecdn.com/fafecf7b-2cfb-4f4f-8349-03ec4eb8bcf3/'
+  - image: 'https://ucarecdn.com/d3c8e021-4aff-44fa-87bc-61bfea77c313/'
+  - image: 'https://ucarecdn.com/366fccbe-adff-4e99-b96d-ba86cda78ea2/'
+  - image: 'https://ucarecdn.com/cb052564-0cba-496a-a53a-e2b5c80a015d/'
+  - image: 'https://ucarecdn.com/fdd6213d-1be8-41fd-98cd-8cacd5a9edd3/'
+---
+
