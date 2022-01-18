@@ -9,13 +9,13 @@ imageThumbnail: >-
   https://ucarecdn.com/8905d5c7-dc27-4654-b373-c9d7f59ed79a/-/crop/1027x1089/979,319/-/preview/
 firstName: Saffron
 collection: Girls
-height: 114cm
+height: 119cm
 measurementType: bust
-bust: 53cm
-waist: 52cm
-hips: 59cm
+bust: 59cm
+waist: 56cm
+hips: 61cm
 size: 6-7 girls
-shoeSize: 12 girls
+shoeSize: 13 girls
 hair: RED
 eyes: Blue
 imagePortfolio:
