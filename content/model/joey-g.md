@@ -52,6 +52,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/ee40fa04-d4a0-4e1e-969e-23bc71611e94/'
   - image: 'https://ucarecdn.com/a9bfbe04-96fa-4c49-86c6-1d904d7bb3cc/'
   - image: 'https://ucarecdn.com/1f49e41b-37d4-4724-896c-b3d8ad0890b1/'
+  - image: 'https://ucarecdn.com/a52aea45-5ed4-4096-adcb-c7db3e37f775/'
 meta:
   title: Joey G
 ---
