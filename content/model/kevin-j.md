@@ -17,6 +17,7 @@ shoeSize: 43/44
 hair: 'Dark/Blonde '
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/cb427a9e-f556-4c32-a424-9ad64b5d52ca/'
   - image: 'https://ucarecdn.com/329e4988-0cfc-4328-b664-1ab2541ee709/'
   - image: 'https://ucarecdn.com/033f9fde-d6ca-454d-978f-fce1bec37390/'
   - image: 'https://ucarecdn.com/a23c3f04-92ba-4b45-a6c0-6e53999974cc/'
