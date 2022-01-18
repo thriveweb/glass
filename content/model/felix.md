@@ -7,7 +7,8 @@ imageThumbnail: >-
   https://ucarecdn.com/0bff7e7f-861f-4d82-a624-53a081f24a4f/-/crop/404x479/0,48/-/preview/
 firstName: Felix
 collection: Boys
-height: 135cm
+height: 136cm
+measurementType: chest
 bust: 60cm
 waist: 55cm
 hips: 60cm
