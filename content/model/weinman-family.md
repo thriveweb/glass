@@ -4,7 +4,7 @@ title: Weinman Family
 featuredImage: >-
   https://ucarecdn.com/9b20d0d5-f42d-466a-91c2-f49242744a82/-/crop/2371x1002/73,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/51c1f14b-3845-4b96-acfd-e4b0c532b05c/-/crop/1274x1297/638,4/-/preview/
+  https://ucarecdn.com/51c1f14b-3845-4b96-acfd-e4b0c532b05c/-/crop/1472x1412/522,4/-/preview/
 firstName: Weinman Family
 collection: Family
 imagePortfolio:
