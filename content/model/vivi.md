@@ -30,5 +30,7 @@ imagePortfolio:
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/katiehooper-53_preview.jpg
   - image: 'https://glassmanagement.imgix.net/images/uploads/vivi2.jpg'
+  - image: 'https://ucarecdn.com/ac7cda4b-4ae4-4dae-b9be-e23c0efdbce2/'
+  - image: 'https://ucarecdn.com/ee244b06-7dbb-476b-b56c-42e464f38590/'
 ---
 
