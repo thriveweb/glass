@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Vivi
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/vivi11.jpg'
+featuredImage: 'https://ucarecdn.com/4d0aa7a2-8eff-46a5-b5ba-ac9fbe96897f/'
 imageThumbnail: >-
   https://ucarecdn.com/70e538ff-86b3-4b33-b918-3e468a8e31f0/-/crop/401x474/0,79/-/preview/
 firstName: Vivi
