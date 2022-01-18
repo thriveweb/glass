@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'Julian '
+title: Julian H
 featuredImage: 'https://ucarecdn.com/164bb75e-2f73-48be-aed0-b2f00e3fcb71/'
 imageThumbnail: 'https://ucarecdn.com/4548247f-fbfd-4fe3-809c-ef11c81aa075/'
 firstName: 'Julian '
