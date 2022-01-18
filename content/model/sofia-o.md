@@ -7,16 +7,17 @@ imageThumbnail: >-
   https://ucarecdn.com/a578dca0-ffd5-494b-889b-16ffee7671bb/-/crop/689x1082/424,273/-/preview/
 firstName: Sofia O
 collection: Girls
-height: 125cm
+height: 131cm
 measurementType: bust
-bust: 66cm
-waist: 63cm
-hips: 68cm
-size: 7/8
-shoeSize: '1'
+bust: 73 cm
+waist: 70cm
+hips: 74cm
+size: '10 '
+shoeSize: 1-2
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/42d492e1-4c5e-450d-b053-87d846758416/'
   - image: >-
       https://ucarecdn.com/2f1f630d-8206-4004-a456-c032596ca7f4/-/crop/1619x2237/0,211/-/preview/
   - image: 'https://ucarecdn.com/b49ad324-5912-465c-8a5d-f73dbab136ca/'
