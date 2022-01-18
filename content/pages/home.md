@@ -32,8 +32,9 @@ gallery:
       title: Boys
     - image: 'https://ucarecdn.com/d026e750-94da-47a1-ac1f-2500bb5cc074/'
       title: Emerging
-    - image: 'https://ucarecdn.com/f04527fd-203a-4f93-888b-dfef7f7567a2/'
-      title: Performer
+    - image: >-
+        https://ucarecdn.com/90f4f270-1e6c-473a-9399-81391227bbda/-/crop/2018x1159/0,45/-/preview/
+      title: Family
   subTitle: Our Talent
   title: Explore Our Talent
 about:
