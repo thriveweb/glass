@@ -4,7 +4,7 @@ title: Zapart Family
 featuredImage: >-
   https://ucarecdn.com/df27b07a-bc77-4855-8dfe-a0839fc3419a/-/crop/7981x4015/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b74de9ff-40dc-4f87-9846-24e59c29f20a/-/crop/1159x982/373,1/-/preview/
+  https://ucarecdn.com/f17e9407-df88-4025-88c3-c74b478b5ad4/-/crop/362x392/358,98/-/preview/
 firstName: Zapart Family
 collection: Family
 imagePortfolio:
