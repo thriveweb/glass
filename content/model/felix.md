@@ -17,6 +17,7 @@ shoeSize: '2'
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/bbfcbf03-409b-4c8e-8437-d83c78c59397/'
   - image: 'https://ucarecdn.com/244a5f44-7af6-43c8-bb2b-87d607b38597/'
   - image: 'https://ucarecdn.com/9b84b178-2299-48b1-a57d-92d05cde3e49/'
   - image: 'https://ucarecdn.com/564b43b7-6799-4437-9d44-1f8ff213fae1/'
