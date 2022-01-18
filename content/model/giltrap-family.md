@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Giltrap Family
+title: A Giltrap Family
 featuredImage: >-
   https://ucarecdn.com/2545f3ac-f97b-4446-b55f-3f1cb4a12fe9/-/crop/822x459/0,59/-/preview/
 imageThumbnail: >-
