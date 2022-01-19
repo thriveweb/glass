@@ -3,8 +3,7 @@ template: ModelPage
 title: Lyla Star
 featuredImage: >-
   https://ucarecdn.com/36f983ef-0c6c-4885-8a41-c29cf1d7d339/-/crop/530x275/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/f38f95b4-b142-4ee2-8d79-d24311aa1313/-/crop/126x164/80,24/-/preview/
+imageThumbnail: 'https://ucarecdn.com/bbd77c81-20b6-42f5-a303-35acd42944c0/'
 firstName: Lyla Star
 collection: Girls
 height: 89cm
