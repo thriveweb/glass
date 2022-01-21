@@ -2,7 +2,7 @@
 template: ModelPage
 title: Adam W
 featuredImage: >-
-  https://ucarecdn.com/2f89fe34-95bb-4020-a49a-a2210926085d/-/crop/785x599/0,0/-/preview/
+  https://ucarecdn.com/d54cd693-2247-4c43-a00f-4362271dc2ea/-/crop/1000x504/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/80ae429c-29cb-4ed6-a391-2daff16f3a2a/'
 firstName: Adam W
 collection: Men
@@ -16,10 +16,12 @@ hair: 'Brown '
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/d6dd1fe5-39af-4539-9775-fef73c90c2a3/'
+  - image: 'https://ucarecdn.com/67708cb2-a4b8-460f-9361-fa502ed9ac1a/'
   - image: 'https://ucarecdn.com/c6dbe082-a2ef-4ff9-b5ad-2c04914944c9/'
   - image: 'https://ucarecdn.com/26bfb0dc-d027-47f1-89f6-789ef941df48/'
   - image: 'https://ucarecdn.com/7432e77e-0b20-4ffd-877f-188a45461cb2/'
   - image: 'https://ucarecdn.com/1b074631-222b-4150-8fb5-5d4817b05390/'
+  - image: 'https://ucarecdn.com/e524f142-33af-482d-ac69-9c4a6bc13057/'
   - image: 'https://ucarecdn.com/ef16fb38-9e2e-4fd0-8aa0-a1f5b481ee4b/'
   - image: 'https://ucarecdn.com/eba1e09e-0675-4896-8ee2-7ff300eb30cc/'
 ---
