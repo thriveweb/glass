@@ -40,13 +40,16 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/15fd86da-6bb8-4f44-8d84-bfdca6380915/'
   - image: 'https://ucarecdn.com/be748073-3934-4158-8771-c2cefc020ea4/'
   - image: 'https://ucarecdn.com/fe91b512-ff6e-4cb4-b2b5-1f641c1cbc60/'
+  - image: 'https://ucarecdn.com/96573bd9-8ff9-4191-a86f-f4e827e6ce19/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/maya-6.jpg'
   - image: 'https://ucarecdn.com/67969cb4-0df4-4262-b871-87de2b0faa6b/'
   - image: 'https://ucarecdn.com/71f83d2d-a2c1-450c-96dd-8b5b2ae9ec72/'
   - image: 'https://ucarecdn.com/0e2ab7d5-0d7a-4e5f-8094-90cae3547f92/'
+  - image: 'https://ucarecdn.com/965812df-c70f-48cd-9646-f1f90aa39ec6/'
   - image: 'https://ucarecdn.com/4b6a4ba2-212d-4467-bfe1-0d91153ca30d/'
   - image: 'https://ucarecdn.com/d30cec15-48a8-458e-890b-4a6e9f9d5430/'
   - image: 'https://ucarecdn.com/e7bd47ff-5ff3-46c2-8d54-ed652bbbb803/'
+  - image: 'https://ucarecdn.com/6218b005-3849-48e3-ae60-4680d2c6f793/'
 meta:
   title: 'Maya '
 ---
