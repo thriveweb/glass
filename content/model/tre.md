@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/468c3408-c44f-4541-84bb-121661ebea2e/'
 imageThumbnail: 'https://ucarecdn.com/27ccbfae-9143-4e8b-8d2f-41f7cbfefe1b/'
 firstName: Tré
 collection: Boys
-height: 144cm
+height: 154cm
 measurementType: chest
 bust: 73cm
 waist: 68cm
