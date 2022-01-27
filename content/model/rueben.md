@@ -10,8 +10,8 @@ measurementType: chest
 bust: 49cm
 waist: '49cm '
 hips: '48cm '
-size: 5 US
-shoeSize: '2'
+size: '2'
+shoeSize: 'US 5 '
 hair: Blonde
 eyes: 'Blue '
 imagePortfolio:
