@@ -10,7 +10,7 @@ measurementType: chest
 bust: 92cm
 waist: 74cm
 hips: 103cm
-size: Mens M
+size: Shirt L- Pant 32-34
 shoeSize: '10'
 hair: Black
 eyes: Brown
