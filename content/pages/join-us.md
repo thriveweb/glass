@@ -13,20 +13,17 @@ intro:
     Age is but a number so here at Glass we are after talent from any decade.
 
 
-    Please be aware that our office is closed from the 23rd December to the 14th
-    January 2022. We will not be answering talent requests until after that
-    date.
+    Please be aware that ONLY successful applicants will be contacted due to the
+    high volume of emails we receive.
 
 
     You MUST be reliable, have your own transport and be available at short
     notice on weekdays.
 
 
-    You must be QLD or Northern Rivers based only.
-
-
-    Look forward to hearing from you. Have a safe and festive Xmas to you and
-    your families.
+    Please don't forget to let us know your location. We are now taking talent
+    from the Gold Coast, Northern New South Wales, Brisbane, Sydney and
+    Melbourne.
   title: Expectations & Requirements
 ---
 
