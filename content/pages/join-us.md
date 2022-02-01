@@ -22,8 +22,7 @@ intro:
 
 
     Please don't forget to let us know your location. We are now taking talent
-    from the Gold Coast, Northern New South Wales, Brisbane, Sydney and
-    Melbourne.
+    from the Gold Coast, Northern New South Wales, Brisbane  and Melbourne.
   title: Expectations & Requirements
 ---
 
