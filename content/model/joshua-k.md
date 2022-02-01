@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/f764c236-8321-4a9e-b157-321032d5da60/-/crop/377x330/0,53/-/preview/
 firstName: Joshua K
 collection: Boys
-height: 179cm
+height: 191cm
 measurementType: chest
-bust: 84cm
-waist: 80cm
-hips: 85cm
-size: S Mens
-shoeSize: 12 US
+bust: 94cm
+waist: 86cm
+hips: 99cm
+size: 'Shirt: M   Pants: 32'
+shoeSize: US 13
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
