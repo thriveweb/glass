@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/8c1fc891-35ab-410c-8387-7fab8faf2fc2/-/crop/367x492/0,59/-/preview/
 firstName: Bryella
 collection: Girls
-height: 97cm
+height: ' 102cm'
 measurementType: bust
-bust: 53cm
-waist: 49cm
-hips: 50cm
-size: '4'
-shoeSize: '8'
+bust: 55cm
+waist: 53cm
+hips: 53cm
+size: 4-5
+shoeSize: '9'
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
