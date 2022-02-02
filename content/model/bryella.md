@@ -27,6 +27,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/98692bf0-e9ca-44c6-9125-be4c539ced47/'
   - image: 'https://ucarecdn.com/5d63e1f7-7ac6-4f73-87e9-71829c9e0c16/'
   - image: 'https://ucarecdn.com/01d2add7-9266-4b19-99f5-19b675038947/'
+  - image: 'https://ucarecdn.com/d48d735f-d151-4629-bcc1-69420329d1a0/'
   - image: 'https://ucarecdn.com/2aab0db0-df5e-467e-a2f1-32a69d589cad/'
 meta:
   title: Bryella
