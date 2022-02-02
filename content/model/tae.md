@@ -2,7 +2,7 @@
 template: ModelPage
 title: Tae
 featuredImage: >-
-  https://ucarecdn.com/a2aac5c2-7433-431c-a5c1-0e6df8d60851/-/crop/2246x1232/0,0/-/preview/
+  https://ucarecdn.com/0ebf7917-54e7-4358-b295-e7bb1a013ac8/-/crop/578x344/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/c859e7cc-1377-4d69-92a8-0d522aa9973b/-/crop/553x779/724,0/-/preview/
 firstName: Tae
@@ -23,9 +23,11 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/9f4657f8-141c-4e0b-93b4-b6fddf912cb9/'
   - image: 'https://ucarecdn.com/b3487c4f-1a04-4705-897c-ae5d3ec0fc53/'
   - image: 'https://ucarecdn.com/c8218c04-3e2d-4181-bf81-4f916d25b7bc/'
+  - image: 'https://ucarecdn.com/0c87bfa4-436d-45ce-adfd-39959a855d44/'
   - image: 'https://ucarecdn.com/961acdba-c823-4d12-82ae-d509fde8a213/'
   - image: 'https://ucarecdn.com/5588fcdf-cdea-43a0-b110-2ee7e7aa8f49/'
   - image: 'https://ucarecdn.com/673e5edf-c4e6-49d9-a2d0-a8a87eb5a0b5/'
+  - image: 'https://ucarecdn.com/fdfcd1fa-9810-49b3-8e81-a247176c943f/'
   - image: 'https://ucarecdn.com/744ecb2f-7ad9-4527-8252-1e47355bf7d7/'
 ---
 
