@@ -2,19 +2,19 @@
 template: ModelPage
 title: Marian
 featuredImage: >-
-  https://ucarecdn.com/0740768f-aba2-47ae-84d5-ea3778c36064/-/crop/764x474/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/891a0ed3-dda1-4a33-abb4-b28bd68add91/-/crop/381x475/14,0/-/preview/
+  https://ucarecdn.com/fe6ca05d-6a00-496c-8e88-15cdaf2a5f3d/-/crop/2240x1289/0,387/-/preview/
+featuredVideoMobile: ''
+imageThumbnail: 'https://ucarecdn.com/7c77fbf1-c020-4b8b-902c-7fd0e3222242/'
 firstName: Marian
-collection: Global
+collection: Classic
+height: 165cm
 measurementType: bust
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/fd6fc0e2-a6e9-4ee4-a84d-ebd001f10621/'
-  - image: >-
-      https://ucarecdn.com/222a3186-7773-49f0-a10f-b0151a938bea/-/preview/-/rotate/90/
-  - image: 'https://ucarecdn.com/703ede2d-0045-43d1-b3de-338ea1b07c7c/'
-  - image: 'https://ucarecdn.com/b899980e-514e-4ee2-bc26-8a9bdde5868e/'
+  - image: 'https://ucarecdn.com/46dfd465-5912-4da6-a6ed-178f12ee8e6f/'
+  - image: 'https://ucarecdn.com/8e64f678-631d-4d98-9220-428fd93d0483/'
+  - image: 'https://ucarecdn.com/acc4eba1-7c17-449f-8b41-dffd059d80e5/'
+  - image: 'https://ucarecdn.com/498c958e-8ef8-472f-95d9-45f42503693d/'
 ---
 
