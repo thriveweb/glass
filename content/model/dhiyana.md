@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/a14a0295-e735-4835-a4b6-0cd0832fef79/-/crop/1311x1566/569,0/-/preview/
 firstName: Dhiyana
-collection: Girls
+collection: Global
 height: 121cm
 measurementType: bust
 bust: 60cm
