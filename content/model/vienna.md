@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Vienna
+title: L Vienna
 featuredImage: >-
   https://ucarecdn.com/6627264a-aec7-4a45-9ec2-2920ba3a16e3/-/crop/2449x1098/0,0/-/preview/
 imageThumbnail: >-
