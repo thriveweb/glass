@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/53e72f70-9978-4551-aea7-8ef68216969e/'
 imageThumbnail: >-
   https://ucarecdn.com/1af38b22-d02b-4383-b1a1-f9324f9fb35f/-/crop/460x484/627,614/-/preview/
 firstName: Baby Neve
-collection: Girls
+collection: Global
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/8df3e29b-5acc-4900-98c5-ab705de586be/'
