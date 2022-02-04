@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f947950d-e6be-4830-ab6d-f183a3e5f5e4/-/crop/525x687/650,506/-/preview/
 firstName: Ariah J
-collection: Girls
+collection: Global
 height: 95cm
 measurementType: bust
 size: '3'
