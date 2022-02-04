@@ -3,7 +3,8 @@ template: ModelPage
 title: Aaliyah
 featuredImage: >-
   https://ucarecdn.com/b0b0f32d-dda1-4470-b4dd-9529588807a3/-/crop/1788x1943/0,293/-/preview/
-imageThumbnail: 'https://ucarecdn.com/04a1d5d8-8762-46c2-bf29-3d7b734bd32b/'
+imageThumbnail: >-
+  https://ucarecdn.com/4e6fd25b-e568-4b2f-a6bc-0c25d143b34a/-/crop/2142x2170/0,164/-/preview/
 firstName: Aaliyah
 collection: Girls
 height: 107cm
