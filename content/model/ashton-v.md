@@ -4,7 +4,7 @@ title: Ashton V
 featuredImage: 'https://ucarecdn.com/a6333975-681d-4b6f-b5e1-14a22f91eddc/'
 imageThumbnail: 'https://ucarecdn.com/2cb8d329-8738-432e-8974-27e07bdb6190/'
 firstName: Ashton V
-collection: Boys
+collection: Global
 height: 160cm
 measurementType: chest
 bust: 78cm
