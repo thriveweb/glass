@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Remidee
+title: Z Remidee
 featuredImage: 'https://ucarecdn.com/da451756-08e4-4844-9fb1-754687b04192/'
 imageThumbnail: 'https://ucarecdn.com/8fddb11b-d171-478e-af94-a0e09ed11c78/'
 firstName: Remidee
