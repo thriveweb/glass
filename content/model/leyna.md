@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/48c9752b-0e84-47a2-8748-15e6dc647012/-/crop/1632x2028/0,0/-/preview/
 firstName: Leyna
-collection: Girls
+collection: Emerging
 height: 146cm
 measurementType: bust
 bust: 62cm
