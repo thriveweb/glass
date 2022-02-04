@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/fd3c6e14-9a5e-47f7-89da-e490ea75f98a/-/crop/1090x1552/384,92/-/preview/
 firstName: Sofia O
-collection: Girls
+collection: Global
 height: 131cm
 measurementType: bust
 bust: 73 cm
