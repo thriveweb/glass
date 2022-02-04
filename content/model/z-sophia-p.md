@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/e12560d1-d7d7-4959-b89e-74e5ba2977fc/-/crop/884x1202/265,0/-/preview/
 firstName: Sophia P
-collection: Girls
+collection: Global
 size: '1'
 shoeSize: '6'
 hair: Light Brown
