@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Bayli
+title: SV Bayli
 featuredImage: >-
   https://ucarecdn.com/408b2743-abe7-46ff-b2c7-0bdec0736617/-/crop/2449x1265/0,121/-/preview/
 imageThumbnail: 'https://ucarecdn.com/e277638b-b501-42ce-89e6-2f2b39871e55/'
