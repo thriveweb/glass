@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/44ff7feb-7c42-4d4e-905b-3a0da16e8949/'
 imageThumbnail: >-
   https://ucarecdn.com/209460b6-60e7-4d91-a668-af6bbbf372f3/-/crop/1595x2284/37,0/-/preview/
 firstName: Indigo N
-collection: Boys
+collection: Global
 height: 5'3"
 measurementType: chest
 bust: '28'
