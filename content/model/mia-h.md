@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/7e8b1ad5-f32e-4b56-8a1b-cbf9c2d6693e/'
 imageThumbnail: >-
   https://ucarecdn.com/54d50544-fa57-482c-9823-676b50e0d1bd/-/crop/864x851/63,0/-/preview/
 firstName: Mia H
-collection: Girls
+collection: Global
 height: 108cm
 measurementType: bust
 bust: 55cm
