@@ -4,7 +4,7 @@ title: Amaia
 featuredImage: >-
   https://ucarecdn.com/de29296d-e67d-4522-89c5-044150f44af2/-/crop/6720x3371/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/aff38002-29d0-4297-8e9e-e4f13c3384a1/-/crop/2211x3142/0,1429/-/preview/
+  https://ucarecdn.com/1793ad55-d5a7-4095-9945-2266d12aaf77/-/crop/767x933/524,5/-/preview/
 firstName: Amaia
 collection: Girls
 height: 110cm
