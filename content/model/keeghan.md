@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f8318748-e66a-4f67-820f-6f47c2cc8b33/-/crop/1290x1649/167,124/-/preview/
 firstName: Keeghan
-collection: Boys
+collection: Global
 height: 153cm
 measurementType: chest
 bust: 71cm
