@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/47999a4e-7d36-4fa8-90a4-42cf1f15c880/-/crop/445x258/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/d197f459-946a-4b89-9acc-455e92cd23d4/'
 firstName: Penndy
-collection: Boys
+collection: Global
 height: 110cm
 size: '4'
 hair: Black
