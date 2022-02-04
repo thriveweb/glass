@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Alyx
+title: Sv Alyx
 featuredImage: >-
   https://ucarecdn.com/f6a8b428-bd2d-43d9-8a3b-89f526c19c52/-/crop/2449x1427/0,70/-/preview/
 imageThumbnail: 'https://ucarecdn.com/fe8756eb-9d89-4cb9-b083-649c462332e4/'
