@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/817b347e-8e53-4293-8fc8-47d088d7c005/'
 imageThumbnail: >-
   https://ucarecdn.com/d22f6a86-a741-4fa7-ab48-180f3d8ce37c/-/crop/3535x4330/0,0/-/preview/
 firstName: Laura
-collection: Emerging
+collection: Global
 height: 178cm
 measurementType: bust
 bust: 89cm
