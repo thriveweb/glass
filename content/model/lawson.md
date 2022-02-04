@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/799182ec-de80-4948-8469-b02d58d68c48/-/crop/1440x1572/82,350/-/preview/
 firstName: Lawson
-collection: Boys
+collection: Global
 height: 141cm
 measurementType: chest
 bust: 67cm
