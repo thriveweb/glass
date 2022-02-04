@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'Charlotte '
+title: 'V Charlotte '
 featuredImage: 'https://ucarecdn.com/e22a3366-071b-453b-bacc-487f8d46885d/'
 imageThumbnail: 'https://ucarecdn.com/830d4822-53bc-4b4d-a8ac-44a95b46bcdf/'
 firstName: 'Charlotte '
