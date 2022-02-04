@@ -4,7 +4,7 @@ title: Kayode
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/kayode31263782441111111.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/kayode87989432.jpg'
 firstName: Kayode
-collection: Boys
+collection: Global
 height: 140cm
 measurementType: chest
 size: '12'
