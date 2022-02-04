@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/6331b634-488a-446d-af91-417fa65afd48/-/crop/1280x580/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/2d50b2b2-d3f1-43c7-95fd-640ead4f2f6a/'
 firstName: Eva B
-collection: Girls
+collection: Emerging
 height: 160cm
 measurementType: bust
 bust: 80cm
