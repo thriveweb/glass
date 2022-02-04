@@ -3,7 +3,7 @@ template: ModelPage
 title: Chi-Chi
 featuredImage: 'https://ucarecdn.com/16c86b3c-d45c-434b-9c63-14bd74a7a0a0/'
 imageThumbnail: >-
-  https://ucarecdn.com/402a6a0f-2323-4322-a1b1-49cc2a904f2e/-/crop/1368x1965/167,341/-/preview/
+  https://ucarecdn.com/a35a1eeb-5eee-4759-8ec0-1ed3b848729e/-/crop/1583x1807/65,0/-/preview/
 firstName: Chi-Chi
 collection: Girls
 height: 87cm
