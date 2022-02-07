@@ -19,6 +19,7 @@ eyes: Black
 imagePortfolio:
   - image: 'https://ucarecdn.com/8fbaf141-6f09-4a41-afb6-88107db64c16/'
   - image: 'https://ucarecdn.com/3e1114e6-9220-4a42-83fc-5cac0005da9f/'
+  - image: 'https://ucarecdn.com/6386bfb8-9af2-4d78-af02-b98927566710/'
   - image: 'https://ucarecdn.com/64fc834e-8841-4bfe-ad75-c9d9232acdad/'
   - image: 'https://ucarecdn.com/dc647028-4b1d-4627-98a8-e42de1baf7d5/'
   - image: 'https://ucarecdn.com/437a8040-554c-4d45-9ac5-8caf4bcc2897/'
