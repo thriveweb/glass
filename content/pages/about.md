@@ -67,7 +67,8 @@ teamMembers:
     subTitle: ''
   - leftAlign: false
     title: Maya
-    image: 'https://ucarecdn.com/bb620c38-9c45-4498-aad0-4d4c611e4bba/'
+    image: >-
+      https://ucarecdn.com/43f1b418-7cc2-4687-a05b-6145514728bc/-/crop/966x1303/230,135/-/preview/
     subTitle: Model Mentor and Coach
     content: >-
       Meet Maya
