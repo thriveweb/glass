@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Connor N
+title: A Connor N
 featuredImage: 'https://ucarecdn.com/866c37d7-6f72-4518-828f-f506914d194d/'
 imageThumbnail: 'https://ucarecdn.com/99255d35-e06b-42a3-b4d1-0f61a50231ad/'
 firstName: Connor N
