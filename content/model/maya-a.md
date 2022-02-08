@@ -1,9 +1,9 @@
 ---
 template: ModelPage
 title: 'Maya '
-featuredImage: 'https://ucarecdn.com/475cfbe8-3121-4644-960b-ad0d973ff87a/'
-featuredVideo: 'https://ucarecdn.com/a5d41a85-c4fd-4d0f-9858-f441472e3805/'
-featuredVideoMobile: 'https://ucarecdn.com/ae9796c4-c827-46c1-bbe0-7b7c40434ca5/'
+featuredImage: 'https://ucarecdn.com/3b368992-d34a-48dd-832f-ee5e5c4e7879/'
+featuredVideo: ''
+featuredVideoMobile: ''
 imageThumbnail: >-
   https://ucarecdn.com/2b9020d4-ac2e-425c-bc90-a1b7960d85f4/-/crop/931x1289/208,257/-/preview/
 firstName: Maya A
