@@ -3,8 +3,7 @@ template: ModelPage
 title: Harper
 featuredImage: >-
   https://ucarecdn.com/a1acc850-621d-47e0-9348-afee6bed0372/-/crop/444x309/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/8e7516a5-6438-45d7-9056-bafbd7725e2a/-/crop/1189x1818/186,62/-/preview/
+imageThumbnail: 'https://ucarecdn.com/96156d2f-6b1f-4cfe-9a74-27195ea75e15/'
 firstName: Harper
 collection: Girls
 height: 106cm
@@ -17,21 +16,21 @@ shoeSize: US 2
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/db61ec33-aebe-4587-846a-b1ddfaa24cc6/'
+  - image: 'https://ucarecdn.com/23475f15-25c0-4f29-825b-354eb11d4ad5/'
   - image: 'https://ucarecdn.com/61deb67e-9d80-4766-b2ec-348435c23b2c/'
-  - image: 'https://ucarecdn.com/f6b56eb5-cc6d-4c76-a028-16f1876febb7/'
+  - image: 'https://ucarecdn.com/21057742-f0d1-4ffe-ba9d-9740f8c12271/'
   - image: 'https://ucarecdn.com/22e11dfc-516d-4b48-84a4-0c362b329a87/'
-  - image: 'https://ucarecdn.com/0d1e00fb-7ae1-4321-a0b2-69fe42de14c5/'
+  - image: 'https://ucarecdn.com/db61ec33-aebe-4587-846a-b1ddfaa24cc6/'
+  - image: 'https://ucarecdn.com/cf33b89d-0297-4e22-9ab3-dd7adf07425b/'
+  - image: 'https://ucarecdn.com/f6b56eb5-cc6d-4c76-a028-16f1876febb7/'
+  - image: 'https://ucarecdn.com/436bfb0a-c519-44f7-bfaf-117e8466e120/'
   - image: 'https://ucarecdn.com/2179600b-ac27-459f-8f3f-ef8adab04e50/'
-  - image: 'https://ucarecdn.com/03e22671-97c4-481b-b67f-5461f1001236/'
+  - image: 'https://ucarecdn.com/0d1e00fb-7ae1-4321-a0b2-69fe42de14c5/'
+  - image: 'https://ucarecdn.com/2167739d-abae-4610-9ee8-9c1d375a37e2/'
   - image: 'https://ucarecdn.com/d6bfa379-f08d-497d-b95a-ad963b4f1f27/'
   - image: 'https://ucarecdn.com/51cd6004-212a-48e1-acc3-fb0d8630ba50/'
-  - image: 'https://ucarecdn.com/3fcd020e-2358-45ee-91e4-ba30d27d00b8/'
-  - image: 'https://ucarecdn.com/b2d17610-3bfa-44eb-8863-dfa442d99817/'
-  - image: 'https://ucarecdn.com/0ad83406-390b-40cb-a608-ec41cbe3f82a/'
-  - image: 'https://ucarecdn.com/70ebe59f-354b-43e3-808e-ab82cc4a21af/'
-  - image: 'https://ucarecdn.com/82825637-237a-46bb-8c63-1c0d2834e31a/'
-  - image: 'https://ucarecdn.com/39d67654-a00e-4c52-b0a6-5083c7c32204/'
+  - image: 'https://ucarecdn.com/98dad991-60d9-4862-8549-bf057a44fa55/'
+  - image: 'https://ucarecdn.com/dde35828-a61e-4a2c-bbc5-f3f810476593/'
   - image: 'https://ucarecdn.com/8dc3bfd0-8933-445d-b305-2fa650a14d50/'
 ---
 
