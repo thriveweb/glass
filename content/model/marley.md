@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Marley
+title: N Marley
 featuredImage: >-
   https://ucarecdn.com/b18181d7-4639-4124-825b-c68245cab49c/-/crop/5464x2843/0,1306/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/bb0fbe52-af6d-4f21-a2c2-7a9204df6ff1/-/crop/4480x5045/0,0/-/preview/
-firstName: N Marley
+firstName: Marley
 collection: Women
 height: 174cm
 measurementType: bust
