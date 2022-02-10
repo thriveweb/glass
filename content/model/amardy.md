@@ -2,7 +2,7 @@
 template: ModelPage
 title: Amardy
 featuredImage: >-
-  https://ucarecdn.com/b07a6ac7-b971-4c92-9e0c-bd88e3613e4b/-/crop/5278x2406/0,0/-/preview/
+  https://ucarecdn.com/953ab484-e4d6-4ce2-8ee0-9f94ee4cb94f/-/crop/8192x3603/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/66a2eb19-9eb5-4e10-b24d-1b3e443b8eaa/-/crop/1563x1793/0,207/-/preview/
 firstName: Amardy
@@ -26,6 +26,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/9b09773b-06fa-4a91-badb-284cd0ef972c/'
   - image: 'https://ucarecdn.com/a7ac997b-a190-4050-ad2d-104465c9959d/'
   - image: 'https://ucarecdn.com/6821bb86-65cb-4f10-a521-1e459ec67002/'
+  - image: 'https://ucarecdn.com/2c616fed-5793-4ea8-9f71-35c18e9b41a8/'
   - image: 'https://ucarecdn.com/9053351b-0117-45a0-9c1f-f05a9878aec8/'
   - image: 'https://ucarecdn.com/9c86ffb4-7e17-4c72-b4cb-bb37d4918a9d/'
   - image: 'https://ucarecdn.com/6123c55e-1783-483c-bbe3-ad095201fb89/'
