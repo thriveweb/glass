@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/bb0fbe52-af6d-4f21-a2c2-7a9204df6ff1/-/crop/4480x5045/0,0/-/preview/
 firstName: N Marley
-collection: Emerging
+collection: Women
 height: 174cm
 measurementType: bust
 bust: 80cm
