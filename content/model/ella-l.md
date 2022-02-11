@@ -12,6 +12,8 @@ measurementType: bust
 bust: 84cm
 waist: 63cm
 hips: 72cm
+hair: Blonde
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/099c9b28-3552-41fd-826d-95c0f4d1ea10/'
   - image: 'https://ucarecdn.com/b815e030-1861-46ba-8462-765c40f51223/'
