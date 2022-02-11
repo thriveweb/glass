@@ -15,7 +15,7 @@ hips: 90cm
 size: 8-10
 shoeSize: 8-8.5
 hair: Blonde
-eyes: Blue
+eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/1f13d893-d99c-44f8-bcaa-560f5343ab6d/'
   - image: 'https://ucarecdn.com/1bfa66e4-86ff-4590-88ef-cb45ffcd6389/'
