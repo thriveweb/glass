@@ -13,6 +13,8 @@ instagram: 'https://www.instagram.com/glass_management/'
 header:
   buttonText: Book Models
   buttonUrl: contact
+  buttonBookStudioText: Book Studio
+  buttonBookStudioUrl: https://glassstudios.com.au
 footer:
   footerNav:
     - buttonText: Become a Model

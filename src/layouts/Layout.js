@@ -21,6 +21,8 @@ export default ({ children, meta, title }) => {
             header {
               buttonText
               buttonUrl
+              buttonBookStudioText
+              buttonBookStudioUrl
             }
             footer {
               title

@@ -60,9 +60,8 @@ class Nav extends Component {
 
     return (
       <nav
-        className={`nav ${navActive ? 'active' : ''} ${
-          mobileActive ? 'mobile-active' : ''
-        }`}
+        className={`nav ${navActive ? 'active' : ''} ${mobileActive ? 'mobile-active' : ''
+          }`}
       >
         <div className="nav--container container">
           <Link to="/">
@@ -78,22 +77,24 @@ class Nav extends Component {
               </li>
               <li
                 onClick={this.onMenuItemClick}
-                className={`menu-item-has-children ${
-                  menuItemActive ? 'active' : ''
-                }`}
+                className={`menu-item-has-children ${menuItemActive ? 'active' : ''
+                  }`}
               >
                 <span className="menu-item-content">
                   Talent <span className="dropdown-arrow">&#x25BE;</span>
                 </span>
                 <ul className="subMenu">
                   {modelTypes.edges
-                    .sort((a, b) =>
-                      modelTypeOrder.indexOf(a.node.frontmatter.title) > 0 &&
-                      modelTypeOrder.indexOf(b.node.frontmatter.title) > 0 &&
-                      modelTypeOrder.indexOf(a.node.frontmatter.title) >
-                        modelTypeOrder.indexOf(b.node.frontmatter.title)
-                        ? 1
-                        : -1
+                    .slice()
+                    .sort((a, b) => {                      
+                      if (!modelTypeOrder.includes(a.node.frontmatter.title)) {
+                        return 1;
+                      }
+                      if (!modelTypeOrder.includes(b.node.frontmatter.title)) {
+                        return -1;
+                      }
+                      return modelTypeOrder.indexOf(a.node.frontmatter.title) - modelTypeOrder.indexOf(b.node.frontmatter.title);
+                    }
                     )
                     .map(({ node }) => {
                       const { frontmatter } = node
@@ -127,6 +128,9 @@ class Nav extends Component {
             <Link className="button" to={slugify(`/${header.buttonUrl}`)}>
               {header.buttonText}
             </Link>
+            <a className="button" href={header.buttonBookStudioUrl} target="_blank" style={{marginLeft: '1rem'}}>
+              {header.buttonBookStudioText}
+            </a>            
           </div>
           <div id="mobile-menu" onClick={this.onMobileClick}>
             <span />
