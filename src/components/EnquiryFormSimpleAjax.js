@@ -180,6 +180,15 @@ class Form extends React.Component {
               onChange={this.handleChange}
             />
           </label>
+          <label className="EnquiryForm--Label">
+            <input
+              className="EnquiryForm--Input"
+              type='text'
+              placeholder="Location"
+              name="location"
+              onChange={this.handleChange}
+            />
+          </label>
           <label className="EnquiryForm--Label textarea">
             <textarea
               className="EnquiryForm--Input EnquiryForm--Textarea"
