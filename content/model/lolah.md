@@ -4,7 +4,7 @@ title: Lolah
 featuredImage: >-
   https://ucarecdn.com/828b4927-f149-4ad3-9355-254d369de61f/-/crop/740x473/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/480459f4-2e12-4a4a-b33d-405237e616bd/-/crop/386x473/8,51/-/preview/
+  https://ucarecdn.com/d6bdedb1-98f9-4fbb-be23-846e80518570/-/crop/3149x4630/499,0/-/preview/
 firstName: Lolah
 collection: Girls
 height: 140cm
@@ -17,6 +17,7 @@ shoeSize: '5'
 hair: Dark Blonde
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/2297c4e0-c7d0-4f42-8eaf-24e52dea26c2/'
   - image: 'https://ucarecdn.com/11dc69ec-3804-46b0-9138-cea9495c2477/'
   - image: 'https://ucarecdn.com/2e430aaf-50fe-42e9-adad-6572a91e1c0e/'
   - image: 'https://ucarecdn.com/2d95ff63-d4d0-40c8-8305-e42d047626fb/'
