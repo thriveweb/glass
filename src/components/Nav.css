@@ -421,7 +421,7 @@
 
   .nav--container .client-nav .title,
   .nav--container .client-nav .button {
-    flex: 0 0 50%;
+    flex: 0 0 33.34%;
     text-align: center;
     border: none;
     margin: 0;
@@ -431,7 +431,7 @@
   }
 
   .nav--container .client-nav .button {
-    background-color: var(--secondary);
+    background-color: var(--secondary);        
   }
 
   .nav--container .client-nav .title:hover,

@@ -125,7 +125,7 @@ class Nav extends Component {
             <Link className="title" to="/join-us">
               <ICONLogin /> Join Us
             </Link>
-            <Link className="button" to={slugify(`/${header.buttonUrl}`)}>
+            <Link className="button" to={slugify(`/${header.buttonUrl}`)} style={{marginLeft: '1rem'}}>
               {header.buttonText}
             </Link>
             <a className="button" href={header.buttonBookStudioUrl} target="_blank" style={{marginLeft: '1rem'}}>
