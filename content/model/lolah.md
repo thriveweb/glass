@@ -19,13 +19,10 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/2297c4e0-c7d0-4f42-8eaf-24e52dea26c2/'
   - image: 'https://ucarecdn.com/bdae9c6e-7343-4d98-91bb-e4299c32ecd8/'
-  - image: 'https://ucarecdn.com/2e430aaf-50fe-42e9-adad-6572a91e1c0e/'
+  - image: 'https://ucarecdn.com/6548b013-7065-41be-9406-1e02104bba7b/'
+  - image: 'https://ucarecdn.com/f6610d02-d56e-449d-9245-5742dacb9cbc/'
   - image: 'https://ucarecdn.com/42d078ea-bef1-4934-b571-12322f950b8e/'
-  - image: 'https://ucarecdn.com/11dc69ec-3804-46b0-9138-cea9495c2477/'
-  - image: 'https://ucarecdn.com/c60fc017-56dd-4d64-aa3e-9de99f80676f/'
-  - image: 'https://ucarecdn.com/2cb07029-2cf6-47ec-b5db-07134aa1e8f2/'
-  - image: 'https://ucarecdn.com/d49ba78c-9ad5-4518-9992-4c9a3a5d4bad/'
-  - image: 'https://ucarecdn.com/9bba72e6-880a-4f82-a5b2-096e5789187c/'
-  - image: 'https://ucarecdn.com/cf24a17a-0d6b-46f4-8092-bf130a6a763f/'
+  - image: 'https://ucarecdn.com/cb80e9da-e8d4-401c-9039-3d2914fface9/'
+  - image: 'https://ucarecdn.com/1f180d43-cc59-40c4-806c-196398b3d8a2/'
 ---
 
