@@ -2,7 +2,7 @@
 template: ModelPage
 title: Emily
 featuredImage: >-
-  https://ucarecdn.com/38b3e64e-706c-42ef-8415-ab05af0d56a7/-/crop/6068x2919/652,767/-/preview/
+  https://ucarecdn.com/b20d7680-1036-43e8-b43c-83519733c369/-/crop/4270x2457/0,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/04063278-d496-4c62-875b-5565fc10976a/'
 featuredVideoMobile: 'https://ucarecdn.com/130b8ce4-5592-481b-a123-40d3b0f31d66/'
 imageThumbnail: >-
@@ -21,6 +21,7 @@ eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/cf0b82d7-3c2d-4715-83a2-6634d56cbd58/'
   - image: 'https://ucarecdn.com/5e09e6b8-b1d8-48dd-ad45-90231d8d5386/'
+  - image: 'https://ucarecdn.com/48347907-142f-403d-8b2e-dd235df483bb/'
   - image: 'https://ucarecdn.com/bfc2ade5-d846-44d2-b96e-fc912a2116d9/'
   - image: 'https://ucarecdn.com/bd816a4d-0f9b-4352-8b0e-f3263cd6d801/'
   - image: 'https://ucarecdn.com/5c784b5a-e3f3-4f6f-ad84-f212b81bf3da/'
