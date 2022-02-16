@@ -2,7 +2,7 @@
 template: ModelPage
 title: Zayden
 featuredImage: >-
-  https://ucarecdn.com/5f7d1be0-714d-4bc8-a3dc-32f60502db15/-/crop/2248x1344/0,0/-/preview/
+  https://ucarecdn.com/c2740e0e-1a91-4066-8575-1d14e5ba79cb/-/crop/2337x1316/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b9ab3115-0e65-4767-a61d-7ab82aae29d7/-/crop/879x1060/336,0/-/preview/
 firstName: Zayden
@@ -24,8 +24,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a30e2810-e858-4f30-a0bb-bdc82a79fa95/'
   - image: 'https://ucarecdn.com/758f269e-6cf0-4b43-b733-65fb3443afd4/'
   - image: 'https://ucarecdn.com/4a8bb397-47b1-4e14-b7a3-e00ec703ca59/'
-  - image: 'https://ucarecdn.com/3df68ce0-5800-4868-94a6-eb62c70f5781/'
+  - image: 'https://ucarecdn.com/541d5c7c-da2c-4df4-8265-559b9bb84bdd/'
   - image: 'https://ucarecdn.com/0a54d0b5-81ca-45ed-9878-16c8bd63779c/'
+  - image: 'https://ucarecdn.com/3df68ce0-5800-4868-94a6-eb62c70f5781/'
   - image: 'https://ucarecdn.com/890f7a7b-1978-4bf0-bee2-4830c4e4b062/'
   - image: 'https://ucarecdn.com/637c6eec-9928-4048-92e4-d0225b2f5437/'
   - image: 'https://ucarecdn.com/5defb3bb-be04-4fdd-b309-0ea39f430b1a/'
