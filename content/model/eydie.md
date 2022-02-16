@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/cf8728e8-4091-4e28-986e-1e2d3c0e4983/-/crop/450x601/300,392/-/preview/
 firstName: Eydie
 collection: Girls
-height: 136cm
+height: 143cm
 measurementType: bust
-bust: 62cm
+bust: 66cm
 waist: 56cm
-hips: 70cm
+hips: 76cm
 size: 8-10
 shoeSize: '1'
 hair: Blonde
