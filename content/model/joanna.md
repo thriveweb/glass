@@ -2,7 +2,7 @@
 template: ModelPage
 title: Joanna
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/joanna-111.jpg'
-imageThumbnail: 'https://ucarecdn.com/08d5bcd9-9788-428d-91d1-8840eae26afd/'
+imageThumbnail: 'https://ucarecdn.com/73a810cc-879d-4228-9e1b-8148c090d380/'
 thumbnailVideo: >-
   https://ucarecdn.com/03d0c42f-b494-4d1a-a51e-03959b1a134c/-/crop/876x1032/755,22/-/preview/
 firstName: Joanna
