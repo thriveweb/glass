@@ -7,9 +7,9 @@ firstName: Leeroy
 collection: Emerging
 height: 174cm
 measurementType: chest
-bust: 84cm
+bust: 91cm
 waist: '81cm '
-hips: 92cm
+hips: 87cm
 size: Mens Small / 32
 shoeSize: Mens 11/12
 hair: Brown
