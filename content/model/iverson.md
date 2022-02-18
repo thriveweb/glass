@@ -6,12 +6,12 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/30e05e6d-c5ef-4863-b3cc-9f2611b29b38/'
 firstName: Iverson
 collection: Boys
-height: 108cm
+height: 110cm
 measurementType: chest
 bust: 59cm
-waist: 55cm
+waist: 62cm
 hips: 59cm
-size: '4'
+size: 13/1
 shoeSize: '12'
 hair: 'Brown '
 eyes: Brown
