@@ -7,13 +7,13 @@ featuredVideo: 'https://ucarecdn.com/28083120-3bc9-4210-b509-9915128492f9/'
 imageThumbnail: 'https://ucarecdn.com/6c0ad1c0-5bfe-4f27-87c5-246269f0a201/'
 firstName: Summer Jade
 collection: Girls
-height: 156cm
+height: 160cm
 measurementType: bust
-bust: 62cm
+bust: 70cm
 waist: 53cm
-hips: 65cm
-size: '10'
-shoeSize: 6 Ladies
+hips: 69cm
+size: 12 girls
+shoeSize: 8 Ladies
 hair: Brown
 eyes: Blue/Green
 imagePortfolio:
