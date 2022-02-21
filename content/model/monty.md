@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: A Monty
+title: ' Monty'
 featuredImage: >-
   https://ucarecdn.com/241ed78e-067c-4f2e-b4ca-2a8a27a6cf81/-/crop/600x208/0,0/-/preview/
 imageThumbnail: >-
