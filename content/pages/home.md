@@ -274,8 +274,8 @@ testimonials:
   title: What Our Clients Say
 featuredPosts:
   blogPosts: []
-  subTitle: Our Journal
-  title: Read Our Latest News
+  subTitle: Glass Management
+  title: Our Clients
 meta:
   description: >-
     A boutique modelling and talent agency based on the Gold Coast, Australia.
