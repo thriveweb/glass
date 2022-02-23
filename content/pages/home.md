@@ -273,9 +273,7 @@ testimonials:
       name: Julie from Sheridan Kids
   title: What Our Clients Say
 featuredPosts:
-  blogPosts:
-    - collection: Pink Ribbon Event
-    - collection: Hipkin
+  blogPosts: []
   subTitle: Our Journal
   title: Read Our Latest News
 meta:
