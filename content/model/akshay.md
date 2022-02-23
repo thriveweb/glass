@@ -4,7 +4,7 @@ title: Akshay
 featuredImage: >-
   https://ucarecdn.com/63929213-0c7e-40c3-a73f-1c41d7f4588f/-/crop/2447x1108/0,107/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/034947f5-a05c-40ae-b84b-79e88efe3840/-/crop/1450x1980/35,118/-/preview/
+  https://ucarecdn.com/034947f5-a05c-40ae-b84b-79e88efe3840/-/crop/1217x1742/177,314/-/preview/
 firstName: 'Akshay '
 collection: Men
 height: 194cm
