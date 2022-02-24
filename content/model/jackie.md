@@ -8,10 +8,10 @@ firstName: Jackie
 collection: Women
 height: 171cm
 measurementType: bust
-bust: 85cm
-waist: 68cm
-hips: 97cm
-size: 8-10
+bust: 88cm
+waist: 75.5cm
+hips: 105cm
+size: '10'
 shoeSize: '8'
 hair: Red
 eyes: Blue
