@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/44ff3324-bab0-4ddf-a63e-4092c2d1cdeb/-/crop/1152x1790/272,92/-/preview/
 firstName: Evelyne T
 collection: Girls
-height: 101cm
+height: 108cm
 measurementType: bust
 bust: 54cm
 waist: 53cm
