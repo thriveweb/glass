@@ -12,7 +12,7 @@ measurementType: chest
 bust: 75cm
 waist: 73cm
 hips: 81cm
-size: 14/16
+size: 12/14
 shoeSize: US 6/7
 hair: Brown
 eyes: Blue
