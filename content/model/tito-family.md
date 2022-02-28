@@ -8,9 +8,11 @@ imageThumbnail: >-
 firstName: Tito Family
 collection: Family
 imagePortfolio:
+  - image: 'https://ucarecdn.com/adfeaaa8-049f-4ec7-a144-ccddc6eadbe0/'
   - image: 'https://ucarecdn.com/6904f304-c762-4f42-ab14-32df20c3c029/'
   - image: 'https://ucarecdn.com/058861dd-f8de-44be-ad1a-f73631b708ea/'
   - image: 'https://ucarecdn.com/f44e18e1-0eb0-4fb3-9a2e-eb97b885fe69/'
   - image: 'https://ucarecdn.com/ce9ddb9e-db25-42b1-a295-5dd5279a2857/'
+  - image: 'https://ucarecdn.com/542b4a38-4ed2-4bc7-ab80-bc7a0637ee64/'
 ---
 
