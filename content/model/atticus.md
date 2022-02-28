@@ -1,0 +1,29 @@
+---
+template: ModelPage
+title: Atticus
+featuredImage: 'https://ucarecdn.com/69c3f37f-a115-443d-9f38-b76d43a43fcc/'
+imageThumbnail: 'https://ucarecdn.com/faa48dbc-e010-4975-8201-7f33652fa712/'
+firstName: Atticus
+collection: Boys
+height: 103cm
+measurementType: chest
+bust: 56cm
+waist: 52cm
+hips: 59cm
+size: 3-4
+shoeSize: '9'
+hair: Hazel
+eyes: Strawberry blonde/dark blonde
+imagePortfolio:
+  - {}
+  - image: 'https://ucarecdn.com/bcc02f87-8388-490d-bc87-2ff342d1bfc9/'
+  - image: 'https://ucarecdn.com/5a3832ea-6cb2-4bff-9aed-d1b536b65897/'
+  - image: 'https://ucarecdn.com/e7ff0c8d-c901-4ce8-b5b8-707840d07c9e/'
+  - image: 'https://ucarecdn.com/cdece504-a760-4b05-bbb7-09ad104f5062/'
+  - image: 'https://ucarecdn.com/32398d7e-b1e0-485a-9b41-d49c53d73601/'
+  - image: 'https://ucarecdn.com/beb0ceed-85b1-4dbd-a26e-546155c51f2d/'
+  - image: 'https://ucarecdn.com/88e47e04-82c3-4c35-ac00-f73da02e22be/'
+  - image: 'https://ucarecdn.com/994bb725-e946-4faa-a1f9-de6839cc066c/'
+  - image: 'https://ucarecdn.com/12fc0200-12a1-44a8-8c37-3c51e93ad762/'
+---
+
