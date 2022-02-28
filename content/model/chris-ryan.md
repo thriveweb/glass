@@ -4,7 +4,7 @@ title: Chris R
 featuredImage: >-
   https://ucarecdn.com/150aac7a-dbf2-472d-beca-59fb75431647/-/crop/785x698/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/85ace1a3-c250-4fc8-b47e-acecb5abc037/-/crop/280x241/0,0/-/preview/
+  https://ucarecdn.com/85ace1a3-c250-4fc8-b47e-acecb5abc037/-/crop/150x160/67,0/-/preview/
 firstName: Chirs
 collection: Classic
 height: 170cm
