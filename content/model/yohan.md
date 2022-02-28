@@ -1,9 +1,10 @@
 ---
 template: ModelPage
 title: Yohan
-featuredImage: 'https://ucarecdn.com/5277473e-a66e-4eda-871f-1dd940de26f6/-/preview/'
+featuredImage: >-
+  https://ucarecdn.com/94834026-3c6e-4c39-9d0b-84c33dfffb95/-/crop/4945x3648/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/baa496ae-c0a0-470d-af6b-40ad1ff49c30/-/crop/596x612/71,0/-/preview/
+  https://ucarecdn.com/89b8d600-f2b9-4cfe-b29e-c1a5473cffd3/-/crop/2288x2862/1639,94/-/preview/
 firstName: Yohan
 collection: Boys
 height: 88cm
