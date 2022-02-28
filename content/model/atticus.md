@@ -2,7 +2,7 @@
 template: ModelPage
 title: Atticus
 featuredImage: >-
-  https://ucarecdn.com/dfa6b587-1417-4751-82ef-971a8b27dc76/-/crop/6375x3264/0,309/-/preview/
+  https://ucarecdn.com/dfa6b587-1417-4751-82ef-971a8b27dc76/-/crop/6414x2395/0,348/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/faa48dbc-e010-4975-8201-7f33652fa712/-/crop/1245x1315/646,0/-/preview/
 firstName: Atticus
