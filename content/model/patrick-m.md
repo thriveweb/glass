@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Patrick M
-featuredImage: 'https://ucarecdn.com/46f32232-d584-4ace-b302-d3905d10084a/'
+featuredImage: >-
+  https://ucarecdn.com/46f32232-d584-4ace-b302-d3905d10084a/-/crop/3836x2288/995,126/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/586cac29-561b-4c6a-993b-8e3831612075/-/crop/2516x2838/1553,0/-/preview/
 firstName: Patrick
