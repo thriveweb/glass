@@ -2,7 +2,7 @@
 template: ModelPage
 title: Gemma
 featuredImage: >-
-  https://ucarecdn.com/79156ca5-b880-43cc-beb7-3e1a1ed8b375/-/crop/427x310/0,80/-/preview/
+  https://ucarecdn.com/79156ca5-b880-43cc-beb7-3e1a1ed8b375/-/crop/427x310/0,38/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b86bdf55-db02-4171-a8f9-36222cdcb08f/-/crop/309x427/116,0/-/preview/
 firstName: Gemma
