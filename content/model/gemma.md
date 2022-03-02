@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b86bdf55-db02-4171-a8f9-36222cdcb08f/-/crop/309x427/116,0/-/preview/
 firstName: Gemma
-collection: Women
+collection: Emerging
 height: 175cm
 measurementType: bust
 bust: 83cm
