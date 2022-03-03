@@ -4,7 +4,7 @@ title: Halo-Bee
 featuredImage: >-
   https://ucarecdn.com/0abc2f6b-3534-4841-8d5f-fe1cbc1a7d51/-/crop/2236x1565/0,78/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/3d4e9d61-9c2a-4e0e-9f00-b90ef759a8c7/-/crop/670x809/534,421/-/preview/
+  https://ucarecdn.com/21991c5d-b32e-4e12-9e7a-fc90ad167c7b/-/crop/208x245/47,0/-/preview/
 firstName: Halo-Bee
 collection: Girls
 height: 81cm
@@ -17,6 +17,7 @@ shoeSize: '5'
 hair: Black
 eyes: Dark Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/1bcf04fc-bc1b-4826-a3d0-82b61c007fe6/'
   - image: 'https://ucarecdn.com/1bf1bf26-b4df-44b1-b298-1b21bfa50cc2/'
   - image: 'https://ucarecdn.com/1167f1d4-e032-4a0f-9958-006712a5f4c4/'
   - image: 'https://ucarecdn.com/1fed2631-f511-4c52-b2dc-7976b7aa7758/'
