@@ -5,8 +5,13 @@ featuredImage: 'https://ucarecdn.com/8494722b-d8dd-4664-a6fe-c7456f6de1e8/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/rae.webp'
 firstName: Rae
 collection: Classic
+height: 166cm
+measurementType: bust
+bust: 88cm
+waist: 76cm
+hips: 98cm
 size: '10'
-shoeSize: EURO 40
+shoeSize: '9'
 hair: White
 eyes: Blue
 imagePortfolio:
