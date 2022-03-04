@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/efe222d5-ba8b-4524-a825-2a7ed8eb0d77/'
 imageThumbnail: >-
   https://ucarecdn.com/724475be-2432-4436-968e-cc969209cf30/-/crop/1008x1169/119,174/-/preview/
 firstName: Patricia
-collection: Women
+collection: Global
 height: 158cm
 measurementType: bust
 bust: 77cm
