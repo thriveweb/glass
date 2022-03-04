@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/1208743e-e904-41af-9427-ed20c1e2cb6b/-/crop/1119x1509/333,0/-/preview/
 firstName: Jillian
-collection: Classic
+collection: Global
 height: 166cm
 measurementType: bust
 bust: 87cm
