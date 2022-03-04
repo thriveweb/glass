@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/f48071f4-a5d8-4bf5-8773-1421dd200630/'
 imageThumbnail: >-
   https://ucarecdn.com/f4581358-1dbb-4c49-b12f-2b9012773f61/-/crop/1387x1782/138,59/-/preview/
 firstName: Milijana
-collection: Classic
+collection: Global
 height: 185cm
 measurementType: bust
 bust: 110cm
