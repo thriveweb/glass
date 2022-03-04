@@ -8,9 +8,9 @@ firstName: Darcie
 collection: Women
 height: 165cm
 measurementType: bust
-bust: 32cm
+bust: 86cm
 waist: 67cm
-hips: 81cm
+hips: 85cm
 size: '8'
 shoeSize: '7'
 hair: Brown
