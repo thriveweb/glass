@@ -3,8 +3,7 @@ template: ModelPage
 title: Nadine
 featuredImage: >-
   https://ucarecdn.com/9b8a117c-34c9-4f96-80f6-3d758b87c069/-/crop/1758x972/0,615/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/c940b0f2-203c-407e-bef0-d03e5126ecde/-/crop/377x389/66,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/02be7d33-49c0-4517-a57b-76b3aaa57e61/'
 firstName: Nadine
 collection: Classic
 height: 166cm
