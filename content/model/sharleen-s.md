@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://glassmanagement.imgix.net/images/uploads/sharleens101010101headshot_.png
 firstName: 'Sharleen '
-collection: Emerging
+collection: Global
 height: 162cm
 measurementType: bust
 waist: 61cm
