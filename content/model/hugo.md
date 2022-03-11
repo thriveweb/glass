@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Hugo
-featuredImage: 'https://ucarecdn.com/1d951c28-81a5-4aa0-ad69-6e8fa36c70b2/'
+featuredImage: >-
+  https://ucarecdn.com/1d951c28-81a5-4aa0-ad69-6e8fa36c70b2/-/crop/5010x2309/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/6d478da8-0ce4-4c5c-a225-3cdba69bf1e5/'
 firstName: Hugo
 collection: Boys
