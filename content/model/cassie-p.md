@@ -12,7 +12,7 @@ measurementType: bust
 bust: 86cm
 waist: 87cm
 hips: 94cm
-size: '8'
+size: 8-10
 shoeSize: '8'
 hair: Black
 eyes: Brown
