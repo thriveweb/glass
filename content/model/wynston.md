@@ -6,9 +6,9 @@ imageThumbnail: >-
   https://ucarecdn.com/2627d2d6-6173-4850-af24-ea1895d085ba/-/crop/519x776/364,390/-/preview/
 firstName: Wynston
 collection: Boys
-height: 85cm
+height: 100cm
 measurementType: chest
-size: '2'
+size: 3-4
 hair: Black
 eyes: Black
 imagePortfolio:
