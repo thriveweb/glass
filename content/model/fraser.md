@@ -12,6 +12,8 @@ waist: 86cm
 hips: 109cm
 size: Pants 36  Short XL
 shoeSize: '13'
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/dd29d5af-b3c6-4bbd-b3ff-4d4aa12bc0e8/'
   - image: 'https://ucarecdn.com/33fc926d-a934-4ee3-b9ad-088993ab1857/'
