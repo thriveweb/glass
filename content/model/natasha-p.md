@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/47476534-90f9-40fe-b40a-809e4ad9dde3/-/crop/553x653/60,10/-/preview/
 firstName: Natasha P
-collection: Women
+collection: Classic
 height: 167cm
 measurementType: bust
 bust: 81cm
