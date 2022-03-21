@@ -3,7 +3,7 @@ template: ModelPage
 title: Ran Family
 featuredImage: 'https://ucarecdn.com/60de2c9b-fab7-422f-8526-4088d2f08b52/'
 imageThumbnail: >-
-  https://ucarecdn.com/a3b6a1ec-72aa-47ec-bff7-d2c1d924e6c8/-/crop/3415x2563/756,0/-/preview/
+  https://ucarecdn.com/a3b6a1ec-72aa-47ec-bff7-d2c1d924e6c8/-/crop/3455x3340/756,0/-/preview/
 firstName: Ran Family
 collection: Family
 imagePortfolio:
