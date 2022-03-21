@@ -19,7 +19,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0514caf7-ec8c-4967-9ae0-ca1911258901/'
   - image: 'https://ucarecdn.com/f3ec8172-ab87-417a-a2eb-8aae1f42b654/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/4-t7j1.jpg'
-  - image: 'https://ucarecdn.com/46d000e3-b75c-4ef5-8593-fea4c95c356a/'
+  - image: 'https://ucarecdn.com/0ec0ab8d-d7b8-4d65-adfd-99b0d058eeb7/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia6.jpg'
   - image: 'https://ucarecdn.com/3b388824-8c73-4d85-a41f-a6f6b6239420/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia-co.-6-of-31-.jpg'
