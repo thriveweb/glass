@@ -3,7 +3,8 @@ template: ModelPage
 title: Noreen
 featuredImage: >-
   https://ucarecdn.com/ea4f0458-beda-4129-8a05-d495f5a1350b/-/crop/510x329/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/4f04d07d-3c6b-4cf1-9bb4-dfe1954e0523/'
+imageThumbnail: >-
+  https://ucarecdn.com/4f04d07d-3c6b-4cf1-9bb4-dfe1954e0523/-/crop/1305x1859/316,0/-/preview/
 firstName: Noreen
 collection: Classic
 height: 157cm
