@@ -11,7 +11,7 @@ measurementType: chest
 bust: 101cm
 waist: 79cm
 hips: 83cm
-size: 42US
+size: 34US
 shoeSize: 11.5 US
 hair: 'Black '
 eyes: Brown
