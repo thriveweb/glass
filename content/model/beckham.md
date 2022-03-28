@@ -3,7 +3,8 @@ template: ModelPage
 title: Beckham
 featuredImage: >-
   https://ucarecdn.com/60463e31-5641-49d0-8dcf-ccdc8cd9852d/-/crop/1537x1306/0,159/-/preview/
-imageThumbnail: 'https://ucarecdn.com/dd7bc5d9-1300-414a-bf4a-119378b76dff/'
+imageThumbnail: >-
+  https://ucarecdn.com/dd7bc5d9-1300-414a-bf4a-119378b76dff/-/crop/1060x1352/740,0/-/preview/
 firstName: Beckham
 collection: Boys
 size: Size 2
