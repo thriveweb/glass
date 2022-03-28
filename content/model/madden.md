@@ -3,7 +3,7 @@ template: ModelPage
 title: Madden
 featuredImage: 'https://ucarecdn.com/086f4645-1e9b-4ffb-b6f2-0b32241a4999/'
 imageThumbnail: >-
-  https://ucarecdn.com/77867083-382c-4fbb-8163-a927487b8b12/-/crop/810x914/254,328/-/preview/
+  https://ucarecdn.com/77867083-382c-4fbb-8163-a927487b8b12/-/crop/552x720/388,328/-/preview/
 firstName: 'Madden '
 collection: Boys
 measurementType: chest
