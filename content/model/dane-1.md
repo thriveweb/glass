@@ -3,7 +3,7 @@ template: ModelPage
 title: Dane M
 featuredImage: 'https://ucarecdn.com/2dddb6cf-37dd-41d3-961f-4d3621a37247/'
 imageThumbnail: >-
-  https://ucarecdn.com/9bd0a245-f3ab-4c78-be1c-50a20254850f/-/crop/1039x1000/681,0/-/preview/
+  https://ucarecdn.com/9bd0a245-f3ab-4c78-be1c-50a20254850f/-/crop/600x1004/912,0/-/preview/
 firstName: Dane
 collection: Classic
 measurementType: chest
