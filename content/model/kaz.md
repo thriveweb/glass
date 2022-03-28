@@ -3,7 +3,7 @@ template: ModelPage
 title: Kaz
 featuredImage: 'https://ucarecdn.com/38ff4356-12b9-4da2-8812-2866212f04af/'
 imageThumbnail: >-
-  https://ucarecdn.com/22b4a679-c162-4edf-9973-2878088318b0/-/crop/1141x1456/125,0/-/preview/
+  https://ucarecdn.com/11584afc-fc83-44be-9b30-b898b42ed984/-/crop/1170x1901/0,0/-/preview/
 firstName: Kaz
 collection: Classic
 height: 165cm
@@ -16,9 +16,10 @@ shoeSize: '8'
 hair: '   Light brown'
 eyes: '  Blue'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/a03ba1a4-7d41-4730-9f7e-5cc9c1c83c97/'
-  - image: 'https://ucarecdn.com/c2378275-b4fa-4600-85ef-c415ff167d17/'
+  - image: 'https://ucarecdn.com/446107f2-4d95-4a1c-a04f-8e7d262bbfa9/'
   - image: 'https://ucarecdn.com/64014e9f-8640-4385-87ca-56e803f2a60a/'
+  - image: 'https://ucarecdn.com/c2378275-b4fa-4600-85ef-c415ff167d17/'
+  - image: 'https://ucarecdn.com/a03ba1a4-7d41-4730-9f7e-5cc9c1c83c97/'
   - image: 'https://ucarecdn.com/72ea4ec0-00b0-4724-a2e4-ae41cf59d2f0/'
   - image: 'https://ucarecdn.com/e9b6dd8e-3b61-4fea-96d4-5e9b6ffe1afd/'
   - image: 'https://ucarecdn.com/a2b936ab-dda0-480b-af2c-9e7b1d0bc0a6/'
