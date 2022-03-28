@@ -11,8 +11,8 @@ measurementType: bust
 bust: 87cm
 waist: 72cm
 hips: 100cm
-size: '7'
-shoeSize: '10'
+size: 8-10
+shoeSize: 6.5-7
 hair: Black
 eyes: Brown
 imagePortfolio:
