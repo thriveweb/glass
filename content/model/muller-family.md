@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Muller Family
-featuredImage: >-
-  https://ucarecdn.com/7770140e-82e6-428d-b7b7-7c66e922eb3d/-/crop/1366x1143/0,358/-/preview/
+featuredImage: 'https://ucarecdn.com/a4a93860-2e8b-49a2-ba45-3d4a6e9a4f58/'
 imageThumbnail: 'https://ucarecdn.com/2a2188f9-31b1-46d1-9773-5c419e9d5cd4/'
 firstName: Muller Family
 collection: Family
