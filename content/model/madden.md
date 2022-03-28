@@ -7,7 +7,7 @@ imageThumbnail: >-
 firstName: 'Madden '
 collection: Boys
 measurementType: chest
-bust: Size 6
+bust: ''
 size: Size 6
 hair: Blonde
 eyes: Green
