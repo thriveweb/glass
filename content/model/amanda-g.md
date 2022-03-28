@@ -17,8 +17,10 @@ shoeSize: 9-10
 hair: Light Brown
 eyes: Hazel
 imagePortfolio:
+  - image: 'https://ucarecdn.com/a7c64ffa-8732-4bc0-b314-6c8032c89e98/'
   - image: 'https://ucarecdn.com/9c066404-2dd9-4826-be70-a7b7377493d1/'
   - image: 'https://ucarecdn.com/c56a647e-4f23-436f-a658-7a881e298aca/'
+  - image: 'https://ucarecdn.com/024e46ef-f614-4ab4-881b-4ded6cc46fa8/'
   - image: 'https://ucarecdn.com/c308753a-dda4-4895-87f4-96cd4ac65090/'
   - image: 'https://ucarecdn.com/27e8d846-c707-4104-ae12-0b179858e163/'
   - image: 'https://ucarecdn.com/d829262f-ac9b-4794-9053-c131937799b1/'
