@@ -1,0 +1,18 @@
+---
+template: ModelPage
+title: Jordan S
+featuredImage: 'https://ucarecdn.com/180c8f26-0c07-4cc7-8523-904b3da3f038/'
+imageThumbnail: >-
+  https://ucarecdn.com/c7cebfaa-8412-4a9e-aa8a-748ad8c47001/-/crop/559x797/1471,84/-/preview/
+firstName: Jordan S
+collection: Boys
+size: '1'
+hair: Blonde
+eyes: Blue
+imagePortfolio:
+  - image: 'https://ucarecdn.com/8acb7d33-3df9-4ba3-bfcb-07689de1d8ae/'
+  - image: 'https://ucarecdn.com/fab8b00a-4913-48fa-afbf-3bf63120e036/'
+  - image: 'https://ucarecdn.com/416bee6e-4e57-4785-843d-3f2c050c5316/'
+  - image: 'https://ucarecdn.com/20abfb67-b11a-4e20-a3f3-baedd5440570/'
+---
+
