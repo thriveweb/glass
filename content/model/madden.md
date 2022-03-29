@@ -6,9 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/77867083-382c-4fbb-8163-a927487b8b12/-/crop/552x720/388,328/-/preview/
 firstName: 'Madden '
 collection: Boys
+height: 119cm
 measurementType: chest
-bust: ''
+bust: 59cm
+waist: Boys 6 - 51.5cm
+hips: 61cm
 size: Size 6
+shoeSize: Youth 2
 hair: Blonde
 eyes: Green
 imagePortfolio:
