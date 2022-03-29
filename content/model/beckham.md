@@ -7,7 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/dd7bc5d9-1300-414a-bf4a-119378b76dff/-/crop/1060x1352/740,0/-/preview/
 firstName: Beckham
 collection: Boys
+height: 92cm
+measurementType: chest
+bust: 51cm
+waist: Boy 2-49.5cm
+hips: 57cm
 size: Size 2
+shoeSize: Kids 8
 hair: Blonde
 eyes: Green/Grey
 imagePortfolio:
