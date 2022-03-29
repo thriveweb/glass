@@ -6,9 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/9bd0a245-f3ab-4c78-be1c-50a20254850f/-/crop/600x1004/912,0/-/preview/
 firstName: Dane
 collection: Classic
+height: 179cm
 measurementType: chest
-bust: Size M
-size: Pant Size 32
+bust: 96cm
+waist: 32-83cm
+hips: 94cm
+size: '32'
+shoeSize: '10.5'
 imagePortfolio:
   - image: 'https://ucarecdn.com/884a1aab-cce9-4ae6-8a08-3823c52791c7/'
   - image: 'https://ucarecdn.com/f126bb87-76d6-422c-8201-f937367ad986/'
