@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/b3b3d72f-8ec8-439c-bee2-23945c75d4e6/-/crop/1257x1944/170,85/-/preview/
 firstName: Lilla Snow
 collection: Girls
-height: 111cm
+height: 116cm
 measurementType: bust
-bust: 55cm
-waist: 54cm
-hips: 60cm
-size: '5'
-shoeSize: 11 - 12
+bust: 56cm
+waist: 53cm
+hips: 61cm
+size: 5-6
+shoeSize: '12'
 hair: Black
 eyes: Brown
 imagePortfolio:
