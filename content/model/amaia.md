@@ -17,6 +17,8 @@ shoeSize: 10-11
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/8398b58f-1185-4935-9804-8a150dd0f651/'
+  - image: 'https://ucarecdn.com/5accd279-37e9-43a4-aa60-e054cbdcf6d3/'
   - image: 'https://ucarecdn.com/0f6510fb-f066-44dc-bda1-ebfe75e38554/'
   - image: 'https://ucarecdn.com/1b536e02-bab8-4987-8b4a-6a4db51ee39c/'
   - image: 'https://ucarecdn.com/acfcbba8-5966-4dc4-9fef-d83aae8d1b98/'
