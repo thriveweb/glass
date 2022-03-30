@@ -2,7 +2,7 @@
 template: ModelPage
 title: Lauren
 featuredImage: >-
-  https://ucarecdn.com/79d584a3-65ef-43ce-9e22-aa0d9fbf9002/-/crop/6720x2808/0,0/-/preview/
+  https://ucarecdn.com/c02c2475-2216-4b91-b6c3-40d524fa970b/-/crop/2449x1262/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/a01be195-3678-4205-9227-6272206210d6/'
 firstName: 'Lauren '
 collection: Women
@@ -17,6 +17,7 @@ hair: Brown
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/04f6c2fa-acfb-41ed-8f3a-a173472615f3/'
+  - image: 'https://ucarecdn.com/32c209df-4e7c-4c8a-a858-f7ef4c0146e3/'
   - image: 'https://ucarecdn.com/365812a0-b9ff-4d8a-a207-506005404772/'
   - image: 'https://ucarecdn.com/f79ba354-9122-42b1-9d8f-bff647a09931/'
   - image: 'https://ucarecdn.com/0e4daa14-f6ae-450e-818c-effb2c5b2f69/'
