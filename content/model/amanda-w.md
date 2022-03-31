@@ -8,9 +8,9 @@ firstName: Amanda W
 collection: Classic
 height: 170cm
 measurementType: bust
-bust: 110cm 16DD
+bust: 109cm 16DD
 waist: 90cm
-hips: 125cm
+hips: 122cm
 size: '16'
 shoeSize: '9'
 hair: Light Brown
