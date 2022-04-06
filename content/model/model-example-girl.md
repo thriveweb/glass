@@ -21,6 +21,7 @@ eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/7a6de352-3f0d-427b-8976-cf85c7a7e3f2/'
   - image: 'https://ucarecdn.com/cf0b82d7-3c2d-4715-83a2-6634d56cbd58/'
+  - image: 'https://ucarecdn.com/40e6c0fd-5a1e-486c-ab13-b138f3a89139/'
   - image: 'https://ucarecdn.com/5e09e6b8-b1d8-48dd-ad45-90231d8d5386/'
   - image: 'https://ucarecdn.com/48347907-142f-403d-8b2e-dd235df483bb/'
   - image: 'https://ucarecdn.com/bfc2ade5-d846-44d2-b96e-fc912a2116d9/'
