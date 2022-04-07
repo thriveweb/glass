@@ -4,7 +4,7 @@ title: AA Matilda
 featuredImage: 'https://ucarecdn.com/5ed60adb-0646-4f57-91c6-c3ec9a214d99/'
 imageThumbnail: 'https://ucarecdn.com/a3ba2a24-14b3-4815-baa5-383eeaaa7a09/'
 firstName: 'MELBOURNE Matilda '
-collection: Global
+collection: Melbourne
 height: 172cm
 measurementType: bust
 bust: 95cm
