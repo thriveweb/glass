@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/44f0564b-071c-42f8-ba97-d1578b2cdc5b/-/crop/933x1211/337,81/-/preview/
 firstName: MELBOURNE Avi
-collection: Global
+collection: Melbourne
 height: 166cm
 measurementType: bust
 bust: 32 inches
