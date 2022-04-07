@@ -23,7 +23,7 @@ gallery:
         https://ucarecdn.com/29230f77-9251-4ff8-afcd-a961fca0cf40/-/crop/2449x1297/0,167/-/preview/
       title: Classic
     - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
-      title: Global
+      title: Melbourne
     - image: >-
         https://ucarecdn.com/6c3b93ac-887f-4ba5-8a33-fe87f7ad3f2e/-/crop/3450x3771/0,0/-/preview/
       title: Men
