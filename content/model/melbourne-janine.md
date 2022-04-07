@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/341f4ac5-b6aa-497d-8e26-272971f1e20d/-/crop/2000x2820/0,0/-/preview/
 firstName: MELBOURNE Janine
-collection: Global
+collection: Melbourne
 height: 168cm
 measurementType: bust
 bust: 88cm
