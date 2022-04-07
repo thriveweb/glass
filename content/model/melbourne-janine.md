@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: MELBOURNE Janine
+title: AA Janine
 featuredImage: >-
   https://ucarecdn.com/73461291-75f8-41fe-b3af-9cc8ee900337/-/crop/2443x1251/0,0/-/preview/
 imageThumbnail: >-
