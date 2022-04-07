@@ -1,7 +1,7 @@
 ---
 template: ModelsPage
 title: Global
-featuredImage: 'https://ucarecdn.com/c1942816-ea95-4683-adde-dd24d26205ec/'
+featuredImage: 'https://ucarecdn.com/8cb8c958-58a7-4685-a6fc-e12805352681/'
 order: 9
 ---
 
