@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/dc54c59e-035e-4f16-ac40-1e7d17844c6b/-/crop/1414x504/0,261/-/preview/
 imageThumbnail: 'https://ucarecdn.com/312c02b2-f3d1-4387-999a-762bb9c58775/'
 firstName: MELBOURNE Mylinh
-collection: Global
+collection: Melbourne
 height: 168cm
 measurementType: bust
 bust: 80cm
