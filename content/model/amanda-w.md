@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Amanda W
-featuredImage: 'https://ucarecdn.com/9607305b-189d-4bb0-bae6-33a4973776ca/'
+featuredImage: >-
+  https://ucarecdn.com/6850b5fa-a3cd-4adc-b791-a294102bb8f7/-/crop/5266x2778/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/57a41911-f8eb-47c4-a584-1e1ef2768188/'
 firstName: Amanda W
 collection: Classic
