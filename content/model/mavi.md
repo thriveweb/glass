@@ -2,7 +2,7 @@
 template: ModelPage
 title: Mavi
 featuredImage: >-
-  https://ucarecdn.com/e3342d7e-17bd-4455-952b-ecac8ebf51c7/-/crop/1860x1208/0,715/-/preview/
+  https://ucarecdn.com/e3342d7e-17bd-4455-952b-ecac8ebf51c7/-/crop/1860x1064/0,715/-/preview/
 imageThumbnail: 'https://ucarecdn.com/86eb6178-cb40-4005-8c89-f69f346c71a0/'
 firstName: MELBOURNE Mavi
 collection: Melbourne
