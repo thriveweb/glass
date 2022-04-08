@@ -1,7 +1,7 @@
 ---
 template: AboutPage
 slug: about
-featuredImage: 'https://ucarecdn.com/9542d60f-f016-438c-bec0-4fec6026f596/'
+featuredImage: 'https://ucarecdn.com/aa34b477-549b-4f39-9430-c3c61c0f8f17/'
 subTitle: ''
 title: About Us
 teamMembers:
@@ -131,6 +131,28 @@ teamMembers:
 
       Go Team Glass!
     subTitle: Talent Manager
+  - leftAlign: true
+    subTitle: Talent Admin and Assistant Coach
+    title: Mikayla
+    content: >-
+      Meet Mikayla AKA Mik-kk
+
+
+      Super kind, Super sweet, may appear super quiet but don't be fooled!!!!
+
+
+      Mikayla is undertaking a Certificate of Business, whilst working in the
+      Glass office keeping our systems in check. She is also very passionate
+      about spreading her knowledge to our younger team members assisting in our
+      weekly workshops.
+
+
+      Mik-kk is a dedicated actor who works extremely hard at her craft,
+      appearing in TVC's and loves everything about the Film Industry. 
+
+
+      Keep an eye out for this one!
+    image: 'https://ucarecdn.com/a8016c98-8e40-4eda-9fb6-ce19c744b513/'
 services:
   content: >-
     Glass Management supplies professional talent for Feature Films, TV
