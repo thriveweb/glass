@@ -12,7 +12,7 @@ measurementType: chest
 bust: 102cm
 waist: 92cm
 hips: 102cm
-size: M/L
+size: L
 shoeSize: '42'
 hair: Brown
 eyes: Blue
