@@ -2,7 +2,7 @@
 template: ModelPage
 title: AA Nyasha
 featuredImage: >-
-  https://ucarecdn.com/344630c3-42a4-45d1-88ba-21058399d964/-/crop/8688x4776/0,0/-/preview/
+  https://ucarecdn.com/344630c3-42a4-45d1-88ba-21058399d964/-/crop/8688x4099/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/8d38672a-7685-4be8-afdd-bd94fb63c590/-/crop/3753x4525/1426,19/-/preview/
 firstName: MELBOURNE Nyasha
