@@ -8,11 +8,11 @@ firstName: Gabrielle
 collection: Classic
 height: 168cm
 measurementType: bust
-bust: 12C/D (bra size)
+bust: 35 inches
 waist: 29.5 inches
 hips: 35 inches
 size: 8-10
-shoeSize: 38-39/  8 ½
+shoeSize: '8.5'
 hair: Dark Brown
 eyes: Hazel
 imagePortfolio:
