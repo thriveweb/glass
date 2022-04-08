@@ -5,10 +5,8 @@ featuredVideoMobile: 'https://ucarecdn.com/728d4a6a-646c-40c2-a356-e3a5ca535624/
 template: HomePage
 slug: ''
 subTitle: Welcome To
-title: 'Gold Coast Model,Talent & Acting Agency'
-content: >-
-  A boutique agency based on the Gold Coast, Australia. Providing professional
-  talent of all ages.
+title: ' Modelling, Talent & Acting Agency'
+content: 'BYRON BAY, GOLD COAST, BRISBANE, SUNSHINE COAST & MELBOURNE'
 buttonText: See Our Talent
 buttonUrl: models/women
 gallery:
