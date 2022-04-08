@@ -15,7 +15,7 @@ hips: 102cm
 size: 32/L
 shoeSize: '13'
 hair: Brown
-eyes: Grey/Blue
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/da0dd3c3-d1a5-4ed6-bb6f-89cadcdde01f/'
   - image: 'https://ucarecdn.com/91ffffd9-bb94-4ac0-bfc1-d4388a23d44f/'
