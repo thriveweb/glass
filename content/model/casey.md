@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/5691ef68-10e8-4578-aa58-fccd1e18a5b1/'
 featuredVideo: 'https://ucarecdn.com/a491939b-6edf-4394-af3f-5e30f83f426a/'
 featuredVideoMobile: 'https://ucarecdn.com/b487f472-9441-497a-829b-09a6c92f74d5/'
 imageThumbnail: >-
-  https://ucarecdn.com/3af530ba-d756-4f0a-a147-78d390c599e1/-/crop/736x944/474,214/-/preview/
+  https://ucarecdn.com/ea836d89-36da-4fb6-bb06-8c8d432ae394/-/crop/853x1057/554,60/-/preview/
 firstName: Casey
 collection: Men
 height: 183cm
