@@ -1,9 +1,10 @@
 ---
 template: ModelPage
 title: Christian
-featuredImage: 'https://ucarecdn.com/814a9522-af8f-4ac8-80f4-31810cebd269/'
+featuredImage: >-
+  https://ucarecdn.com/12ef9d0c-e5e3-4674-a21f-fa1ad046f147/-/crop/1632x952/0,27/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c215a26b-6ca9-4977-ba0a-c158296f772e/-/crop/1604x1740/341,772/-/preview/
+  https://ucarecdn.com/57266b82-2f93-4401-90e1-b677cb828bce/-/crop/2524x3111/1288,0/-/preview/
 firstName: Christian
 collection: Boys
 height: 162cm
@@ -16,11 +17,12 @@ shoeSize: '10.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/890cb065-864e-44ec-993a-887396f308bf/'
-  - image: 'https://ucarecdn.com/c6cfaffa-2de6-4a04-9c1e-4e39e88197b8/'
-  - image: 'https://ucarecdn.com/39e7994c-8bb8-4e40-b484-a33d2e98f725/'
+  - image: 'https://ucarecdn.com/bb0a9969-4469-4748-8182-711a9e35f1d9/'
+  - image: 'https://ucarecdn.com/52194333-b528-47c8-98c4-4b024c86c91a/'
+  - image: 'https://ucarecdn.com/2133c816-4382-4c74-9a74-e14bd450015f/'
+  - image: 'https://ucarecdn.com/04969926-af96-4dbd-b7fa-c150075eb669/'
+  - image: 'https://ucarecdn.com/0d54a881-4363-4e9e-b1d3-26dc6dc987f1/'
   - image: 'https://ucarecdn.com/2e00d8e1-5c73-44b2-b75b-1f9ee8fc3373/'
   - image: 'https://ucarecdn.com/4d69a235-21e7-498e-b3d0-611c6bb26cc2/'
-  - image: 'https://ucarecdn.com/e0ed373f-4f8d-4997-b621-d5b431e41e6a/'
 ---
 
