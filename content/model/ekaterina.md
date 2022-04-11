@@ -9,6 +9,9 @@ firstName: Ekaterina
 collection: Women
 height: 173cm
 measurementType: bust
+bust: 79cm
+waist: 64cm
+hips: 87cm
 size: 6-8
 shoeSize: '7'
 hair: Brunette
