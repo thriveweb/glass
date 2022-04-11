@@ -2,7 +2,7 @@
 template: ModelPage
 title: Yuri
 featuredImage: >-
-  https://ucarecdn.com/bab40f4b-fa9f-49d8-af08-089a854daf5c/-/crop/543x280/0,0/-/preview/
+  https://ucarecdn.com/bab40f4b-fa9f-49d8-af08-089a854daf5c/-/crop/541x187/2,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b33e8d6c-0d66-46d0-85d3-8a3385d2d519/-/crop/1394x1943/174,0/-/preview/
 firstName: Yuri
