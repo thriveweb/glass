@@ -34,6 +34,7 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/dani-18.jpg'
   - image: 'https://ucarecdn.com/82a8f40f-b4d2-46a5-93a1-b83a246f67b2/'
   - image: 'https://ucarecdn.com/5912cc27-0875-4ed2-ad3a-d8ec8b40cae6/'
+  - image: 'https://ucarecdn.com/889c58d7-b061-49b0-9c4c-bfcd17c6e6ef/'
   - image: 'https://ucarecdn.com/7055b1b0-424b-4eda-a27c-79926f0d4943/'
   - image: >-
       https://glassmanagement.imgix.net/images/uploads/34638289_1854515731272493_2153196723302825984_n.jpg
