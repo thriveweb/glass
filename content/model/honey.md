@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/74b47e91-a544-4f2e-b2ec-c74262bec0cb/-/crop/1834x1043/0,576/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2e45ab0b-3d0c-457b-b125-f1778202ec50/-/crop/397x494/310,183/-/preview/
-firstName: Honey
+firstName: MELBOURNE Honey
 collection: Melbourne
 size: 12M
 shoeSize: '4'
