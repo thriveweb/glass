@@ -18,7 +18,7 @@ gallery:
         https://ucarecdn.com/97f8e6dd-a8e8-4f99-a2c7-e6bb82f003eb/-/crop/1200x1115/0,0/-/preview/
       title: Girls
     - image: >-
-        https://ucarecdn.com/29230f77-9251-4ff8-afcd-a961fca0cf40/-/crop/2449x1297/0,167/-/preview/
+        https://ucarecdn.com/30f78316-58e3-4c79-ab62-8a4fed1cc008/-/crop/5242x2886/24,363/-/preview/
       title: Classic
     - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
       title: Melbourne
