@@ -2,7 +2,7 @@
 template: ModelPage
 title: Halo-Bee
 featuredImage: >-
-  https://ucarecdn.com/0abc2f6b-3534-4841-8d5f-fe1cbc1a7d51/-/crop/2236x1565/0,78/-/preview/
+  https://ucarecdn.com/3b5ae79e-4d5f-483f-b535-e83cdaa14908/-/crop/2508x1339/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/21991c5d-b32e-4e12-9e7a-fc90ad167c7b/-/crop/208x245/47,0/-/preview/
 firstName: Halo-Bee
@@ -20,8 +20,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/1bcf04fc-bc1b-4826-a3d0-82b61c007fe6/'
   - image: 'https://ucarecdn.com/1bf1bf26-b4df-44b1-b298-1b21bfa50cc2/'
   - image: 'https://ucarecdn.com/1167f1d4-e032-4a0f-9958-006712a5f4c4/'
+  - image: 'https://ucarecdn.com/cca9ef4a-1c14-4ef2-a394-564773a5cea6/'
   - image: 'https://ucarecdn.com/1fed2631-f511-4c52-b2dc-7976b7aa7758/'
   - image: 'https://ucarecdn.com/1f559937-0c6b-4676-94dd-3f9410f41b71/'
+  - image: 'https://ucarecdn.com/ff7656ae-bae6-4dd2-89a6-c66415c4e932/'
   - image: 'https://ucarecdn.com/d5a9581d-f9b7-4010-9b11-b054658bd943/'
   - image: 'https://ucarecdn.com/8af603ad-e1b0-496e-a2b5-eeb3a948b910/'
   - image: 'https://ucarecdn.com/fd745c80-81b9-4ad5-aa46-4d5b78532203/'
