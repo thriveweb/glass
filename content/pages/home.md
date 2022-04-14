@@ -15,7 +15,7 @@ gallery:
         https://ucarecdn.com/4e1af0e0-6b2a-4c35-a43f-33c98ac1336a/-/crop/2228x3330/1042,97/-/preview/
       title: Women
     - image: >-
-        https://ucarecdn.com/97f8e6dd-a8e8-4f99-a2c7-e6bb82f003eb/-/crop/1200x1115/0,0/-/preview/
+        https://ucarecdn.com/06a8f2de-0154-47dc-95e7-d98a3a997f18/-/crop/877x1142/601,153/-/preview/
       title: Girls
     - image: >-
         https://ucarecdn.com/30f78316-58e3-4c79-ab62-8a4fed1cc008/-/crop/5242x2886/24,363/-/preview/
