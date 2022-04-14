@@ -2,7 +2,7 @@
 template: ModelPage
 title: Ca Olivia M
 featuredImage: >-
-  https://ucarecdn.com/de03d430-8eb3-4a0b-81dd-c0ba9c3791b8/-/crop/4946x2786/0,1956/-/preview/
+  https://ucarecdn.com/de03d430-8eb3-4a0b-81dd-c0ba9c3791b8/-/crop/4946x2655/0,1839/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/6a4cb59b-0e3e-459b-b7f3-77a39647cc8b/-/crop/2790x3808/845,20/-/preview/
 firstName: Olivia M
