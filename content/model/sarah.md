@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Sarah
+title: An Sarah
 featuredImage: >-
   https://ucarecdn.com/4269a810-9c4b-48aa-a8db-489ff4547a38/-/crop/2472x1116/0,501/-/preview/
 imageThumbnail: >-
