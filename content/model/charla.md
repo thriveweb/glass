@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/364bab7f-39a0-42b8-ac41-5a6872a1a992/-/crop/1973x2679/230,0/-/preview/
 firstName: Charla
-collection: Women
+collection: Global
 height: 180cm
 measurementType: bust
 bust: 84cm
