@@ -3,8 +3,7 @@ template: ModelPage
 title: Serena
 featuredImage: >-
   https://ucarecdn.com/c928f8ca-8872-429d-aa9d-71b93c7070a2/-/crop/1440x776/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/a3ad277b-7f00-402b-8b72-c82aff345700/-/crop/796x1034/95,32/-/preview/
+imageThumbnail: 'https://ucarecdn.com/d9dcd844-487b-4f6a-bcba-6a4393b937b2/'
 firstName: Serena
 collection: Women
 height: 167cm
