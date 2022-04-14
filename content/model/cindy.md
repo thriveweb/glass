@@ -7,7 +7,7 @@ featuredVideoMobile: 'https://ucarecdn.com/efd8359c-cedd-46b6-b542-a764f9561f2c/
 imageThumbnail: >-
   https://ucarecdn.com/64ba990b-0523-45bf-9141-0019e9c19685/-/crop/796x598/384,838/-/preview/
 firstName: Cindy
-collection: Women
+collection: Global
 height: 174cm
 measurementType: bust
 bust: 78cm
