@@ -12,7 +12,7 @@ buttonUrl: models/women
 gallery:
   galleryImages:
     - image: >-
-        https://ucarecdn.com/26422f21-deb9-4a9a-a05e-9a1de56aa43a/-/crop/1501x1344/0,0/-/preview/
+        https://ucarecdn.com/4e1af0e0-6b2a-4c35-a43f-33c98ac1336a/-/crop/2228x3330/1042,97/-/preview/
       title: Women
     - image: >-
         https://ucarecdn.com/97f8e6dd-a8e8-4f99-a2c7-e6bb82f003eb/-/crop/1200x1115/0,0/-/preview/
