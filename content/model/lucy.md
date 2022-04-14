@@ -4,7 +4,7 @@ title: Lucy
 featuredImage: >-
   https://ucarecdn.com/f1d09c13-2235-452c-8325-2ed96b063376/-/crop/2449x1246/0,28/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/5cfc4afa-72b9-439f-b7ca-831b1c8fbf7e/-/crop/658x878/446,238/-/preview/
+  https://ucarecdn.com/0bbd5241-db17-4041-a6a2-702bc1acd2de/-/crop/216x304/84,67/-/preview/
 firstName: Lucy
 collection: Women
 height: 167cm
