@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: An Tesh
+title: Tesh
 featuredImage: 'https://ucarecdn.com/b6f59c68-784e-47d2-bc61-e88d7f0cf273/'
 imageThumbnail: >-
   https://ucarecdn.com/c743c98c-4a81-4a2a-98a3-301de8c9c983/-/crop/497x788/411,42/-/preview/
