@@ -4,7 +4,8 @@ title: Amanda
 featuredImage: 'https://ucarecdn.com/ae2d99aa-9a43-4281-a645-3d8c2fac8fae/'
 featuredVideo: ''
 featuredVideoMobile: ''
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/amanda-her-shadow-yes.jpg'
+imageThumbnail: >-
+  https://ucarecdn.com/19bc58bb-8964-48d1-9f28-8bba26ed77d6/-/crop/738x1037/468,324/-/preview/
 thumbnailVideo: ''
 firstName: Amanda
 collection: Women
