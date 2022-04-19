@@ -10,6 +10,7 @@ collection: Boys
 height: 115cm
 measurementType: chest
 bust: 60cm
+waist: 60cm
 hips: 63cm
 size: '6'
 shoeSize: '1'
