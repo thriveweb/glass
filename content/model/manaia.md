@@ -13,7 +13,7 @@ bust: 66cm
 waist: 60cm
 hips: 68cm
 size: '8'
-shoeSize: '13'
+shoeSize: '2'
 hair: Light Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/44258c33-090a-4e7b-9318-24ac26b5cdd5/'
