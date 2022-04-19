@@ -3,18 +3,20 @@ template: ModelPage
 title: Jordy
 featuredImage: >-
   https://ucarecdn.com/07ee896b-92d6-451d-b9b8-f7317f0e58b2/-/crop/801x624/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/a60d36a7-b4b4-4a70-ae05-03b40c59f0c7/'
+imageThumbnail: >-
+  https://ucarecdn.com/05d87cd3-f993-42be-a1ca-29bff6b56d51/-/crop/1360x1848/95,0/-/preview/
 firstName: Jordy
 collection: Boys
-height: 147cm
+height: 160cm
 measurementType: chest
 waist: 58cm
 hips: 58cm
-size: 10-12
+size: 12-14
 shoeSize: '5'
 hair: Blonde
 eyes: Green
 imagePortfolio:
+  - image: 'https://ucarecdn.com/42d16da1-6106-4c93-923c-f38296144754/'
   - image: 'https://ucarecdn.com/93e66d25-2cf9-4209-bc69-aaccb1d5554a/'
   - image: 'https://ucarecdn.com/132560b9-7b12-4608-8857-ea011ef13fe9/'
   - image: 'https://ucarecdn.com/1b219833-3a57-4520-9ede-e3c1583af8b1/'
