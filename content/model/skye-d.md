@@ -7,6 +7,7 @@ imageThumbnail: 'https://ucarecdn.com/a9ac24c5-edb3-4f2b-af92-587c0bda86a9/'
 firstName: Skye D
 collection: Women
 height: 170cm
+measurementType: bust
 bust: 85cm
 waist: 63cm
 hips: 97cm
