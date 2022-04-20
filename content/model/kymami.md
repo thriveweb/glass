@@ -11,7 +11,7 @@ measurementType: bust
 bust: 56cm
 waist: 50cm
 hips: '50cm '
-size: '3'
+size: 3-4
 shoeSize: '8'
 hair: ''
 imagePortfolio:
