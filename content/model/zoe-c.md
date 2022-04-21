@@ -1,8 +1,10 @@
 ---
 template: ModelPage
 title: Zoe C
-featuredImage: 'https://ucarecdn.com/952b1edc-815f-4586-8e60-ba4aad6e0ac7/'
-imageThumbnail: 'https://ucarecdn.com/d7f66ef9-ce52-4bf5-9741-4538909cd759/'
+featuredImage: >-
+  https://ucarecdn.com/fedb4409-208e-45b1-9931-dd36ac1c3175/-/crop/1632x1045/0,116/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/f71b162a-a09f-47e5-8ef1-2621f9762aaf/-/crop/1632x2102/0,0/-/preview/
 firstName: Zoe C
 collection: Girls
 height: 145cm
@@ -15,17 +17,13 @@ shoeSize: '6'
 hair: ' Blonde'
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/5ccc3650-3738-4805-95ab-011e0a28bb07/'
-  - image: 'https://ucarecdn.com/d08879ff-eb06-496e-bcfb-54f13cef8e18/'
-  - image: 'https://ucarecdn.com/ce74d6cd-d021-4d7a-8ff2-9f974825adf2/'
-  - image: 'https://ucarecdn.com/f768ff6b-fd76-430a-8448-68a9d4749c49/'
-  - image: 'https://ucarecdn.com/48523c9c-48e9-4192-9ad1-7d8de60d7ca0/'
-  - image: 'https://ucarecdn.com/010f5017-d14d-45a8-974d-d1fa5ec7c8ab/'
-  - image: 'https://ucarecdn.com/fba60de4-576b-49db-9c02-460d3d9f556f/'
-  - image: 'https://ucarecdn.com/e292c13f-f7a7-467e-a9dd-06b2911a478d/'
+  - image: 'https://ucarecdn.com/5bc93764-3f5e-41e8-bdb4-d0d5ed9fe003/'
+  - image: 'https://ucarecdn.com/3952ba18-a48a-4873-b91a-8227f14908dc/'
+  - image: 'https://ucarecdn.com/cc0a23ec-6040-4d7e-9b65-f5c92a63ff7c/'
+  - image: 'https://ucarecdn.com/3cb321e5-8aa1-4c94-a6c1-7f5359090b49/'
+  - image: 'https://ucarecdn.com/ea8067f0-336c-43e0-add3-efc6a492e971/'
+  - image: 'https://ucarecdn.com/5fa3345b-7eed-438d-8614-3c3d7f4621de/'
   - image: 'https://ucarecdn.com/1a6f3377-d0b3-4b63-95b7-f9ff97764cd3/'
-  - image: 'https://ucarecdn.com/fa8ba5b5-841f-4139-a4a0-4065aed6e0d2/'
-  - image: 'https://ucarecdn.com/74c99d7f-3d46-40bb-b2f8-751a45af6a7e/'
 meta:
   title: Zoe C
 ---
