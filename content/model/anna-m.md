@@ -12,7 +12,7 @@ bust: 91cm
 waist: 79cm
 hips: 99cm
 size: 10-12
-shoeSize: '39'
+shoeSize: '8'
 hair: Blonde
 eyes: Green
 imagePortfolio:
