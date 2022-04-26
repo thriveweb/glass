@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Willow
+title: 'BB Willow '
 featuredImage: >-
   https://ucarecdn.com/78c7ad68-ab6c-402d-aa67-27cd58b3a2e5/-/crop/1648x1015/0,609/-/preview/
 imageThumbnail: >-
