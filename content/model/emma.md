@@ -10,7 +10,7 @@ measurementType: bust
 bust: '34'
 waist: '25'
 hips: '34'
-size: 6-8
+size: '8'
 shoeSize: '6'
 hair: Blonde
 eyes: Blue
