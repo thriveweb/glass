@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/21991c5d-b32e-4e12-9e7a-fc90ad167c7b/-/crop/208x245/47,0/-/preview/
 firstName: Halo-Bee
 collection: Girls
-height: 81cm
+height: 83cm
 measurementType: bust
 bust: 46cm
 waist: 45cm
