@@ -2,7 +2,7 @@
 template: ModelPage
 title: Nevada
 featuredImage: >-
-  https://ucarecdn.com/82771628-9cbd-4549-818a-af99bd4dd689/-/crop/624x363/0,47/-/preview/
+  https://ucarecdn.com/82771628-9cbd-4549-818a-af99bd4dd689/-/crop/624x363/0,19/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/1b5e85a8-f63b-43d3-aa60-66ea13a1ce93/-/crop/274x412/80,118/-/preview/
 firstName: Nevada
