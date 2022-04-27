@@ -11,7 +11,7 @@ measurementType: bust
 bust: 88cm
 waist: 63cm
 hips: 91cm
-size: 6-8
+size: '8'
 shoeSize: '39'
 hair: Blonde
 eyes: Hazel
