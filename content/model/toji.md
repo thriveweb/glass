@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Toji
-featuredImage: 'https://ucarecdn.com/7eb719c2-25c5-41b0-820c-2274d1c34300/'
+featuredImage: >-
+  https://ucarecdn.com/7eb719c2-25c5-41b0-820c-2274d1c34300/-/crop/5462x2244/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/fe6e22ad-c3fe-416b-a41e-31d32b7aa455/'
 firstName: Toji
 collection: Boys
