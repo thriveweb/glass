@@ -2,8 +2,7 @@
 template: ModelPage
 title: Shaleena
 featuredImage: 'https://ucarecdn.com/ce5a43d5-7db1-44fa-8972-a94e97de6456/'
-imageThumbnail: >-
-  https://ucarecdn.com/b5ba97c5-7547-43ca-980f-8908a6d49d20/-/crop/1445x1914/506,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/48c2f7f5-a11e-4b46-a2f0-004b7e9d634a/'
 firstName: Shaleena
 collection: Classic
 height: 177cm
@@ -16,7 +15,7 @@ shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/6387d55c-6bcb-45d6-a6d9-f46d6afa080d/'
+  - image: 'https://ucarecdn.com/ec135533-3584-4f55-889c-bfadc5c192e5/'
   - image: 'https://ucarecdn.com/27c7facb-eea6-4173-8ddd-68825062b1e7/'
   - image: 'https://ucarecdn.com/fbfaacd2-8333-40fa-af0d-028cf188f172/'
   - image: 'https://ucarecdn.com/1a4a93ef-7072-4f8f-8d95-ea7d2523fdb3/'
@@ -25,6 +24,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c46d4395-3969-4aab-8c4f-905d5a0d079b/'
   - image: 'https://ucarecdn.com/1c1bcbcc-2be6-44f7-8b18-d6170e339901/'
   - image: 'https://ucarecdn.com/4613a4b0-32a3-499c-a924-a4d2e4858531/'
+  - image: 'https://ucarecdn.com/5e3d8295-f289-44f6-88a3-6cdc61b212ce/'
   - image: 'https://ucarecdn.com/cce8e325-9e7a-42e9-99b8-13e25287d4dd/'
   - image: 'https://ucarecdn.com/a8ab8824-f1b2-4903-8dfb-8a71a3d3fdc0/'
   - image: 'https://ucarecdn.com/b14d55d1-c093-460b-a0cd-330cfb314b45/'
