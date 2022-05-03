@@ -95,27 +95,31 @@ testimonials:
       content: 'Glad to hear the talent enjoyed themselves, they were truly great!'
       logo: 'https://ucarecdn.com/15695dd1-2155-41a9-b46f-11ebf46f4c80/'
       name: Greta Waters The-Sensory
-    - title: The Pines Shopping Centre
+    - title: Piping Hot
       content: >-
-        Hi
+        Hi Tegan,
+
+         
+
+        We’re really happy with the images and your talent brought super energy
+        to the shoot.
+
+         
+
+        The images will be used for ecommerce, social and digital promotions.
+        We’ll let you know when they go live.
+
+         
+
+        Best,
 
 
-        I wanted to thank you both for yesterday. Tegan, the models were
-        perfect. Little Heanan was a pro! And Nicole was lovely to work with.
+        Amy
 
 
-        I  look forward to receiving the first edit.
-
-
-        Kind regards,
-
-
-        Sarah Davis
-
-
-        Marketing Manager
-      logo: 'https://ucarecdn.com/d752c597-d856-4ee6-ba23-3f10489bc142/'
-      name: Sarah Davis
+        Brand and Marketing Manager
+      logo: 'https://ucarecdn.com/5498937b-dc6e-4b7a-9a60-6c38581bef5c/'
+      name: Amy Low
     - title: Model's mum Tracey
       content: >-
         "Thanks again! You guys have so much energy, passion, experience &
