@@ -35,7 +35,7 @@ teamMembers:
       energetic personality means it's always exciting times ahead for Glass
       Management and always a new idea around the corner!
     image: >-
-      https://ucarecdn.com/1a94f885-e8d9-45b4-aa22-86c49a3b2534/-/crop/2060x3182/2108,0/-/preview/
+      https://ucarecdn.com/d4657014-f9ec-4df8-a9b2-c4451cc62fe1/-/crop/3648x4473/0,0/-/preview/
     leftAlign: true
     subTitle: Our Story
     title: Tegan Glass
@@ -58,17 +58,18 @@ teamMembers:
 
 
       We love you Em!!
-    image: 'https://ucarecdn.com/39fe9baf-28df-4861-b0ee-824fa02dd9d5/'
+    image: >-
+      https://ucarecdn.com/73e95b7e-0581-4274-aebe-f0b475f06d38/-/crop/3648x4891/0,0/-/preview/
     subTitle: There's Nothing This Girl Can't Do
     title: Emily West
   - image: >-
-      https://ucarecdn.com/6f481208-b3ce-4f29-bfa6-91711df76bfc/-/crop/1413x1632/308,0/-/preview/
+      https://ucarecdn.com/b11282d5-27f6-41cc-ab39-e3e5bf3bf278/-/crop/1633x1861/0,374/-/preview/
     leftAlign: true
     subTitle: ''
   - leftAlign: false
     title: Maya
     image: >-
-      https://ucarecdn.com/43f1b418-7cc2-4687-a05b-6145514728bc/-/crop/966x1303/230,135/-/preview/
+      https://ucarecdn.com/ae86f29f-a684-4cbb-af3d-738004708f84/-/crop/3239x4160/0,0/-/preview/
     subTitle: Model Mentor and Coach
     content: >-
       Meet Maya
@@ -88,11 +89,13 @@ teamMembers:
 
       There's not much this girl can't do! Watch this space.
   - leftAlign: true
-    image: 'https://ucarecdn.com/62e591e3-2c7f-4c15-af47-2e511998a296/'
+    image: >-
+      https://ucarecdn.com/b14b826a-1aae-47dc-941e-519c90ea6be1/-/crop/1633x1602/0,420/-/preview/
     title: ''
   - leftAlign: false
     title: Tyra
-    image: 'https://ucarecdn.com/9a8a16f8-04b0-4eb6-9a5d-e1d94af8c417/'
+    image: >-
+      https://ucarecdn.com/682a54db-6d36-4062-b9a2-e9384f890a61/-/crop/3581x4259/0,0/-/preview/
     subTitle: Talent Admin
     content: >-
       Meet Tyra
@@ -152,7 +155,8 @@ teamMembers:
 
 
       Keep an eye out for this one!
-    image: 'https://ucarecdn.com/a8016c98-8e40-4eda-9fb6-ce19c744b513/'
+    image: >-
+      https://ucarecdn.com/d7bbc7e1-7cf3-4b3d-ad05-973b6905cc91/-/crop/3574x4149/0,190/-/preview/
 services:
   content: >-
     Glass Management supplies professional talent for Feature Films, TV
