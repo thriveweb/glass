@@ -114,28 +114,6 @@ teamMembers:
       shoots since birth! In fact, her first job was at one week old on Home and
       Away!
   - leftAlign: true
-    title: Sam
-    image: >-
-      https://ucarecdn.com/f135dbee-fa3a-49cd-90f2-15e118ee8b08/-/crop/257x250/0,0/-/preview/
-    content: >-
-      Meet Sam
-
-
-      Super kind, super savvy and super camera shy (yes... we can't even get a
-      photo of her haha). 
-
-
-      Sam is head of new faces and is our talent scout! Sam answers the daily
-      talent submissions to join our team. 
-
-
-      She runs our Instagram, making sure that everybody is celebrated and feels
-      the love.
-
-
-      Go Team Glass!
-    subTitle: Talent Manager
-  - leftAlign: true
     subTitle: Talent Admin and Assistant Coach
     title: Mikayla
     content: >-
@@ -158,6 +136,28 @@ teamMembers:
       Keep an eye out for this one!
     image: >-
       https://ucarecdn.com/d7bbc7e1-7cf3-4b3d-ad05-973b6905cc91/-/crop/3574x4149/0,190/-/preview/
+  - leftAlign: false
+    title: Sam
+    image: >-
+      https://ucarecdn.com/f135dbee-fa3a-49cd-90f2-15e118ee8b08/-/crop/257x250/0,0/-/preview/
+    content: >-
+      Meet Sam
+
+
+      Super kind, super savvy and super camera shy (yes... we can't even get a
+      photo of her haha). 
+
+
+      Sam is head of new faces and is our talent scout! Sam answers the daily
+      talent submissions to join our team. 
+
+
+      She runs our Instagram, making sure that everybody is celebrated and feels
+      the love.
+
+
+      Go Team Glass!
+    subTitle: Talent Manager
 services:
   content: >-
     Glass Management supplies professional talent for Feature Films, TV
