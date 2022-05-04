@@ -6,7 +6,7 @@ featuredImage: >-
 featuredVideo: 'https://ucarecdn.com/04063278-d496-4c62-875b-5565fc10976a/'
 featuredVideoMobile: 'https://ucarecdn.com/130b8ce4-5592-481b-a123-40d3b0f31d66/'
 imageThumbnail: >-
-  https://ucarecdn.com/ac424040-eb3c-464a-92d1-7e488938771c/-/crop/900x1286/197,261/-/preview/
+  https://ucarecdn.com/48c9c72b-77dd-4eaa-a4de-dac663f7af1e/-/crop/3595x4771/0,650/-/preview/
 firstName: Emily
 collection: Women
 height: 171cm
@@ -20,6 +20,7 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/7a6de352-3f0d-427b-8976-cf85c7a7e3f2/'
+  - image: 'https://ucarecdn.com/cafb5e8d-8fc3-4b78-904e-f5589240ebe9/'
   - image: 'https://ucarecdn.com/cf0b82d7-3c2d-4715-83a2-6634d56cbd58/'
   - image: 'https://ucarecdn.com/6ed10c29-f194-4f5f-8d58-e703de720aa3/'
   - image: 'https://ucarecdn.com/5e09e6b8-b1d8-48dd-ad45-90231d8d5386/'
