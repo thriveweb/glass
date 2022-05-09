@@ -8,12 +8,12 @@ featuredVideoMobile: ''
 imageThumbnail: 'https://ucarecdn.com/57cc4771-050f-4a83-a2a1-fe2ac311c1cf/-/preview/'
 firstName: Bella Rose
 collection: Emerging
-height: 163cm
+height: 168cm
 measurementType: bust
 bust: 81cm
 waist: 63cm
 hips: 83cm
-size: Women's 6
+size: '8'
 shoeSize: 7.5 Adult
 hair: Blonde
 eyes: Blue
