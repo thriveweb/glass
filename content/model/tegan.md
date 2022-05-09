@@ -4,7 +4,7 @@ title: Tegan
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/img_0580.jpg'
 featuredVideo: 'https://ucarecdn.com/dc9aaced-4143-4362-97f1-742d2160bb01/'
 featuredVideoMobile: 'https://ucarecdn.com/ccc8de8e-9f63-4cff-b351-6dca75e994cc/'
-imageThumbnail: 'https://ucarecdn.com/f2415848-1d3d-469d-9731-0c9b76ec813e/'
+imageThumbnail: 'https://ucarecdn.com/bc673d0a-61fb-40d8-983f-f7b20b93a4fe/-/preview/'
 thumbnailVideo: ''
 firstName: Tegan
 collection: Classic
@@ -17,6 +17,9 @@ shoeSize: '7.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/53e07493-99d4-47e3-a227-264eacc6d8ff/'
+  - image: 'https://ucarecdn.com/ceb4703e-e967-4a67-8566-34174c105fc1/'
+  - image: 'https://ucarecdn.com/9875a88d-68f4-4736-838b-60eb9bead913/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tegan.jpg'
   - image: 'https://ucarecdn.com/c2b9e828-b11c-4b74-bbfb-c026396c29de/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_3175.jpg'
