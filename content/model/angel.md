@@ -2,8 +2,8 @@
 template: ModelPage
 title: Angel
 featuredImage: >-
-  https://ucarecdn.com/d4287040-5fd9-48e0-8137-2edf8f4060f2/-/crop/800x423/0,110/-/preview/
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/img_6428-40-crop.jpg'
+  https://ucarecdn.com/6b68e481-dc0e-49ec-ab41-7578d32c33ae/-/crop/2449x1352/0,56/-/preview/
+imageThumbnail: 'https://ucarecdn.com/599cf272-cd80-4cdd-b435-d9a00a9c1f71/'
 firstName: Angel
 collection: Girls
 height: 142cm
