@@ -9,12 +9,13 @@ imageThumbnail: >-
   https://ucarecdn.com/5e4fd051-a904-43b0-b9a1-67eadf4088ba/-/crop/365x429/135,26/-/preview/
 firstName: Kiyan
 collection: Boys
-height: 122cm
+height: 129cm
+measurementType: chest
 bust: 57cm
 waist: 54cm
 hips: 55cm
-size: '6'
-shoeSize: '13'
+size: '7'
+shoeSize: '2'
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
