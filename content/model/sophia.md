@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/33690ab5-1816-4097-81c8-06ddc17d26bd/'
 imageThumbnail: 'https://ucarecdn.com/a83c50e6-4d1a-40be-97e9-0452a9e282ec/'
 firstName: Sophia
 collection: Girls
-height: 126cm
+height: 133cm
 measurementType: bust
-bust: 58cm
+bust: 62cm
 waist: 55cm
-hips: 62cm
+hips: 67cm
 size: '8'
-shoeSize: '2'
+shoeSize: '3'
 hair: Dark Brown
 eyes: Dark Brown
 imagePortfolio:
