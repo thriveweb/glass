@@ -10,6 +10,8 @@ collection: Boys
 height: 142cm
 size: 10/12
 shoeSize: '5'
+hair: Blonde
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/9cae4189-2c2c-4e85-99d1-598a10afa786/'
   - image: 'https://ucarecdn.com/2b55b934-50cd-4f72-8677-2f0a7e02ddbb/'
