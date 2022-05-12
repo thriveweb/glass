@@ -14,7 +14,7 @@ waist: 61cm
 hips: 85cm
 size: '8'
 shoeSize: '9'
-hair: Blonde
+hair: Brunette
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/df930a14-47eb-415a-8ec4-726b8ac441ae/'
