@@ -4,7 +4,7 @@ title: Kolio Family
 featuredImage: 'https://ucarecdn.com/88646893-e887-425f-a03a-680c8defdbb7/'
 imageThumbnail: >-
   https://ucarecdn.com/4c31ed06-28c9-4803-82e6-f26ef9b6f7d3/-/crop/1025x1387/270,475/-/preview/
-firstName: Kolio
+firstName: Kolio Family
 collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/eac81884-4ae2-41f3-91b9-191cbc2ce8ba/'
