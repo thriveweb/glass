@@ -18,9 +18,11 @@ class AsNavFor extends Component {
 		const sliderNav = this.slideNavRef
 		const sliderWidth = sliderNav.offsetWidth
 
-		let scrollPos = direction 
+		let scrollPos = (direction == 1) 
 			? sliderNav.scrollLeft + sliderWidth
 			: sliderNav.scrollLeft - sliderWidth
+
+		console.log("****** ", direction, sliderWidth, scrollPos)
 
 		sliderNav.scroll({
 		  top: 0, 
