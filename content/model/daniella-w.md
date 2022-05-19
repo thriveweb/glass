@@ -4,7 +4,7 @@ title: Daniella W
 featuredImage: >-
   https://ucarecdn.com/61d2e505-c211-4275-970b-cb47485bc16a/-/crop/2364x1203/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/872775c1-65fb-4e39-99ec-3e55fcd436c9/-/crop/320x358/108,0/-/preview/
+  https://ucarecdn.com/9ff6a302-3bf1-45b8-ab47-4c144c0d971c/-/crop/993x1069/422,136/-/preview/
 firstName: Daniella W
 collection: Classic
 height: 173cm
