@@ -4,7 +4,7 @@ title: Daniella W
 featuredImage: >-
   https://ucarecdn.com/61d2e505-c211-4275-970b-cb47485bc16a/-/crop/2364x1203/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/872775c1-65fb-4e39-99ec-3e55fcd436c9/-/crop/320x358/108,0/-/preview/
+  https://ucarecdn.com/9ff6a302-3bf1-45b8-ab47-4c144c0d971c/-/crop/993x1069/422,136/-/preview/
 firstName: Daniella W
 collection: Classic
 height: 173cm
@@ -18,8 +18,10 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/07b09471-b09d-4485-bb64-c630a6783c6a/'
+  - image: 'https://ucarecdn.com/449e2f07-44ec-4350-9eb5-8e6355f6e43a/'
   - image: 'https://ucarecdn.com/6f10c316-1e84-45a0-9e0e-7d51bda887ba/'
   - image: 'https://ucarecdn.com/3ecba666-2e3b-4c55-a965-583070d57aa8/'
+  - image: 'https://ucarecdn.com/b02640a8-6d33-42db-8d80-807c3e119b0c/'
   - image: >-
       https://ucarecdn.com/b2096689-fd9a-406f-92e9-4c9a487ea577/-/crop/1067x1256/0,0/-/preview/
   - image: >-
