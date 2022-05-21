@@ -76,6 +76,7 @@
 	overflow: hidden;
 	white-space: nowrap;
 	transition: all ease-in-out 5s;
+	-webkit-overflow-scrolling: touch;
 }
 
 .section--model-profile-slide {
