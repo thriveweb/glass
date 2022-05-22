@@ -35,9 +35,6 @@ const SingleModel = (props) => {
 		setStartIndex(newStartIndex);
 	}
 
-	console.log("****** ", startIndex, endIndex, currentImage, thumbnails)
-	let activeModel = 0;
-
 	return (
 		<section className='section--model-profile'>
 			<div className='container'>
@@ -99,7 +96,7 @@ const SingleModel = (props) => {
 						{thumbnails && thumbnails.map((portfolioItem, index) => {
 							return <div
 								key={`slider-nav-${index}`}
-								className={`section--model-profile-nav-slide ${activeModel && activeModel === index
+								className={`section--model-profile-nav-slide ${currentImage === portfolioItem.image
 									? 'active'
 									: ''
 									}`}
