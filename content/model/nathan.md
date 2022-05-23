@@ -2,7 +2,7 @@
 template: ModelPage
 title: Nathan
 featuredImage: >-
-  https://ucarecdn.com/dc54bc46-7658-4c98-8cdd-0159a3aabf83/-/crop/2309x1343/0,97/-/preview/
+  https://ucarecdn.com/dc54bc46-7658-4c98-8cdd-0159a3aabf83/-/crop/2297x1217/0,134/-/preview/
 imageThumbnail: 'https://ucarecdn.com/7abb4e31-2865-44ea-8bc3-bed96399b963/'
 firstName: Nathan
 collection: Classic
