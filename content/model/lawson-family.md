@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: 'Lawson Family '
-featuredImage: 'https://ucarecdn.com/2e245a02-1219-4e07-b1cb-38e20cd323c6/'
+featuredImage: >-
+  https://ucarecdn.com/2e245a02-1219-4e07-b1cb-38e20cd323c6/-/crop/2309x1407/0,114/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/cf30c96d-7caa-442d-b427-307a171dff2f/-/crop/974x1732/706,0/-/preview/
 firstName: Lawson Family
