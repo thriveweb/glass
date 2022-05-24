@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/4c2caf26-76c5-45b4-afb8-b21d7912bd47/-/crop/5472x3148/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/880c6378-ba69-410a-9be0-fcc740fd59a9/'
 firstName: Ricki
-collection: Classic
+collection: Global
 height: 175cm
 measurementType: bust
 bust: 84cm
