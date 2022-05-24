@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/98aa220e-76e1-403f-a0bd-e91de29339ef/-/crop/1685x2189/0,0/-/preview/
 firstName: Paul R
-collection: Classic
+collection: Global
 height: 183cm
 measurementType: chest
 bust: 107cm
