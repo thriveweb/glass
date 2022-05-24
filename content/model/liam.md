@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/99c2276f-55e7-4636-ad0c-2dee2805558e/-/crop/4241x4456/0,0/-/preview/
 firstName: Liam
 collection: Boys
-height: 129cm
+height: 147cm
 measurementType: chest
 bust: 64cm
 waist: 60cm
