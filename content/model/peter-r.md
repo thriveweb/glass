@@ -4,7 +4,7 @@ title: Peter R
 featuredImage: 'https://ucarecdn.com/d08ef9f6-b00c-4370-8089-79af0aed72d1/'
 imageThumbnail: 'https://ucarecdn.com/5e3781aa-eb9e-4bb0-8111-1b5d89e3667c/'
 firstName: Peter R
-collection: Classic
+collection: Global
 height: 189cm
 measurementType: chest
 bust: 105cm
