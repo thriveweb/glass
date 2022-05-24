@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/c928f8ca-8872-429d-aa9d-71b93c7070a2/-/crop/1440x776/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/d9dcd844-487b-4f6a-bcba-6a4393b937b2/'
 firstName: Serena
-collection: Women
+collection: Global
 height: 167cm
 measurementType: bust
 bust: 87cm
