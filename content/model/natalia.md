@@ -8,10 +8,10 @@ firstName: Natalia  A
 collection: Girls
 height: 142cm
 measurementType: bust
-bust: 60cm
-waist: 57cm
-hips: 66cm
-size: Dress 8-10
+bust: 71cm
+waist: 66cm
+hips: 84cm
+size: 10-12
 shoeSize: '1'
 hair: Brown
 eyes: Brown
