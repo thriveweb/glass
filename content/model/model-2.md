@@ -8,7 +8,7 @@ imageThumbnail: >-
   https://ucarecdn.com/19bc58bb-8964-48d1-9f28-8bba26ed77d6/-/crop/738x1037/468,324/-/preview/
 thumbnailVideo: ''
 firstName: Amanda
-collection: Women
+collection: Classic
 height: 168cm
 measurementType: bust
 bust: 88cm
