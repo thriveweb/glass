@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/5f771cb5-b8fb-4614-8061-473df498a3c3/-/crop/1464x1632/354,0/-/preview/
 firstName: Jane
-collection: Classic
+collection: Global
 height: 161cm
 measurementType: bust
 bust: 85cm
