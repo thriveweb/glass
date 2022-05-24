@@ -4,7 +4,7 @@ title: David
 featuredImage: 'https://ucarecdn.com/5d51dc00-f04d-4d1e-a5b0-7907ad7bfe0e/'
 imageThumbnail: 'https://ucarecdn.com/6e4e7b8b-b7ef-47a4-9185-64c5ffaf9966/'
 firstName: David
-collection: Classic
+collection: Global
 height: 172cm
 measurementType: chest
 bust: 104cm
