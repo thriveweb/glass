@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/73b48596-d608-4571-b646-975294837136/-/crop/1326x1666/0,0/-/preview/
 firstName: Mia S
-collection: Women
+collection: Global
 height: 171cm
 measurementType: bust
 bust: 81cm
