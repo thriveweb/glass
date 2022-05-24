@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/4b331b5f-4be7-4b06-8a3f-e3b70dcfcf34/'
 imageThumbnail: >-
   https://ucarecdn.com/066d98e2-6384-49b1-9682-285378b9d816/-/crop/1248x1934/117,0/-/preview/
 firstName: Natalie
-collection: Women
+collection: Global
 height: 181cm
 measurementType: bust
 bust: 86cm
