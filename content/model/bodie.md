@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c731201e-53a8-46e8-bc6a-0568331b94d9/-/crop/398x524/204,0/-/preview/
 firstName: Bodie
-collection: Classic
+collection: Global
 height: 183cm
 measurementType: chest
 bust: 91cm
