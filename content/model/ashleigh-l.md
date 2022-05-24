@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/47f03790-0c57-4116-ba0f-c31086970bb5/-/prev
 imageThumbnail: >-
   https://ucarecdn.com/5989bfb3-1931-4367-9cc0-5e3616ac0476/-/crop/2772x2899/1136,0/-/preview/
 firstName: Ashleigh L
-collection: Women
+collection: Classic
 height: 175cm
 measurementType: bust
 bust: 89cm
