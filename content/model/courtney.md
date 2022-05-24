@@ -1,0 +1,29 @@
+---
+template: ModelPage
+title: 'Courtney '
+featuredImage: >-
+  https://ucarecdn.com/4f82b7ec-af66-475b-8085-1d0e6809761a/-/crop/1195x742/0,36/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/58f9a9df-f6ea-4993-941f-56783bfa2edb/-/crop/1323x1920/118,0/-/preview/
+firstName: 'Courtney '
+collection: Women
+height: 171cm
+measurementType: bust
+bust: 84cm
+waist: 65cm
+hips: 86cm
+size: '8'
+shoeSize: '7'
+hair: Dark brown
+eyes: Brown
+imagePortfolio:
+  - image: 'https://ucarecdn.com/120e80c9-a345-4980-9092-f95a00a84cd5/'
+  - image: 'https://ucarecdn.com/c85de41d-cee5-4825-a970-f7be30d1c186/'
+  - image: 'https://ucarecdn.com/e68b9c97-4682-424e-b0e0-9476cf836f90/'
+  - image: 'https://ucarecdn.com/85201174-e5dd-47ae-a232-085052cc47f6/'
+  - image: 'https://ucarecdn.com/41017414-2ee1-45a9-8265-b05399168ad1/'
+  - image: 'https://ucarecdn.com/5884eaf2-1084-4891-9ce7-0058bbd3552b/'
+  - image: 'https://ucarecdn.com/53664c6e-9e78-4c2e-bcca-c6ed5976814e/'
+  - image: 'https://ucarecdn.com/8fab27fb-f47d-4628-ae96-7bcef4ca3fc2/'
+---
+
