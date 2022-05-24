@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/1b9ce449-8d69-43c1-a24a-d94fe8b33435/-/crop/2437x1287/0,45/-/preview/
 imageThumbnail: 'https://ucarecdn.com/9b80eddc-3a76-4870-a283-c1c5316a0040/'
 firstName: Grace
-collection: Classic
+collection: Global
 height: 168cm
 measurementType: bust
 bust: 83cm
