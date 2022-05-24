@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/45a256e8-26f0-43ff-baa8-942072c24453/-/crop/1312x1783/137,0/-/preview/
 firstName: Tyla
-collection: Women
+collection: Emerging
 height: 167cm
 measurementType: bust
 bust: 82cm
