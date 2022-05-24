@@ -4,7 +4,7 @@ title: Ca Olivia M
 featuredImage: >-
   https://ucarecdn.com/de03d430-8eb3-4a0b-81dd-c0ba9c3791b8/-/crop/4946x2655/0,1839/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/6a4cb59b-0e3e-459b-b7f3-77a39647cc8b/-/crop/2790x3808/845,20/-/preview/
+  https://ucarecdn.com/390ecf3a-bccf-413a-ab52-8fbeb3ec2a50/-/crop/3596x5223/314,0/-/preview/
 firstName: Olivia M
 collection: Women
 height: 176cm
