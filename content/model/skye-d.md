@@ -8,9 +8,9 @@ firstName: Skye D
 collection: Women
 height: 170cm
 measurementType: bust
-bust: 85cm
-waist: 63cm
-hips: 97cm
+bust: 92cm
+waist: 71cm
+hips: 102cm
 size: '10'
 shoeSize: '9'
 hair: Black
