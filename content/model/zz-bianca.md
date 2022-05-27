@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: ZZ Bianca
+title: ZZ MELBOURNE Bianca
 featuredImage: 'https://ucarecdn.com/89126d61-5531-45ec-96fb-7010aeb20ecd/'
 imageThumbnail: 'https://ucarecdn.com/5d5b48ca-be08-4835-8ae9-93ac9bcd5bd8/'
-firstName: Bianca
+firstName: MELBOURNE Bianca
 collection: Melbourne
 height: 160cm
 measurementType: bust
