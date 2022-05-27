@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Sketchley Family
+title: Sketchly Family
 featuredImage: >-
   https://ucarecdn.com/c478510d-ed0c-43ac-aa48-04128445b915/-/crop/2449x1258/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/38c4b8ec-692f-40ab-8c09-9dfb367ef2c2/-/crop/1923x1628/403,0/-/preview/
-firstName: Sketchley Family
+firstName: Sketchly Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/7a17522b-b0ba-416b-9a02-d9d060fb2d6a/'
   - image: 'https://ucarecdn.com/26a10a3a-bd28-4f2f-a0c9-bbdd5a2ceedb/'
