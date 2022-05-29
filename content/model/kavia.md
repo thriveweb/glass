@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Kavia
+title: Kaiva
 featuredImage: >-
   https://ucarecdn.com/b0bb6822-9b9e-45c3-a43d-348f0b0e9f2c/-/crop/2365x1214/0,115/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d025068c-d8bc-4cfa-9ec0-b738947c0c9e/-/crop/1735x2072/986,618/-/preview/
-firstName: Kavia
+firstName: Kaiva
 collection: Boys
 size: 13 months
 imagePortfolio:
