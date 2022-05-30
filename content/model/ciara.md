@@ -5,11 +5,11 @@ featuredImage: 'https://glassmanagement.imgix.net/images/uploads/201710284425.jp
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/201710284370crop.jpg'
 firstName: Ciara
 collection: Girls
-height: 142cm
+height: 164cm
 bust: 61cm
 waist: 55.5cm
 hips: 67cm
-size: '8'
+size: '12'
 shoeSize: '3'
 hair: Brown
 eyes: Brown
