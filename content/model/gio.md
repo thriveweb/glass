@@ -3,8 +3,7 @@ template: ModelPage
 title: Gio
 featuredImage: >-
   https://ucarecdn.com/62d597b7-66a3-416c-bc2f-2eff7385563b/-/crop/1626x1796/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/364b64cc-55ad-466e-a608-42a9cbcb4b97/-/crop/644x830/437,264/-/preview/
+imageThumbnail: 'https://ucarecdn.com/cff15f88-baf6-4e28-9a05-3054173bb806/'
 firstName: Gio
 collection: Boys
 height: 122cm
@@ -17,9 +16,14 @@ shoeSize: '1'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/551fbb95-3811-4d5d-86f5-b53f1f09ab9b/'
+  - image: 'https://ucarecdn.com/bc37ef91-f45e-465c-ad0b-c4743e435583/'
+  - image: 'https://ucarecdn.com/d15036e5-02da-4663-9abf-af85f2d76ecd/'
   - image: 'https://ucarecdn.com/bfb89b15-d197-4a3d-b4cb-b312fc60f554/'
   - image: 'https://ucarecdn.com/b0cc1a66-2b4c-4dca-812a-7c62034e1229/'
+  - image: 'https://ucarecdn.com/98ce45cc-c8bc-4168-b07d-00be5a96c060/'
   - image: 'https://ucarecdn.com/5ed78d83-b98e-4e11-a268-601e6ff773c2/'
+  - image: 'https://ucarecdn.com/d7b3895f-c9d4-4042-a351-e64cc7416cc2/'
   - image: 'https://ucarecdn.com/e7284da0-b63d-47cd-9586-cccd072484a6/'
   - image: 'https://ucarecdn.com/1535a66f-0b59-4cc4-a368-6fd57c9f8cda/'
   - image: 'https://ucarecdn.com/86301832-e3ae-4ee8-a876-368361dc5a4d/'
