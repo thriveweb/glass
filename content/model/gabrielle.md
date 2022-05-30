@@ -8,10 +8,10 @@ firstName: Gabrielle
 collection: Classic
 height: 167cm
 measurementType: bust
-bust: 93cm
-waist: 76cm
-hips: 101cm
-size: '12'
+bust: 98cm
+waist: 85cm
+hips: 112cm
+size: '14'
 shoeSize: '7'
 hair: 'Blonde '
 eyes: Hazel
