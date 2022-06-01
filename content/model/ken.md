@@ -12,6 +12,7 @@ measurementType: chest
 bust: 123cm
 waist: 103cm
 hips: 105cm
+size: Shirt XXL Pants 35
 shoeSize: '10'
 hair: Brown
 eyes: Brown
