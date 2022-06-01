@@ -6,14 +6,15 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/6de68a24-781d-4f63-a9da-558b58eee0b1/'
 firstName: 'Sophie '
 collection: Girls
-height: 135cm
+height: 151cm
 measurementType: bust
-bust: 60cm
-waist: 55cm
-hips: 63cm
+bust: 65cm
+waist: 57cm
+hips: 90cm
 size: '10'
 shoeSize: 4 US
 hair: Blonde
+eyes: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/7a7a6c1e-6898-4c42-8e95-1d921a2478c5/'
   - image: 'https://ucarecdn.com/0374ae64-e7bd-46b0-bcda-1287d6df62a1/'
