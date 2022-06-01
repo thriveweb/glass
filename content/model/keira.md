@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/787da453-3086-44bf-942d-5d2be57f2476/-/crop/3369x5075/0,0/-/preview/
 firstName: Keira
 collection: Girls
-height: 119cm
+height: 150cm
 measurementType: bust
-bust: 60cm
-waist: 54cm
-hips: 62cm
-size: '10'
+bust: 73cm
+waist: 64cm
+hips: 69cm
+size: 10/12
 shoeSize: 4 US
 hair: Brown
 eyes: Brown
