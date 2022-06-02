@@ -9,7 +9,7 @@ firstName: Tyra
 collection: Emerging
 height: 168cm
 measurementType: bust
-bust: 82cm
+bust: 85cm
 waist: 61cm
 hips: 88cm
 size: '8'
