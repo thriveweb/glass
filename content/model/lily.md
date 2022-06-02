@@ -9,7 +9,7 @@ firstName: Lily
 collection: Women
 height: 178cm
 measurementType: bust
-bust: ''
+bust: 86cm
 waist: 61cm
 hips: 89cm
 size: 6/8
