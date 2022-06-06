@@ -12,7 +12,7 @@ waist: 69cm
 hips: 92cm
 size: '8'
 shoeSize: '10'
-hair: Blonde
+hair: Brown
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/b70fb4f8-8e5e-4d1d-a8ef-cd2fbe198530/'
