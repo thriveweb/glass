@@ -2,7 +2,7 @@
 template: ModelPage
 title: Dan
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/dan.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/img_4976.jpg'
+imageThumbnail: 'https://ucarecdn.com/67fd6f94-394a-47e1-b315-63445d772588/'
 firstName: Dan
 collection: Men
 height: 179cm
