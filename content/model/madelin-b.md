@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/fb2f3923-fede-44be-adbb-a0cf2e03195d/-/crop/2449x772/0,0/-/preview/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/madelin2476938233.jpg'
 firstName: 'Madelin '
-collection: Global
+collection: Extras
 height: 165cm
 measurementType: bust
 bust: 85cm
