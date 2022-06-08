@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/d7e9734c-59fb-4485-8dd7-4f87d1228118/-/crop/369x472/0,43/-/preview/
 firstName: Loui
-collection: Global
+collection: Extras
 height: '185'
 measurementType: chest
 bust: 102cm
