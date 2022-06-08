@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/20147145-5e50-4987-b85d-311c30a5ff0b/-/crop/424x262/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/a994900b-79dd-4c35-93f8-8b9a24058bea/'
 firstName: Noah F
-collection: Global
+collection: Extras
 height: 180cm
 measurementType: chest
 bust: 110cm
