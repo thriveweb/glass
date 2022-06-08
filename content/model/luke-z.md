@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/312cc535-af14-49ba-80f8-aa14ec2c6ac9/-/crop/4569x5476/226,159/-/preview/
 firstName: Luke Z
-collection: Global
+collection: Classic
 height: 180cm
 measurementType: chest
 bust: 121cm
