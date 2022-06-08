@@ -4,7 +4,7 @@ title: Eloise
 featuredImage: 'https://ucarecdn.com/0c5784bf-b891-4dff-ba95-ed4ba630cd61/'
 imageThumbnail: 'https://ucarecdn.com/393ec748-b812-4120-bc65-9315f4cc8306/'
 firstName: Eloise
-collection: Global
+collection: Extras
 height: 177cm
 measurementType: bust
 bust: 36.5in
