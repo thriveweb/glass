@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/6c534725-ef55-4546-9e52-2560b51c680e/-/crop/424x281/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/aff0cf57-bfee-4f58-8300-44c3877dc833/'
 firstName: Yac
-collection: Global
+collection: Extras
 height: 180cm
 measurementType: chest
 bust: 118cm
