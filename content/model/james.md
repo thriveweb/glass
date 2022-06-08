@@ -4,7 +4,7 @@ title: James
 featuredImage: 'https://ucarecdn.com/81bd6da9-ae9c-45fd-8a2b-599c87d55e26/'
 imageThumbnail: 'https://ucarecdn.com/989c385d-fc15-4182-a179-f1f42f1fb447/'
 firstName: James
-collection: Global
+collection: Extras
 height: 186cm
 measurementType: chest
 bust: 110cm
