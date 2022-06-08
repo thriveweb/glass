@@ -4,7 +4,7 @@ title: Costa
 featuredImage: 'https://ucarecdn.com/a965a864-b117-4509-ae1a-b0416049749f/'
 imageThumbnail: 'https://ucarecdn.com/2d65b1ec-99b2-424e-97fc-4bee965953a8/'
 firstName: Costa
-collection: Global
+collection: Extras
 height: 172cm
 measurementType: chest
 bust: 38inch
