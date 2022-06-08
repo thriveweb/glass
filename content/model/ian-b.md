@@ -4,7 +4,7 @@ title: Ian B
 featuredImage: 'https://ucarecdn.com/359c1ba8-3dd1-4abe-a5f5-d3ccb3756c55/'
 imageThumbnail: 'https://ucarecdn.com/b525967c-dca3-48c7-a364-443ab2005856/'
 firstName: Ian B
-collection: Global
+collection: Extras
 height: 182cm
 measurementType: chest
 bust: 100cm
