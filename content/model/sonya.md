@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/8ef61ccc-1b32-4f58-aa83-524a03333dca/-/crop/1732x1633/0,0/-/preview/
 firstName: Sonya
-collection: Global
+collection: Extras
 height: 177cm
 measurementType: bust
 bust: 98cm
