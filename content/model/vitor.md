@@ -1,10 +1,11 @@
 ---
-title: Vitor
 template: ModelPage
-featuredImage: https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
-imageThumbnail: https://glassmanagement.imgix.net/images/uploads/vitor-bottazzi-39.jpg
+title: Vitor
+featuredImage: >-
+  https://glassmanagement.imgix.net/images/uploads/abstract-analog-art-390089.jpg
+imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/vitor-bottazzi-39.jpg'
 firstName: Vitor
-collection: Global
+collection: Extras
 height: 183cm
 measurementType: chest
 bust: 41inch
@@ -15,7 +16,7 @@ shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: https://glassmanagement.imgix.net/images/uploads/vitor-bottazzi-39.jpg
+  - image: 'https://glassmanagement.imgix.net/images/uploads/vitor-bottazzi-39.jpg'
 meta:
   title: Vitor
 ---
