@@ -4,7 +4,7 @@ title: Kathy
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/kath-4.jpg'
 imageThumbnail: 'https://ucarecdn.com/49e83870-6e75-4ad6-ad5d-bf0c05aeefe1/'
 firstName: Kathy
-collection: Global
+collection: Extras
 height: 165cm
 measurementType: bust
 bust: 106cm
