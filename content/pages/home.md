@@ -33,6 +33,8 @@ gallery:
     - image: >-
         https://ucarecdn.com/90f4f270-1e6c-473a-9399-81391227bbda/-/crop/2018x1159/0,45/-/preview/
       title: Family
+    - title: Actors
+      image: 'https://ucarecdn.com/2707aaea-761f-4018-91b3-0a2a3be426de/'
   subTitle: Our Talent
   title: Explore Our Talent
 about:
