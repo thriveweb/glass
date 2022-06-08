@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/ed3fe27e-d2c1-48db-93a1-a96385ed08ae/-/crop/398x588/119,4/-/preview/
 firstName: Soraya
-collection: Global
+collection: Extras
 height: 170cm
 measurementType: bust
 bust: 84cm
