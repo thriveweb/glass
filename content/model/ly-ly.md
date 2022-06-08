@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/5076f0a6-4274-47ea-a283-d6c22da39377/'
 imageThumbnail: >-
   https://ucarecdn.com/f75b4b46-fe15-455b-b274-2e5089e6c68f/-/crop/760x1038/52,27/-/preview/
 firstName: Ly-Ly
-collection: Global
+collection: Extras
 height: 119cm
 measurementType: bust
 bust: 57cm
