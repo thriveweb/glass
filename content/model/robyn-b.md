@@ -4,7 +4,7 @@ title: Robyn B
 featuredImage: 'https://ucarecdn.com/71c81d57-e4a1-4b37-83c6-23ed4650f537/'
 imageThumbnail: 'https://ucarecdn.com/c0c70e31-630a-4c2e-b628-a5de9e2c5252/'
 firstName: Robyn B
-collection: Global
+collection: Extras
 height: 172cm
 measurementType: bust
 bust: 92cm
