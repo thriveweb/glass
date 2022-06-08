@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/8c985ae3-19c7-44d3-886c-5d363e130325/'
 imageThumbnail: >-
   https://ucarecdn.com/c56219fa-585b-436d-b2c0-9bb940579c48/-/crop/1097x1632/653,0/-/preview/
 firstName: Trent
-collection: Global
+collection: Extras
 height: 174cm
 measurementType: chest
 bust: 111cm
