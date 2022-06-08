@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/c073288d-3aed-4713-9c49-405218fedd1c/'
 imageThumbnail: >-
   https://ucarecdn.com/c219e1f1-3651-4a4e-9959-49b17aec7715/-/crop/1181x1376/847,109/-/preview/
 firstName: Lan
-collection: Global
+collection: Extras
 height: 160cm
 measurementType: bust
 bust: 87cm
