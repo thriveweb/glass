@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/bee5d488-1def-4853-8fad-3988ce9ec31b/-/crop/3818x3648/724,0/-/preview/
 firstName: Hannah D
-collection: Global
+collection: Extras
 height: 152cm
 measurementType: bust
 bust: '81'
