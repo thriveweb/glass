@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/e77eb25e-cf72-4350-9950-c7f4ebf5f762/'
 imageThumbnail: >-
   https://ucarecdn.com/e4fd9b50-0cab-479d-9fb9-6cccc2c0a10c/-/crop/1146x1689/315,0/-/preview/
 firstName: Mabel
-collection: Global
+collection: Extras
 height: 170cm
 measurementType: bust
 bust: 89cm
