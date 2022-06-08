@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/d35d3562-8d8d-4879-a8ff-bde9748a664c/-/crop/2428x1133/21,35/-/preview/
 imageThumbnail: 'https://ucarecdn.com/be7c90ce-2cd5-41d9-847a-ccd6727922cc/'
 firstName: Ethan L
-collection: Global
+collection: Extras
 height: '181.5cm '
 measurementType: chest
 bust: '93cm '
