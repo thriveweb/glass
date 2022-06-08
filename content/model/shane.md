@@ -4,7 +4,7 @@ title: Shane
 featuredImage: 'https://ucarecdn.com/166da19f-53dd-4592-b21e-c2be10091725/'
 imageThumbnail: 'https://ucarecdn.com/930d22de-e6f1-40f1-9936-19bfdf5306a1/'
 firstName: Shane
-collection: Global
+collection: Extras
 measurementType: chest
 size: Pants-36 Shirt-large
 shoeSize: '10'
