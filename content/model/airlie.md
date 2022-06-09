@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/e174f839-b9f4-4b0c-9ce7-d5a89222ffd2/-/crop/570x784/320,0/-/preview/
 firstName: Airlie
 collection: Girls
-height: 130cm
+height: 137cm
 measurementType: bust
 size: '7'
 shoeSize: 3/4
