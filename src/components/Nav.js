@@ -143,7 +143,7 @@ class Nav extends Component {
   }
 
   static defaultProps = {
-    modelTypeOrder: ['Women', 'Men', 'Girls', 'Boys', 'Classic', 'Global']
+    modelTypeOrder: ['Women','Men','Girls','Boys','Emerging','Classic','Family','Actors','Extras','Melbourne']
   }
 }
 

@@ -17,26 +17,26 @@ gallery:
     - image: >-
         https://ucarecdn.com/06a8f2de-0154-47dc-95e7-d98a3a997f18/-/crop/877x1142/601,153/-/preview/
       title: Girls
-    - image: >-
-        https://ucarecdn.com/30f78316-58e3-4c79-ab62-8a4fed1cc008/-/crop/5242x2886/24,363/-/preview/
-      title: Classic
-    - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
-      title: Melbourne
-    - image: >-
-        https://ucarecdn.com/6c3b93ac-887f-4ba5-8a33-fe87f7ad3f2e/-/crop/3450x3771/0,0/-/preview/
-      title: Men
-    - image: >-
-        https://ucarecdn.com/263ede51-a3f4-460b-a6e0-2b590d4baea0/-/crop/1200x1056/0,0/-/preview/
-      title: Boys
     - image: 'https://ucarecdn.com/d026e750-94da-47a1-ac1f-2500bb5cc074/'
       title: Emerging
     - image: >-
         https://ucarecdn.com/90f4f270-1e6c-473a-9399-81391227bbda/-/crop/2018x1159/0,45/-/preview/
       title: Family
-    - title: Actors
-      image: 'https://ucarecdn.com/2707aaea-761f-4018-91b3-0a2a3be426de/'
-    - title: Extras
-      image: 'https://ucarecdn.com/e7f3818f-a1fb-4893-a4d3-985bdd0257be/'
+    - image: 'https://ucarecdn.com/e7f3818f-a1fb-4893-a4d3-985bdd0257be/'
+      title: Extras
+    - image: >-
+        https://ucarecdn.com/6c3b93ac-887f-4ba5-8a33-fe87f7ad3f2e/-/crop/3450x3771/0,0/-/preview/
+      title: Men
+    - image: >-
+        https://ucarecdn.com/263ede51-a3f4-460b-a6e0-2b590d4baea0/-/crop/1200x1056/0,0/-/preview/
+      title: Boys        
+    - image: >-
+        https://ucarecdn.com/30f78316-58e3-4c79-ab62-8a4fed1cc008/-/crop/5242x2886/24,363/-/preview/        
+      title: Classic
+    - image: 'https://ucarecdn.com/2707aaea-761f-4018-91b3-0a2a3be426de/'
+      title: Actors    
+    - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
+      title: Melbourne    
   subTitle: Our Talent
   title: Explore Our Talent
 about:

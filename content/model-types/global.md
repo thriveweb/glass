@@ -2,6 +2,6 @@
 template: ModelsPage
 title: Melbourne
 featuredImage: 'https://ucarecdn.com/54ed5730-e4bd-4d90-9800-a19c3210170c/'
-order: 8
+order: 10
 ---
 
