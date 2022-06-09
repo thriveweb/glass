@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/cff15f88-baf6-4e28-9a05-3054173bb806/'
 firstName: Gio
 collection: Boys
-height: 122cm
+height: 121cm
 measurementType: chest
 bust: 59cm
 waist: 48cm
