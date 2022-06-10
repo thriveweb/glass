@@ -6,6 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/c7cebfaa-8412-4a9e-aa8a-748ad8c47001/-/crop/559x797/1471,84/-/preview/
 firstName: Jordan S
 collection: Boys
+height: 83.5cm
 size: '1'
 hair: Blonde
 eyes: Blue
