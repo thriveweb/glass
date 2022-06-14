@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/dace06e4-f631-4712-889a-0a887c7ed27b/-/crop/1102x1305/451,858/-/preview/
 firstName: Koa
 collection: Boys
-height: 92cm
+height: 99cm
 measurementType: chest
 bust: 60cm
 waist: 49cm
