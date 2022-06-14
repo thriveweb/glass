@@ -2,7 +2,7 @@
 template: ModelPage
 title: Me Tyra
 featuredImage: >-
-  https://ucarecdn.com/1776eb6f-3694-4c20-8a51-0d1962577b7e/-/crop/5049x2769/36,171/-/preview/
+  https://ucarecdn.com/f390ffe0-96bf-4432-9cbf-fe55ecd3eb7a/-/crop/462x349/0,63/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/a2f33747-5b9c-4e45-b2b8-9dde59074d62/-/crop/2620x3946/763,730/-/preview/
 firstName: Tyra
@@ -28,8 +28,5 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/1cacf3f0-02d0-41b3-b837-6e2f61c76156/'
   - image: 'https://ucarecdn.com/76e13b56-2fe8-40c8-8cc6-21f7f4393951/'
   - image: 'https://ucarecdn.com/e564d5e1-c1f4-4f88-9658-ccdea4c3d010/'
-  - image: 'https://ucarecdn.com/be7d6bdc-bd13-4a46-a419-addd09a63c22/'
-  - image: 'https://ucarecdn.com/ace8b4ec-40c9-443c-903e-7773a914cc81/'
-  - image: 'https://ucarecdn.com/6eb7e91b-7d34-41cd-8633-79fef1b0872d/'
 ---
 
