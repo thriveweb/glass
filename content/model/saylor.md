@@ -7,8 +7,8 @@ imageThumbnail: >-
   https://ucarecdn.com/182d06fc-9845-4f62-83dc-553014fa629c/-/crop/771x1070/503,0/-/preview/
 firstName: Saylor
 collection: Girls
-height: 79cm
-size: 18 months
+height: 89cm
+size: '2'
 shoeSize: Infant 6
 hair: Blonde
 eyes: Blue
