@@ -7,9 +7,9 @@ firstName: Joanna
 collection: Women
 height: 177cm
 measurementType: bust
-bust: 81cm
+bust: 84cm
 waist: 69cm
-hips: 92cm
+hips: 95cm
 size: '8'
 shoeSize: '10'
 hair: Brown
