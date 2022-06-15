@@ -9,9 +9,9 @@ firstName: 'Olivia '
 collection: Emerging
 height: 176cm
 measurementType: bust
-bust: 71cm
-waist: 62cm
-hips: 81cm
+bust: 85cm
+waist: 65cm
+hips: 89cm
 size: 6-8
 shoeSize: '8'
 hair: Light Brown
