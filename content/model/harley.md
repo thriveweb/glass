@@ -8,10 +8,10 @@ firstName: Harley
 collection: Men
 height: 183cm
 measurementType: chest
-bust: 96cm
-waist: 77.5cm
-hips: 95.5cm
-size: 32 M/L
+bust: 92cm
+waist: 76cm
+hips: 93cm
+size: 'Shirt: M Pants: 32'
 shoeSize: '10'
 hair: Black
 eyes: Brown
