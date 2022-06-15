@@ -12,7 +12,7 @@ measurementType: chest
 bust: 91cm
 waist: 86cm
 hips: 101cm
-size: Shirt L Pants 34
+size: Shirt L Pants 32
 shoeSize: 12.5 US
 hair: Blonde
 eyes: Blue
