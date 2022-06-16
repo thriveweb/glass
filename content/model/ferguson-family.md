@@ -8,8 +8,10 @@ imageThumbnail: >-
 firstName: Ferguson Family
 collection: Family
 imagePortfolio:
+  - image: 'https://ucarecdn.com/b1ec69e8-a637-4cd0-a6dd-44bc4319736f/'
   - image: 'https://ucarecdn.com/4f845abd-854d-440d-be25-4b55c62091b5/'
   - image: 'https://ucarecdn.com/7f3a9e0e-ed72-4fb6-8c4c-3d19ad62d287/'
+  - image: 'https://ucarecdn.com/77a16b6b-c153-49fe-bf0d-ca06736a33ed/'
   - image: 'https://ucarecdn.com/6c223302-b5f1-493f-846a-7395e368f5da/'
   - image: 'https://ucarecdn.com/43b0e3b2-3607-4074-9413-d329d82f2411/'
   - image: 'https://ucarecdn.com/9c4c0055-74cb-40ac-bb46-30a734c1fe4e/'
