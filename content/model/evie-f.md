@@ -3,7 +3,8 @@ template: ModelPage
 title: Evie F
 featuredImage: >-
   https://ucarecdn.com/6ced59c5-bfd1-401f-952a-5820ec5c896b/-/crop/5472x3005/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/c1e39c74-1ad5-4244-91dd-55a5389e1f6f/'
+imageThumbnail: >-
+  https://ucarecdn.com/f508cf03-48a8-4c9b-96b8-5da287df6ce0/-/crop/1298x1901/162,0/-/preview/
 firstName: Evie F
 collection: Extras
 height: 141cm
