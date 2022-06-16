@@ -3,7 +3,8 @@ template: ModelPage
 title: 'Katy '
 featuredImage: >-
   https://ucarecdn.com/ad5ce652-de03-45b8-8eae-d41a26d1f452/-/crop/1062x449/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/18bccbbf-90e5-46d4-b460-539a9469f841/'
+imageThumbnail: >-
+  https://ucarecdn.com/ef0de8d9-e43d-4218-850f-1489bbdb00c6/-/crop/1519x2261/19,0/-/preview/
 firstName: Katy
 collection: Classic
 height: 170cm
