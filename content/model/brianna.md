@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/a5856ff7-4e4e-4c09-8847-8dbb20c025a8/-/crop/670x729/74,4/-/preview/
 firstName: Brianna
 collection: Global
-height: 176cm
+height: 175cm
 measurementType: bust
-bust: 78cm
-waist: 63cm
-hips: 82cm
+bust: 76cm
+waist: 61cm
+hips: 83cm
 size: '6'
-shoeSize: 7-8
+shoeSize: '7'
 hair: Blonde
 eyes: Aqua
 imagePortfolio:
