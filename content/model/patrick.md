@@ -7,10 +7,10 @@ firstName: Patrick
 collection: Men
 height: 181cm
 measurementType: chest
-bust: 92cm
-waist: 74cm
-hips: 103cm
-size: Shirt L- Pant 34
+bust: 99cm
+waist: 82cm
+hips: 109cm
+size: Shirt XL- Pant 34
 shoeSize: '10'
 hair: Black
 eyes: Brown
