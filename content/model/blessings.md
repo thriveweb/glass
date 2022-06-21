@@ -9,9 +9,9 @@ collection: Men
 height: 194cm
 measurementType: chest
 bust: 111cm
-waist: 86cm
-hips: 114cm
-size: 'Shirt: L/XL   Pants: 34/36'
+waist: 82cm
+hips: 112cm
+size: 'Shirt: XL   Pants: 34/36'
 shoeSize: 12/13
 hair: Black
 eyes: Brown
