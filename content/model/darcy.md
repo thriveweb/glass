@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/be26a21c-07b7-4eaf-abd4-b4ff983e3127/-/crop/640x844/342,134/-/preview/
 firstName: Darcy
-collection: Global
+collection: Classic
 height: 192cm
 measurementType: chest
 bust: 102cm
