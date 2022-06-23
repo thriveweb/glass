@@ -4,7 +4,7 @@ title: Karri
 featuredImage: >-
   https://ucarecdn.com/f88cfa0c-afaf-474d-800d-ce14f3606127/-/crop/2449x1320/0,313/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/fc9901c7-1a11-4479-8e55-a65f2200a6be/-/crop/246x347/102,0/-/preview/
+  https://ucarecdn.com/32fe1ee1-819a-4e6a-abb6-e06cb4917c67/-/crop/2055x2554/735,210/-/preview/
 firstName: Karri
 collection: Women
 height: 173cm
