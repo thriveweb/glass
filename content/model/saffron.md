@@ -14,9 +14,9 @@ measurementType: bust
 bust: 59cm
 waist: 56cm
 hips: 61cm
-size: 6-7 girls
+size: 7-8 girls
 shoeSize: 13 girls
-hair: RED
+hair: Red
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/bcae9c1c-5d37-45fa-a9f6-c018f1d2b8c9/'
