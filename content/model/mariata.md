@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/aa7dcd30-2023-4796-9abf-a55f0fad9b83/-/crop/1633x2208/0,0/-/preview/
 firstName: Mariata
-collection: Extras
+collection: Classic
 height: 5'2
 measurementType: bust
 bust: 34''
