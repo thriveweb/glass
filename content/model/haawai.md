@@ -2,7 +2,7 @@
 template: ModelPage
 title: Haawai
 featuredImage: >-
-  https://ucarecdn.com/ecec5da8-61c5-4e68-b182-15a429223e68/-/crop/1800x768/0,0/-/preview/
+  https://ucarecdn.com/07ec50c6-5394-4a84-9aa2-159e500f6826/-/crop/6720x3249/0,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/b78c1335-6744-4c0a-afc9-63d86451b5a9/'
 imageThumbnail: >-
   https://ucarecdn.com/9ffed8b5-800d-4df5-a0fb-ecb631a14b35/-/crop/1431x1835/271,0/-/preview/
@@ -18,6 +18,7 @@ shoeSize: '4'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/de9fc836-4add-4105-863f-e8a1edc6b8e9/'
   - image: 'https://ucarecdn.com/a5c2d872-bb89-45e7-94fa-e00a9d35a673/'
   - image: 'https://ucarecdn.com/92fe37a5-b96f-4cd4-94b2-222b0d84bde4/'
   - image: 'https://ucarecdn.com/0d595875-52d6-491c-a837-4ec823b0086b/'
@@ -33,6 +34,7 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/83caf624-930e-43e9-84fd-ae19414998ae/-/crop/457x375/983,0/-/preview/
   - image: 'https://ucarecdn.com/cfcb5dc2-d5e2-4492-89e5-df941238b8c3/'
+  - image: 'https://ucarecdn.com/b62769f4-1eaf-47c3-b515-4583e3df7732/'
   - image: 'https://ucarecdn.com/c8ebdf91-d5ce-44e6-836b-64beac7d2d2f/'
   - image: 'https://ucarecdn.com/6153de14-4cae-47b3-944f-6eff706aa443/'
   - image: 'https://ucarecdn.com/b5657193-5104-4601-b9dd-585f00632341/'
