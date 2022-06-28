@@ -3,8 +3,7 @@ template: ModelPage
 title: Leelah
 featuredImage: >-
   https://ucarecdn.com/624937fb-f7e8-4999-8972-7c13ae43b853/-/crop/5472x2655/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/a2c9c35f-627e-4d04-a0e5-95d97cbade72/-/crop/718x926/40,492/-/preview/
+imageThumbnail: 'https://ucarecdn.com/d1b97693-f2bf-43ee-aa00-c6a3ec0ec791/'
 firstName: Leelah
 collection: Emerging
 height: 163cm
