@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Mark
+title: Mark A
 featuredImage: 'https://ucarecdn.com/5c7a142f-869e-4906-a2b6-6ba749f82f2b/'
 imageThumbnail: >-
   https://ucarecdn.com/1b6a5235-45b5-4364-ad45-9233bd2d2c1b/-/crop/1182x1632/652,0/-/preview/
-firstName: Mark
+firstName: Mark A
 collection: Classic
 height: 173cm
 measurementType: chest
