@@ -3,11 +3,12 @@ template: ModelPage
 title: B Rogue
 featuredImage: >-
   https://ucarecdn.com/0b6a2e25-1d55-4448-8552-c7fbbea0463d/-/crop/2220x950/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/f12c63c5-6cee-4c6a-b83b-1379f86b8231/'
+imageThumbnail: >-
+  https://ucarecdn.com/15fd9b55-f422-4b4e-9cf7-44463b690da6/-/crop/920x1041/340,19/-/preview/
 thumbnailVideo: ''
 firstName: Rogue
 collection: Boys
-height: 83cm
+height: 89cm
 measurementType: chest
 bust: 49cm
 waist: 47cm
