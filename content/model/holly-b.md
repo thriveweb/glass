@@ -2,7 +2,7 @@
 template: ModelPage
 title: Holly B
 featuredImage: >-
-  https://ucarecdn.com/b933258e-ad25-4296-9a43-82af96860df4/-/crop/5096x2753/0,0/-/preview/
+  https://ucarecdn.com/b933258e-ad25-4296-9a43-82af96860df4/-/crop/5096x2224/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/31e7ba9d-bd4b-47ab-a60a-6d8ebeaefea6/-/crop/2623x3617/1249,0/-/preview/
 firstName: Holly B
