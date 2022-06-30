@@ -12,7 +12,7 @@ measurementType: bust
 bust: 89cm
 waist: 74cm
 hips: 92cm
-size: '12'
+size: 8-10
 shoeSize: 9-10
 hair: Light Brown
 eyes: Hazel
