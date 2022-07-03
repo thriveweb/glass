@@ -14,7 +14,7 @@ waist: 74cm
 hips: 94cm
 size: 'Shirt: S/M   Pant: 32'
 shoeSize: US10
-hair: Brown
+hair: Black
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/d6e8613b-b290-455c-b642-bbe0e7618e92/'
