@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Tuwangi Family
+title: Tuwangai Family
 featuredImage: >-
   https://ucarecdn.com/7ef8cb3a-fae6-444e-921b-2a1b6e41eb85/-/crop/2448x1235/0,0/-/preview/
 imageThumbnail: >-
@@ -15,7 +15,5 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/13fe26e5-777a-4cc1-8d03-c41c9480a710/'
   - image: 'https://ucarecdn.com/92218249-ff46-4239-ae54-f12ef29e467c/'
   - image: 'https://ucarecdn.com/817a01d5-25a6-4085-ab01-e0ea0183ed4c/'
-  - image: 'https://ucarecdn.com/8172f9f9-3b02-4a76-b0bc-b4c66bef17a2/'
-  - image: 'https://ucarecdn.com/f91ab256-90e1-47f4-be1d-81d31b0a155b/'
 ---
 
