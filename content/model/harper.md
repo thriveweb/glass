@@ -11,8 +11,8 @@ measurementType: bust
 bust: 58cm
 waist: 56cm
 hips: 61cm
-size: '6'
-shoeSize: US 2
+size: 6-7
+shoeSize: '1'
 hair: Black
 eyes: Brown
 imagePortfolio:
