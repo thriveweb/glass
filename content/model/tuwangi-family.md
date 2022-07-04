@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/7ef8cb3a-fae6-444e-921b-2a1b6e41eb85/-/crop/2448x1235/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/7a23cfcc-5fd3-4a55-880f-a684537b11d8/-/crop/1197x1651/215,287/-/preview/
-firstName: Tuwangi Family
+firstName: Tuwangai Family
 collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/99403153-2ad8-48b4-8fba-88ee0e8c4561/'
