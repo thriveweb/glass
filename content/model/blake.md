@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/5129cd01-66da-40fe-96c6-60be426f34a2/-/crop/482x618/715,0/-/preview/
 firstName: 'Blake '
-collection: Men
+collection: Extras
 height: 185cm
 measurementType: chest
 bust: 95cm
