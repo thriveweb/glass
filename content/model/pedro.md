@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/09a220b5-16ea-4445-8433-120a2b8629ec/-/crop/1632x898/0,327/-/preview/
 imageThumbnail: 'https://ucarecdn.com/a283b55e-dad2-4787-985b-7d33c0936cfc/'
 firstName: Pedro
-collection: Men
+collection: Extras
 height: 189cm
 measurementType: chest
 bust: 99cm
