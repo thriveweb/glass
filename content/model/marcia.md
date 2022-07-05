@@ -2,7 +2,7 @@
 template: ModelPage
 title: Marcia
 featuredImage: 'https://ucarecdn.com/19fd6782-98be-4635-a303-74e4b5ae60f5/'
-imageThumbnail: 'https://ucarecdn.com/340d39e0-86ca-427a-9c32-688480dd4502/'
+imageThumbnail: 'https://ucarecdn.com/32e8ec64-521b-44ef-87ee-48023a9a4c9d/'
 firstName: Marcia
 collection: Extras
 height: 157cm
