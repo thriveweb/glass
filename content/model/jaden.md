@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/18b584a7-ada2-4350-b58b-1cffdc6da5cf/-/crop/2449x1117/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/2f69e3eb-e732-44a0-bda2-d9500733aaa5/'
 firstName: Jaden
-collection: Men
+collection: Extras
 height: 175cm
 measurementType: chest
 bust: 101cm
