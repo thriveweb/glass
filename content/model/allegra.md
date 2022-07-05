@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/0c541984-bbba-4829-afe3-589c098867dc/-/crop/1149x1602/203,128/-/preview/
 firstName: Allegra
 collection: Girls
-height: 134cm
+height: 141cm
 measurementType: bust
 bust: 64cm
 waist: 53cm
