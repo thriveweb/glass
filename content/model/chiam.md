@@ -4,7 +4,7 @@ title: Chiam
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/chiam-10-1-.jpg'
 imageThumbnail: 'https://ucarecdn.com/ec563a1f-8e3d-4cd4-9c66-3bbcfb55b97a/'
 firstName: Chiam
-collection: Men
+collection: Extras
 height: 190cm
 measurementType: chest
 bust: 96cm
