@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Karri
-featuredImage: >-
-  https://ucarecdn.com/f88cfa0c-afaf-474d-800d-ce14f3606127/-/crop/2449x1320/0,313/-/preview/
+featuredImage: 'https://ucarecdn.com/e7c355e3-bc33-477f-a399-84297afd565b/'
 imageThumbnail: >-
   https://ucarecdn.com/32fe1ee1-819a-4e6a-abb6-e06cb4917c67/-/crop/2055x2554/735,210/-/preview/
 firstName: Karri
@@ -22,16 +21,16 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/7969530a-30a6-41aa-a7e0-70083f794700/'
   - image: 'https://ucarecdn.com/fe4fe1b1-2e6a-4e42-be5d-9d18a7a81435/'
   - image: 'https://ucarecdn.com/ed66e285-2d7e-4048-b427-e055746de69d/'
-  - image: 'https://ucarecdn.com/c5dc6b8c-3ca2-4111-8115-6dd04757724e/'
+  - image: 'https://ucarecdn.com/04bf1816-5f4f-4ea5-870b-3138dac2af1d/'
   - image: 'https://ucarecdn.com/a347571f-eba0-4ae7-aa70-5ee92c0605c5/'
-  - image: 'https://ucarecdn.com/809b79d6-e4a5-4cb9-8155-16a08308ea50/'
+  - image: 'https://ucarecdn.com/14551ec9-106e-4191-9c33-ca204fa805d0/'
   - image: 'https://ucarecdn.com/2b8b78a9-c8ad-45d6-8d86-16bf200b887a/'
   - image: 'https://ucarecdn.com/20173537-915b-4c70-b21c-fb607b56e96d/'
   - image: 'https://ucarecdn.com/07625c1c-99ac-4c24-a410-e7489221cf52/'
   - image: 'https://ucarecdn.com/a7197815-c291-4026-b947-19a9a077322a/'
   - image: 'https://ucarecdn.com/1c6dcf68-6fd3-4570-bd2a-17769ce16f3f/'
   - image: 'https://ucarecdn.com/9718ce60-eeed-43af-99dd-a1a0b168d657/'
-  - image: 'https://ucarecdn.com/17c44272-ee71-40a7-ac39-2c99891ddea9/'
+  - image: 'https://ucarecdn.com/28efee39-9b9e-405c-a823-574c6d5fed20/'
   - image: 'https://ucarecdn.com/9aee3645-d6a4-4694-8f45-28a5ac577efd/'
   - image: 'https://ucarecdn.com/26f3ba3e-8f77-4aa4-8c00-136e201682fc/'
   - image: 'https://ucarecdn.com/a4c5ab07-8ae9-46f3-ae19-1875d7dfa2c1/'
