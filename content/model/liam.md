@@ -11,7 +11,7 @@ measurementType: chest
 bust: 64cm
 waist: 60cm
 hips: 62cm
-size: '8'
+size: '10'
 shoeSize: 3.5/4
 hair: Blonde
 eyes: Blue
