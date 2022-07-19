@@ -12,14 +12,14 @@ measurementType: bust
 bust: 56cm
 waist: 50cm
 hips: '50cm '
-size: 3-4
+size: '4'
 shoeSize: '8'
 hair: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/ef9f7e88-b8a5-4755-a96f-638744610546/'
   - image: 'https://ucarecdn.com/4f5e7a91-ba50-4ee8-8d1c-ed1cf4e30517/'
   - image: 'https://ucarecdn.com/2db42795-70a4-4dde-ad97-bd84b9587a17/'
-  - image: 'https://ucarecdn.com/a3208f5c-a67a-4b3d-89fb-0e7754d133ba/'
+  - image: 'https://ucarecdn.com/cf00ab26-d0d3-4968-a731-25493414fcf5/'
   - image: 'https://ucarecdn.com/9cb718a6-b732-43be-9354-5dd27769f961/'
   - image: 'https://ucarecdn.com/728bd3da-4d30-4e71-9337-8f6b553d159b/'
   - image: 'https://ucarecdn.com/b1ae04d4-dfdf-4384-86dd-db244d317606/'
