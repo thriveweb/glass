@@ -2,7 +2,7 @@
 template: ModelPage
 title: Lilla Snow
 featuredImage: >-
-  https://ucarecdn.com/c80cb907-d849-4dd2-bf43-0dbaa15d91c9/-/crop/2449x1274/0,0/-/preview/
+  https://ucarecdn.com/6fbde96e-42b3-43ef-b4a8-c9983a978783/-/crop/952x658/0,42/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b3b3d72f-8ec8-439c-bee2-23945c75d4e6/-/crop/1257x1944/170,85/-/preview/
 firstName: Lilla Snow
@@ -19,6 +19,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/6c17d87c-2751-49cd-b773-e87ea9275d7b/'
   - image: 'https://ucarecdn.com/80b08c10-c4a1-462c-8316-b92fdfe386c3/'
+  - image: 'https://ucarecdn.com/c9925e2d-aa28-41b1-91f7-6e2650d59512/'
   - image: 'https://ucarecdn.com/21ddeda8-d01e-4192-938d-eecdd4d989a4/'
   - image: 'https://ucarecdn.com/d6525b02-2b65-4e95-a093-34f512b12876/'
   - image: 'https://ucarecdn.com/baac3ec2-8861-461f-909e-c729a3660fa0/'
