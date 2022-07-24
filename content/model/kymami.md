@@ -18,6 +18,7 @@ hair: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/ef9f7e88-b8a5-4755-a96f-638744610546/'
   - image: 'https://ucarecdn.com/150e4d35-2c53-4447-afa9-06e8ef4fabfa/'
+  - image: 'https://ucarecdn.com/3d3dff68-797d-4ad7-ab86-b7b67c66930f/'
   - image: 'https://ucarecdn.com/0e80bda0-b987-4d76-b54c-bca23f282f4c/'
   - image: 'https://ucarecdn.com/4f5e7a91-ba50-4ee8-8d1c-ed1cf4e30517/'
   - image: 'https://ucarecdn.com/2db42795-70a4-4dde-ad97-bd84b9587a17/'
