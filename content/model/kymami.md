@@ -17,6 +17,8 @@ shoeSize: '8'
 hair: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/ef9f7e88-b8a5-4755-a96f-638744610546/'
+  - image: 'https://ucarecdn.com/150e4d35-2c53-4447-afa9-06e8ef4fabfa/'
+  - image: 'https://ucarecdn.com/0e80bda0-b987-4d76-b54c-bca23f282f4c/'
   - image: 'https://ucarecdn.com/4f5e7a91-ba50-4ee8-8d1c-ed1cf4e30517/'
   - image: 'https://ucarecdn.com/2db42795-70a4-4dde-ad97-bd84b9587a17/'
   - image: 'https://ucarecdn.com/cf00ab26-d0d3-4968-a731-25493414fcf5/'
@@ -40,5 +42,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/74b06a73-bcec-48d9-8e7a-190f4222ce85/'
   - image: 'https://ucarecdn.com/a46b6166-af43-4424-9cc1-abf721212426/'
   - image: 'https://ucarecdn.com/e51cbcf2-b0b8-4ab0-8bee-3b9d12eb5dd1/'
+  - image: 'https://ucarecdn.com/400f74fa-0dff-4a65-a4f8-ac696784ff51/'
 ---
 
