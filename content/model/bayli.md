@@ -11,7 +11,7 @@ height: 135cm
 measurementType: bust
 bust: 61cm
 waist: 58cm
-hips: 65cm
+hips: 64cm
 size: 9/10
 shoeSize: 21/2
 hair: Light Brown
