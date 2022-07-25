@@ -8,8 +8,8 @@ collection: Classic
 measurementType: bust
 size: M
 imagePortfolio:
-  - image: 'https://ucarecdn.com/a552cad3-8976-4ef2-912f-2d45391cec0a/'
   - image: 'https://ucarecdn.com/6567b3ec-a70a-4d3a-bd56-d780abba4c10/'
+  - image: 'https://ucarecdn.com/a552cad3-8976-4ef2-912f-2d45391cec0a/'
   - image: 'https://ucarecdn.com/d50ce564-4a30-4425-b4b6-ba9aeda9692b/'
   - image: 'https://ucarecdn.com/210f7cdc-b42f-4520-aeef-b43077c5e9b3/'
   - image: 'https://ucarecdn.com/69b41684-1929-4f2b-8593-f5a618c6607f/'
