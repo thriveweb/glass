@@ -2,7 +2,8 @@
 template: ModelPage
 title: Jake E
 featuredImage: 'https://ucarecdn.com/003176ba-ba47-476e-952e-18e0113bf67c/'
-imageThumbnail: 'https://ucarecdn.com/73639661-aea6-4fba-b660-126e065aace7/'
+imageThumbnail: >-
+  https://ucarecdn.com/73639661-aea6-4fba-b660-126e065aace7/-/crop/696x948/878,138/-/preview/
 firstName: Jake
 collection: Classic
 measurementType: bust
