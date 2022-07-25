@@ -6,8 +6,15 @@ imageThumbnail: >-
   https://ucarecdn.com/73639661-aea6-4fba-b660-126e065aace7/-/crop/696x948/878,138/-/preview/
 firstName: Jake
 collection: Classic
-measurementType: bust
-size: M
+height: 192cm
+measurementType: chest
+bust: 104cm
+waist: N/A
+hips: N/A
+size: '34'
+shoeSize: '11'
+hair: Dark Brown
+eyes: Blue/Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/6567b3ec-a70a-4d3a-bd56-d780abba4c10/'
   - image: 'https://ucarecdn.com/a552cad3-8976-4ef2-912f-2d45391cec0a/'
