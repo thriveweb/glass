@@ -4,7 +4,7 @@ title: Finn
 featuredImage: 'https://ucarecdn.com/c9e7b6c9-a574-4435-aea5-844661d9416c/'
 imageThumbnail: 'https://ucarecdn.com/8071e5dd-f815-40c8-9007-6e851e22ad1d/'
 firstName: Finn
-collection: ''
+collection: Emerging
 height: 183cm
 measurementType: chest
 bust: 94cm
