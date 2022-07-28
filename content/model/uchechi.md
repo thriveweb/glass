@@ -2,7 +2,7 @@
 template: ModelPage
 title: Uchechi
 featuredImage: >-
-  https://ucarecdn.com/e0607ce4-b427-4f02-a594-c9c199ab585e/-/crop/983x270/18,0/-/preview/
+  https://ucarecdn.com/e0607ce4-b427-4f02-a594-c9c199ab585e/-/crop/540x267/461,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/f1d32fdf-b5c8-4091-bca7-361e0764a8b6/-/crop/1632x1805/0,0/-/preview/
 firstName: Uchechi
