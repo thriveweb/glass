@@ -25,10 +25,11 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-14.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-15.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-5.jpg'
+  - image: 'https://ucarecdn.com/4cb0a197-2e46-439e-a13e-15cae72ed4ec/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-11.jpg'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-9.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-2.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-8.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-7.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-9.jpg'
 ---
 
