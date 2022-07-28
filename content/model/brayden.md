@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Brayden
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/brayden-1.jpg'
+featuredImage: >-
+  https://ucarecdn.com/c19b9bd9-926c-4372-a0f7-4c582c9d9c6a/-/crop/814x493/61,0/-/preview/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/brayden-16.jpg'
 firstName: Brayden
 collection: Men
