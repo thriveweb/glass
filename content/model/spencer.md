@@ -8,9 +8,9 @@ firstName: Spencer
 collection: Classic
 height: 178cm
 measurementType: chest
-bust: 42cm
-waist: 34cm
-hips: 40cm
+bust: 106cm
+waist: 86cm
+hips: 101cm
 size: L
 shoeSize: '10'
 hair: Silverfox
