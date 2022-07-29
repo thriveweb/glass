@@ -12,6 +12,7 @@ measurementType: bust
 bust: 56cm
 waist: 53cm
 hips: 60cm
+size: '5'
 shoeSize: 10US Kids
 hair: Light Brown
 eyes: Brown
