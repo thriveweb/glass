@@ -8,9 +8,9 @@ firstName: Warwick
 collection: Classic
 height: 178cm
 measurementType: chest
-bust: 40 inches
-waist: 34 inches
-hips: 38 inches
+bust: 101cm
+waist: 84cm
+hips: 96cm
 size: M/34
 shoeSize: '12'
 hair: Brown
