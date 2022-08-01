@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/0c8898d9-4d50-4366-8fd4-c9f5bb4899e5/'
 imageThumbnail: >-
   https://ucarecdn.com/f764c236-8321-4a9e-b157-321032d5da60/-/crop/377x330/0,53/-/preview/
 firstName: Joshua K
-collection: Boys
+collection: Emerging
 height: 191cm
 measurementType: chest
 bust: 94cm
