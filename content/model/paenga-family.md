@@ -4,7 +4,7 @@ title: Paenga Family
 featuredImage: >-
   https://ucarecdn.com/4bf4ab7f-1d9b-4bb7-a141-7d8520c19d85/-/crop/2364x850/0,250/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/e1fddfb6-3dcf-43a9-8889-ce6a6c7dbf01/-/crop/509x563/183,95/-/preview/
+  https://ucarecdn.com/ca66c99a-b4f9-465d-8af9-e72f1b6b21d0/-/crop/1627x2178/80,0/-/preview/
 firstName: Paenga Family
 collection: Family
 imagePortfolio:
