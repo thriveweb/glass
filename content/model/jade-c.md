@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Jade C
+title: Jade J
 featuredImage: 'https://ucarecdn.com/14b58e91-8dbb-4509-9a43-c374043b3aad/'
 imageThumbnail: 'https://ucarecdn.com/47f5813f-fb12-4b0f-8940-8cec652b2605/'
-firstName: Jade C
+firstName: Jade J
 collection: Classic
 height: 164cm
 measurementType: bust
