@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/826614c2-fcd2-4124-a91a-64a4b1b28a80/'
 imageThumbnail: >-
   https://ucarecdn.com/b30b962f-c317-49e8-a0d3-406f141385e1/-/crop/500x700/157,0/-/preview/
 firstName: Todd
-collection: Global
+collection: Extras
 height: 178cm
 measurementType: null
 bust: ''
