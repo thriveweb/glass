@@ -8,9 +8,9 @@ firstName: Shauna D
 collection: Classic
 height: 161cm
 measurementType: bust
-bust: 95.4cm
-waist: 100.9cm
-hips: 97.5cm
+bust: 96cm
+waist: 88cm
+hips: 100cm
 size: '14'
 shoeSize: '7'
 hair: Dark Brown
