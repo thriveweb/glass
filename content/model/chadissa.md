@@ -6,11 +6,11 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/553f5aa1-6990-432d-a467-6c270cca1080/'
 firstName: Chadissa
 collection: Classic
-height: 5'7
+height: 170cm
 measurementType: bust
-bust: 37"
-waist: 30"
-hips: 36"
+bust: 94cm
+waist: 76cm
+hips: 91cm
 size: '12'
 shoeSize: '8.5'
 hair: Black
