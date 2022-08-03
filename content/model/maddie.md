@@ -4,7 +4,8 @@ title: Maddie
 featuredImage: >-
   https://ucarecdn.com/a40a5dcb-cc55-42bb-8ee5-d74e13a7d2cf/-/crop/6720x3999/0,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/c2fad80f-26ee-4e05-806e-cea045fb12d1/'
-imageThumbnail: 'https://ucarecdn.com/db3ca3d6-1ede-4611-a5ef-729ce570a06e/'
+imageThumbnail: >-
+  https://ucarecdn.com/09eecdb1-35f2-44c2-b629-b556656dc0ab/-/crop/1169x1627/619,5/-/preview/
 firstName: Maddie
 collection: Girls
 height: 121cm
@@ -17,11 +18,11 @@ shoeSize: '1'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/66ec0399-410c-4289-8740-851071edc202/'
   - image: 'https://ucarecdn.com/b832ae43-e423-451d-bec5-46568c49f7c1/'
   - image: 'https://ucarecdn.com/66f05e3a-1b5e-4507-a76b-5dbece7d8039/'
   - image: 'https://ucarecdn.com/107da08b-f9e3-4565-a42f-5bfbcbb6a460/'
   - image: 'https://ucarecdn.com/87b9143f-e2b6-4e28-9b63-f407cad151ab/'
-  - image: 'https://ucarecdn.com/2a3eeb91-c0f7-44b5-a104-65029516556e/'
   - image: 'https://ucarecdn.com/f6a36e5a-07ed-40a9-9269-e59a68bf0b10/'
   - image: 'https://ucarecdn.com/b8df074e-7dde-4c92-a56a-db1f8d525a76/'
   - image: 'https://ucarecdn.com/915410a8-1dd2-4254-af42-a623544188c8/'
