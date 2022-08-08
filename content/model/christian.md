@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/57266b82-2f93-4401-90e1-b677cb828bce/-/crop/2524x3111/1288,0/-/preview/
 firstName: Christian
 collection: Boys
-height: 162cm
+height: 170cm
 measurementType: chest
 bust: 92cm
 waist: 89cm
 hips: 95cm
-size: '16'
-shoeSize: '10.5'
+size: Mens M
+shoeSize: '11'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
