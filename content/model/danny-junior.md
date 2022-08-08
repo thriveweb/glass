@@ -2,7 +2,7 @@
 template: ModelPage
 title: Danny Junior
 featuredImage: >-
-  https://ucarecdn.com/1e323590-9348-4c11-86a7-23ac6c92b10e/-/crop/1696x1333/0,1038/-/preview/
+  https://ucarecdn.com/1e323590-9348-4c11-86a7-23ac6c92b10e/-/crop/1696x1333/0,872/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/64a0b9a9-5553-4def-8bd5-54fc89311f1f/-/crop/964x1240/429,288/-/preview/
 firstName: Danny Junior
