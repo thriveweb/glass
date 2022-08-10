@@ -9,6 +9,9 @@ firstName: Marian
 collection: Classic
 height: 165cm
 measurementType: bust
+bust: 88cm
+waist: 72cm
+hips: 98cm
 hair: Brown
 eyes: Blue
 imagePortfolio:
