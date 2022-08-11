@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/8242b76a-d8f3-42aa-b2c5-00782277a3e7/-/crop/3117x3374/127,12/-/preview/
 firstName: Hazel
 collection: Girls
-height: 107cm
+height: 127cm
 measurementType: bust
-bust: 53cm
-waist: 52cm
-hips: 59cm
+bust: 56cm
+waist: 56cm
+hips: 66cm
 size: 6-7
 shoeSize: '1'
 hair: Black
