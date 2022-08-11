@@ -7,11 +7,11 @@ firstName: Bec
 collection: Classic
 height: 178cm
 measurementType: bust
-bust: 93cm
-waist: 75cm
-hips: 104cm
-size: '14'
-shoeSize: '9'
+bust: 102cm
+waist: 84cm
+hips: 110cm
+size: '16'
+shoeSize: '10'
 hair: Brunette
 eyes: Brown
 imagePortfolio:
