@@ -6,10 +6,10 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/96156d2f-6b1f-4cfe-9a74-27195ea75e15/'
 firstName: Harper
 collection: Girls
-height: 106cm
+height: 125cm
 measurementType: bust
-bust: 58cm
-waist: 56cm
+bust: 59cm
+waist: 68cm
 hips: 61cm
 size: 6-7
 shoeSize: '1'
