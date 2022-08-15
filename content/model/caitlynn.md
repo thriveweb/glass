@@ -9,9 +9,9 @@ firstName: Caitlynn
 collection: Women
 height: 166cm
 measurementType: bust
-bust: 84cm
-waist: 63cm
-hips: 89cm
+bust: 82cm
+waist: 65cm
+hips: 82cm
 size: '8'
 shoeSize: '9'
 hair: Brunette
