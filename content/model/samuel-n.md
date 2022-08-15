@@ -13,6 +13,8 @@ waist: 89cm
 hips: 110cm
 size: L/34
 shoeSize: '9.5'
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/7cc7a57e-739c-4fcc-a460-a733b59e4ed9/'
   - image: 'https://ucarecdn.com/9348d166-6d32-4d8a-9f34-87b72d367c9b/'
