@@ -7,7 +7,7 @@ imageThumbnail: >-
 firstName: Kairo
 collection: Boys
 height: ''
-size: '1'
+size: '2'
 shoeSize: '6'
 hair: Brown
 imagePortfolio:
