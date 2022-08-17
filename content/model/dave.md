@@ -10,8 +10,8 @@ measurementType: chest
 bust: 100cm
 waist: 84cm
 hips: 105cm
-size: Medium
-shoeSize: UK9
+size: M/32
+shoeSize: US 9.5
 hair: Grey
 eyes: Hazel
 imagePortfolio:
