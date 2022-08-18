@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/b10b851f-3d1c-4f9b-b1e1-37b4ce9cc90d/-/crop/1206x1726/1147,113/-/preview/
 firstName: Maioha
 collection: Girls
-height: 137cm
+height: 138cm
 measurementType: bust
 bust: 68cm
 waist: 66cm
