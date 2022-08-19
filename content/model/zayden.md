@@ -4,7 +4,7 @@ title: Zayden
 featuredImage: >-
   https://ucarecdn.com/c2740e0e-1a91-4066-8575-1d14e5ba79cb/-/crop/2337x1316/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b9ab3115-0e65-4767-a61d-7ab82aae29d7/-/crop/879x1060/336,0/-/preview/
+  https://ucarecdn.com/8d24868b-84e2-4b3e-8dc0-fcecfea80235/-/crop/797x939/742,0/-/preview/
 firstName: Zayden
 collection: Boys
 height: 115cm
