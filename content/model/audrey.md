@@ -4,7 +4,7 @@ title: Audrey
 featuredImage: >-
   https://ucarecdn.com/82bac966-f7ff-4014-bf6d-5ccd0fc47b3b/-/crop/2351x1456/430,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/169aefeb-3de3-42a4-b84d-26674765e059/-/crop/583x664/144,200/-/preview/
+  https://ucarecdn.com/169aefeb-3de3-42a4-b84d-26674765e059/-/crop/532x648/195,200/-/preview/
 firstName: Audrey
 collection: Women
 height: 171cm
