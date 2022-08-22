@@ -6,7 +6,7 @@ featuredImage: >-
 featuredVideo: 'https://ucarecdn.com/83ba95d9-3387-4934-ade3-06c127c6790d/'
 featuredVideoMobile: 'https://ucarecdn.com/9d4ad5f4-848f-4754-8534-a0aff3276759/'
 imageThumbnail: >-
-  https://ucarecdn.com/5e4fd051-a904-43b0-b9a1-67eadf4088ba/-/crop/365x429/135,26/-/preview/
+  https://ucarecdn.com/587f9d55-9713-4827-99a9-50ece8571a20/-/crop/324x334/96,5/-/preview/
 firstName: Kiyan
 collection: Boys
 height: 129cm
