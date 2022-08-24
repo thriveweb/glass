@@ -1,11 +1,12 @@
 ---
 template: ModelPage
-title: Bailey
+title: Bailey M
 featuredImage: >-
   https://ucarecdn.com/edafbcfd-7ebc-4ddc-b61f-2bedd2f19bb2/-/crop/2448x1188/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/70d8cdca-bc16-493f-8be2-9d864a75655d/-/crop/1218x1933/193,156/-/preview/
 firstName: Bailey
+collection: Boys
 height: 147cm
 measurementType: chest
 bust: 70cm
