@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Lochie
-featuredImage: 'https://ucarecdn.com/c4f5572a-122c-48fb-9012-b6678c8ea310/'
+featuredImage: >-
+  https://ucarecdn.com/c4f5572a-122c-48fb-9012-b6678c8ea310/-/crop/2448x1202/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/f71a9e16-0581-40f8-92fd-9e5342af4043/-/crop/1110x1689/272,56/-/preview/
 firstName: Lochie
