@@ -17,6 +17,7 @@ shoeSize: 'EU: 40'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/e03ba734-c280-4e67-a9ca-1f1d35696d13/'
   - image: 'https://ucarecdn.com/a84d7c68-c9a9-436a-9333-35cbcb564100/'
   - image: 'https://ucarecdn.com/f37cf3a1-4eea-4d90-b19a-f2d49b1d9592/'
   - image: 'https://ucarecdn.com/28733001-45b6-4c95-9b32-c4dc7cb51572/'
