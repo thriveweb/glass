@@ -17,6 +17,9 @@ shoeSize: '7'
 hair: Blonde
 eyes: 'Hazel '
 imagePortfolio:
+  - image: 'https://ucarecdn.com/dac1d2fb-c2da-4bcc-b84a-7a5642a6b350/'
+  - image: 'https://ucarecdn.com/6f7e2430-ad26-4c34-aeaa-ea184efda1f0/'
+  - image: 'https://ucarecdn.com/72652b05-62a4-4872-a427-da9d3e83c5bd/'
   - image: 'https://ucarecdn.com/35a5fbf6-c4b4-4525-b01f-ac4051d38051/'
   - image: 'https://ucarecdn.com/79e8d669-28e2-43d8-8f11-330ce4817e55/'
   - image: 'https://ucarecdn.com/c110f497-78d6-4505-b009-4e527e5d9b37/'
