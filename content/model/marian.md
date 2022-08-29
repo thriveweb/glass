@@ -16,7 +16,7 @@ hips: 98cm
 size: 8-10
 shoeSize: '9'
 hair: Brown
-eyes: Blue
+eyes: Dark Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/cb6dcf41-eae8-4c34-bbe8-6a9485d3297c/'
   - image: 'https://ucarecdn.com/2459fabc-83ff-405c-8d81-19d44182c86a/'
