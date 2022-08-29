@@ -12,7 +12,7 @@ bust: 63cm
 waist: 59cm
 hips: 64cm
 size: '10'
-shoeSize: 2/3
+shoeSize: '4'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
