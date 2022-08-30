@@ -14,7 +14,8 @@ waist: 50cm
 hips: '50cm '
 size: '4'
 shoeSize: '8'
-hair: ''
+hair: Light Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/ef9f7e88-b8a5-4755-a96f-638744610546/'
   - image: 'https://ucarecdn.com/150e4d35-2c53-4447-afa9-06e8ef4fabfa/'
