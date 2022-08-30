@@ -4,7 +4,7 @@ title: 'BB Willow '
 featuredImage: >-
   https://ucarecdn.com/78c7ad68-ab6c-402d-aa67-27cd58b3a2e5/-/crop/1648x1015/0,609/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/6a005fc5-c3bc-476b-99c1-06f08eb2ff81/-/crop/1331x2090/301,0/-/preview/
+  https://ucarecdn.com/710120a2-5322-48f3-9ba4-b3dacf7cac6a/-/crop/2753x3568/1475,0/-/preview/
 firstName: Willow
 collection: Emerging
 height: 167cm
@@ -17,8 +17,8 @@ shoeSize: '7'
 hair: Blonde
 eyes: 'Hazel '
 imagePortfolio:
-  - image: 'https://ucarecdn.com/dac1d2fb-c2da-4bcc-b84a-7a5642a6b350/'
   - image: 'https://ucarecdn.com/6f7e2430-ad26-4c34-aeaa-ea184efda1f0/'
+  - image: 'https://ucarecdn.com/dac1d2fb-c2da-4bcc-b84a-7a5642a6b350/'
   - image: 'https://ucarecdn.com/72652b05-62a4-4872-a427-da9d3e83c5bd/'
   - image: 'https://ucarecdn.com/35a5fbf6-c4b4-4525-b01f-ac4051d38051/'
   - image: 'https://ucarecdn.com/79e8d669-28e2-43d8-8f11-330ce4817e55/'
