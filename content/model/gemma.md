@@ -4,7 +4,7 @@ title: Gemma
 featuredImage: >-
   https://ucarecdn.com/1d236f25-578f-4403-bcda-eb4339cbba9e/-/crop/2449x1201/0,111/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c3d44c0b-7fd1-43a1-ae6c-f387de6dde51/-/crop/1185x1589/335,155/-/preview/
+  https://ucarecdn.com/6d8bdbdb-7d24-4422-a6e0-a8e5424937b2/-/crop/282x362/129,17/-/preview/
 firstName: Gemma
 collection: Women
 height: 175cm
