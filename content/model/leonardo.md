@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/485b52d8-6a10-4e79-a3f4-ec732d181ecd/-/crop/590x813/850,107/-/preview/
 firstName: Leonardo
-collection: Emerging
+collection: Extras
 height: 185cm
 measurementType: bust
 bust: 102cm
