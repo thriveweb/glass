@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/d4603110-1de0-4cb7-b601-6872ba54f801/'
 imageThumbnail: >-
   https://ucarecdn.com/67c7329d-fd8e-4e38-8693-5dad1d5a41bf/-/crop/477x703/980,362/-/preview/
 firstName: Darcie
-collection: Women
+collection: Emerging
 height: 165cm
 measurementType: bust
 bust: 86cm
