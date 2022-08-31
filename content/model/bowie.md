@@ -6,11 +6,11 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/eb36170e-7456-4d55-8aa8-5db26a147a50/'
 firstName: Bowie
 collection: Boys
-height: 128cm
+height: 133cm
 measurementType: chest
-bust: 60cm
-waist: 54cm
-hips: 62cm
+bust: 65cm
+waist: 60cm
+hips: 65cm
 size: '10'
 shoeSize: '4'
 hair: Blonde
