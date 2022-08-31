@@ -4,7 +4,7 @@ title: Cherish A
 featuredImage: >-
   https://ucarecdn.com/7d36f3d4-8ca6-497f-a71b-b29abcc29390/-/crop/828x327/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/e6c84f74-f2ac-4595-98c2-1d7046666e28/'
-firstName: Cherish A
+firstName: 'Cherish '
 collection: Women
 height: 174cm
 measurementType: bust
