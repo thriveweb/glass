@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Meranda's Fam
-featuredImage: 'https://ucarecdn.com/69c7f5a6-c157-41f6-8c70-cc12c5384e4a/'
+featuredImage: >-
+  https://ucarecdn.com/69c7f5a6-c157-41f6-8c70-cc12c5384e4a/-/crop/2419x1214/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/c31e9bf1-7767-411d-a568-5a8b421b727f/'
 firstName: Meranda's Fam
 collection: Family
