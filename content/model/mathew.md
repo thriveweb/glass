@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Mathew
+title: Matty
 featuredImage: >-
   https://ucarecdn.com/887eb1c8-6e29-4b98-a863-51ba1b681f10/-/crop/1312x976/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/9f63fc97-d7f5-4273-b56c-1382a22c7db1/-/crop/1348x1697/223,0/-/preview/
-firstName: Mathew
+firstName: Matty
 collection: Men
 height: 186cm
 measurementType: chest
