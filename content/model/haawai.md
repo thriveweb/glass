@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/07ec50c6-5394-4a84-9aa2-159e500f6826/-/crop/6720x3249/0,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/b78c1335-6744-4c0a-afc9-63d86451b5a9/'
 imageThumbnail: >-
-  https://ucarecdn.com/9ffed8b5-800d-4df5-a0fb-ecb631a14b35/-/crop/1431x1835/271,0/-/preview/
+  https://ucarecdn.com/9d1ebd1c-0e71-4b4f-8757-2a5d2bf74b18/-/crop/716x1040/996,119/-/preview/
 firstName: Haawai
 collection: Boys
 height: 125cm
@@ -19,7 +19,10 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/fe6eb4c3-5900-4ce9-8026-77551e738c89/'
+  - image: 'https://ucarecdn.com/f175b193-05f3-4806-9420-558ccbfa687e/'
   - image: 'https://ucarecdn.com/a8dcae60-a916-4ed7-8952-669e666d4c21/'
+  - image: 'https://ucarecdn.com/4c91a129-3ced-4911-8fb0-4b3ceea3e8f5/'
+  - image: 'https://ucarecdn.com/51729f11-b607-44cc-96f6-d8e552455be9/'
   - image: 'https://ucarecdn.com/de9fc836-4add-4105-863f-e8a1edc6b8e9/'
   - image: 'https://ucarecdn.com/fcbeca3c-3479-4499-b6dc-8fdd04e77bb6/'
   - image: 'https://ucarecdn.com/a5c2d872-bb89-45e7-94fa-e00a9d35a673/'
@@ -35,6 +38,7 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/b0566a0a-9ebf-4d27-9a84-840e1962cff1/-/crop/472x375/0,0/-/preview/
   - image: 'https://ucarecdn.com/acb3527f-cfbb-488a-88c7-5e035504ea0c/'
+  - image: 'https://ucarecdn.com/4514dd97-1c96-4e44-b11e-a080c500eb02/'
   - image: >-
       https://ucarecdn.com/83caf624-930e-43e9-84fd-ae19414998ae/-/crop/457x375/983,0/-/preview/
   - image: 'https://ucarecdn.com/cfcb5dc2-d5e2-4492-89e5-df941238b8c3/'
