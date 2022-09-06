@@ -2,7 +2,7 @@
 template: ModelPage
 title: Imari
 featuredImage: >-
-  https://ucarecdn.com/5e1f3f06-cb05-4193-93c7-1c1bb4c7f6fe/-/crop/824x464/0,24/-/preview/
+  https://ucarecdn.com/3c9c169b-a5f3-437e-a9e3-50a2c40a735d/-/crop/2500x1201/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/911f76d2-9666-4e7f-9c7f-248506192b24/-/crop/452x607/151,36/-/preview/
 firstName: Imari
@@ -18,7 +18,9 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/17a1b9ce-e6f6-4a31-bf08-e0f9c5cce31a/'
+  - image: 'https://ucarecdn.com/3e0933c5-623d-49f2-a0b0-4ca95403c867/'
   - image: 'https://ucarecdn.com/a429cd4e-dec2-4c1a-9a4d-8d1ed9ac48ef/'
+  - image: 'https://ucarecdn.com/b3cd7fb4-2341-4db2-9ee1-d0a33e87102a/'
   - image: 'https://ucarecdn.com/96565af8-efe3-4b46-8044-b4320ec261a1/'
   - image: 'https://ucarecdn.com/df654a52-00c9-4ecf-a589-ae5907508ae1/'
   - image: 'https://ucarecdn.com/b97abe16-d5ce-4313-acd4-5468bdad363d/'
