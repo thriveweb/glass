@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/07ec50c6-5394-4a84-9aa2-159e500f6826/-/crop/6720x3249/0,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/b78c1335-6744-4c0a-afc9-63d86451b5a9/'
 imageThumbnail: >-
-  https://ucarecdn.com/9d1ebd1c-0e71-4b4f-8757-2a5d2bf74b18/-/crop/716x1040/996,119/-/preview/
+  https://ucarecdn.com/8c7c6f5b-d16e-4fa5-aac3-d9a345ae19e4/-/crop/501x556/730,168/-/preview/
 firstName: Haawai
 collection: Boys
 height: 125cm
