@@ -4,8 +4,7 @@ title: Maddie
 featuredImage: >-
   https://ucarecdn.com/a40a5dcb-cc55-42bb-8ee5-d74e13a7d2cf/-/crop/6720x3999/0,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/c2fad80f-26ee-4e05-806e-cea045fb12d1/'
-imageThumbnail: >-
-  https://ucarecdn.com/09eecdb1-35f2-44c2-b629-b556656dc0ab/-/crop/1169x1627/619,5/-/preview/
+imageThumbnail: 'https://ucarecdn.com/7e629b5d-c506-44d5-b985-a024f1078dd8/'
 firstName: Maddie
 collection: Girls
 height: 121cm
@@ -18,6 +17,7 @@ shoeSize: '1'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/a672fc30-4c4c-46af-a590-826862636191/'
   - image: 'https://ucarecdn.com/66ec0399-410c-4289-8740-851071edc202/'
   - image: 'https://ucarecdn.com/b832ae43-e423-451d-bec5-46568c49f7c1/'
   - image: 'https://ucarecdn.com/66f05e3a-1b5e-4507-a76b-5dbece7d8039/'
@@ -36,11 +36,11 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/07874a69-d7dc-44ef-9541-8db5f8866cfc/'
   - image: >-
       https://ucarecdn.com/a14de608-7a40-48c8-9282-cd22123d4035/-/crop/576x300/126,0/-/preview/
+  - image: 'https://ucarecdn.com/398b695c-73cb-46e4-990d-bc15f8da892c/'
   - image: 'https://ucarecdn.com/3160e13d-bc76-481c-a0bb-ac07b705c070/'
   - image: 'https://ucarecdn.com/4edeb440-1e1d-432c-a034-a11b71857631/'
   - image: 'https://ucarecdn.com/ba636b99-4dd0-4f13-a47f-4bb02b1666f5/'
   - image: 'https://ucarecdn.com/94e1f284-eb9c-4aea-af72-b84d3ca2319a/'
-  - image: 'https://ucarecdn.com/a672fc30-4c4c-46af-a590-826862636191/'
   - image: 'https://ucarecdn.com/792d6937-d9fb-42ec-adcc-b20637569816/'
   - image: 'https://ucarecdn.com/83b3980e-0b3a-4342-a7a2-2b7b846621cf/'
   - image: 'https://ucarecdn.com/c93c55c0-72e6-41f2-823f-8dfb362f0c0c/'
@@ -53,9 +53,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/517eec93-4459-4603-b672-b97976baa0c1/'
   - image: 'https://ucarecdn.com/5c780f65-7067-4d34-a2ac-04511db122d3/'
   - image: 'https://ucarecdn.com/61dd9757-e517-4cf8-841a-7a83a6a558e0/'
-  - image: 'https://ucarecdn.com/e9310f81-440c-475e-822a-a3f7bcb05cf4/'
   - image: 'https://ucarecdn.com/b8b7aa02-402c-4678-9226-5bbcf31fd26a/'
-  - image: 'https://ucarecdn.com/71f626d3-e8e2-4827-a772-d75a7fd47601/'
+  - image: 'https://ucarecdn.com/533ebb4a-eec0-47f9-953f-1e0c56f8d148/'
   - image: 'https://ucarecdn.com/3a983dd7-91f4-4e61-b69d-d6ac4c02c54d/'
 meta:
   title: Maddie
