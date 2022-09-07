@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/1793ad55-d5a7-4095-9945-2266d12aaf77/-/crop/767x933/524,5/-/preview/
 firstName: Amaia
 collection: Girls
-height: 110cm
+height: 112cm
 measurementType: bust
-bust: 59cm
-waist: 56cm
-hips: 59cm
-size: 4-5
-shoeSize: 10-11
+bust: 66cm
+waist: 63cm
+hips: 67cm
+size: 4-6
+shoeSize: '1'
 hair: Brown
 eyes: Brown
 imagePortfolio:
