@@ -3,7 +3,7 @@ template: ModelPage
 title: Karter
 featuredImage: 'https://ucarecdn.com/1dcead9e-39b7-4258-b1bf-53b573c54022/'
 imageThumbnail: >-
-  https://ucarecdn.com/d065ab66-a395-4bac-9b12-88ab05eca79f/-/crop/894x1080/344,0/-/preview/
+  https://ucarecdn.com/af05fa84-c008-4b07-8d96-5b1f8f7c5dc2/-/crop/1413x1882/217,186/-/preview/
 firstName: Karter
 collection: Boys
 height: 135cm
@@ -16,22 +16,13 @@ shoeSize: '3'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/cbf47820-d628-48db-b6e7-5a416799d530/'
-  - image: 'https://ucarecdn.com/ffd62e71-214d-40de-b134-1a5ccace89c8/'
-  - image: 'https://ucarecdn.com/14ca1acf-38bd-493a-90b4-408d883d7063/'
-  - image: 'https://ucarecdn.com/59aa0303-aa23-4470-85ec-50405beb8e6d/'
-  - image: 'https://ucarecdn.com/2a37c12a-98b4-4610-8232-770f4e934cb4/'
-  - image: 'https://ucarecdn.com/5a196a54-8462-4d16-a555-02f0e1bad2cd/'
-  - image: 'https://ucarecdn.com/683f7cf5-8822-457f-9a12-4364bbfe7433/'
-  - image: 'https://ucarecdn.com/ccbdc662-cfdf-4379-8d25-3ec96a100023/'
-  - image: 'https://ucarecdn.com/812640c6-5874-45ec-9136-17126407861e/'
-  - image: 'https://ucarecdn.com/d18de154-fe82-410c-b2db-4b8fb97b99f4/'
-  - image: 'https://ucarecdn.com/dc82bf05-27fc-46dd-a1ce-df8e3052f557/'
-  - image: 'https://ucarecdn.com/e4dbda31-e0d9-48ad-9fb1-1da00f8f2188/'
-  - image: 'https://ucarecdn.com/4b5ad240-7a19-41dc-b96d-ce0a5f43217a/'
-  - image: 'https://ucarecdn.com/5d1155fa-6551-4859-b1cf-3a686afdb8b1/'
-  - image: 'https://ucarecdn.com/fd5520d4-47c0-43b6-bd08-5a6e70a15814/'
-  - image: 'https://ucarecdn.com/69c27964-47cb-4796-8e4f-6d36bf619870/'
+  - image: 'https://ucarecdn.com/e2b17038-6ca7-435e-a593-5cd8e77a91e1/'
+  - image: 'https://ucarecdn.com/c0ecbc8f-6816-4b9d-b5e6-c6ffa881da51/'
+  - image: 'https://ucarecdn.com/87cf8d1c-017b-43ca-9151-75db2e3ed714/'
+  - image: 'https://ucarecdn.com/6d1d5b0e-32ff-4758-8f66-1af95a76c19f/'
+  - image: 'https://ucarecdn.com/f5942a3a-92d9-4743-8743-0d267b823fcc/'
+  - image: 'https://ucarecdn.com/c21909fe-9cfb-4634-85d2-b49c1cc03eeb/'
+  - image: 'https://ucarecdn.com/956eeca9-1627-4d08-9a84-ff77e75b99c2/'
 meta:
   title: Karter
 ---
