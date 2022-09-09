@@ -3,7 +3,8 @@ template: ModelPage
 title: Dionne
 featuredImage: >-
   https://ucarecdn.com/8b3602a9-5cf4-4ee6-90b0-e217080da30d/-/crop/1242x701/0,161/-/preview/
-imageThumbnail: 'https://ucarecdn.com/754da6ad-6fee-44f9-b523-c1292c8c7d19/'
+imageThumbnail: >-
+  https://ucarecdn.com/d1eac047-5830-46f7-80eb-15938c5b9faf/-/crop/1632x2155/0,0/-/preview/
 firstName: Dionne
 collection: Classic
 height: 160cm
