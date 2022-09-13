@@ -11,7 +11,7 @@ measurementType: chest
 bust: 53cm
 waist: 51cm
 hips: 55cm
-size: '5'
+size: '6'
 shoeSize: US 11
 hair: Blonde
 eyes: Brown
