@@ -12,7 +12,7 @@ measurementType: bust
 bust: 63cm
 waist: 54cm
 hips: 64cm
-size: 8-9
+size: 10-12
 shoeSize: 3-4
 hair: Blonde
 eyes: Blue
