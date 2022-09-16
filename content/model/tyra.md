@@ -10,7 +10,7 @@ height: 168cm
 measurementType: bust
 bust: 85cm
 waist: 61cm
-hips: 88cm
+hips: 90cm
 size: 6-8
 shoeSize: '8'
 hair: Brown
