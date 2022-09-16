@@ -4,7 +4,7 @@ title: Viv
 featuredImage: >-
   https://ucarecdn.com/bc5dd902-73bf-406e-91bc-b96161fbe43f/-/crop/2114x1205/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/d9904220-1d4a-421d-b11a-ceff0bf02448/-/crop/1137x1256/430,109/-/preview/
+  https://ucarecdn.com/9a73c0bc-aac3-43f9-98d7-991fb7d07ab0/-/crop/1486x1365/321,0/-/preview/
 firstName: Viv
 collection: Boys
 height: 152cm
@@ -17,8 +17,10 @@ shoeSize: Mens 8
 hair: Brown
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/75741bd0-c16a-4997-bf4a-760f293e5a99/'
   - image: 'https://ucarecdn.com/a8c11702-eae7-4503-851c-683bfe0b1cdc/'
   - image: 'https://ucarecdn.com/588ba096-19fb-46d7-8be8-f7acd5ef5aad/'
+  - image: 'https://ucarecdn.com/86a8cc33-8405-4164-b5fe-cb528718a47b/'
   - image: 'https://ucarecdn.com/fecab7d2-0553-4868-a5ae-4ce8268ca79f/'
   - image: 'https://ucarecdn.com/078e4057-ba72-4ca0-8bbb-2caff250fda1/'
   - image: 'https://ucarecdn.com/d779a9bc-aae9-4110-a5c4-8391bcc3a52c/'
