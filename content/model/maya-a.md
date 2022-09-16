@@ -13,7 +13,7 @@ measurementType: bust
 bust: 88cm
 waist: 70cm
 hips: '95cm '
-size: Size 8 adult
+size: Size 8-10
 shoeSize: '8'
 hair: Brown
 eyes: Brown
