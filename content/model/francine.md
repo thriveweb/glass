@@ -9,10 +9,10 @@ firstName: Francine
 collection: Classic
 height: 170cm
 measurementType: bust
-bust: 96cm
-waist: 80cm
-hips: 96cm
-size: '10'
+bust: 90cm
+waist: 74cm
+hips: 97cm
+size: 8-10
 shoeSize: '39'
 hair: Brown
 eyes: Brown
