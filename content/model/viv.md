@@ -7,14 +7,14 @@ imageThumbnail: >-
   https://ucarecdn.com/d9904220-1d4a-421d-b11a-ceff0bf02448/-/crop/1137x1256/430,109/-/preview/
 firstName: Viv
 collection: Boys
-height: 147cm
+height: 152cm
 measurementType: chest
-bust: 70cm
-waist: 60cm
-hips: 72cm
-size: 'Shirt: Size 12   Shorts: Size 10'
-shoeSize: 5-6
-hair: Blonde
+bust: 72cm
+waist: 63cm
+hips: 63cm
+size: 'Shirt: 12  Shorts: 10'
+shoeSize: Mens 8
+hair: Brown
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/a8c11702-eae7-4503-851c-683bfe0b1cdc/'
