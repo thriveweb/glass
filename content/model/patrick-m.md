@@ -12,7 +12,7 @@ measurementType: chest
 bust: 56cm
 waist: 54cm
 hips: 63cm
-size: '5'
+size: 5-6
 shoeSize: 12-13
 hair: Brown
 eyes: Green
