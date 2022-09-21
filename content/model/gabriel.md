@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/1f793576-f6fc-4714-a276-2ec0feaac174/-/crop/1000x718/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2e8db915-0945-4012-a71f-dde20a0012c9/-/crop/838x1177/243,0/-/preview/
-firstName: Gabriel
+firstName: ACTOR Gabriel
 collection: Actors
 height: 162cm
 measurementType: chest
