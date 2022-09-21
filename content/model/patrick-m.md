@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/586cac29-561b-4c6a-993b-8e3831612075/-/crop/2516x2838/1553,0/-/preview/
 firstName: Patrick
 collection: Boys
-height: 106cm
+height: 115cm
 measurementType: chest
-bust: 55cm
-waist: 52cm
-hips: 62cm
-size: '4'
-shoeSize: '13'
+bust: 56cm
+waist: 54cm
+hips: 63cm
+size: '5'
+shoeSize: 12-13
 hair: Brown
 eyes: Green
 imagePortfolio:
