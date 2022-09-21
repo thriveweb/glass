@@ -9,6 +9,9 @@ firstName: Airlie
 collection: Girls
 height: 140cm
 measurementType: bust
+bust: 67cm
+waist: 57cm
+hips: 69cm
 size: 8-10
 shoeSize: 3/4
 hair: Blonde
