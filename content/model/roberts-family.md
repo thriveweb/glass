@@ -2,7 +2,7 @@
 template: ModelPage
 title: Roberts Family
 featuredImage: >-
-  https://ucarecdn.com/87560b6b-0df9-409b-aaf5-bdf1487e33de/-/crop/2416x834/0,436/-/preview/
+  https://ucarecdn.com/da24d49f-9be6-4721-be1b-1f5a19096d42/-/crop/815x468/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/505ba2e1-f0bf-4fd8-80d8-113346f1d84e/-/crop/1632x1794/0,450/-/preview/
 firstName: Roberts family
@@ -10,6 +10,8 @@ collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/b5e15eda-9204-4139-9741-9d73ce42e01d/'
   - image: 'https://ucarecdn.com/381c70f9-871b-485d-97b6-eb101a672d02/'
+  - image: >-
+      https://ucarecdn.com/59360943-2dc4-4851-8cd7-acb3f6fc147a/-/crop/822x468/0,0/-/preview/
   - image: 'https://ucarecdn.com/626999e5-663b-4e3f-bd59-decd9451f3fe/'
   - image: 'https://ucarecdn.com/cedd38de-67f3-4ccf-8518-5e9244e47a4b/'
   - image: 'https://ucarecdn.com/08d6f1bb-16b5-4511-9acd-584fe7fc32e7/'
