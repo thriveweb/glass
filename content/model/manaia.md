@@ -12,7 +12,7 @@ measurementType: bust
 bust: 66cm
 waist: 60cm
 hips: 68cm
-size: '8'
+size: '10'
 shoeSize: '2'
 hair: Light Brown
 imagePortfolio:
