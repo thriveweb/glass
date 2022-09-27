@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Alana
+title: Alana M
 featuredImage: >-
   https://ucarecdn.com/d5eae2ad-32c5-4002-92a4-0cd282b2b83f/-/crop/3788x1990/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/e2cebccd-6ce6-430c-bf25-585a6ef01bf5/-/crop/1433x1760/1220,0/-/preview/
-firstName: Alana
+firstName: Alana M
 collection: Classic
 height: 175cm
 measurementType: bust
