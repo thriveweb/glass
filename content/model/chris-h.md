@@ -2,7 +2,7 @@
 template: ModelPage
 title: Chris H
 featuredImage: >-
-  https://ucarecdn.com/591fd2df-2579-4686-8039-d1ca485fd99e/-/crop/5562x2943/0,287/-/preview/
+  https://ucarecdn.com/591fd2df-2579-4686-8039-d1ca485fd99e/-/crop/5562x2805/0,287/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/a382b2b4-a5fe-4de8-bc1b-907f1b7e3138/-/crop/1592x1951/2787,123/-/preview/
 firstName: Chris H
