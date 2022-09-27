@@ -19,12 +19,10 @@ eyes: Brown
 imagePortfolio:
   - image: >-
       https://ucarecdn.com/851f3789-2c67-4f3b-8086-009f37bee1ed/-/preview/-/enhance/53/
-  - image: >-
-      https://ucarecdn.com/70d1f2a7-bf21-4c5f-ae2f-6d6efa83d209/-/crop/757x1247/74,0/-/preview/
   - image: 'https://ucarecdn.com/37523620-7f1b-44ca-aae2-6d9cef2356d3/'
   - image: 'https://ucarecdn.com/8dde13da-c110-47d1-8165-ea7fcca358b9/'
   - image: 'https://ucarecdn.com/e764254b-84a1-4e86-b7b8-877433a6f5ff/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/vusa-fam.jpg'
   - image: 'https://ucarecdn.com/f85fa587-3a76-4de2-a6dd-51106caf0c3a/'
+  - image: 'https://glassmanagement.imgix.net/images/uploads/vusa-fam.jpg'
 ---
 
