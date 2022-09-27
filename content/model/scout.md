@@ -6,13 +6,13 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/570795f2-77fb-4901-8188-6f8d27d5f2c9/'
 firstName: Scout
 collection: Boys
-height: 104cm
+height: 115cm
 measurementType: bust
-bust: 59cm
-waist: 58cm
-hips: 62cm
+bust: 63cm
+waist: 67cm
+hips: 71cm
 size: '4'
-shoeSize: 28/29
+shoeSize: '13'
 hair: Brown
 eyes: Hazel
 imagePortfolio:
