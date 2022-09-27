@@ -7,6 +7,9 @@ imageThumbnail: >-
   https://ucarecdn.com/a382b2b4-a5fe-4de8-bc1b-907f1b7e3138/-/crop/1592x1951/2787,123/-/preview/
 firstName: Chris H
 collection: Classic
+height: 178cm
+size: 'Pants: 34 Shirt: L'
+shoeSize: '9.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
