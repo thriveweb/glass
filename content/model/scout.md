@@ -11,7 +11,7 @@ measurementType: bust
 bust: 63cm
 waist: 67cm
 hips: 71cm
-size: '4'
+size: '7'
 shoeSize: '13'
 hair: Brown
 eyes: Hazel
