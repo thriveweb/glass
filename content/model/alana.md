@@ -17,6 +17,7 @@ shoeSize: '8.5'
 hair: Red
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/8136d1e0-f930-4cc5-b1ed-31244037dd02/'
   - image: 'https://ucarecdn.com/30609c8f-4b9f-4d89-aac8-6644b9048517/'
   - image: 'https://ucarecdn.com/05f32ab0-b2db-4c6c-a08c-b3a2a414d2e9/'
   - image: 'https://ucarecdn.com/50b23993-424e-45fe-a72e-b2526f04af17/'
