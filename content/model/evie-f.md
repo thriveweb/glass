@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/f508cf03-48a8-4c9b-96b8-5da287df6ce0/-/crop/1298x1901/162,0/-/preview/
 firstName: Evie F
 collection: Extras
-height: 141cm
+height: 156cm
 measurementType: bust
 bust: 69cm
-waist: 58cm
+waist: 61cm
 hips: 68cm
-size: Kids 10
+size: '12'
 shoeSize: '5'
 hair: Blonde
 eyes: Hazel
