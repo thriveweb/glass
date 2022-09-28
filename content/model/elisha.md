@@ -12,8 +12,8 @@ measurementType: bust
 bust: 81cm
 waist: 69cm
 hips: 86cm
-size: '7'
-shoeSize: '8'
+size: '8'
+shoeSize: '7'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
