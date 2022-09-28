@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/15491578-3643-40ca-b217-59407ec2c6b3/-/crop/1459x2051/72,0/-/preview/
 firstName: Milly
 collection: Extras
-height: 137cm
+height: 153cm
 measurementType: bust
 bust: 69cm
-waist: 58cm
+waist: 65cm
 hips: 68cm
-size: Kids 8-10
+size: '12'
 shoeSize: '4'
 hair: Blonde
 eyes: Blue
