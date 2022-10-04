@@ -5,11 +5,11 @@ featuredImage: 'https://ucarecdn.com/c36e1402-446d-481c-be0b-78b8781b937b/'
 imageThumbnail: 'https://ucarecdn.com/44b93bf1-77ba-4af8-bc42-14226a6302e2/'
 firstName: Pia
 collection: Classic
-height: 5'7"
+height: 170cm
 measurementType: bust
-bust: '37'
-waist: '31'
-hips: '43'
+bust: 94cm
+waist: 79cm
+hips: 109cm
 size: '12'
 shoeSize: 8/9
 hair: Brown
