@@ -10,7 +10,7 @@ height: 170cm
 measurementType: bust
 bust: 86cm
 waist: 73cm
-hips: '88'
+hips: 88cm
 size: '10'
 shoeSize: '9'
 hair: Blonde
