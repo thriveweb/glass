@@ -3,7 +3,7 @@ template: ModelPage
 title: Pippah
 featuredImage: >-
   https://ucarecdn.com/487ec4cb-692f-41d7-a178-311abe8386eb/-/crop/1800x1127/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/835c3798-d972-4781-be2e-d03c8f029067/'
+imageThumbnail: 'https://ucarecdn.com/27aa7a3e-beb4-4c5c-8798-8bc987bd5008/'
 firstName: Pippah
 collection: Girls
 height: 118cm
