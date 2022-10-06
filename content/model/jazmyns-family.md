@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jazmyn's Family
 featuredImage: >-
-  https://ucarecdn.com/ccb2cd15-0a72-4772-b76a-ba8dcb4a4b5c/-/crop/2611x1849/0,370/-/preview/
+  https://ucarecdn.com/4522ca6c-3552-49cc-a535-debdb33956d6/-/crop/2273x1573/0,216/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2b90c714-b825-4e30-ad31-d1f321b3c353/-/crop/2130x2566/0,57/-/preview/
 firstName: Jazmyn's Family
