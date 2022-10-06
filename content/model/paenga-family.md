@@ -9,6 +9,7 @@ firstName: Paenga Family
 collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/b42f2961-189f-4cbb-ab34-7dd3cba5e082/'
+  - image: 'https://ucarecdn.com/cb62d37c-6d98-49a5-b8e2-f76920e14a37/'
   - image: 'https://ucarecdn.com/70d3dc5d-9a86-4897-b225-81a49bd8b2e5/'
   - image: 'https://ucarecdn.com/8250c9e5-adf6-41bc-ad9d-c9d1d61d18e9/'
   - image: 'https://ucarecdn.com/514eec46-80e5-477a-abf1-9020e84b2ce1/'
