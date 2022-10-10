@@ -6,6 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/ce96ca0a-837d-45ae-88b8-77413d88671f/-/crop/803x1010/159,31/-/preview/
 firstName: MELBOURNE Phoenix
+collection: Melbourne
 hair: 'Dark Brown '
 eyes: Brown
 ---
