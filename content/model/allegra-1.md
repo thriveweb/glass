@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'Allegra '
+title: Allegra V
 featuredImage: >-
   https://ucarecdn.com/7f233fa1-4c06-4d49-b7a7-53554f90d0f4/-/crop/1076x895/0,116/-/preview/
 imageThumbnail: >-
