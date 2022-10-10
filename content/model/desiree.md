@@ -7,5 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/08e8fd67-03b5-433e-8ae5-4ed4b0a23c7f/-/crop/914x1154/94,137/-/preview/
 firstName: MELBOURNE Desiree
 collection: Melbourne
+hair: 'Dirty Blonde '
+eyes: Blue
 ---
 
