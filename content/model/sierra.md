@@ -6,6 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/aa03dcf6-51b5-4b2c-9283-de646d263fe3/-/crop/800x1012/159,61/-/preview/
 firstName: 'MELBOURNE Sierra '
+collection: Melbourne
 hair: Light Brown
 eyes: 'Brown '
 ---
