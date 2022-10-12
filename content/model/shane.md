@@ -6,6 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/12a4a1cb-a98b-454a-ad18-c9df6b3e6c4c/-/crop/1524x2261/11,0/-/preview/
 firstName: Shane
 collection: Extras
+height: 5'11
 measurementType: chest
 size: Pants-36 Shirt-large
 shoeSize: '10'
