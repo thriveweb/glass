@@ -6,11 +6,11 @@ imageThumbnail: >-
   https://ucarecdn.com/311f1c57-abce-4fbf-a578-19fad6decc56/-/crop/696x988/286,252/-/preview/
 firstName: Ella S
 collection: Emerging
-height: 160cm
+height: 172cm
 measurementType: bust
-bust: 73cm
+bust: 86cm
 waist: 64cm
-hips: 82cm
+hips: 86cm
 size: 12-14
 shoeSize: '7'
 hair: Brown
