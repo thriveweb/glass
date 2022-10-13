@@ -11,6 +11,7 @@ measurementType: null
 bust: ''
 waist: 117cm
 size: L/XL
+shoeSize: '10.5'
 hair: Silverfox
 eyes: Blue
 imagePortfolio:
