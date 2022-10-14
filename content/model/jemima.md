@@ -32,7 +32,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/6696747f-206f-4788-bd7f-80f4bca77ec1/'
   - image: 'https://ucarecdn.com/e44c0ecd-0f3d-4602-a60e-b022cb5eda39/'
   - image: 'https://ucarecdn.com/d03e6bf5-fba0-4025-b688-06d920669cce/'
-  - image: 'https://ucarecdn.com/480405cc-d8b8-41b5-99b8-de1e8cd606e1/'
+  - image: 'https://ucarecdn.com/096ad3e4-d1de-4000-92c0-89fbf224d214/'
   - image: 'https://ucarecdn.com/abf36438-edd0-4bc1-a7b3-d0d8907dc514/'
   - image: 'https://ucarecdn.com/315a6c41-9a2d-497b-a64b-5c5afa24303a/'
   - image: 'https://ucarecdn.com/ef90efe9-42de-4561-841a-0e75673d38ee/'
