@@ -9,7 +9,7 @@ firstName: Hannah D
 collection: Extras
 height: 152cm
 measurementType: bust
-bust: '81'
+bust: 81cm
 waist: 69cm
 hips: 90cm
 size: Ladies 8
