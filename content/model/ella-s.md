@@ -11,8 +11,8 @@ measurementType: bust
 bust: 86cm
 waist: 64cm
 hips: 86cm
-size: 12-14
-shoeSize: '7'
+size: Ladies 6-8
+shoeSize: '8'
 hair: Brown
 eyes: Green
 imagePortfolio:
