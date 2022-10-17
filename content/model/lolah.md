@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Lolah
-featuredImage: >-
-  https://ucarecdn.com/58e15285-e509-4d5b-85c2-225b9d3aef1c/-/crop/5472x2872/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/e33550e3-d57a-45de-b99e-ce25f76921d5/'
 imageThumbnail: >-
   https://ucarecdn.com/d6bdedb1-98f9-4fbb-be23-846e80518570/-/crop/3149x4630/499,0/-/preview/
 firstName: Lolah
