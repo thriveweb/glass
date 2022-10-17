@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Lyla
-featuredImage: >-
-  https://ucarecdn.com/d8ca78cd-901d-42f8-8f2d-bde9656b3b31/-/crop/1920x703/0,28/-/preview/
+featuredImage: 'https://ucarecdn.com/cd80b9a6-336e-4b52-8a81-6445d179406b/'
 imageThumbnail: >-
   https://ucarecdn.com/8e200b2d-7f87-422c-a1c5-0726f9df027d/-/crop/1007x1103/482,0/-/preview/
 firstName: Lyla
@@ -18,12 +17,14 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/c059a44b-42bd-43f1-882b-39fc7d8d3d43/'
+  - image: 'https://ucarecdn.com/ac0b778c-de67-4fec-b9ad-ede1281b1464/'
   - image: 'https://ucarecdn.com/0b7d738a-313a-4ef4-8456-a2f18bb52dde/'
   - image: 'https://ucarecdn.com/27d08441-d8b9-4dd0-a79a-312787e43872/'
   - image: 'https://ucarecdn.com/71dbf1d4-b323-4a46-8c5f-272d9399fa86/'
   - image: 'https://ucarecdn.com/be0807fb-67ba-4123-a244-ce67f4a088da/'
   - image: 'https://ucarecdn.com/57ca1b57-4969-4bdc-852a-3283c12bd54c/'
   - image: 'https://ucarecdn.com/8ece05c7-64e5-4144-a463-bab153de9849/'
+  - image: 'https://ucarecdn.com/94b26b36-1186-491c-9c3c-97f68fac898b/'
   - image: 'https://ucarecdn.com/49fdc78e-4f2f-4303-a57c-58f52204bd67/'
   - image: 'https://ucarecdn.com/21e2bad9-200e-47eb-8741-e5a9106ce991/'
   - image: 'https://ucarecdn.com/d015d81b-0f11-497c-beee-ade39465a06f/'
