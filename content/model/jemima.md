@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Jemima
-featuredImage: >-
-  https://ucarecdn.com/130756f0-fc12-4181-91d1-ccd064960156/-/crop/2449x1487/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/243d366d-55af-4c77-bde8-1f9507de77ec/'
 imageThumbnail: 'https://ucarecdn.com/3142c96c-5024-4727-9173-0eb09b3b9552/'
 firstName: Jemima
 collection: Girls
@@ -18,6 +17,7 @@ eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/b703dc94-18dd-4d00-8157-aac5e2489b0f/'
   - image: 'https://ucarecdn.com/1d554555-ef26-4709-a0a6-6181ef576623/'
+  - image: 'https://ucarecdn.com/894197a7-068f-46b3-ad03-37760c4d9f03/'
   - image: 'https://ucarecdn.com/c5a7b1cc-5be8-4afe-b24b-8c9ed9432291/'
   - image: 'https://ucarecdn.com/db7383a2-0d49-4f56-a48f-a402b5c22492/'
   - image: 'https://ucarecdn.com/e6fc1762-14de-43b0-b794-068355ef0926/'
