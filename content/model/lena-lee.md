@@ -11,7 +11,7 @@ bust: 99cm
 waist: 79cm
 hips: 104cm
 size: '14'
-shoeSize: '8'
+shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
