@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Caitlynn
-featuredImage: 'https://ucarecdn.com/692b6cba-0003-4282-b087-46941015fe95/'
+featuredImage: >-
+  https://ucarecdn.com/d3512434-9f6c-4e0c-99f0-32225183dacb/-/crop/2736x1566/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/ea131ded-b2dc-4d17-b558-722c76aba44f/-/crop/980x1217/419,64/-/preview/
 firstName: Caitlynn
