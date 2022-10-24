@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/18d66dbb-47fb-4e06-8977-c7b125d14b6b/-/crop/557x679/889,111/-/preview/
 firstName: 'Eva '
 collection: Girls
-size: '6'
+size: '18 Months '
 hair: 'Dark Brown '
 eyes: Dark Brown
 imagePortfolio:
