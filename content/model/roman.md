@@ -4,7 +4,7 @@ title: 'Roman '
 featuredImage: >-
   https://ucarecdn.com/8b0cdb4a-39ec-4034-9050-f3584f818434/-/crop/1788x1212/0,70/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/04f29889-dc68-48ed-872d-496fd81a3318/-/crop/667x964/581,187/-/preview/
+  https://ucarecdn.com/b7cbb43c-8abc-408e-a476-30e26dd1b806/-/crop/1267x1789/215,0/-/preview/
 firstName: Roman
 collection: Boys
 height: 116cm
@@ -17,25 +17,22 @@ shoeSize: 12-13
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/615ce188-0abe-46cf-ace6-1656ff7049fd/'
+  - image: 'https://ucarecdn.com/b1dec1ed-8497-449a-be32-576ef66620af/'
   - image: 'https://ucarecdn.com/3303032d-832a-4ada-ada6-db39e61dabcd/'
   - image: 'https://ucarecdn.com/e761f9a4-ae90-4043-a6f3-52d9a63ac1a7/'
+  - image: 'https://ucarecdn.com/eadcba5f-c51f-4813-ae00-f3bc35214928/'
   - image: 'https://ucarecdn.com/8a4e9d93-28c7-4247-baa8-9eb655f85278/'
   - image: 'https://ucarecdn.com/92a8841e-2499-4b02-b39d-f16e000c3a2f/'
   - image: 'https://ucarecdn.com/436092c4-df8e-4c72-9483-df0d5523f47d/'
   - image: 'https://ucarecdn.com/b643633f-56de-499e-a0a2-9bb7d8f65661/'
+  - image: 'https://ucarecdn.com/b357f1eb-5460-4912-8dcb-70b0e0c907ec/'
   - image: 'https://ucarecdn.com/8cf72d42-d152-4441-a45a-5ae1fb78b74b/'
   - image: 'https://ucarecdn.com/f66eeec3-bf6e-4d83-97c8-a7b8b9e99c12/'
   - image: 'https://ucarecdn.com/df22f32e-810c-4105-82a0-2743d3772c79/'
   - image: 'https://ucarecdn.com/d1f310c6-1ea1-4fc6-bad8-57292fbd1c05/'
   - image: 'https://ucarecdn.com/8e132b01-c7d7-47f0-804b-0d84ac080211/'
   - image: 'https://ucarecdn.com/969790d8-300a-48f8-a38c-af5dd72e8b0b/'
-  - image: 'https://ucarecdn.com/0edec54e-8709-4edb-a502-ae56f2003d11/'
-  - image: 'https://ucarecdn.com/be687a36-ae9d-4540-b55f-88c6c7444841/'
-  - image: 'https://ucarecdn.com/99829bd2-28d3-49fe-b822-761b38d77c11/'
-  - image: 'https://ucarecdn.com/8c43e095-570b-466f-b4fe-34d61324c4ab/'
-  - image: 'https://ucarecdn.com/07fb9a2e-2bc1-4448-8dbb-a45bab349566/'
-  - image: 'https://ucarecdn.com/6915d35c-a827-48d9-ad8f-69f39fcf08bd/'
-  - image: 'https://ucarecdn.com/20e50caf-2b49-42a6-97ac-81e71cd9d17e/'
   - image: 'https://ucarecdn.com/42cf52a1-5a82-466a-a578-d9fdb7a245e3/'
   - image: 'https://ucarecdn.com/d64fab43-0e17-43e8-8925-4813e5e8d2ba/'
   - image: 'https://ucarecdn.com/99ece63a-82b8-4b0b-91d8-b38227b92c9d/'
@@ -48,5 +45,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b7bf9df9-09a2-4612-a882-c5d251d6dda5/'
   - image: 'https://ucarecdn.com/2caac3c4-85fe-49f8-ad8b-a81dea51c330/'
   - image: 'https://ucarecdn.com/c323f77a-55e8-4300-92d6-323e2f3b7e9a/'
+  - image: 'https://ucarecdn.com/dd28b5b1-b871-4c21-8292-9dbe459537aa/'
+  - image: 'https://ucarecdn.com/d91bb461-3511-4020-bd95-12d14cace55d/'
+  - image: 'https://ucarecdn.com/1d27b222-9361-4bbf-9ef9-20d7035fc004/'
 ---
 
