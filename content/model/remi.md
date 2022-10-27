@@ -8,8 +8,8 @@ imageThumbnail: >-
 firstName: Remi
 collection: Girls
 height: 92cm
-size: 2-3
-shoeSize: 6-7
+size: '3'
+shoeSize: '7'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
