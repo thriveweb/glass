@@ -8,8 +8,9 @@ firstName: Kairo
 collection: Boys
 height: ''
 size: '2'
-shoeSize: '6'
+shoeSize: '7'
 hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/85f031ec-23fd-45a3-b7c3-ba994121edf6/'
   - image: 'https://ucarecdn.com/15377e24-7d13-4d64-9dd9-3ca59a97ae3f/'
