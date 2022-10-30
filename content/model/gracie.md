@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/23a7ef67-301e-4190-8b3e-8a730b4e0b52/-/crop/1958x2454/180,0/-/preview/
 firstName: Gracie
 collection: Girls
-height: 87cm
+height: 90cm
 measurementType: bust
 bust: 52cm
 waist: 47cm
-hips: 50cm
+hips: 52cm
 size: 2-3
 shoeSize: '6'
 hair: Brown
