@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Summer G
-featuredImage: 'https://ucarecdn.com/5cd5b421-4a50-468b-9ddb-a04fa99b1c1a/'
+featuredImage: >-
+  https://ucarecdn.com/5cd5b421-4a50-468b-9ddb-a04fa99b1c1a/-/crop/2449x1267/0,77/-/preview/
 imageThumbnail: 'https://ucarecdn.com/fb17e035-f38e-451d-9a05-cf24e0457b42/'
 firstName: 'Summer '
 collection: Girls
@@ -13,7 +14,7 @@ hips: 69cm
 size: size 12 child
 shoeSize: '8'
 hair: Light Brown/Blonde
-eyes: 'Blue/Green '
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/ce3f460b-5d87-4622-8019-6819063a0a25/'
   - image: 'https://ucarecdn.com/27a2f781-42fb-469f-a079-06c8cfb76010/'
