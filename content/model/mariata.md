@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/aa7dcd30-2023-4796-9abf-a55f0fad9b83/-/crop/1633x2208/0,0/-/preview/
 firstName: Mariata
 collection: Classic
-height: 5'2
+height: 160cm
 measurementType: bust
-bust: 34''
-waist: 30''
-hips: 38''
+bust: 86cm
+waist: 76cm
+hips: 96cm
 size: '10'
 shoeSize: '7'
 hair: Black/Brown
