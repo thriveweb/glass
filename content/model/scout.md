@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/570795f2-77fb-4901-8188-6f8d27d5f2c9/'
 firstName: Scout
 collection: Boys
-height: 115cm
+height: 120cm
 measurementType: bust
 bust: 63cm
 waist: 67cm
@@ -21,17 +21,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/33b9b55d-ec63-472d-afd4-41f7ac3b99d6/'
   - image: 'https://ucarecdn.com/9b907002-7924-4e59-8dc6-cd52ae1e0325/'
   - image: 'https://ucarecdn.com/56fc4a52-a118-4a99-b5a5-22c08b73d69c/'
-  - image: 'https://ucarecdn.com/25464e87-ec8f-4706-92e7-66fdb0a23ae3/'
   - image: 'https://ucarecdn.com/2dcf100f-b5bb-43a2-87ce-cb96b8d29c83/'
-  - image: 'https://ucarecdn.com/921677a1-1c95-4465-b34f-38e24be682b1/'
   - image: 'https://ucarecdn.com/a9a83a3a-c2dd-4365-99ea-2938e92d0469/'
   - image: 'https://ucarecdn.com/92e630e2-7067-47e6-b488-adf7c4ce47fe/'
-  - image: 'https://ucarecdn.com/5df783c6-25ec-4749-a202-027a7eb282c1/'
-  - image: 'https://ucarecdn.com/2cac3d97-e755-4bff-b6ff-944244267982/'
   - image: 'https://ucarecdn.com/f016cfeb-6f68-4caa-9aa7-07048f4c6145/'
-  - image: 'https://ucarecdn.com/af1f3108-e6cd-49ee-b3bb-d7aaa82a9c1b/'
-  - image: 'https://ucarecdn.com/117e6d9e-b488-4dbc-b5c3-2e9a783f64c1/'
   - image: 'https://ucarecdn.com/a7a47801-86f8-4423-9b42-ea75e51689fe/'
-  - image: 'https://ucarecdn.com/49be39d1-9ad3-4ff5-86d5-024be646a1c5/'
 ---
 
