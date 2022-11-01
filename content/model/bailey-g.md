@@ -11,8 +11,8 @@ measurementType: chest
 bust: 74cm
 waist: 64cm
 hips: 76cm
-size: 10-12
-shoeSize: '6'
+size: Kids 12
+shoeSize: Adult 8
 hair: Light Brown
 eyes: Blue/Green
 imagePortfolio:
