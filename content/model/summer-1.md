@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Summer G
+title: Summer Jade
 featuredImage: >-
   https://ucarecdn.com/5cd5b421-4a50-468b-9ddb-a04fa99b1c1a/-/crop/2449x1267/0,77/-/preview/
 imageThumbnail: 'https://ucarecdn.com/fb17e035-f38e-451d-9a05-cf24e0457b42/'
-firstName: 'Summer '
+firstName: Summer Jade
 collection: Girls
 height: 160cm
 measurementType: bust
