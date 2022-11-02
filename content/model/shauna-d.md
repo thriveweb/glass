@@ -15,6 +15,7 @@ hips: 100cm
 size: '14'
 shoeSize: '7'
 hair: Dark Brown
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/31a64236-840b-426f-8550-52aae8f40c41/'
   - image: 'https://ucarecdn.com/00d5627a-e184-40b1-9655-c80c55491eb7/'
