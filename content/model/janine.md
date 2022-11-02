@@ -11,8 +11,8 @@ measurementType: bust
 bust: 94cm
 waist: 79cm
 hips: 101cm
-size: '8'
-shoeSize: '10'
+size: '10'
+shoeSize: '8'
 hair: Silverfox
 imagePortfolio:
   - image: 'https://ucarecdn.com/2f5eac34-50e4-49ac-bb77-6845691b73b1/'
