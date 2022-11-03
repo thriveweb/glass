@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'Sophia '
+title: Sophia D
 featuredImage: >-
   https://ucarecdn.com/a041c1fa-c92c-4987-be28-00a327943165/-/crop/827x676/0,281/-/preview/
 imageThumbnail: >-
