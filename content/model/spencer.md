@@ -11,7 +11,7 @@ measurementType: chest
 bust: 106cm
 waist: 86cm
 hips: 101cm
-size: L
+size: Pant Size 34 / L Shirt
 shoeSize: '10'
 hair: Silverfox
 eyes: Blue
