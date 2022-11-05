@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Liam
-featuredImage: 'https://ucarecdn.com/0f92522e-1fe3-45ae-acfc-378a08ca802e/'
+featuredImage: 'https://ucarecdn.com/bc1bc355-766e-4a7f-bbf5-fa6ee7a8bd0b/'
 imageThumbnail: >-
   https://ucarecdn.com/3e353622-9b8f-453b-8cd8-7f3c8f421c18/-/crop/1056x820/49,0/-/preview/
 firstName: Liam
