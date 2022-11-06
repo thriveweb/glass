@@ -3,8 +3,7 @@ template: ModelPage
 title: Remi
 featuredImage: >-
   https://ucarecdn.com/e861b158-6958-4e61-86b5-836983d69c74/-/crop/1219x681/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/affa4839-a761-4d89-85ad-3d7784475d3e/-/crop/985x1199/209,53/-/preview/
+imageThumbnail: 'https://ucarecdn.com/5b9aa671-d118-4345-8de8-a9218807d181/'
 firstName: Remi
 collection: Girls
 height: 92cm
@@ -13,6 +12,8 @@ shoeSize: '7'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/78049279-e447-4748-8116-5ad71cc46c13/'
+  - image: 'https://ucarecdn.com/f8660443-cb3a-4fa9-b38c-7e894e4e0a3f/'
   - image: 'https://ucarecdn.com/ca972e0d-ec36-436b-b8cf-94457f7ea00c/'
   - image: 'https://ucarecdn.com/4bd955e4-7b2c-4427-a498-ff23fc07ba64/'
   - image: 'https://ucarecdn.com/df41532c-f7bb-4586-91f6-06ed1524b708/'
