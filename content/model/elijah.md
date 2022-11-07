@@ -5,7 +5,8 @@ featuredImage: >-
   https://ucarecdn.com/73a50b08-0426-4799-ab67-466cfee2d72b/-/crop/1632x1187/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b10a6dcc-0765-48b4-8b5d-ce0c076f4e13/-/crop/315x439/56,0/-/preview/
-firstName: Elijah
+firstName: ACTOR Elijah
+collection: Actors
 height: 173cm
 measurementType: chest
 bust: 97cm
