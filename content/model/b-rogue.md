@@ -14,7 +14,7 @@ bust: 49cm
 waist: 47cm
 hips: 46cm
 size: '2'
-shoeSize: 7-8
+shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
