@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Elijah
+title: ACTOR Elijah
 featuredImage: >-
   https://ucarecdn.com/73a50b08-0426-4799-ab67-466cfee2d72b/-/crop/1632x1187/0,0/-/preview/
 imageThumbnail: >-
