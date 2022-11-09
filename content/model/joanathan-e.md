@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Jonathan E
-featuredImage: >-
-  https://ucarecdn.com/c7d491f1-1f0f-4046-a07c-009cbc2999f7/-/crop/2449x1098/0,209/-/preview/
+featuredImage: 'https://ucarecdn.com/10cfd48b-9349-4eb9-aa7f-96982e7a6615/'
 imageThumbnail: >-
   https://ucarecdn.com/0b43a699-3761-462a-9ce2-88c4c7533eb6/-/crop/1082x1499/370,0/-/preview/
 firstName: Jonathan E
