@@ -2,6 +2,7 @@
 template: ModelPage
 title: Katie H
 featuredImage: 'https://ucarecdn.com/54cc0b15-2f4f-4c78-a080-e87a3d477017/'
+featuredVideo: 'https://ucarecdn.com/a2a81ec8-c0cd-4f1d-a8b1-56b3c389d9b1/'
 imageThumbnail: >-
   https://ucarecdn.com/259270a6-0cd0-44ac-8c72-5ddc550a1c86/-/crop/1375x2177/21,27/-/preview/
 firstName: Katie H
