@@ -2,7 +2,7 @@
 template: ModelPage
 title: Manaia
 featuredImage: >-
-  https://ucarecdn.com/aa46f2be-be39-4ea6-a704-b2d9be953429/-/crop/3153x1565/0,64/-/preview/
+  https://ucarecdn.com/b938b12a-e60d-4799-9b24-d1090b1820cf/-/crop/2358x1305/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b163a12c-539a-4060-87ea-ff0543c23b0e/-/crop/455x625/15,0/-/preview/
 firstName: Manaia
@@ -16,11 +16,14 @@ size: 8-10
 shoeSize: '2'
 hair: Light Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/44258c33-090a-4e7b-9318-24ac26b5cdd5/'
   - image: 'https://ucarecdn.com/1bc8a5ba-5a95-4360-8a24-9b7719ffcb6a/'
-  - image: 'https://ucarecdn.com/e60b51ef-a2dc-4689-9b16-f94c34ef23d4/'
+  - image: 'https://ucarecdn.com/a6ad0500-40d0-4cbd-884f-9f42637abd6d/'
+  - image: 'https://ucarecdn.com/44258c33-090a-4e7b-9318-24ac26b5cdd5/'
+  - image: 'https://ucarecdn.com/cb3f2be1-0c16-4ce5-a6f5-db25eb726cf9/'
   - image: 'https://ucarecdn.com/8b64dd2f-653e-48e7-a3fe-9ebb037c55ac/'
+  - image: 'https://ucarecdn.com/e60b51ef-a2dc-4689-9b16-f94c34ef23d4/'
   - image: 'https://ucarecdn.com/6eef0b85-3e14-450f-80bd-41d9cea81957/'
+  - image: 'https://ucarecdn.com/7ec0b94e-bcc0-4c8b-9d8e-6c90dda1876c/'
   - image: 'https://ucarecdn.com/bcbc9429-2f43-4aba-85c2-7584085761dc/'
   - image: 'https://ucarecdn.com/973e1a14-8b5a-4059-bebe-85a7bd7e79f1/'
   - image: 'https://ucarecdn.com/f377bb0e-0b2a-47a8-b4c8-1ac8a2ac1dc9/'
