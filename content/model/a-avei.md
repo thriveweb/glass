@@ -2,7 +2,7 @@
 template: ModelPage
 title: A Avei
 featuredImage: >-
-  https://ucarecdn.com/2651d2d1-4015-4b79-9ce9-3dffa002db98/-/crop/1206x530/4,0/-/preview/
+  https://ucarecdn.com/10451c63-4202-406a-9a3f-fc23cfb4e303/-/crop/1920x768/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b79505be-2704-4cc4-80af-6ad69cbd4db1/-/crop/1227x1366/534,35/-/preview/
 firstName: Avei
@@ -19,6 +19,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/9f707b86-1171-4725-b328-5e56a74edf25/'
   - image: 'https://ucarecdn.com/7ade3987-1e12-4f67-acc1-f6615f37aadf/'
+  - image: 'https://ucarecdn.com/2de6953c-d22b-45f1-ac91-e46070c13215/'
   - image: 'https://ucarecdn.com/0a346008-4c24-4d7b-ab88-a0c7b022c2f7/'
   - image: 'https://ucarecdn.com/986b57b4-2993-4a48-adb1-5509b6a5b3d9/'
   - image: 'https://ucarecdn.com/75e20058-27bd-4a7c-ba1e-a81e216bf2cf/'
@@ -37,6 +38,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/6db1de83-6961-44ff-a202-3c471e30b0ad/'
   - image: 'https://ucarecdn.com/e4bfe309-f055-454c-b153-1b42d0088c3b/'
   - image: 'https://ucarecdn.com/9f3d3471-5cab-4603-9257-598fd234e511/'
+  - image: 'https://ucarecdn.com/cb360f4c-9cdf-40a6-8de8-ef960fd50a27/'
   - image: 'https://ucarecdn.com/fffea0f7-ddcf-4959-92ec-83430af3f869/'
   - image: 'https://ucarecdn.com/b3ccd239-b349-4060-a341-548a7c81fd40/'
   - image: 'https://ucarecdn.com/ba84ad2e-724e-445c-bd6a-bf654a8c82d5/'
