@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Jordan S
-featuredImage: 'https://ucarecdn.com/08f2c664-bf7e-423b-8167-e15347d3d16a/'
+featuredImage: 'https://ucarecdn.com/6adb1a31-ad34-4d93-9400-218e10b0f6a4/'
 imageThumbnail: >-
   https://ucarecdn.com/c7cebfaa-8412-4a9e-aa8a-748ad8c47001/-/crop/559x797/1471,84/-/preview/
 firstName: Jordan S
@@ -12,9 +12,11 @@ shoeSize: '6'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/066e943f-6fae-4579-8dc6-e6fb1bc33b7a/'
   - image: 'https://ucarecdn.com/fdd63f24-738e-4fe5-a053-cb07460a9e65/'
   - image: 'https://ucarecdn.com/8d119c2a-0074-4233-8919-16ced1ab6f47/'
   - image: 'https://ucarecdn.com/e2a5f950-3a27-486f-bd2b-349edbff5f23/'
+  - image: 'https://ucarecdn.com/43c5cdb3-542a-42c7-becf-8d7f33d956a8/'
   - image: 'https://ucarecdn.com/e6aaf194-24b2-4f40-90a8-17eac61831c0/'
   - image: 'https://ucarecdn.com/3b1045eb-ee59-4849-b22e-5e7487cfa017/'
   - image: 'https://ucarecdn.com/8acb7d33-3df9-4ba3-bfcb-07689de1d8ae/'
