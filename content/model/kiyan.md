@@ -2,7 +2,7 @@
 template: ModelPage
 title: Kiyan
 featuredImage: >-
-  https://ucarecdn.com/fa7f8fd1-0e6f-4c9f-9e89-d474f6690217/-/crop/6720x3462/0,0/-/preview/
+  https://ucarecdn.com/02c46eb7-e7f6-41df-b98f-596b53e5a9c0/-/crop/2560x1297/0,239/-/preview/
 featuredVideo: 'https://ucarecdn.com/83ba95d9-3387-4934-ade3-06c127c6790d/'
 featuredVideoMobile: 'https://ucarecdn.com/9d4ad5f4-848f-4754-8534-a0aff3276759/'
 imageThumbnail: >-
@@ -21,8 +21,9 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/361c230a-817c-4e6c-ad1c-81c931450b3c/'
   - image: 'https://ucarecdn.com/dcdaa4e4-7a42-4587-9a01-0e534bb3cf71/'
-  - image: 'https://ucarecdn.com/2cd97380-60ac-4dea-abb8-4aaa6414dc3c/'
+  - image: 'https://ucarecdn.com/20b07ce2-2985-4fbd-a6c5-996213aef827/'
   - image: 'https://ucarecdn.com/c974dee6-1afa-43e7-934a-6b1b6a2d6f24/'
+  - image: 'https://ucarecdn.com/2cd97380-60ac-4dea-abb8-4aaa6414dc3c/'
   - image: 'https://ucarecdn.com/9d64bba9-1667-4528-a8ed-d38751175722/'
   - image: 'https://ucarecdn.com/14b86bb4-2a09-4310-a15b-141f1ee1c4d6/'
   - image: 'https://ucarecdn.com/a5fc41fb-43fa-4492-b715-131ce90317c2/'
@@ -39,10 +40,12 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c576d253-50a0-4e78-908a-422963560409/'
   - image: 'https://ucarecdn.com/4b277167-8dcb-4fb5-ac14-47631d16aa70/'
   - image: 'https://ucarecdn.com/9cde527c-427b-4ce1-80be-24699c266608/'
+  - image: 'https://ucarecdn.com/5fa73dfd-8b38-4a1b-b38b-8b5526d6a0ac/'
   - image: 'https://ucarecdn.com/0ed15f5a-26f4-4dfa-9d4a-2e7b38a32d62/'
   - image: 'https://ucarecdn.com/73c10f80-a1ce-4e2d-a388-968ae707999f/'
   - image: 'https://ucarecdn.com/db38cd61-c925-46f9-851d-6b0ca05777bc/'
   - image: 'https://ucarecdn.com/7f1b31d9-c0ab-48de-b507-6f26c76f5b52/'
+  - image: 'https://ucarecdn.com/3a5e3324-401c-410a-a4c3-c796b8277bf3/'
   - image: 'https://ucarecdn.com/3968ea6c-868f-42a6-b0ff-8f9f4dce3b5e/'
   - image: 'https://ucarecdn.com/2556a805-7230-4a9c-9133-22ce671556a4/'
   - image: 'https://ucarecdn.com/dee8d067-73ab-466d-8912-6fdd8e4b17c2/'
