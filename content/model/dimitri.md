@@ -13,6 +13,7 @@ bust: 103cm
 waist: 88cm
 hips: 92cm
 size: 'Shirt: M/L     Pants: 32'
+shoeSize: '11'
 hair: Brown
 eyes: Blue
 imagePortfolio:
