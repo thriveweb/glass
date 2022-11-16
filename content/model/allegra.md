@@ -3,7 +3,7 @@ template: ModelPage
 title: Allegra
 featuredImage: 'https://ucarecdn.com/c42528bb-235b-41ba-9a8f-9753ed69ad1f/'
 imageThumbnail: >-
-  https://ucarecdn.com/0c541984-bbba-4829-afe3-589c098867dc/-/crop/1149x1602/203,128/-/preview/
+  https://ucarecdn.com/693f9ad3-b44f-4133-8810-a5b448552455/-/crop/1319x1568/172,0/-/preview/
 firstName: Allegra
 collection: Girls
 height: 141cm
