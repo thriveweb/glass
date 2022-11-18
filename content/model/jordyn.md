@@ -9,9 +9,9 @@ firstName: Jordyn
 collection: Classic
 height: 165cm
 measurementType: bust
-bust: 95cm
-waist: 85cm
-hips: 98cm
+bust: 89cm
+waist: 80cm
+hips: 96cm
 size: '12'
 shoeSize: '8'
 hair: Brown
