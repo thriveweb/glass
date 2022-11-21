@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/d0a865c7-7e5a-4900-b8a2-2128461ff0ce/-/crop/562x677/116,98/-/preview/
 firstName: Mina
-collection: Extras
+collection: Classic
 height: 168cm
 measurementType: bust
 bust: 93cm
