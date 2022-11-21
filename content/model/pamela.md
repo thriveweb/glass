@@ -13,7 +13,7 @@ hips: 102cm
 size: 10-12
 shoeSize: '7'
 hair: Blonde
-eyes: Blue
+eyes: Hazel
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/pamela1.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/pamela2.jpg'
