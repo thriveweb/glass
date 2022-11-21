@@ -3,7 +3,8 @@ template: ModelPage
 title: Fomiyaaz
 featuredImage: >-
   https://ucarecdn.com/82bb9ba4-9c73-4829-958b-3ca20aff56f8/-/crop/683x503/0,156/-/preview/
-imageThumbnail: 'https://ucarecdn.com/b320c8a7-7d7a-4ca7-90d2-604d573c25e1/'
+imageThumbnail: >-
+  https://ucarecdn.com/241ded7f-194e-478c-9a83-08aa1f76b8fa/-/crop/683x1018/0,0/-/preview/
 firstName: Fomiyaaz
 collection: Classic
 height: 172cm
@@ -16,8 +17,10 @@ shoeSize: '9.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/39153bc9-e2ec-46bd-a102-05be1dd7b363/'
   - image: 'https://ucarecdn.com/f0ba9d5c-26f6-4c1b-b4e8-b0ebdac1bed1/'
   - image: 'https://ucarecdn.com/4599a675-50d4-4fd0-b75c-7e7ebde61319/'
+  - image: 'https://ucarecdn.com/5090bcec-85c1-4651-acd8-a22e9ea1f76e/'
   - image: 'https://ucarecdn.com/e731978b-84fd-47db-9b13-9a518fa934bc/'
   - image: 'https://ucarecdn.com/ca553e54-186d-445e-a687-ddebfe88b67d/'
   - image: 'https://ucarecdn.com/619e52fd-b21a-4f7e-adbe-d1fbedf999d0/'
