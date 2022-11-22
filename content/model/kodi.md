@@ -5,10 +5,10 @@ featuredImage: 'https://ucarecdn.com/31606704-48f5-45ef-8b71-4b8c4a4ad897/'
 imageThumbnail: 'https://ucarecdn.com/2854422a-6c68-417e-bf4d-e9ac9cdd7520/'
 firstName: Kodi
 collection: Boys
-height: 154cm
+height: 162cm
 measurementType: chest
-bust: 77cm
-waist: 69cm
+bust: 81cm
+waist: 72cm
 hips: 78cm
 size: '14'
 shoeSize: US9.5

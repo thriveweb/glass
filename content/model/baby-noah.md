@@ -7,6 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/11a3a955-f002-462e-a398-c216d775ad8e/-/crop/723x882/281,277/-/preview/
 firstName: Baby Noah
 collection: Boys
+height: 80cm
 size: 6-12 months
 hair: Brown
 eyes: Brown

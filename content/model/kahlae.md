@@ -1,40 +1,30 @@
 ---
 template: ModelPage
 title: Kahlae
-featuredImage: 'https://ucarecdn.com/2c56b68e-b20e-4952-b26f-d503fc890c62/'
-imageThumbnail: 'https://ucarecdn.com/f292b833-1369-4ca5-958b-2568fb52e11c/'
+featuredImage: >-
+  https://ucarecdn.com/dab22c54-39f1-41d6-b982-262216123f17/-/crop/1802x1168/0,37/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/5f033acc-41d1-4cbd-91dd-1059dfecaff8/-/crop/1629x2156/80,37/-/preview/
 firstName: Kahlae
 collection: Girls
-height: 146cm
+height: 150cm
 measurementType: bust
-bust: 62cm
-waist: 56cm
-hips: 65cm
+bust: 61cm
+waist: 55cm
+hips: 69cm
 size: '10'
-shoeSize: '5'
+shoeSize: '6'
 hair: Blonde
 eyes: Dark Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/4a96d54e-5e46-4da6-bfab-8474bfde3f40/'
-  - image: 'https://ucarecdn.com/10be14ba-d7fc-4a94-94bc-5bfa228220db/'
-  - image: 'https://ucarecdn.com/99224847-abc9-49d5-bc98-4612dc673629/'
-  - image: 'https://ucarecdn.com/dec8d896-f052-4c3e-9b88-e23b98d6b1fb/'
-  - image: 'https://ucarecdn.com/3241d78b-7e24-4fa3-985e-2f2b530350e4/'
-  - image: 'https://ucarecdn.com/d95e40d2-e13a-4a0e-a1d9-67c0c9ebb261/'
-  - image: 'https://ucarecdn.com/34226d09-6ff8-43a9-863a-63baafeba7c0/'
-  - image: 'https://ucarecdn.com/7025b95c-4efc-4923-8a21-abb21b908d7c/'
-  - image: 'https://ucarecdn.com/3b7c5ead-47da-4c77-a69c-5f6f3d7ba745/'
-  - image: 'https://ucarecdn.com/450d6b8d-4e0a-4e79-a132-236560a54e55/'
-  - image: 'https://ucarecdn.com/b3ea0264-7ba9-48ef-adc8-95e640e05337/'
-  - image: 'https://ucarecdn.com/fd098822-1116-41a7-aa7a-e938c8d2f1aa/'
-  - image: 'https://ucarecdn.com/113ea50e-3f7f-4f04-bc3a-9401ca7325d5/'
-  - image: 'https://ucarecdn.com/0881bdc3-5b3f-40b3-874e-778b68b2c1b9/'
-  - image: >-
-      https://ucarecdn.com/4005f788-322b-4d57-bebd-85500e26d858/-/preview/-/rotate/90/
-  - image: 'https://ucarecdn.com/88ce8f65-a05e-4de3-9482-ee69aa869080/'
-  - image: 'https://ucarecdn.com/2af1a216-fd51-4bbe-a73f-9c0155119e65/'
-  - image: 'https://ucarecdn.com/4e32f299-8e49-4082-b172-ade9c85a6481/'
-  - image: 'https://ucarecdn.com/66148520-4f82-4a20-b8c4-8bcb8dfb899b/'
+  - image: 'https://ucarecdn.com/ad0ec190-3961-4f84-afcb-0ee81da56119/'
+  - image: 'https://ucarecdn.com/0df8309d-7794-4bcc-9fc3-2006d980ada7/'
+  - image: 'https://ucarecdn.com/5a3e6128-bb75-453a-9261-7270f19e6859/'
+  - image: 'https://ucarecdn.com/58cfe27a-434c-44b8-b807-36bbcb5831c1/'
+  - image: 'https://ucarecdn.com/b8ed48ca-d55e-40f2-8262-46fadfa26f55/'
+  - image: 'https://ucarecdn.com/a6f533a9-0e71-45f9-b718-29395e1fa631/'
+  - image: 'https://ucarecdn.com/4ed0f2e3-1ee3-4020-ae4e-3185eee74f4b/'
+  - image: 'https://ucarecdn.com/730fa06e-c06c-4107-ad89-0e9eb07523cf/'
 meta:
   title: Kahlae
 ---

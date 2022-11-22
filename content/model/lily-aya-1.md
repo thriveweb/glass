@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/865e3002-cc3d-4ca3-875f-c2528c447e2b/-/crop/665x904/521,169/-/preview/
 firstName: Lily-Aya
 collection: Girls
-height: 129cm
+height: 130cm
 measurementType: bust
 bust: 63cm
 waist: 60.5cm
@@ -17,15 +17,12 @@ shoeSize: '3'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/c2ce9911-cc59-4d46-86a3-413d49631b21/'
-  - image: 'https://ucarecdn.com/b02c7fdc-2a09-42c0-93b3-fae791452a19/'
   - image: 'https://ucarecdn.com/1ec4de5c-88c3-467b-87d4-624fcfd2e512/'
   - image: 'https://ucarecdn.com/6175db3f-f393-4713-9017-9b218c335a96/'
   - image: >-
       https://ucarecdn.com/0d827d4f-b87f-4963-ae54-0f36e18ea98a/-/crop/480x375/960,0/-/preview/
   - image: 'https://ucarecdn.com/644b5662-a3e1-4a5e-968c-e64e987fef16/'
   - image: 'https://ucarecdn.com/70f95a06-b03e-4f95-afa3-703570bd1064/'
-  - image: 'https://ucarecdn.com/1f80ba2c-8385-42ff-803f-c08916f9627b/'
   - image: 'https://ucarecdn.com/3ff70c39-0e68-4207-b48a-389842774f2f/'
   - image: 'https://ucarecdn.com/4e38ac88-3cec-4180-adcc-b9d895164400/'
   - image: 'https://ucarecdn.com/ab1952a7-36e4-4afa-9a60-9688c1117dab/'
@@ -33,6 +30,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a7ed4540-94df-44e4-86bf-ae1c05020bc5/'
   - image: 'https://ucarecdn.com/98d8c7a8-77f7-4bc7-82bf-5f26864b779f/'
   - image: 'https://ucarecdn.com/cc0c9d29-f101-4ccb-ab37-576936bd3203/'
+  - image: 'https://ucarecdn.com/1f80ba2c-8385-42ff-803f-c08916f9627b/'
   - image: 'https://ucarecdn.com/c1f4ff35-d92e-4639-8c7e-a358e552ba1a/'
   - image: 'https://ucarecdn.com/f681793c-39ed-4bd6-95c2-4f4711bb85bf/'
   - image: 'https://ucarecdn.com/d39af79d-d2c1-42b2-800b-51ed3603485f/'

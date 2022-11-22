@@ -4,29 +4,30 @@ title: SV Bayli
 featuredImage: >-
   https://ucarecdn.com/408b2743-abe7-46ff-b2c7-0bdec0736617/-/crop/2449x1265/0,121/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/69a16858-fa05-457f-bb85-1fdb0cb2bfc7/-/crop/1339x2028/0,260/-/preview/
+  https://ucarecdn.com/f6429e63-7f9c-4cd6-8fab-dc989995ca2c/-/crop/3174x4741/429,190/-/preview/
 firstName: Bayli
 collection: Girls
-height: 133cm
+height: 135cm
 measurementType: bust
-bust: 62cm
-waist: 55cm
-hips: 65cm
-size: '8'
-shoeSize: 2 1/2
+bust: 61cm
+waist: 58cm
+hips: 64cm
+size: 9/10
+shoeSize: 21/2
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/a5d45c34-d2d5-4207-8b55-c57d8e30b86a/'
-  - image: 'https://ucarecdn.com/00c5d7a2-58b2-47c7-be98-cd65c55ef475/'
+  - image: 'https://ucarecdn.com/47669392-66f3-4f47-9e56-ee69f5787b20/'
   - image: 'https://ucarecdn.com/9c928488-ee9d-43b3-bbe3-057edcf51ee4/'
-  - image: 'https://ucarecdn.com/02a78d36-bb8f-401d-83a9-75bf48ef55c6/'
+  - image: 'https://ucarecdn.com/d5ddf84c-10b9-4d9a-9eed-760f14b86023/'
   - image: 'https://ucarecdn.com/e86df078-5994-47db-a30c-54aa6b6005ac/'
+  - image: 'https://ucarecdn.com/a5d45c34-d2d5-4207-8b55-c57d8e30b86a/'
+  - image: 'https://ucarecdn.com/994d6f54-7972-460a-8af6-2e041351291c/'
+  - image: 'https://ucarecdn.com/a7466cfd-41f2-4081-996a-0929a599c4a7/'
   - image: 'https://ucarecdn.com/cbe7c48f-0c36-439f-848e-1c475a80d719/'
+  - image: 'https://ucarecdn.com/acf343e3-1b87-44bc-9eb8-f3a34e208afa/'
   - image: 'https://ucarecdn.com/b67414ad-cc09-4bc9-91ae-19171d86c308/'
-  - image: 'https://ucarecdn.com/6250b221-665e-480d-ad7c-2dd3bf52d42c/'
-  - image: 'https://ucarecdn.com/e49ff69b-8e4f-4795-853a-9e28de6445ba/'
+  - image: 'https://ucarecdn.com/02a78d36-bb8f-401d-83a9-75bf48ef55c6/'
   - image: 'https://ucarecdn.com/8978752f-5bc2-4654-b2fb-73f5b46875cf/'
-  - image: 'https://ucarecdn.com/e985cbf2-5cdd-4539-bb65-e7391302847e/'
 ---
 

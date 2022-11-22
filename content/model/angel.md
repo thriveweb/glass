@@ -8,9 +8,9 @@ firstName: Angel
 collection: Girls
 height: 142cm
 measurementType: bust
-bust: 62cm
-waist: 56cm
-hips: 72cm
+bust: 58cm
+waist: 58cm
+hips: 76cm
 size: '10'
 shoeSize: '5'
 hair: Dark Brown

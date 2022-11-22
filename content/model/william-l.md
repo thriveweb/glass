@@ -5,8 +5,8 @@ featuredImage: >-
   https://ucarecdn.com/475edba1-7364-49f1-a6cb-b71ed87fd10e/-/crop/683x348/0,100/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/a388ff0d-0818-43e1-8d47-0f92cca0ba60/-/crop/615x868/36,0/-/preview/
-firstName: William L
-collection: Classic
+firstName: MELBOURNE William L
+collection: Melbourne
 height: 171cm
 measurementType: chest
 bust: 99cm

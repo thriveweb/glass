@@ -11,7 +11,7 @@ measurementType: chest
 bust: 63cm
 waist: 58cm
 hips: 73cm
-size: 8-9
+size: 9-10
 shoeSize: '1'
 hair: black
 eyes: black

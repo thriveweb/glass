@@ -2,7 +2,7 @@
 template: ModelsPage
 title: Family
 featuredImage: >-
-  https://ucarecdn.com/b49effcf-3ad6-4763-927c-0f1ee12b28de/-/crop/2231x916/0,0/-/preview/
+  https://ucarecdn.com/d3182c18-40c8-4fad-8713-dbe79e20e81e/-/crop/2252x1123/308,79/-/preview/
 order: 7
 meta: {}
 ---

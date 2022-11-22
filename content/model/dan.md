@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Dan
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/dan.jpg'
+featuredImage: >-
+  https://ucarecdn.com/846a39a7-c101-4284-8053-db6da24b1280/-/crop/1600x446/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/67fd6f94-394a-47e1-b315-63445d772588/'
 firstName: Dan
 collection: Men
@@ -15,6 +16,8 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_4029-1-.jpg'
+  - image: >-
+      https://ucarecdn.com/1d6943bd-e3ca-4523-b8a6-41666aab90ab/-/crop/745x500/417,0/-/preview/
   - image: 'https://glassmanagement.imgix.net/images/uploads/dan-the-man.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_4030-1-.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/unnamed-22.jpg'

@@ -6,19 +6,20 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/7a86aa3d-adb4-4454-9804-20080b928055/-/crop/486x677/360,0/-/preview/
 firstName: Alex H
-collection: Emerging
+collection: Extras
 height: 175cm
 measurementType: chest
-bust: 67cm
-waist: 63cm
-hips: 80cm
-size: S/M
-shoeSize: US10
+bust: 33in
+waist: 28 in
+hips: 34 in
+size: 34/M
+shoeSize: US11
 hair: Light Brown
 eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/3e2766d2-af1c-427d-9cac-ef560f5cb88b/'
   - image: 'https://ucarecdn.com/e6aa52b8-6828-43b9-8ce4-c5b67a78209e/'
+  - image: 'https://ucarecdn.com/e93dcc20-0a08-43c6-b7fb-28ceeff2fc1c/'
   - image: 'https://ucarecdn.com/15222aa4-7583-4755-aeb4-5624a82c937c/'
   - image: 'https://ucarecdn.com/3786526c-f5b8-4921-bcfe-c11d6b3950e0/'
   - image: 'https://ucarecdn.com/d7ecd22a-0eb1-4c27-97e8-90c7ec5d07a6/'

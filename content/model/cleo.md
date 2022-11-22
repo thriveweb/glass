@@ -11,7 +11,7 @@ measurementType: bust
 bust: 72cm
 waist: 56cm
 hips: 70cm
-size: Girls 12
+size: '14'
 shoeSize: 5-6 kids
 hair: Blonde
 eyes: Blue

@@ -9,10 +9,10 @@ firstName: Candice
 collection: Classic
 height: 176cm
 measurementType: bust
-bust: 105cm
-waist: 93.5cm
-hips: 118.5cm
-size: 14-16
+bust: 104cm
+waist: 100cm
+hips: 122cm
+size: 16-18
 shoeSize: '9.5'
 hair: Dark Blonde
 eyes: Green

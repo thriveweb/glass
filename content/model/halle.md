@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/d1562287-62fc-4825-ac3d-8148f1f854b3/-/crop/1084x1305/209,289/-/preview/
 firstName: Halle
 collection: Global
-height: 137cm
+height: 147cm
 measurementType: bust
 bust: 74cm
 waist: 65cm

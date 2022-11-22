@@ -16,7 +16,10 @@ size: 7-8
 shoeSize: '1'
 hair: Light Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/602798bd-51cf-42e8-ab1a-5f64bdafae1c/'
   - image: 'https://ucarecdn.com/08e80a36-5402-4dbe-bb7f-9291038880e6/'
+  - image: 'https://ucarecdn.com/31c6d111-9298-4b2c-b7c6-321805e7097d/'
+  - image: 'https://ucarecdn.com/93d1a811-cace-41cd-b16d-17c666b50c07/'
   - image: 'https://ucarecdn.com/d8332783-6c6e-40e4-b6ad-79a10d60a4ee/'
   - image: 'https://ucarecdn.com/037ecfdc-aa35-4938-9c64-714149a55210/'
   - image: 'https://ucarecdn.com/d054ea1d-432b-442a-a475-e409c0aaa42c/'

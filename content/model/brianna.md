@@ -1,64 +1,45 @@
 ---
 template: ModelPage
 title: Brianna
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/brianna543768.jpg'
+featuredImage: >-
+  https://ucarecdn.com/e044d12c-16a7-4831-9694-15ee25602042/-/crop/7972x3876/6,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/d6f96008-0af3-4e47-8ba7-75596282f12b/'
 imageThumbnail: >-
-  https://ucarecdn.com/a5856ff7-4e4e-4c09-8847-8dbb20c025a8/-/crop/670x729/74,4/-/preview/
+  https://ucarecdn.com/6427a985-23bc-4323-8d08-42107cc9aac3/-/crop/1701x2365/3792,23/-/preview/
 firstName: Brianna
-collection: Global
-height: 176cm
+collection: Women
+height: 175cm
 measurementType: bust
-bust: 78cm
-waist: 63cm
-hips: 82cm
+bust: 76cm
+waist: 61cm
+hips: 83cm
 size: '6'
-shoeSize: 7-8
+shoeSize: '7'
 hair: Blonde
-eyes: Aqua
+eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/f059199c-8221-4a0d-a192-3825a8d46a58/'
+  - image: 'https://ucarecdn.com/d45c03bd-95f0-4099-964f-75b197046e00/'
+  - image: 'https://ucarecdn.com/261f62d6-32d2-4a3f-8635-3d847ad0701f/'
+  - image: 'https://ucarecdn.com/3acdbf2d-2b7e-4fef-a16d-e0431547699a/'
+  - image: 'https://ucarecdn.com/b1820e1f-fcbd-49cb-be72-0e28bb2f3fa8/'
+  - image: 'https://ucarecdn.com/c4db9dec-aca2-4328-8799-a37f9a597132/'
   - image: 'https://ucarecdn.com/34926fe2-23b8-404b-bfb1-1ee5b5361aef/'
-  - image: 'https://ucarecdn.com/bd380fb4-b55d-4614-8d6d-0a8e937b1b34/'
-  - image: >-
-      https://ucarecdn.com/c4d69618-4adf-464a-abcf-5c07d400efce/-/crop/1633x1500/0,240/-/preview/
+  - image: 'https://ucarecdn.com/817bf462-d83b-4a92-a17c-9aa8a3e83111/'
+  - image: 'https://ucarecdn.com/aed66fe4-e49f-4e42-81a3-504f4bb8610b/'
+  - image: 'https://ucarecdn.com/2f2086e3-aefc-4c08-b253-226b1fca78f4/'
+  - image: 'https://ucarecdn.com/3c09382d-11b7-4423-a178-3421eb64debc/'
+  - image: 'https://ucarecdn.com/3e965ae0-695f-4899-9b3d-44aa318bed86/'
+  - image: 'https://ucarecdn.com/c8db8735-1bbf-4c5c-9600-34f96b230da4/'
   - image: 'https://ucarecdn.com/01c03f73-130a-4d27-bf36-2ad41932271e/'
-  - image: 'https://ucarecdn.com/3ce6a27e-85e3-420d-8d45-16f2ed879fa8/'
-  - image: 'https://ucarecdn.com/3f48d1fe-111f-4e94-a7a0-24f43400dfe5/'
+  - image: 'https://ucarecdn.com/d520e677-d697-46a3-9b68-f89555fe5c8c/'
+  - image: 'https://ucarecdn.com/82fa0b9a-783d-4aac-b382-8088fb44ecd6/'
   - image: 'https://ucarecdn.com/bcf69837-e6ab-4009-974d-fa55d0440646/'
-  - image: 'https://ucarecdn.com/b556fa64-d43e-4fc6-a088-353ac178ef6b/'
-  - image: 'https://ucarecdn.com/24b7797b-4b9b-4208-9c29-02d092524848/'
-  - image: 'https://ucarecdn.com/43d4f129-cd17-45ad-a4fe-00edabf6dd6b/'
-  - image: 'https://ucarecdn.com/94ef4555-3d34-49d9-96cd-29c38f3d3d49/'
-  - image: 'https://ucarecdn.com/b4ab8a1b-142c-479c-881c-f806ca9c68fc/'
-  - image: 'https://ucarecdn.com/19131cb3-ffba-4d90-8d59-e3d914c15644/'
-  - image: 'https://ucarecdn.com/b9748d20-76f9-45b9-922c-75ef5cf83261/'
-  - image: 'https://ucarecdn.com/9ef69461-3b53-4368-8a12-d68a12d1966b/'
-  - image: 'https://ucarecdn.com/f97bd978-28cd-4ae0-8152-7531fb69bbed/'
-  - image: 'https://ucarecdn.com/77f5f784-263a-47e1-aa79-dabe77661c23/'
-  - image: 'https://ucarecdn.com/dc46ad6e-c0a9-4f4b-b2cf-00a97cf41d2e/'
-  - image: 'https://ucarecdn.com/b9665807-15c6-41bb-b11a-4eceae6554a6/'
-  - image: 'https://ucarecdn.com/1442e0ec-be7e-4518-b60f-90c212621c70/'
-  - image: 'https://ucarecdn.com/24d5bdf3-36c5-4243-9149-ebf8b44ae374/'
-  - image: 'https://ucarecdn.com/7e00df51-c083-40ec-b779-9b968f00c62e/'
-  - image: 'https://ucarecdn.com/7bbe0dbf-4d81-49f5-ad6f-4202ccd3e738/'
-  - image: 'https://ucarecdn.com/3f88f312-1e6a-4e92-9257-201cb7dfe265/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/bri.jpg'
-  - image: 'https://ucarecdn.com/72094ab0-8c68-4f16-b2e0-83ff3cae9766/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna7482930.png'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna748239.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna342798.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna72834.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna328749.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna328794.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna27349.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna89732324.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna324897.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna86.png'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna37246879.png'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna342789.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna32489.png'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna73681920.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/brianna543768.jpg'
+  - image: 'https://ucarecdn.com/be67db54-e23d-4fca-9a47-7d8c6b44b39d/'
+  - image: 'https://ucarecdn.com/3f48d1fe-111f-4e94-a7a0-24f43400dfe5/'
+  - image: 'https://ucarecdn.com/32f2d82b-7fa1-43a0-9d30-331757121918/'
+  - image: 'https://ucarecdn.com/36dd4229-1578-4fb1-af41-263ce4fbe0d6/'
+  - image: 'https://ucarecdn.com/bd380fb4-b55d-4614-8d6d-0a8e937b1b34/'
 meta:
   title: Brianna
 ---

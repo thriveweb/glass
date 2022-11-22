@@ -29,14 +29,13 @@ gallery:
       title: Men
     - image: >-
         https://ucarecdn.com/263ede51-a3f4-460b-a6e0-2b590d4baea0/-/crop/1200x1056/0,0/-/preview/
-      title: Boys        
-    - image: >-
-        https://ucarecdn.com/30f78316-58e3-4c79-ab62-8a4fed1cc008/-/crop/5242x2886/24,363/-/preview/        
+      title: Boys
+    - image: 'https://ucarecdn.com/3e9dea53-4b33-40d1-b5fd-e00830215cdf/'
       title: Classic
     - image: 'https://ucarecdn.com/2707aaea-761f-4018-91b3-0a2a3be426de/'
-      title: Actors    
+      title: Actors
     - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
-      title: Melbourne    
+      title: Melbourne
   subTitle: Our Talent
   title: Explore Our Talent
 about:
@@ -77,6 +76,18 @@ testimonials:
       logo: >-
         https://glassmanagement.imgix.net/images/uploads/83abe0_b72f87a1a7d24228bcdbcb56aab62d30.png
       name: Philip Holder- Associate Director www.warehousestudio.com.au
+    - title: Bravehearts
+      content: >-
+        I just wanted to say a gigantic and heartfelt thank you to you and the
+        amazing children and parents who participated in the Bravehearts Day TVC
+        shoot this morning.
+
+         The children (and parents) were an absolute delight and such professionals! Not to mention – such cuties!
+
+        Once again – thank you, thank you, thank you to all the children,
+        parents, and yourself!
+      logo: 'https://ucarecdn.com/7724eaae-2a71-42ed-a1f3-765a32a492af/'
+      name: Catherine from Bravehearts
     - title: 'Lexus Australia '
       content: >-
         **Appreciation**

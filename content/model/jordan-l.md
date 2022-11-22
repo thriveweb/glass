@@ -6,7 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/99f8907f-5cc0-45f0-9fef-8fea7b2e8e1d/-/crop/1837x2488/361,319/-/preview/
 firstName: Jordan L
 collection: Emerging
+height: 169cm
+measurementType: chest
+bust: 91cm
+waist: 72cm
+hips: 94cm
 size: '14'
+shoeSize: '10'
 hair: Brown
 eyes: Brown
 imagePortfolio:

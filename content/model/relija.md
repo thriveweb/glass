@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/93b9d0a9-7054-4686-ab0e-996ffbcd1076/'
 imageThumbnail: >-
   https://ucarecdn.com/73adb001-031c-42fd-84c8-cc5467226ff3/-/crop/627x638/290,0/-/preview/
 firstName: Relja
-collection: Men
+collection: Extras
 height: 184cm
 measurementType: chest
 bust: 93cm

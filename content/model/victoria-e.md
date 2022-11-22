@@ -3,7 +3,7 @@ template: ModelPage
 title: Victoria
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/victoria-edwards-white.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/victoria-edwards-c.jpg'
-firstName: Victoria CURVE
+firstName: Victoria
 collection: Classic
 height: 178cm
 measurementType: bust

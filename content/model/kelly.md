@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/a2d56dbd-35b7-4766-9c59-11c92f26fa3a/-/crop/6720x3589/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/91fb5587-ef25-4879-9edb-fef7da3477a7/'
 firstName: Kelly
-collection: Global
+collection: Classic
 height: 172cm
 measurementType: bust
 bust: 78cm

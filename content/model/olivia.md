@@ -9,28 +9,27 @@ firstName: 'Olivia '
 collection: Emerging
 height: 176cm
 measurementType: bust
-bust: 71cm
-waist: 62cm
-hips: 81cm
+bust: 85cm
+waist: 65cm
+hips: 89cm
 size: 6-8
 shoeSize: '8'
 hair: Light Brown
 eyes: Hazel
 imagePortfolio:
+  - image: 'https://ucarecdn.com/94ed62cc-bea8-4923-b4af-918a73996a51/'
   - image: 'https://ucarecdn.com/74fc9336-6ceb-405c-866d-83e315758c4e/'
+  - image: 'https://ucarecdn.com/b31c3347-adda-43dc-a34a-b43a7ca8aed4/'
   - image: 'https://ucarecdn.com/485de138-1fe2-4e79-a50e-caa3d351fe59/'
+  - image: 'https://ucarecdn.com/56d66ce9-0fa0-4606-a76f-ca8161bd9718/'
+  - image: 'https://ucarecdn.com/420bd01b-666b-48a7-b0b1-801b7d27ea72/'
   - image: 'https://ucarecdn.com/a871c3a1-ba96-4710-a3c9-acd39fa8da74/'
-  - image: 'https://ucarecdn.com/913bb969-474d-4e8c-9be3-55fbaad29910/'
-  - image: 'https://ucarecdn.com/583f8f91-da32-470d-b85e-ec51cac51610/'
-  - image: 'https://ucarecdn.com/be242047-66df-45f3-8d39-eca5472324bc/'
-  - image: 'https://ucarecdn.com/8b86bcfe-f34c-4a22-b7e9-b96957b9b225/'
-  - image: 'https://ucarecdn.com/37a6ed65-5c54-40a3-9b81-361eb50d557f/'
-  - image: 'https://ucarecdn.com/0b32f59d-1773-4246-a6f3-038f380c086c/'
-  - image: 'https://ucarecdn.com/209d2a16-b2c7-4018-bf40-861b955b5842/'
+  - image: 'https://ucarecdn.com/ccdf6859-2b77-480e-abfa-f2455be09a22/'
+  - image: 'https://ucarecdn.com/9c62ae1a-93fa-4ced-9e1c-8f8b6f07d107/'
+  - image: 'https://ucarecdn.com/92b64a22-84ef-4ce6-a7f9-fe41172aeea7/'
+  - image: 'https://ucarecdn.com/f6a9f71c-bfab-4673-9f0d-8018cab913d7/'
+  - image: 'https://ucarecdn.com/96d85946-9756-4381-a9d5-43f70ac4140c/'
   - image: 'https://ucarecdn.com/84116d65-40fb-4b13-a30f-0c9843e41429/'
-  - image: 'https://ucarecdn.com/d8441ddb-b36c-4572-85a9-364c81fa3491/'
-  - image: 'https://ucarecdn.com/a2b15eba-e735-4833-81df-c0f58bb748a5/'
   - image: 'https://ucarecdn.com/c0ae78e7-1ac3-47b8-9b62-44a2e870d22f/'
-  - image: 'https://ucarecdn.com/8ea7102b-4858-4082-b70e-9fdb09cbd7ce/'
 ---
 

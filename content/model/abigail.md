@@ -7,9 +7,9 @@ firstName: Abigail
 collection: Classic
 height: 170cm
 measurementType: bust
-bust: 91cm
-waist: 77cm
-hips: 91cm
+bust: 90cm
+waist: 79cm
+hips: 90cm
 size: '8'
 shoeSize: '8'
 hair: Blonde

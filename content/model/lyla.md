@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Lyla
-featuredImage: >-
-  https://ucarecdn.com/d8ca78cd-901d-42f8-8f2d-bde9656b3b31/-/crop/1920x703/0,28/-/preview/
+featuredImage: 'https://ucarecdn.com/cd80b9a6-336e-4b52-8a81-6445d179406b/'
 imageThumbnail: >-
   https://ucarecdn.com/8e200b2d-7f87-422c-a1c5-0726f9df027d/-/crop/1007x1103/482,0/-/preview/
 firstName: Lyla
@@ -12,39 +11,41 @@ measurementType: bust
 bust: 62cm
 waist: 53cm
 hips: 66cm
-size: '6'
+size: '8'
 shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/c059a44b-42bd-43f1-882b-39fc7d8d3d43/'
+  - image: 'https://ucarecdn.com/ac0b778c-de67-4fec-b9ad-ede1281b1464/'
+  - image: 'https://ucarecdn.com/0b7d738a-313a-4ef4-8456-a2f18bb52dde/'
+  - image: 'https://ucarecdn.com/27d08441-d8b9-4dd0-a79a-312787e43872/'
+  - image: 'https://ucarecdn.com/71dbf1d4-b323-4a46-8c5f-272d9399fa86/'
   - image: 'https://ucarecdn.com/be0807fb-67ba-4123-a244-ce67f4a088da/'
+  - image: 'https://ucarecdn.com/57ca1b57-4969-4bdc-852a-3283c12bd54c/'
+  - image: 'https://ucarecdn.com/8ece05c7-64e5-4144-a463-bab153de9849/'
+  - image: 'https://ucarecdn.com/94b26b36-1186-491c-9c3c-97f68fac898b/'
   - image: 'https://ucarecdn.com/49fdc78e-4f2f-4303-a57c-58f52204bd67/'
-  - image: 'https://ucarecdn.com/6f77544a-5565-462c-8e1d-25e271f2be72/'
+  - image: 'https://ucarecdn.com/21e2bad9-200e-47eb-8741-e5a9106ce991/'
   - image: 'https://ucarecdn.com/d015d81b-0f11-497c-beee-ade39465a06f/'
+  - image: 'https://ucarecdn.com/d6218199-d44a-402a-af62-363f015727ae/'
   - image: 'https://ucarecdn.com/915564a0-5b5d-4de7-bad9-7c8f19d4dcaa/'
-  - image: 'https://ucarecdn.com/aae92b0e-26ac-4558-a2d1-2d22b34a2112/'
+  - image: 'https://ucarecdn.com/e836ffbe-c696-48a3-ad1f-348386d4d924/'
   - image: 'https://ucarecdn.com/c2b3d2cd-84a7-420a-9218-ef34285bd9b8/'
+  - image: 'https://ucarecdn.com/e3c5a017-363d-4e6e-a114-9de587e7f3ff/'
+  - image: 'https://ucarecdn.com/9b8651ab-71dd-44b8-a980-90ee82dcc22a/'
   - image: 'https://ucarecdn.com/db2cdc0c-5406-4c28-8ae5-63b7454ae301/'
-  - image: 'https://ucarecdn.com/d4f72c70-c6c9-4bff-8a0d-d52bfee7a8fc/'
   - image: 'https://ucarecdn.com/68405591-6b92-4472-a01f-c70dbb5e010d/'
-  - image: 'https://ucarecdn.com/c0455522-ed6d-4bc4-8c9f-e917b12cbcc5/'
+  - image: 'https://ucarecdn.com/85b631c2-b12d-4deb-ab44-1e67cf331355/'
   - image: 'https://ucarecdn.com/76d4c2b0-d942-43c3-aa85-434272494ae7/'
-  - image: 'https://ucarecdn.com/355503cf-55ae-45de-87c4-9befce9a4f83/'
+  - image: 'https://ucarecdn.com/2d9c68c5-ab7a-4ce9-bf9b-eae48990cf31/'
+  - image: 'https://ucarecdn.com/8d1dec6d-7301-42a2-b4ec-68728e71acf9/'
+  - image: 'https://ucarecdn.com/ed9e7fbd-e300-4306-8633-26978ec9798a/'
   - image: 'https://ucarecdn.com/30de96b1-88a0-43fc-b5b5-51a351f57360/'
-  - image: 'https://ucarecdn.com/6300d5fd-5dc8-4b1c-af12-d53a621eb5ae/'
-  - image: 'https://ucarecdn.com/f03ef963-b8b7-492d-8df5-98f5ec771174/'
   - image: 'https://ucarecdn.com/c497d758-fac6-45a9-9478-163b31af9e12/'
-  - image: 'https://ucarecdn.com/f58c6ec8-544c-474a-beda-a3386f2a9bd2/'
-  - image: 'https://ucarecdn.com/39b8ac04-83d5-4cff-b8c7-59b87502c55b/'
   - image: 'https://ucarecdn.com/344baa33-ee0e-4370-ab5e-e12987990581/'
   - image: 'https://ucarecdn.com/398f70e0-0de9-4464-9402-647bc2be9211/'
-  - image: 'https://ucarecdn.com/203d9533-6c43-4fad-a3a4-cfe2f57ce0c9/'
-  - image: 'https://ucarecdn.com/8129b1d9-c216-47f4-85e9-7e3a648daf2b/'
-  - image: 'https://ucarecdn.com/22c1e26c-9f22-41fb-b7e5-13d84fc46eea/'
+  - image: 'https://ucarecdn.com/3617eabd-9ecd-44fc-bbd0-b505f5bc8962/'
   - image: 'https://ucarecdn.com/31881d2e-d683-4e0f-9286-4096aea88eef/'
-  - image: 'https://ucarecdn.com/82693001-61c6-4c6a-be4d-0dd8c2c3a0f5/'
-  - image: 'https://ucarecdn.com/90671da2-fd31-482a-9eb2-99159113f812/'
-  - image: 'https://ucarecdn.com/138983af-73f4-4165-8db0-e2f440c63b90/'
 ---
 

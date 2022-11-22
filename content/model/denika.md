@@ -11,7 +11,7 @@ measurementType: bust
 bust: 89cm
 waist: 70cm
 hips: 96cm
-size: '10'
+size: 10-12
 shoeSize: '9'
 hair: Blonde
 eyes: Green

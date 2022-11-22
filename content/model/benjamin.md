@@ -9,10 +9,10 @@ firstName: Benjamin
 collection: Men
 height: 187cm
 measurementType: chest
-bust: 91cm
-waist: 86cm
-hips: 101cm
-size: Shirt L Pants 34
+bust: 92cm
+waist: 80cm
+hips: 103cm
+size: Shirt M/L Pants 32
 shoeSize: 12.5 US
 hair: Blonde
 eyes: Blue

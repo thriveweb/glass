@@ -12,6 +12,7 @@ size: '2'
 shoeSize: '5'
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/20ce9184-e245-49b0-8342-e77a0ec71237/'
   - image: 'https://ucarecdn.com/8623de4b-777c-4181-86e2-462070174d2a/'
   - image: 'https://ucarecdn.com/44db7c89-6fc4-455b-95b1-433080c2d08e/'
   - image: 'https://ucarecdn.com/aa873846-7ded-46e5-9deb-4fc1a64ddf1c/'

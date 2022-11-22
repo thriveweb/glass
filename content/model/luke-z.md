@@ -9,10 +9,10 @@ firstName: Luke Z
 collection: Classic
 height: 180cm
 measurementType: chest
-bust: 121cm
-waist: 115cm
-hips: 117cm
-size: XXL
+bust: 116cm
+waist: 106cm
+hips: 116cm
+size: 'Shirt: L-XL Pants: 36'
 shoeSize: 10.5 US
 hair: Black
 eyes: Brown

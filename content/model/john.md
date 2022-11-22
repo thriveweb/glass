@@ -4,7 +4,7 @@ title: John
 featuredImage: >-
   https://ucarecdn.com/4ebeea63-da38-43aa-b543-f7ac1ce9c565/-/crop/5472x2429/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/0b1c4595-9a3c-4495-b7b3-0d3a8ffc489e/-/crop/872x1030/891,0/-/preview/
+  https://ucarecdn.com/dd4879ce-c857-41f2-9598-a20e90c46239/-/crop/1497x2217/135,0/-/preview/
 firstName: John
 collection: Men
 height: 165cm
