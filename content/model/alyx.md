@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/b117ca0a-98a1-4397-8195-f3e4b165d06c/-/crop/3793x5349/372,0/-/preview/
 firstName: Alyx
 collection: Girls
-height: 138cm
+height: 143cm
 measurementType: bust
-bust: 64cm
-waist: 59cm
-hips: 67cm
+bust: 65cm
+waist: 57cm
+hips: 74cm
 size: 9/10
 shoeSize: '3'
 hair: Light Brown
