@@ -3,7 +3,7 @@ template: ModelPage
 title: Cheryl
 featuredImage: >-
   https://ucarecdn.com/be332085-69e0-442f-9547-06795031296f/-/crop/1632x1025/0,505/-/preview/
-imageThumbnail: 'https://ucarecdn.com/348e95df-314c-41c2-8127-af2b73df6747/'
+imageThumbnail: 'https://ucarecdn.com/7cc44315-e752-4c77-b939-ae514e493ff1/'
 firstName: Cheryl
 collection: Classic
 height: 171cm
