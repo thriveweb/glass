@@ -2,7 +2,7 @@
 template: ModelPage
 title: Brooke
 featuredImage: >-
-  https://ucarecdn.com/5a07cf6b-79b4-4fa2-917b-742ef3a37f6c/-/crop/2449x1356/0,0/-/preview/
+  https://ucarecdn.com/5a07cf6b-79b4-4fa2-917b-742ef3a37f6c/-/crop/2449x1205/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/e07d5219-9d7f-42d7-9dd2-b7595eca0bae/-/crop/1346x1711/169,60/-/preview/
 firstName: Brooke
