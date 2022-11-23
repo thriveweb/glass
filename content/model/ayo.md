@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/6c412e98-ef1f-4e44-a2d4-ea25359ed3b8/-/crop/447x445/33,0/-/preview/
 firstName: Ayo
 collection: Girls
-height: 125cm
+height: 133cm
 measurementType: bust
 bust: 58cm
 waist: 57cm
 hips: 59cm
-size: '6'
+size: '8'
 shoeSize: kids 10
 hair: Brown
 eyes: Brown
