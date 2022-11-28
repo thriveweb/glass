@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/b79505be-2704-4cc4-80af-6ad69cbd4db1/-/crop/1227x1366/534,35/-/preview/
 firstName: Avei
 collection: Girls
-height: 142cm
+height: 150cm
 measurementType: bust
-bust: 65cm
-waist: 57cm
-hips: 71cm
+bust: 68cm
+waist: 59cm
+hips: 74cm
 size: 9-10
-shoeSize: '4'
+shoeSize: 5-6
 hair: Brown
 eyes: Brown
 imagePortfolio:
