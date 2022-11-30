@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/259270a6-0cd0-44ac-8c72-5ddc550a1c86/-/crop/1375x2177/21,27/-/preview/
 firstName: Katie H
 collection: Girls
-height: 163cm
+height: 165cm
 measurementType: bust
 bust: 80cm
 waist: ' 67cm'
