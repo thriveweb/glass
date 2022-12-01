@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f04c11af-1055-4b88-8e84-a63c3eb55f44/-/crop/717x970/649,0/-/preview/
 firstName: Mikaela M
-collection: Extras
+collection: Emerging
 height: 170cm
 measurementType: bust
 bust: 86cm
