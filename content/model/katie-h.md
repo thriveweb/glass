@@ -6,7 +6,7 @@ featuredVideo: 'https://ucarecdn.com/a2a81ec8-c0cd-4f1d-a8b1-56b3c389d9b1/'
 imageThumbnail: >-
   https://ucarecdn.com/99ea212f-792f-4b95-92b6-da59af776d91/-/crop/890x1240/0,0/-/preview/
 firstName: Katie H
-collection: Girls
+collection: Emerging
 height: 165cm
 measurementType: bust
 bust: 80cm
