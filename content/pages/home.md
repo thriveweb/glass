@@ -60,7 +60,7 @@ testimonials:
         Studio, a fully owned subsidiary of McSweeney Newman Casting
 
 
-        I have known Tegan Glass for around 2 years as a professional working
+        I have known Tegan Glass for around 4 years as a professional working
         agent in SE Queensland and have had a strong business relationship with
         Tegan for that period of time. In that time, Tegan ran her agency with a
         high level of professionalism, care, honesty and importantly, integrity.
@@ -68,8 +68,6 @@ testimonials:
         tirelessly to develop careers, and to work efficiently, professionally
         and effectively with the industry’s potential employers and key decision
         makers.
-
-
 
 
         www.warehousestudio.com.au
