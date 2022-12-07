@@ -113,6 +113,10 @@ partners:
   - image: 'https://ucarecdn.com/29c008e7-2bca-405c-9970-3adab749967a/'
   - image: 'https://ucarecdn.com/cf6b6ac7-190d-4e39-bf41-a565ab8a9de1/'
   - image: 'https://ucarecdn.com/c2b2b839-296c-4449-8972-05c9f2eb0a9f/'
+  - image: 'https://ucarecdn.com/94d95698-892f-47d9-a5df-e358fedeec25/'
+  - image: 'https://ucarecdn.com/61dc9344-0a33-4d2b-8008-98128c8d37b9/'
+  - image: 'https://ucarecdn.com/5c41bfaf-fc7b-4f3d-ae6c-50e4ca494758/'
+  - image: 'https://ucarecdn.com/718836a6-e89e-47b2-8409-8e3fb546a258/'
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
