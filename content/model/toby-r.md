@@ -4,7 +4,7 @@ title: Toby R
 featuredImage: 'https://ucarecdn.com/4218fd7f-1f42-4f2a-a791-8ef0cd198bb5/'
 imageThumbnail: 'https://ucarecdn.com/a2ba21d5-044e-4950-b950-be97eb947f49/'
 firstName: Toby R
-collection: Global
+collection: Extras
 height: 180cm
 measurementType: chest
 bust: 96cm
