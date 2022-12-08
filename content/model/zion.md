@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b90b106a-51d8-4fd7-ae6e-c9016ad90cdc/-/crop/3503x3648/679,0/-/preview/
 firstName: Zion
-collection: Men
+collection: Extras
 height: 183cm
 measurementType: chest
 bust: 86cm
