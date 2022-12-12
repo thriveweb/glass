@@ -3,7 +3,7 @@ template: ModelPage
 title: Liam
 featuredImage: 'https://ucarecdn.com/bc1bc355-766e-4a7f-bbf5-fa6ee7a8bd0b/'
 imageThumbnail: >-
-  https://ucarecdn.com/bd31cd46-ad8f-403f-b450-ccccdec11068/-/crop/1001x1179/280,71/-/preview/
+  https://ucarecdn.com/bd31cd46-ad8f-403f-b450-ccccdec11068/-/crop/1152x1356/149,0/-/preview/
 firstName: Liam
 collection: Boys
 height: 147cm
