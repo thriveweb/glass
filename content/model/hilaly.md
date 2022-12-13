@@ -2,7 +2,8 @@
 template: ModelPage
 title: Hilaly
 featuredImage: 'https://ucarecdn.com/bc060bbb-166f-4074-bcab-fd66d1700093/'
-imageThumbnail: 'https://ucarecdn.com/4eddab52-b50b-4dbc-a075-4dea5a5f6fdf/'
+imageThumbnail: >-
+  https://ucarecdn.com/4eddab52-b50b-4dbc-a075-4dea5a5f6fdf/-/crop/290x379/77,34/-/preview/
 firstName: Hilaly
 collection: Classic
 hair: 'Black '
