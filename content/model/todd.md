@@ -10,7 +10,7 @@ height: 178cm
 measurementType: null
 bust: ''
 waist: 117cm
-size: L/XL
+size: 'Shirt: L/XL Pant: 46'
 shoeSize: '10.5'
 hair: Silverfox
 eyes: Blue
