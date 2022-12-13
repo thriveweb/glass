@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jordyn
 featuredImage: >-
-  https://ucarecdn.com/5590718b-bb46-4f57-8870-bec3dad1cbc9/-/crop/2448x1340/0,84/-/preview/
+  https://ucarecdn.com/773ae92b-a3fc-41aa-a7c9-226fcd1940a7/-/crop/2449x1140/0,55/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/3d5d85bf-2953-4801-b99a-dfbb134ad018/-/crop/1363x1810/270,27/-/preview/
 firstName: Jordyn
@@ -31,6 +31,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/73390974-a3aa-4b8c-9f38-eb23f20d4d78/'
   - image: 'https://ucarecdn.com/27237f8f-8305-4192-94a5-7eb010fe4a17/'
   - image: 'https://ucarecdn.com/4cdc43d8-1014-406e-80d6-6de48a027129/'
+  - image: 'https://ucarecdn.com/a98eb07e-39e8-4cc0-a9bc-41959a97f005/'
   - image: 'https://ucarecdn.com/0cf2161a-dd89-45be-a048-a5abb69348ff/'
   - image: 'https://ucarecdn.com/89233261-3e25-43a0-b27d-89aff0d55ade/'
   - image: 'https://ucarecdn.com/fe5ae742-2ddd-4008-8b3c-90ccdd9834e6/'
@@ -44,5 +45,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/811cd7ce-0896-4de6-9e5b-860f54d123f0/'
   - image: 'https://ucarecdn.com/6f8566ef-36c7-43da-8735-52aa4cad4286/'
   - image: 'https://ucarecdn.com/8f7d72c5-e222-4a3c-a8b8-ab05f35df9e5/'
+  - image: 'https://ucarecdn.com/56978df7-7550-4fa1-a84f-b541445e240d/'
 ---
 
