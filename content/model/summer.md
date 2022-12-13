@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Summer
-featuredImage: 'https://ucarecdn.com/68754085-d7e1-4e0b-bb3e-525fe6334163/'
+featuredImage: 'https://ucarecdn.com/2a42912d-b3a3-4af8-8b0e-ca71bc5de11c/'
 imageThumbnail: 'https://ucarecdn.com/f3244196-4465-4f0d-9520-99892166629c/'
 firstName: Summer
 collection: Girls
