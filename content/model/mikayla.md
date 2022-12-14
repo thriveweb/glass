@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Mikayla
-featuredImage: >-
-  https://ucarecdn.com/fcd9f009-89dc-47af-a25a-dce85313f5e6/-/crop/5472x2941/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/c3b57c95-2d3c-4064-8285-1ee63471a8ab/'
 imageThumbnail: >-
   https://ucarecdn.com/be1300f1-e6e9-4272-a4bf-3a74373fd6dd/-/crop/3141x3805/0,0/-/preview/
 firstName: Mikayla
