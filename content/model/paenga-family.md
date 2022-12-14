@@ -2,7 +2,7 @@
 template: ModelPage
 title: Paenga Family
 featuredImage: >-
-  https://ucarecdn.com/4bf4ab7f-1d9b-4bb7-a141-7d8520c19d85/-/crop/2364x850/0,250/-/preview/
+  https://ucarecdn.com/c2bc325f-f7a8-40c4-b8b8-753a9412588e/-/crop/826x521/6,146/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/ca66c99a-b4f9-465d-8af9-e72f1b6b21d0/-/crop/1627x2178/80,0/-/preview/
 firstName: Paenga Family
@@ -11,6 +11,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b42f2961-189f-4cbb-ab34-7dd3cba5e082/'
   - image: 'https://ucarecdn.com/cb62d37c-6d98-49a5-b8e2-f76920e14a37/'
   - image: 'https://ucarecdn.com/70d3dc5d-9a86-4897-b225-81a49bd8b2e5/'
+  - image: 'https://ucarecdn.com/153dc8ec-f635-4d0f-b3c7-70667d98cdbb/'
   - image: 'https://ucarecdn.com/8250c9e5-adf6-41bc-ad9d-c9d1d61d18e9/'
   - image: 'https://ucarecdn.com/514eec46-80e5-477a-abf1-9020e84b2ce1/'
   - image: 'https://ucarecdn.com/bcb76dfd-fae1-493e-9fa6-b555b1c6e75c/'
