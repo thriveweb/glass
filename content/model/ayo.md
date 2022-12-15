@@ -20,6 +20,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/8b7163d0-4735-4053-8232-92a4fc474366/'
   - image: 'https://ucarecdn.com/99136c58-0928-4286-92ca-9b67f7c5b54a/'
   - image: 'https://ucarecdn.com/fb0bb70b-df59-4242-a635-7a1228b62a3b/'
+  - image: 'https://ucarecdn.com/8db9d11c-fe8e-4dd7-bae0-a51a54f3aaa9/'
   - image: 'https://ucarecdn.com/bab68c33-c109-4d36-ac75-29f804e6d4be/'
   - image: 'https://ucarecdn.com/2124c5de-4f3e-4bf3-a5ae-03a6c33a9f66/'
   - image: 'https://ucarecdn.com/a343c654-de6e-4217-b927-7c24113383e1/'
@@ -28,10 +29,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/ee40bad1-3f6b-4db2-ad96-b5582776b6ee/'
   - image: 'https://ucarecdn.com/e50187d3-833f-4bae-afdc-0173cdb92599/'
   - image: 'https://ucarecdn.com/9ee9d52f-9839-4901-85aa-6e01e9fd916a/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/ayo72634327123111111.jpg'
   - image: >-
       https://ucarecdn.com/32797180-e91d-4324-93fa-34008d195c34/-/crop/920x960/0,0/-/preview/
-  - image: 'https://ucarecdn.com/437f004b-411c-485a-932e-2b77ed9fb5fa/'
+  - image: 'https://ucarecdn.com/2f33efc9-b675-4523-bf72-ee957953d4be/'
   - image: >-
       https://ucarecdn.com/1ec89b95-6eb9-402c-afa0-2d27675824a0/-/crop/630x957/0,0/-/preview/
   - image: 'https://ucarecdn.com/a55e8b3d-989e-4d65-aeaf-b6fe98cd7249/'
