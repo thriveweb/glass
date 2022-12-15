@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Jordan S
-featuredImage: 'https://ucarecdn.com/6adb1a31-ad34-4d93-9400-218e10b0f6a4/'
+featuredImage: >-
+  https://ucarecdn.com/aeb14fd1-cf05-44fc-bce7-a2aa50aaccbb/-/crop/2500x1260/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/c7cebfaa-8412-4a9e-aa8a-748ad8c47001/-/crop/559x797/1471,84/-/preview/
 firstName: Jordan S
@@ -21,10 +22,12 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/e6aaf194-24b2-4f40-90a8-17eac61831c0/'
   - image: 'https://ucarecdn.com/3b1045eb-ee59-4849-b22e-5e7487cfa017/'
   - image: 'https://ucarecdn.com/8acb7d33-3df9-4ba3-bfcb-07689de1d8ae/'
+  - image: 'https://ucarecdn.com/ea2fc193-77a6-47ff-b6c5-f7e9ed2a9d3c/'
   - image: 'https://ucarecdn.com/fab8b00a-4913-48fa-afbf-3bf63120e036/'
   - image: 'https://ucarecdn.com/416bee6e-4e57-4785-843d-3f2c050c5316/'
   - image: 'https://ucarecdn.com/939b7c55-bee9-4f8b-ae31-4f65267070a9/'
   - image: 'https://ucarecdn.com/20abfb67-b11a-4e20-a3f3-baedd5440570/'
   - image: 'https://ucarecdn.com/7740f024-7cde-4795-acb8-0ce5d85a3240/'
+  - image: 'https://ucarecdn.com/2f7deb92-e80a-470e-a4b3-9b3eba3a86ad/'
 ---
 
