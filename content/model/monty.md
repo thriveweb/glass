@@ -2,7 +2,7 @@
 template: ModelPage
 title: ' Monty'
 featuredImage: >-
-  https://ucarecdn.com/241ed78e-067c-4f2e-b4ca-2a8a27a6cf81/-/crop/600x208/0,0/-/preview/
+  https://ucarecdn.com/f0398996-c113-4a76-b739-7d5f2f4ef6f8/-/crop/2500x1401/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/48aa9318-0369-4fb7-8872-0f917dcfbabd/-/crop/374x441/619,42/-/preview/
 firstName: Monty
@@ -23,12 +23,14 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/ebe46875-188d-4c4a-b38c-0c7524f417a7/'
   - image: 'https://ucarecdn.com/f1050803-7bf5-467d-bcf2-10ebdcf1a8e5/'
   - image: 'https://ucarecdn.com/7bc0c2f7-9298-4a98-8d24-e8858beeeac5/'
+  - image: 'https://ucarecdn.com/23bdad9a-f69c-442d-bc9a-9a4837b831d3/'
   - image: 'https://ucarecdn.com/a560b838-d9c5-41bd-b459-83551b51f202/'
   - image: 'https://ucarecdn.com/c4e9b24f-e880-4316-89a5-9dfb988a2bcb/'
   - image: 'https://ucarecdn.com/06d103bb-379f-426d-b7b4-797ab6e109ea/'
   - image: 'https://ucarecdn.com/c0d42c84-fab0-4204-a41c-31931de7b5fc/'
   - image: 'https://ucarecdn.com/4b630650-4f03-41e4-a64d-b9dcb4439740/'
   - image: 'https://ucarecdn.com/8204a874-6354-4f09-8fb1-488036b75dbf/'
+  - image: 'https://ucarecdn.com/6f6f23ea-50a8-472b-8279-57d86b2febb5/'
   - image: >-
       https://ucarecdn.com/6acd8e76-3eb8-4d6d-9d6f-83c9a054c900/-/crop/1218x1156/0,0/-/preview/
   - image: 'https://ucarecdn.com/764439bf-17c5-4ec0-bec0-586d725ac739/'
@@ -44,5 +46,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c8bdd9a0-050a-4c3b-8232-b7a08302f3a1/'
   - image: 'https://ucarecdn.com/e0b89cc9-93af-4138-9d6c-4eb5af6cf042/'
   - image: 'https://ucarecdn.com/2d8aa2fa-ef7a-4261-a8ef-369df4e100f9/'
+  - image: 'https://ucarecdn.com/e164912c-3867-4049-a79b-c70e005cac46/'
 ---
 
