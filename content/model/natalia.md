@@ -3,7 +3,7 @@ template: ModelPage
 title: Natalia
 featuredImage: 'https://ucarecdn.com/d83010c6-d466-4867-a853-3ba8928396ba/'
 imageThumbnail: >-
-  https://ucarecdn.com/ea6b4cfd-9128-4b82-a816-1ba86d2d3c5a/-/crop/658x974/537,529/-/preview/
+  https://ucarecdn.com/fd0e2af3-853e-466c-b45b-38b0fbc06a33/-/crop/774x1179/0,33/-/preview/
 firstName: Natalia  A
 collection: Girls
 height: 137cm
@@ -16,8 +16,8 @@ shoeSize: '6'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/f63a0f33-2c8c-41e5-b722-46b0a3134cea/-/preview/'
   - image: 'https://ucarecdn.com/e622ba57-6fec-45b6-b5be-051173794bb0/'
-  - image: 'https://ucarecdn.com/ca7695a3-5709-4590-95fd-01d3e5a63458/'
   - image: 'https://ucarecdn.com/8d028375-ae79-4b26-8cb4-512ef5a55ad8/'
   - image: 'https://ucarecdn.com/abc2ae0f-37f5-4e18-a7f2-90302da44987/'
   - image: 'https://ucarecdn.com/0cd3e0a7-f12d-4cae-8f08-88767fe51f91/'
