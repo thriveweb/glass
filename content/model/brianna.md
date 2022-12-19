@@ -7,7 +7,7 @@ featuredVideo: 'https://ucarecdn.com/d6f96008-0af3-4e47-8ba7-75596282f12b/'
 imageThumbnail: >-
   https://ucarecdn.com/6427a985-23bc-4323-8d08-42107cc9aac3/-/crop/1701x2365/3792,23/-/preview/
 firstName: Brianna
-collection: Women
+collection: Emerging
 height: 175cm
 measurementType: bust
 bust: 76cm
