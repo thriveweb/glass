@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f2210593-6407-42da-8000-d9dcef5df87e/-/crop/3648x3949/0,0/-/preview/
 firstName: Georgia C
-collection: Emerging
+collection: Extras
 height: 166cm
 measurementType: bust
 bust: 87cm
