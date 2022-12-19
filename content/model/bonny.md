@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/8d4f6fd8-6eb6-4295-98ab-050d61079d42/'
 imageThumbnail: >-
   https://ucarecdn.com/473e5b3f-785b-4095-ac4d-7b56f41651bf/-/crop/571x780/207,0/-/preview/
 firstName: Bonny
-collection: Classic
+collection: Extras
 height: 177cm
 measurementType: bust
 waist: 70cm
