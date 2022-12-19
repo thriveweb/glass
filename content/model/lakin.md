@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f56a47a3-43e2-4da3-87fa-9a20cd0e3d68/-/crop/718x969/66,27/-/preview/
 firstName: Lakin
-collection: Emerging
+collection: Extras
 height: 161cm
 measurementType: bust
 bust: 81.5cm
