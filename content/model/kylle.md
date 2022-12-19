@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/814ceeb2-9b66-439d-ae9b-5c16439dc005/-/crop/2804x3545/587,1052/-/preview/
 firstName: Kylle
-collection: Emerging
+collection: Extras
 height: 153cm
 measurementType: bust
 bust: 88cm
