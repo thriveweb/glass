@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Josh G
-featuredImage: 'https://ucarecdn.com/dd73f01c-d16f-4e66-8129-72d33aaee3d7/'
+featuredImage: 'https://ucarecdn.com/823718a2-1855-4d95-8d95-d13ab8b83a49/'
 imageThumbnail: 'https://ucarecdn.com/8430326c-841e-4b4f-8377-58b01b5ec9e4/'
 firstName: Josh G
 collection: Men
@@ -16,7 +16,11 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/472ef579-fcb5-4cf4-9598-93b75185adb9/'
+  - image: 'https://ucarecdn.com/3192c8cf-c642-4b57-9fbf-5f02dfb0fa5b/'
   - image: 'https://ucarecdn.com/e26769e6-340b-4058-bd18-e2b34fec90e6/'
+  - image: 'https://ucarecdn.com/af46dc03-1e7f-46e0-866b-f56b411974de/'
+  - image: 'https://ucarecdn.com/93c230f4-981b-4c93-babb-5d83293772cb/'
+  - image: 'https://ucarecdn.com/1c5825e0-c0c8-4deb-bbc3-425d9609642a/'
   - image: 'https://ucarecdn.com/258cc7a1-ed06-40e8-9698-3ac3826e4f50/'
   - image: 'https://ucarecdn.com/a70e170f-8128-41d3-b600-ff5dcb117a5f/'
   - image: 'https://ucarecdn.com/a4aacfa9-7250-4d66-9aef-554355b8ffc0/'
