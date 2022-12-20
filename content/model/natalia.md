@@ -3,7 +3,7 @@ template: ModelPage
 title: Natalia
 featuredImage: 'https://ucarecdn.com/d83010c6-d466-4867-a853-3ba8928396ba/'
 imageThumbnail: >-
-  https://ucarecdn.com/fd0e2af3-853e-466c-b45b-38b0fbc06a33/-/crop/774x1179/0,33/-/preview/
+  https://ucarecdn.com/fd0e2af3-853e-466c-b45b-38b0fbc06a33/-/crop/640x1026/89,37/-/preview/
 firstName: Natalia  A
 collection: Girls
 height: 137cm
