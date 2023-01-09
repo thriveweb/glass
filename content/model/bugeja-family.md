@@ -4,7 +4,7 @@ title: 'Rokolati Family '
 featuredImage: >-
   https://ucarecdn.com/4d114617-862d-4848-a272-a08dfddb9ab7/-/crop/428x296/0,199/-/preview/
 imageThumbnail: 'https://ucarecdn.com/80cb9e97-f50f-4572-a888-198bec893c2c/'
-firstName: 'Bugeja Family '
+firstName: 'Rokolati Family '
 collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/5ad783d8-5f45-4d8f-a870-6be98630aecf/'
