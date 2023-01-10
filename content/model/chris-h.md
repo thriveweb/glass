@@ -8,6 +8,10 @@ imageThumbnail: >-
 firstName: Chris H
 collection: Classic
 height: 178cm
+measurementType: chest
+bust: 107cm
+waist: 86cm
+hips: 100cm
 size: 'Pants: 34 Shirt: L'
 shoeSize: '9.5'
 hair: Brown
