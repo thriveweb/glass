@@ -62,7 +62,7 @@ teamMembers:
     image: >-
       https://ucarecdn.com/73e95b7e-0581-4274-aebe-f0b475f06d38/-/crop/3648x4891/0,0/-/preview/
     subTitle: There's Nothing This Girl Can't Do
-    title: Emily West
+    title: Emily
   - image: >-
       https://ucarecdn.com/b11282d5-27f6-41cc-ab39-e3e5bf3bf278/-/crop/1633x1861/0,374/-/preview/
     leftAlign: true
