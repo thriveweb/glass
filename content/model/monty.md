@@ -7,9 +7,9 @@ imageThumbnail: >-
   https://ucarecdn.com/48aa9318-0369-4fb7-8872-0f917dcfbabd/-/crop/374x441/619,42/-/preview/
 firstName: Monty
 collection: Girls
-height: 144cm
+height: 157cm
 measurementType: bust
-bust: 66cm
+bust: cm
 waist: 60cm
 hips: 76cm
 size: '10'
