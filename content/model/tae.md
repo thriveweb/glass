@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/b0d2c64d-5799-43d4-9232-31ce360c2a49/-/crop/870x1278/479,378/-/preview/
 firstName: Tae
 collection: Boys
-height: 142cm
+height: 155cm
 measurementType: chest
-bust: 69cm
-waist: 64cm
-hips: 77cm
-size: 10-12
-shoeSize: '7'
+bust: 75cm
+waist: 65cm
+hips: 81cm
+size: '12'
+shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
