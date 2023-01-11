@@ -6,8 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/085a124d-fd37-4db2-b879-3e5b1723489a/-/crop/349x454/33,0/-/preview/
 firstName: 'Claire '
 collection: Classic
-size: '8'
-shoeSize: '8'
+height: 171cm
+measurementType: bust
+bust: 93cm
+waist: 73cm
+hips: 103cm
+size: '10'
+shoeSize: '9'
 hair: 'Blonde '
 eyes: 'Blue '
 imagePortfolio:
