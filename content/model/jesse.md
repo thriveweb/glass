@@ -8,9 +8,9 @@ firstName: Jesse
 collection: Girls
 height: 122cm
 measurementType: bust
-bust: 52cm
-waist: 50cm
-hips: 56cm
+bust: 58cm
+waist: 46cm
+hips: 60cm
 size: '4'
 shoeSize: 10 kids
 hair: Blonde
