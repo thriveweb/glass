@@ -9,9 +9,9 @@ firstName: Monty
 collection: Girls
 height: 157cm
 measurementType: bust
-bust: cm
-waist: 60cm
-hips: 76cm
+bust: 74cm
+waist: 58cm
+hips: 82cm
 size: '10'
 shoeSize: 5-6
 hair: Light Brown
