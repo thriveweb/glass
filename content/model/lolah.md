@@ -6,11 +6,11 @@ imageThumbnail: >-
   https://ucarecdn.com/d6bdedb1-98f9-4fbb-be23-846e80518570/-/crop/3149x4630/499,0/-/preview/
 firstName: Lolah
 collection: Girls
-height: 140cm
+height: 150cm
 measurementType: bust
-bust: 64cm
-waist: 57cm
-hips: 72cm
+bust: 69cm
+waist: 58cm
+hips: 79cm
 size: '10'
 shoeSize: '5'
 hair: Dark Blonde
