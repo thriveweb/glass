@@ -139,21 +139,17 @@ teamMembers:
   - leftAlign: false
     title: Sam
     image: >-
-      https://ucarecdn.com/f135dbee-fa3a-49cd-90f2-15e118ee8b08/-/crop/257x250/0,0/-/preview/
+      https://ucarecdn.com/6eb13e3e-6742-4369-9ef7-671e827d280d/-/crop/1180x1369/214,32/-/preview/
     content: >-
-      Meet Sam
-
-
-      Super kind, super savvy and super camera shy (yes... we can't even get a
-      photo of her haha). 
+      Meet Sam,
 
 
       Sam is head of new faces and is our talent scout! Sam answers the daily
-      talent submissions to join our team. 
+      talent submissions to join our team.
 
 
-      She runs our Instagram, making sure that everybody is celebrated and feels
-      the love.
+      She also runs our Instagram, making sure that everybody is celebrated and
+      feels the love!!
 
 
       Go Team Glass!
