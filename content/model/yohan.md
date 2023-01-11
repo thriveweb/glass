@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/89b8d600-f2b9-4cfe-b29e-c1a5473cffd3/-/crop/2288x2862/1639,94/-/preview/
 firstName: Yohan
 collection: Boys
-height: 97cm
+height: 100cm
 measurementType: chest
-bust: 53cm
-waist: 62cm
-hips: 63cm
+bust: 55cm
+waist: 55cm
+hips: 61cm
 size: '3'
 shoeSize: '10'
 hair: Brown
