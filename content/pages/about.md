@@ -137,15 +137,15 @@ teamMembers:
     image: >-
       https://ucarecdn.com/d7bbc7e1-7cf3-4b3d-ad05-973b6905cc91/-/crop/3574x4149/0,190/-/preview/
   - leftAlign: false
-    title: Sam
+    title: Sabina
     image: >-
       https://ucarecdn.com/6eb13e3e-6742-4369-9ef7-671e827d280d/-/crop/1180x1369/214,32/-/preview/
     content: >-
-      Meet Sam,
+      Meet Sabina,
 
 
-      Sam is head of new faces and is our talent scout! Sam answers the daily
-      talent submissions to join our team.
+      Sabina is head of new faces and is our talent scout! Sabina answers the
+      daily talent submissions to join our team!! 
 
 
       She also runs our Instagram, making sure that everybody is celebrated and
