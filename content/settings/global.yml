@@ -135,7 +135,8 @@ columns:
   - buttonTitle: Join Us
     buttonUrl: join-us
     content: Start Your Modelling Career
-    image: 'https://glassmanagement.imgix.net/images/uploads/amanada.jpg'
+    image: >-
+      https://ucarecdn.com/40ecc4b0-efad-43b5-a7ce-3cf0c5710589/-/crop/863x1016/307,0/-/preview/
     leftAlign: false
     title: Become a Model
 headerScripts: UA-112691145-27
