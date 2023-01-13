@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Harrison C
+title: Harry
 featuredImage: 'https://ucarecdn.com/28647f13-3ede-4101-9685-2bb75bfe7f57/'
 imageThumbnail: >-
   https://ucarecdn.com/92deda10-14cd-4a73-b82d-0b7dbd62218b/-/crop/177x262/46,0/-/preview/
