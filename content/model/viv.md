@@ -12,7 +12,7 @@ measurementType: chest
 bust: 72cm
 waist: 63cm
 hips: 63cm
-size: 'Shirt: 12  Shorts: 10'
+size: 10-12
 shoeSize: Mens 8
 hair: Brown
 eyes: Blue
