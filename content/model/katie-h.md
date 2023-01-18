@@ -9,11 +9,11 @@ firstName: Katie H
 collection: Emerging
 height: 165cm
 measurementType: bust
-bust: 80cm
-waist: ' 67cm'
-hips: 80cm
+bust: 87cm
+waist: 75cm
+hips: 83cm
 size: Ladies 8
-shoeSize: '6.5'
+shoeSize: '8'
 hair: Brown
 eyes: Hazel/Brown
 imagePortfolio:
