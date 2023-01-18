@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Amanda
-featuredImage: 'https://ucarecdn.com/ae2d99aa-9a43-4281-a645-3d8c2fac8fae/'
+featuredImage: 'https://ucarecdn.com/2b7a30fb-2d5d-45a0-af12-bf770b442437/'
 featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: >-
@@ -29,6 +29,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a06d4980-3162-4f98-8859-ec9810776091/'
   - image: 'https://ucarecdn.com/5e060add-965a-4988-b996-b5c1809f1966/'
   - image: 'https://ucarecdn.com/6cd9a02d-882f-4ffd-82bb-5e168105d80f/'
+  - image: 'https://ucarecdn.com/9a405ee7-ce06-4497-915a-30625fd8b7e0/'
   - image: 'https://ucarecdn.com/fdf9c772-e520-41e0-89dc-6ef254ce23cf/'
   - image: 'https://ucarecdn.com/0fe4f0fb-b868-490a-b397-9f21d029f757/'
   - image: 'https://ucarecdn.com/25d0df3c-431b-43f9-afe6-5f86482bc15e/'
