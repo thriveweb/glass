@@ -3,7 +3,7 @@ template: ModelPage
 title: Ly-Ly
 featuredImage: 'https://ucarecdn.com/5076f0a6-4274-47ea-a283-d6c22da39377/'
 imageThumbnail: >-
-  https://ucarecdn.com/f75b4b46-fe15-455b-b274-2e5089e6c68f/-/crop/760x1038/52,27/-/preview/
+  https://ucarecdn.com/570d08e4-4cc0-43ba-be5a-72e31419d4ac/-/crop/1146x1356/726,0/-/preview/
 firstName: Ly-Ly
 collection: Extras
 height: 119cm
