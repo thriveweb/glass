@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/9ae85765-95a6-4802-b085-f1aa0d2b627d/-/crop/1233x1626/203,0/-/preview/
 firstName: Ethan W
 collection: Emerging
-height: 167cm
+height: 168cm
 measurementType: chest
-bust: 83cm
-waist: 72cm
-hips: 82cm
-size: 12-14
-shoeSize: '10'
+bust: 86cm
+waist: 75cm
+hips: 88cm
+size: Mens M/32
+shoeSize: Mens 11
 hair: Brown
 eyes: Brown
 imagePortfolio:
