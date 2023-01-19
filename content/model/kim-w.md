@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/e5d475a2-755b-4910-84e2-24160c1f13e0/-/crop/879x1120/840,158/-/preview/
 firstName: Kim W
 collection: Girls
-height: 143cm
+height: 151cm
 measurementType: bust
-bust: 66cm
+bust: 69cm
 waist: 62cm
-hips: 74cm
-size: 10-11
-shoeSize: '4'
+hips: 75cm
+size: '12'
+shoeSize: '5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
