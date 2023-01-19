@@ -10,9 +10,9 @@ firstName: 'Imogen '
 collection: Emerging
 height: 173cm
 measurementType: bust
-bust: 94cm
-waist: 73.5cm
-hips: 95cm
+bust: 87cm
+waist: 69cm
+hips: 85cm
 size: '8'
 shoeSize: 9-10
 hair: Blonde
