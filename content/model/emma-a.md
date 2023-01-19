@@ -3,8 +3,7 @@ template: ModelPage
 title: Emma P
 featuredImage: >-
   https://ucarecdn.com/4157202f-c6a2-4291-bfa9-1950e6d561dc/-/crop/5446x3219/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/c21c5ed8-4693-47cf-9df8-bc8657649336/-/crop/836x1141/36,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/df441e8e-8b19-49b2-98c7-ec6bd8776c3f/'
 firstName: Emma P
 collection: Classic
 height: 175cm
