@@ -8,9 +8,10 @@ imageThumbnail: >-
 firstName: Walters Family
 collection: Family
 imagePortfolio:
+  - image: 'https://ucarecdn.com/eb4b3a41-fc20-4079-9120-36140ee350bd/'
   - image: 'https://ucarecdn.com/11265a82-6f1e-4acf-b4b7-805556c6d4d4/'
-  - image: 'https://ucarecdn.com/f428a1c8-73ad-4800-8e3c-e9738f2b328d/'
+  - image: 'https://ucarecdn.com/3e4908e7-3866-4f4b-b941-a46ff750fb6a/'
   - image: 'https://ucarecdn.com/74d675b4-cb91-4efa-9559-dbfaa5b5e548/'
-  - {}
+  - image: 'https://ucarecdn.com/f428a1c8-73ad-4800-8e3c-e9738f2b328d/'
 ---
 
