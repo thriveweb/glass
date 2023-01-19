@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/570d08e4-4cc0-43ba-be5a-72e31419d4ac/-/crop/1146x1356/726,0/-/preview/
 firstName: Ly-Ly
 collection: Extras
-height: 119cm
+height: 125cm
 measurementType: bust
-bust: 57cm
-waist: 57cm
-hips: 64cm
-size: 5-6
-shoeSize: '12'
+bust: 60cm
+waist: 56cm
+hips: 68cm
+size: 7-8
+shoeSize: US1
 hair: 'Light brown '
 eyes: 'Hazel/Green '
 imagePortfolio:
