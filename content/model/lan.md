@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Lan
-featuredImage: 'https://ucarecdn.com/c073288d-3aed-4713-9c49-405218fedd1c/'
+featuredImage: >-
+  https://ucarecdn.com/47957b2c-e16a-4af3-80c6-2572296b0820/-/crop/2280x1217/0,52/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d0f3cff2-33cc-43ce-9786-918b4c213fe8/-/crop/1190x1642/667,4/-/preview/
 firstName: Lan
