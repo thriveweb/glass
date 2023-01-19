@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: 'k Ai-My '
-featuredImage: 'https://ucarecdn.com/33df9cb9-7cbe-42bf-9a7e-bbec23eff569/'
+featuredImage: >-
+  https://ucarecdn.com/c8f6bfea-3b13-4285-a024-55eca5ed134a/-/crop/2400x1130/0,147/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/f1abe4ee-3bf3-4580-bc1f-03d93a9e09e9/-/crop/1032x1422/704,0/-/preview/
 firstName: Ai-My
