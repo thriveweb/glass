@@ -1,9 +1,10 @@
 ---
 template: ModelPage
 title: Kim W
-featuredImage: 'https://ucarecdn.com/6851d79a-0902-496f-a978-3ac621a567d9/'
+featuredImage: >-
+  https://ucarecdn.com/c5d9084f-78ec-4236-b90c-a29255421d87/-/crop/2400x1259/0,112/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/4eb28ab5-01f0-44ac-97fd-b3d31e418eaf/-/crop/809x1119/126,15/-/preview/
+  https://ucarecdn.com/e5d475a2-755b-4910-84e2-24160c1f13e0/-/crop/879x1120/840,158/-/preview/
 firstName: Kim W
 collection: Girls
 height: 143cm
