@@ -2,7 +2,7 @@
 template: ModelPage
 title: Pippah
 featuredImage: >-
-  https://ucarecdn.com/487ec4cb-692f-41d7-a178-311abe8386eb/-/crop/1800x1127/0,0/-/preview/
+  https://ucarecdn.com/735d586c-93c6-4598-848a-3c27963b5dd6/-/crop/1998x931/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/27aa7a3e-beb4-4c5c-8798-8bc987bd5008/'
 firstName: Pippah
 collection: Girls
@@ -21,7 +21,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/41d5bbb7-ce85-4f37-9da0-d0f904189a72/'
   - image: 'https://ucarecdn.com/25891d34-e709-4a22-a5ce-b0024d1314c6/'
   - image: 'https://ucarecdn.com/49204521-5e96-4537-918a-84593ae21bc8/'
+  - image: 'https://ucarecdn.com/bef9f234-b491-49cc-8eee-9bd65cf0c610/'
   - image: 'https://ucarecdn.com/d35dd98a-d42c-4bb7-806b-e81d9dd42035/'
+  - image: 'https://ucarecdn.com/fb3e158e-87b5-494a-adf6-fe37e76ac6b4/'
   - image: 'https://ucarecdn.com/c7d4c080-81a8-4353-b7cc-5b929fd9628a/'
   - image: 'https://ucarecdn.com/171b0e16-de61-4f9f-a4a0-ecc7a3c8f834/'
   - image: 'https://ucarecdn.com/c2b1c417-403f-4d3d-b7dc-d04727545ac9/'
