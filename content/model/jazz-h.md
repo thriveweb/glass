@@ -5,12 +5,12 @@ featuredImage: 'https://ucarecdn.com/58f1c896-8a90-4b45-8882-162620e79000/'
 imageThumbnail: 'https://ucarecdn.com/c1a4d697-f206-454f-8b54-9d44a0e5d6d3/'
 firstName: Jazz H
 collection: Emerging
-height: 167cm
+height: 175cm
 measurementType: bust
-bust: 33 inches
-waist: 27 inches
-hips: 32 inches
-size: 6-8 ladies
+bust: 86cm
+waist: 71cm
+hips: 99cm
+size: 8-10 ladies
 shoeSize: '10'
 hair: Brown
 eyes: Brown
