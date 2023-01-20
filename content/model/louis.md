@@ -1,9 +1,9 @@
 ---
 template: ModelPage
 title: Louis
-featuredImage: 'https://ucarecdn.com/0d6591e6-d42a-41f2-9f97-8b3bd2ab48ff/'
+featuredImage: 'https://ucarecdn.com/26c67939-5fb4-43a4-9159-c9517a7df44c/'
 imageThumbnail: >-
-  https://ucarecdn.com/ed1ff58b-7809-4343-84c5-30c98042beb0/-/crop/749x1071/96,71/-/preview/
+  https://ucarecdn.com/bcc90835-f5b3-44d2-89ce-fa84ddb88063/-/crop/925x1353/361,162/-/preview/
 firstName: Louis
 collection: Men
 height: 184cm
@@ -16,20 +16,20 @@ shoeSize: 11-12
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/b33e2da1-5a96-4255-874e-d41432e35e02/'
-  - image: 'https://ucarecdn.com/1bc4481d-bb78-4e15-971c-75b2c170a99b/'
-  - image: 'https://ucarecdn.com/34821267-d19f-420f-8236-7c31cf61e3ce/'
-  - image: 'https://ucarecdn.com/3e2bd0b6-5efa-49e4-93f4-65b23a3f8a49/'
+  - image: 'https://ucarecdn.com/d889ed91-035f-4c00-869e-e6ef012de7b6/'
+  - image: 'https://ucarecdn.com/d4563748-c4ab-4498-b98e-2deba762f25c/'
+  - image: 'https://ucarecdn.com/0e36eac0-672c-4b57-bf1e-42af54943659/'
+  - image: 'https://ucarecdn.com/5feacfe9-275b-4e94-9f57-a5f39d94a124/'
+  - image: 'https://ucarecdn.com/06a0b8c6-33fe-469a-bab7-b0041c3a5c26/'
+  - image: 'https://ucarecdn.com/815351c4-8c4b-453b-81c3-c0d6cb98dc8d/'
+  - image: 'https://ucarecdn.com/0167e0fb-d669-4294-ba9f-7478cfabecf3/'
+  - image: 'https://ucarecdn.com/0f1c1346-c902-4e6d-9e98-6248f3ffd04c/'
+  - image: 'https://ucarecdn.com/c38228ca-90cd-46f0-8bee-453df4d2532a/'
+  - image: 'https://ucarecdn.com/5b18d607-6dba-48df-b602-9a1fcb7477e6/'
+  - image: 'https://ucarecdn.com/6209857f-0634-4597-b8b5-52fea221bf2c/'
   - image: >-
       https://ucarecdn.com/ef328028-264d-4c7d-9680-7216cfe105b1/-/crop/927x328/57,0/-/preview/
   - image: 'https://ucarecdn.com/eb50466b-593c-4cd6-a2c8-934d98aaf129/'
-  - image: 'https://ucarecdn.com/cc412f07-ae6a-49f4-868b-20204cb73f7b/'
-  - image: 'https://ucarecdn.com/f0bb496a-cfda-4b97-bd0e-bcd2baaef96b/'
-  - image: 'https://ucarecdn.com/4dd49ba5-8175-49b9-9828-6ed67c990a89/'
-  - image: 'https://ucarecdn.com/0915d545-efba-4656-8498-70e54355c26b/'
-  - image: 'https://ucarecdn.com/b62a7085-ea29-4c3e-8075-185f1918fd4e/'
-  - image: 'https://ucarecdn.com/419e47ba-3f8b-4e65-9cf0-8246d209c320/'
   - image: 'https://ucarecdn.com/c97cb8a7-1b1d-4755-bb34-06ecbffb3c52/'
-  - image: 'https://ucarecdn.com/0654bea1-2a5e-455c-9cef-f84897b18bc5/'
 ---
 
