@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Louis
-featuredImage: 'https://ucarecdn.com/26c67939-5fb4-43a4-9159-c9517a7df44c/'
+featuredImage: 'https://ucarecdn.com/d5e0b816-e501-4732-83e9-1908e49de806/'
 imageThumbnail: >-
   https://ucarecdn.com/bcc90835-f5b3-44d2-89ce-fa84ddb88063/-/crop/925x1353/361,162/-/preview/
 firstName: Louis
@@ -21,7 +21,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0e36eac0-672c-4b57-bf1e-42af54943659/'
   - image: 'https://ucarecdn.com/5feacfe9-275b-4e94-9f57-a5f39d94a124/'
   - image: 'https://ucarecdn.com/06a0b8c6-33fe-469a-bab7-b0041c3a5c26/'
-  - image: 'https://ucarecdn.com/815351c4-8c4b-453b-81c3-c0d6cb98dc8d/'
+  - image: 'https://ucarecdn.com/040715a3-5fb0-4dbb-be5f-84c845828298/'
   - image: 'https://ucarecdn.com/0167e0fb-d669-4294-ba9f-7478cfabecf3/'
   - image: 'https://ucarecdn.com/0f1c1346-c902-4e6d-9e98-6248f3ffd04c/'
   - image: 'https://ucarecdn.com/c38228ca-90cd-46f0-8bee-453df4d2532a/'
