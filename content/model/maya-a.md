@@ -10,9 +10,9 @@ firstName: Maya A
 collection: Women
 height: 170cm
 measurementType: bust
-bust: 88cm
-waist: 70cm
-hips: '95cm '
+bust: 84cm
+waist: 68cm
+hips: '90cm '
 size: Size 8
 shoeSize: '8'
 hair: Brown
