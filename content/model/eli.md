@@ -8,9 +8,9 @@ firstName: Eli
 collection: Boys
 height: 150cm
 measurementType: chest
-bust: 81cm
-waist: 77cm
-hips: 90cm
+bust: 83cm
+waist: 78cm
+hips: 85cm
 size: '12'
 shoeSize: '8'
 hair: brown
