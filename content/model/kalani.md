@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/d5c939f3-1ebc-49ed-80bc-551406b50aa8/-/crop/896x1195/102,0/-/preview/
 firstName: Kalani
 collection: Girls
-height: 123cm
+height: 127cm
 measurementType: bust
 bust: 63cm
 waist: 58cm
