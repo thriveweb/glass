@@ -3,8 +3,7 @@ template: ModelPage
 title: SV Bayli
 featuredImage: >-
   https://ucarecdn.com/408b2743-abe7-46ff-b2c7-0bdec0736617/-/crop/2449x1265/0,121/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/f6429e63-7f9c-4cd6-8fab-dc989995ca2c/-/crop/3174x4741/429,190/-/preview/
+imageThumbnail: 'https://ucarecdn.com/03624e87-b5d9-489c-87b4-f9a08cd380c9/-/preview/'
 firstName: Bayli
 collection: Girls
 height: 140cm
