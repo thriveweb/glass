@@ -10,6 +10,7 @@ height: 167cm
 measurementType: chest
 bust: 88cm
 waist: 77cm
+size: L/32
 hair: Brown
 eyes: Brown
 imagePortfolio:
