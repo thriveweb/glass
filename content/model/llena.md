@@ -2,7 +2,7 @@
 template: ModelPage
 title: Llena
 featuredImage: >-
-  https://ucarecdn.com/f5c8679c-c8c0-425d-8404-467f47e1113f/-/crop/1440x886/0,508/-/preview/
+  https://ucarecdn.com/bf566add-ab85-475c-98ca-6194a04b47f7/-/crop/1024x579/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/88ca9c67-759a-4b88-8b15-91f637c5f6a9/-/crop/1654x2365/115,0/-/preview/
 firstName: Llena
