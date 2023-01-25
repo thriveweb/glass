@@ -4,7 +4,7 @@ title: Sv Alyx
 featuredImage: >-
   https://ucarecdn.com/f6a8b428-bd2d-43d9-8a3b-89f526c19c52/-/crop/2449x1427/0,70/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b117ca0a-98a1-4397-8195-f3e4b165d06c/-/crop/3793x5349/372,0/-/preview/
+  https://ucarecdn.com/998bd625-85b9-476b-9b2d-34fa849437f2/-/crop/1006x1370/19,0/-/preview/
 firstName: Alyx
 collection: Girls
 height: 143cm
