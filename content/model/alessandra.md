@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/e6f3646e-d928-41f3-80b5-b40cee9c00f9/-/crop/3262x3577/1011,0/-/preview/
 firstName: Alessandra
 collection: Girls
-height: 115.5cm
+height: 126cm
 measurementType: bust
-bust: 59cm
-waist: 52.5cm
-hips: 62cm
+bust: 57cm
+waist: 54cm
+hips: 63cm
 size: '6'
 shoeSize: US 12
 hair: Blonde
