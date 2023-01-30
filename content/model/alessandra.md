@@ -2,9 +2,9 @@
 template: ModelPage
 title: Alessandra
 featuredImage: >-
-  https://ucarecdn.com/d8bf3668-0039-4227-8f6d-b8a0c589284d/-/crop/366x364/381,55/-/preview/
+  https://ucarecdn.com/c065943c-b756-4366-a56f-619a0a11a767/-/crop/2059x1148/0,116/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/e6f3646e-d928-41f3-80b5-b40cee9c00f9/-/crop/3262x3577/1011,0/-/preview/
+  https://ucarecdn.com/cbda32c6-a751-469c-a6ab-5137ed57ab9d/-/crop/1560x1934/33,0/-/preview/
 firstName: Alessandra
 collection: Girls
 height: 126cm
@@ -17,15 +17,17 @@ shoeSize: US 11
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/dd5db954-ae5b-4f10-b1bd-50d8e8b13cbb/'
+  - image: 'https://ucarecdn.com/420321d1-f211-41a5-a245-f7478ec5933a/'
+  - image: 'https://ucarecdn.com/1e5e2b6e-3826-48c2-a105-a3d0bee9b5d0/'
   - image: 'https://ucarecdn.com/c5260371-2e6d-46a9-baff-8b5821631e34/'
-  - image: 'https://ucarecdn.com/b2f6078b-8902-4732-bf90-0c44177f05b8/'
+  - image: 'https://ucarecdn.com/5ffb8694-e5b6-4107-ae39-f7fd6ea5af31/'
+  - image: 'https://ucarecdn.com/a9658bee-ce56-4f08-ae83-16bc3d40a713/'
   - image: 'https://ucarecdn.com/80fc780d-105b-403a-8eef-678aae0c939f/'
-  - image: 'https://ucarecdn.com/3b1264c0-de13-4644-ab73-486873ad9b0d/'
-  - image: 'https://ucarecdn.com/9fb63aa0-e0e7-44b5-8d58-766703d074d4/'
+  - image: 'https://ucarecdn.com/940a3a16-f014-4646-aaf3-1dabfe76824b/'
   - image: 'https://ucarecdn.com/c3baed52-2b6b-4924-be3c-797756172561/'
-  - image: 'https://ucarecdn.com/b357e892-0fb0-4335-928a-db7bb2bdb07d/'
-  - image: 'https://ucarecdn.com/452d4842-f468-4c1c-be74-9948a4f5e91a/'
-  - image: 'https://ucarecdn.com/e25ef743-c352-4010-8176-34ae57dea3d8/'
+  - image: 'https://ucarecdn.com/06b48c3a-2a83-478c-afd4-494e684c04b8/'
+  - image: 'https://ucarecdn.com/36dc0224-b8ea-4412-b406-0157ff504459/'
+  - image: 'https://ucarecdn.com/07874038-f0cb-4db1-a11b-39ddd905aa71/'
+  - image: 'https://ucarecdn.com/46334ce9-0ffe-4f09-b442-00a97fc042a0/'
 ---
 
