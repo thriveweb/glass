@@ -19,6 +19,7 @@ eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/c3b261a0-9d7e-4e93-8a98-05304e765f31/'
   - image: 'https://ucarecdn.com/746c9ca1-e8df-46ba-8786-72b78b148241/'
+  - image: 'https://ucarecdn.com/094e465d-6326-450a-8f84-12812e696e82/'
   - image: 'https://ucarecdn.com/ac72e4bf-f4a8-49af-ba74-df22676d4cb9/'
 ---
 
