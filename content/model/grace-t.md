@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b886e557-bdc7-4e51-aa0e-9c4193b466fc/-/crop/1199x1621/167,54/-/preview/
 firstName: Grace T
-collection: Emerging
+collection: Girls
 imagePortfolio:
   - image: 'https://ucarecdn.com/c1389cbc-8508-4aee-88c5-168141787805/'
   - image: 'https://ucarecdn.com/ee10e864-f91f-4abe-9df5-89417c8db822/'
