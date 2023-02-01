@@ -16,6 +16,7 @@ shoeSize: 10 kids
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/4406e931-9922-4715-868e-8cfe27eebacb/'
   - image: 'https://ucarecdn.com/c6b1ff2f-eb4f-437e-bf81-aa7545331365/'
   - image: 'https://ucarecdn.com/ff171ed8-460b-49d5-b853-89fce51d5f44/'
   - image: 'https://ucarecdn.com/02ae2596-cf18-4729-bb3e-1ed7479430bd/'
