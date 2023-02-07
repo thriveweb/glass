@@ -2,7 +2,7 @@
 template: ModelPage
 title: Audrey
 featuredImage: >-
-  https://ucarecdn.com/82bac966-f7ff-4014-bf6d-5ccd0fc47b3b/-/crop/2351x1456/430,0/-/preview/
+  https://ucarecdn.com/a88e493d-d2fd-4b2f-b1df-2ee74d059521/-/crop/2449x1357/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/169aefeb-3de3-42a4-b84d-26674765e059/-/crop/532x648/195,200/-/preview/
 firstName: Audrey
@@ -23,6 +23,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/209bf2dc-88b9-4760-9515-50cb879658b9/'
   - image: 'https://ucarecdn.com/56bd6bb1-aabf-4818-ba0a-5c0daf78371e/'
   - image: 'https://ucarecdn.com/d44f7a43-f472-4f1f-bab0-64bcc1d5799b/'
+  - image: 'https://ucarecdn.com/d8b2de34-e252-414c-b3c6-5df38a2b1d6a/'
   - image: 'https://ucarecdn.com/fd7e6fc0-6d8b-47a5-8552-4431aac27668/'
   - image: 'https://ucarecdn.com/f8fbebfa-25c0-4250-92c5-e5e2ada28d78/'
   - image: 'https://ucarecdn.com/79854025-0cdf-401b-b5f7-f329b2baa599/'
