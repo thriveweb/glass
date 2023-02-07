@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Baby Valerie
-featuredImage: 'https://ucarecdn.com/d2116162-e7f9-470b-aec1-2e22daba3322/'
+featuredImage: >-
+  https://ucarecdn.com/d2116162-e7f9-470b-aec1-2e22daba3322/-/crop/4032x2373/0,585/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b79a52ba-9386-40ab-968b-bd71081b6ba5/-/crop/1451x1834/770,804/-/preview/
 firstName: Baby Valerie
