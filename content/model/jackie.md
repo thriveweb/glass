@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jackie
 featuredImage: >-
-  https://ucarecdn.com/c64cdf0b-0392-47a7-a4c5-7b9e71f14078/-/crop/3307x1333/0,0/-/preview/
+  https://ucarecdn.com/86912007-d905-434c-92e8-2453645cab1c/-/crop/5445x2945/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/4337ffa1-feee-4f24-96ad-d3f9afb79c43/'
 firstName: Jackie
 collection: Women
@@ -31,11 +31,13 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/504bfc7f-2de2-4841-ad16-9ea93f294d3b/'
   - image: 'https://ucarecdn.com/803aa161-fb87-49a1-b375-1031c5af76eb/'
   - image: 'https://ucarecdn.com/ee7f52c0-0451-4cf1-bac2-3d90e7d2cf5b/'
+  - image: 'https://ucarecdn.com/50aa951d-3b87-4c70-8328-7684c67f662a/'
   - image: 'https://ucarecdn.com/da7f414c-e299-4f74-8306-14cc2a3e916a/'
   - image: 'https://ucarecdn.com/832285e6-d90e-499a-b33f-9e5104c4393a/'
   - image: 'https://ucarecdn.com/a2028091-6306-437e-b9a6-a86caab50029/'
   - image: 'https://ucarecdn.com/015757ca-2915-4d06-8cd2-331ee1afea0f/'
   - image: 'https://ucarecdn.com/a7405f00-bd1e-4053-90ae-3d3498353d7b/'
+  - image: 'https://ucarecdn.com/81ae3c42-3db5-49f9-bc4a-a220c771c0d7/'
   - image: 'https://ucarecdn.com/65e9484f-d9f7-480d-815f-e207440ab2ce/'
   - image: 'https://ucarecdn.com/b02e019f-3c07-427a-9e7d-9c5f27db748e/'
   - image: 'https://ucarecdn.com/1ee09ef9-4df5-498e-bcfa-ecd0d7e1dc15/'
