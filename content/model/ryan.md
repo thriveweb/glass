@@ -16,7 +16,5 @@ hair: Auburn
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/b4d8c3a7-f776-4f8b-ac6d-8b3d9ec81fdc/'
-  - image: >-
-      https://ucarecdn.com/e280f58d-7575-461b-81b4-c7915ce94e0a/-/crop/2272x1648/35,84/-/preview/-/rotate/90/
 ---
 
