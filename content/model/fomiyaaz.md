@@ -10,7 +10,7 @@ collection: Classic
 height: 172cm
 measurementType: chest
 bust: 101cm
-waist: '89'
+waist: 89cm
 hips: 96cm
 size: 'Shirt: M Pants: 34'
 shoeSize: '9.5'
