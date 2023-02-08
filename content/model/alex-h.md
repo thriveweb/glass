@@ -19,7 +19,6 @@ eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/ec116e7c-ecc0-4577-9e5a-b1d564e7abec/'
   - image: 'https://ucarecdn.com/d0ec5afb-9672-4805-954e-f43753b43491/'
-  - image: 'https://ucarecdn.com/e93dcc20-0a08-43c6-b7fb-28ceeff2fc1c/'
 meta:
   title: Alex H
 ---
