@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Morris Family
-featuredImage: 'https://ucarecdn.com/19635cff-c1d1-4fcb-b1df-2bd0fdb165a1/'
+featuredImage: >-
+  https://ucarecdn.com/19635cff-c1d1-4fcb-b1df-2bd0fdb165a1/-/crop/2449x1264/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/fae296d9-6a42-4900-9346-09089ffa7f70/-/crop/1259x1568/417,0/-/preview/
 firstName: Morris Family
