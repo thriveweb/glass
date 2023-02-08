@@ -9,9 +9,10 @@ thumbnailVideo: ''
 firstName: Tegan
 collection: Classic
 height: 168cm
-bust: 88cm
+measurementType: bust
+bust: 84cm
 waist: 73cm
-hips: 88cm
+hips: 94cm
 size: '8'
 shoeSize: '7.5'
 hair: Blonde
