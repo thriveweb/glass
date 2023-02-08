@@ -11,7 +11,7 @@ collection: Classic
 height: 168cm
 measurementType: bust
 bust: 84cm
-waist: 73cm
+waist: 71cm
 hips: 94cm
 size: '8'
 shoeSize: '7.5'
