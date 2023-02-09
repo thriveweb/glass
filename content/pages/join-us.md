@@ -2,7 +2,7 @@
 template: JoinUsPage
 slug: join-us
 featuredImage: >-
-  https://glassmanagement.imgix.net/images/uploads/avel-chuklanov-509630-unsplash.png
+  https://ucarecdn.com/844b4dcd-fe15-49ae-a29e-7df993da990e/-/crop/1170x844/0,2/-/preview/
 subTitle: Fill the Form
 title: Join Us
 intro:
