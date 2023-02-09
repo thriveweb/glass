@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Sarah C
+title: Sarah EXTRA
 featuredImage: 'https://ucarecdn.com/530bc940-d053-42a5-86b2-54572ebe5fe9/'
 imageThumbnail: 'https://ucarecdn.com/c4b94c6a-fc97-4872-815f-741f991fd055/'
-firstName: Sarah C
+firstName: Sarah EXTRA
 collection: Extras
 height: 157cm
 measurementType: bust
