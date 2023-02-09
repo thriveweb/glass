@@ -2,8 +2,7 @@
 template: ModelPage
 title: Alex EXTRA
 featuredImage: 'https://ucarecdn.com/db5eff49-3aa0-490e-9efb-8380b6c74514/'
-imageThumbnail: >-
-  https://ucarecdn.com/57ae130a-a21f-4835-abda-a909a911acf9/-/crop/893x1200/150,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/201f5cc2-6d76-4a84-9f1d-ef918d0128d4/-/preview/'
 firstName: Alex EXTRA
 collection: Extras
 height: 175cm
