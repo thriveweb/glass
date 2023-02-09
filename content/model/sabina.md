@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/79428137-52f1-4abb-82a7-580f9c5c8976/-/crop/1097x1464/265,88/-/preview/
 firstName: Sabina
 collection: Classic
-height: 167cm
+height: 168cm
 measurementType: bust
 bust: 81cm
 waist: 71cm
