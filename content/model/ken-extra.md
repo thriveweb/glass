@@ -2,7 +2,7 @@
 template: ModelPage
 title: Ken EXTRA
 featuredImage: 'https://ucarecdn.com/7c1d8273-c06d-4940-9200-8ec33d214864/'
-imageThumbnail: 'https://ucarecdn.com/3999c785-8a06-4d6e-a62b-973dbd36f2e8/'
+imageThumbnail: 'https://ucarecdn.com/b3aab1bf-b38a-41da-8692-496cf8af8eeb/'
 firstName: Ken EXTRA
 collection: Extras
 height: 5'7
