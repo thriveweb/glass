@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Tanya
+title: Tanya EXTRA
 featuredImage: 'https://ucarecdn.com/328573f7-3471-4c09-8c47-7cbf2c7bb75b/'
 imageThumbnail: 'https://ucarecdn.com/43fc6788-8e95-4f2d-9ca6-305f60058a5d/'
-firstName: Tanya
+firstName: Tanya EXTRA
 collection: Extras
 height: 172cm
 measurementType: bust
