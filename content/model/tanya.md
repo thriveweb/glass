@@ -7,7 +7,7 @@ firstName: Tanya
 collection: Extras
 height: 172cm
 measurementType: bust
-bust: 90cm
+bust: 88cm
 waist: 73cm
 hips: 96cm
 size: 8/10
