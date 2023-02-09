@@ -19,8 +19,7 @@ gallery:
       title: Girls
     - image: 'https://ucarecdn.com/d026e750-94da-47a1-ac1f-2500bb5cc074/'
       title: Emerging
-    - image: >-
-        https://ucarecdn.com/90f4f270-1e6c-473a-9399-81391227bbda/-/crop/2018x1159/0,45/-/preview/
+    - image: 'https://ucarecdn.com/05db6803-c470-4c71-b8ac-f57cb51e8eba/'
       title: Family
     - image: 'https://ucarecdn.com/e7f3818f-a1fb-4893-a4d3-985bdd0257be/'
       title: Extras
