@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Sebastian
+title: Sebastian EXTRA
 featuredImage: >-
   https://ucarecdn.com/df7b2ea4-946c-4360-9722-4ae189b7c7e9/-/crop/1690x1292/0,92/-/preview/
 imageThumbnail: 'https://ucarecdn.com/7932f29b-1e2a-463d-be35-b46d5afe3028/'
-firstName: Sebastian
+firstName: Sebastian EXTRA
 collection: Extras
 height: 180cm
 measurementType: chest
