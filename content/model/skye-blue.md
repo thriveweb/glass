@@ -4,7 +4,7 @@ title: Skye-Blue
 featuredImage: 'https://ucarecdn.com/9a83f7a7-1611-459a-b1c9-517798d27eca/'
 imageThumbnail: >-
   https://ucarecdn.com/2c21575c-a169-4150-9cf1-7f9de982f3b9/-/crop/908x1273/271,0/-/preview/
-firstName: Skye
+firstName: Skye-Blue
 collection: Extras
 height: '176.5'
 measurementType: bust
@@ -17,6 +17,7 @@ hair: Dark Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/13abf00c-8f1e-4b1a-8c27-1d7de2e31f16/'
+  - image: 'https://ucarecdn.com/b1a483f2-285c-4d94-a733-98e12d765c79/'
   - image: 'https://ucarecdn.com/e0360db1-b248-4782-9c5b-5bbc1a2f263e/'
   - image: 'https://ucarecdn.com/ce9f8ec5-7137-4d55-996d-fafca723307b/'
   - image: 'https://ucarecdn.com/5fd82380-03f3-4412-8412-22633727c56d/'
