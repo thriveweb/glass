@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Loui
+title: Louie
 featuredImage: >-
   https://ucarecdn.com/1a4d4b87-babb-4c40-9334-dcf6881cd155/-/crop/369x245/0,109/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d7e9734c-59fb-4485-8dd7-4f87d1228118/-/crop/369x472/0,43/-/preview/
-firstName: Loui
+firstName: Louie
 collection: Extras
 height: '185'
 measurementType: chest
