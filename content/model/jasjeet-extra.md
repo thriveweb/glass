@@ -12,6 +12,8 @@ waist: 93cm
 hips: 109cm
 size: 'Shirt: M/L Pants: 34'
 shoeSize: US 10
+hair: Black
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/d0de2366-b5c5-4045-bdab-27080c9affff/'
 ---
