@@ -4,6 +4,7 @@ title: Blessed EXTRA
 featuredImage: 'https://ucarecdn.com/b1c0e6a3-6a11-497f-bc62-68051b067e29/'
 imageThumbnail: 'https://ucarecdn.com/2d50ebb7-f2df-4596-8782-a501c1bab011/'
 firstName: Blessed EXTRA
+collection: Extras
 height: 5'8
 measurementType: bust
 bust: 40 inches
