@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Alex EXTRA
+title: Alex K EXTRA
 featuredImage: 'https://ucarecdn.com/db5eff49-3aa0-490e-9efb-8380b6c74514/'
 imageThumbnail: 'https://ucarecdn.com/201f5cc2-6d76-4a84-9f1d-ef918d0128d4/-/preview/'
-firstName: Alex EXTRA
+firstName: Alex K EXTRA
 collection: Extras
 height: 175cm
 measurementType: chest
