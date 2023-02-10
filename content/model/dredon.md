@@ -2,7 +2,7 @@
 template: ModelPage
 title: Dredon
 featuredImage: >-
-  https://ucarecdn.com/ae2177b5-0c43-4ef7-b2ec-a2001fbbcc67/-/crop/5238x2627/0,0/-/preview/
+  https://ucarecdn.com/8bf8f13b-5bf0-46d8-b7da-ab8c94c40e59/-/crop/1718x842/860,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/be47d755-4759-4b1b-ac21-9004e91bd421/-/crop/643x828/388,246/-/preview/
 firstName: Dredon
