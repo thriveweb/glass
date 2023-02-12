@@ -12,7 +12,8 @@ class Form extends React.Component {
     action: '',
 
     successMessage:
-      'Thank you for your submission, we will be in contact with you shortly',
+      // 'Thank you for your submission, we will be in contact with you shortly',
+      'Thank you your submission has been received, please note you will only be contacted if you are successful.',
     errorMessage:
       'There is a problem, your message has not been sent, please try contacting us via email'
   }

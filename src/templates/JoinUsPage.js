@@ -65,8 +65,9 @@ export class JoinUsPageTemplate extends Component {
                   <polyline points='22 4 12 14.01 9 11.01' />
                 </svg>
                 <p>
-                  Thank you for your submission, we will be in contact with you
-                  shortly
+                  {/* Thank you for your submission, we will be in contact with you
+                  shortly */}
+                  Thank you your submission has been received, please note you will only be contacted if you are successful.
                 </p>
               </div>
             )}
