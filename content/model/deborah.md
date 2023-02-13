@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/2a8e7454-727a-4710-80cc-7aa1ae266615/-/crop/1091x1354/629,0/-/preview/
 firstName: Deborah
-collection: Extras
+collection: Classic
 height: 163cm
 measurementType: bust
 bust: 89cm
