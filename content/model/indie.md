@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/67ca2b74-5b62-4620-a5d3-48a30654e678/-/crop/2574x3228/1275,8/-/preview/
 firstName: Indie
 collection: Girls
-height: 113cm
+height: 118cm
 measurementType: bust
-bust: 53cm
-waist: 47cm
+bust: 59cm
+waist: 51cm
 hips: 50cm
 size: 5-6
-shoeSize: '12'
+shoeSize: '1'
 hair: Auburn
 eyes: Brown
 imagePortfolio:
