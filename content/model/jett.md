@@ -6,13 +6,13 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/5d221293-8273-4d2a-a950-ca4ecaf8c11e/'
 firstName: Jett
 collection: Boys
-height: 123cm
+height: 136cm
 measurementType: chest
-bust: 61cm
-waist: 56cm
+bust: 65cm
+waist: 58cm
 hips: 65cm
 size: 7/8
-shoeSize: US 3/4
+shoeSize: '5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
