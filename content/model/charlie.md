@@ -8,8 +8,8 @@ firstName: Charlie
 collection: Boys
 height: 151cm
 measurementType: chest
-bust: 64cm
-waist: 73cm
+bust: 73cm
+waist: 64cm
 hips: 67cm
 size: 10-12
 shoeSize: '9'
