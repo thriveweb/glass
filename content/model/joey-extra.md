@@ -2,17 +2,17 @@
 template: ModelPage
 title: Joey EXTRA
 featuredImage: 'https://ucarecdn.com/5cbc51a8-59cf-400f-a993-eecdb49b64dd/'
-imageThumbnail: 'https://ucarecdn.com/86c15824-3f18-4c27-aae4-38c0659db754/'
+imageThumbnail: 'https://ucarecdn.com/34b97671-e96e-4d76-b64b-ec78110078b8/'
 firstName: Joey EXTRA
 collection: Extras
-height: 176cm
+height: 177cm
 measurementType: chest
-bust: 88cm
+bust: 86cm
 waist: 83cm
 hips: 82cm
 size: Small
 shoeSize: '10'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/4817f2e6-db72-424b-b21c-055a69a7342a/'
+  - image: 'https://ucarecdn.com/452458ce-468b-4613-8c2f-3947759b6d1e/'
 ---
 
