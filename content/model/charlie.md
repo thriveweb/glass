@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/7ed2a8b1-c438-4c54-b4d7-b7b9d935adef/-/crop/1112x1462/590,21/-/preview/
 firstName: Charlie
 collection: Boys
-height: 142cm
+height: 151cm
 measurementType: chest
-bust: 67cm
-waist: 61cm
+bust: 64cm
+waist: 73cm
 hips: 67cm
 size: 10-12
-shoeSize: 8-9
+shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
