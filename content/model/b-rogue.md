@@ -8,13 +8,13 @@ imageThumbnail: >-
 thumbnailVideo: ''
 firstName: Rogue
 collection: Boys
-height: 89cm
+height: 101cm
 measurementType: chest
-bust: 49cm
-waist: 47cm
+bust: 52cm
+waist: 49cm
 hips: 46cm
 size: '2'
-shoeSize: '8'
+shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
