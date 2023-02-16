@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Gigi '
 featuredImage: >-
-  https://ucarecdn.com/15a51c6a-c3d0-4d46-a3d5-4f9c007352bd/-/crop/960x682/0,168/-/preview/
+  https://ucarecdn.com/341d743a-1fee-4483-802d-4a2e8b14608b/-/crop/1170x632/0,205/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b6a2954e-cd04-4f0f-a7c1-97b3dc7890d9/-/crop/543x753/265,0/-/preview/
 firstName: Gigi
