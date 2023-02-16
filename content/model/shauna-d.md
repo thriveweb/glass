@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/b1a93add-b1d7-4892-864f-f2872a501771/-/crop/3510x4997/620,0/-/preview/
 firstName: Shauna D
 collection: Classic
-height: 161cm
+height: 163cm
 measurementType: bust
 bust: 96cm
 waist: 88cm
