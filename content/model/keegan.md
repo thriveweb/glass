@@ -4,7 +4,7 @@ title: Keegan
 featuredImage: 'https://ucarecdn.com/9275a6d8-efc9-4315-b2da-34fc867ab868/'
 imageThumbnail: 'https://ucarecdn.com/d3471e63-2bf9-4999-b9bb-d321ad12daf8/'
 firstName: Keegan
-collection: Extras
+collection: ''
 height: 180cm
 measurementType: chest
 bust: 36in
