@@ -8,13 +8,13 @@ imageThumbnail: >-
   https://ucarecdn.com/9d9485f7-8ab2-412c-b4a8-66839b0211fe/-/crop/3496x4088/418,300/-/preview/
 firstName: Joey G
 collection: Emerging
-height: 176cm
+height: 178cm
 measurementType: chest
-bust: 85cm
-waist: 76cm
-hips: 82cm
-size: 'Mens: S'
-shoeSize: '9.5'
+bust: 87cm
+waist: 81cm
+hips: 84cm
+size: 'Mens: M'
+shoeSize: '10.5'
 hair: Red
 eyes: Brown
 imagePortfolio:
