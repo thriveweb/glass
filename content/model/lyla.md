@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/8e200b2d-7f87-422c-a1c5-0726f9df027d/-/crop/1007x1103/482,0/-/preview/
 firstName: Lyla
 collection: Girls
-height: 128cm
+height: 134cm
 measurementType: bust
 bust: 62cm
 waist: 53cm
