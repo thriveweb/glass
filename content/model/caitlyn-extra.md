@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Caitlyn EXTRA
+title: Caitlynn EXTRA
 featuredImage: 'https://ucarecdn.com/2810ae04-729e-412f-ad2c-b6ca0bd6cc25/'
 imageThumbnail: 'https://ucarecdn.com/fc92ccc2-1865-44d1-a0c3-888b473c5bff/'
-firstName: Caitlyn EXTRA
+firstName: Caitlynn EXTRA
 collection: Extras
 height: 166cm
 measurementType: bust
