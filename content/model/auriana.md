@@ -17,10 +17,12 @@ shoeSize: '13'
 hair: Light brown/blonde
 eyes: Green
 imagePortfolio:
+  - image: 'https://ucarecdn.com/0af41341-f08f-4ad1-8eb5-e5615ba6aa2d/'
   - image: 'https://ucarecdn.com/8205328d-c134-4231-af80-fef9745200cd/'
   - image: 'https://ucarecdn.com/fe88692c-3729-4129-9ed8-477b34968c62/'
   - image: 'https://ucarecdn.com/3f63e160-0df9-4557-87d8-98ae2f49c81e/'
   - image: 'https://ucarecdn.com/2c777faa-7913-4839-aa24-ed7a5d79e6fe/'
+  - image: 'https://ucarecdn.com/b8fc000e-f228-4b0e-833b-c7a53f6d828c/'
   - image: 'https://ucarecdn.com/7f9b41b6-6887-40e0-a1d1-417fd703b43c/'
   - image: 'https://ucarecdn.com/e142c4b1-8207-4066-8796-6c5d4714ac81/'
   - image: 'https://ucarecdn.com/b7eac039-bc7e-4d6a-8784-7fe2ffd42ac2/'
