@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/fb7469c6-f003-484c-a852-dd66afca9316/-/crop/880x1136/361,0/-/preview/
 firstName: Zayden
 collection: Boys
-height: 115cm
+height: 125cm
 measurementType: chest
-bust: 66cm
-waist: 63cm
+bust: 63cm
+waist: 61cm
 hips: 63cm
 size: '7'
-shoeSize: 12-13
+shoeSize: '2'
 hair: Brown
 eyes: Brown
 imagePortfolio:
