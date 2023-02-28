@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/b163a12c-539a-4060-87ea-ff0543c23b0e/-/crop/455x625/15,0/-/preview/
 firstName: Manaia
 collection: Girls
-height: 134cm
+height: 145cm
 measurementType: bust
-bust: 66cm
-waist: 60cm
+bust: 69cm
+waist: 64cm
 hips: 68cm
 size: '10'
-shoeSize: '2'
+shoeSize: '4'
 hair: Light Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/1bc8a5ba-5a95-4360-8a24-9b7719ffcb6a/'
