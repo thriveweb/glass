@@ -2,8 +2,7 @@
 template: ModelPage
 title: Ebon
 featuredImage: 'https://ucarecdn.com/34d5cbaf-9856-4f84-8976-6c55fe63c780/'
-imageThumbnail: >-
-  https://ucarecdn.com/f279ab1b-68e1-4fc6-bfeb-0e7814c3d992/-/crop/1043x1337/476,52/-/preview/
+imageThumbnail: 'https://ucarecdn.com/34580aa6-93ec-492e-bfc7-4b2aa45bb46d/'
 firstName: Ebon
 collection: Classic
 height: 167cm
@@ -21,5 +20,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/6c75a3e4-83f4-46b8-b285-525e23af7cca/'
   - image: 'https://ucarecdn.com/bb41d5f5-648a-49dc-a3d9-972710d32b4b/'
   - image: 'https://ucarecdn.com/8e685ae4-69d3-49ca-9579-e783661f7832/'
+  - image: 'https://ucarecdn.com/ee0631c8-f3c5-4133-9de2-52f40e779ecc/'
 ---
 
