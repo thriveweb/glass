@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Baby Ziggy
+title: ' Ziggy'
 featuredImage: >-
   https://ucarecdn.com/4de3bf71-bce8-42a8-b040-73a8d15f9a97/-/crop/1170x696/0,86/-/preview/
 imageThumbnail: >-
@@ -8,8 +8,8 @@ imageThumbnail: >-
 firstName: Baby Ziggy
 collection: Boys
 height: 74cm
-size: 0-1
-shoeSize: 19-20
+size: 18mths
+shoeSize: ''
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/40251cac-1e07-4e43-b93c-7e14bb1ced3c/'
@@ -17,7 +17,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/8b8ee450-29fc-412c-b133-02a5a07402af/'
   - image: 'https://ucarecdn.com/3692607d-7ad3-43fc-aba1-7acd8b0d7773/'
   - image: 'https://ucarecdn.com/a6661f88-3d58-4638-b405-e8d73d2fe48f/'
-  - image: 'https://ucarecdn.com/9c930b6b-2ff9-466c-8dc6-f48e98340c99/'
+  - image: 'https://ucarecdn.com/5244d70d-bf3b-4c3a-a8e9-1ca122159952/'
   - image: 'https://ucarecdn.com/55caa8c5-ffe2-46b7-b3f7-24c31cabf219/'
   - image: 'https://ucarecdn.com/b6d3305a-6232-41c1-a24a-75f60aa84a4e/'
   - image: 'https://ucarecdn.com/fa54e234-7721-44fa-858c-2330ee378ccf/'
