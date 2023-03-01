@@ -9,9 +9,9 @@ firstName: Jasmine
 collection: Classic
 height: 166cm
 measurementType: bust
-bust: 76cm
-waist: 66cm
-hips: 86cm
+bust: 80cm
+waist: 71cm
+hips: 92cm
 size: '8'
 shoeSize: '8'
 hair: Brown
