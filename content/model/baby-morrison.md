@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/1b362e73-40a1-45ca-88d2-e8fe37344c34/-/crop/866x1117/597,923/-/preview/
 firstName: Morrison
 collection: Boys
-height: 101cm
+height: 104cm
 measurementType: chest
 bust: 53cm
 waist: 46.5cm
 hips: 48.5cm
-size: '3'
+size: '4'
 shoeSize: US 9
 hair: Blonde
 eyes: Brown
