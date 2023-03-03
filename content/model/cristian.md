@@ -2,7 +2,7 @@
 template: ModelPage
 title: Cristian
 featuredImage: >-
-  https://ucarecdn.com/cdc168ab-bd2e-4a9e-b72c-f154f14118da/-/crop/1923x1385/0,499/-/preview/
+  https://ucarecdn.com/cdc168ab-bd2e-4a9e-b72c-f154f14118da/-/crop/1923x1100/0,482/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/728835b1-41cb-4215-a5c6-0d35f16e3d39/-/crop/686x904/101,0/-/preview/
 firstName: Cristian
