@@ -2,7 +2,7 @@
 template: ModelPage
 title: Lyla Star
 featuredImage: >-
-  https://ucarecdn.com/36f983ef-0c6c-4885-8a41-c29cf1d7d339/-/crop/530x275/0,0/-/preview/
+  https://ucarecdn.com/1a648f2a-66e6-4d4b-8f6d-1d46f3654e62/-/crop/1754x897/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/dd26d5b4-3788-40f9-9f9f-4d4b4b46a322/-/crop/380x462/405,12/-/preview/
 firstName: Lyla Star
@@ -27,6 +27,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0d91dfdd-3e3c-4aab-9b54-ab7b1bed3902/'
   - image: 'https://ucarecdn.com/3ac5ca0e-1504-47e4-8712-d06a6a7aa34d/'
   - image: 'https://ucarecdn.com/40ef43f4-feba-4bda-a1d4-eaa6885b5946/'
+  - image: 'https://ucarecdn.com/cdeee97c-89d1-4984-a5e9-64e7821c08e8/'
   - image: 'https://ucarecdn.com/3d9ba8ad-e4b2-4ff6-a02d-fb78211cc200/'
   - image: 'https://ucarecdn.com/bb8b885b-439f-485c-a6c7-59e7e418ef0e/'
   - image: 'https://ucarecdn.com/d080fe5a-284e-4eb9-bc92-c8b3953453ab/'
@@ -34,6 +35,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/7b93d717-4fd3-4d6c-a4a0-eef28f68b129/'
   - image: 'https://ucarecdn.com/1de48f4d-9177-493d-b2fc-2341fa4e330f/'
   - image: 'https://ucarecdn.com/73889195-7709-4128-bc2e-8e9a91733798/'
+  - image: 'https://ucarecdn.com/d440181a-eee7-4354-b013-4338df505788/'
   - image: 'https://ucarecdn.com/30e60a7d-a725-4d87-ae54-1557ede1bc28/'
   - image: 'https://ucarecdn.com/f5975a8b-7ff0-4873-8170-b868ed34ae0b/'
   - image: 'https://ucarecdn.com/0c174ebb-acdc-4731-a91b-e3b58ea5f539/'
