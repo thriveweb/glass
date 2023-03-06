@@ -2,8 +2,7 @@
 template: ModelPage
 title: Jelka
 featuredImage: 'https://ucarecdn.com/94c0fb12-367a-496c-97e1-6aacd8e499e4/'
-imageThumbnail: >-
-  https://ucarecdn.com/4ea842ff-be4a-462b-83b5-3cff94547cee/-/crop/1115x1462/354,224/-/preview/
+imageThumbnail: 'https://ucarecdn.com/05394084-dbbf-4fc3-ac86-363374eef8ce/'
 firstName: Jelka
 collection: Extras
 hair: Brown
@@ -15,5 +14,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/93ef4fe9-3b5f-424c-a649-810f05c1babd/'
   - image: 'https://ucarecdn.com/7d47ae5b-49ff-4197-8827-d636e8a2f7f8/'
   - image: 'https://ucarecdn.com/eb779464-cfdb-4208-84be-fd573dd40907/'
+  - image: 'https://ucarecdn.com/0db59aaf-8976-4c14-bc7d-77cbf3036e5d/'
 ---
 
