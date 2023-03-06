@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Vernon
-featuredImage: 'https://ucarecdn.com/3d7b38d8-dd6d-4374-b89a-82909ace214d/'
+featuredImage: >-
+  https://ucarecdn.com/2ef3090d-e3b7-49cc-94ba-fc7db7b38d77/-/crop/792x408/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/1bd9437a-b3e9-4e55-bdb8-6fcbdd10e721/-/crop/1135x1718/341,488/-/preview/
 firstName: Vernon
