@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Nick L
+title: Nick L EXTRA
 featuredImage: >-
   https://ucarecdn.com/bca3bc10-e159-4f6b-bb34-a80ae5676db0/-/crop/8256x4064/0,390/-/preview/
 imageThumbnail: 'https://ucarecdn.com/e1526f8a-9c41-4a04-b19e-8a61f270b232/'
-firstName: Nick L
+firstName: Nick L EXTRA
 collection: Extras
 height: 183cm
 measurementType: chest
