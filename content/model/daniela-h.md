@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Daniela H
-featuredImage: 'https://ucarecdn.com/9025a1b9-42ac-473c-ae64-6a2d5d85656d/'
+featuredImage: 'https://ucarecdn.com/28a6ee7a-6d7e-4b82-8aa3-9956685ee50c/'
 imageThumbnail: >-
   https://ucarecdn.com/a8c6c4ed-2f27-4200-966e-27467103cb9b/-/crop/992x1197/610,0/-/preview/
 firstName: Daniela H
