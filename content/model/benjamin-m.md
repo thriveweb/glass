@@ -2,7 +2,7 @@
 template: ModelPage
 title: Benjamin M
 featuredImage: >-
-  https://ucarecdn.com/86d2042b-6926-43e5-9baa-918955af667e/-/crop/2448x1469/0,0/-/preview/
+  https://ucarecdn.com/86d2042b-6926-43e5-9baa-918955af667e/-/crop/2448x1266/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/67a84dfb-53f0-4021-8c72-f8203aa46857/-/crop/757x924/602,58/-/preview/
 firstName: Benjamin M
