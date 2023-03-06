@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Samuel N
-featuredImage: 'https://ucarecdn.com/c758c419-cf84-4e5c-97a6-84a12a2b038d/'
+featuredImage: 'https://ucarecdn.com/cc7aa549-ca48-4759-a996-9e320ef215c4/'
 imageThumbnail: >-
   https://ucarecdn.com/567d0b83-2c40-4f77-8ac9-efb50dd4764b/-/crop/638x924/296,0/-/preview/
 firstName: Samuel N
