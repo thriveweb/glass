@@ -3,7 +3,7 @@ template: ModelPage
 title: Koa C
 featuredImage: 'https://ucarecdn.com/265dcf88-523d-4b7f-8189-274a752ad82e/'
 imageThumbnail: >-
-  https://ucarecdn.com/92281eee-081e-4a71-831b-21a3c8a23bf4/-/crop/1461x1688/211,0/-/preview/
+  https://ucarecdn.com/9be5e7ca-e503-4a22-b0b9-ce98986e0af4/-/crop/592x736/528,192/-/preview/
 firstName: Koa C
 collection: Boys
 height: 105cm
@@ -16,9 +16,11 @@ shoeSize: '10'
 hair: Brown
 eyes: Green
 imagePortfolio:
+  - image: 'https://ucarecdn.com/54c4c061-658a-43f5-a76f-66101fb2e902/'
   - image: 'https://ucarecdn.com/a8b52d29-340e-4c47-aa5f-925ef15bd481/'
   - image: 'https://ucarecdn.com/f048c571-95ac-41da-8815-34f3cd3c46f5/'
   - image: 'https://ucarecdn.com/79702809-9db7-4cbc-bbb3-6043ac210cba/'
+  - image: 'https://ucarecdn.com/333d1a18-fe06-45eb-bf08-14f04a0c7cc7/'
   - image: 'https://ucarecdn.com/aa957ed1-95d5-458e-ac4c-e89891918002/'
   - image: 'https://ucarecdn.com/5da2385e-eed1-46d3-9c75-128c697173dd/'
   - image: 'https://ucarecdn.com/2557a51d-a1c5-4b54-95f7-af388473d025/'
