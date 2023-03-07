@@ -14,6 +14,8 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/a953e260-882b-4207-9001-a31a036fdaed/'
+  - image: >-
+      https://ucarecdn.com/b1d6b180-54e0-4768-9469-4445468bf72d/-/crop/1194x1630/267,0/-/preview/
   - image: 'https://ucarecdn.com/7533bad3-fcf9-4d98-9c3e-35ce402ae25e/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/nestor-.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/nestor-6.jpg'
