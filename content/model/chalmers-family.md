@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Chalmers Family
-featuredImage: 'https://ucarecdn.com/7d217af8-2bee-4fe8-8e5a-3966c8ae87c9/'
+featuredImage: >-
+  https://ucarecdn.com/7d217af8-2bee-4fe8-8e5a-3966c8ae87c9/-/crop/2389x1259/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d9a817a3-0db4-40ab-b564-6f8666a64702/-/crop/1279x1419/422,75/-/preview/
 firstName: Chalmers Family
