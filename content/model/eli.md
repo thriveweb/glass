@@ -11,7 +11,7 @@ measurementType: chest
 bust: 83cm
 waist: 78cm
 hips: 85cm
-size: '12'
+size: 12-14
 shoeSize: '8'
 hair: brown
 eyes: brown
