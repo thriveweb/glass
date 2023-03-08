@@ -8,7 +8,7 @@ firstName: Bowie
 collection: Boys
 height: 135cm
 measurementType: chest
-bust: 65cm
+bust: 67cm
 waist: 60cm
 hips: 65cm
 size: '10'
