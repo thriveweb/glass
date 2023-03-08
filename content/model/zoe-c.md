@@ -12,8 +12,8 @@ measurementType: bust
 bust: 77cm
 waist: 64cm
 hips: 85cm
-size: 12 Kids
-shoeSize: '7'
+size: 14 Kids / 6 Womens
+shoeSize: 7.5-8
 hair: ' Blonde'
 eyes: Brown
 imagePortfolio:
