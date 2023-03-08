@@ -6,9 +6,9 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/5b9aa671-d118-4345-8de8-a9218807d181/'
 firstName: Remi
 collection: Girls
-height: 102cm
+height: 106cm
 size: '3'
-shoeSize: 7-8
+shoeSize: '8'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
