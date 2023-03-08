@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/3ac0369f-b8d5-4790-8450-71c1c12f0f7c/-/crop/3871x4154/129,0/-/preview/
 firstName: Kylah
 collection: Girls
-height: 135cm
+height: 138cm
 measurementType: bust
 bust: 63cm
 waist: 56cm
 hips: 68cm
 size: '8'
-shoeSize: '3'
+shoeSize: '4'
 hair: Brown
 eyes: Brown
 imagePortfolio:
