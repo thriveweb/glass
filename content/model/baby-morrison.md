@@ -13,7 +13,7 @@ bust: 53cm
 waist: 46.5cm
 hips: 48.5cm
 size: '4'
-shoeSize: US 9
+shoeSize: US 10
 hair: Blonde
 eyes: Brown
 imagePortfolio:
