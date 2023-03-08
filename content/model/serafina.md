@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/74b863af-7c0a-4754-b287-4b8c982b61f3/-/crop/683x1051/839,421/-/preview/
 firstName: Serafina
 collection: Girls
-height: 127cm
+height: 128cm
 measurementType: bust
 bust: 58cm
 waist: 56cm
