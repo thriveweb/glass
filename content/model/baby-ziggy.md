@@ -7,9 +7,9 @@ imageThumbnail: >-
   https://ucarecdn.com/d5e8d43d-6f52-46f8-8c0f-0308be1105c6/-/crop/475x609/360,156/-/preview/
 firstName: Baby Ziggy
 collection: Boys
-height: 74cm
+height: 82cm
 size: 18mths
-shoeSize: ''
+shoeSize: '5'
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/40251cac-1e07-4e43-b93c-7e14bb1ced3c/'
