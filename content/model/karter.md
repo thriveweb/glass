@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/af05fa84-c008-4b07-8d96-5b1f8f7c5dc2/-/crop/1413x1882/217,186/-/preview/
 firstName: Karter
 collection: Boys
-height: 135cm
+height: 142cm
 measurementType: chest
 bust: 72cm
 waist: 70cm
 hips: 84cm
-size: '10'
-shoeSize: '3'
+size: '12'
+shoeSize: '4'
 hair: Brown
 eyes: Brown
 imagePortfolio:
