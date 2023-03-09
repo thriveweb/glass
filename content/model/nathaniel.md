@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/60ee9c0e-14b5-4b91-8459-f680a3c2e514/-/crop/727x798/28,0/-/preview/
 firstName: Nathaniel
 collection: Boys
-height: 133cm
+height: 135cm
 measurementType: chest
 bust: 64cm
 waist: '59.5'
