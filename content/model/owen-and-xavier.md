@@ -2,22 +2,18 @@
 template: ModelPage
 title: Owen and Xavier
 featuredImage: >-
-  https://ucarecdn.com/dc6fe54c-bf6b-44c1-b834-4e9db777531c/-/crop/1100x571/0,17/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/616922f8-113f-417b-b9b5-4126af854b8a/-/crop/419x422/300,98/-/preview/
+  https://ucarecdn.com/ec06164a-c69a-491d-8673-b77eb64421fc/-/crop/1138x651/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/890b58e8-b3bb-41a3-9516-2916c60746f0/'
 firstName: Owen and Xavier
 collection: Boys
-size: 0-1
-shoeSize: '6'
+height: 85cm
+size: 2/3
+shoeSize: US8
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/f8c03938-e606-4c2e-aee1-c086ce35190c/'
-  - image: 'https://ucarecdn.com/73b20b2c-e14a-45d4-a8dd-6a18157db17a/'
-  - image: 'https://ucarecdn.com/a841bc36-074d-41c3-839b-b0adced6167f/'
-  - image: 'https://ucarecdn.com/49f7fa99-ace6-4ff1-88e5-39f530c32d36/'
-  - image: 'https://ucarecdn.com/506e011a-c435-4cc4-9772-5234f9b285f0/'
-  - image: 'https://ucarecdn.com/a2bc1098-b03b-4302-9477-38e295d8fbfd/'
-  - image: 'https://ucarecdn.com/131cf054-b857-4cda-a77e-32f48fdbc07e/'
+  - image: 'https://ucarecdn.com/3409b60e-f456-43d4-9cb5-b5ad9c5257a6/'
+  - image: 'https://ucarecdn.com/afb3390e-39ab-4e02-a2ef-23826b1515bf/'
+  - image: 'https://ucarecdn.com/b1ed21d1-3717-417c-a7c2-2c502cfc292d/'
 ---
 
