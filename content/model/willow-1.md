@@ -6,15 +6,16 @@ imageThumbnail: >-
   https://ucarecdn.com/85d126fe-2735-4378-9550-026679a624a0/-/crop/538x688/443,0/-/preview/
 firstName: Willow B
 collection: Girls
-height: 115cm
-size: 4-5
-shoeSize: 10-12
+height: 121cm
+size: 5-6
+shoeSize: 11-12
 hair: Brown
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/08f89906-4c1d-4cd7-895c-3ebffd8c6fa4/'
+  - image: 'https://ucarecdn.com/efae629a-b923-4eb5-a9a8-0e88d3595eb5/'
   - image: 'https://ucarecdn.com/e2265475-0016-45e1-b64e-ea194be8f64b/'
-  - image: 'https://ucarecdn.com/09c0aed1-c03e-4167-be16-3c63a4e878d2/'
+  - image: 'https://ucarecdn.com/e4b98798-9d7b-4f15-a00c-8781d3b84c50/'
   - image: 'https://ucarecdn.com/d9dfcdce-8b22-4b48-b2aa-8aa25e2eacbc/'
   - image: 'https://ucarecdn.com/b4ae8cc6-702d-4943-a3f4-84f60fdde047/'
   - image: 'https://ucarecdn.com/df0f3de8-0040-4c45-a7d4-e88ad0b1d5b9/'
