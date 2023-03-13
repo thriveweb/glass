@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/9b0b28a7-ee54-4e98-bf57-5352e46884cd/'
 imageThumbnail: 'https://ucarecdn.com/dcbbd87e-55f4-46da-9914-60dfa823c1ef/'
 firstName: Beni EXTRA
 collection: Extras
-height: 5'9
+height: 177cm
 measurementType: chest
 bust: 98cm
 waist: 79cm
