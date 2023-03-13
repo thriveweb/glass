@@ -2,8 +2,9 @@
 template: ModelPage
 title: Jayden
 featuredImage: >-
-  https://ucarecdn.com/fde7c0cf-ac09-410e-9a7f-005298dd6cb0/-/crop/3380x2490/0,77/-/preview/
-imageThumbnail: 'https://ucarecdn.com/97e0d134-c3bf-41df-848f-c4f53a49c729/'
+  https://ucarecdn.com/f1e61c27-03a4-4f0b-b8e4-f82a3f31e3b8/-/crop/1633x1241/0,226/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/5663de3f-c538-4018-bf29-ab5b4446c93f/-/crop/617x803/448,159/-/preview/
 firstName: Jayden
 collection: Boys
 height: 150cm
@@ -16,11 +17,11 @@ shoeSize: 6-7
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/5a32db0b-139e-4d7e-b662-bdb4f45a85aa/'
-  - image: 'https://ucarecdn.com/1c3b76a7-6f3f-4144-8f92-d8be626dda14/'
-  - image: 'https://ucarecdn.com/47397c47-1279-419a-8ba7-938e5d356510/'
-  - image: 'https://ucarecdn.com/3ea709fc-3e62-4015-a3a1-dbeba04a9ded/'
-  - image: 'https://ucarecdn.com/c160cf22-1801-4686-8c0f-537bbd7386ce/'
-  - image: 'https://ucarecdn.com/07c4ea65-48fe-4d93-899c-85ef9d8bf697/'
+  - image: 'https://ucarecdn.com/8eaba768-522a-44c8-a444-00356f7b24f2/'
+  - image: 'https://ucarecdn.com/ef115334-d7bb-4065-baf3-0b438d26d980/'
+  - image: 'https://ucarecdn.com/1924ea5e-48ae-45b5-a288-bcf4e0c239df/'
+  - image: 'https://ucarecdn.com/99933555-8446-459e-87f5-e25aca029cca/'
+  - image: 'https://ucarecdn.com/a3892ed8-f352-444b-aaf2-67a2fde6ae64/'
+  - image: 'https://ucarecdn.com/38f25e24-c73d-4455-95ed-881f1430e722/'
 ---
 
