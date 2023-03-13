@@ -4,7 +4,7 @@ title: Chloe H
 featuredImage: >-
   https://ucarecdn.com/cad8ddec-7260-40c6-ab94-ee72b0fcd931/-/crop/578x308/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/f78ec6e7-0fc1-4a6e-87e3-fd930a98fbb9/-/crop/3477x5254/171,0/-/preview/
+  https://ucarecdn.com/84321832-6ed9-48e1-927b-9fcb29bf4b7d/-/crop/922x1314/335,226/-/preview/
 firstName: Chloe H
 collection: Girls
 height: 135cm
@@ -17,15 +17,18 @@ shoeSize: '2'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/f8772400-a218-4ae0-871f-3e89f4308c4f/'
+  - image: 'https://ucarecdn.com/3d13267e-f508-40e2-a2ec-57039ad078f2/'
+  - image: 'https://ucarecdn.com/4cc85bd4-35c8-412e-a05a-076c2eed7213/'
+  - image: 'https://ucarecdn.com/127b6f2a-dbd0-4b50-b2a1-7ef19ba4619d/'
+  - image: 'https://ucarecdn.com/720b4320-1037-45bc-8f1b-e36df258fd90/'
+  - image: 'https://ucarecdn.com/d531e888-b9d9-4294-b5ec-11d43eec9320/'
   - image: 'https://ucarecdn.com/c38bf730-f91d-4bc9-a934-64719886d929/'
-  - image: 'https://ucarecdn.com/603b66b4-e24d-4bc8-82f9-d86f7ef484bc/'
-  - image: 'https://ucarecdn.com/d60ce06a-1460-44de-9c4e-8ec4772f8c31/'
+  - image: 'https://ucarecdn.com/b5d0e73f-415b-4e1b-95de-e4540d025cb7/'
   - image: 'https://ucarecdn.com/b9fbb808-ce90-4412-a4bf-cd921a0ce2e6/'
   - image: 'https://ucarecdn.com/25110795-b2bd-45ab-baf2-668f36b6d782/'
-  - image: 'https://ucarecdn.com/565bb206-cce0-423e-bcfa-39c0dd34f8d3/'
-  - image: 'https://ucarecdn.com/c440245e-d724-4aff-a82d-0b6125abf488/'
-  - image: 'https://ucarecdn.com/bf8a7a52-6a73-456d-8d9c-3bf9a36694b1/'
+  - image: 'https://ucarecdn.com/f28fabee-2807-43eb-b0e3-0490f24eccc3/'
+  - image: 'https://ucarecdn.com/b2dfbd18-a08b-45c6-b4ad-75a8fe6b299b/'
   - image: 'https://ucarecdn.com/3f9e453e-9708-4cf8-9e60-5580f21f4b86/'
-  - image: 'https://ucarecdn.com/503a5f0c-12ec-4b44-a464-1a5b48d49dfc/'
 ---
 
