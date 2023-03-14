@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Jay
+title: Jay O
 featuredImage: >-
   https://ucarecdn.com/341dbecd-1067-474a-b50b-7d798404e796/-/crop/4480x2849/0,1353/-/preview/
 imageThumbnail: >-
