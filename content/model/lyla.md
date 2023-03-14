@@ -3,7 +3,7 @@ template: ModelPage
 title: Lyla
 featuredImage: 'https://ucarecdn.com/cd80b9a6-336e-4b52-8a81-6445d179406b/'
 imageThumbnail: >-
-  https://ucarecdn.com/31e653fc-85ae-41d4-84f0-21acda8f8375/-/crop/859x1187/301,86/-/preview/
+  https://ucarecdn.com/31e653fc-85ae-41d4-84f0-21acda8f8375/-/crop/788x1116/332,91/-/preview/
 firstName: Lyla
 collection: Girls
 height: 134cm
