@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jonah
 featuredImage: >-
-  https://ucarecdn.com/a324cbaa-9d33-4c81-9827-952a791d6be3/-/crop/1632x1189/0,179/-/preview/
+  https://ucarecdn.com/a324cbaa-9d33-4c81-9827-952a791d6be3/-/crop/1632x1291/0,219/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d434ae1e-04fb-40fc-b373-efcbe6880a38/-/crop/1027x1362/339,92/-/preview/
 firstName: Jonah
