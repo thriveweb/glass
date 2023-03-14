@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jay O
 featuredImage: >-
-  https://ucarecdn.com/341dbecd-1067-474a-b50b-7d798404e796/-/crop/4480x2849/0,1353/-/preview/
+  https://ucarecdn.com/341dbecd-1067-474a-b50b-7d798404e796/-/crop/4480x2849/0,978/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/cb4f9319-b0d3-4bec-9375-f3755fdd540f/-/crop/1289x1948/188,42/-/preview/
 firstName: Jay O
