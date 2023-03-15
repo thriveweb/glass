@@ -17,8 +17,8 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/b1d6b180-54e0-4768-9469-4445468bf72d/-/crop/1194x1630/267,0/-/preview/
   - image: 'https://ucarecdn.com/7533bad3-fcf9-4d98-9c3e-35ce402ae25e/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nestor-.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/nestor-6.jpg'
+  - image: 'https://ucarecdn.com/45cbc590-1278-475a-a300-b5871e5a5509/'
+  - image: 'https://ucarecdn.com/9cc1b9a8-fe14-4753-9fc3-5882ebc8db19/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/nestor-10.jpg'
 meta:
   title: Nestor
