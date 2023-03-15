@@ -2,7 +2,8 @@
 template: ModelPage
 title: Riley
 featuredImage: 'https://ucarecdn.com/cb5df83e-b6d8-424d-be33-e6f5d0c18ff4/'
-imageThumbnail: 'https://ucarecdn.com/2722cbec-ee97-4766-810c-e8077a3f8a7e/'
+imageThumbnail: >-
+  https://ucarecdn.com/954c95a8-a258-45bc-8182-ffc311cda3f7/-/crop/4263x5838/217,0/-/preview/
 firstName: Riley
 collection: Men
 height: 182cm
@@ -15,9 +16,13 @@ shoeSize: 10-11
 hair: Dark Brown
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/85880a1e-e36c-4b9d-a2e3-d51806dbd007/'
+  - image: 'https://ucarecdn.com/9498b549-586c-4137-88ce-5869ecbb869d/'
+  - image: 'https://ucarecdn.com/e5be3199-ff0f-4493-868e-a03112c1280d/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/riley347829.jpeg'
+  - image: 'https://ucarecdn.com/24084c18-f011-425b-9e8c-ff5a23e7150b/'
   - image: 'https://ucarecdn.com/922cd547-4061-4a62-b1e8-e89e14e32478/'
+  - image: 'https://ucarecdn.com/b63aa76f-4635-4c6d-8a2e-7c4f12ba7b48/'
+  - image: 'https://ucarecdn.com/85880a1e-e36c-4b9d-a2e3-d51806dbd007/'
   - image: 'https://ucarecdn.com/aa504a5c-b68c-4e92-bb23-de382c6fee8f/'
   - image: 'https://ucarecdn.com/44a7906e-59fc-44d6-b255-a8b4916ea741/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/riley38429.jpeg'
