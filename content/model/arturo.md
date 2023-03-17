@@ -2,7 +2,7 @@
 template: ModelPage
 title: Arturo
 featuredImage: >-
-  https://ucarecdn.com/c7497d17-d655-4a36-8432-5e3d54e107d1/-/crop/2449x1123/0,242/-/preview/
+  https://ucarecdn.com/2dcb5107-3603-44d3-8aed-a18124e8a47d/-/crop/1755x1016/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/407ed8ef-c079-44cb-aab9-bfe5a3e90e78/-/crop/987x1417/371,0/-/preview/
 firstName: Arturo
@@ -20,6 +20,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/47746031-407c-4a5c-a117-8121bbf12205/'
   - image: 'https://ucarecdn.com/70f14788-1c7b-43dd-a4da-eee1331110cc/'
   - image: 'https://ucarecdn.com/bec7cb07-5362-478d-967f-ef0f642a75d0/'
+  - image: 'https://ucarecdn.com/3996bb17-4032-4c2d-a917-1180fb769256/'
   - image: 'https://ucarecdn.com/df2a8998-7c5f-4a29-8e4d-443c2489e95c/'
   - image: 'https://ucarecdn.com/a8fdf352-53a3-430f-85da-67c79fa2ded8/'
   - image: 'https://ucarecdn.com/9cb142da-a36a-4632-87eb-08fbf0480a12/'
