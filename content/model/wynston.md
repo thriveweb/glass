@@ -3,7 +3,7 @@ template: ModelPage
 title: Aa Wynston
 featuredImage: 'https://ucarecdn.com/e238c25b-8fea-4593-a0cb-2a01a1c9ecb8/'
 imageThumbnail: >-
-  https://ucarecdn.com/2627d2d6-6173-4850-af24-ea1895d085ba/-/crop/519x776/364,390/-/preview/
+  https://ucarecdn.com/7c570082-547c-4d85-a6f5-b48667856620/-/crop/425x597/453,76/-/preview/
 firstName: Wynston
 collection: Boys
 height: 100cm
