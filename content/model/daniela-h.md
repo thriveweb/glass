@@ -3,7 +3,7 @@ template: ModelPage
 title: Daniela H
 featuredImage: 'https://ucarecdn.com/28a6ee7a-6d7e-4b82-8aa3-9956685ee50c/'
 imageThumbnail: >-
-  https://ucarecdn.com/5b93fc55-fb83-4ffc-bd70-2a2c3495ff63/-/crop/2500x3373/1078,444/-/preview/
+  https://ucarecdn.com/cf4ea988-390e-4b80-a141-0c3275b4db35/-/crop/2574x3149/595,92/-/preview/
 firstName: Daniela H
 collection: Women
 height: 165cm
