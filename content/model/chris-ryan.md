@@ -2,7 +2,7 @@
 template: ModelPage
 title: Chris R
 featuredImage: >-
-  https://ucarecdn.com/150aac7a-dbf2-472d-beca-59fb75431647/-/crop/785x698/0,0/-/preview/
+  https://ucarecdn.com/a48164f8-f650-4c96-a9d0-c5505451b63a/-/crop/640x380/0,47/-/preview/
 imageThumbnail: 'https://ucarecdn.com/067d9cd7-bb4e-4e8c-87fc-3488e233f4fa/'
 firstName: Chris
 collection: Classic
