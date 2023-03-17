@@ -3,9 +3,9 @@ template: ModelPage
 title: Daniela H
 featuredImage: 'https://ucarecdn.com/28a6ee7a-6d7e-4b82-8aa3-9956685ee50c/'
 imageThumbnail: >-
-  https://ucarecdn.com/a8c6c4ed-2f27-4200-966e-27467103cb9b/-/crop/992x1197/610,0/-/preview/
+  https://ucarecdn.com/5b93fc55-fb83-4ffc-bd70-2a2c3495ff63/-/crop/2500x3373/1078,444/-/preview/
 firstName: Daniela H
-collection: Emerging
+collection: Women
 height: 165cm
 measurementType: bust
 bust: 88cm
@@ -16,17 +16,18 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/eca8aa4d-7aeb-4273-945b-87ab994158e3/'
-  - image: 'https://ucarecdn.com/485beecb-2578-4f1b-8208-9d88e3a9d6de/'
-  - image: 'https://ucarecdn.com/7aed6b02-a2a7-4a0f-b5e7-52da48ab097b/'
+  - image: 'https://ucarecdn.com/b5142b94-a139-42e5-b6ee-e8a4fd5c7bae/'
+  - image: 'https://ucarecdn.com/288f8f02-09c7-4763-8880-f6f6a9a0a179/'
+  - image: 'https://ucarecdn.com/1a8c70a0-347d-4e13-afb2-63e8225712fe/'
+  - image: 'https://ucarecdn.com/0e68e6ae-127d-4520-9921-677a30db73be/'
+  - image: 'https://ucarecdn.com/7b6e5fee-580f-4286-bd90-38c1f87de657/'
+  - image: 'https://ucarecdn.com/a2bcbbc6-6f37-4bf2-ae62-a21bed48828c/'
+  - image: 'https://ucarecdn.com/cfcfceb7-e9ff-40e8-bf9a-a34c16e8c595/'
+  - image: 'https://ucarecdn.com/7c0ff434-82a5-4d0c-95bc-f7c0002d098e/'
+  - image: 'https://ucarecdn.com/26bbdd89-4151-4594-ae3b-df3cf7634900/'
+  - image: 'https://ucarecdn.com/815d5b2f-d729-4722-9462-55c221a6eb7b/'
+  - image: 'https://ucarecdn.com/a6d14f92-69d3-406f-ba90-5c7f37008d37/'
+  - image: 'https://ucarecdn.com/12fa95d4-4031-4474-b68d-0a11a231279f/'
   - image: 'https://ucarecdn.com/64bc1ec0-7075-4608-aec0-2c14865b6d68/'
-  - image: 'https://ucarecdn.com/96d33b6a-6911-4bbf-afea-d198b802be99/'
-  - image: 'https://ucarecdn.com/789c16bd-ab12-4412-960d-b0a9d7e2bc4e/'
-  - image: 'https://ucarecdn.com/b3dc1e1f-352e-4b9d-adcf-3fffe6e854e2/'
-  - image: 'https://ucarecdn.com/070bcb62-31fe-412b-b323-f4a92b8d085a/'
-  - image: 'https://ucarecdn.com/e9dc2541-fe18-4a40-9915-7fb9ca2108fd/'
-  - image: 'https://ucarecdn.com/355c44ae-acd9-4b6d-a9d7-bb305d04734a/'
-  - image: 'https://ucarecdn.com/24b84795-f508-46d0-b377-2eb711573d40/'
-  - image: 'https://ucarecdn.com/259c2dac-9b79-41ed-a0b4-2ecc823e1a01/'
 ---
 
