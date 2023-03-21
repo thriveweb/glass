@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/5ee7885b-272a-46cc-aaa5-0795c22b7c29/'
 firstName: Blessings
 collection: Men
-height: 194cm
+height: 190cm
 measurementType: chest
 bust: 103cm
 waist: 86cm
