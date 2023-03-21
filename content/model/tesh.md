@@ -1,0 +1,34 @@
+---
+template: ModelPage
+title: Tesh
+featuredImage: >-
+  https://ucarecdn.com/9955af07-fc8c-4301-aa1b-78322e326a2c/-/crop/1633x1307/0,478/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/28ba3a8f-553c-4dc8-918a-4dc9b5a36c2a/-/crop/594x809/118,16/-/preview/
+firstName: Tesh
+collection: Women
+height: 178cm
+measurementType: bust
+bust: 86cm
+waist: 73cm
+hips: 91cm
+size: 8-10
+shoeSize: '9'
+hair: Blonde
+eyes: Blue
+imagePortfolio:
+  - image: 'https://ucarecdn.com/ffa4cf15-ddac-4314-b109-733a6f61252f/'
+  - image: 'https://ucarecdn.com/29c2222a-2941-4cda-9133-3b2272cce94f/'
+  - image: 'https://ucarecdn.com/d2dc61ca-f217-40e9-8174-8f3a1faa14a9/'
+  - image: 'https://ucarecdn.com/b27dcfb8-f148-4d44-b042-cb83486f6b0d/'
+  - image: 'https://ucarecdn.com/c47147b3-388d-48f7-ba2b-89d9af4823f7/'
+  - image: 'https://ucarecdn.com/ad5b46ad-baee-4105-a6e8-bf0cc4fc99a2/'
+  - image: 'https://ucarecdn.com/2452eb8f-6988-47e5-a513-780321e14f36/'
+  - image: 'https://ucarecdn.com/7d7583ab-41c6-43cb-8181-bd2d24f81492/'
+  - image: 'https://ucarecdn.com/e7581ac3-631b-4e4f-b36e-214b7880bda2/'
+  - image: 'https://ucarecdn.com/8d72b06e-9b36-40f7-90f3-c29284aadca3/'
+  - image: 'https://ucarecdn.com/f3f4908b-7eaa-4347-889a-ba4ea83b0e20/'
+  - image: 'https://ucarecdn.com/d261177c-8298-419f-b774-d6ad1298d637/'
+  - image: 'https://ucarecdn.com/43fb5211-8cf0-43f7-bbfc-d740bbbdf3c1/'
+---
+
