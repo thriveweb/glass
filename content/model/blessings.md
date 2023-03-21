@@ -8,10 +8,10 @@ firstName: Blessings
 collection: Men
 height: 194cm
 measurementType: chest
-bust: 111cm
-waist: 82cm
-hips: 112cm
-size: 'Shirt: XL   Pants: 34/36'
+bust: 103cm
+waist: 86cm
+hips: 108cm
+size: 'Shirt: XL   Pants: 34'
 shoeSize: 12/13
 hair: Black
 eyes: Brown
