@@ -2,7 +2,7 @@
 template: ModelPage
 title: Tesh
 featuredImage: >-
-  https://ucarecdn.com/9955af07-fc8c-4301-aa1b-78322e326a2c/-/crop/1633x1307/0,478/-/preview/
+  https://ucarecdn.com/297f1879-ee60-4135-86c8-30eb2887b9ad/-/crop/1800x1049/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/28ba3a8f-553c-4dc8-918a-4dc9b5a36c2a/-/crop/594x809/118,16/-/preview/
 firstName: Tesh
@@ -24,7 +24,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b27dcfb8-f148-4d44-b042-cb83486f6b0d/'
   - image: 'https://ucarecdn.com/74a1efd2-4fcf-4fc0-815e-0a8607c81499/'
   - image: 'https://ucarecdn.com/89744c18-caa8-4e1c-b3ee-c7e26fb3437a/'
-  - image: 'https://ucarecdn.com/c47147b3-388d-48f7-ba2b-89d9af4823f7/'
   - image: 'https://ucarecdn.com/ad5b46ad-baee-4105-a6e8-bf0cc4fc99a2/'
   - image: 'https://ucarecdn.com/2452eb8f-6988-47e5-a513-780321e14f36/'
   - image: 'https://ucarecdn.com/7d7583ab-41c6-43cb-8181-bd2d24f81492/'
