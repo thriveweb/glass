@@ -8,9 +8,9 @@ firstName: Daniela H
 collection: Women
 height: 165cm
 measurementType: bust
-bust: 88cm
-waist: 76cm
-hips: 97cm
+bust: 86cm
+waist: 68cm
+hips: 93cm
 size: 8-10
 shoeSize: '8'
 hair: Brown
