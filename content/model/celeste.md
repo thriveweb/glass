@@ -3,7 +3,8 @@ template: ModelPage
 title: Celeste
 featuredImage: >-
   https://ucarecdn.com/9d22c0b2-340e-44db-879f-0dcb6af49f97/-/crop/1080x594/0,0/-/preview/
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/celeste-headshot.jpg'
+imageThumbnail: >-
+  https://ucarecdn.com/404602c4-c7a6-45f0-a6b5-a544ecebb7b1/-/crop/600x832/0,0/-/preview/
 firstName: Celeste
 collection: Classic
 height: 170cm
@@ -16,6 +17,7 @@ shoeSize: '8'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/b15c939c-4d7a-4987-90f3-e11332b4d45f/'
   - image: 'https://ucarecdn.com/f29b1561-5717-4f4d-a8a8-d0680b169ae6/'
   - image: 'https://ucarecdn.com/b2806e4b-de2e-451d-865f-19fa75eb4401/'
   - image: 'https://ucarecdn.com/41765a0e-6f44-4ba5-acf8-f5f7a6d2d69c/'
