@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/4548247f-fbfd-4fe3-809c-ef11c81aa075/'
 firstName: 'Julian '
 collection: Global
-height: '161cm '
+height: '166cm '
 measurementType: chest
 bust: '83cm '
 waist: '73cm '
