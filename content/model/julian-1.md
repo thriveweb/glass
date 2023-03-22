@@ -8,10 +8,11 @@ firstName: 'Julian '
 collection: Global
 height: '166cm '
 measurementType: chest
-bust: '83cm '
-waist: '73cm '
-hips: '82cm '
-shoeSize: 9.5 US
+bust: '86cm '
+waist: '71cm '
+hips: '94cm '
+size: S/30
+shoeSize: 11 US
 hair: 'Black '
 eyes: 'Brown '
 imagePortfolio:
