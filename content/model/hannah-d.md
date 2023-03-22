@@ -13,7 +13,7 @@ bust: 81cm
 waist: 69cm
 hips: 90cm
 size: Ladies 8
-shoeSize: 4 Adults
+shoeSize: '6'
 hair: Black
 eyes: Brown
 imagePortfolio:
