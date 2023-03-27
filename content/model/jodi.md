@@ -8,10 +8,10 @@ imageThumbnail: >-
 thumbnailVideo: ''
 firstName: Jodi
 collection: Classic
-height: 160cn
+height: 160cm
 measurementType: bust
 bust: 90cm
-waist: 74cm
+waist: 78cm
 hips: 90cm
 size: '8'
 shoeSize: '7.5'
