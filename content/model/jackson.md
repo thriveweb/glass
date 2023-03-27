@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jackson
 featuredImage: >-
-  https://ucarecdn.com/f02d723a-0ace-416b-a8b1-30c35dee28f4/-/crop/2448x1286/0,105/-/preview/
+  https://ucarecdn.com/f02d723a-0ace-416b-a8b1-30c35dee28f4/-/crop/2448x1286/0,68/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/6d13e8e6-a894-4a33-9fc1-65d5afe6258d/-/crop/643x878/858,64/-/preview/
 firstName: Jackson
