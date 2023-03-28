@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/728835b1-41cb-4215-a5c6-0d35f16e3d39/-/crop/686x904/101,0/-/preview/
 firstName: Cristian
-collection: Emerging
+collection: Classic
 height: 180cm
 measurementType: chest
 bust: 101cm
