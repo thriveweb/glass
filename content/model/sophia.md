@@ -1,9 +1,10 @@
 ---
 template: ModelPage
 title: Sophia
-featuredImage: 'https://ucarecdn.com/33690ab5-1816-4097-81c8-06ddc17d26bd/'
+featuredImage: >-
+  https://ucarecdn.com/fcccea48-9c74-4c8f-b153-0dbf27d75c85/-/crop/1978x1191/8,88/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/1bfb6758-3cee-45db-9212-6c97520ae7be/-/crop/515x640/294,131/-/preview/
+  https://ucarecdn.com/7bf9950f-c3a5-4a68-b2e0-040925b95710/-/crop/809x1043/205,207/-/preview/
 firstName: Sophia
 collection: Girls
 height: 141cm
@@ -16,21 +17,17 @@ shoeSize: '3'
 hair: Dark Brown
 eyes: Dark Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/fb1b399e-0f2d-427c-9bd9-4cd095304125/'
+  - image: 'https://ucarecdn.com/e19b6237-c9b2-4670-8d0d-83af66d80be2/'
+  - image: 'https://ucarecdn.com/fcb8c967-56c6-498f-ae10-f401cc02bae6/'
+  - image: 'https://ucarecdn.com/1194ffcc-6dcd-4958-95f9-dcb17d88ff71/'
   - image: 'https://ucarecdn.com/788cadfb-f88f-4d1d-b47e-641080a7c56b/'
+  - image: 'https://ucarecdn.com/94f2ca41-fab2-467e-bdfa-bc51b2918eb9/'
   - image: 'https://ucarecdn.com/0f557626-d83d-42a3-8445-1e468010561d/'
-  - image: 'https://ucarecdn.com/b8e60c53-f389-4a07-b406-4f947b52485d/'
-  - image: 'https://ucarecdn.com/debc71ae-b614-4ed6-893e-756bb33707d2/'
+  - image: 'https://ucarecdn.com/913d4d04-aef9-4ea1-8cc5-20e09cd186f7/'
+  - image: 'https://ucarecdn.com/18d8debe-3239-4b35-94ae-c56d1bf0ed54/'
   - image: 'https://ucarecdn.com/7e7e351d-8c86-4785-81a5-58dc6433e3a2/'
-  - image: 'https://ucarecdn.com/5730043f-3d80-4bd3-801d-3ef7fbb3a407/'
-  - image: 'https://ucarecdn.com/e6ccf2b6-1193-459b-8a19-ba8a045c06b5/'
-  - image: 'https://ucarecdn.com/dc7ddc28-0065-4d5f-bcdb-e0f8572f3b5a/'
-  - image: 'https://ucarecdn.com/0f60d5dd-4114-44eb-b691-5db958e7943a/'
-  - image: 'https://ucarecdn.com/562e5789-6940-4af6-b655-226dcad51c4f/'
-  - image: 'https://ucarecdn.com/0d595eab-d85e-4db6-9988-57b39bdad4fe/'
-  - image: 'https://ucarecdn.com/542b4082-8612-4112-bdc0-244970d551a6/'
-  - image: 'https://ucarecdn.com/ae0a0b0f-9685-4ab1-b2f0-510d26b18214/'
-  - image: 'https://ucarecdn.com/19533a24-3950-4609-ae43-d359b3210f6a/'
+  - image: 'https://ucarecdn.com/fb1b399e-0f2d-427c-9bd9-4cd095304125/'
+  - image: 'https://ucarecdn.com/a4c77508-92f2-408c-85ae-46e6473080dd/'
   - image: 'https://ucarecdn.com/38508e00-c530-4105-abcd-2d4e41064813/'
   - image: 'https://ucarecdn.com/dce61100-41eb-46f5-a043-d5f16b8db705/'
 ---
