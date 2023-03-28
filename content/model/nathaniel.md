@@ -10,8 +10,8 @@ collection: Boys
 height: 135cm
 measurementType: chest
 bust: 64cm
-waist: '59.5'
-hips: 66.5cm
+waist: 60cm
+hips: 67cm
 size: '10'
 shoeSize: '4'
 hair: Brown
