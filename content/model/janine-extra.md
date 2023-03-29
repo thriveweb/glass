@@ -4,6 +4,7 @@ title: Janine EXTRA
 featuredImage: 'https://ucarecdn.com/82453cde-3fd1-46cf-9c72-4c427da4c2b8/'
 imageThumbnail: 'https://ucarecdn.com/e8a90587-1517-4073-884c-2dff2838aced/'
 firstName: Janine EXTRA
+collection: Extras
 height: 170cm
 measurementType: bust
 bust: 94cm
