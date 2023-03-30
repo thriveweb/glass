@@ -14,7 +14,7 @@ hips: 90cm
 size: '10'
 shoeSize: 4 US
 hair: Blonde
-eyes: ''
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/7a7a6c1e-6898-4c42-8e95-1d921a2478c5/'
   - image: 'https://ucarecdn.com/0374ae64-e7bd-46b0-bcda-1287d6df62a1/'
