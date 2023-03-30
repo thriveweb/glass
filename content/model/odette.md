@@ -2,7 +2,7 @@
 template: ModelPage
 title: Odette
 featuredImage: >-
-  https://ucarecdn.com/767f1305-4911-48ab-a5b1-bab8f27fe784/-/crop/1632x1277/0,0/-/preview/
+  https://ucarecdn.com/767f1305-4911-48ab-a5b1-bab8f27fe784/-/crop/1632x1013/0,21/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/c6475659-6ac4-413a-8e2f-61622151c787/-/crop/501x682/12,0/-/preview/
 firstName: Odette
