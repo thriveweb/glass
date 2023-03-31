@@ -7,7 +7,7 @@ featuredVideoMobile: 'https://ucarecdn.com/ccc8de8e-9f63-4cff-b351-6dca75e994cc/
 imageThumbnail: 'https://ucarecdn.com/bc673d0a-61fb-40d8-983f-f7b20b93a4fe/-/preview/'
 thumbnailVideo: ''
 firstName: Tegan
-collection: Classic
+collection: ''
 height: 168cm
 measurementType: bust
 bust: 84cm
