@@ -4,7 +4,7 @@ title: 'G Amanda '
 featuredImage: >-
   https://ucarecdn.com/de83afce-d07c-44ef-a726-00c4ff54faac/-/crop/2449x1306/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/44d57462-b25a-42e3-9377-c869b2cc97d3/-/crop/3355x3648/914,0/-/preview/
+  https://ucarecdn.com/44d57462-b25a-42e3-9377-c869b2cc97d3/-/crop/2661x3298/1290,0/-/preview/
 firstName: Amanda G
 collection: Classic
 height: 171cm
