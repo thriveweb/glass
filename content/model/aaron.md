@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Aaron
+title: C Aaron
 featuredImage: >-
   https://ucarecdn.com/14e657b9-9290-438e-9a47-223fc2d4d847/-/crop/1677x864/337,131/-/preview/
 imageThumbnail: >-
