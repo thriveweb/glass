@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Dean
+title: A Dean
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/4153360_8338467.jpg'
 imageThumbnail: 'https://ucarecdn.com/96113791-e047-474b-a2b8-d189820c3213/'
 firstName: Dean
