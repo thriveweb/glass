@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/d9e217e6-f25b-4c60-8b6b-5115ed5b6ec3/-/crop/1843x2752/66,0/-/preview/
 firstName: Rachel
-collection: Classic
+collection: Extras
 height: 167cm
 hair: Brown
 eyes: Brown
