@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/74c1799f-01af-4edd-9e7f-ab038a697d73/-/crop/310x351/307,0/-/preview/
 firstName: Angela O
-collection: Classic
+collection: Extras
 height: 170cm
 measurementType: bust
 bust: 86cm
