@@ -3,7 +3,8 @@ template: ModelPage
 title: Charlene
 featuredImage: >-
   https://ucarecdn.com/04abe141-e594-4903-af65-2264592cfc29/-/crop/4309x2163/0,1092/-/preview/
-imageThumbnail: 'https://ucarecdn.com/6e981e2d-1eae-404d-98ed-32aa84f2c99a/'
+imageThumbnail: >-
+  https://ucarecdn.com/5a6f5663-d221-48aa-88a1-80da9b22f302/-/crop/1249x1743/46,0/-/preview/
 firstName: Charlene
 collection: Classic
 height: 165cm
