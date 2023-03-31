@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/99027b7b-09d6-47f8-bc8c-6f37fabf5b2a/-/crop/1788x1308/0,64/-/preview/
 imageThumbnail: 'https://ucarecdn.com/983f4166-e08c-4794-b4f2-72663717fdbe/'
 firstName: Megan C
-collection: Classic
+collection: Extras
 height: 173cm
 measurementType: bust
 bust: 95cm
