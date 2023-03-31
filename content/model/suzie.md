@@ -2,7 +2,8 @@
 template: ModelPage
 title: Susie
 featuredImage: 'https://ucarecdn.com/bfbfad16-9d81-4089-9e08-9c08afe20193/'
-imageThumbnail: 'https://ucarecdn.com/45a07010-dfd7-4a99-ac8d-16092418db91/'
+imageThumbnail: >-
+  https://ucarecdn.com/45a07010-dfd7-4a99-ac8d-16092418db91/-/crop/1643x2160/232,0/-/preview/
 firstName: Susie
 collection: Classic
 height: 172cm
