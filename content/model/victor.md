@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/03ecae41-ba13-4cb4-b25c-4151d5542d07/'
 featuredVideo: 'https://ucarecdn.com/190b861c-cae0-480a-a711-4d5b0f3e1f3d/'
 imageThumbnail: 'https://ucarecdn.com/4411336c-ba61-4ec6-b91b-f593f97e5276/'
 firstName: Victor C
-collection: Classic
+collection: Extras
 height: 175cm
 measurementType: chest
 bust: 103cm
