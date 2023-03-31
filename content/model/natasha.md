@@ -4,7 +4,7 @@ title: Natasha
 featuredImage: 'https://ucarecdn.com/aad55129-72ba-45b6-bbb2-4defb4186c36/'
 imageThumbnail: 'https://ucarecdn.com/3bb51b29-1e78-4ef3-b42f-84d454b56abd/'
 firstName: Natasha
-collection: Classic
+collection: Extras
 height: 174cm
 measurementType: bust
 bust: 89cm
