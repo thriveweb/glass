@@ -2,7 +2,8 @@
 template: ModelPage
 title: Daimian P
 featuredImage: 'https://ucarecdn.com/c5dff678-0334-4f81-8bc7-11cffaecd1b2/'
-imageThumbnail: 'https://ucarecdn.com/9b051eb3-ca7d-4a32-87ea-30e853161f74/'
+imageThumbnail: >-
+  https://ucarecdn.com/9b051eb3-ca7d-4a32-87ea-30e853161f74/-/crop/346x525/114,0/-/preview/
 firstName: Daimian P
 collection: Classic
 height: 180cm
