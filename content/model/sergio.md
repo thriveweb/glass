@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b556857f-fadf-476a-b688-e27c84b2c817/-/crop/318x460/210,29/-/preview/
 firstName: Sergio
-collection: Classic
+collection: Extras
 height: 180cm
 measurementType: chest
 bust: 100cm
