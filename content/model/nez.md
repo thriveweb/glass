@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b72f9a7c-f613-4d7d-9f23-0b030a0d2bbe/-/crop/932x1211/236,97/-/preview/
 firstName: Nez
-collection: Classic
+collection: Emerging
 height: '175'
 measurementType: bust
 bust: 86cm
