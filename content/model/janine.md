@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Janine
-featuredImage: 'https://ucarecdn.com/e8d2a186-b6ae-4b4f-8ffa-3b1ed0edbfc0/'
+featuredImage: >-
+  https://ucarecdn.com/e8d2a186-b6ae-4b4f-8ffa-3b1ed0edbfc0/-/crop/2449x1169/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/3d8ef3da-6ebc-4bf0-8ee1-a31ab524a940/-/crop/1632x2053/0,0/-/preview/
 firstName: Janine
