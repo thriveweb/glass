@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Francine
-featuredImage: >-
-  https://ucarecdn.com/3f88730e-7305-415e-91ba-5862521a5af0/-/crop/2451x1310/0,7/-/preview/
+featuredImage: 'https://ucarecdn.com/4241c20c-fd09-49b3-b9c0-d6db02373f80/'
 imageThumbnail: >-
   https://ucarecdn.com/46436f61-ca76-4caa-a337-2841c5b8409c/-/crop/1568x1632/461,0/-/preview/
 firstName: Francine
@@ -19,6 +18,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/cc55b6eb-3329-47ed-b4d0-102c0215d77e/'
   - image: 'https://ucarecdn.com/a392610f-a9e7-44f3-8bf8-3f17df8fc676/'
+  - image: 'https://ucarecdn.com/3111a095-7cef-4c6f-9869-c79b7772ad4f/'
   - image: 'https://ucarecdn.com/5cee605d-6559-449e-b41f-dd73d695c560/'
   - image: 'https://ucarecdn.com/121f210b-7a0a-4758-bbb4-8b004e7f284e/'
   - image: 'https://ucarecdn.com/9fdb6bd6-c7c1-4133-aff3-0aa10e879aca/'
