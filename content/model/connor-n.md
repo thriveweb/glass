@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: A Connor N
+title: Connor N
 featuredImage: 'https://ucarecdn.com/866c37d7-6f72-4518-828f-f506914d194d/'
 imageThumbnail: >-
   https://ucarecdn.com/5520a4a3-8253-4e49-9e6e-dd3aacb1dd58/-/crop/3452x4223/0,0/-/preview/
 firstName: Connor N
-collection: Men
+collection: Emerging
 height: 183cm
 measurementType: chest
 bust: 96cm
