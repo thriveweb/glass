@@ -6,10 +6,10 @@ imageThumbnail: 'https://ucarecdn.com/ae427789-7879-4649-a363-56e39973f7fc/'
 firstName: Todd
 collection: Extras
 height: 178cm
-measurementType: null
-bust: ''
+measurementType: chest
+bust: 120cm
 waist: 117cm
-size: 'Shirt: L/XL Pant: 46'
+size: 'Shirt: XL Pant: 46'
 shoeSize: '10.5'
 hair: Silverfox
 eyes: Blue
