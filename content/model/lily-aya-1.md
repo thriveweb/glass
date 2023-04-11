@@ -4,7 +4,7 @@ title: Lily-Aya
 featuredImage: >-
   https://ucarecdn.com/5b7f9370-1068-4051-9c2a-93991ee3c5e2/-/crop/809x357/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/865e3002-cc3d-4ca3-875f-c2528c447e2b/-/crop/665x904/521,169/-/preview/
+  https://ucarecdn.com/e967c7d4-4f44-4f15-ae70-8bdb68095903/-/crop/545x714/510,306/-/preview/
 firstName: Lily-Aya
 collection: Girls
 height: 135cm
