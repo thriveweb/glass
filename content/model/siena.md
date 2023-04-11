@@ -7,6 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/e97c4cfb-3353-46b7-a924-ed26c98b1f12/-/crop/356x483/574,273/-/preview/
 firstName: Siena
 collection: Girls
+height: 157cm
+measurementType: bust
+bust: 72cm
+waist: 57cm
+hips: 78cm
+size: 10-12
+shoeSize: 38 EURO
 imagePortfolio:
   - image: 'https://ucarecdn.com/7f4117a4-400d-45b5-a80c-682bfcb0bf15/'
   - image: 'https://ucarecdn.com/44b8aef5-bb40-47a2-8043-471ba9b236de/'
