@@ -9,6 +9,9 @@ firstName: Holly
 collection: Girls
 height: 147cm
 measurementType: bust
+bust: 73cm
+waist: 61cm
+hips: 74cm
 size: '10'
 shoeSize: 34 Euro
 hair: Light Brown
