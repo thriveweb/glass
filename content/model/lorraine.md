@@ -8,9 +8,9 @@ firstName: Lorraine
 collection: Classic
 height: '170cm '
 measurementType: bust
-bust: 107cm
-waist: 96cm
-hips: 111cm
+bust: 101cm
+waist: 92cm
+hips: 112cm
 size: '14'
 shoeSize: 10-11
 hair: Silver
