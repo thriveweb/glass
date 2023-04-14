@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Ekaterina
-featuredImage: >-
-  https://ucarecdn.com/32173847-623e-4773-8b1b-7396cda05585/-/crop/1350x927/116,0/-/preview/
+featuredImage: 'https://ucarecdn.com/347ad3a8-a405-40c3-8ef8-e13f24849ee8/'
 imageThumbnail: >-
   https://ucarecdn.com/ebe7efab-af8b-4f89-9c00-0a57ab015930/-/crop/1513x1997/87,233/-/preview/
 firstName: Ekaterina
@@ -19,9 +18,11 @@ eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/efbebc4b-bb46-43e0-9b95-6fee58fc38e4/'
   - image: 'https://ucarecdn.com/fc983fa8-1691-483a-87de-7c47c3ac58f1/'
+  - image: 'https://ucarecdn.com/7e0f08c8-fb85-4580-b0bb-e2b5f0a1f4dc/'
   - image: 'https://ucarecdn.com/371da269-843f-4a7d-9c40-7ce5c3baf52e/'
   - image: 'https://ucarecdn.com/37fb31e3-b791-44da-8b81-29075bfee206/'
   - image: 'https://ucarecdn.com/20535340-0303-4147-8396-a35558198249/'
+  - image: 'https://ucarecdn.com/0ccb472b-c50a-4d52-97b0-f89bad329a67/'
   - image: 'https://ucarecdn.com/df571171-2e4b-4a8a-a3e8-edd5be5d9617/'
   - image: 'https://ucarecdn.com/27d0ab19-f9ff-474d-a81d-9580ae131e62/'
   - image: 'https://ucarecdn.com/1814974c-d2bd-4979-b7a5-cb7f34d8fd03/'
@@ -30,6 +31,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/71ef22cd-ed97-40e7-b07b-65d70460d373/'
   - image: 'https://ucarecdn.com/39650bc8-40a9-4736-915e-0d03b31592ad/'
   - image: 'https://ucarecdn.com/7e1c1420-a538-42a3-9634-6441936e3827/'
+  - image: 'https://ucarecdn.com/a76b3bac-6f39-44ee-870a-05c1dd64a11c/'
   - image: 'https://ucarecdn.com/696c0e79-5059-4490-b174-36a3d8e4b924/'
   - image: 'https://ucarecdn.com/9040d9f6-cac3-40e7-b257-7f5ee4421ac8/'
   - image: 'https://ucarecdn.com/6c89d913-ae3f-4ac2-b33b-f008d694676d/'
