@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/5f5e663d-6568-4fe8-b378-0467e74a9b90/-/crop/1037x1523/395,0/-/preview/
 firstName: Jemima
 collection: Girls
-height: 141cm
+height: 150cm
 measurementType: bust
-bust: 63cm
-waist: 59cm
-hips: 64cm
-size: '10'
-shoeSize: '4'
+bust: 71cm
+waist: 61cm
+hips: 68cm
+size: 10-12
+shoeSize: 5-6
 hair: Blonde
 eyes: Blue
 imagePortfolio:
