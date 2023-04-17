@@ -11,8 +11,7 @@ buttonText: See Our Talent
 buttonUrl: models/women
 gallery:
   galleryImages:
-    - image: >-
-        https://ucarecdn.com/4e1af0e0-6b2a-4c35-a43f-33c98ac1336a/-/crop/2228x3330/1042,97/-/preview/
+    - image: 'https://ucarecdn.com/a0440d29-f645-4d67-b0cb-d5a418b39ad4/'
       title: Women
     - image: >-
         https://ucarecdn.com/06a8f2de-0154-47dc-95e7-d98a3a997f18/-/crop/877x1142/601,153/-/preview/
@@ -24,7 +23,7 @@ gallery:
     - image: 'https://ucarecdn.com/e7f3818f-a1fb-4893-a4d3-985bdd0257be/'
       title: Extras
     - image: >-
-        https://ucarecdn.com/6c3b93ac-887f-4ba5-8a33-fe87f7ad3f2e/-/crop/3450x3771/0,0/-/preview/
+        https://ucarecdn.com/f4edf994-bfe0-4fb6-aed1-2d9c88a1677f/-/crop/1632x1660/0,210/-/preview/
       title: Men
     - image: >-
         https://ucarecdn.com/263ede51-a3f4-460b-a6e0-2b590d4baea0/-/crop/1200x1056/0,0/-/preview/
