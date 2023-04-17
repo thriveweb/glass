@@ -4,7 +4,7 @@ title: Dredon
 featuredImage: >-
   https://ucarecdn.com/d1338749-e51f-4993-a0d5-eb85d1bdc531/-/crop/1010x836/1548,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/be47d755-4759-4b1b-ac21-9004e91bd421/-/crop/643x828/388,246/-/preview/
+  https://ucarecdn.com/b94deca9-6412-4aa2-953c-e21c90a9447b/-/crop/493x733/550,259/-/preview/
 firstName: Dredon
 collection: Men
 height: 184cm
@@ -27,7 +27,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/acd791de-6253-4e90-9077-d6fd75cee219/'
   - image: 'https://ucarecdn.com/8ac5eebe-ab85-43cd-8488-23b577abd175/'
   - image: 'https://ucarecdn.com/f3fbf297-0bbe-488c-97b3-c1ec73bbe41b/'
-  - image: 'https://ucarecdn.com/03d7e24e-e44a-49fc-8145-c97067f5d300/'
+  - image: 'https://ucarecdn.com/5638c71b-7447-4c03-a698-d460e24b495c/'
   - image: 'https://ucarecdn.com/0a50f283-e806-497d-ad9b-c323ce4a3f09/'
   - image: 'https://ucarecdn.com/99c6d5dd-acf9-4e62-93c3-e4fa0fdd4980/'
   - image: 'https://ucarecdn.com/c5974156-ca85-46d8-ba77-d17a64c9df94/'
@@ -40,5 +40,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b58fa2aa-9c94-446b-a257-1973e41918e1/'
   - image: 'https://ucarecdn.com/46090e27-49ab-416e-931b-dfd5026209f5/'
   - image: 'https://ucarecdn.com/58274de7-8d78-4794-b4ee-dad58de52b1c/'
+  - image: 'https://ucarecdn.com/c8d3b801-c80b-4a85-9940-c2b5e3539b02/'
 ---
 
