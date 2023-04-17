@@ -2,9 +2,9 @@
 template: ModelPage
 title: Tabatha
 featuredImage: >-
-  https://ucarecdn.com/57be6817-429e-4460-9dce-8ce78491be3d/-/crop/1633x925/0,0/-/preview/
+  https://ucarecdn.com/9eb2e0cd-289d-4f5c-9e0f-ae5a51bff590/-/crop/1633x1176/0,75/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/482073b9-a089-4637-99f9-cdf96c06e783/-/crop/1162x1400/203,48/-/preview/
+  https://ucarecdn.com/9c615ccb-3321-45de-bb16-deff0a2e5866/-/crop/1145x1358/236,37/-/preview/
 firstName: Tabatha
 collection: Classic
 height: 175cm
@@ -14,10 +14,10 @@ waist: 83cm
 hips: 102cm
 size: '12'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/d9dadcab-15e9-447c-bcfb-1c83fa8c9e37/'
-  - image: 'https://ucarecdn.com/fc8b4e18-4229-4d6d-8357-4aa44154c0d1/'
-  - image: 'https://ucarecdn.com/803bfccb-8576-4996-9b2e-c869495522f0/'
-  - image: 'https://ucarecdn.com/a46aef7b-d86d-4348-909a-fdcaf62057b1/'
-  - image: 'https://ucarecdn.com/c78cb640-e7ca-4fa7-bcca-5743a4bed565/'
+  - image: 'https://ucarecdn.com/d2f721b3-e14a-42b5-8eef-b41996e89475/'
+  - image: 'https://ucarecdn.com/4113679d-2cd6-407c-9f00-3717a590e2b5/'
+  - image: 'https://ucarecdn.com/fb2b5d27-ddae-476e-853c-66d44ad15106/'
+  - image: 'https://ucarecdn.com/e5f2c75c-94bc-4cf3-b13d-9e6095139830/'
+  - image: 'https://ucarecdn.com/3b50a6c5-118a-41c2-a82d-05bad2b416d3/'
 ---
 
