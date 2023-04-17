@@ -29,7 +29,7 @@ gallery:
     - image: >-
         https://ucarecdn.com/2bdf034c-edd9-4a1a-8cb2-2ffbe929df34/-/crop/1629x1107/0,127/-/preview/
       title: Boys
-    - image: 'https://ucarecdn.com/3e9dea53-4b33-40d1-b5fd-e00830215cdf/'
+    - image: 'https://ucarecdn.com/410b3a9c-f706-4b5d-a320-105225b71bd3/'
       title: Classic
     - image: 'https://ucarecdn.com/2707aaea-761f-4018-91b3-0a2a3be426de/'
       title: Actors
