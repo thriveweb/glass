@@ -4,7 +4,7 @@ title: Jayden
 featuredImage: >-
   https://ucarecdn.com/f1e61c27-03a4-4f0b-b8e4-f82a3f31e3b8/-/crop/1633x1241/0,226/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/5663de3f-c538-4018-bf29-ab5b4446c93f/-/crop/617x803/448,159/-/preview/
+  https://ucarecdn.com/541aa4e0-8856-4996-998b-3b97028aae60/-/crop/965x1289/291,0/-/preview/
 firstName: Jayden
 collection: Boys
 height: 150cm
