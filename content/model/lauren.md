@@ -2,7 +2,7 @@
 template: ModelPage
 title: Lauren
 featuredImage: >-
-  https://ucarecdn.com/b18f8a8d-aada-48aa-8bcf-e0216f6891a3/-/crop/5377x3140/0,0/-/preview/
+  https://ucarecdn.com/b18f8a8d-aada-48aa-8bcf-e0216f6891a3/-/crop/5377x2589/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/a01be195-3678-4205-9227-6272206210d6/'
 firstName: 'Lauren '
 collection: Women
