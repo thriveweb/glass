@@ -2,7 +2,7 @@
 template: ModelPage
 title: Alfie
 featuredImage: >-
-  https://ucarecdn.com/7ce851cd-022e-409e-84f7-a09458d02c03/-/crop/1632x1335/0,97/-/preview/
+  https://ucarecdn.com/9d0caafc-cb36-4a38-8a5a-e4ec8dbc1a76/-/crop/1633x940/0,116/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/893e2e2d-b8a3-47f7-8526-abf542bfdf8d/-/crop/1121x1581/253,0/-/preview/
 firstName: Alfie
