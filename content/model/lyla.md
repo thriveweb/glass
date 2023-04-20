@@ -2,7 +2,7 @@
 template: ModelPage
 title: Lyla
 featuredImage: >-
-  https://ucarecdn.com/33b5b1b3-f7fc-4e7a-b800-06b6d50133ea/-/crop/2448x1507/0,0/-/preview/
+  https://ucarecdn.com/33b5b1b3-f7fc-4e7a-b800-06b6d50133ea/-/crop/2448x1222/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/8e2cd84a-5e99-4954-9aac-d4b7ebc6ec90/-/crop/1036x1431/343,26/-/preview/
 firstName: Lyla
