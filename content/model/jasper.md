@@ -13,7 +13,9 @@ bust: 74cm
 waist: 61cm
 hips: 72.5cm
 size: '10'
+shoeSize: '6'
 hair: Brown
+eyes: Blue/Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/6604cf5f-d158-4e44-9e24-ea0948781c81/'
   - image: 'https://ucarecdn.com/54d20e3c-07bf-406b-b7cb-a83e6ff91cb8/'
