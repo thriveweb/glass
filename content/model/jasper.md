@@ -4,7 +4,7 @@ title: Jasper
 featuredImage: >-
   https://ucarecdn.com/29046a6c-a94b-4052-a234-7672f5ccc66e/-/crop/2449x1213/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/e5e0bec0-fe98-4553-a56c-280d6154a931/-/crop/1062x1516/298,0/-/preview/
+  https://ucarecdn.com/96bfd3e3-1440-49b5-a5f3-f648f456aec7/-/crop/939x1373/337,175/-/preview/
 firstName: Jasper
 collection: Boys
 height: 144cm
