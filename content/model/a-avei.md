@@ -2,7 +2,7 @@
 template: ModelPage
 title: A Avei
 featuredImage: >-
-  https://ucarecdn.com/10451c63-4202-406a-9a3f-fc23cfb4e303/-/crop/1920x768/0,0/-/preview/
+  https://ucarecdn.com/534f54f3-5889-4e1e-bf8f-c66183c828e3/-/crop/991x478/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b79505be-2704-4cc4-80af-6ad69cbd4db1/-/crop/1227x1366/534,35/-/preview/
 firstName: Avei
