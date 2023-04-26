@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/d7e9734c-59fb-4485-8dd7-4f87d1228118/-/crop/369x472/0,43/-/preview/
 firstName: Louie
 collection: Extras
-height: '185'
+height: 185cm
 measurementType: chest
-bust: 102cm
-waist: 81cm
-hips: 99cm
-size: 'Pants: 32/ Top: L'
+bust: 96cm
+waist: 76cm
+hips: 97cm
+size: 'Pants: 32 Top: L'
 shoeSize: '12'
 imagePortfolio:
   - image: 'https://ucarecdn.com/05906de5-8c01-4d6a-84c3-94c7cfac9b79/'
