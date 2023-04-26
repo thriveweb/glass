@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Rico
-featuredImage: >-
-  https://ucarecdn.com/a7eed313-2a7a-4c24-9210-c73d2a888f15/-/crop/3429x1632/0,654/-/preview/
+featuredImage: 'https://ucarecdn.com/ab79caeb-d152-4018-bec4-5e7825ee5b9f/'
 imageThumbnail: >-
   https://ucarecdn.com/1eceb6e8-4c83-4024-a8a9-bc62f70b41f4/-/crop/2564x3769/1001,1542/-/preview/
 firstName: Rico
