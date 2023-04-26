@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/be0f656f-af68-4f4d-a62e-85921c1670d1/'
 imageThumbnail: >-
   https://ucarecdn.com/aa28621d-d9e2-473b-a8e8-d3d32c84c129/-/crop/846x1115/367,18/-/preview/
 firstName: Noah S
-collection: Extras
+collection: Boys
 height: 147cm
 measurementType: chest
 bust: 65cm
