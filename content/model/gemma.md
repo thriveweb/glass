@@ -9,9 +9,9 @@ firstName: Gemma
 collection: Women
 height: 175cm
 measurementType: bust
-bust: 83cm
+bust: 85cm
 waist: 70cm
-hips: 93cm
+hips: 96cm
 size: '8'
 shoeSize: '39'
 hair: Brown
