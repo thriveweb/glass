@@ -10,7 +10,7 @@ height: 171cm
 measurementType: bust
 bust: 88cm
 waist: 75.5cm
-hips: 105cm
+hips: 103cm
 size: '10'
 shoeSize: '8'
 hair: Red
