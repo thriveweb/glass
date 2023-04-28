@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Louis
+title: Louie G
 featuredImage: >-
   https://ucarecdn.com/732f6627-ea91-49ff-9b27-0fc39af8339a/-/crop/2353x1292/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/bcc90835-f5b3-44d2-89ce-fa84ddb88063/-/crop/925x1353/361,162/-/preview/
-firstName: Louis
+firstName: Louie G
 collection: Men
 height: 184cm
 measurementType: chest
