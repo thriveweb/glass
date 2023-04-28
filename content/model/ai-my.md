@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/f1abe4ee-3bf3-4580-bc1f-03d93a9e09e9/-/crop/1032x1422/704,0/-/preview/
 firstName: Ai-My
 collection: Girls
-height: 142cm
+height: 146cm
 measurementType: bust
 bust: 67cm
 waist: 60cm
