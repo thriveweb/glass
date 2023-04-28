@@ -9,7 +9,7 @@ firstName: Kim W
 collection: Girls
 height: 151cm
 measurementType: bust
-bust: 69cm
+bust: 71cm
 waist: 62cm
 hips: 75cm
 size: '12'
