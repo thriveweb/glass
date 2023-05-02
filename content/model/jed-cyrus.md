@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/ac93f5a5-af4c-48b4-98e3-92dd60c62b5d/-/crop/1632x917/0,99/-/preview/
 imageThumbnail: 'https://ucarecdn.com/014d271d-0b43-49e7-b876-c29d9c6a3934/'
 firstName: Jed
-collection: Classic
+collection: ''
 height: 173cm
 measurementType: chest
 bust: 91cm
