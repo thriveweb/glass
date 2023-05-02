@@ -4,7 +4,7 @@ title: 'Beau '
 featuredImage: >-
   https://ucarecdn.com/8522f484-0335-46b3-8478-dbeba1c00ec4/-/crop/2447x1345/0,129/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/590b0f2a-e743-4163-b3ba-ac8dd6c7a305/-/crop/993x1240/382,486/-/preview/
+  https://ucarecdn.com/60b46152-9870-4d24-9176-ac6c91ff0510/-/crop/1514x1805/64,203/-/preview/
 firstName: Beau
 collection: Boys
 height: 142cm
