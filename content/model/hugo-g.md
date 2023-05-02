@@ -12,8 +12,8 @@ measurementType: chest
 bust: 66cm
 waist: 62cm
 hips: 72cm
-size: '8'
-shoeSize: '2'
+size: '10'
+shoeSize: '3'
 hair: Ginger
 eyes: Blue
 imagePortfolio:
