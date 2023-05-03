@@ -13,6 +13,7 @@ bust: 98cm
 waist: 83cm
 hips: 102cm
 size: '12'
+shoeSize: '9'
 imagePortfolio:
   - image: 'https://ucarecdn.com/d2f721b3-e14a-42b5-8eef-b41996e89475/'
   - image: 'https://ucarecdn.com/4113679d-2cd6-407c-9f00-3717a590e2b5/'
