@@ -4,7 +4,7 @@ title: Bec
 featuredImage: 'https://ucarecdn.com/a25b236e-0dd2-42ea-97a6-e89c5b4ff61c/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/bec.webp'
 firstName: Bec
-collection: Classic
+collection: Extras
 height: 178cm
 measurementType: bust
 bust: 102cm
