@@ -12,7 +12,7 @@ measurementType: chest
 bust: 104cm
 waist: 91cm
 hips: 110cm
-size: XL shirt - 34-36 Pant
+size: XL shirt - 36-38Pant
 shoeSize: '12.5'
 imagePortfolio:
   - image: 'https://ucarecdn.com/962b2317-dde8-4184-a8c8-fbbe4911860d/'
