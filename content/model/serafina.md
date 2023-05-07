@@ -11,7 +11,7 @@ height: 130cm
 measurementType: bust
 bust: 61cm
 waist: 58cm
-hips: 86cm
+hips: 63cm
 size: 6-7
 shoeSize: '1'
 hair: Brown
