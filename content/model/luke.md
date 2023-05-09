@@ -4,7 +4,7 @@ title: Luke
 featuredImage: 'https://ucarecdn.com/a4351af4-2232-4a2c-9e9e-d9652aa7d0fb/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/dsc02491-5-1-2.jpg'
 firstName: Luke
-collection: Men
+collection: Extras
 height: 190cm
 measurementType: chest
 bust: 105cm
