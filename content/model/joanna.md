@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/5186a633-a7ec-476c-8d61-3659faae7f9b/'
 imageThumbnail: >-
   https://ucarecdn.com/b2ebb1ec-5cff-4780-a538-baf8a2644d6f/-/crop/1497x2370/135,0/-/preview/
 firstName: Joanna
-collection: Women
+collection: Emerging
 height: 177cm
 measurementType: bust
 bust: 84cm
