@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Blessed
+title: Jo Blessed
 featuredImage: 'https://ucarecdn.com/908eee0e-de4e-49f0-9236-02704c97e3a8/'
 imageThumbnail: >-
   https://ucarecdn.com/7dabefc8-f6e6-4577-a116-685bcf385770/-/crop/3011x4030/200,281/-/preview/
