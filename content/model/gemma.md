@@ -2,7 +2,7 @@
 template: ModelPage
 title: Gemma
 featuredImage: >-
-  https://ucarecdn.com/1d236f25-578f-4403-bcda-eb4339cbba9e/-/crop/2449x1201/0,111/-/preview/
+  https://ucarecdn.com/f34a1e1e-9642-4a15-b2b4-04e2363ffd7f/-/crop/2674x1063/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/6d8bdbdb-7d24-4422-a6e0-a8e5424937b2/-/crop/282x362/129,17/-/preview/
 firstName: Gemma
@@ -18,6 +18,8 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/5cb1c8a3-0a49-45e3-8278-07768c89efed/'
+  - image: >-
+      https://ucarecdn.com/fc716e5e-770f-482c-b4f1-a5f0e1198921/-/crop/402x400/283,0/-/preview/
   - image: 'https://ucarecdn.com/389b4077-0b1b-4485-bf0d-4ebfe4b283c2/'
   - image: 'https://ucarecdn.com/c84c381d-60a8-429e-a29f-b271d76b5f33/'
   - image: 'https://ucarecdn.com/e1396d2c-c56f-4558-8bfc-b1214b0a7979/'
@@ -33,6 +35,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b03e75dc-3b6d-4aa7-a6af-f7d91844ad50/'
   - image: 'https://ucarecdn.com/2916dee7-f1d3-417e-84de-d60e2ad3802c/'
   - image: 'https://ucarecdn.com/3ce36c37-2bbd-4d46-abbd-435f3d15b723/'
+  - image: 'https://ucarecdn.com/d73533ec-a93d-4be1-aee0-1f27645d3ebc/'
   - image: 'https://ucarecdn.com/3bd4a22f-b70c-4aba-81b2-048db4f50942/'
   - image: 'https://ucarecdn.com/09c44ac0-63d3-4559-bc50-cf13ae62153e/'
   - image: 'https://ucarecdn.com/3a20b249-f53c-4a49-ba9d-566da23337ec/'
