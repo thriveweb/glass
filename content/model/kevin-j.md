@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/aaf7d31b-8924-4676-bc4e-f4bee54a37e8/-/crop/4365x3472/284,0/-/preview/
 firstName: Kevin J
-collection: Men
+collection: Extras
 height: 183cm
 measurementType: chest
 bust: 97cm
