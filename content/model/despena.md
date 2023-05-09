@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/09e9c034-1fe2-418f-aac7-e37d78f83b64/-/crop/1522x1988/111,0/-/preview/
 firstName: Despena
-collection: Women
+collection: Emerging
 height: 163cm
 measurementType: bust
 bust: 83cm
