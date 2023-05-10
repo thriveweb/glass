@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b65a3987-9e69-4a52-9ef6-124ae8e94377/-/crop/1265x1612/453,72/-/preview/
 firstName: 'Olivia '
-collection: Emerging
+collection: ''
 height: 176cm
 measurementType: bust
 bust: 85cm
