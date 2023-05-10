@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/39424ebf-f7a6-4cfb-bfa2-84508570d59b/-/crop/855x1367/602,65/-/preview/
 firstName: Steven
-collection: Classic
+collection: ''
 height: 181cm
 measurementType: chest
 bust: 110cm
