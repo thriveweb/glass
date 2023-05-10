@@ -4,7 +4,7 @@ title: Anja
 featuredImage: >-
   https://ucarecdn.com/e6db4b41-84b0-46b2-a96f-4d57c30eb6ca/-/crop/2449x1190/0,158/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ed888dde-9bfe-4786-b232-bfcd9efa2d00/-/crop/1095x1493/300,0/-/preview/
+  https://ucarecdn.com/ed888dde-9bfe-4786-b232-bfcd9efa2d00/-/crop/1088x1444/300,127/-/preview/
 firstName: Anja
 collection: Classic
 height: 165cm
