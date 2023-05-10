@@ -4,7 +4,7 @@ title: 'Courtney '
 featuredImage: >-
   https://ucarecdn.com/4f82b7ec-af66-475b-8085-1d0e6809761a/-/crop/1195x742/0,36/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/58f9a9df-f6ea-4993-941f-56783bfa2edb/-/crop/1323x1920/118,0/-/preview/
+  https://ucarecdn.com/58f9a9df-f6ea-4993-941f-56783bfa2edb/-/crop/1327x1736/118,0/-/preview/
 firstName: 'Courtney '
 collection: Women
 height: 171cm
