@@ -3,7 +3,7 @@ template: ModelPage
 title: Diana A
 featuredImage: 'https://ucarecdn.com/295d8dde-1d2f-4e83-9726-ecd4848d0ec7/'
 imageThumbnail: >-
-  https://ucarecdn.com/48eb6470-33bc-41b3-9276-0dd93e350859/-/crop/4380x5951/600,466/-/preview/
+  https://ucarecdn.com/48eb6470-33bc-41b3-9276-0dd93e350859/-/crop/3551x5064/967,638/-/preview/
 firstName: Diana
 collection: Classic
 height: 169cm
