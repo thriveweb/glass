@@ -2,7 +2,8 @@
 template: ModelPage
 title: Sandy
 featuredImage: 'https://ucarecdn.com/ddfc3665-3404-4fc9-b9ef-0db081453b9a/'
-imageThumbnail: 'https://ucarecdn.com/6816f035-9a9d-4989-9362-7d234dd2d309/'
+imageThumbnail: >-
+  https://ucarecdn.com/6816f035-9a9d-4989-9362-7d234dd2d309/-/crop/352x482/164,35/-/preview/
 firstName: Sandy
 collection: Classic
 height: 163cm
