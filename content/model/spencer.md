@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/b159ec3a-e9ab-4ed0-a767-b0440cc9c7d3/'
 imageThumbnail: >-
   https://ucarecdn.com/da15c8cc-d8f9-4b5b-9fdd-c7db6f683472/-/crop/808x1202/103,46/-/preview/
 firstName: Spencer
-collection: Classic
+collection: Extras
 height: 178cm
 measurementType: chest
 bust: 106cm
