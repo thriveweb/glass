@@ -3,7 +3,7 @@ template: ModelPage
 title: Phillip
 featuredImage: 'https://ucarecdn.com/6caeaea7-00fb-4754-9feb-9793ea4e57db/'
 imageThumbnail: >-
-  https://ucarecdn.com/d832feea-5d95-4fe2-95bb-bb347bcdd8b6/-/crop/686x1145/435,0/-/preview/
+  https://ucarecdn.com/022fd36d-4010-4fd4-a910-59b63ca6cfcd/-/crop/1099x1462/245,0/-/preview/
 firstName: Phillip
 collection: Classic
 height: 180cm
