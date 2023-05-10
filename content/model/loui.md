@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/6c599543-f011-42e7-b980-fb4ce97199d0/-/crop/1378x1875/404,384/-/preview/
 firstName: Louie
-collection: Extras
+collection: Men
 height: 185cm
 measurementType: chest
 bust: 96cm
