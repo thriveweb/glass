@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/eb5db032-6e53-41b8-9315-d3d806a2c0d9/-/crop/1204x1650/169,0/-/preview/
 firstName: Ashanna
-collection: Emerging
+collection: Actors
 height: 165cm
 measurementType: bust
 bust: 84cm
