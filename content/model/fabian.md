@@ -2,7 +2,7 @@
 template: ModelPage
 title: Fabian
 featuredImage: >-
-  https://ucarecdn.com/27eb0f16-1b70-409f-98f0-07b179e9e503/-/crop/361x234/0,0/-/preview/
+  https://ucarecdn.com/37dee455-2623-4d93-99fd-345f0c405a61/-/crop/1080x601/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/21b7e116-b3a4-45fd-bea3-3e368badf947/-/crop/1468x1780/0,0/-/preview/
 firstName: Fabian
