@@ -2,7 +2,7 @@
 template: ModelPage
 title: Dore Family
 featuredImage: >-
-  https://ucarecdn.com/bfd7c170-551b-4465-82bf-08ed6a62ffdf/-/crop/2448x1429/0,0/-/preview/
+  https://ucarecdn.com/bfd7c170-551b-4465-82bf-08ed6a62ffdf/-/crop/2448x1211/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d2879507-b0c9-440a-b878-22a889e2221c/-/crop/1388x1874/144,502/-/preview/
 firstName: Dore Family
