@@ -15,6 +15,7 @@ size: 9-10
 shoeSize: Euro 33
 imagePortfolio:
   - image: 'https://ucarecdn.com/25da4874-b1ba-4ef7-9bf9-7d0e34386151/'
+  - image: 'https://ucarecdn.com/37668986-868e-4b82-a84b-5abe2b85abe1/'
   - image: 'https://ucarecdn.com/1bbc8173-6631-4486-bd32-847b1a546a70/'
   - image: 'https://ucarecdn.com/501fc2ad-3c98-4e16-ad5c-84546815e775/'
   - image: 'https://ucarecdn.com/cdfeb262-6b4b-42a6-952e-ad77d342fb78/'
