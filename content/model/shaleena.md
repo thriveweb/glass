@@ -9,9 +9,9 @@ firstName: Shaleena
 collection: Classic
 height: 177cm
 measurementType: bust
-bust: 32cm
-waist: 26cm
-hips: 34cm
+bust: 32inches
+waist: 26inches
+hips: 34inches
 size: 6-8
 shoeSize: '9'
 hair: Brown
