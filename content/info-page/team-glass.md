@@ -1,24 +1,7 @@
 ---
 template: InfoPage
 title: Team Glass
-featuredImage: 'https://glassmanagement.imgix.net/images/uploads/alisha.jpg'
-content: >-
-  Here at Glass we belong to a special club called #teamglass
-
-
-  We believe in celebrating each individuals success. We believe in team unity.
-
-
-  Each model is special and we tailor make a plan to help them reach their goals
-  within the industry.
-
-
-  By remaining the Gold Coast's Top Agency we make dreams come true.
-
-
-  Go #teamglass
-
-
-  ![Test Image](https://glassmanagement.imgix.net/images/uploads/logo-black.svg)
+featuredImage: 'https://ucarecdn.com/6df5de09-14a4-4b66-8682-fa7d9374da61/'
+content: "At Glass Management, we believe in celebrating each individuals success and unity. \n\nW\uFEFFe tailor make a plan to each individual talent to help them reach their goals within the industry. \n\nW\uFEFFe are a passionate and driven team of true professionals who are 100% committed to the industry. \n\n\n\n\n\n\n\n\n\n![Test Image](https://glassmanagement.imgix.net/images/uploads/logo-black.svg)"
 ---
 
