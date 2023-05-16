@@ -95,7 +95,7 @@ teamMembers:
 
       As well as this, Tyra ensures all of our systems are up to date, and our
       website is uploaded daily.
-  - leftAlign: false
+  - leftAlign: true
     title: Sabina
     image: >-
       https://ucarecdn.com/6eb13e3e-6742-4369-9ef7-671e827d280d/-/crop/1180x1369/214,32/-/preview/
