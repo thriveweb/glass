@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jillian
 featuredImage: >-
-  https://ucarecdn.com/98aedbf1-d4d1-48d9-982d-cf09ce354130/-/crop/2305x1430/0,22/-/preview/
+  https://ucarecdn.com/7f9b9d3b-fe93-49dd-8d2f-d57a700b6141/-/crop/1998x1094/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/1208743e-e904-41af-9427-ed20c1e2cb6b/-/crop/1119x1509/333,0/-/preview/
 firstName: Jillian
@@ -18,6 +18,7 @@ hair: White
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/66f644c2-941e-4243-9c2f-aad820fd2c3e/'
+  - image: 'https://ucarecdn.com/03689918-dc48-489a-879f-4c33344e059d/'
   - image: 'https://ucarecdn.com/d84f931e-7298-44b1-9980-5f99e9d3adf7/'
   - image: >-
       https://ucarecdn.com/2f5e66bf-1b0b-4f98-bab4-2a11ebd21d61/-/preview/-/rotate/90/
