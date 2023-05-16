@@ -12,7 +12,7 @@ waist: 61cm
 hips: 79cm
 size: 10-12
 shoeSize: '4'
-hair: ' '
+hair: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/45a34045-fabc-41d9-9880-4071937925ae/'
   - image: 'https://ucarecdn.com/b5eea7c5-9ded-4c0f-b2d2-0c236e165322/'
