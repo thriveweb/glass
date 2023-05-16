@@ -2,7 +2,7 @@
 template: AboutPage
 slug: about
 featuredImage: >-
-  https://ucarecdn.com/aa34b477-549b-4f39-9430-c3c61c0f8f17/-/crop/2736x1675/0,0/-/preview/
+  https://ucarecdn.com/3da2a4c3-83c7-46e5-9de4-4c4b9e4d303c/-/crop/2114x1217/0,0/-/preview/
 subTitle: ''
 title: About Us
 teamMembers:
@@ -36,124 +36,83 @@ teamMembers:
       energetic personality means it's always exciting times ahead for Glass
       Management and always a new idea around the corner!
     image: >-
-      https://ucarecdn.com/d4657014-f9ec-4df8-a9b2-c4451cc62fe1/-/crop/3648x4473/0,0/-/preview/
+      https://ucarecdn.com/90c0e55b-a5b6-4aef-a137-e1561c987f93/-/crop/662x773/0,0/-/preview/
     leftAlign: true
-    subTitle: Our Story
+    subTitle: Director
     title: Tegan Glass
   - content: >-
       Meet Emily
 
 
-      Super efficient, super friendly and super talented and ALWAYS at Glass
-      (unless she's on set or a shoot). 
+      Emily focuses on submitting Talent to Modelling and Lifestyle Campaigns
+      and coordinates with Clients to ensure the shoot is booked with ease.
 
 
-      Emily runs all the day to day campaigns for our Glass talent and ensures
-      that Glass remains a step above the rest in efficiency, professionalism
-      and first class service. 
-
-
-      She lives and breathes the Industry and has done since the age of 6!! So
-      with years of experience under her belt there is no one better to bring
-      her expertise to  Team Glass.
-
-
-      We love you Em!!
+      Emily also handles all of Glass Management's payment for talent and
+      payroll queries.
     image: >-
-      https://ucarecdn.com/73e95b7e-0581-4274-aebe-f0b475f06d38/-/crop/3648x4891/0,0/-/preview/
-    subTitle: There's Nothing This Girl Can't Do
+      https://ucarecdn.com/c0cab0ee-c711-43c0-8f1a-c0f53791cd38/-/crop/628x741/0,17/-/preview/
+    subTitle: OFFICE MANAGER
     title: Emily
   - image: >-
-      https://ucarecdn.com/b11282d5-27f6-41cc-ab39-e3e5bf3bf278/-/crop/1633x1861/0,374/-/preview/
+      https://ucarecdn.com/50bc2f9d-6a21-45c2-8df5-fa3a19931aaa/-/crop/578x770/79,15/-/preview/
     leftAlign: true
     subTitle: ''
   - leftAlign: false
     title: Maya
     image: >-
-      https://ucarecdn.com/ae86f29f-a684-4cbb-af3d-738004708f84/-/crop/3239x4160/0,0/-/preview/
+      https://ucarecdn.com/47422926-2243-4521-a17c-857226d11302/-/crop/487x574/62,9/-/preview/
     subTitle: Model Mentor and Coach
     content: >-
       Meet Maya
 
 
-      Super bubbly, super excited and super energetic!
+      Maya's passion is to educate and mentor our Glass kids with Acting and
+      Modelling. She runs our weekly classes for ages 7-12 which focus on
+      Casting and Audition Techniques, Modelling, Acting to TV Commercials and
+      Feature Films.
 
 
-      Maya brings to Glass her passion to educate and mentor our Glass kids with
-      acting and modelling skills. In the office she brings new ideas and
-      positive energy! 
-
-
-      She also lives and breathes the industry as a dancer, actor, model,
-      aerialist and coach. 
-
-
-      There's not much this girl can't do! Watch this space.
+      Apart from this, Maya also offers a Self Taping Service where she coaches,
+      films and assists Talent with their Media Requests.
   - leftAlign: true
     image: >-
-      https://ucarecdn.com/b14b826a-1aae-47dc-941e-519c90ea6be1/-/crop/1633x1602/0,420/-/preview/
+      https://ucarecdn.com/0920ec8f-36bb-44d4-b55e-8950265c5bc2/-/crop/619x682/62,0/-/preview/
     title: ''
   - leftAlign: false
     title: Tyra
     image: >-
       https://ucarecdn.com/682a54db-6d36-4062-b9a2-e9384f890a61/-/crop/3581x4259/0,0/-/preview/
-    subTitle: Talent Admin
+    subTitle: Extras Coordinator
     content: >-
       Meet Tyra
 
 
-      Super chilled, super sweet and super switched on. 
+      Tyra focuses on submitting, coordinating and booking talent for Feature
+      Films and Television Productions. She works closely alongside Casting
+      Directors ensuring our Extras and Actors are never overlooked.
 
 
-      Tyra ensures all of our systems are up to date, and our website is
-      uploaded daily! She brings the energy, and the vocals to our office
-      space. 
-
-
-      She is not one to brag about her past resume but has appeared in TVC's and
-      shoots since birth! In fact, her first job was at one week old on Home and
-      Away!
+      As well as this, Tyra ensures all of our systems are up to date, and our
+      website is uploaded daily.
   - leftAlign: true
-    subTitle: Talent Admin and Assistant Coach
-    title: Mikayla
-    content: >-
-      Meet Mikayla AKA Mik-kk
-
-
-      Super kind, Super sweet, may appear super quiet but don't be fooled!!!!
-
-
-      Mikayla is undertaking a Certificate of Business, whilst working in the
-      Glass office keeping our systems in check. She is also very passionate
-      about spreading her knowledge to our younger team members assisting in our
-      weekly workshops.
-
-
-      Mik-kk is a dedicated actor who works extremely hard at her craft,
-      appearing in TVC's and loves everything about the Film Industry. 
-
-
-      Keep an eye out for this one!
     image: >-
-      https://ucarecdn.com/d7bbc7e1-7cf3-4b3d-ad05-973b6905cc91/-/crop/3574x4149/0,190/-/preview/
+      https://ucarecdn.com/aa4d7dfe-ee8a-47ca-a6f0-f6d9c133e441/-/crop/1376x845/161,0/-/preview/
   - leftAlign: false
     title: Sabina
     image: >-
       https://ucarecdn.com/6eb13e3e-6742-4369-9ef7-671e827d280d/-/crop/1180x1369/214,32/-/preview/
     content: >-
-      Meet Sabina,
+      Meet Sabina
 
 
-      Sabina is head of new faces and is our talent scout! Sabina answers the
-      daily talent submissions to join our team!! 
+      Sabina runs Glass Management's social media accounts on Instagram and
+      Facebook.
 
 
-      She also runs our Instagram, making sure that everybody is celebrated and
-      feels the love!!
-
-
-      Go Team Glass!
-    subTitle: Talent Manager
+      She strongly believes and focuses on ensuring all of our Talent are
+      celebrated and feel the love.
+    subTitle: Social Media Manager
 services:
   content: >-
     Glass Management supplies professional talent for Feature Films, TV
