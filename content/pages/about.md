@@ -82,7 +82,7 @@ teamMembers:
   - leftAlign: false
     title: Tyra
     image: >-
-      https://ucarecdn.com/682a54db-6d36-4062-b9a2-e9384f890a61/-/crop/3581x4259/0,0/-/preview/
+      https://ucarecdn.com/5d6adb6d-5a4d-4128-b4b1-2d4ad652d60e/-/crop/569x709/68,0/-/preview/
     subTitle: Extras Coordinator
     content: >-
       Meet Tyra
