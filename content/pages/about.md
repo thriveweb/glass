@@ -82,7 +82,7 @@ teamMembers:
   - leftAlign: false
     title: Tyra
     image: >-
-      https://ucarecdn.com/5d6adb6d-5a4d-4128-b4b1-2d4ad652d60e/-/crop/569x709/68,0/-/preview/
+      https://ucarecdn.com/5d6adb6d-5a4d-4128-b4b1-2d4ad652d60e/-/crop/569x709/55,0/-/preview/
     subTitle: Extras Coordinator
     content: >-
       Meet Tyra
@@ -97,7 +97,7 @@ teamMembers:
       website is uploaded daily.
   - leftAlign: true
     image: >-
-      https://ucarecdn.com/b792961e-b620-4f21-a04f-6c78ba7b0a88/-/crop/717x915/0,0/-/preview/
+      https://ucarecdn.com/aa4d7dfe-ee8a-47ca-a6f0-f6d9c133e441/-/crop/1376x845/161,0/-/preview/
   - leftAlign: false
     title: Sabina
     image: >-
