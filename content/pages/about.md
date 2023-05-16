@@ -137,8 +137,7 @@ services:
 
 
         It really is Hollywood on the Gold Coast!!
-      image: >-
-        https://ucarecdn.com/cadfde72-dd30-4954-9390-54585824004c/-/crop/1365x1326/0,0/-/preview/
+      image: 'https://ucarecdn.com/46020c67-e186-4a8d-b816-b562da2efc57/'
       title: Glass Actors
     - content: >-
         Our Extras work daily on exciting film sets, maintaining our high level
