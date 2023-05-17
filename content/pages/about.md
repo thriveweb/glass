@@ -2,7 +2,7 @@
 template: AboutPage
 slug: about
 featuredImage: >-
-  https://ucarecdn.com/3da2a4c3-83c7-46e5-9de4-4c4b9e4d303c/-/crop/2114x1217/0,0/-/preview/
+  https://ucarecdn.com/bc93cd07-ee93-4f55-83bc-8bbf900fa89a/-/crop/1650x905/0,14/-/preview/
 subTitle: ''
 title: About Us
 teamMembers:
