@@ -2,7 +2,7 @@
 template: ModelPage
 title: Adam W
 featuredImage: >-
-  https://ucarecdn.com/59ad6134-7ed9-48ce-bb30-524828328c0e/-/crop/1170x672/0,329/-/preview/
+  https://ucarecdn.com/774edece-b080-4f09-a30c-0c9c03e07087/-/crop/1362x666/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/80ae429c-29cb-4ed6-a391-2daff16f3a2a/'
 firstName: Adam W
 collection: Men
