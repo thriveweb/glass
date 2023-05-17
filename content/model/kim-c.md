@@ -2,7 +2,7 @@
 template: ModelPage
 title: Kim C
 featuredImage: >-
-  https://ucarecdn.com/a309d436-de0b-4e82-87dd-2d832eea10ce/-/crop/1200x593/0,0/-/preview/
+  https://ucarecdn.com/a309d436-de0b-4e82-87dd-2d832eea10ce/-/crop/1200x576/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2c5af3a5-f484-44f1-8be9-bea8fb06b5a2/-/crop/337x444/92,22/-/preview/
 firstName: Kim C
