@@ -3,7 +3,8 @@ template: ModelPage
 title: Rylah
 featuredImage: >-
   https://ucarecdn.com/7b31db1c-8399-44e3-b489-cff76cb20c46/-/crop/1732x1104/0,518/-/preview/
-imageThumbnail: 'https://ucarecdn.com/40eaa5e9-7680-41f3-b509-d1f25e391eaf/'
+imageThumbnail: >-
+  https://ucarecdn.com/c97e98c7-b563-42d8-8c6e-71e138250338/-/crop/1383x1688/118,113/-/preview/
 firstName: Rylah
 collection: Girls
 height: 116cm
