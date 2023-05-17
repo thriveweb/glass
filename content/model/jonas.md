@@ -4,7 +4,7 @@ title: Jonas
 featuredImage: >-
   https://ucarecdn.com/66708503-1d7b-47c9-8073-f9ded1baaefa/-/crop/1632x2057/0,392/-/preview/
 imageThumbnail: 'https://ucarecdn.com/e2808a97-d22e-4c79-a52a-7b945961979f/'
-firstName: 'Jonas '
+firstName: 'MELBOURNE Jonas '
 collection: Melbourne
 height: 197cm
 measurementType: chest
