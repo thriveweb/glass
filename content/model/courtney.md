@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Courtney '
 featuredImage: >-
-  https://ucarecdn.com/4f82b7ec-af66-475b-8085-1d0e6809761a/-/crop/1195x742/0,36/-/preview/
+  https://ucarecdn.com/75a60063-d041-4002-9d58-81ea25babd21/-/crop/1170x896/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/58f9a9df-f6ea-4993-941f-56783bfa2edb/-/crop/1327x1736/118,0/-/preview/
 firstName: 'Courtney '
@@ -22,6 +22,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/963144b7-5913-4ff3-97af-081d235205ff/'
   - image: 'https://ucarecdn.com/85201174-e5dd-47ae-a232-085052cc47f6/'
   - image: 'https://ucarecdn.com/cfcfefbc-ccf1-417f-8b15-f359b6abe0c8/'
+  - image: 'https://ucarecdn.com/8b85f109-7e6b-4e55-ac9e-febd26ce02e5/'
   - image: 'https://ucarecdn.com/2c3d8ebe-b0e7-4249-9bd5-d1f4a4adc11f/'
   - image: 'https://ucarecdn.com/41017414-2ee1-45a9-8265-b05399168ad1/'
   - image: 'https://ucarecdn.com/0825eca3-1f8c-45ea-b3f8-fb8c7fcd5453/'
