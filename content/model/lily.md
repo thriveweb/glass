@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Lily
-featuredImage: >-
-  https://ucarecdn.com/4dc48242-187a-4f7d-976c-cbbe65c0bfa3/-/crop/2449x1186/0,130/-/preview/
+featuredImage: 'https://ucarecdn.com/03214e3e-c8ac-49c5-a708-52c29f2cbacd/'
 imageThumbnail: >-
   https://ucarecdn.com/1e357790-a35f-4d2a-b798-b379187e18d4/-/crop/1280x1708/0,0/-/preview/
 firstName: Lily
@@ -21,6 +20,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/83fec2b1-f7b2-40a5-9176-a7c88c8fda52/'
   - image: 'https://ucarecdn.com/d53e0854-6e63-4f92-91e9-32627c7cdc0d/'
   - image: 'https://ucarecdn.com/2b2186cf-9f5a-4220-92da-8e4ea475edae/'
+  - image: 'https://ucarecdn.com/c05a049c-6ede-432c-911d-af32a85f50e8/'
   - image: 'https://ucarecdn.com/3528d9ae-8bef-4568-bcaa-986af4b01d32/'
   - image: 'https://ucarecdn.com/a9e17498-8bcc-4810-ac7e-96f9f5ad6d9d/'
   - image: 'https://ucarecdn.com/a3127069-0529-46f9-8592-e20fa01ff000/'
