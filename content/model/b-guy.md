@@ -2,7 +2,7 @@
 template: ModelPage
 title: B Guy
 featuredImage: >-
-  https://ucarecdn.com/6ace8a5f-4c82-45ae-baf2-fa6a178f8971/-/crop/1632x1117/0,336/-/preview/
+  https://ucarecdn.com/cb46d088-d544-4dfc-826f-979fb8673309/-/crop/1068x768/0,160/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/03eaa432-68a3-40a6-bc59-22d7b3df008d/-/crop/1275x1601/236,0/-/preview/
 firstName: Guy
@@ -18,6 +18,7 @@ hair: Blonde
 eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/aa4f277f-b0cc-4d25-b04b-7e20dcda08bf/'
+  - image: 'https://ucarecdn.com/967e2a71-16c4-48a8-9177-e4ae7b31ff81/'
   - image: 'https://ucarecdn.com/f8daa08f-a834-4a7d-b207-065446d00c86/'
   - image: 'https://ucarecdn.com/88f94893-b203-448b-996b-00a9fc5a7baa/'
   - image: 'https://ucarecdn.com/842227dc-e462-4d8e-b0a4-9a789404cfca/'
@@ -41,5 +42,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0d39b099-1fc7-4548-a10f-baae29ebb692/'
   - image: 'https://ucarecdn.com/de0ec6b2-198d-4a9b-a0de-005972fdc1a0/'
   - image: 'https://ucarecdn.com/8dd76777-aa8c-46b6-bbe0-e8f37598aa18/'
+  - {}
 ---
 
