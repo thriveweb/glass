@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/affe50a1-dff7-43ab-a10e-5c2f06dd9537/'
 firstName: Eydie
 collection: Girls
-height: 143cm
+height: 154cm
 measurementType: bust
 bust: 66cm
 waist: 56cm
