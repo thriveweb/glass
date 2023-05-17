@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Reece
-featuredImage: 'https://ucarecdn.com/8230188a-f650-4f80-a79d-1168ccb208d0/'
+featuredImage: >-
+  https://ucarecdn.com/699cfce3-0cfe-416e-9769-fda52b4c7792/-/crop/926x789/0,86/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/5f74e630-5e7c-4cb5-b947-15558efe805c/-/crop/2178x1796/2385,834/-/preview/-/rotate/90/
 firstName: Reece
@@ -20,6 +21,7 @@ imagePortfolio:
       https://ucarecdn.com/3b6b7a0c-1c7b-488f-a8ab-947d1833cf06/-/preview/-/rotate/90/
   - image: >-
       https://ucarecdn.com/cc1ba2be-d549-4cec-ba11-159234049cfa/-/crop/1791x1632/304,0/-/preview/
+  - image: 'https://ucarecdn.com/84ce276f-2c3f-4af4-83c2-df74d3fa29ec/'
   - image: 'https://ucarecdn.com/bd949740-f8f2-4629-986c-03ef48347936/'
   - image: >-
       https://ucarecdn.com/b741042b-85d7-4e5b-b41c-4fbb483c8552/-/preview/-/rotate/90/
