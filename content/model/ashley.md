@@ -4,7 +4,7 @@ title: Ashley
 featuredImage: >-
   https://ucarecdn.com/0a9db1d6-472e-4682-9a3c-ccf357b8a8d2/-/crop/4970x2331/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ce4c920a-1ed9-4c30-a520-f6ea0b7c7a51/-/crop/2987x3648/1154,0/-/preview/
+  https://ucarecdn.com/11cde2b1-847f-41dd-ae58-07a34e3da906/-/crop/2229x3125/0,0/-/preview/
 firstName: Ashley
 collection: Emerging
 height: 170cm
