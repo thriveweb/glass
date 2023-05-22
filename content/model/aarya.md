@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/83ec6c67-1dcb-4382-89e8-a8830eb90ba7/-/crop/690x815/87,145/-/preview/
 firstName: Aarya
-collection: Extras
+collection: ''
 height: 185cm
 measurementType: chest
 bust: 81cm
