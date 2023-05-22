@@ -36,7 +36,7 @@ teamMembers:
       energetic personality means it's always exciting times ahead for Glass
       Management and always a new idea around the corner!
     image: >-
-      https://ucarecdn.com/d0248fb3-4584-4977-af33-d2262d675140/-/crop/701x821/0,0/-/preview/
+      https://ucarecdn.com/09a4b9c6-655f-4c24-b9aa-a81d04c4eff4/-/crop/1445x1800/0,0/-/preview/
     leftAlign: true
     subTitle: Director
     title: Tegan Glass
