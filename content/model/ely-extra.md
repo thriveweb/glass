@@ -12,5 +12,6 @@ waist: 72cm
 shoeSize: '6'
 imagePortfolio:
   - image: 'https://ucarecdn.com/051bf68f-8c04-4cb3-89b9-b2037f6cb943/'
+  - image: 'https://ucarecdn.com/94d23cd1-3bf9-4585-8537-a5a6e7f14b5e/'
 ---
 
