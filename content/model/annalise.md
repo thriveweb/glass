@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/a9cddecf-ec86-41c7-87ad-60bc93f1d2ca/-/crop/3509x3312/0,0/-/preview/
 thumbnailVideo: ''
 firstName: Annalise
-collection: Emerging
+collection: ''
 height: 165.5cm
 measurementType: bust
 bust: 87cm
