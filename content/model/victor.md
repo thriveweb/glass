@@ -8,8 +8,8 @@ firstName: Victor C EXTRA
 collection: Extras
 height: 175cm
 measurementType: chest
-bust: 103cm
-waist: 93cm
+bust: 96cm
+waist: 81cm
 hips: 94cm
 size: L/34
 shoeSize: '9'
