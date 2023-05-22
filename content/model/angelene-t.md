@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/1c1945a3-f1de-4810-8711-6b815ec51a5d/'
 imageThumbnail: >-
   https://ucarecdn.com/142e4f9d-1e0d-4f87-a724-df3ad13fa565/-/crop/1237x1742/112,0/-/preview/
 firstName: Angelene T
-collection: Emerging
+collection: ''
 height: 165cm
 measurementType: bust
 bust: 90cm
