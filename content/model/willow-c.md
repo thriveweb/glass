@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/dca9b653-3c43-4431-b290-3dbe779a31a7/'
 imageThumbnail: >-
   https://ucarecdn.com/93f4c7d8-4cab-4f69-a141-051824c6659f/-/crop/1558x2105/74,169/-/preview/
 firstName: Willow C
-collection: Girls
+collection: ''
 height: 157cm
 measurementType: chest
 bust: 72cm
