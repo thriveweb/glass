@@ -9,9 +9,9 @@ firstName: Edison
 collection: Boys
 height: 124cm
 measurementType: chest
-bust: 60cm
-waist: 56cm
-hips: 64cm
+bust: 61cm
+waist: 55cm
+hips: 62cm
 size: '6'
 shoeSize: '1'
 hair: Brown
