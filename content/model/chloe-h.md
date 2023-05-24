@@ -9,8 +9,8 @@ firstName: Chloe H
 collection: Girls
 height: 136cm
 measurementType: bust
-bust: 61cm
-waist: 54cm
+bust: 62cm
+waist: 53cm
 hips: 65cm
 size: '8'
 shoeSize: '2'
