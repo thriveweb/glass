@@ -5,6 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/d9d4208a-c573-4a62-bbd4-f307ba5bd8b5/-/crop/2286x1254/75,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/c269dea8-371c-4ce4-a3f7-db916db7a83b/'
 firstName: Vint Family
+collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/6b4526ec-8e2d-40a9-8550-c2c105ac2665/'
   - image: 'https://ucarecdn.com/3d0a269f-468b-4650-889b-9ab7c30620d4/'
