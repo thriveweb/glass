@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/586cac29-561b-4c6a-993b-8e3831612075/-/crop/2516x2838/1553,0/-/preview/
 firstName: Patrick
 collection: Boys
-height: 115cm
+height: 116cm
 measurementType: chest
 bust: 56cm
 waist: 54cm
