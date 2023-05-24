@@ -2,7 +2,7 @@
 template: ModelPage
 title: Miguel EXTRA
 featuredImage: 'https://ucarecdn.com/0adf8c09-3f06-449b-b04a-95a09db543b4/'
-imageThumbnail: 'https://ucarecdn.com/e5898eda-8bd5-47a0-808a-a6e74c16cd5d/-/preview/'
+imageThumbnail: 'https://ucarecdn.com/4139934c-3e5f-429b-929a-1f69e174b12f/'
 firstName: Miguel EXTRA
 collection: Extras
 height: 172cm
@@ -12,7 +12,7 @@ waist: 81cm
 size: Large
 shoeSize: '9'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/4820d7c1-626e-4b71-9d30-a95b24530664/'
+  - image: 'https://ucarecdn.com/19bb4a5a-6371-482a-9de6-373429a673a9/'
   - image: 'https://ucarecdn.com/e0cc74bf-8a43-4efa-b25e-7da24362d760/'
 ---
 
