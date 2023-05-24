@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/893e2e2d-b8a3-47f7-8526-abf542bfdf8d/-/crop/1121x1581/253,0/-/preview/
 firstName: Alfie
 collection: Boys
-height: 125cm
+height: 126cm
 measurementType: chest
 bust: 63cm
 waist: 54cm
