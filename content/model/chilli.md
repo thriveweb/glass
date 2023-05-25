@@ -9,9 +9,9 @@ firstName: Chilli
 collection: Girls
 height: 118cm
 measurementType: bust
-bust: 56cm
-waist: 53cm
-hips: 55cm
+bust: 59cm
+waist: 55cm
+hips: 62cm
 size: '5'
 hair: Blonde
 eyes: Blue
