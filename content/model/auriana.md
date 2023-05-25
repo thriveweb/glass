@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/fc945035-db81-4786-a03e-3196dc7af135/-/crop/1185x1518/889,18/-/preview/
 firstName: Auriana
 collection: Girls
-height: 120cm
+height: 132cm
 measurementType: bust
 bust: 60cm
 waist: 55cm
 hips: 60cm
-size: '6'
-shoeSize: '13'
+size: '8'
+shoeSize: '2'
 hair: Light brown/blonde
 eyes: Green
 imagePortfolio:
