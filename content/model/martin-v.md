@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/d060f638-c6f0-4bd4-860f-b127a23e0358/'
 firstName: Martin V
 collection: Boys
-height: 130cm
+height: 148cm
 measurementType: chest
 bust: 60cm
 waist: 64cm
