@@ -12,7 +12,7 @@ measurementType: bust
 bust: 60cm
 waist: 55cm
 hips: 60cm
-size: '8'
+size: 6-8
 shoeSize: '2'
 hair: Light brown/blonde
 eyes: Green
