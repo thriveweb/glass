@@ -2,7 +2,7 @@
 template: ModelPage
 title: Tito Family
 featuredImage: >-
-  https://ucarecdn.com/88582338-93c3-434c-ba12-3268c0834a99/-/crop/980x459/0,0/-/preview/
+  https://ucarecdn.com/444868bc-d97f-4b52-87be-9de3fc6f03a5/-/crop/1836x1077/0,253/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/e75f31f6-e664-4b96-8867-4a4ac6fa8dc6/-/crop/1304x1633/427,0/-/preview/
 firstName: Tito Family
@@ -18,7 +18,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/d51ed183-8529-43b1-8fde-5ba61a2dace3/'
   - image: 'https://ucarecdn.com/a0b5b178-921a-4466-bd9f-e259ecbca194/'
   - image: 'https://ucarecdn.com/c408fe17-9009-46fb-90ca-d8e92a5856d1/'
-  - image: 'https://ucarecdn.com/c5e38fdf-9da2-44fe-8995-6349997ced03/'
+  - image: 'https://ucarecdn.com/15fb17f8-6a26-4030-9d31-f8f24a3ad14e/'
   - image: 'https://ucarecdn.com/058861dd-f8de-44be-ad1a-f73631b708ea/'
   - image: 'https://ucarecdn.com/79e329be-87e0-448d-8276-c3eafd1dc716/'
   - image: 'https://ucarecdn.com/c318f9d0-257b-4d0d-86d5-acf69b47f9e9/'
