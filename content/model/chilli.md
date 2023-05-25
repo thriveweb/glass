@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/da3ad73a-6e08-49f8-8ec0-fefb54a80cf1/-/crop/1276x1829/190,123/-/preview/
 firstName: Chilli
 collection: Girls
-height: 106cm
+height: 118cm
 measurementType: bust
 bust: 56cm
 waist: 53cm
