@@ -5,11 +5,11 @@ featuredImage: 'https://ucarecdn.com/63e89dd2-fe25-4c94-aaf5-d7fdf8422b96/'
 imageThumbnail: 'https://ucarecdn.com/82cceb97-cbb8-4d0c-9714-7d224bb02f30/'
 firstName: Jay EXTRA
 collection: Extras
-height: 176cm
+height: 5'8
 measurementType: chest
-bust: 88cm
-waist: 73cm
-hips: 96cm
+bust: 34'
+waist: 28'
+hips: 37'
 size: M/32
 shoeSize: '10'
 imagePortfolio:
