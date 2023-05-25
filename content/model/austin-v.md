@@ -10,7 +10,7 @@ collection: Boys
 height: 133cm
 measurementType: chest
 bust: 55cm
-waist: 54cm
+waist: 52cm
 hips: 58cm
 size: '8'
 shoeSize: '2'
