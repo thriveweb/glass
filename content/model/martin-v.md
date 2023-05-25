@@ -9,9 +9,9 @@ collection: Boys
 height: 148cm
 measurementType: chest
 bust: 60cm
-waist: 64cm
-hips: 66cm
-size: '10'
+waist: 72cm
+hips: 70cm
+size: '12'
 shoeSize: '4'
 hair: Brown
 eyes: Brown
