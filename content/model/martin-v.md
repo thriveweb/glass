@@ -8,7 +8,7 @@ firstName: Martin V
 collection: Boys
 height: 148cm
 measurementType: chest
-bust: 60cm
+bust: 66cm
 waist: 72cm
 hips: 70cm
 size: '12'
