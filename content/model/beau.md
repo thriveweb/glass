@@ -17,9 +17,8 @@ shoeSize: '5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/6ba3f32c-b250-4aee-b75f-9f7e28520ac0/'
-  - image: 'https://ucarecdn.com/23f498e7-1878-4183-b944-c4b832f95cdb/'
   - image: 'https://ucarecdn.com/9cae4189-2c2c-4e85-99d1-598a10afa786/'
+  - image: 'https://ucarecdn.com/23f498e7-1878-4183-b944-c4b832f95cdb/'
   - image: 'https://ucarecdn.com/e1a9d46c-485d-435b-b602-f75848c7f7fe/'
   - image: 'https://ucarecdn.com/2b55b934-50cd-4f72-8677-2f0a7e02ddbb/'
   - image: 'https://ucarecdn.com/9c109dc4-97e7-4ec4-8230-a2a9fdfd5337/'
