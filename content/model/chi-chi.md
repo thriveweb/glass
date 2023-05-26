@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/a35a1eeb-5eee-4759-8ec0-1ed3b848729e/-/crop/1583x1807/65,0/-/preview/
 firstName: Chi-Chi
 collection: Girls
-height: 97cm
+height: 100cm
 measurementType: bust
 bust: 49cm
 waist: 46cm
