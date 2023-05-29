@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/322381cb-ed5a-416c-98ec-840fafd36508/-/crop/1390x2042/136,407/-/preview/
 firstName: Bryella
 collection: Girls
-height: ' 110cm'
+height: ' 112cm'
 measurementType: bust
 bust: 55cm
 waist: 49cm
