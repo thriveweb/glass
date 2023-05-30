@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/cec30895-396d-4547-99f4-d773521ed2da/-/crop/1151x1671/692,75/-/preview/
 firstName: Smit
-collection: Men
+collection: ''
 height: 176cm
 measurementType: chest
 bust: 92cm
