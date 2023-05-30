@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b33e8d6c-0d66-46d0-85d3-8a3385d2d519/-/crop/1394x1943/174,0/-/preview/
 firstName: Yuri
-collection: Men
+collection: ''
 height: 168cm
 measurementType: chest
 bust: 94cm
