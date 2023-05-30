@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/fd6478e6-80fd-4532-a890-a0ef003b3b3b/-/crop/3725x5073/0,0/-/preview/
 firstName: Jeff D
-collection: Boys
+collection: Emerging
 height: 164cm
 measurementType: chest
 bust: 78cm
