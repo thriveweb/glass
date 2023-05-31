@@ -4,7 +4,7 @@ title: Tara
 featuredImage: >-
   https://ucarecdn.com/c2576d76-f723-461f-804f-d4a2af6995bd/-/crop/1632x1056/0,123/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/68a36211-c175-4627-b8bc-4459f925ea58/-/crop/1381x1641/138,24/-/preview/
+  https://ucarecdn.com/e6759900-e4d9-48a7-919d-2f3da170e2dc/-/crop/447x591/211,219/-/preview/
 firstName: Tara
 collection: Classic
 height: 165cm
@@ -17,7 +17,7 @@ shoeSize: '7.5'
 imagePortfolio:
   - image: 'https://ucarecdn.com/f5a71391-cccf-4729-9643-089e4b4846ae/'
   - image: 'https://ucarecdn.com/c596989e-deea-4800-bb22-9072328b15bd/'
-  - image: 'https://ucarecdn.com/1b38b2ef-db94-435e-b063-d32cb2875845/'
+  - image: 'https://ucarecdn.com/3b61ed9c-17fe-4d1b-96d0-1f9fa5626e97/'
   - image: 'https://ucarecdn.com/2cef4336-3656-4de2-aa64-224149986951/'
   - image: 'https://ucarecdn.com/1269dfeb-e08e-4548-93e9-78ba3cbc1284/'
   - image: 'https://ucarecdn.com/c5222adb-3998-4de3-8011-3b509822b415/'
