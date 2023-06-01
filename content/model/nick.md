@@ -6,6 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/83648a18-4667-4132-bdc2-b30aee5a02dd/-/crop/1016x1375/222,199/-/preview/
 firstName: Nick
 collection: Extras
+size: L shirt and 34 pants
 imagePortfolio:
   - image: 'https://ucarecdn.com/5ac973f1-a98d-4771-ae08-907b621012e3/'
   - image: 'https://ucarecdn.com/5ca88730-1c8b-46d8-a206-0ed398b02f5e/'
