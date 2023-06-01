@@ -6,6 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/05394084-dbbf-4fc3-ac86-363374eef8ce/'
 firstName: Jelka
 collection: Extras
+size: '14'
 hair: Brown
 eyes: Blue
 imagePortfolio:
