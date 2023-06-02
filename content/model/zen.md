@@ -9,9 +9,9 @@ firstName: Zen
 collection: Men
 height: 176cm
 measurementType: chest
-bust: 96cm
-waist: 81cm
-hips: 81cm
+bust: 93cm
+waist: 78cm
+hips: 98cm
 size: M/32
 shoeSize: '10'
 hair: 'Blonde '
