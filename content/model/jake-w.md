@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/910e18fb-c84d-4bb1-836d-688ed100c389/-/crop/1633x890/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/82f184d5-273c-43c1-81fa-6d0fca4953cf/-/preview/'
 firstName: Jake W
-collection: Boys
+collection: Emerging
 height: 172cm
 measurementType: chest
 bust: 80cm
