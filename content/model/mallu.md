@@ -3,7 +3,7 @@ template: ModelPage
 title: Mallu
 featuredImage: 'https://ucarecdn.com/7a46ab84-7be6-472e-b0bb-035dc9c762d2/'
 imageThumbnail: >-
-  https://ucarecdn.com/f4d101fa-506e-4684-ba60-4d7420b5b0be/-/crop/1381x1131/561,306/-/preview/-/rotate/90/
+  https://ucarecdn.com/1ff6909c-0824-4316-b445-8886c5784977/-/crop/1521x1877/0,171/-/preview/
 firstName: Mallu
 collection: Girls
 height: 85cm
