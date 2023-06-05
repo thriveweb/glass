@@ -6,16 +6,17 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/82f184d5-273c-43c1-81fa-6d0fca4953cf/-/preview/'
 firstName: Jake W
 collection: Boys
-height: 161cm
+height: 172cm
 measurementType: chest
-bust: 75cm
-waist: 73cm
-hips: 81cm
-size: 12/14
-shoeSize: US 6/7
+bust: 80cm
+waist: 75cm
+hips: 86cm
+size: Boys 16/ Men's small
+shoeSize: US 7/8
 hair: Brown
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/fb70fcc9-a6b2-493a-b115-74487081e38d/'
   - image: 'https://ucarecdn.com/1bd2da9a-fab1-4458-89f0-8169aee8abc8/'
   - image: 'https://ucarecdn.com/a19493e8-b85f-4c90-aadc-d8c81a9a4749/'
   - image: 'https://ucarecdn.com/1bf3be7f-5847-47d7-9a75-3efee27a319b/'
