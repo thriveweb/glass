@@ -1,10 +1,9 @@
 ---
 template: ModelPage
-title: Spencer
+title: ACTOR Spencer
 featuredImage: 'https://ucarecdn.com/b159ec3a-e9ab-4ed0-a767-b0440cc9c7d3/'
-imageThumbnail: >-
-  https://ucarecdn.com/60ccf93d-9ddf-4436-a696-72a4db0cf2de/-/crop/1549x2010/27,0/-/preview/
-firstName: Spencer
+imageThumbnail: 'https://ucarecdn.com/54b5da9a-1eb7-4db7-bf38-cd6fc38e449a/'
+firstName: ACTOR Spencer
 collection: Actors
 height: 178cm
 measurementType: chest
