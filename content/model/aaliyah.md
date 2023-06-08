@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/4e6fd25b-e568-4b2f-a6bc-0c25d143b34a/-/crop/2142x2170/0,164/-/preview/
 firstName: Aaliyah
-collection: Girls
+collection: ''
 height: 107cm
 measurementType: bust
 bust: '53'
