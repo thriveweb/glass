@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/4d9eca8f-763f-4e3c-a4fc-b78d4e7a9c04/-/crop/1602x1899/0,0/-/preview/
 firstName: Keira-Rae
 collection: Girls
-height: 98cm
+height: 116cm
 measurementType: bust
-bust: 52cm
-waist: 50cm
-hips: 55cm
-size: '4'
-shoeSize: US8
+bust: 58cm
+waist: 55cm
+hips: 60cm
+size: '6'
+shoeSize: '6'
 hair: Black
 eyes: Brown
 imagePortfolio:
