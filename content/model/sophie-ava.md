@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/096e7305-65d7-43e1-bfa1-e0e7c04700f0/-/crop/2671x3404/218,640/-/preview/
 firstName: Sophie Ava
 collection: Girls
-height: 132cm
+height: 133cm
 measurementType: bust
 bust: 63cm
 waist: 53cm
