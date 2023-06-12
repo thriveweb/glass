@@ -2,7 +2,7 @@
 template: ModelPage
 title: Zapart Family
 featuredImage: >-
-  https://ucarecdn.com/df27b07a-bc77-4855-8dfe-a0839fc3419a/-/crop/7981x4015/0,0/-/preview/
+  https://ucarecdn.com/6b408e58-4854-4a65-b847-7ad9c88ff782/-/crop/2070x1023/0,42/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/a1157efd-cbc7-40ac-8406-7edb5db0c400/-/crop/1485x1632/214,0/-/preview/
 firstName: Zapart Family
