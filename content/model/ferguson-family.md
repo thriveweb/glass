@@ -4,7 +4,7 @@ title: Ferguson Family
 featuredImage: >-
   https://ucarecdn.com/dc2842d7-5fa6-4d75-9c07-fab1badd72de/-/crop/2445x1124/4,18/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/4d060922-8572-44ba-b7ea-76a6afc9dda6/-/crop/2000x1548/0,0/-/preview/
+  https://ucarecdn.com/fcb5db9c-444f-4914-b880-9b2dafcf7e68/-/crop/1399x1422/303,4/-/preview/
 firstName: Ferguson Family
 collection: Family
 imagePortfolio:
