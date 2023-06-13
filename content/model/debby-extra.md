@@ -15,6 +15,5 @@ size: '6'
 shoeSize: '6'
 imagePortfolio:
   - image: 'https://ucarecdn.com/14c56224-980f-4e83-a4bc-7a1a57876d16/'
-  - image: 'https://ucarecdn.com/5b7f2eb3-03fc-4380-b794-97eaa59b3cea/'
 ---
 
