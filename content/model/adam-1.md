@@ -10,6 +10,7 @@ height: 183cm
 measurementType: chest
 bust: 91cm
 waist: 79cm
+hips: 98cm
 size: M/32 pant
 shoeSize: US 8
 hair: 'Brown '
