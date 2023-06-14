@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/d434ae1e-04fb-40fc-b373-efcbe6880a38/-/crop/1027x1362/339,92/-/preview/
 firstName: Jonah
 collection: Emerging
-height: 172cm
+height: 173cm
 measurementType: chest
 bust: 84cm
 waist: 71cm
