@@ -2,7 +2,7 @@
 template: ModelPage
 title: Emily's Family
 featuredImage: >-
-  https://ucarecdn.com/0f7e1e83-a015-4fe5-b78d-f2c6ee9f9ff5/-/crop/7549x3983/0,259/-/preview/
+  https://ucarecdn.com/a0665aac-7275-476e-aeb9-d8ee5ccb8e02/-/crop/6720x3865/0,474/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/048e45ca-e166-4c8f-9b18-08a0c9e10ee0/-/crop/3880x4909/2158,58/-/preview/
 firstName: Emily's Family
