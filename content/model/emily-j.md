@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/ff513814-3425-49f9-a074-a96c06a5e38b/-/crop/435x595/161,318/-/preview/
 firstName: Emily J
-collection: ''
+collection: Classic
 height: 165cm
 measurementType: bust
 bust: 90cm
