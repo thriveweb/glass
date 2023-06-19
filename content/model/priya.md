@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/9c594426-ac58-41a8-a18b-0d056abb9b42/-/crop/219x279/338,0/-/preview/
 firstName: Priya
 collection: Girls
-height: 124cm
+height: 133cm
 measurementType: bust
 bust: 62cm
 waist: 56cm
 hips: 61cm
-size: '7'
-shoeSize: '2'
+size: '8'
+shoeSize: '3'
 hair: Brown
 eyes: Brown
 imagePortfolio:
