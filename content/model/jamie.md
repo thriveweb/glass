@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'Jamie '
+title: Jamie
 featuredImage: >-
   https://ucarecdn.com/70f02dea-e0df-4d45-a42a-0d3b9ead3b74/-/crop/2000x991/0,0/-/preview/
 imageThumbnail: >-
