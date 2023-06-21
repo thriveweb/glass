@@ -12,6 +12,7 @@ bust: 109cm
 waist: 91cm
 hips: 87cm
 size: M/32
+shoeSize: US 13
 hair: Blonde
 eyes: Blue
 imagePortfolio:
