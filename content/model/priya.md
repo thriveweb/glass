@@ -9,10 +9,10 @@ firstName: Priya
 collection: Girls
 height: 133cm
 measurementType: bust
-bust: 62cm
-waist: 56cm
-hips: 61cm
-size: '8'
+bust: 60cm
+waist: 55cm
+hips: 64cm
+size: 8/9
 shoeSize: '3'
 hair: Brown
 eyes: Brown
