@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/e05ba9ff-40f7-40f4-8f16-731d053109dd/-/crop/2948x3714/626,17/-/preview/
 firstName: Jamie
 collection: Girls
-height: 137cm
+height: 142cm
 measurementType: bust
-bust: 67cm
-waist: 60cm
-hips: 68cm
-size: 8-10
-shoeSize: '3'
+bust: 71cm
+waist: 65cm
+hips: 72cm
+size: 10-12
+shoeSize: '4'
 hair: 'Brown '
 eyes: Brown
 imagePortfolio:
