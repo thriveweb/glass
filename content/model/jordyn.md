@@ -6,11 +6,11 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/d3d425ef-3972-4a07-80e4-00883c6c4b6e/'
 firstName: Jordyn
 collection: Classic
-height: 165cm
+height: 163cm
 measurementType: bust
-bust: 89cm
-waist: 80cm
-hips: 96cm
+bust: 92cm
+waist: 78cm
+hips: 107cm
 size: '12'
 shoeSize: '8'
 hair: Brown
