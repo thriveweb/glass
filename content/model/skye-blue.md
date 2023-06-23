@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/9a83f7a7-1611-459a-b1c9-517798d27eca/'
 imageThumbnail: 'https://ucarecdn.com/f071e31a-a002-4711-bec2-4ca9762e3d9d/'
 firstName: Skye-Blue
 collection: Extras
-height: '176.5'
+height: 176.5cm
 measurementType: bust
 bust: 93cm
 waist: 77cm
