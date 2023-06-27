@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c27625b8-4d07-4bf4-bf0d-90290fd807ef/-/crop/2414x3838/1255,363/-/preview/
 firstName: Grace S
-collection: Girls
+collection: Emerging
 height: 160cm
 measurementType: bust
 bust: 74cm
