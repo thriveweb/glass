@@ -2,7 +2,7 @@
 template: ModelPage
 title: Taylah
 featuredImage: >-
-  https://ucarecdn.com/bc3295d9-6cef-44eb-b54a-b32338caa075/-/crop/5295x4075/0,845/-/preview/
+  https://ucarecdn.com/bc3295d9-6cef-44eb-b54a-b32338caa075/-/crop/5295x3526/0,866/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/6cac239a-cc91-430b-ad76-c2ebc6869660/-/crop/1054x1550/254,26/-/preview/
 firstName: Taylah
