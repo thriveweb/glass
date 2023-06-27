@@ -3,8 +3,7 @@ template: ModelPage
 title: Audrey
 featuredImage: >-
   https://ucarecdn.com/a88e493d-d2fd-4b2f-b1df-2ee74d059521/-/crop/2449x1357/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/0f25dd86-b569-48c6-bc3a-99d960f1a7cd/-/crop/586x766/118,79/-/preview/
+imageThumbnail: 'https://ucarecdn.com/9057b201-5219-430b-b953-da6f430d0316/'
 firstName: Audrey
 collection: Women
 height: 171cm
