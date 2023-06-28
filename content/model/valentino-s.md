@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/a41cbbf7-01c9-42e2-a01b-d61b46a5dc02/-/crop/1172x1505/106,58/-/preview/
 firstName: Valentino S
 collection: Boys
-height: 124cm
+height: 134cm
 measurementType: chest
-bust: 64cm
+bust: 70cm
 waist: 58cm
-hips: 63cm
-size: 6/7
-shoeSize: '13'
+hips: 60cm
+size: 7-8
+shoeSize: 3-4
 hair: Brown
 eyes: Brown
 imagePortfolio:
