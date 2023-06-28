@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: 'Occhilupo/Stewart Family '
+title: 'Occhilupo-Stewart Family '
 featuredImage: >-
   https://ucarecdn.com/f6fdacc9-5df4-47b3-8e0e-81948e63d40c/-/crop/1632x975/0,420/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/5e45ad44-babc-436e-ac1e-246e73c9cb6c/-/crop/1415x1803/144,137/-/preview/
-firstName: Occhilupo/Stewart Family
+firstName: Occhilupo-Stewart Family
 collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/c30e10bc-343d-43a2-ac44-cf0c7492d9d3/'
