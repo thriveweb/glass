@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Mae
+title: Mae O
 featuredImage: >-
   https://ucarecdn.com/177d9f64-3880-4865-b228-a258684b187a/-/crop/1632x1191/0,380/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/1871cff7-3715-49f1-8a6d-b45a594006bc/-/crop/1051x1671/326,112/-/preview/
-firstName: Mae
+firstName: Mae O
 collection: Classic
 height: 171cm
 measurementType: bust
