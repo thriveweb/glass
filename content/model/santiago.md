@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/f1d626f0-837a-4dfc-8e09-7a2c986c2519/-/crop/1009x1328/185,0/-/preview/
 firstName: Santiago
 collection: Boys
-height: 142cm
+height: 160cm
 measurementType: chest
-bust: 68cm
-waist: 62cm
-hips: 73cm
-size: 10/12
-shoeSize: '4'
+bust: 77cm
+waist: 67cm
+hips: 71cm
+size: 12-14
+shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
