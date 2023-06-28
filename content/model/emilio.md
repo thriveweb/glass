@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/cd5ab9e8-e5a1-48b2-9601-269c31315d6a/-/crop/973x1308/322,152/-/preview/
 firstName: Emilio
 collection: Boys
-height: 131cm
+height: 143cm
 measurementType: chest
-bust: 66cm
-waist: 56cm
-hips: 69cm
-size: '8'
-shoeSize: '2'
+bust: 72cm
+waist: 62cm
+hips: 66cm
+size: '10'
+shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
