@@ -9,9 +9,9 @@ firstName: Charli
 collection: Emerging
 height: 168cm
 measurementType: bust
-bust: 30"
-waist: 23.5"
-hips: 35"
+bust: 79cm
+waist: 62cm
+hips: 92cm
 size: '6'
 shoeSize: ' 7'
 imagePortfolio:
