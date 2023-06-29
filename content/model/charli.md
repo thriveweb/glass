@@ -7,6 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/e22806c3-5581-446c-bbbf-52eeab34d0dc/-/crop/1396x1907/139,48/-/preview/
 firstName: Charli
 collection: Emerging
+height: 168cm
 measurementType: bust
 bust: 30"
 waist: 23.5"
