@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Peter R
+title: Peter R EXTRA
 featuredImage: 'https://ucarecdn.com/d08ef9f6-b00c-4370-8089-79af0aed72d1/'
-imageThumbnail: 'https://ucarecdn.com/5e3781aa-eb9e-4bb0-8111-1b5d89e3667c/'
-firstName: Peter R
+imageThumbnail: 'https://ucarecdn.com/2ed2d72d-d34b-45a9-bad7-8f9183ab89fd/'
+firstName: Peter R EXTRA
 collection: Extras
 height: 189cm
 measurementType: chest
