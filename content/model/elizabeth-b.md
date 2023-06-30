@@ -9,9 +9,9 @@ firstName: Ellie
 collection: Women
 height: ' 167cm'
 measurementType: bust
-bust: 86cm
-waist: 68cm
-hips: 94cm
+bust: 87cm
+waist: 67cm
+hips: 96cm
 size: 8/10
 shoeSize: '7'
 hair: Black
