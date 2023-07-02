@@ -4,7 +4,7 @@ title: Meg
 featuredImage: >-
   https://ucarecdn.com/7510f3ef-7791-4581-a7d5-40e9afaf338d/-/crop/2448x1451/0,31/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/3e280a3d-8ed4-4716-b3d6-e7b805d1b66d/-/crop/1391x2174/0,0/-/preview/
+  https://ucarecdn.com/e6ebaca0-9834-4515-a296-01ab70bb5b97/-/crop/1575x2247/57,0/-/preview/
 firstName: Meg
 collection: Women
 height: 174cm
