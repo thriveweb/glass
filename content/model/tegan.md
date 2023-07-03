@@ -12,7 +12,7 @@ height: 168cm
 measurementType: bust
 bust: 84cm
 waist: 71cm
-hips: 94cm
+hips: 96cm
 size: '8'
 shoeSize: '7.5'
 hair: Blonde
