@@ -10,7 +10,7 @@ height: 164cm
 measurementType: chest
 bust: 81cm
 waist: 72cm
-hips: 71cm
+hips: 82cm
 size: '12'
 shoeSize: 5-6
 hair: Dark Blonde
