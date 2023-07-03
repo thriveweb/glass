@@ -6,12 +6,12 @@ featuredVideo: 'https://ucarecdn.com/28dfe0fa-ee1c-447b-8c36-efe334fd9cc5/'
 imageThumbnail: 'https://ucarecdn.com/8a598a14-c9d5-43ab-bcdd-cf5c224ef38e/'
 firstName: Ayla
 collection: Emerging
-height: 172cm
+height: 175cm
 measurementType: bust
-bust: 89cm
-waist: 72cm
-hips: 88cm
-size: '8'
+bust: 96cm
+waist: 84cm
+hips: 96cm
+size: '12'
 shoeSize: '9'
 hair: Light Brown
 eyes: Green
