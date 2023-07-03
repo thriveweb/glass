@@ -9,8 +9,8 @@ firstName: Tyra
 collection: Women
 height: 168cm
 measurementType: bust
-bust: 86cm
-waist: 61cm
+bust: 82cm
+waist: 58cm
 hips: 89cm
 size: 6-8
 shoeSize: '8'
