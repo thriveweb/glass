@@ -7,10 +7,10 @@ firstName: Victoria
 collection: Classic
 height: 178cm
 measurementType: bust
-bust: 106cm
-waist: 91cm
-hips: 113cm
-size: '16'
+bust: 105cm
+waist: 86cm
+hips: 111cm
+size: '14'
 shoeSize: '11'
 hair: Red
 eyes: Brown
