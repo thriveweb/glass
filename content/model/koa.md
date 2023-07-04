@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/083dd63c-c881-4a53-a97c-237af05d5660/-/crop/354x436/373,0/-/preview/
 firstName: Koa
 collection: Boys
-height: 104cm
+height: 107cm
 measurementType: chest
-bust: 60cm
-waist: 49cm
-hips: 51cm
-size: '2'
-shoeSize: '8'
+bust: 55cm
+waist: 50cm
+hips: 54cm
+size: '4'
+shoeSize: '11'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
