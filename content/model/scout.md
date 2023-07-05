@@ -6,10 +6,10 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/570795f2-77fb-4901-8188-6f8d27d5f2c9/'
 firstName: Scout
 collection: Boys
-height: 120cm
+height: 121cm
 measurementType: bust
-bust: 63cm
-waist: 67cm
+bust: 65cm
+waist: 66cm
 hips: 71cm
 size: 8-10
 shoeSize: '13'
