@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/546e5e39-3531-4fc7-97ed-f6b6d52b8edc/-/crop/3573x4838/907,0/-/preview/
 firstName: Benjamin
-collection: Men
+collection: ''
 height: 187cm
 measurementType: chest
 bust: 92cm
