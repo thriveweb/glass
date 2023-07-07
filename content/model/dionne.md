@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/d1eac047-5830-46f7-80eb-15938c5b9faf/-/crop/1632x2155/0,0/-/preview/
 firstName: Dionne
-collection: Extras
+collection: ''
 height: 160cm
 measurementType: bust
 bust: 84cm
