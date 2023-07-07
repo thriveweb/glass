@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/96101dc0-55f7-4827-b764-88d70f6bb97d/'
 imageThumbnail: >-
   https://ucarecdn.com/74720a74-5f95-4e77-b909-dbb565cfd4b6/-/crop/456x248/0,0/-/preview/
 firstName: Haru EXTRA
-collection: Extras
+collection: ''
 height: 168cm
 measurementType: chest
 bust: 92cm
