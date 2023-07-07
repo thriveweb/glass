@@ -4,7 +4,7 @@ title: Benjamin EXTRA
 featuredImage: 'https://ucarecdn.com/1877fcd8-219e-4c33-9a59-49bb210929d2/'
 imageThumbnail: 'https://ucarecdn.com/003d0f45-58f3-45be-a29d-895383fecca0/'
 firstName: Benjamin EXTRA
-collection: Extras
+collection: ''
 height: 187cm
 measurementType: chest
 bust: 91cm
