@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Anika
-featuredImage: >-
-  https://ucarecdn.com/fb596781-7790-405e-a002-eea0f6b0cd2a/-/crop/10405x6190/0,550/-/preview/
+featuredImage: 'https://ucarecdn.com/03f29937-c76a-4b48-87b7-5434c5925fd6/'
 imageThumbnail: >-
   https://ucarecdn.com/49872485-5564-4d69-a9a8-0729b46796e9/-/crop/3335x3648/1001,0/-/preview/
 firstName: Anika
