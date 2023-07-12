@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/552fefbd-0382-459c-8d37-9c67571bdba8/-/crop/3523x5335/666,353/-/preview/
 firstName: Harper
 collection: Girls
-height: 125cm
+height: 132cm
 measurementType: bust
-bust: 59cm
-waist: 68cm
-hips: 61cm
-size: 6-7
-shoeSize: '1'
+bust: 63cm
+waist: 61cm
+hips: 71cm
+size: '8'
+shoeSize: '3'
 hair: Black
 eyes: Brown
 imagePortfolio:
