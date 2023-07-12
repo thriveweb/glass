@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Yohan
-featuredImage: >-
-  https://ucarecdn.com/94834026-3c6e-4c39-9d0b-84c33dfffb95/-/crop/4945x3648/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/a89a99ae-03cd-414b-84fe-654520beddef/'
 imageThumbnail: >-
   https://ucarecdn.com/89b8d600-f2b9-4cfe-b29e-c1a5473cffd3/-/crop/2288x2862/1639,94/-/preview/
 firstName: Yohan
@@ -18,10 +17,9 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/6d7d99d1-8a1c-4e78-93b1-834a9191fb01/'
+  - image: 'https://ucarecdn.com/8165b494-30f9-4278-bf9d-83d94cc4df5a/'
   - image: 'https://ucarecdn.com/6e81b48a-217f-4109-b0de-8708b70633e2/'
   - image: 'https://ucarecdn.com/0360f08b-8f39-41c7-8a0d-99c82070ebaf/'
-  - image: >-
-      https://ucarecdn.com/4d8f3f41-19d7-4ec3-8a9d-630e7faedfbd/-/crop/1762x1404/0,0/-/preview/
   - image: 'https://ucarecdn.com/73280662-7d34-4a66-b7bf-d126493c38a5/'
   - image: 'https://ucarecdn.com/cbdb0899-7093-4e24-a0a2-eed0f7906d51/'
   - image: 'https://ucarecdn.com/26ee5593-ec78-457a-9b6b-0a2c7823638d/'
