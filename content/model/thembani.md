@@ -2,7 +2,7 @@
 template: ModelPage
 title: Thembani
 featuredImage: >-
-  https://ucarecdn.com/f03bab53-8b8f-4cdf-8ed9-c9d3bb250825/-/crop/2449x1198/0,0/-/preview/
+  https://ucarecdn.com/f03bab53-8b8f-4cdf-8ed9-c9d3bb250825/-/crop/2449x973/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/5a45b1bc-3018-4e06-a81e-9e8f69126e01/-/crop/1052x1388/308,172/-/preview/
 firstName: Thembani
