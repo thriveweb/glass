@@ -2,7 +2,7 @@
 template: ModelPage
 title: Raj
 featuredImage: >-
-  https://ucarecdn.com/584d7f23-6ffa-4cc4-b0ff-ec99db32e42a/-/crop/3592x2447/0,294/-/preview/
+  https://ucarecdn.com/2f45fa29-a81a-4331-aa3a-377eea8eacd5/-/crop/1788x1208/0,175/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/0ef68ce4-dde0-4ec0-8935-3cfd668bdaa3/-/crop/1695x2163/1070,344/-/preview/
 firstName: Raj
@@ -20,6 +20,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/bf3f0420-8d66-4fbc-82b0-17982eac3c43/'
   - image: 'https://ucarecdn.com/2ba0de6b-1220-469a-b1b9-cce852f9448a/'
   - image: 'https://ucarecdn.com/7a97fb19-3b23-45c4-9957-3897a6da5fe5/'
+  - image: 'https://ucarecdn.com/c4111f08-ba1c-4e1c-b3c0-a5b5aada8377/'
   - image: 'https://ucarecdn.com/c430f53e-d67a-4714-a6bd-05602bff4e1d/'
   - image: 'https://ucarecdn.com/db2ca885-3474-48a0-8e27-27cd7ea7282a/'
   - image: 'https://ucarecdn.com/f2e33eef-5ccc-48bf-b6d8-2cfb6a1d8479/'
