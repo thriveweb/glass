@@ -2,7 +2,7 @@
 template: ModelPage
 title: Adriana
 featuredImage: >-
-  https://ucarecdn.com/b55554f6-9730-4bb5-8c91-234881d1b994/-/crop/2449x1283/0,57/-/preview/
+  https://ucarecdn.com/b55554f6-9730-4bb5-8c91-234881d1b994/-/crop/2449x1101/0,10/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2eede2cc-aa5e-443e-8849-ce9dbdf4d5da/-/crop/930x1317/370,76/-/preview/
 firstName: Adriana
