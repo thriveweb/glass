@@ -17,7 +17,7 @@ shoeSize: US10
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/a3716d0d-852d-4519-81c4-88f55a48e079/'
+  - image: 'https://ucarecdn.com/a3716d0d-852d-4519-81c4-88f55a48e079/-/preview/'
   - image: 'https://ucarecdn.com/f980fcca-7402-436d-8cf9-436731d16ac8/'
   - image: 'https://ucarecdn.com/50281e84-7554-4238-82fc-a675a2dd1f2b/'
   - image: 'https://ucarecdn.com/a2329a0a-3ec6-4f6c-b0e9-5e7dac885252/'
