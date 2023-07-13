@@ -7,7 +7,11 @@ imageThumbnail: >-
 firstName: Anika
 collection: Girls
 height: 85cm
-size: 12 Months
+measurementType: bust
+bust: 51cm
+waist: 51cm
+hips: 52cm
+size: 18 Months
 imagePortfolio:
   - image: 'https://ucarecdn.com/c9c072a8-1cd7-4428-8ba0-197b74456eca/'
   - image: 'https://ucarecdn.com/40dbc33c-9680-48bc-8972-d5b2856d84ab/'
