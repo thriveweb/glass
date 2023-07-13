@@ -4,7 +4,7 @@ title: Ava Rosemary
 featuredImage: >-
   https://ucarecdn.com/c148a717-8cda-40e4-92f7-48192a62e59a/-/crop/2048x1098/0,122/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/6474d545-770f-4486-b939-8b0ba34c4c98/-/crop/372x482/661,660/-/preview/
+  https://ucarecdn.com/5852b377-34a9-449b-acfb-efcea276818d/-/crop/1077x1282/288,66/-/preview/
 firstName: Ava Rosemary
 collection: Girls
 height: 110cm
@@ -17,10 +17,13 @@ shoeSize: EU 25
 hair: Black
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/540abba3-e3d4-40ff-a9be-32b410d89f7a/'
   - image: 'https://ucarecdn.com/50759c70-4af0-4893-919e-a0cec7e88d8e/'
   - image: 'https://ucarecdn.com/6d8660ea-45e7-407a-9d50-fd0f7aeee290/'
+  - image: 'https://ucarecdn.com/16791121-7fed-4ff6-a184-f6e3acc284dc/'
   - image: >-
       https://ucarecdn.com/ade8d391-7313-41da-b01f-b60a189f8d38/-/crop/1101x1478/318,525/-/preview/
+  - image: 'https://ucarecdn.com/8dc6f721-dd41-4bc7-8250-97bd3eb6cce7/'
   - image: 'https://ucarecdn.com/e25d2f01-8691-4abf-b964-a810ce7ddcf4/'
   - image: 'https://ucarecdn.com/da8f4481-fc78-4138-b05d-4b41d672b5a1/'
   - image: 'https://ucarecdn.com/5f355db1-1dd9-43a4-971c-e43e5aabe625/'
