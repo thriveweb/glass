@@ -6,6 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/49872485-5564-4d69-a9a8-0729b46796e9/-/crop/3335x3648/1001,0/-/preview/
 firstName: Anika
 collection: Girls
+height: 85cm
 size: 12 Months
 imagePortfolio:
   - image: 'https://ucarecdn.com/c9c072a8-1cd7-4428-8ba0-197b74456eca/'
