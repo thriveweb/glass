@@ -4,7 +4,7 @@ title: Hazel
 featuredImage: >-
   https://ucarecdn.com/adb4a7d4-07fd-4513-af59-41d53251b84a/-/crop/1910x990/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c2b855d6-c75c-454b-b6a4-4c4a301ad464/-/crop/3953x5445/361,187/-/preview/
+  https://ucarecdn.com/0c7a03cc-7643-4aef-9ac4-cca25f0cf910/-/crop/2890x3990/1105,387/-/preview/
 firstName: Hazel
 collection: Girls
 height: 133cm
