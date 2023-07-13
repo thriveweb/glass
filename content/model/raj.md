@@ -16,6 +16,7 @@ size: 6-8
 shoeSize: '8'
 imagePortfolio:
   - image: 'https://ucarecdn.com/2afc441d-78e6-42da-abca-71c8beba3c54/'
+  - image: 'https://ucarecdn.com/1860ef99-e6f5-4f6b-8050-a8d4a0472daf/'
   - image: 'https://ucarecdn.com/bf3f0420-8d66-4fbc-82b0-17982eac3c43/'
   - image: 'https://ucarecdn.com/2ba0de6b-1220-469a-b1b9-cce852f9448a/'
   - image: 'https://ucarecdn.com/7a97fb19-3b23-45c4-9957-3897a6da5fe5/'
