@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/8ec5e5c5-f11a-4f29-9e23-320336d31b2a/-/crop/1149x1637/302,139/-/preview/
 firstName: Alicia
 collection: Girls
-height: 142cm
+height: 148cm
 measurementType: bust
-bust: 80cm
-waist: 85cm
-hips: 85cm
-size: '9'
-shoeSize: 2/3
+bust: 70cm
+waist: 59cm
+hips: 75cm
+size: '10'
+shoeSize: '4'
 hair: Brown
 eyes: Blue
 imagePortfolio:
