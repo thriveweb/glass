@@ -9,7 +9,7 @@ height: 5'8
 measurementType: chest
 bust: 101cm
 waist: 79cm
-hips: 83cm
+hips: 104cm
 size: 'Shirt: L Pant: 32'
 shoeSize: '11.5'
 imagePortfolio:
