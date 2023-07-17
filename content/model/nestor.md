@@ -18,6 +18,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/7533bad3-fcf9-4d98-9c3e-35ce402ae25e/'
   - image: 'https://ucarecdn.com/af11f89b-dbb2-4fd2-8c06-d51cabe1d425/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/nestor-10.jpg'
+  - image: >-
+      https://ucarecdn.com/4bb0a865-dd07-4e41-bd9f-193d018c9b8f/-/preview/-/rotate/90/
+  - image: >-
+      https://ucarecdn.com/7721141e-da6a-4b01-8404-7c036972bbbd/-/preview/-/rotate/90/
 meta:
   title: Nestor
 ---
