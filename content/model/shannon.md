@@ -11,7 +11,7 @@ measurementType: chest
 bust: 110cm
 waist: 87cm
 hips: 97cm
-size: L
+size: 'Shirt: L Pant: 32'
 shoeSize: '10'
 hair: Brown
 eyes: Brown
