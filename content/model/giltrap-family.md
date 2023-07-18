@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/10d35e54-27c3-4171-b98f-6d97624e4860/-/crop/776x908/119,255/-/preview/
 firstName: Giltrap Family
-collection: Family
+collection: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/82bb4d6e-52bf-4079-9baf-35a3dc46cf55/'
   - image: 'https://ucarecdn.com/7308637d-e2da-47be-9b9a-27f933ef0dd1/'
