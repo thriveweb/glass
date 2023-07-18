@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/8cfc686c-8a78-4288-b98e-ca25c3ba6b42/-/crop/822x543/0,114/-/preview/
 imageThumbnail: 'https://ucarecdn.com/5918196f-ad2e-4367-819e-dcfc4523957b/-/preview/'
 firstName: Winnie
-collection: Girls
+collection: ''
 height: 153cm
 measurementType: bust
 bust: 72cm
