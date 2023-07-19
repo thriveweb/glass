@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/a97ae0d1-7205-4500-9091-c0af8f92587f/-/crop/1598x1933/298,0/-/preview/
 firstName: Alex H
 collection: Emerging
-height: 175cm
+height: 177cm
 measurementType: chest
 bust: 33in
 waist: 28 in
