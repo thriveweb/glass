@@ -3,7 +3,7 @@ template: ModelPage
 title: Rico
 featuredImage: 'https://ucarecdn.com/ab79caeb-d152-4018-bec4-5e7825ee5b9f/'
 imageThumbnail: >-
-  https://ucarecdn.com/1eceb6e8-4c83-4024-a8a9-bc62f70b41f4/-/crop/2564x3769/1001,1542/-/preview/
+  https://ucarecdn.com/de3c313d-a318-466d-b1f1-8fc81ab01065/-/crop/2268x2970/669,1776/-/preview/
 firstName: Rico
 collection: Boys
 height: 144cm
@@ -18,7 +18,8 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/107351b8-4fc4-41bc-8683-a57329f86779/'
   - image: 'https://ucarecdn.com/0b03de53-3efc-4103-9463-1adf86db93b4/'
-  - image: 'https://ucarecdn.com/5f757c6c-1b68-4cab-a72d-b89ef673a667/'
+  - image: 'https://ucarecdn.com/f8c5c57a-7e65-4030-b60c-0ff45d944be3/'
+  - image: 'https://ucarecdn.com/bd15058b-9d87-4810-832f-fa591b0e810b/'
   - image: 'https://ucarecdn.com/d7d1b883-c6d3-4adc-b326-938f6740cf0f/'
   - image: 'https://ucarecdn.com/5baa0e84-220d-4c5b-8d03-028a38b06acd/'
   - image: 'https://ucarecdn.com/65b93404-c3db-4539-afb7-e0d0a9e2c167/'
