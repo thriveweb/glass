@@ -8,7 +8,11 @@ firstName: Wynston
 collection: Boys
 height: 109cm
 measurementType: chest
-size: 3-4
+bust: 57cm
+waist: 55cm
+hips: 59cm
+size: 5-6
+shoeSize: 10/11
 hair: Black
 eyes: Black
 imagePortfolio:
