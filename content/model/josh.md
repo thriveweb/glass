@@ -3,8 +3,7 @@ template: ModelPage
 title: Josh
 featuredImage: >-
   https://ucarecdn.com/668afaf0-fbca-4bba-b6ca-cccec6b974fd/-/crop/2000x1076/0,683/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/8e81e0db-4d82-4006-a2ea-690e2c582750/-/crop/2921x3648/1353,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/97283bbe-2006-4c03-b466-7177e9a66003/'
 firstName: Josh
 collection: Boys
 height: 99cm
