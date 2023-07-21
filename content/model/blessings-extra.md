@@ -4,7 +4,7 @@ title: Blessings EXTRA
 featuredImage: 'https://ucarecdn.com/3f82ce86-a645-4a11-9c92-4e9951fc4964/'
 imageThumbnail: 'https://ucarecdn.com/f6df5d9d-726e-44ea-9fe5-13f5a2df0262/'
 firstName: Blessings EXTRA
-collection: Extras
+collection: ''
 height: 6'3
 measurementType: chest
 bust: 43 inches
