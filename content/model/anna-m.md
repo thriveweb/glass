@@ -9,9 +9,9 @@ firstName: Anna M
 collection: Classic
 height: 177cm
 measurementType: bust
-bust: 91cm
-waist: 79cm
-hips: 99cm
+bust: 95cm
+waist: 83cm
+hips: 101cm
 size: 10-12
 shoeSize: '8'
 hair: Blonde
