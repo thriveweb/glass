@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/1b5e85a8-f63b-43d3-aa60-66ea13a1ce93/-/crop/274x412/80,118/-/preview/
 firstName: Nevada
 collection: Girls
-height: 140cm
+height: 146cm
 measurementType: bust
-bust: 56cm
+bust: 57cm
 waist: 51cm
 hips: 63cm
-size: 7-8
-shoeSize: '1'
+size: '8'
+shoeSize: '5'
 hair: Light Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/602798bd-51cf-42e8-ab1a-5f64bdafae1c/'
