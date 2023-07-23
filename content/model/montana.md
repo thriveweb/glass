@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/853c6a6f-1af6-48c9-8ad7-2d5c73640462/-/crop/237x336/84,120/-/preview/
 firstName: Montana
 collection: Girls
-height: 153cm
+height: 164cm
 measurementType: bust
-bust: 63cm
-waist: 60cm
-hips: 70cm
-size: 9-10
-shoeSize: '5'
+bust: 71cm
+waist: 63cm
+hips: 81cm
+size: 10-12
+shoeSize: '7'
 hair: Blonde
 eyes: 'Blue '
 imagePortfolio:
