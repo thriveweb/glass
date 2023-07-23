@@ -12,7 +12,7 @@ measurementType: bust
 bust: 129cm
 waist: 107cm
 hips: 136cm
-size: 20-22
+size: 16-18
 shoeSize: '41'
 hair: Black
 eyes: Brown
