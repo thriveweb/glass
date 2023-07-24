@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/dd26d5b4-3788-40f9-9f9f-4d4b4b46a322/-/crop/380x462/405,12/-/preview/
 firstName: Lyla Star
 collection: Girls
-height: 89cm
+height: 102cm
 measurementType: bust
-bust: 51cm
-waist: 51cm
-hips: 55cm
-size: 3-4
-shoeSize: 8-9
+bust: 54cm
+waist: 52cm
+hips: 58cm
+size: 4-5
+shoeSize: 9-10
 hair: Brown
 eyes: Brown
 imagePortfolio:
