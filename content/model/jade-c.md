@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Jade J
-featuredImage: 'https://ucarecdn.com/14b58e91-8dbb-4509-9a43-c374043b3aad/'
+featuredImage: 'https://ucarecdn.com/955b310a-50eb-4d22-b73b-66e16c7b743e/'
 imageThumbnail: 'https://ucarecdn.com/47f5813f-fb12-4b0f-8940-8cec652b2605/'
 firstName: Jade J
 collection: Classic
@@ -27,8 +27,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/306911a1-c51e-447d-a3af-b2b7c9077172/'
   - image: 'https://ucarecdn.com/c9a8dc2b-5050-48de-9b2a-358d020fe912/'
   - image: 'https://ucarecdn.com/b90a0f67-8c1c-49d6-ba52-f599a05d854b/'
-  - image: 'https://ucarecdn.com/ec3fc69b-5c69-4528-8cd5-d06ae2008b0b/'
+  - image: 'https://ucarecdn.com/e046fd2e-82e1-41f0-bfc5-b75defc249a8/'
   - image: 'https://ucarecdn.com/36a3bce2-4ce1-434c-95cf-f35c98010ed9/'
+  - image: 'https://ucarecdn.com/ec3fc69b-5c69-4528-8cd5-d06ae2008b0b/'
   - image: 'https://ucarecdn.com/657e12c0-7cc8-4cda-89db-a260157ef69e/'
   - image: 'https://ucarecdn.com/eac387b8-06ee-4cb1-8ae8-2edf55034550/'
   - image: 'https://ucarecdn.com/e99c634f-dfaf-4a1a-bb41-78196b4f12d1/'
