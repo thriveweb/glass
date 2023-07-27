@@ -8,9 +8,9 @@ firstName: Blessed
 collection: Women
 height: 178cm
 measurementType: bust
-bust: 104cm
+bust: 109cm
 waist: 92cm
-hips: 117cm
+hips: 124cm
 size: 14-16
 shoeSize: '11'
 hair: Black
