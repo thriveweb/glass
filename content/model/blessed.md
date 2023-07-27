@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Jo Blessed
-featuredImage: 'https://ucarecdn.com/908eee0e-de4e-49f0-9236-02704c97e3a8/'
+featuredImage: >-
+  https://ucarecdn.com/9e7db059-560d-4d4a-95cc-e54561ee0ef0/-/crop/1030x602/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/7dabefc8-f6e6-4577-a116-685bcf385770/-/crop/3011x4030/200,281/-/preview/
 firstName: Blessed
@@ -20,6 +21,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/184e5117-e3ca-4119-82c5-814468be8610/'
   - image: 'https://ucarecdn.com/8a5b7cf4-82c1-4d26-8d06-e23cb64e8a3c/'
   - image: 'https://ucarecdn.com/b05192ab-cdf7-4d8d-9b24-1b2d982e5382/'
+  - image: 'https://ucarecdn.com/eeec6da9-cbd2-4f17-884c-a0d8fab32023/'
   - image: 'https://ucarecdn.com/ea726d0a-5365-470d-98cb-c35b4b4de954/'
   - image: 'https://ucarecdn.com/158f94ee-6347-4ff1-a6c6-8d4fda38b29e/'
   - image: 'https://ucarecdn.com/4598e7db-eb66-4a71-90bc-e4edd3eb5947/'
