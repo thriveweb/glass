@@ -2,8 +2,7 @@
 template: ModelPage
 title: Ekaterina
 featuredImage: 'https://ucarecdn.com/347ad3a8-a405-40c3-8ef8-e13f24849ee8/'
-imageThumbnail: >-
-  https://ucarecdn.com/d20ce521-c0e0-4d7e-9603-51695a6c2d5b/-/crop/1129x1456/284,44/-/preview/
+imageThumbnail: 'https://ucarecdn.com/4d430970-bc59-44ed-a3ce-fa9fedbc839b/'
 firstName: Ekaterina
 collection: Women
 height: 173cm
@@ -16,15 +15,16 @@ shoeSize: '7'
 hair: Brunette
 eyes: Green
 imagePortfolio:
-  - image: 'https://ucarecdn.com/81248f30-17c4-4311-b663-23809bc7b520/'
-  - image: 'https://ucarecdn.com/efbebc4b-bb46-43e0-9b95-6fee58fc38e4/'
-  - image: 'https://ucarecdn.com/6bfec3f3-4fef-49c8-bd65-2fb51ad84954/'
+  - image: 'https://ucarecdn.com/40685bfb-1975-4380-83c0-70f98677e267/'
+  - image: 'https://ucarecdn.com/7790e4fe-b9ad-417d-bcae-680517d94937/'
   - image: 'https://ucarecdn.com/fc983fa8-1691-483a-87de-7c47c3ac58f1/'
+  - image: 'https://ucarecdn.com/efbebc4b-bb46-43e0-9b95-6fee58fc38e4/'
   - image: 'https://ucarecdn.com/c3c9cf57-dd12-4fd5-b31d-30dd47d5198b/'
+  - image: 'https://ucarecdn.com/81248f30-17c4-4311-b663-23809bc7b520/'
+  - image: 'https://ucarecdn.com/6bfec3f3-4fef-49c8-bd65-2fb51ad84954/'
   - image: 'https://ucarecdn.com/7e0f08c8-fb85-4580-b0bb-e2b5f0a1f4dc/'
   - image: 'https://ucarecdn.com/008930ef-ff6f-4c15-8177-cfa00aa4b765/'
   - image: 'https://ucarecdn.com/0ccb472b-c50a-4d52-97b0-f89bad329a67/'
-  - image: 'https://ucarecdn.com/7790e4fe-b9ad-417d-bcae-680517d94937/'
   - image: 'https://ucarecdn.com/37fb31e3-b791-44da-8b81-29075bfee206/'
   - image: 'https://ucarecdn.com/f82f232d-7072-4842-8f31-c21b0c74c788/'
   - image: 'https://ucarecdn.com/8bcb62b7-55da-4042-8530-4241a99f2c1f/'
@@ -35,6 +35,5 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/39650bc8-40a9-4736-915e-0d03b31592ad/'
   - image: 'https://ucarecdn.com/7e1c1420-a538-42a3-9634-6441936e3827/'
   - image: 'https://ucarecdn.com/a76b3bac-6f39-44ee-870a-05c1dd64a11c/'
-  - image: 'https://ucarecdn.com/9040d9f6-cac3-40e7-b257-7f5ee4421ac8/'
 ---
 
