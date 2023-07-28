@@ -2,7 +2,7 @@
 template: ModelPage
 title: A Avei
 featuredImage: >-
-  https://ucarecdn.com/534f54f3-5889-4e1e-bf8f-c66183c828e3/-/crop/991x478/0,0/-/preview/
+  https://ucarecdn.com/ba1d1b99-7ace-4cca-a907-7a8a71f54279/-/crop/2449x1305/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b79505be-2704-4cc4-80af-6ad69cbd4db1/-/crop/1227x1366/534,35/-/preview/
 firstName: Avei
@@ -20,8 +20,10 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/2de6953c-d22b-45f1-ac91-e46070c13215/'
   - image: 'https://ucarecdn.com/30e5dc26-42ea-4911-b2cc-3a36ba6f9bf0/'
   - image: 'https://ucarecdn.com/7ade3987-1e12-4f67-acc1-f6615f37aadf/'
+  - image: 'https://ucarecdn.com/88692c4e-1325-4152-9913-78f4a8712ec7/'
   - image: 'https://ucarecdn.com/0a346008-4c24-4d7b-ab88-a0c7b022c2f7/'
   - image: 'https://ucarecdn.com/422f3df6-b320-49c3-95d7-4d9c73f53490/'
+  - image: 'https://ucarecdn.com/7f02a707-b430-4f05-a18d-b29bc3dff648/'
   - image: 'https://ucarecdn.com/b0e15195-de8c-46d8-ade1-11f2e0a0a7d4/'
   - image: 'https://ucarecdn.com/4f7ef767-1c4e-4fe8-be3a-ce6ed2ce54a6/'
   - image: 'https://ucarecdn.com/986b57b4-2993-4a48-adb1-5509b6a5b3d9/'
@@ -30,6 +32,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/a640fe98-4d24-4e5c-8b9d-b7fd5abb3bbb/'
   - image: 'https://ucarecdn.com/2ca7500a-99d0-4c08-a69e-2a0dc70ceae3/'
   - image: 'https://ucarecdn.com/d132dfe7-c5cf-4a1c-bf93-df9b03ebdeb6/'
+  - image: 'https://ucarecdn.com/a21fb9c8-1489-4af6-ab55-8c21d99546d0/'
   - image: 'https://ucarecdn.com/8a8a8076-9776-4e16-8dde-b25b3c12bec5/'
   - image: 'https://ucarecdn.com/314a09ff-00a5-4f9e-aba6-aca0122fb1eb/'
   - image: 'https://ucarecdn.com/3e63c2f6-f7a7-4a0f-94f3-a1326455fb38/'
