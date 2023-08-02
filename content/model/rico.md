@@ -12,7 +12,7 @@ bust: 68cm
 waist: 62cm
 hips: 74cm
 size: 10-12
-shoeSize: '5'
+shoeSize: '6'
 hair: Auburn
 eyes: Brown
 imagePortfolio:
