@@ -4,7 +4,7 @@ title: Ayo
 featuredImage: >-
   https://ucarecdn.com/f693ddb5-0a69-4402-ad27-ecf53ab23b5d/-/crop/1920x972/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/6c412e98-ef1f-4e44-a2d4-ea25359ed3b8/-/crop/447x445/33,0/-/preview/
+  https://ucarecdn.com/dd3151be-db59-42dd-bb0b-36511e85c836/-/crop/128x151/151,110/-/preview/
 firstName: Ayo
 collection: Girls
 height: 133cm
