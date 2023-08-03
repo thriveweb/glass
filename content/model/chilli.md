@@ -13,6 +13,7 @@ bust: 59cm
 waist: 55cm
 hips: 62cm
 size: '5'
+shoeSize: 13-1
 hair: Blonde
 eyes: Blue
 imagePortfolio:
