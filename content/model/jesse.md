@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/025035a6-f9ad-4d78-88cb-84383b9c7496/'
 firstName: Jesse
 collection: Girls
-height: 122cm
+height: 126cm
 measurementType: bust
 bust: 58cm
 waist: 46cm
