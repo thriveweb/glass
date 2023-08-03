@@ -3,8 +3,7 @@ template: ModelPage
 title: Everly
 featuredImage: >-
   https://ucarecdn.com/3bf22522-177d-46d3-8f71-cf743b1ca889/-/crop/1365x1067/0,441/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/47db2f90-a19f-451e-b6fc-38a045ac37fb/-/crop/1589x1675/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/11638605-bc6b-46ba-b4e3-b2f2e94c1538/'
 firstName: Everly
 collection: Girls
 height: 96cm
