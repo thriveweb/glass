@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Emma P
+title: 'Emma '
 featuredImage: >-
   https://ucarecdn.com/4157202f-c6a2-4291-bfa9-1950e6d561dc/-/crop/5446x3219/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/df441e8e-8b19-49b2-98c7-ec6bd8776c3f/'
-firstName: Emma P
+firstName: 'Emma '
 collection: Classic
 height: 175cm
 measurementType: bust
