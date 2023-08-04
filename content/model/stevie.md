@@ -4,7 +4,7 @@ title: Stevie
 featuredImage: >-
   https://ucarecdn.com/80cab00e-03d8-417d-a49d-173ad9242634/-/crop/1523x890/2,128/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c5043cd6-6974-4ad4-b7ed-60195b2f272b/-/crop/1001x1152/410,0/-/preview/
+  https://ucarecdn.com/c5043cd6-6974-4ad4-b7ed-60195b2f272b/-/crop/1024x1326/402,0/-/preview/
 firstName: Stevie
 collection: Classic
 height: 168cm
