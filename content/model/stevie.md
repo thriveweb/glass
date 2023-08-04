@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c5043cd6-6974-4ad4-b7ed-60195b2f272b/-/crop/1024x1326/402,0/-/preview/
 firstName: Stevie
-collection: Classic
+collection: ''
 height: 168cm
 measurementType: bust
 bust: 79cm
