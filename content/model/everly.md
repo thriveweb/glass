@@ -6,12 +6,12 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/11638605-bc6b-46ba-b4e3-b2f2e94c1538/'
 firstName: Everly
 collection: Girls
-height: 96cm
+height: 98cm
 measurementType: bust
 bust: 51cm
 waist: 50cm
 hips: 51.5cm
-size: '3'
+size: 3-4
 shoeSize: '7'
 hair: Brown
 eyes: Brown
