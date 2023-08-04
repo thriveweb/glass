@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Emma
+title: Emma K
 featuredImage: >-
   https://ucarecdn.com/8583f68a-1b83-4107-9956-915ebe28a859/-/crop/1633x1297/0,491/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/9f068fbb-ab90-49d8-bd5f-5c9e68194001/-/crop/995x1333/341,221/-/preview/
-firstName: Emma
+firstName: Emma K
 collection: Classic
 height: 165cm
 measurementType: bust
