@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Oliver
-featuredImage: >-
-  https://ucarecdn.com/57d01bdb-90b0-47a5-ae43-f9a4ce4671be/-/crop/1632x875/0,330/-/preview/
+featuredImage: 'https://ucarecdn.com/c0751480-63fc-47da-b8c0-863209681c3c/'
 imageThumbnail: 'https://ucarecdn.com/0c5a25aa-3065-4bda-9963-6064916d5322/'
 firstName: Oliver
 collection: Men
@@ -17,9 +16,11 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/1d1e9fc6-1b33-46ac-b7fc-6937e11496fc/'
+  - image: 'https://ucarecdn.com/a8e21d03-a1d9-4f10-8583-4510b9a7820e/'
   - image: 'https://ucarecdn.com/369c2756-5f50-453e-b2ed-8a43e4c02b35/'
   - image: 'https://ucarecdn.com/b5a5aa44-d45b-4ea2-993f-cdb6e4a85a89/'
   - image: 'https://ucarecdn.com/6e52dbc0-ad89-4fb5-aff9-a05b497ed6ec/'
+  - image: 'https://ucarecdn.com/ca8bd0d9-8b31-44f2-b3f5-f6f56af8b1da/'
   - image: 'https://ucarecdn.com/ddca4868-3ca6-460c-9dfb-06e71e6ecf18/'
   - image: 'https://ucarecdn.com/eff7a41b-3a81-452f-b6b7-bed29500b818/'
   - image: 'https://ucarecdn.com/dd16e646-c9f8-4c13-a290-ae3bd5fb2972/'
@@ -36,7 +37,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/1f27b5dc-d027-45fb-b466-2db548757315/'
   - image: 'https://ucarecdn.com/87dbba92-39bd-4e09-8ae4-1278e72d7025/'
   - image: 'https://ucarecdn.com/424326af-b190-48cc-8807-5d45f4be8dc6/'
-  - image: 'https://ucarecdn.com/3d3b3f43-19d2-479c-9491-568aad16b329/'
   - image: 'https://ucarecdn.com/96c2d391-5c1a-41c2-bdc1-97e73fdbf5d9/'
+  - image: 'https://ucarecdn.com/3d3b3f43-19d2-479c-9491-568aad16b329/'
 ---
 
