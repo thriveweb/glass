@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Akshay
+title: D Akshay
 featuredImage: >-
   https://ucarecdn.com/63929213-0c7e-40c3-a73f-1c41d7f4588f/-/crop/2447x1108/0,107/-/preview/
 imageThumbnail: >-
