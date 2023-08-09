@@ -11,8 +11,8 @@ collection: Women
 height: 171cm
 measurementType: bust
 bust: 85cm
-waist: 73cm
-hips: 104cm
+waist: 70cm
+hips: 97cm
 size: '8'
 shoeSize: '8'
 hair: Blonde
