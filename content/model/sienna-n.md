@@ -8,8 +8,8 @@ firstName: Sienna N
 collection: Emerging
 height: 173cm
 measurementType: bust
-bust: 85cm
-waist: 67cm
+bust: 84cm
+waist: 66cm
 hips: 91cm
 size: 6/8
 shoeSize: '8'
