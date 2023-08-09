@@ -17,13 +17,9 @@ shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: >-
-      https://ucarecdn.com/851f3789-2c67-4f3b-8086-009f37bee1ed/-/preview/-/enhance/53/
+  - image: 'https://ucarecdn.com/d2060394-f11b-44f7-9e5b-e197edc6ebe6/'
   - image: 'https://ucarecdn.com/62fd49fe-28c8-4f07-9da6-08ed6f938e34/'
-  - image: 'https://ucarecdn.com/37523620-7f1b-44ca-aae2-6d9cef2356d3/'
-  - image: 'https://ucarecdn.com/8dde13da-c110-47d1-8165-ea7fcca358b9/'
-  - image: 'https://ucarecdn.com/e764254b-84a1-4e86-b7b8-877433a6f5ff/'
+  - image: 'https://ucarecdn.com/98ca21f6-47b4-4ce2-9096-dfc0ceb35105/'
   - image: 'https://ucarecdn.com/f85fa587-3a76-4de2-a6dd-51106caf0c3a/'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/vusa-fam.jpg'
 ---
 
