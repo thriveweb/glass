@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: 'Emma '
-featuredImage: 'https://ucarecdn.com/65336709-5526-43fd-9ced-356ce98a4965/'
+featuredImage: >-
+  https://ucarecdn.com/65336709-5526-43fd-9ced-356ce98a4965/-/crop/6000x2424/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/df441e8e-8b19-49b2-98c7-ec6bd8776c3f/'
 firstName: 'Emma '
 collection: Classic
