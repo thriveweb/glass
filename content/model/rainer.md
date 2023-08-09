@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/d5d59e5d-d571-4bc2-b19f-d02ff7a74301/-/crop/930x1151/406,499/-/preview/
 firstName: Rainer
 collection: Boys
-height: 101cm
+height: 107cm
 measurementType: chest
-bust: 54cm
-waist: 49cm
-hips: 56cm
-size: 3-4
-shoeSize: 9 Kids
+bust: 55cm
+waist: 48cm
+hips: 60cm
+size: 4-5
+shoeSize: 12 Kids
 hair: Brown
 eyes: Brown
 imagePortfolio:
