@@ -1,8 +1,7 @@
 ---
 template: ModelsPage
 title: Women
-featuredImage: >-
-  https://ucarecdn.com/1b87bded-93f4-4c63-972e-844b6ffdfe29/-/crop/2449x1384/0,175/-/preview/
+featuredImage: 'https://ucarecdn.com/91648598-e837-4e75-9b9a-addb4c95a373/'
 order: 1
 meta:
   title: ''
