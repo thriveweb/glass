@@ -9,9 +9,9 @@ firstName: Meg
 collection: Women
 height: 174cm
 measurementType: bust
-bust: 83cm
+bust: 84cm
 waist: 65cm
-hips: 93cm
+hips: 95cm
 size: 6-8
 shoeSize: '9'
 hair: Blonde
