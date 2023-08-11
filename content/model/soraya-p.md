@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/f8b0abd8-d920-40b5-9252-fa473876c4bd/-/crop/1408x1632/486,0/-/preview/
 firstName: Soraya P
 collection: Girls
-height: 150cm
+height: 152cm
 measurementType: bust
-bust: 67cm
-waist: 60cm
-hips: 60cm
+bust: '69cm '
+waist: 58cm
+hips: 77cm
 size: 10-12
 shoeSize: '5'
 hair: Blonde
