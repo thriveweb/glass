@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Paulo
-featuredImage: >-
-  https://ucarecdn.com/d38cd2f8-2c02-4a94-bd3e-e055cc60adce/-/crop/2442x1279/0,78/-/preview/
+featuredImage: 'https://ucarecdn.com/9659a7e2-68b7-45d2-8840-9086ef0f1da3/'
 imageThumbnail: >-
   https://ucarecdn.com/2770f6b9-94a3-4484-a8f8-928fb908d9d2/-/crop/854x1227/351,163/-/preview/
 firstName: Paulo
