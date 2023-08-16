@@ -4,7 +4,7 @@ title: Ellie
 featuredImage: >-
   https://ucarecdn.com/09618673-3c67-4cf2-8b61-938baa4bb50b/-/crop/2451x1473/0,79/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/cc5cfd56-2bf9-4c1a-a46f-18173ab616d7/-/crop/1500x1876/0,0/-/preview/
+  https://ucarecdn.com/044af93f-691e-464f-acce-49b3fbf4bc0c/-/crop/864x1079/50,195/-/preview/
 firstName: Ellie
 collection: Women
 height: ' 167cm'
@@ -17,9 +17,11 @@ shoeSize: '7'
 hair: Black
 eyes: Black
 imagePortfolio:
+  - image: 'https://ucarecdn.com/3dc39952-00cd-4abf-89cf-bb58820a8e67/'
+  - image: 'https://ucarecdn.com/dc3f8f6c-20dc-4bb5-b7e5-84e375c7ed4c/'
   - image: 'https://ucarecdn.com/8fbaf141-6f09-4a41-afb6-88107db64c16/'
-  - image: 'https://ucarecdn.com/57aef137-aee6-4bab-ae2e-a07383561f40/'
   - image: 'https://ucarecdn.com/33092199-613e-4cdd-8df7-dd9c51820d0b/'
+  - image: 'https://ucarecdn.com/57aef137-aee6-4bab-ae2e-a07383561f40/'
   - image: 'https://ucarecdn.com/9d874a06-ba43-49bd-ac59-bc5e0b64fff8/'
   - image: 'https://ucarecdn.com/46f6b95b-952f-4228-928f-e35e8051125f/'
   - image: 'https://ucarecdn.com/288f6af5-4371-4fe5-adfe-38d05d627ee3/'
