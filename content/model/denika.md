@@ -9,8 +9,8 @@ collection: Classic
 height: 173cm
 measurementType: bust
 bust: 89cm
-waist: 70cm
-hips: 96cm
+waist: 71cm
+hips: 100cm
 size: 10-12
 shoeSize: '9'
 hair: Blonde
