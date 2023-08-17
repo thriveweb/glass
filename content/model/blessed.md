@@ -4,7 +4,7 @@ title: Jo Blessed
 featuredImage: >-
   https://ucarecdn.com/9e7db059-560d-4d4a-95cc-e54561ee0ef0/-/crop/1030x602/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/de43e2a6-a842-40db-a215-12a8c3115e7d/-/crop/313x442/478,102/-/preview/
+  https://ucarecdn.com/de43e2a6-a842-40db-a215-12a8c3115e7d/-/crop/388x510/436,99/-/preview/
 firstName: Blessed
 collection: Women
 height: 178cm
