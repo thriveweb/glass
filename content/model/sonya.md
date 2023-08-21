@@ -6,11 +6,11 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/37849e9f-f07d-492b-99e5-519ae17fec05/'
 firstName: Sonya EXTRA
 collection: Extras
-height: 177cm
+height: 178cm
 measurementType: bust
 bust: 98cm
-waist: 86cm
-hips: 106cm
+waist: 80cm
+hips: 102cm
 size: '12'
 shoeSize: '10'
 hair: Brown
