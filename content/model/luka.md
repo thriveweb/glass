@@ -18,6 +18,7 @@ hair: Aurburn
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/f8443a6b-76ec-43fd-8826-6974eacf98ce/'
+  - image: 'https://ucarecdn.com/e076a8a5-b3c0-4182-b598-b61927fa060e/'
   - image: 'https://ucarecdn.com/918e726f-4b0e-4065-a114-d66babd1e75f/'
   - image: 'https://ucarecdn.com/59742c75-3a9e-414b-a601-9d29b3487193/'
   - image: 'https://ucarecdn.com/5e7484f8-09ca-4c86-b56e-f40424fd2084/'
