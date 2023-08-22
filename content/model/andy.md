@@ -6,7 +6,7 @@ featuredImage: >-
 featuredVideo: 'https://ucarecdn.com/617dffd0-86d5-4b0a-bf84-dd432fa6d6bb/'
 featuredVideoMobile: 'https://ucarecdn.com/deaddd37-a6d5-47e6-9336-6e927a11cb29/'
 imageThumbnail: >-
-  https://ucarecdn.com/4dfac363-01d3-4495-a41c-8e33082b55b6/-/crop/1180x1984/678,78/-/preview/
+  https://ucarecdn.com/4dfac363-01d3-4495-a41c-8e33082b55b6/-/crop/1546x2180/512,73/-/preview/
 firstName: Andy
 collection: Classic
 height: 184cm
