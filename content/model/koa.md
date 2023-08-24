@@ -4,7 +4,7 @@ title: Koa
 featuredImage: >-
   https://ucarecdn.com/43e51559-6aed-4bdf-a40a-bbbf56ca9426/-/crop/2449x1310/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/fdb9d727-0f00-4bc2-997b-d9ef12b88bd6/-/crop/805x1282/442,0/-/preview/
+  https://ucarecdn.com/fdb9d727-0f00-4bc2-997b-d9ef12b88bd6/-/crop/952x1349/364,0/-/preview/
 firstName: Koa
 collection: Boys
 height: 107cm
