@@ -4,7 +4,7 @@ title: Ridwan
 featuredImage: >-
   https://ucarecdn.com/5c3a6250-9887-45f2-96c3-d10888250139/-/crop/733x427/0,13/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/33e41856-5064-438c-8639-5bc3c0d9572c/-/crop/411x633/206,18/-/preview/
+  https://ucarecdn.com/33e41856-5064-438c-8639-5bc3c0d9572c/-/crop/411x633/206,0/-/preview/
 firstName: Ridwan
 collection: Boys
 height: 151cm
