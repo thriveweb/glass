@@ -3,7 +3,7 @@ template: ModelPage
 title: Lily A
 featuredImage: 'https://ucarecdn.com/57fbddbc-478a-4e9a-8263-da59f4960715/'
 imageThumbnail: >-
-  https://ucarecdn.com/40a69ec6-5661-4061-9a74-4442dbab8b0e/-/crop/538x894/448,103/-/preview/
+  https://ucarecdn.com/40a69ec6-5661-4061-9a74-4442dbab8b0e/-/crop/702x946/351,0/-/preview/
 firstName: Lily A
 collection: Girls
 height: 145cm
