@@ -4,7 +4,7 @@ title: Terry
 featuredImage: >-
   https://ucarecdn.com/763a2ace-09cd-423c-912c-893bd794dc48/-/crop/1632x1219/0,92/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/4af0e670-4e9c-47aa-a40a-54b8aad359d4/-/crop/747x1167/367,57/-/preview/
+  https://ucarecdn.com/4af0e670-4e9c-47aa-a40a-54b8aad359d4/-/crop/965x1250/280,0/-/preview/
 firstName: Terry
 collection: Classic
 height: 187cm
