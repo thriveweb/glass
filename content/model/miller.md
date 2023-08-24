@@ -4,7 +4,7 @@ title: Miller
 featuredImage: >-
   https://ucarecdn.com/a2ca01e8-f58b-4cb7-b808-10280a07aec2/-/crop/1778x807/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/1eacbec2-ed71-40f8-bd9c-861f6f0205fb/-/crop/745x1005/294,259/-/preview/
+  https://ucarecdn.com/1eacbec2-ed71-40f8-bd9c-861f6f0205fb/-/crop/555x738/394,271/-/preview/
 firstName: Miller
 collection: Boys
 height: 119cm
