@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/db756bf1-a035-4a98-bc0a-a4920d8d5cac/-/crop/1606x2126/73,0/-/preview/
 firstName: Hugo G
 collection: Boys
-height: 130cm
+height: 135cm
 measurementType: chest
 bust: 66cm
 waist: 62cm
