@@ -7,10 +7,10 @@ firstName: Scout
 collection: Boys
 height: 121cm
 measurementType: bust
-bust: 65cm
-waist: 66cm
-hips: 71cm
-size: 8-10
+bust: 60cm
+waist: 58cm
+hips: 65cm
+size: '6'
 shoeSize: '13'
 hair: Brown
 eyes: Hazel
