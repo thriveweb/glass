@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/28a6ee7a-6d7e-4b82-8aa3-9956685ee50c/'
 imageThumbnail: >-
   https://ucarecdn.com/edd2fa0b-d342-4f09-94e4-6f55e2ad1036/-/crop/5020x6827/34,68/-/preview/
 firstName: Daniela H
-collection: Women
+collection: Emerging
 height: 165cm
 measurementType: bust
 bust: 86cm
