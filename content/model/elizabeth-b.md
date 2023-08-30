@@ -4,7 +4,7 @@ title: Ellie
 featuredImage: >-
   https://ucarecdn.com/74966bd2-723a-4714-8ae6-8965e1e0dae5/-/crop/724x448/0,7/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/044af93f-691e-464f-acce-49b3fbf4bc0c/-/crop/864x1079/50,195/-/preview/
+  https://ucarecdn.com/c96e9a1b-7032-4848-a7df-35f14b61e874/-/crop/724x1033/0,0/-/preview/
 firstName: Ellie
 collection: Women
 height: ' 167cm'
