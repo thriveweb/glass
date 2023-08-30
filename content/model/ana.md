@@ -4,7 +4,7 @@ title: Ana
 featuredImage: >-
   https://ucarecdn.com/0930300b-400a-42d5-8d05-9df3e85a3643/-/crop/1741x861/307,349/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/54e74d37-f9cd-4a76-a5f8-dc456815ded3/-/crop/543x830/366,38/-/preview/
+  https://ucarecdn.com/54e74d37-f9cd-4a76-a5f8-dc456815ded3/-/crop/528x775/368,44/-/preview/
 firstName: Ana
 collection: Women
 height: 178cm
