@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Ayla
+title: Ayla K
 featuredImage: >-
   https://ucarecdn.com/6223a0e5-ceb8-4d10-bc60-304bc7c6cdfc/-/crop/1732x1155/0,245/-/preview/
 imageThumbnail: >-
