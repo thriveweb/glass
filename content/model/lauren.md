@@ -3,7 +3,8 @@ template: ModelPage
 title: Lauren
 featuredImage: >-
   https://ucarecdn.com/b18f8a8d-aada-48aa-8bcf-e0216f6891a3/-/crop/5377x2589/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/872920bb-11e3-4e06-a1d9-4d5f1825d54d/-/preview/'
+imageThumbnail: >-
+  https://ucarecdn.com/f2cfba22-f609-4a23-9014-8f05228e3bae/-/crop/335x471/100,0/-/preview/
 firstName: 'Lauren '
 collection: Women
 height: 165cm
