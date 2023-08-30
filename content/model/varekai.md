@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Varekai
-featuredImage: 'https://ucarecdn.com/c3af5dc8-e4f6-45f4-aa5b-3874a102b5cf/'
+featuredImage: >-
+  https://ucarecdn.com/4949f70c-6991-4eb3-a1fb-b1f3030fb17a/-/crop/3024x1675/0,645/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/ac76fae5-4a4d-4e9c-a9bb-948cffeeb5ab/-/crop/1711x2419/706,769/-/preview/
 firstName: Varekai
