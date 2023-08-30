@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Dani
+title: Dani B
 featuredImage: >-
   https://ucarecdn.com/ed50f7e4-6c4e-4d4c-a6df-0f04a90c7a7f/-/crop/1906x926/0,70/-/preview/
 imageThumbnail: 'https://ucarecdn.com/26b188fd-e5e1-4b17-94ee-ef2829962edd/'
-firstName: Dani
+firstName: Dani B
 collection: Classic
 height: 170cm
 measurementType: bust
