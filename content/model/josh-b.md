@@ -4,7 +4,7 @@ title: Josh B
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/tiana-banner.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/josh-b-hs.jpg'
 firstName: Josh B
-collection: Classic
+collection: ''
 height: 183cm
 measurementType: chest
 bust: 126cm
