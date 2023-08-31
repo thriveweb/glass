@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/96faf3bf-aafe-40a3-a6ce-40174f7a35cf/-/crop/860x1066/369,0/-/preview/
 firstName: Paul J
-collection: Classic
+collection: Over 50's
 height: 175cm
 measurementType: chest
 bust: 112cm
