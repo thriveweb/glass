@@ -2,7 +2,7 @@
 template: ModelPage
 title: Serafina
 featuredImage: >-
-  https://ucarecdn.com/db590837-fbe0-42cc-903f-ddb929ee8684/-/crop/2560x1139/0,0/-/preview/
+  https://ucarecdn.com/b580bb73-40f6-4b71-a3a1-627142512b01/-/crop/2448x1260/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/74b863af-7c0a-4754-b287-4b8c982b61f3/-/crop/683x1051/839,421/-/preview/
 firstName: Serafina
@@ -19,8 +19,10 @@ eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/ecff05c5-d012-4418-b242-53ac68578ffa/'
   - image: 'https://ucarecdn.com/3564af3c-eafb-41fe-896f-585406e076c6/'
+  - image: 'https://ucarecdn.com/9baaf37c-eb8e-4191-b541-edbf132d31c6/'
   - image: 'https://ucarecdn.com/fddedc23-cf97-462d-b987-95ee9fece61f/'
   - image: 'https://ucarecdn.com/be02d161-f1d9-4fdc-b579-95cdf4c6ed7c/'
+  - image: 'https://ucarecdn.com/e791b964-7cd7-4c41-ae9a-923ce4ef6f2c/'
   - image: 'https://ucarecdn.com/7b40136f-bb4a-4788-af7d-0e3490b5c2d3/'
   - image: 'https://ucarecdn.com/1f997d24-bb10-4897-b80e-b7a0ba061a01/'
   - image: 'https://ucarecdn.com/2f86dc0d-db2c-4d71-9977-d8f9b8a9601b/'
