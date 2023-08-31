@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/758d2184-6bad-4b59-aa54-62d737654d27/'
 imageThumbnail: >-
   https://ucarecdn.com/45c0894f-b2c2-445a-b74a-3302713cb39a/-/crop/1314x1539/187,0/-/preview/
 firstName: Chris E
-collection: Men
+collection: Classic
 height: 175cm
 measurementType: chest
 bust: 110cm
