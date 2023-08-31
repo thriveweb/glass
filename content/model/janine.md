@@ -4,7 +4,7 @@ title: Janine
 featuredImage: >-
   https://ucarecdn.com/e8d2a186-b6ae-4b4f-8ffa-3b1ed0edbfc0/-/crop/2449x1169/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/5167c705-5ba8-484f-aeb3-ae71a6ca393a/-/crop/1498x2111/112,0/-/preview/
+  https://ucarecdn.com/5167c705-5ba8-484f-aeb3-ae71a6ca393a/-/crop/1518x2379/112,0/-/preview/
 firstName: Janine
 collection: Classic
 height: 170cm
