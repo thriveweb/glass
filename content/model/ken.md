@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/3e84dc87-0ce0-407f-b63b-cd9e4e2068d9/-/crop/1466x1941/75,0/-/preview/
 firstName: Ken
-collection: Classic
+collection: Over 50's
 height: 182cm
 measurementType: chest
 bust: 123cm
