@@ -3,7 +3,8 @@ template: ModelPage
 title: Meranda
 featuredImage: >-
   https://ucarecdn.com/c1503ef3-1ac4-48aa-8c15-c2463b9de4e1/-/crop/2100x1206/0,138/-/preview/
-imageThumbnail: 'https://ucarecdn.com/a30b5690-c74c-4f16-b271-21ae529e1860/'
+imageThumbnail: >-
+  https://ucarecdn.com/a30b5690-c74c-4f16-b271-21ae529e1860/-/crop/1594x2046/0,0/-/preview/
 firstName: Meranda
 collection: Classic
 height: 173cm
