@@ -8,7 +8,7 @@ featuredVideoMobile: 'https://ucarecdn.com/220ebfd9-8bcb-4863-9070-35406cc92751/
 imageThumbnail: >-
   https://ucarecdn.com/fd48d9c8-1c40-4fd2-ac97-d9f5bf9c1c17/-/crop/567x621/151,375/-/preview/
 firstName: Bailey B
-collection: Men
+collection: ''
 height: 180cm
 measurementType: chest
 bust: 89cm
