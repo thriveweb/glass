@@ -3,7 +3,8 @@ template: ModelPage
 title: Adam W
 featuredImage: >-
   https://ucarecdn.com/774edece-b080-4f09-a30c-0c9c03e07087/-/crop/1362x666/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/80ae429c-29cb-4ed6-a391-2daff16f3a2a/'
+imageThumbnail: >-
+  https://ucarecdn.com/80ae429c-29cb-4ed6-a391-2daff16f3a2a/-/crop/397x584/63,0/-/preview/
 firstName: Adam W
 collection: Men
 height: 183cm
