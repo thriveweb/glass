@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/cddbcfd6-3922-4841-a9d5-ef300412f454/-/crop/1256x1525/65,235/-/preview/
 firstName: Susan
-collection: Over 50's
+collection: Mature
 height: 165cm
 measurementType: bust
 bust: 90cm
