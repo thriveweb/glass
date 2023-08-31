@@ -4,7 +4,7 @@ title: Chris R
 featuredImage: 'https://ucarecdn.com/c1b3ef97-45c5-492f-9ac5-4644e72ccbee/'
 imageThumbnail: 'https://ucarecdn.com/067d9cd7-bb4e-4e8c-87fc-3488e233f4fa/'
 firstName: Chris
-collection: Over 50's
+collection: Mature
 height: 170cm
 measurementType: chest
 bust: 106cm
