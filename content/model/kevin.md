@@ -4,7 +4,7 @@ title: Kevin
 featuredImage: 'https://ucarecdn.com/da9734a0-4359-43f5-8f5c-9e8e025e4d5f/'
 imageThumbnail: 'https://ucarecdn.com/3c6264c0-a39c-4d4d-a819-8b4f1dfaf5ce/'
 firstName: Kevin L
-collection: Over 50's
+collection: Mature
 height: 175cm
 measurementType: chest
 bust: 116cm
