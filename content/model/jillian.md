@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/32c2fc13-825b-440e-b55c-1fe3b54553c2/-/crop/1539x1961/0,0/-/preview/
 firstName: Jillian
-collection: Over 50's
+collection: Mature
 height: 166cm
 measurementType: bust
 bust: 87cm
