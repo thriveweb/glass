@@ -2,7 +2,8 @@
 template: ModelPage
 title: Scout
 featuredImage: 'https://ucarecdn.com/01d915bc-2ae8-4531-a587-d7adfdec84d2/'
-imageThumbnail: 'https://ucarecdn.com/570795f2-77fb-4901-8188-6f8d27d5f2c9/'
+imageThumbnail: >-
+  https://ucarecdn.com/1fc1432d-02a2-408a-bf58-39deb983cb65/-/crop/1355x1632/803,0/-/preview/
 firstName: Scout
 collection: Boys
 height: 121cm
