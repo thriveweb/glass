@@ -3,7 +3,7 @@ template: ModelPage
 title: Tonia B
 featuredImage: 'https://ucarecdn.com/25ebca34-6847-4036-940a-48528dd7234e/'
 imageThumbnail: >-
-  https://ucarecdn.com/a44a7d79-45f8-47ba-8b73-1e61fa3927cb/-/crop/768x1091/1411,84/-/preview/
+  https://ucarecdn.com/a44a7d79-45f8-47ba-8b73-1e61fa3927cb/-/crop/682x898/1475,115/-/preview/
 firstName: Tonia B
 collection: Over 50's
 height: 165cm
