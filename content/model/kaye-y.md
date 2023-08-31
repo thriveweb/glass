@@ -4,7 +4,7 @@ title: 'Kaye '
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/kaye-banner.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/kaye-hs.jpg'
 firstName: 'Kaye '
-collection: Over 50's
+collection: Mature
 height: 161cm
 measurementType: bust
 bust: 88cm
