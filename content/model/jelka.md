@@ -3,7 +3,8 @@ template: ModelPage
 title: Jelka
 featuredImage: >-
   https://ucarecdn.com/d0c88dca-ae8b-49d6-9931-56aea2153426/-/crop/9318x4965/0,359/-/preview/
-imageThumbnail: 'https://ucarecdn.com/05394084-dbbf-4fc3-ac86-363374eef8ce/'
+imageThumbnail: >-
+  https://ucarecdn.com/e0716f47-7715-4937-8940-5832dbfcbf69/-/crop/967x1311/350,30/-/preview/
 firstName: Jelka
 collection: Over 50's
 size: '14'
