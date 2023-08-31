@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/e0716f47-7715-4937-8940-5832dbfcbf69/-/crop/967x1311/350,30/-/preview/
 firstName: Jelka
-collection: Over 50's
+collection: Mature
 size: '14'
 hair: Brown
 eyes: Blue
