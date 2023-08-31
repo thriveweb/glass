@@ -33,7 +33,7 @@ gallery:
       title: Classic
     - image: 'https://ucarecdn.com/2707aaea-761f-4018-91b3-0a2a3be426de/'
       title: Actors
-    - image: 'https://glassmanagement.imgix.net/images/uploads/globe-1290378_1920.jpg'
+    - image: 'https://ucarecdn.com/aafc2f4e-12d3-4b54-a002-5714f72764af/'
       title: Over 50's
   subTitle: Our Talent
   title: Explore Our Talent
