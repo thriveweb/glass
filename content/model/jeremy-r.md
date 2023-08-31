@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/0586aa09-630c-4a7f-bcf2-6605dae4cc7a/-/crop/960x513/0,0/-/preview/
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/jerm-2.jpg'
 firstName: 'Jeremy '
-collection: Over 50's
+collection: Mature
 height: 177cm
 measurementType: chest
 bust: 101cm
