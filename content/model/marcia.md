@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/cb40a635-1df0-4c37-8dbf-3c04d738de0f/-/crop/5472x3359/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/76136717-e8cb-45b2-8de6-9849f61111d1/'
 firstName: Marcia
-collection: Extras
+collection: Over 50's
 height: 157cm
 measurementType: bust
 bust: 101cm
