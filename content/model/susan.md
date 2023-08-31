@@ -4,7 +4,7 @@ title: Susan
 featuredImage: >-
   https://ucarecdn.com/8b8f1b10-c806-4c93-b2c0-3175cbe45b33/-/crop/1633x1081/0,635/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/cddbcfd6-3922-4841-a9d5-ef300412f454/-/crop/1305x1745/84,167/-/preview/
+  https://ucarecdn.com/cddbcfd6-3922-4841-a9d5-ef300412f454/-/crop/1256x1525/65,235/-/preview/
 firstName: Susan
 collection: Over 50's
 height: 165cm
