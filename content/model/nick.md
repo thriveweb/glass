@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/0bf81af4-da38-4d1d-a261-65c5f2b08a4c/'
 imageThumbnail: >-
   https://ucarecdn.com/83648a18-4667-4132-bdc2-b30aee5a02dd/-/crop/1016x1375/222,199/-/preview/
 firstName: Nick
-collection: Extras
+collection: Over 50's
 size: L shirt and 34 pants
 imagePortfolio:
   - image: 'https://ucarecdn.com/5ac973f1-a98d-4771-ae08-907b621012e3/'
