@@ -2,7 +2,8 @@
 template: ModelPage
 title: Lena Lee
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/lena-1.jpg'
-imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/lena-3.jpg'
+imageThumbnail: >-
+  https://ucarecdn.com/2f2197f7-8730-439c-948c-a8b10faac8b5/-/crop/1089x1317/0,0/-/preview/
 firstName: Lena Lee
 collection: Mature
 height: 167cm
