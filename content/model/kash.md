@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/43043019-6e50-4bde-b2ca-466b3e85eac0/-/crop/1325x1632/903,0/-/preview/
 firstName: Kash
-collection: Boys
+collection: Emerging
 height: 178cm
 measurementType: chest
 bust: 84cm
