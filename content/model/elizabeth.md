@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/8fd8a43a-d12e-43ce-a54c-cd5b658ce4c4/-/crop/1151x1411/134,0/-/preview/
 firstName: Elizabeth
-collection: Classic
+collection: Over 50's
 height: 175cm
 measurementType: bust
 bust: 90cm
