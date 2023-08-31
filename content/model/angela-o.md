@@ -1,12 +1,12 @@
 ---
 template: ModelPage
-title: Angela O
+title: ' P Angela O'
 featuredImage: >-
   https://ucarecdn.com/42e57b0a-9b57-4a15-b215-85d06f429e2b/-/crop/2449x1063/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/74c1799f-01af-4edd-9e7f-ab038a697d73/-/crop/310x351/307,0/-/preview/
 firstName: Angela O
-collection: Extras
+collection: Classic
 height: 170cm
 measurementType: bust
 bust: 86cm
