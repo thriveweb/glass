@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/35934e53-395c-4461-966b-d43ef0fc2875/-/crop/2560x1517/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/7ea57ba4-1199-41ad-8e6e-7163bccc53fa/'
 firstName: Blasius
-collection: Over 50's
+collection: Mature
 height: 192cm
 measurementType: chest
 bust: 103cm
