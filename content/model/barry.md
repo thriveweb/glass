@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/eda0340c-824a-4af5-b301-3f183fa96185/-/crop/1452x1854/203,0/-/preview/
 firstName: Barry
-collection: Over 50's
+collection: Mature
 height: 178cm
 measurementType: chest
 bust: 101cm
