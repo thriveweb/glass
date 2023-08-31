@@ -4,7 +4,7 @@ title: Seraphina
 featuredImage: >-
   https://ucarecdn.com/8bf055b3-f710-4d5b-8538-370244f25c2c/-/crop/6720x3650/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/9aa6bd69-226e-486c-9f7e-c559c40ca38a/-/crop/4460x6255/257,0/-/preview/
+  https://ucarecdn.com/9aa6bd69-226e-486c-9f7e-c559c40ca38a/-/crop/4771x6579/202,0/-/preview/
 firstName: Seraphina
 collection: Classic
 height: 160cm
