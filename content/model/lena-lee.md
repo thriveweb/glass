@@ -4,7 +4,7 @@ title: Lena Lee
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/lena-1.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/lena-3.jpg'
 firstName: Lena Lee
-collection: Over 50's
+collection: Mature
 height: 167cm
 measurementType: bust
 bust: 99cm
