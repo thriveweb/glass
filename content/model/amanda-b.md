@@ -4,7 +4,7 @@ title: Amanda B
 featuredImage: >-
   https://ucarecdn.com/1dac31b4-c55a-42fd-aa14-369dda15317f/-/crop/1280x427/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/267f7c9f-377f-4d3e-a9b9-ff729861dbf0/-/crop/1075x1386/63,0/-/preview/
+  https://ucarecdn.com/2525c444-b0bc-4891-b941-714d9e5d87e1/-/crop/702x917/289,106/-/preview/
 firstName: Amanda B
 collection: Classic
 height: 170cm
