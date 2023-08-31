@@ -4,7 +4,7 @@ title: Juan D
 featuredImage: >-
   https://ucarecdn.com/1df897f6-e264-46d0-b872-b4f9c8749679/-/crop/2447x1458/0,121/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ec17e018-921b-4127-943f-31bcf38386ca/-/crop/1175x1626/339,339/-/preview/
+  https://ucarecdn.com/ec17e018-921b-4127-943f-31bcf38386ca/-/crop/971x1378/478,406/-/preview/
 firstName: Juan D
 collection: Men
 height: 190cm
