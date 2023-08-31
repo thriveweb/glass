@@ -4,7 +4,7 @@ title: Chris H
 featuredImage: >-
   https://ucarecdn.com/591fd2df-2579-4686-8039-d1ca485fd99e/-/crop/5562x2805/0,287/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/a54b5e72-78a4-4ed4-941c-6a6d321e126c/-/crop/676x798/714,381/-/preview/
+  https://ucarecdn.com/d6a62e6f-301f-481e-b3d4-5d28874a8e0c/-/crop/708x883/224,143/-/preview/
 firstName: Chris H
 collection: Classic
 height: 178cm
