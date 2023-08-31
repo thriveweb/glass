@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/43ee1349-0317-476f-b3ae-e6b8fb8be969/-/crop/875x1244/356,26/-/preview/
 firstName: Marcelo
-collection: Men
+collection: Classic
 height: 182cm
 measurementType: chest
 bust: 99cm
