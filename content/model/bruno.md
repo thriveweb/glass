@@ -3,7 +3,8 @@ template: ModelPage
 title: Bruno
 featuredImage: >-
   https://ucarecdn.com/1edf820b-e10d-4f37-9aef-bcdf9675108a/-/crop/2768x1540/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/e86c927e-b457-488e-ba3f-b227ba0f1f74/-/preview/'
+imageThumbnail: >-
+  https://ucarecdn.com/e86c927e-b457-488e-ba3f-b227ba0f1f74/-/crop/520x652/2,0/-/preview/
 firstName: Bruno
 collection: Men
 height: 182cm
