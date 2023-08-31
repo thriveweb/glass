@@ -2,7 +2,7 @@
 template: ModelPage
 title: Oliver
 featuredImage: 'https://ucarecdn.com/c0751480-63fc-47da-b8c0-863209681c3c/'
-imageThumbnail: 'https://ucarecdn.com/0c5a25aa-3065-4bda-9963-6064916d5322/'
+imageThumbnail: 'https://ucarecdn.com/cee60a48-4cf0-4ef5-8ebc-6807a6837b05/'
 firstName: Oliver
 collection: Men
 height: 193cm
@@ -23,7 +23,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/ca8bd0d9-8b31-44f2-b3f5-f6f56af8b1da/'
   - image: 'https://ucarecdn.com/ddca4868-3ca6-460c-9dfb-06e71e6ecf18/'
   - image: 'https://ucarecdn.com/eff7a41b-3a81-452f-b6b7-bed29500b818/'
-  - image: 'https://ucarecdn.com/dd16e646-c9f8-4c13-a290-ae3bd5fb2972/'
+  - image: 'https://ucarecdn.com/dd16e646-c9f8-4c13-a290-ae3bd5fb2972/-/preview/'
   - image: 'https://ucarecdn.com/30f1a266-0d3a-4845-b552-9445e135ed85/'
   - image: 'https://ucarecdn.com/375f103d-4401-4fb2-8a90-97a0892859d0/'
   - image: 'https://ucarecdn.com/4af09a98-81ed-4e96-8b6c-26f33c75f91a/'
