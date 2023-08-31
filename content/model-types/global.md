@@ -1,7 +1,7 @@
 ---
 template: ModelsPage
 title: Mature
-featuredImage: 'https://ucarecdn.com/54ed5730-e4bd-4d90-9800-a19c3210170c/'
+featuredImage: 'https://ucarecdn.com/b4a87cf7-8bbe-4cf1-ad9b-6e19a3045b29/'
 order: 10
 ---
 
