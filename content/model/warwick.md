@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/f41f0b92-b90b-41a1-9593-70dd18cda8b7/'
 imageThumbnail: >-
   https://ucarecdn.com/e8c7dd6d-60ee-4e9e-b837-beb7b4ac9610/-/crop/1340x1727/175,313/-/preview/
 firstName: Warwick
-collection: Over 50's
+collection: Mature
 height: 178cm
 measurementType: chest
 bust: 101cm
