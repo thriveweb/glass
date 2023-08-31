@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/cddbcfd6-3922-4841-a9d5-ef300412f454/-/crop/1305x1745/84,167/-/preview/
 firstName: Susan
-collection: Classic
+collection: Over 50's
 height: 165cm
 measurementType: bust
 bust: 90cm
