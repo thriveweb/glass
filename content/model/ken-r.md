@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/9452815d-2e54-4fa5-9de3-fa6f00706678/-/crop/733x1065/17,0/-/preview/
 firstName: Ken R
-collection: Classic
+collection: Mature
 height: 174cm
 measurementType: chest
 bust: 103cm
