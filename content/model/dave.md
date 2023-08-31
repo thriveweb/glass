@@ -4,7 +4,7 @@ title: Dave
 featuredImage: 'https://ucarecdn.com/2325f681-e9f0-4cc2-9463-1bbda900880d/'
 imageThumbnail: 'https://ucarecdn.com/bef8399b-9045-4253-ad77-f28f04a40bfa/'
 firstName: Dave
-collection: Classic
+collection: Over 50's
 height: 176cm
 measurementType: chest
 bust: 100cm
