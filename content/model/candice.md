@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/335a293e-cc67-4ed0-8371-43a6b703f1d6/-/crop/1003x1336/42,53/-/preview/
 firstName: Candice
-collection: Extras
+collection: Classic
 height: 176cm
 measurementType: bust
 bust: 104cm
