@@ -4,7 +4,7 @@ title: 'Pia '
 featuredImage: 'https://ucarecdn.com/c36e1402-446d-481c-be0b-78b8781b937b/'
 imageThumbnail: 'https://ucarecdn.com/44b93bf1-77ba-4af8-bc42-14226a6302e2/'
 firstName: Pia
-collection: Over 50's
+collection: Mature
 height: 170cm
 measurementType: bust
 bust: 94cm
