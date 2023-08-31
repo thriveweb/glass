@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/35e3a084-9b38-4fa4-87a6-2d4bfee0fbd5/-/crop/3648x1997/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/92703f87-0ba6-4b0b-b70c-379238cf751f/'
 firstName: Arthur
-collection: Over 50's
+collection: Mature
 height: 168cm
 measurementType: chest
 bust: 101cm
