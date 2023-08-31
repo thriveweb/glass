@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/3029128f-8fe9-4d59-b9d2-28f931336079/-/crop/1528x2000/104,0/-/preview/
 firstName: Beba
-collection: Classic
+collection: Over 50's
 height: 160cm
 measurementType: bust
 bust: 100cm
