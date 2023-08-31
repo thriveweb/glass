@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/05720d43-546d-4a3e-a927-3bd653fb0047/-/crop/396x537/0,0/-/preview/
 firstName: Suzanne
-collection: Classic
+collection: Over 50's
 height: 162cm
 measurementType: bust
 bust: 86cm
