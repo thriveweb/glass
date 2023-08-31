@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/63dd4c5b-9604-46eb-81eb-40b5f5de52d4/-/crop/3354x4554/0,0/-/preview/
 firstName: Hannah D
-collection: Extras
+collection: Emerging
 height: 152cm
 measurementType: bust
 bust: 81cm
