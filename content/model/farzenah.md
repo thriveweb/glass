@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/ee1dc513-81ef-460b-9491-68fd800dc1ca/-/crop/369x527/0,27/-/preview/
 firstName: Farzenah
-collection: Classic
+collection: Over 50's
 height: 165cm
 measurementType: chest
 bust: 99cm
