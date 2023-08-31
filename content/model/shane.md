@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/166da19f-53dd-4592-b21e-c2be10091725/'
 imageThumbnail: >-
   https://ucarecdn.com/e1f36cca-1cd2-4af1-a25a-906eda6362bb/-/crop/3569x4409/501,0/-/preview/
 firstName: Shane
-collection: Extras
+collection: Classic
 height: 180cm
 measurementType: chest
 size: Pants-36 Shirt-large
