@@ -6,6 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/2605e17c-a85c-44ea-904c-aef5930be64e/-/crop/1510x1632/487,0/-/preview/
 firstName: Backman Triplets
+collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/988799e0-48ae-4352-bcec-1011bc475ba2/'
   - image: 'https://ucarecdn.com/b3a0c17b-d7f9-47ea-afc7-7dc2cd2d6b45/'
