@@ -4,7 +4,7 @@ title: Rae
 featuredImage: 'https://ucarecdn.com/8494722b-d8dd-4664-a6fe-c7456f6de1e8/'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/rae.webp'
 firstName: Rae
-collection: Classic
+collection: Over 50's
 height: 166cm
 measurementType: bust
 bust: 88cm
