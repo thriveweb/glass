@@ -7,6 +7,15 @@ imageThumbnail: >-
   https://ucarecdn.com/71be5e90-4aca-430d-af7f-f44dd945f7ae/-/crop/4247x4824/149,0/-/preview/
 firstName: Harshini
 collection: Classic
+height: 157cm
+measurementType: bust
+bust: 82cm
+waist: 69cm
+hips: 88cm
+size: '8'
+shoeSize: 5/6
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/01b0e3a7-f824-4e72-8273-c7460c2c8ab2/'
   - image: 'https://ucarecdn.com/134001d1-8a35-4dad-8de9-93ddbf44649b/'
