@@ -13,6 +13,9 @@ bust: 99cm
 waist: 82cm
 hips: 96cm
 size: M/32
+shoeSize: '10'
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/0f0100c4-d10f-4561-b01b-be80c87d2dbb/'
   - image: 'https://ucarecdn.com/2434f960-5296-4d3f-9f09-ead15a224201/'
