@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/1337c19a-8608-4da1-8eb0-50c1c8708c35/-/crop/1005x1121/55,0/-/preview/
 firstName: Miela
-collection: Girls
+collection: ''
 height: 97cm
 measurementType: bust
 bust: 56cm
