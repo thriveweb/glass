@@ -4,7 +4,7 @@ title: Carlos EXTRA
 featuredImage: 'https://ucarecdn.com/a8b25884-c485-4723-a0be-7578142eaf7b/'
 imageThumbnail: 'https://ucarecdn.com/9ea12f22-c07f-4975-be54-c6a975ac7576/'
 firstName: Carlos EXTRA
-collection: Extras
+collection: ''
 height: 5'8
 measurementType: chest
 bust: 91cm
