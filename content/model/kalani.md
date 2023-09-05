@@ -19,6 +19,7 @@ eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/e743bc6e-0b6b-421c-925d-623fba5c684b/'
   - image: 'https://ucarecdn.com/863c5ee7-43e0-4c8f-a17d-d1c79109803f/'
+  - image: 'https://ucarecdn.com/7db5814a-ce64-4ecf-b243-742337d7973d/'
   - image: 'https://ucarecdn.com/14bcee6c-e8d6-4476-b6a0-09e601998977/-/preview/'
   - image: 'https://ucarecdn.com/b51c1287-3957-4a7c-8b3a-56d7254757b3/'
   - image: 'https://ucarecdn.com/51b768b3-b17f-4ff5-9655-99a243493e84/'
