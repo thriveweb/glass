@@ -11,7 +11,7 @@ height: 151cm
 measurementType: chest
 bust: 70cm
 waist: 62cm
-hips: 83 cm
+hips: 83cm
 size: 10-12
 shoeSize: US 8.5
 hair: Brown
