@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Leo
+title: Leo W
 featuredImage: >-
   https://ucarecdn.com/243fc8af-5edf-4261-8abe-c41ae4eb8839/-/crop/1650x802/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/f248429f-94b3-46c3-859e-d0704c588633/-/crop/845x1305/529,29/-/preview/
-firstName: Leo
+firstName: Leo W
 collection: Boys
 height: 111cm
 measurementType: chest
