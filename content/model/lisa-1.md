@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Lisa H
+title: Lisa W
 featuredImage: >-
   https://ucarecdn.com/fa13c8f9-2969-4465-9f4e-5ddf6362cb99/-/crop/2449x1284/0,7/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/78898aeb-fb18-4dc9-b28c-473b849b6c6b/-/crop/4333x5846/416,0/-/preview/
-firstName: Lisa H
+firstName: 'Lisa '
 collection: Classic
 size: '12'
 hair: Brown
