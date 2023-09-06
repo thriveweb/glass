@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/60b46152-9870-4d24-9176-ac6c91ff0510/-/crop/1514x1805/64,203/-/preview/
 firstName: Beau
 collection: Boys
-height: 142cm
+height: 155 cm
 measurementType: chest
-bust: 76cm
-waist: 66cm
-hips: 77cm
+bust: 84cm
+waist: 81cm
+hips: 71cm
 size: 10/12
-shoeSize: '5'
+shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
