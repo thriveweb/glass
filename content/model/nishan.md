@@ -2,7 +2,7 @@
 template: ModelPage
 title: Nishan
 featuredImage: >-
-  https://ucarecdn.com/c8b7ac81-5def-40ad-bb95-8b0c2967a184/-/crop/2449x1346/0,46/-/preview/
+  https://ucarecdn.com/c8b7ac81-5def-40ad-bb95-8b0c2967a184/-/crop/2449x1385/0,7/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/0280bdf7-5b05-4081-9d66-7c94f94f0cf6/-/crop/1093x1500/1048,0/-/preview/
 firstName: Nishan
