@@ -9,10 +9,10 @@ firstName: Anja
 collection: Classic
 height: 165cm
 measurementType: bust
-bust: 91cm
-waist: 80cm
-hips: 95cm
-size: ' 8-10'
+bust: 85cm
+waist: 65cm
+hips: 93cm
+size: ' 8'
 shoeSize: '38.5'
 hair: Blonde
 eyes: Blue
