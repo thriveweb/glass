@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Anja
-featuredImage: 'https://ucarecdn.com/71b65ef7-9a63-472c-ad74-dac638516968/'
+featuredImage: >-
+  https://ucarecdn.com/71b65ef7-9a63-472c-ad74-dac638516968/-/crop/1650x1015/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/a57aa348-86ea-4b4f-9c08-9d84251c15b5/-/crop/721x1073/12,0/-/preview/
 firstName: Anja
