@@ -8,15 +8,7 @@ content: >-
   RATES:
 
 
-  Please check model rates when booking. The rates apply to shoot time only and
-  do not include usage. All rates are plus GST.
-
-
-  THE WORKING DAY: (Photography)
-
-
-  Normal hours for a booking are between 6:00am to 6:00pm, including lunch
-  break. Penalty rates may apply outside these hours.
+  Please check model rates when booking. 
 
 
   PENALTY/OVERTIME RATE: (Photography)
@@ -30,9 +22,7 @@ content: >-
 
 
   Please check travel rates when booking talent. This rate applies to travel
-  outside a 10km radius. Travel time is calculated from departure time in the
-  city to arrival back in the city. Travel days are charged at half the model’s
-  daily rate.
+  outside of Brisbane and Byron Bay. 
 
 
   USAGE: (Photography)
@@ -66,10 +56,6 @@ content: >-
   Third cancellation and subsequent cancellations – full fee.
 
 
-  The type of weather required must be specified at the time of booking.
-
-
-  Full cancellation will be charged if the same model is not re-booked.
 
 
   CANCELLATIONS
@@ -197,16 +183,12 @@ content: >-
   obligations in relation to your personal information.
 
 
-
-
   TALENT CLIENT CONTACT & DIRECT WORK
 
 
   Talent will not do work directly for any Client that has been introduced to
   them by Glass either by way of a confirmed job or casting. Failure to do so
   may incur legal action.
-
-
 
 
   FEES
@@ -226,3 +208,4 @@ content: >-
 
   Team Glass xx
 ---
+
