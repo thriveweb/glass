@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/acaff590-74c6-4cdc-9b3d-8344b2e8d57d/-/crop/1633x2315/0,0/-/preview/
 firstName: Camps Family
-collection: Family
+collection: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/c77e1057-0ff9-41ce-9e7c-d2fee1a58e88/'
   - image: 'https://ucarecdn.com/8ba2e474-4482-4be4-87ca-707a542e5c2a/'
