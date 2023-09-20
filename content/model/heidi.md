@@ -2,7 +2,7 @@
 template: ModelPage
 title: Heidi
 featuredImage: >-
-  https://ucarecdn.com/10743de3-9ce6-458e-bbd7-b0c39227b82f/-/crop/1440x842/0,96/-/preview/
+  https://ucarecdn.com/10743de3-9ce6-458e-bbd7-b0c39227b82f/-/crop/1440x915/0,23/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/a4fd274d-dbb5-4225-a53a-00f8635ef382/-/crop/2761x3861/224,299/-/preview/
 firstName: Heidi
