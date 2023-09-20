@@ -2,7 +2,7 @@
 template: ModelPage
 title: Vogels Family
 featuredImage: >-
-  https://ucarecdn.com/d093b181-9e75-483d-a6c4-6211f41d05b1/-/crop/1602x1536/0,323/-/preview/
+  https://ucarecdn.com/c1d26aed-b789-4409-997a-bc676b9e895e/-/crop/1536x1205/0,200/-/preview/
 imageThumbnail: 'https://ucarecdn.com/8ba0b3f7-3d45-4048-aea8-c23159038238/'
 firstName: Vogels Family
 collection: Family
