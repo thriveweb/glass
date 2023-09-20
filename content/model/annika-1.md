@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/261a8d4b-0637-48a1-9be8-2b6c2817077b/'
 imageThumbnail: >-
   https://ucarecdn.com/e5e8c802-7651-4e0c-96c0-a6904460229a/-/crop/411x456/21,25/-/preview/
 firstName: Annika D
-collection: Girls
+collection: ''
 height: 140cm
 measurementType: bust
 bust: 68cm
