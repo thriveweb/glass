@@ -15,7 +15,7 @@ hips: 67cm
 size: 6-7
 shoeSize: '13'
 hair: Blonde
-eyes: Blue
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/7c18010f-5d4a-491d-9de7-f25db9ce2781/'
   - image: 'https://ucarecdn.com/a4118a96-37e7-4d9e-b4f0-9c147db31c43/'
