@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/f04904e6-aa8b-41ab-ab58-85c86ea10156/'
 imageThumbnail: >-
   https://ucarecdn.com/7c8f6b8e-1eca-4330-9575-e00cf20ecc75/-/crop/1629x1684/4,0/-/preview/
 firstName: Sienna C
-collection: Emerging
+collection: ''
 height: 172cm
 measurementType: bust
 bust: 91cm
