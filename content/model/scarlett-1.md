@@ -4,7 +4,7 @@ title: Scarlett
 featuredImage: >-
   https://ucarecdn.com/0dcbe4cd-1409-463a-bab3-176a1332d45b/-/crop/2481x1078/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/982ae3b0-818d-4c3b-a1cf-a6a3ecf8505d/-/crop/850x1148/3,0/-/preview/
+  https://ucarecdn.com/982ae3b0-818d-4c3b-a1cf-a6a3ecf8505d/-/crop/659x929/90,3/-/preview/
 firstName: Scarlett
 collection: Girls
 height: 120cm
