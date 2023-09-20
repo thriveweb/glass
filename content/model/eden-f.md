@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/abc39d45-3f6e-41be-87b3-e4ee300f18fd/'
 imageThumbnail: >-
   https://ucarecdn.com/d7c90e2d-49b4-45e2-8b57-b0f0d266b208/-/crop/959x1302/358,0/-/preview/
 firstName: Eden F
-collection: Girls
+collection: ''
 height: 123cm
 measurementType: bust
 bust: 60cm
