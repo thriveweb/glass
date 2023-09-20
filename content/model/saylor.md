@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/ea66732a-9e22-4ea2-8968-7b4e65590603/'
 imageThumbnail: >-
   https://ucarecdn.com/182d06fc-9845-4f62-83dc-553014fa629c/-/crop/771x1070/503,0/-/preview/
 firstName: Saylor
-collection: Girls
+collection: ''
 height: 89cm
 size: '2'
 shoeSize: Infant 6
