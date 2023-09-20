@@ -4,7 +4,7 @@ title: Heidi
 featuredImage: >-
   https://ucarecdn.com/10743de3-9ce6-458e-bbd7-b0c39227b82f/-/crop/1440x915/0,23/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/a4fd274d-dbb5-4225-a53a-00f8635ef382/-/crop/2761x3861/224,299/-/preview/
+  https://ucarecdn.com/86732f47-5639-4cdc-b7ec-08e743606316/-/crop/1449x1965/32,0/-/preview/
 firstName: Heidi
 collection: Girls
 height: 119cm
