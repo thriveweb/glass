@@ -3,8 +3,7 @@ template: ModelPage
 title: Jasmine
 featuredImage: >-
   https://ucarecdn.com/e945a817-3dd1-4303-9f94-497f7283ae18/-/crop/1632x996/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/155972c2-68b8-4a0d-8947-b24a83c9d778/-/crop/1397x1997/200,452/-/preview/
+imageThumbnail: 'https://ucarecdn.com/f7291630-b9ca-4c5d-bd14-6bfe214beed1/'
 firstName: Jasmine
 collection: Classic
 height: 166cm
