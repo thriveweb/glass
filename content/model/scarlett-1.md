@@ -6,6 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/982ae3b0-818d-4c3b-a1cf-a6a3ecf8505d/-/crop/850x1148/3,0/-/preview/
 firstName: Scarlett
+collection: Girls
 height: 120cm
 measurementType: bust
 bust: 58cm
