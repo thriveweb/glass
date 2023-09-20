@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/6ffd2927-8cd2-44b3-afac-34540ec2cb89/-/crop/817x1037/471,10/-/preview/
 firstName: Dakota
-collection: Girls
+collection: Emerging
 height: 168cm
 measurementType: bust
 bust: 84cm
