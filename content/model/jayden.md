@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/541aa4e0-8856-4996-998b-3b97028aae60/-/crop/965x1289/291,0/-/preview/
 firstName: Jayden
 collection: Boys
-height: 150cm
+height: 153cm
 measurementType: chest
 bust: 74cm
 waist: 75cm
 hips: 83cm
-size: '8'
+size: '14'
 shoeSize: 6-7
 hair: Blonde
 eyes: Blue
