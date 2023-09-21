@@ -9,9 +9,9 @@ firstName: Jayden
 collection: Boys
 height: 153cm
 measurementType: chest
-bust: 74cm
-waist: 75cm
-hips: 83cm
+bust: 71cm
+waist: 73cm
+hips: 82cm
 size: '14'
 shoeSize: 6-7
 hair: Blonde
