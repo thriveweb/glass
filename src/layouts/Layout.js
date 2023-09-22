@@ -23,6 +23,8 @@ export default ({ children, meta, title }) => {
               buttonUrl
               buttonBookStudioText
               buttonBookStudioUrl
+              buttonBookWorkshopText
+              buttonBookWorkshopUrl
             }
             footer {
               title

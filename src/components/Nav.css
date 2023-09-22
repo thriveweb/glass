@@ -425,7 +425,8 @@
 
   .nav--container .client-nav .title,
   .nav--container .client-nav .button {
-    flex: 0 0 33.34%;
+    /* flex: 0 0 33.34%; */
+    flex: 0 0 25%;
     text-align: center;
     border: none;
     margin: 0;    

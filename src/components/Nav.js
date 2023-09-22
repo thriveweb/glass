@@ -131,6 +131,9 @@ class Nav extends Component {
             <a className="button" href={header.buttonBookStudioUrl} target="_blank">
               {header.buttonBookStudioText}
             </a>            
+            <a className="button" href={header.buttonBookWorkshopUrl} target="_blank">
+              {header.buttonBookWorkshopText}
+            </a>            
           </div>
           <div id="mobile-menu" onClick={this.onMobileClick}>
             <span />
