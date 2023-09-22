@@ -4,7 +4,7 @@ title: Isla-Rose
 featuredImage: >-
   https://ucarecdn.com/b74acb0e-3e49-42db-ab7f-7bcdd92657bf/-/crop/1289x713/0,18/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/eeca3fe3-8370-469a-9e72-0caf5a04ee45/-/crop/565x729/137,18/-/preview/
+  https://ucarecdn.com/eeca3fe3-8370-469a-9e72-0caf5a04ee45/-/crop/548x678/137,35/-/preview/
 firstName: Isla-Rose
 collection: Girls
 height: 116cm
