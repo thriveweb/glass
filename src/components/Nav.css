@@ -260,6 +260,19 @@
   display: none;
 }
 
+@media only screen and (max-width: 1112px) {  
+
+  .nav--container .client-nav .title {
+    margin-right: 0rem;
+  }
+
+  .nav--container .button {
+    padding: 1rem 1rem;
+    min-width: auto;
+    font-size: 1em;
+  }  
+}
+
 @media only screen and (max-width: 1020px) {
   .nav--container nav > ul > li {
     font-size: 1.2em;
@@ -275,11 +288,6 @@
     height: 1.5rem;
   }
 
-  .nav--container .button {
-    padding: 1rem 2.5rem;
-    min-width: auto;
-    font-size: 1em;
-  }
 }
 
 @media only screen and (max-width: 900px) {
