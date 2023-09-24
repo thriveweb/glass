@@ -260,15 +260,16 @@
   display: none;
 }
 
-@media only screen and (max-width: 1112px) {  
+@media only screen and (max-width: 1215px) {  
 
   .nav--container .client-nav .title {
     margin-right: 0rem;
-  }
+  }  
 
   .nav--container .button {
     padding: 1rem 1rem;
     min-width: auto;
+    text-wrap: wrap;
     font-size: 1em;
   }  
 }
