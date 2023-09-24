@@ -260,7 +260,7 @@
   display: none;
 }
 
-@media only screen and (max-width: 1215px) {  
+@media only screen and (max-width: 1280px) {  
 
   .nav--container .client-nav .title {
     margin-right: 0rem;
