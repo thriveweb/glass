@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: AA Jerome
+title: A Jerome
 featuredImage: >-
   https://ucarecdn.com/20cb0800-22ee-4b0c-b6b1-e13c1cee64f1/-/crop/1280x1117/0,114/-/preview/
 imageThumbnail: >-
