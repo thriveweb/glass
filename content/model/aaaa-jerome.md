@@ -2,7 +2,7 @@
 template: ModelPage
 title: AA Jerome
 featuredImage: >-
-  https://ucarecdn.com/20cb0800-22ee-4b0c-b6b1-e13c1cee64f1/-/crop/1280x1117/0,114/-/preview/
+  https://ucarecdn.com/20cb0800-22ee-4b0c-b6b1-e13c1cee64f1/-/crop/1280x977/0,114/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/7278a5b9-96c1-48c7-a05b-254f95744f46/-/crop/746x928/86,92/-/preview/
 firstName: Jerome
