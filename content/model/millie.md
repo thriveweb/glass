@@ -25,9 +25,13 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/1b8271e2-b903-42ed-9354-154ab9ba1547/'
   - image: 'https://ucarecdn.com/d3c6afce-99e7-4921-8a20-9b1ae568ff82/'
   - image: 'https://ucarecdn.com/21d2e55b-3366-47ca-b67e-da53a80dcd9a/'
+  - image: 'https://ucarecdn.com/7f9607c8-0ea6-4888-b489-8cb67ec1015f/'
   - image: 'https://ucarecdn.com/e4d5b960-98aa-413f-be97-9e783e8e2ae6/'
+  - image: 'https://ucarecdn.com/6d2e0732-57e2-4060-a69d-2beed5abac5c/'
   - image: 'https://ucarecdn.com/0b313a6c-0c7b-40cf-9414-5dbb4b3c4e15/'
   - image: 'https://ucarecdn.com/1dbab40d-d5ae-4b67-b016-e007154a46d0/'
   - image: 'https://ucarecdn.com/5b94cbbf-bfa2-4b4f-880a-b881b680b595/'
+  - image: >-
+      https://ucarecdn.com/89fef122-6c32-4cfa-897c-178a8ef78fef/-/crop/1588x1859/44,590/-/preview/
 ---
 
