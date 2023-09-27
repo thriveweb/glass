@@ -12,7 +12,10 @@ shoeSize: US 7 Toddler
 hair: Brunette
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/f100a34a-9787-4f47-aa9a-abdee241416a/'
   - image: 'https://ucarecdn.com/f36f1a97-e8a8-443c-8544-6232ba5a04f5/'
+  - image: 'https://ucarecdn.com/eb447485-e96e-4985-9078-c5e9b38efa8c/'
+  - image: 'https://ucarecdn.com/747ee715-3395-43de-ba8c-143ee03e5130/'
   - image: 'https://ucarecdn.com/bbf44cc7-d492-468b-9a89-c13c2b295ed0/'
   - image: 'https://ucarecdn.com/5e6d39e4-276f-4383-b02f-a4e95a7f0c9e/'
   - image: 'https://ucarecdn.com/b484fcfa-ec58-42d4-be4b-18963cc5f592/'
