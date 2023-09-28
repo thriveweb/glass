@@ -4,7 +4,7 @@ title: Me Tyra
 featuredImage: >-
   https://ucarecdn.com/1a7c90f1-98b8-4605-8dee-4d085e9a9340/-/crop/4394x2617/0,445/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/7e42a848-9d00-440f-aa91-b3cb0a03d214/-/crop/521x740/86,15/-/preview/
+  https://ucarecdn.com/7e42a848-9d00-440f-aa91-b3cb0a03d214/-/crop/584x810/55,18/-/preview/
 firstName: Tyra
 collection: Women
 height: 168cm
