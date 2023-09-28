@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/082a20da-13d7-49bb-88be-09d3b4612165/-/crop/2728x3648/1208,0/-/preview/
 firstName: Gabby P
 collection: Emerging
-height: 158cm
+height: 162cm
 measurementType: bust
-bust: 75cm
+bust: 78cm
 waist: 62cm
-hips: 76cm
-size: 12-14
-shoeSize: 6/7
+hips: 81cm
+size: 6-8
+shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
