@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/daa36535-fbb9-47c4-aba6-6bd211f8b473/-/crop/748x987/691,87/-/preview/
 firstName: Frankie Mae
-collection: Girls
+collection: ''
 height: 85cm
 size: '2'
 shoeSize: '5'
