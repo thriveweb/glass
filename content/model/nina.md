@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/6d788eb6-bea6-402d-958e-66c41879c342/-/crop/1693x2202/183,45/-/preview/
 firstName: Nina
 collection: Women
-height: 150cm
+height: 159cm
 measurementType: bust
 bust: 84cm
 waist: 66cm
