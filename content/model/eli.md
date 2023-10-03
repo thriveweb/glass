@@ -6,12 +6,12 @@ imageThumbnail: >-
   https://ucarecdn.com/3339674f-bc9d-47c3-af88-51fef0f5319c/-/crop/501x716/666,185/-/preview/
 firstName: Eli
 collection: Boys
-height: 150cm
+height: 159cm
 measurementType: chest
-bust: 83cm
-waist: 78cm
-hips: 85cm
-size: 12-14
+bust: 88cm
+waist: 81cm
+hips: 89cm
+size: '14'
 shoeSize: '8'
 hair: brown
 eyes: brown
