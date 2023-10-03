@@ -8,7 +8,8 @@ imageThumbnail: >-
 firstName: Myah
 collection: Girls
 height: 104cm
-size: size 3
+size: size 4
+shoeSize: '10'
 imagePortfolio:
   - image: 'https://ucarecdn.com/95406592-7a48-42e9-b77b-dd37b7d338c3/'
   - image: 'https://ucarecdn.com/df55b73a-4b0d-45ec-9674-37ef3cd4737a/'
