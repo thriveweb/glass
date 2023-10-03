@@ -14,6 +14,8 @@ waist: 83cm
 hips: 102cm
 size: '12'
 shoeSize: '9'
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/34462a72-70cc-4e9f-a608-fc50063343e5/'
   - image: 'https://ucarecdn.com/7fe8e1ff-9f53-475c-9b3d-0d41846f2d11/'
