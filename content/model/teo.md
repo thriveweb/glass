@@ -7,7 +7,8 @@ imageThumbnail: >-
   https://ucarecdn.com/7e7758ed-b128-44ea-a37e-637ee5d7b944/-/crop/961x1324/412,231/-/preview/
 firstName: Teo
 collection: Boys
-size: 18months - 24months
+size: size 3
+shoeSize: '9'
 imagePortfolio:
   - image: 'https://ucarecdn.com/e5ebde4e-1ffc-464f-b172-8ce2cfeee8d7/'
   - image: 'https://ucarecdn.com/e4379ecf-4d26-49df-a034-4e36be480ea7/'
