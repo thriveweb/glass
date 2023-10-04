@@ -7,11 +7,11 @@ firstName: Luke
 collection: Men
 height: 190cm
 measurementType: chest
-bust: 105cm
-waist: 86cm
-hips: 86cm
+bust: 106cm
+waist: 84cm
+hips: 109cm
 size: 34 pant L shirt
-shoeSize: '12'
+shoeSize: US 12
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
