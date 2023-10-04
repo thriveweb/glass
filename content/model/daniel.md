@@ -8,6 +8,10 @@ imageThumbnail: >-
 firstName: Daniel
 collection: Classic
 height: 168cm
+measurementType: chest
+bust: 101cm
+waist: 81cm
+hips: 86cm
 size: 'Pants: 32         Shirt: S/M'
 shoeSize: US10
 hair: Brown
