@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/c8d2b533-8877-446d-bc72-724a925d433c/-/crop/1632x992/0,429/-/preview/
 imageThumbnail: 'https://ucarecdn.com/a9ac24c5-edb3-4f2b-af92-587c0bda86a9/'
 firstName: Skye D
-collection: Women
+collection: Emerging
 height: 170cm
 measurementType: bust
 bust: 92cm
