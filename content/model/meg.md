@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Meg
+title: U Meg
 featuredImage: >-
   https://ucarecdn.com/7510f3ef-7791-4581-a7d5-40e9afaf338d/-/crop/2448x1451/0,31/-/preview/
 imageThumbnail: >-
