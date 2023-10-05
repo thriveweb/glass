@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: N Saule
+title: Np Saule
 featuredImage: >-
   https://ucarecdn.com/d4f54f44-6e9a-4168-af76-682fbb3fe071/-/crop/1528x776/322,41/-/preview/
 imageThumbnail: >-
