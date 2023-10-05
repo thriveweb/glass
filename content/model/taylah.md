@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Taylah
+title: Kat-Taylah
 featuredImage: >-
   https://ucarecdn.com/bc3295d9-6cef-44eb-b54a-b32338caa075/-/crop/5295x3526/0,866/-/preview/
 imageThumbnail: >-
