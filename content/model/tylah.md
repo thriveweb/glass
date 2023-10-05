@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: ' Tylah'
+title: Tylah
 featuredImage: >-
   https://ucarecdn.com/753d0fdf-47f4-41c0-80d4-1c0d080ba96a/-/crop/2449x1213/0,219/-/preview/
 imageThumbnail: >-
