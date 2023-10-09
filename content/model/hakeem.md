@@ -12,7 +12,7 @@ measurementType: chest
 bust: 87cm
 waist: 75cm
 hips: 99cm
-size: 'Shirt: S - M Pant: 32'
+size: 'Shirt: S-M Pant: 32'
 shoeSize: US 15
 hair: Black
 eyes: Brown
