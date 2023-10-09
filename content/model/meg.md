@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/e6ebaca0-9834-4515-a296-01ab70bb5b97/-/crop/1575x2247/57,0/-/preview/
 firstName: Meg
-collection: Women
+collection: Emerging
 height: 174cm
 measurementType: bust
 bust: 84cm
