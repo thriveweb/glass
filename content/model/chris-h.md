@@ -4,7 +4,7 @@ title: Chris H
 featuredImage: >-
   https://ucarecdn.com/591fd2df-2579-4686-8039-d1ca485fd99e/-/crop/5562x2805/0,287/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/d6a62e6f-301f-481e-b3d4-5d28874a8e0c/-/crop/708x883/224,143/-/preview/
+  https://ucarecdn.com/197d463e-65cd-4d2f-bff2-268873e2e31d/-/crop/3209x4159/1981,12/-/preview/
 firstName: Chris H
 collection: Classic
 height: 178cm
@@ -17,6 +17,7 @@ shoeSize: '9.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/6a913beb-c4e5-4a82-8b45-ef6adcc51d82/'
   - image: 'https://ucarecdn.com/2fe03140-ae73-4dd7-9909-2919695bc11c/'
   - image: 'https://ucarecdn.com/7ea32c79-d943-4408-b8f0-3516470908a0/'
   - image: >-
