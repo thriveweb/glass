@@ -2,8 +2,7 @@
 template: ModelPage
 title: Anika
 featuredImage: 'https://ucarecdn.com/03f29937-c76a-4b48-87b7-5434c5925fd6/'
-imageThumbnail: >-
-  https://ucarecdn.com/44b40710-67fa-4ab5-b0b7-b377e1b8dd6e/-/crop/525x683/605,64/-/preview/
+imageThumbnail: 'https://ucarecdn.com/77681f2f-9612-49f2-8689-b44ff8e818dd/'
 firstName: Anika
 collection: Girls
 height: 85cm
