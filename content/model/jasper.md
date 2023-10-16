@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jasper
 featuredImage: >-
-  https://ucarecdn.com/29046a6c-a94b-4052-a234-7672f5ccc66e/-/crop/2449x1084/0,0/-/preview/
+  https://ucarecdn.com/afd4f3d7-c82d-40d0-a1e5-4fb9725a32b2/-/crop/990x446/3,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/96bfd3e3-1440-49b5-a5f3-f648f456aec7/-/crop/939x1373/337,175/-/preview/
 firstName: Jasper
