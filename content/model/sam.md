@@ -27,5 +27,7 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/8715a1ac-3132-45f2-af7c-f175b876d4a3/-/preview/-/rotate/270/
   - image: 'https://ucarecdn.com/69673798-20d6-4a32-a31e-92f1f7c14038/'
+meta:
+  title: 'Sam '
 ---
 
