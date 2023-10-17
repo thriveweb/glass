@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/0b4f6afa-e4d6-4104-bd78-62cb029f72ee/-/crop/656x526/344,517/-/preview/-/rotate/270/
 firstName: Sam
-collection: ''
+collection: Men
 size: 32/M
 hair: Brown
 eyes: Blue
