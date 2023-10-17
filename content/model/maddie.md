@@ -18,12 +18,14 @@ hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/a672fc30-4c4c-46af-a590-826862636191/'
-  - image: 'https://ucarecdn.com/dace183d-48f4-4d22-a2c8-cf9ec01be67a/'
   - image: 'https://ucarecdn.com/186802b1-bcb5-4d9a-b689-d1c7301241e9/'
   - image: 'https://ucarecdn.com/a9cc6616-f159-4280-9f6d-75209a6cd9e8/'
+  - image: 'https://ucarecdn.com/6031352f-87a9-4af1-8b30-19ebbd369543/'
   - image: 'https://ucarecdn.com/0b89f379-41e6-476f-bc7c-944ca5e9311c/'
-  - image: 'https://ucarecdn.com/66ec0399-410c-4289-8740-851071edc202/'
+  - image: >-
+      https://ucarecdn.com/dace183d-48f4-4d22-a2c8-cf9ec01be67a/-/crop/1488x1632/961,0/-/preview/
   - image: 'https://ucarecdn.com/b832ae43-e423-451d-bec5-46568c49f7c1/'
+  - image: 'https://ucarecdn.com/66ec0399-410c-4289-8740-851071edc202/'
   - image: 'https://ucarecdn.com/66f05e3a-1b5e-4507-a76b-5dbece7d8039/'
   - image: 'https://ucarecdn.com/107da08b-f9e3-4565-a42f-5bfbcbb6a460/'
   - image: 'https://ucarecdn.com/9b095def-9db2-4285-9940-cf7a0b58a775/'
