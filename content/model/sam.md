@@ -4,7 +4,7 @@ title: Sam
 featuredImage: >-
   https://ucarecdn.com/0c96bbf0-25ed-4672-83ae-26913bde9b95/-/crop/1365x692/0,476/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/0b4f6afa-e4d6-4104-bd78-62cb029f72ee/-/crop/656x526/344,517/-/preview/-/rotate/270/
+  https://ucarecdn.com/0b4f6afa-e4d6-4104-bd78-62cb029f72ee/-/crop/486x382/408,615/-/preview/-/rotate/270/
 firstName: Sam
 collection: Men
 size: 32/M
