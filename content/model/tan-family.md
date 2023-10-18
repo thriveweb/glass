@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Tan Family
-featuredImage: 'https://ucarecdn.com/c8a29b4a-7a6c-4fcd-9579-23bb5e57162e/'
+featuredImage: >-
+  https://ucarecdn.com/c8a29b4a-7a6c-4fcd-9579-23bb5e57162e/-/crop/1650x941/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/1f6d285e-3114-4663-9bcf-071f66badbcb/-/crop/990x1100/510,0/-/preview/
 firstName: Tan Family
