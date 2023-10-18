@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Raj
-featuredImage: >-
-  https://ucarecdn.com/2f45fa29-a81a-4331-aa3a-377eea8eacd5/-/crop/1788x1208/0,175/-/preview/
+featuredImage: 'https://ucarecdn.com/70c1f45e-66fb-465f-bba2-fb798d2205ca/'
 imageThumbnail: >-
   https://ucarecdn.com/0ef68ce4-dde0-4ec0-8935-3cfd668bdaa3/-/crop/1695x2163/1070,344/-/preview/
 firstName: Raj
@@ -17,6 +16,8 @@ shoeSize: '8'
 imagePortfolio:
   - image: 'https://ucarecdn.com/2afc441d-78e6-42da-abca-71c8beba3c54/'
   - image: 'https://ucarecdn.com/d029edc1-c5fa-4db4-a29a-6fd43865e75f/'
+  - image: >-
+      https://ucarecdn.com/1324cadc-c4f4-44fd-ab15-d70520e5b983/-/crop/1205x653/260,180/-/preview/
   - image: 'https://ucarecdn.com/bf3f0420-8d66-4fbc-82b0-17982eac3c43/'
   - image: 'https://ucarecdn.com/2ba0de6b-1220-469a-b1b9-cce852f9448a/'
   - image: 'https://ucarecdn.com/671b8713-c695-4e18-a0a7-191f6fbe539d/'
