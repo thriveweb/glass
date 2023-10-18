@@ -9,7 +9,7 @@ height: 166cm
 measurementType: bust
 bust: 82cm
 waist: 65cm
-hips: 82cm
+hips: 90cm
 size: '8'
 shoeSize: '8'
 imagePortfolio:
