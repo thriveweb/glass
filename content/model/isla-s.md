@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Isla S
-featuredImage: 'https://ucarecdn.com/b0830809-1298-4fe3-8d78-68f5c2623ba1/'
+featuredImage: >-
+  https://ucarecdn.com/b0830809-1298-4fe3-8d78-68f5c2623ba1/-/crop/1650x954/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/51b7b3ca-f6d3-4efd-923b-cb2f1106c820/-/crop/538x792/108,7/-/preview/
 firstName: Isla S
