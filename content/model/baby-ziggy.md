@@ -4,7 +4,7 @@ title: ' Ziggy'
 featuredImage: 'https://ucarecdn.com/1c988bfd-ebd5-47bf-9509-d7541cec2c39/'
 imageThumbnail: >-
   https://ucarecdn.com/dbb1858e-840f-4dd2-834b-37f43479444e/-/crop/582x761/837,437/-/preview/
-firstName: Baby Ziggy
+firstName: Ziggy
 collection: Boys
 height: 82cm
 size: 18mths
