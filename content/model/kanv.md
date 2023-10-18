@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Kanv
-featuredImage: >-
-  https://ucarecdn.com/9f28e7ad-d66d-48d2-a936-e4c2eb6075cc/-/crop/3932x2807/0,425/-/preview/
+featuredImage: 'https://ucarecdn.com/ff4e90b3-efc5-43d1-aa33-49fc84e32a35/'
 imageThumbnail: >-
   https://ucarecdn.com/57c9b022-5184-4f80-9fea-1d78477eb7b1/-/crop/1669x2494/1108,624/-/preview/
 firstName: Kanv
@@ -17,6 +16,8 @@ shoeSize: '10.5'
 imagePortfolio:
   - image: 'https://ucarecdn.com/9e233f90-7e19-4fdb-adf0-066c8814c018/'
   - image: 'https://ucarecdn.com/c69fa629-c7a5-4163-abd8-6447b01e3ea9/'
+  - image: >-
+      https://ucarecdn.com/89561fa9-25de-431b-a4a2-eee56385c053/-/crop/1417x833/119,0/-/preview/
   - image: 'https://ucarecdn.com/fb51af52-1bdb-4444-af5d-c68bb0783234/'
   - image: 'https://ucarecdn.com/c5be13e1-1338-4270-b05a-d48326f3d24c/'
   - image: 'https://ucarecdn.com/7e1bf5a0-dc28-4aa5-b55d-4633f47c60b4/'
