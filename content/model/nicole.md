@@ -9,9 +9,9 @@ firstName: Nicole T
 collection: Classic
 height: 157cm
 measurementType: bust
-bust: '33'
-waist: '25'
-hips: '33'
+bust: 83cm
+waist: 63cm
+hips: 83cm
 size: '6'
 shoeSize: '6.5'
 hair: Black
