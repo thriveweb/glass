@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Phillip
-featuredImage: 'https://ucarecdn.com/6caeaea7-00fb-4754-9feb-9793ea4e57db/'
+featuredImage: 'https://ucarecdn.com/4b34c8a1-6ca8-4983-9b3a-6c840a3bd22e/'
 imageThumbnail: >-
   https://ucarecdn.com/022fd36d-4010-4fd4-a910-59b63ca6cfcd/-/crop/1099x1462/245,0/-/preview/
 firstName: Phillip
