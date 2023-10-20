@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Abigail
-featuredImage: 'https://ucarecdn.com/786955c1-a8b3-498d-99b0-13494b8961af/'
+featuredImage: >-
+  https://ucarecdn.com/18634698-0398-4823-bad8-b6590cca3c56/-/crop/766x521/29,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b622485e-540d-4438-8656-3f90b6b88bc3/-/crop/1070x1374/566,0/-/preview/
 firstName: Abigail
