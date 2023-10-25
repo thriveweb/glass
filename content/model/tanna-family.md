@@ -6,6 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/2575cc70-a7c4-4a24-9823-48393cfc104a/-/crop/1441x2068/149,94/-/preview/
 firstName: Tanna Family
+collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/2aaf3bca-c9bd-490d-a0d5-857177eba51a/'
   - image: 'https://ucarecdn.com/9445c37c-1b83-4068-846f-a619ad1592be/'
