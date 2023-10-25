@@ -15,9 +15,12 @@ size: 1-3
 shoeSize: 5-6
 imagePortfolio:
   - image: 'https://ucarecdn.com/f4079145-75d9-4ae4-a038-eb5365c318b1/'
+  - image: 'https://ucarecdn.com/f5841087-a36c-4101-a516-f827ffc52ec8/'
   - image: 'https://ucarecdn.com/4b75ad09-077a-472d-b72d-df672088adb2/'
   - image: 'https://ucarecdn.com/9c2988c1-1371-4558-94af-8ba74dd93728/'
+  - image: 'https://ucarecdn.com/60865d46-da8b-489a-9800-c92b015a9eaa/'
   - image: 'https://ucarecdn.com/980fbafc-d350-46c9-af65-3020a09a524c/'
+  - image: 'https://ucarecdn.com/929fcf45-3bed-407f-85c9-4ebcb622f22c/'
   - image: 'https://ucarecdn.com/20868650-faf6-4ce1-90f6-fd087712fc3e/'
 ---
 
