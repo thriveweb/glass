@@ -2,7 +2,7 @@
 template: ModelPage
 title: Patrick T
 featuredImage: >-
-  https://ucarecdn.com/8adb4c94-0a4e-4931-814f-3db9f6761b1f/-/crop/1690x1555/0,397/-/preview/
+  https://ucarecdn.com/8adb4c94-0a4e-4931-814f-3db9f6761b1f/-/crop/1690x1154/0,397/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d2bb3011-516a-4d1d-9455-4bb980af5e02/-/crop/615x866/558,120/-/preview/
 firstName: Patrick T
