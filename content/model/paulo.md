@@ -11,7 +11,7 @@ measurementType: chest
 bust: 99cm
 waist: 83cm
 hips: 105cm
-size: L
+size: L and 32
 shoeSize: '11 '
 hair: Brown
 eyes: Brown
