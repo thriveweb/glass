@@ -3,7 +3,7 @@ template: ModelPage
 title: Candice
 featuredImage: 'https://ucarecdn.com/2959dcbf-3fd9-4a82-92ef-79b0aa6281fe/'
 imageThumbnail: >-
-  https://ucarecdn.com/2ebab678-7a4f-4bf4-96e7-44852ca74cfd/-/crop/1121x1605/315,61/-/preview/
+  https://ucarecdn.com/2ebab678-7a4f-4bf4-96e7-44852ca74cfd/-/crop/1086x1544/330,56/-/preview/
 firstName: Candice
 collection: Classic
 measurementType: bust
