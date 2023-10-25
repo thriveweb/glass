@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Tanna family
+title: Tanna Tribe
 featuredImage: >-
   https://ucarecdn.com/a4d2c256-a379-4909-9306-fd6aaac859fb/-/crop/1581x1134/51,674/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2575cc70-a7c4-4a24-9823-48393cfc104a/-/crop/1441x2068/149,94/-/preview/
-firstName: Tanna Family
+firstName: Tanna Tribe
 collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/2aaf3bca-c9bd-490d-a0d5-857177eba51a/'
