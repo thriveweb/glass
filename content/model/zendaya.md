@@ -2,7 +2,7 @@
 template: ModelPage
 title: Zendaya
 featuredImage: >-
-  https://ucarecdn.com/12fae1dc-aecd-4695-82c8-d51d35c8570e/-/crop/1512x940/795,116/-/preview/
+  https://ucarecdn.com/8457612f-3874-4246-8eee-e551ea844c97/-/crop/1571x1028/61,775/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/ab3d8b0c-a18a-4e57-9357-88f4f99c6f53/-/crop/1778x2619/1835,99/-/preview/
 firstName: Zendaya
