@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Tanna family
-featuredImage: 'https://ucarecdn.com/d5b0375c-988f-49fb-abf5-9aa0ea33a281/'
+featuredImage: >-
+  https://ucarecdn.com/a4d2c256-a379-4909-9306-fd6aaac859fb/-/crop/1581x1134/51,674/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2575cc70-a7c4-4a24-9823-48393cfc104a/-/crop/1441x2068/149,94/-/preview/
 firstName: Tanna Family
