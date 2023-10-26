@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/67a84dfb-53f0-4021-8c72-f8203aa46857/-/crop/757x924/602,58/-/preview/
 firstName: Benjamin M
-collection: Emerging
+collection: ''
 height: 176cm
 measurementType: chest
 bust: 85cm
