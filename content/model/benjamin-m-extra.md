@@ -4,7 +4,7 @@ title: Benjamin M EXTRA
 featuredImage: 'https://ucarecdn.com/b834e56f-77d5-4bc5-b395-3ec82c53ab5c/'
 imageThumbnail: 'https://ucarecdn.com/c88c9b32-9f37-4cee-b15f-a31462a06d77/'
 firstName: Benjamin M EXTRA
-collection: Extras
+collection: ''
 height: 6'0
 measurementType: chest
 bust: 81cm
