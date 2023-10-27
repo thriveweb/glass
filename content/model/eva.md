@@ -9,11 +9,11 @@ firstName: Eva
 collection: Girls
 height: 132cm
 measurementType: bust
-bust: 59cm
-waist: 55cm
-hips: 68cm
-size: 9-10
-shoeSize: Euro 33
+bust: 60cm
+waist: 52cm
+hips: 65cm
+size: 8-10
+shoeSize: '3'
 imagePortfolio:
   - image: 'https://ucarecdn.com/25da4874-b1ba-4ef7-9bf9-7d0e34386151/'
   - image: 'https://ucarecdn.com/b9cb1795-a169-4cb8-8944-3a27e079e6fa/'
