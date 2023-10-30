@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jack
 featuredImage: >-
-  https://ucarecdn.com/2d68aa73-cc31-4f71-b78d-a02dc574fb51/-/crop/733x455/0,31/-/preview/
+  https://ucarecdn.com/2d68aa73-cc31-4f71-b78d-a02dc574fb51/-/crop/733x405/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/9535e728-a55b-4bac-84ed-f432ac1cbc50/'
 firstName: 'Jack '
 collection: Classic
