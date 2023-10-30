@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b627fa1e-de3b-4cb0-bd2e-be52af53cdad/-/crop/1316x1524/150,11/-/preview/
 firstName: Tomi
-collection: Boys
+collection: ''
 height: 129cm
 measurementType: chest
 bust: 63cm
