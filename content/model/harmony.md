@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f0980aa2-6a6b-4780-acd6-7e08c5d5c942/-/crop/666x887/91,0/-/preview/
 firstName: Harmony
-collection: Extras
+collection: Girls
 height: 132cm
 measurementType: bust
 bust: 61cm
