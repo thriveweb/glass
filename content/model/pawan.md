@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/25b6d8fc-2b87-481f-8923-02822e3300bc/-/crop/357x442/17,72/-/preview/
 firstName: Pawan
-collection: Extras
+collection: Emerging
 height: 163cm
 measurementType: bust
 bust: 34 inches
