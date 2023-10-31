@@ -4,7 +4,7 @@ title: Melinda
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/mel.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/mel1.jpg'
 firstName: Melinda
-collection: Extras
+collection: ''
 height: 169cm
 measurementType: bust
 bust: ''
