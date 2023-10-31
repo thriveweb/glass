@@ -4,8 +4,9 @@ title: Amelia C
 featuredImage: 'https://ucarecdn.com/8d545d80-8844-46d6-aae8-124a4aa62a31/'
 imageThumbnail: 'https://ucarecdn.com/85147eb3-77ab-4f1f-a795-4cf4012ca5d5/'
 firstName: Amelia C
-collection: Extras
+collection: Emerging
 height: 156cm
+measurementType: bust
 bust: 82cm
 waist: 69cm
 hips: 85cm
