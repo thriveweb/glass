@@ -7,7 +7,7 @@ featuredVideo: ''
 imageThumbnail: >-
   https://ucarecdn.com/d2fedc96-8379-40fd-bd72-e518ee02eae3/-/crop/351x383/51,11/-/preview/
 firstName: Kristall
-collection: Extras
+collection: Emerging
 height: 171.5cm
 measurementType: bust
 bust: 95cm
