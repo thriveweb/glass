@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b7cbb43c-8abc-408e-a476-30e26dd1b806/-/crop/1267x1789/215,0/-/preview/
 firstName: Roman
-collection: Extras
+collection: ''
 height: 130cm
 measurementType: chest
 bust: 68cm
