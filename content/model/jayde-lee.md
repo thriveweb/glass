@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/3404e1de-aea8-4aca-804a-1f3acbb78fd6/-/crop/4089x3963/0,1074/-/preview/
 imageThumbnail: 'https://ucarecdn.com/781d45f9-12fd-4ba2-83d3-cbfa0fe04d9a/'
 firstName: Jayde Lee
-collection: Extras
+collection: Emerging
 height: 156cm
 measurementType: bust
 bust: 78cm
