@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/eedf63b7-5872-4cff-8083-df9a9fe1f73b/-/crop/2436x574/13,87/-/preview/
 imageThumbnail: 'https://ucarecdn.com/25a73a7a-16da-460f-b17f-4183744130bd/'
 firstName: Renias
-collection: Extras
+collection: ''
 height: 178cm
 measurementType: chest
 bust: 93cm
