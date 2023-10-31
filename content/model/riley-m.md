@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/601839d7-428d-48c2-9e3f-08d6f5341ef9/-/crop/2298x1019/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/2296f093-9091-46c1-aa77-dac65b256280/'
 firstName: Riley M
-collection: Extras
+collection: ''
 height: 188cm
 measurementType: chest
 bust: 102cm
