@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Elizabeth EXTRA
+title: Ellie EXTRA
 featuredImage: 'https://ucarecdn.com/ab50514a-633a-4139-8656-b213d9c5ee3e/'
 imageThumbnail: >-
   https://ucarecdn.com/97ae592b-3fd1-45af-9639-7191a1b6b423/-/crop/843x1020/29,130/-/preview/
-firstName: Elizabeth EXTRA
+firstName: Ellie EXTRA
 collection: Extras
 height: 5'5
 measurementType: bust
