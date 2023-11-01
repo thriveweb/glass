@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/6cac239a-cc91-430b-ad76-c2ebc6869660/-/crop/1054x1550/254,26/-/preview/
 firstName: Taylah
-collection: Women
+collection: ''
 height: 173cm
 measurementType: bust
 bust: 80cm
