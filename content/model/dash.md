@@ -7,9 +7,9 @@ imageThumbnail: >-
   https://ucarecdn.com/72dfd478-3484-49af-a7a2-f0e92fcd2dc1/-/crop/713x815/176,128/-/preview/
 firstName: Dash
 collection: Boys
-height: 89cm
-size: 2-3
-shoeSize: 6-7
+height: 92cm
+size: 3-4
+shoeSize: 8-9
 imagePortfolio:
   - image: 'https://ucarecdn.com/3c57776a-81a9-4134-8180-7e1113422367/'
   - image: 'https://ucarecdn.com/e9c306a8-3a2a-44c7-b392-4834dd324aa3/'
