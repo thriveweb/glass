@@ -4,7 +4,7 @@ title: Tesh
 featuredImage: >-
   https://ucarecdn.com/297f1879-ee60-4135-86c8-30eb2887b9ad/-/crop/1800x1049/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b50c05e1-1cbf-4d7b-a365-e4f8119c9ff0/-/crop/1060x1421/305,190/-/preview/
+  https://ucarecdn.com/82ea1878-2915-4702-8315-5b34df825181/-/crop/566x766/117,38/-/preview/
 firstName: Tesh
 collection: Women
 height: 178cm
@@ -17,8 +17,8 @@ shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/66f0085b-2850-4003-a833-7d34e2956b78/'
   - image: 'https://ucarecdn.com/ffa4cf15-ddac-4314-b109-733a6f61252f/'
+  - image: 'https://ucarecdn.com/66f0085b-2850-4003-a833-7d34e2956b78/'
   - image: >-
       https://ucarecdn.com/29c2222a-2941-4cda-9133-3b2272cce94f/-/crop/2241x2943/0,418/-/preview/
   - image: 'https://ucarecdn.com/f835b1b9-6e16-439f-8e44-1a4a45029f8e/'
