@@ -2,8 +2,7 @@
 template: ModelPage
 title: Bass EXTRA
 featuredImage: 'https://ucarecdn.com/e5cf65f9-52df-4d0e-9ee2-c3a9e4357880/'
-imageThumbnail: >-
-  https://ucarecdn.com/38825c44-a624-4e90-a636-fccdbc722b90/-/crop/714x1055/19,45/-/preview/
+imageThumbnail: 'https://ucarecdn.com/28c7ed66-44aa-4276-a310-85967a0bf998/'
 firstName: Bass EXTRA
 collection: Extras
 height: 5'11
