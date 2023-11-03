@@ -2,8 +2,7 @@
 template: ModelPage
 title: Benjamin K EXTRA
 featuredImage: 'https://ucarecdn.com/8cbb3778-9f58-4cc2-9b12-38effbc9fa21/'
-imageThumbnail: >-
-  https://ucarecdn.com/64ff25a5-17d0-4d6e-90af-189de47ca666/-/crop/720x1050/13,50/-/preview/
+imageThumbnail: 'https://ucarecdn.com/1cea2b4f-3eee-4d61-bc3c-a80e87747ac7/'
 firstName: Benjamin K EXTRA
 collection: Extras
 height: 6'5
