@@ -2,8 +2,7 @@
 template: ModelPage
 title: Nicolette EXTRA
 featuredImage: 'https://ucarecdn.com/87b8181e-adb1-48f8-af8a-5c229bb4b12e/'
-imageThumbnail: >-
-  https://ucarecdn.com/cd5dec81-58a1-4851-8666-7164d4730076/-/crop/701x1081/32,19/-/preview/
+imageThumbnail: 'https://ucarecdn.com/c7d0d5a3-4eec-4fde-9be5-21eb1609ba72/'
 firstName: Nicolette EXTRA
 collection: Extras
 height: 5'5
