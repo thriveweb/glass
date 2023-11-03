@@ -2,8 +2,7 @@
 template: ModelPage
 title: Florence EXTRA
 featuredImage: 'https://ucarecdn.com/8b815146-4f05-4675-915c-dda5e6e290a8/'
-imageThumbnail: >-
-  https://ucarecdn.com/4e00d75c-94ca-450c-b905-793bb415c609/-/crop/733x1081/0,19/-/preview/
+imageThumbnail: 'https://ucarecdn.com/fba00851-de0c-4076-88b1-68502f2bd48e/'
 firstName: Florence EXTRA
 collection: Extras
 height: 5'6
