@@ -2,8 +2,7 @@
 template: ModelPage
 title: Anna EXTRA
 featuredImage: 'https://ucarecdn.com/0d4954e9-f5c3-484b-88b2-e7b229411474/'
-imageThumbnail: >-
-  https://ucarecdn.com/1fe3412e-e702-4fdc-ac40-d85e96074f8d/-/crop/703x1066/17,7/-/preview/
+imageThumbnail: 'https://ucarecdn.com/9a5feb0c-fe68-4549-b2df-013e269bd57f/'
 firstName: Anna EXTRA
 collection: Extras
 height: 5'6
