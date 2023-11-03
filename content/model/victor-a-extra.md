@@ -2,8 +2,7 @@
 template: ModelPage
 title: Victor A EXTRA
 featuredImage: 'https://ucarecdn.com/535de302-3f6f-46a7-b38c-5dc50461b0ad/'
-imageThumbnail: >-
-  https://ucarecdn.com/cfcf9902-b838-46e0-94db-c97d071d0cf0/-/crop/723x1062/10,38/-/preview/
+imageThumbnail: 'https://ucarecdn.com/7abcf21e-e980-4661-8300-14b5558effe7/'
 firstName: Victor A EXTRA
 collection: Extras
 height: 5'11
