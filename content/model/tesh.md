@@ -4,7 +4,7 @@ title: Tesh
 featuredImage: >-
   https://ucarecdn.com/297f1879-ee60-4135-86c8-30eb2887b9ad/-/crop/1800x1049/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/82ea1878-2915-4702-8315-5b34df825181/-/crop/566x766/117,38/-/preview/
+  https://ucarecdn.com/8fa8cdbb-af7b-4492-aea1-9e34f19ebb01/-/crop/625x851/156,142/-/preview/
 firstName: Tesh
 collection: Women
 height: 178cm
