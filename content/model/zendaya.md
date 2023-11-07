@@ -7,6 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/ab3d8b0c-a18a-4e57-9357-88f4f99c6f53/-/crop/1778x2619/1835,99/-/preview/
 firstName: Zendaya
 collection: Girls
+height: 108cm
+measurementType: bust
+bust: 56cm
+waist: 55cm
+hips: 57cm
 size: 4-5
 shoeSize: '10'
 hair: Blonde/Brown
