@@ -7,6 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/02afed82-340f-44dc-ad0d-261a54d8e3d6/-/crop/1265x1663/281,0/-/preview/
 firstName: Mahiya
 collection: Girls
+height: 128cm
+measurementType: bust
+bust: 63cm
+waist: 57cm
+hips: 66cm
 size: '8'
 shoeSize: '1'
 hair: Brown
