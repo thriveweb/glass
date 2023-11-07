@@ -6,7 +6,11 @@ imageThumbnail: >-
   https://ucarecdn.com/b74e6df6-dcd2-419d-aceb-2504cce6fca3/-/crop/967x1246/709,0/-/preview/
 firstName: Dai-Shaun
 collection: Boys
+height: 165cm
 measurementType: chest
+bust: 95cm
+waist: 85cm
+hips: 87cm
 size: M/32
 shoeSize: '10'
 hair: Brown
