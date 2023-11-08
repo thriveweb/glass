@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/64a0b9a9-5553-4def-8bd5-54fc89311f1f/-/crop/964x1240/429,288/-/preview/
 firstName: Danny Junior
-collection: Boys
+collection: ''
 height: 91cm
 measurementType: chest
 bust: 54cm
