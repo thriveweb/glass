@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/688e1202-f586-48ee-afad-18fdecf4e774/-/crop/2846x2898/1191,0/-/preview/
 firstName: Kade
-collection: Boys
+collection: ''
 height: 130cm
 measurementType: chest
 bust: 60cm
