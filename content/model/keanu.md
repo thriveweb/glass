@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/97152913-1db8-49e9-809a-9dec30ee1d1a/-/crop/4877x6319/587,204/-/preview/
 firstName: Keanu
-collection: Boys
+collection: ''
 height: 150cm
 measurementType: chest
 bust: 67cm
