@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/2b2ccb7d-dd5c-4f95-b623-9b6b57704395/-/crop/401x521/1195,316/-/preview/
 firstName: Valentina T
 collection: Girls
-height: 106cm
+height: 116cm
 measurementType: bust
 bust: 55cm
 waist: 53cm
