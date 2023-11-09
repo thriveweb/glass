@@ -18,6 +18,7 @@ eyes: Blue
 imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/brayden-16.jpg'
   - image: 'https://ucarecdn.com/fd18959c-1e47-40eb-88a3-c49b4b1771b6/'
+  - image: 'https://ucarecdn.com/7e94f168-af76-41b4-b137-b897718efc62/'
   - image: 'https://ucarecdn.com/d8e07025-0b37-4080-b12c-9c93babaa984/'
   - image: 'https://ucarecdn.com/b5944c0f-91f3-4782-a68c-ad96a7240f13/'
   - image: 'https://ucarecdn.com/a14c23b7-7b19-41d9-9bc4-65ad726fdd0c/'
