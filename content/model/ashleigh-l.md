@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Ashleigh L
-featuredImage: 'https://ucarecdn.com/47f03790-0c57-4116-ba0f-c31086970bb5/-/preview/'
+featuredImage: >-
+  https://ucarecdn.com/493f5f73-73cf-4b09-82c5-90413b20e0c0/-/crop/1170x605/0,21/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/5989bfb3-1931-4367-9cc0-5e3616ac0476/-/crop/2772x2899/1136,0/-/preview/
 firstName: Ashleigh L
