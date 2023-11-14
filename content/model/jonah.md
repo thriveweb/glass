@@ -17,6 +17,7 @@ shoeSize: US11
 imagePortfolio:
   - image: 'https://ucarecdn.com/b22e615d-d5d7-48c0-b609-2c9fd785389d/'
   - image: 'https://ucarecdn.com/8c917b8c-14c0-413a-b666-9fb044684c4a/'
+  - image: 'https://ucarecdn.com/0569022a-c542-4e71-9ae0-c9cf4670ec56/'
   - image: 'https://ucarecdn.com/baa2d3a5-a5b5-45a0-8cf8-f5241c598ff4/'
   - image: 'https://ucarecdn.com/1c854459-eff3-41dd-aba3-c8a50b0d3290/'
   - image: 'https://ucarecdn.com/8469c322-468d-4491-a8d9-3f77047b39a4/'
