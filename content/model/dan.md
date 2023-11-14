@@ -19,6 +19,7 @@ imagePortfolio:
   - image: >-
       https://ucarecdn.com/1d6943bd-e3ca-4523-b8a6-41666aab90ab/-/crop/745x500/417,0/-/preview/
   - image: 'https://ucarecdn.com/a8454ed1-648b-4cf8-a917-4f74dda278d7/'
+  - image: 'https://ucarecdn.com/d80459d3-fe72-4ff2-81ae-92417d33e2e2/'
   - image: 'https://ucarecdn.com/583e3ef6-96cc-44be-8b17-d9ba00c1d191/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/dan-the-man.jpg'
   - image: 'https://ucarecdn.com/a62e47e0-f15c-4643-abe9-e083e10ce43b/'
