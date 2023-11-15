@@ -3,15 +3,13 @@ template: ModelPage
 title: A Giltrap Family
 featuredImage: 'https://ucarecdn.com/c7a0557e-ddc0-45f3-aefa-fa2b8eb309ee/'
 imageThumbnail: >-
-  https://ucarecdn.com/10d35e54-27c3-4171-b98f-6d97624e4860/-/crop/776x908/119,255/-/preview/
+  https://ucarecdn.com/3084c99c-cd5f-41c8-b395-920e597be3fb/-/crop/1355x1432/114,841/-/preview/
 firstName: Giltrap Family
 collection: ''
 imagePortfolio:
-  - image: 'https://ucarecdn.com/82bb4d6e-52bf-4079-9baf-35a3dc46cf55/'
   - image: >-
       https://ucarecdn.com/420a4ea9-a5ec-41c4-8c41-fa205eb42eec/-/crop/1632x1911/0,538/-/preview/
   - image: 'https://ucarecdn.com/7308637d-e2da-47be-9b9a-27f933ef0dd1/'
-  - image: 'https://ucarecdn.com/77b22840-e3de-4458-90b5-ed5502c51673/'
   - image: >-
       https://ucarecdn.com/daccba45-9db3-42e6-8f5c-1993f58f4292/-/crop/1632x2023/0,426/-/preview/
   - image: 'https://ucarecdn.com/2ed902ea-cd96-4133-8cbb-8232c492e2e5/'
@@ -26,12 +24,11 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/e505ba49-61b4-4c98-9f3b-fd9cc8b27e4a/'
   - image: 'https://ucarecdn.com/2df8b46d-04a1-4f7f-b96d-86e8222d5aa1/'
   - image: 'https://ucarecdn.com/272404a3-3401-4a1b-af5d-de90a3bfe6e4/'
-  - image: 'https://ucarecdn.com/600e8e7b-737b-4526-9690-473483b6b275/'
   - image: 'https://ucarecdn.com/4134ee06-faa4-41c9-8fc4-1ddc6e5d9c80/'
   - image: 'https://ucarecdn.com/836b3be7-956e-4144-989e-b74e15e40bcc/'
-  - image: 'https://ucarecdn.com/a2be8dad-1c19-4d18-8cdd-a8aae1a439ab/'
   - image: 'https://ucarecdn.com/00e00aa7-678f-48d5-8d49-1ac8f03b6d3f/'
-  - image: 'https://ucarecdn.com/dc71b855-d366-485a-b34f-731ab6d0235e/'
-  - image: 'https://ucarecdn.com/649e2de5-319f-4ac9-b1c5-14f0161417e0/'
+  - image: 'https://ucarecdn.com/3614aeaa-70bb-4603-8e54-4f33dd3392eb/'
+  - image: 'https://ucarecdn.com/978f1a8a-f7f1-4aae-a94d-3600ff611b89/'
+  - image: 'https://ucarecdn.com/f58d8c03-049d-4245-9bd3-8a8cd55325d4/'
 ---
 
