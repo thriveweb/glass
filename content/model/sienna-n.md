@@ -9,8 +9,8 @@ collection: Emerging
 height: 173cm
 measurementType: bust
 bust: 84cm
-waist: 66cm
-hips: 91cm
+waist: 65cm
+hips: 92cm
 size: 6/8
 shoeSize: '8'
 hair: Brown
