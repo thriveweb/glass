@@ -9,9 +9,9 @@ firstName: Beni
 collection: Men
 height: 180cm
 measurementType: chest
-bust: 98cm
-waist: 79cm
-hips: 106cm
+bust: 100cm
+waist: 77cm
+hips: 100cm
 size: M/32
 shoeSize: '11'
 hair: Black
