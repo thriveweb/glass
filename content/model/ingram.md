@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/92680638-dce0-4967-870d-11c9d0e0bd50/'
 imageThumbnail: 'https://ucarecdn.com/4f5cca8b-62de-4e97-86f9-b619ef01c5f9/'
 firstName: 'Ingram '
 collection: Emerging
-height: 5'9 or 6
+height: '5''9 '
 measurementType: chest
 bust: '35'
 waist: '27'
