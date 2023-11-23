@@ -3,7 +3,8 @@ template: ModelPage
 title: Millie
 featuredImage: >-
   https://ucarecdn.com/21d1ba22-a861-4d9a-8f08-4db2ae0c5fef/-/crop/7602x4200/0,434/-/preview/
-imageThumbnail: 'https://ucarecdn.com/1fa62ae8-0c1f-4456-aa66-8da77f3b02a7/'
+imageThumbnail: >-
+  https://ucarecdn.com/29125011-16be-4820-aa69-33328a8619c4/-/crop/601x844/941,558/-/preview/
 firstName: Millie
 collection: Girls
 height: 152cm
