@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/40cdc323-9ecf-4c42-ab45-5b53c2b8ec18/-/crop/1003x1384/169,76/-/preview/
 firstName: Byron
 collection: Boys
-height: 115cm
+height: 121cm
 measurementType: chest
-bust: 51cm
-waist: 49cm
-hips: 56.5cm
-size: 5-6
-shoeSize: 12-13
+bust: 58cm
+waist: 55cm
+hips: 62cm
+size: '6'
+shoeSize: '13'
 hair: Brown
 eyes: Brown
 imagePortfolio:
