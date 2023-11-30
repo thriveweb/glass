@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/29125011-16be-4820-aa69-33328a8619c4/-/crop/601x844/941,558/-/preview/
 firstName: Millie
 collection: Girls
-height: 152cm
+height: 154cm
 measurementType: bust
-bust: 71cm
-waist: 57cm
-hips: 76cm
-size: 10-12
+bust: 69cm
+waist: 54cm
+hips: 74cm
+size: '10'
 shoeSize: '6'
 hair: Blonde
 eyes: Blue
