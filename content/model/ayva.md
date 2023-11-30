@@ -2,7 +2,7 @@
 template: ModelPage
 title: Ayva
 featuredImage: >-
-  https://ucarecdn.com/7fdb289a-028f-4a97-8d5c-161584c5a0ab/-/crop/2048x1108/0,0/-/preview/
+  https://ucarecdn.com/7fdb289a-028f-4a97-8d5c-161584c5a0ab/-/crop/2048x1029/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/7a1838bc-6427-48ae-ae7d-454fc4f915a7/-/crop/1075x1562/109,131/-/preview/
 firstName: Ayva
