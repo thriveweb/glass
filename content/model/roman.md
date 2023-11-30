@@ -13,7 +13,7 @@ bust: 68cm
 waist: 65cm
 hips: 69cm
 size: 8-10
-shoeSize: 4-5
+shoeSize: 5-6
 hair: Brown
 eyes: Brown
 imagePortfolio:
