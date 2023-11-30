@@ -2,7 +2,7 @@
 template: ModelPage
 title: Romayne
 featuredImage: >-
-  https://ucarecdn.com/5e3cbea8-e61a-4592-9192-00b0a2a3a26e/-/crop/2048x1242/0,17/-/preview/
+  https://ucarecdn.com/5e3cbea8-e61a-4592-9192-00b0a2a3a26e/-/crop/2048x1176/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/434f43a9-61df-47a6-b20c-a3c608d45ded/-/crop/1190x1706/96,68/-/preview/
 firstName: Romayne
