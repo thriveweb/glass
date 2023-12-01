@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Florence '
 featuredImage: >-
-  https://ucarecdn.com/04ca8372-3cde-452e-93ec-79bcdfec256c/-/crop/1716x1837/0,138/-/preview/
+  https://ucarecdn.com/04ca8372-3cde-452e-93ec-79bcdfec256c/-/crop/1716x1271/0,138/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/4b99785b-4bee-45fc-88ec-2c370a82ced9/-/crop/664x879/0,0/-/preview/
 firstName: Florence
