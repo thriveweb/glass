@@ -7,7 +7,15 @@ imageThumbnail: >-
   https://ucarecdn.com/d9ba7465-5e09-4624-9879-042652481ef1/-/crop/435x639/334,57/-/preview/
 firstName: Sabine
 collection: Classic
+height: 176cm
 measurementType: bust
+bust: 103cm
+waist: 80cm
+hips: 110cm
+size: '14'
+shoeSize: 10.5/11
+hair: Black
+eyes: Blue/Green
 imagePortfolio:
   - image: >-
       https://ucarecdn.com/be986792-1268-403d-a1d8-b81808af1aaf/-/crop/901x1247/0,0/-/preview/
