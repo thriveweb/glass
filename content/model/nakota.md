@@ -4,7 +4,7 @@ title: Nakota
 featuredImage: >-
   https://ucarecdn.com/262960cc-58fd-4b3b-beac-734253bec417/-/crop/1645x1057/5,11/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/d8714695-f049-414f-bace-9022e75dc16f/-/crop/527x716/705,41/-/preview/
+  https://ucarecdn.com/72f6013d-6dd1-48d5-a897-a19eb3fa4bc8/-/crop/370x495/168,43/-/preview/
 firstName: Nakota
 collection: Boys
 size: 2-3
