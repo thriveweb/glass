@@ -1,10 +1,9 @@
 ---
 template: ModelPage
 title: Nakota
-featuredImage: >-
-  https://ucarecdn.com/262960cc-58fd-4b3b-beac-734253bec417/-/crop/1645x1057/5,11/-/preview/
+featuredImage: 'https://ucarecdn.com/622bffd1-367c-43af-95a4-b71254efd20d/'
 imageThumbnail: >-
-  https://ucarecdn.com/72f6013d-6dd1-48d5-a897-a19eb3fa4bc8/-/crop/370x495/168,43/-/preview/
+  https://ucarecdn.com/9a59c772-e355-4435-9d45-9cf156dd59fa/-/crop/513x739/709,21/-/preview/
 firstName: Nakota
 collection: Boys
 size: 2-3
@@ -12,8 +11,7 @@ shoeSize: '8'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
-  - image: >-
-      https://ucarecdn.com/c3072119-4971-4211-b9e8-2d96fe1bcf70/-/crop/1379x1092/271,0/-/preview/
+  - image: 'https://ucarecdn.com/6fbd98f8-8cf3-431c-9ee2-f8c516152aeb/'
   - image: 'https://ucarecdn.com/e7e9eb92-74a8-4613-b963-673b37643dba/'
   - image: 'https://ucarecdn.com/904ed936-5cbc-4b9c-8f9c-5f209a5fbd63/'
   - image: 'https://ucarecdn.com/23727a3c-5bca-41ba-be0f-bd13904b0a58/'
