@@ -2,7 +2,7 @@
 template: ModelPage
 title: Hugo G
 featuredImage: >-
-  https://ucarecdn.com/aabc257f-e6b6-4046-bc67-d4931bbe3b8d/-/crop/1788x1521/0,0/-/preview/
+  https://ucarecdn.com/d69c9430-9218-436c-8fde-f90334ba10ef/-/crop/1650x992/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/53c9b2a1-74f9-46a7-95cd-44a40d2fceec/-/crop/577x888/63,39/-/preview/
 firstName: Hugo G
