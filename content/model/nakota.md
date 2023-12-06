@@ -2,7 +2,7 @@
 template: ModelPage
 title: Nakota
 featuredImage: >-
-  https://ucarecdn.com/c044af54-4aff-4dd5-a391-264ef2da1b3d/-/crop/1650x888/0,0/-/preview/
+  https://ucarecdn.com/262960cc-58fd-4b3b-beac-734253bec417/-/crop/1645x1057/5,11/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d8714695-f049-414f-bace-9022e75dc16f/-/crop/527x716/705,41/-/preview/
 firstName: Nakota
