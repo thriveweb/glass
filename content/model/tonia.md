@@ -42,12 +42,9 @@ imagePortfolio:
   - image: 'https://glassmanagement.imgix.net/images/uploads/pp_1298.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia-joe71328.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia1.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/tonia-co.-15-of-31-.jpg'
   - image: 'https://glassmanagement.imgix.net/images/uploads/tonia-joe25463789.jpg'
-  - image: 'https://glassmanagement.imgix.net/images/uploads/tonia-co.-18-of-31-.jpg'
   - image: 'https://ucarecdn.com/3c65e173-bc77-44c4-a29b-f7261ee115e7/'
   - image: 'https://ucarecdn.com/e193f8c3-b22d-4434-9c32-3b0d36da9129/'
-  - image: 'https://ucarecdn.com/148d1430-5f97-4b9e-b09b-4dc859984850/'
   - image: 'https://ucarecdn.com/85f20882-793c-4b88-abcf-065bf6b77d6d/'
 meta:
   title: Tonia
