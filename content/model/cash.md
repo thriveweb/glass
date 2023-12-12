@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/cde7a828-52cc-4f95-9d80-ce9cf373917a/-/crop/1152x1850/1066,937/-/preview/
 firstName: Cash
 collection: Emerging
-height: 175cm
+height: 180cm
 measurementType: chest
 bust: 86cm
 waist: 70cm
 hips: 90cm
 size: Small/30 pant
-shoeSize: '10.5'
+shoeSize: '11'
 hair: Blonde/Light brown
 eyes: Blue
 imagePortfolio:
