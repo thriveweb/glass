@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Charli
+title: Charli A
 featuredImage: >-
   https://ucarecdn.com/07e4bae1-f863-4725-bfe9-db3f563ab360/-/crop/1633x1031/0,331/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/e22806c3-5581-446c-bbbf-52eeab34d0dc/-/crop/1396x1907/139,48/-/preview/
-firstName: Charli
+firstName: Charli A
 collection: Emerging
 height: 168cm
 measurementType: bust
