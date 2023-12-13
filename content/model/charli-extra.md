@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Charli EXTRA
+title: Charli A EXTRA
 featuredImage: 'https://ucarecdn.com/7ff87191-f4b2-4bb7-8562-cbcb77e0fa29/'
 imageThumbnail: >-
   https://ucarecdn.com/6ce9f53a-97cf-4541-a75c-1e9e4defedad/-/crop/1455x1713/118,590/-/preview/
-firstName: Charli EXTRA
+firstName: Charli A EXTRA
 collection: Extras
 height: 168cm
 measurementType: bust
