@@ -4,7 +4,7 @@ title: Charli
 featuredImage: >-
   https://ucarecdn.com/24abaae6-395e-4b30-a3c8-e4c58936b35f/-/crop/5464x2788/0,1651/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/994ca0b6-6001-47dd-aca5-a950e0ee41fd/-/crop/1175x1590/60,0/-/preview/
+  https://ucarecdn.com/994ca0b6-6001-47dd-aca5-a950e0ee41fd/-/crop/1123x1590/65,0/-/preview/
 firstName: Charli
 collection: Women
 height: 170cm
