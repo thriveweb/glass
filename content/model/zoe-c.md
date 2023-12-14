@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f71b162a-a09f-47e5-8ef1-2621f9762aaf/-/crop/1632x2102/0,0/-/preview/
 firstName: Zoe C
-collection: Girls
+collection: Emerging
 height: 160cm
 measurementType: bust
 bust: 77cm
