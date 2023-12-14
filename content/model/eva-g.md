@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/fdf02493-436e-4e4d-a940-cb490d40d879/-/crop/370x413/0,0/-/preview/
 firstName: Eva G
-collection: Emerging
+collection: ''
 height: 154cm
 measurementType: bust
 bust: 77.5cm
