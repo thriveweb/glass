@@ -2,7 +2,7 @@
 template: ModelPage
 title: Koa C
 featuredImage: >-
-  https://ucarecdn.com/642d1452-e99f-4c1a-bd44-8be057c8d3ee/-/crop/1632x1142/0,55/-/preview/
+  https://ucarecdn.com/559100ea-2964-4a22-ae15-3b59f613f12b/-/crop/1450x999/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/766f8231-c8db-4f55-b41b-2fbea2cee6a5/-/crop/904x1020/373,134/-/preview/
 firstName: Koa C
