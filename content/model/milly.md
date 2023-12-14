@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/4c0cdaab-7344-47cc-a8b4-21aa4377afb5/-/crop/1043x1424/301,0/-/preview/
 firstName: Milly
-collection: Girls
+collection: Emerging
 height: 161cm
 measurementType: bust
 bust: 69cm
