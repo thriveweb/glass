@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/1e277068-7652-4818-94c6-0c716a7afd27/-/crop/2555x3450/1268,0/-/preview/
 firstName: India
-collection: Emerging
+collection: ''
 height: 164cm
 measurementType: bust
 bust: 70cm
