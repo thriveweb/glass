@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/5f72a58c-849c-4dd2-bc45-7d9c16372033/-/crop/981x564/0,259/-/preview/
 imageThumbnail: 'https://ucarecdn.com/5b9aa671-d118-4345-8de8-a9218807d181/'
 firstName: Remi
-collection: Girls
+collection: ''
 height: 106cm
 size: '3'
 shoeSize: '8'
