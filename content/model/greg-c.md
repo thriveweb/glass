@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/8b8ad678-03eb-4e62-8919-6583d38c80eb/-/crop/1596x1039/36,156/-/preview/
 imageThumbnail: 'https://ucarecdn.com/60b3a435-4c01-467c-a235-e811fae68245/'
 firstName: Greg C
-collection: Emerging
+collection: ''
 height: 190cm
 measurementType: chest
 bust: 100cm
