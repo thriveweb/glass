@@ -4,7 +4,7 @@ title: Mila
 featuredImage: 'https://ucarecdn.com/f1a30f23-e034-4802-ac18-a02fa364f767/'
 imageThumbnail: 'https://ucarecdn.com/6beb037e-e3d7-4d20-8c3d-719de71c3fd3/'
 firstName: 'Mila '
-collection: Girls
+collection: ''
 height: 94cm
 measurementType: bust
 bust: 56cm
