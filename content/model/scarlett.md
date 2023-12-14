@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/5abd9c55-e828-4fdc-9d61-a26b81bd5001/'
 imageThumbnail: >-
   https://ucarecdn.com/b31563c6-12e0-4f69-ad7c-3e0d5a4952e4/-/crop/476x801/157,9/-/preview/
 firstName: Scarlett Q
-collection: Emerging
+collection: ''
 height: 160cm
 measurementType: bust
 bust: 81cm
