@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/0d5fadfa-ec03-44b2-94eb-af6c87ed84fc/-/crop/3516x4511/0,0/-/preview/
 firstName: Leelah
-collection: Emerging
+collection: ''
 height: 163cm
 measurementType: bust
 bust: 82cm
