@@ -4,7 +4,7 @@ title: Lexi
 featuredImage: 'https://ucarecdn.com/99b642c3-2932-46dc-bb49-b6c1b7dd1ba4/'
 imageThumbnail: 'https://ucarecdn.com/6bd87785-bba6-45ef-94a1-9a084b3b79d7/'
 firstName: Lexi
-collection: Girls
+collection: ''
 height: 142cm
 measurementType: bust
 bust: 61cm
