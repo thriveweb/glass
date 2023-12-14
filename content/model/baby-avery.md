@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/88a18668-f2d8-4a26-8b0b-075bd8390117/-/crop/596x845/770,1223/-/preview/
 firstName: Avery
-collection: Boys
+collection: ''
 height: 111cm
 measurementType: chest
 bust: 52cm
