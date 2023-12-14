@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/bc8a84b2-58fc-48ee-a67c-b534cb8dee32/'
 imageThumbnail: >-
   https://ucarecdn.com/5c50e227-0835-41af-9732-5886bb7623ef/-/crop/1067x1434/0,0/-/preview/
 firstName: Mia
-collection: Emerging
+collection: ''
 height: 174cm
 measurementType: bust
 bust: 83cm
