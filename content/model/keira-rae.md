@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/4d9eca8f-763f-4e3c-a4fc-b78d4e7a9c04/-/crop/1602x1899/0,0/-/preview/
 firstName: Keira-Rae
-collection: Girls
+collection: ''
 height: 118cm
 measurementType: bust
 bust: 58cm
