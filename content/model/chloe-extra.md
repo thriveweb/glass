@@ -6,6 +6,15 @@ imageThumbnail: >-
   https://ucarecdn.com/c11da59f-3834-4ae5-87c2-fa01a14455ee/-/crop/1515x1825/175,484/-/preview/
 firstName: Chloe EXTRA
 collection: Extras
+height: 170cm
+measurementType: bust
+bust: 79cm
+waist: 60cm
+hips: 84cm
+size: '6'
+shoeSize: '8'
+hair: Light Brown
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/8f68c54f-4eb7-4f4c-8b91-50c09ebddcbe/-/preview/'
   - image: >-
