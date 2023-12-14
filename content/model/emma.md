@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/9f068fbb-ab90-49d8-bd5f-5c9e68194001/-/crop/995x1333/341,221/-/preview/
 firstName: Emma K
-collection: Classic
+collection: ''
 height: 165cm
 measurementType: bust
 bust: '34'
