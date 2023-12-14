@@ -16,5 +16,9 @@ shoeSize: 9-10
 imagePortfolio:
   - image: 'https://ucarecdn.com/96f7dde7-9e77-40a9-bf6f-071cd9ec9532/'
   - image: 'https://ucarecdn.com/73ba6e4d-e052-49c3-96e3-053f2ef2e10c/'
+  - image: >-
+      https://ucarecdn.com/5085bc99-605b-4f3c-ae78-f1671bdc1321/-/preview/-/rotate/90/
+  - image: >-
+      https://ucarecdn.com/b4d533e2-c7ef-4d0a-9703-4162a7a42322/-/preview/-/rotate/90/
 ---
 
