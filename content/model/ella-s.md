@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/bcbac518-ec94-4b66-a76b-dddcf0625da0/'
 imageThumbnail: >-
   https://ucarecdn.com/311f1c57-abce-4fbf-a578-19fad6decc56/-/crop/696x988/286,252/-/preview/
 firstName: Ella S
-collection: Emerging
+collection: ''
 height: 172cm
 measurementType: bust
 bust: 86cm
