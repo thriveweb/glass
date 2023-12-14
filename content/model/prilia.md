@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/85006d02-e43c-4b0d-bc1b-eebc84cf7993/-/crop/512x713/74,0/-/preview/
 firstName: Prilia
-collection: Emerging
+collection: ''
 height: 142cm
 measurementType: bust
 bust: 65cm
