@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/5c6be24d-89d2-4d4a-a664-4e700b86299b/'
 imageThumbnail: >-
   https://ucarecdn.com/f3c22179-90a1-4213-af08-7cf209cc3b8d/-/crop/669x749/109,0/-/preview/
 firstName: Kamryn
-collection: Emerging
+collection: ''
 height: 163cm
 measurementType: bust
 bust: 70cm
