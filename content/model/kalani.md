@@ -2,7 +2,7 @@
 template: ModelPage
 title: Kalani
 featuredImage: >-
-  https://ucarecdn.com/e14a8f4b-9d9c-4997-ac1b-57a35efb630a/-/crop/1632x1167/0,464/-/preview/
+  https://ucarecdn.com/ef282a4d-83c9-4abb-bf2c-d8c337754624/-/crop/1450x1014/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/80ae8702-c90e-42c3-a15a-f64d9e0cb713/-/crop/880x1215/422,220/-/preview/
 firstName: Kalani
