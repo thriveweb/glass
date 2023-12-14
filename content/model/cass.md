@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/48b3cbd7-a2ef-4393-81ca-07ee3c0402b1/-/crop/698x904/186,0/-/preview/
 firstName: Cass
-collection: Emerging
+collection: ''
 height: 178cm
 measurementType: bust
 bust: 79cm
