@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/900ab928-452a-4281-8343-257f74658987/-/crop/1175x1477/113,0/-/preview/
 firstName: Evie F
 collection: Girls
-height: 156cm
+height: 160cm
 measurementType: bust
 bust: 69cm
 waist: 61cm
