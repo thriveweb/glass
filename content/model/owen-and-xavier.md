@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/ec06164a-c69a-491d-8673-b77eb64421fc/-/crop/1138x651/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/890b58e8-b3bb-41a3-9516-2916c60746f0/'
 firstName: Owen and Xavier
-collection: Boys
+collection: ''
 height: 85cm
 size: 2/3
 shoeSize: US8
