@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/2525c444-b0bc-4891-b941-714d9e5d87e1/-/crop/702x917/289,106/-/preview/
 firstName: Amanda B
-collection: Classic
+collection: ''
 height: 170cm
 measurementType: bust
 bust: 86cm
