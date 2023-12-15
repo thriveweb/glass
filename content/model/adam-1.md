@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/ed5faf1b-e8a1-4105-8d86-f882b6db940a/-/crop/509x757/529,150/-/preview/
 firstName: Adam W
-collection: Men
+collection: Classic
 height: 183cm
 measurementType: chest
 bust: 91cm
