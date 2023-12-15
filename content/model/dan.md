@@ -1,9 +1,10 @@
 ---
 template: ModelPage
-title: Dan
+title: B Dan
 featuredImage: >-
   https://ucarecdn.com/846a39a7-c101-4284-8053-db6da24b1280/-/crop/1600x446/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/67fd6f94-394a-47e1-b315-63445d772588/'
+imageThumbnail: >-
+  https://ucarecdn.com/67fd6f94-394a-47e1-b315-63445d772588/-/crop/605x901/100,33/-/preview/
 firstName: Dan
 collection: Men
 height: 179cm
