@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/bdd065e7-70d8-42d1-869e-c24e209ddf20/-/crop/663x630/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/30f461a5-5891-47a1-bad2-35859f609b58/'
 firstName: Dane P
-collection: Men
+collection: ''
 height: 181cm
 measurementType: chest
 bust: 108cm
