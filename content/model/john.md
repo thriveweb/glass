@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/e602bb5b-f2bc-4a85-8e1f-2870b528ac13/-/crop/3648x4956/0,0/-/preview/
 firstName: John
-collection: Men
+collection: Classic
 height: 165cm
 measurementType: chest
 bust: 99cm
