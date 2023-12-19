@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Gabriel
+title: Gabriel C
 featuredImage: >-
   https://ucarecdn.com/28341542-4cba-4010-919e-45bad1634846/-/crop/1632x879/0,721/-/preview/
 imageThumbnail: >-
