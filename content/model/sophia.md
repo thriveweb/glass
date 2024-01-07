@@ -13,7 +13,7 @@ bust: 61cm
 waist: 53cm
 hips: 67cm
 size: '10'
-shoeSize: '3'
+shoeSize: '6'
 hair: Dark Brown
 eyes: Dark Brown
 imagePortfolio:
