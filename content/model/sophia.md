@@ -9,10 +9,10 @@ firstName: Sophia
 collection: Girls
 height: 141cm
 measurementType: bust
-bust: 61cm
-waist: 53cm
-hips: 67cm
-size: '10'
+bust: 70cm
+waist: 59cm
+hips: 73cm
+size: 10-12
 shoeSize: '6'
 hair: Dark Brown
 eyes: Dark Brown
