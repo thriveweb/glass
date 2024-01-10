@@ -2,34 +2,33 @@
 template: ModelPage
 title: Miley
 featuredImage: >-
-  https://ucarecdn.com/e5f2ffad-bf67-4036-a207-59248894be0e/-/crop/8192x3819/0,436/-/preview/
+  https://ucarecdn.com/f017f00b-2d6e-4fb1-bb24-ca421f849bc9/-/crop/2449x1486/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/8fd4a19f-e3ee-43b8-837a-40650fb8fc41/-/crop/5140x6430/324,0/-/preview/
+  https://ucarecdn.com/8d8f6110-f411-425a-93e8-5bb64aff99d0/-/crop/832x1065/361,26/-/preview/
 firstName: Miley
 collection: Emerging
-height: 161cm
+height: 163cm
 measurementType: bust
-bust: 81cm
-waist: 60cm
-hips: 90cm
-size: Women's 8
-shoeSize: '7'
+bust: 86cm
+waist: 63cm
+hips: 98cm
+size: 8-10
+shoeSize: '8'
 hair: Brown
 eyes: Green
 imagePortfolio:
+  - image: >-
+      https://ucarecdn.com/c709ce39-7f22-4621-9c93-a0c2bcd48f99/-/crop/2112x1632/337,0/-/preview/
+  - image: 'https://ucarecdn.com/d1743b9f-47d7-4c50-9b3f-318bb70cba3f/'
+  - image: 'https://ucarecdn.com/e0c8c9bc-2a4c-4d96-b05e-4f4688d47a92/'
+  - image: 'https://ucarecdn.com/78f6313f-f99d-42e7-8e34-076317dbfb39/'
+  - image: 'https://ucarecdn.com/ce0f0b42-f2e7-474c-a93e-a188940d2ae5/'
+  - image: 'https://ucarecdn.com/12c7dd2c-f997-4d4d-8488-2a2037cd8696/'
+  - image: 'https://ucarecdn.com/62429408-7b4b-44de-9160-81eebc7f6733/'
+  - image: 'https://ucarecdn.com/decbde9d-d100-4a71-b72a-54406e6065df/'
   - image: 'https://ucarecdn.com/0fd4e6e5-7d2f-4c33-bb02-eb89b18c22ac/'
-  - image: 'https://ucarecdn.com/f327c750-190e-445d-8074-92c9bed1a50d/'
-  - image: 'https://ucarecdn.com/43f1be68-e80f-4145-bfc3-39d152982c26/'
   - image: 'https://ucarecdn.com/9a8294ee-7332-4263-bc03-4b74439495b2/'
-  - image: 'https://ucarecdn.com/13e2c42d-ec5a-4955-9a48-3daddcb88f1e/'
-  - image: 'https://ucarecdn.com/49cd43cb-29e5-4408-bce5-fcd4f31bd587/'
-  - image: 'https://ucarecdn.com/ee226a9d-ba72-4ddf-a17e-06ea0173ecb4/'
-  - image: 'https://ucarecdn.com/1bb63f42-3a5e-4a20-92fb-a1ef4aea943a/'
+  - image: 'https://ucarecdn.com/43f1be68-e80f-4145-bfc3-39d152982c26/'
   - image: 'https://ucarecdn.com/ce4dc562-4e94-4361-92c7-c86c5fc7d571/'
-  - image: 'https://ucarecdn.com/7bc44bec-808a-481c-8ca7-4e777289e219/'
-  - image: 'https://ucarecdn.com/a1136205-a7d4-402c-9502-17b0d235902d/'
-  - image: 'https://ucarecdn.com/20022ff6-bd5c-42ba-aeb4-c27a8fac0e26/'
-  - image: 'https://ucarecdn.com/1e5bf4f9-9a82-4fba-a7bf-96ee818c3f25/'
-  - image: 'https://ucarecdn.com/98f8b0e3-9661-403e-bdd9-1bdc232e39a9/'
 ---
 
