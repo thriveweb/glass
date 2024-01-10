@@ -4,7 +4,7 @@ title: Uchechi
 featuredImage: >-
   https://ucarecdn.com/e0607ce4-b427-4f02-a594-c9c199ab585e/-/crop/540x267/461,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b93d137c-a013-419a-9f81-c2c5862e791e/-/crop/3203x3789/638,761/-/preview/
+  https://ucarecdn.com/3a662c61-82af-4f38-945c-b1b23359ce3f/-/crop/1352x1877/140,312/-/preview/
 firstName: Uchechi
 collection: Classic
 height: 172cm
@@ -17,14 +17,21 @@ shoeSize: '41'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/4e48395f-c779-4d46-b930-1e40eef5e05e/'
+  - image: >-
+      https://ucarecdn.com/5259615f-88c6-4443-a02d-52d8e672a146/-/crop/1632x2111/0,338/-/preview/
   - image: 'https://ucarecdn.com/17db735b-25c5-4b32-8f12-dd06d6e43bea/'
-  - image: 'https://ucarecdn.com/e5134b56-f508-4fa9-8b32-c347b7546de2/'
-  - image: 'https://ucarecdn.com/8bd96cb8-87ef-4f5a-b808-344b39647156/'
   - image: 'https://ucarecdn.com/ff15a5d8-c341-49c6-9ebf-254cfb93588b/'
-  - image: 'https://ucarecdn.com/cd58eb5a-cddd-40af-96b8-29fbf58847c8/'
+  - image: 'https://ucarecdn.com/dc894822-d0fc-4fc5-b237-fedc4ae8c4b7/'
+  - image: >-
+      https://ucarecdn.com/e5134b56-f508-4fa9-8b32-c347b7546de2/-/crop/1632x2170/0,279/-/preview/
+  - image: 'https://ucarecdn.com/8bd96cb8-87ef-4f5a-b808-344b39647156/'
+  - image: >-
+      https://ucarecdn.com/b2581e93-875f-4e32-b053-3baa0a07661f/-/crop/1596x2176/0,273/-/preview/
+  - image: >-
+      https://ucarecdn.com/4e48395f-c779-4d46-b930-1e40eef5e05e/-/crop/4318x5550/0,810/-/preview/
   - image: 'https://ucarecdn.com/98c7b4f2-bf63-45c9-8d86-58ec44aaa964/'
   - image: 'https://ucarecdn.com/4e5c4ab8-78a2-484a-a8da-107c7eedf6ee/'
+  - image: 'https://ucarecdn.com/cd58eb5a-cddd-40af-96b8-29fbf58847c8/'
   - image: 'https://ucarecdn.com/24e908c9-a471-4b30-a377-8188e2387baa/'
   - image: 'https://ucarecdn.com/cfdb6a77-b4be-44d8-b4a3-3f82c460693f/'
   - image: 'https://ucarecdn.com/2c70df31-9a97-4011-a4d1-6bea7af651da/'
