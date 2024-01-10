@@ -28,10 +28,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0351981d-bc33-42d8-bd4c-ea6655891c0b/'
   - image: 'https://ucarecdn.com/e8b4e6ef-b1ce-4137-9f28-3ed2c5089268/'
   - image: 'https://ucarecdn.com/1769dfeb-6c9d-4f01-82d0-3aa5f8456670/'
-  - image: 'https://ucarecdn.com/c6ef3fc2-c1af-4fc2-91f3-385cd02cad7f/'
-  - image: 'https://ucarecdn.com/688b4aad-ffe5-4c44-b6b7-0e40716a3dfa/'
-  - image: 'https://ucarecdn.com/040122db-7764-494e-87db-df55ea7a0ba1/'
-  - image: 'https://ucarecdn.com/04b74be4-e41c-4124-9080-58c2de4c6864/'
 meta:
   title: Gabby P
 ---
