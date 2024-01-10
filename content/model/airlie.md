@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/cb285892-575d-465d-980a-42b270cf095f/-/crop/1332x1796/2009,9/-/preview/
 firstName: Airlie
 collection: Girls
-height: 140cm
+height: 147cm
 measurementType: bust
-bust: 67cm
-waist: 57cm
-hips: 69cm
-size: 10-12
-shoeSize: '4'
+bust: 68cm
+waist: 64cm
+hips: 73cm
+size: '10'
+shoeSize: 4-5
 hair: Blonde
 eyes: Blue
 imagePortfolio:
