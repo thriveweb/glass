@@ -2,7 +2,7 @@
 template: ModelPage
 title: Charli A
 featuredImage: >-
-  https://ucarecdn.com/07e4bae1-f863-4725-bfe9-db3f563ab360/-/crop/1633x1031/0,331/-/preview/
+  https://ucarecdn.com/d3913c29-c04d-450f-b0cf-68a7f0acba66/-/crop/1633x1058/0,350/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/e22806c3-5581-446c-bbbf-52eeab34d0dc/-/crop/1396x1907/139,48/-/preview/
 firstName: Charli A
