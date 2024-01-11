@@ -2,7 +2,7 @@
 template: ModelPage
 title: Axel
 featuredImage: >-
-  https://ucarecdn.com/0ae060c8-50ee-43ed-a524-5d46a4597ce3/-/crop/1170x638/0,93/-/preview/
+  https://ucarecdn.com/0ae060c8-50ee-43ed-a524-5d46a4597ce3/-/crop/1170x571/0,120/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d82cbd6d-a225-48ff-ada3-d7a77b0ec2f9/-/crop/532x705/295,173/-/preview/
 firstName: Axel
