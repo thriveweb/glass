@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Hill Siblings
-featuredImage: >-
-  https://ucarecdn.com/e0446582-0a28-400d-a550-adc4b80f5dc6/-/crop/1170x824/0,41/-/preview/
+featuredImage: 'https://ucarecdn.com/5a737c99-9a82-4db1-84f7-520dcc2f03af/'
 imageThumbnail: >-
   https://ucarecdn.com/d8a85a27-a7b5-4d6e-8b9e-f5131b4c9d79/-/crop/960x1305/120,0/-/preview/
 firstName: Hill Siblings
