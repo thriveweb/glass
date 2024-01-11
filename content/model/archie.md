@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Archie
+title: Archie W
 featuredImage: 'https://ucarecdn.com/a5f0e130-a4d7-40c2-ad6b-3c0ddad16d4e/'
 imageThumbnail: 'https://ucarecdn.com/8853e6ef-a614-49e2-a2f8-be95ace12373/'
-firstName: Archie
+firstName: Archie W
 collection: Global
 height: 126cm
 measurementType: chest
