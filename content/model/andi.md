@@ -2,7 +2,7 @@
 template: ModelPage
 title: Andi
 featuredImage: >-
-  https://ucarecdn.com/29891e68-f8e5-46c9-9734-542873e3b854/-/crop/1170x482/0,218/-/preview/
+  https://ucarecdn.com/29891e68-f8e5-46c9-9734-542873e3b854/-/crop/1170x482/0,247/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d09aaf9b-71b1-49d3-933f-c88bcd039b11/-/crop/774x1115/196,31/-/preview/
 firstName: Andi
