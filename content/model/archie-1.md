@@ -2,7 +2,7 @@
 template: ModelPage
 title: Archie
 featuredImage: >-
-  https://ucarecdn.com/bd641dc2-b142-400b-ab56-358ab035d532/-/crop/1170x672/0,71/-/preview/
+  https://ucarecdn.com/bd641dc2-b142-400b-ab56-358ab035d532/-/crop/1170x672/0,53/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/609e135f-c7ee-4899-9cec-c02dd2050783/-/crop/527x745/304,64/-/preview/
 firstName: Archie
