@@ -9,9 +9,9 @@ firstName: Uchechi
 collection: Classic
 height: 172cm
 measurementType: bust
-bust: 129cm
-waist: 107cm
-hips: 136cm
+bust: 114cm
+waist: 99cm
+hips: 127cm
 size: 16-18
 shoeSize: '41'
 hair: Black
