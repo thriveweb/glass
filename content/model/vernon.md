@@ -9,10 +9,10 @@ firstName: Vernon
 collection: Men
 height: 178cm
 measurementType: chest
-bust: 101cm
-waist: 79cm
-hips: 83cm
-size: 'Shirt: Medium Pants: 34'
+bust: '104cm '
+waist: '80cm '
+hips: 104cm
+size: 'Shirt: Large Pants: 32-34'
 shoeSize: 11.5 US
 hair: 'Black '
 eyes: Brown
