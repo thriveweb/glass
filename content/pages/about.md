@@ -96,20 +96,11 @@ teamMembers:
       As well as this, Tyra ensures all of our systems are up to date, and our
       website is uploaded daily.
   - leftAlign: true
-    title: Sabina
+    title: Sienna
     image: >-
-      https://ucarecdn.com/6eb13e3e-6742-4369-9ef7-671e827d280d/-/crop/1180x1369/214,32/-/preview/
-    content: >-
-      Meet Sabina
-
-
-      Sabina runs Glass Management's social media accounts on Instagram and
-      Facebook.
-
-
-      She strongly believes and focuses on ensuring all of our Talent are
-      celebrated and feel the love.
-    subTitle: Social Media Manager
+      https://ucarecdn.com/1a005fbd-4d4d-441d-bfaf-e8e97149a730/-/crop/414x538/6,0/-/preview/
+    content: "Meet Sienna\n\nS\uFEFFienna focuses on updating our systems and talents details and profiles.  \n\nA\uFEFFs well as this, she assists in our Kid's Acting and Modelling classes."
+    subTitle: Trainee
 services:
   content: >-
     Glass Management supplies professional talent for Feature Films, TV
