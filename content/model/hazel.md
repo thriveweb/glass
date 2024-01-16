@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/0c7a03cc-7643-4aef-9ac4-cca25f0cf910/-/crop/2890x3990/1105,387/-/preview/
 firstName: Hazel
 collection: Girls
-height: 133cm
+height: 135cm
 measurementType: bust
 bust: 59cm
 waist: 56cm
