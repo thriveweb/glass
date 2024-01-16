@@ -10,7 +10,7 @@ measurementType: bust
 bust: 51cm
 waist: 51cm
 hips: 52cm
-size: 18 Months
+size: 2-3
 shoeSize: 6/7
 imagePortfolio:
   - image: 'https://ucarecdn.com/91b083f7-eee8-4e6d-b8a3-55f66c7f8c14/'
