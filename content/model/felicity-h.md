@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/f4dcd518-3fb4-43b3-b0c4-c2219d2f59d2/'
 imageThumbnail: >-
   https://ucarecdn.com/19676776-ad37-4609-b8cb-a2534a12e441/-/crop/436x544/357,0/-/preview/
 firstName: Felicity H
-collection: Women
+collection: ''
 height: 173cm
 measurementType: bust
 bust: 85cm
