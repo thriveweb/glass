@@ -8,11 +8,11 @@ firstName: Felicity H
 collection: Women
 height: 173cm
 measurementType: bust
-bust: 85cm
+bust: 88cm
 waist: 73cm
-hips: 97cm
-size: 10-12
-shoeSize: '9'
+hips: '103'
+size: '10'
+shoeSize: 9-10
 hair: Red
 eyes: Blue
 imagePortfolio:
