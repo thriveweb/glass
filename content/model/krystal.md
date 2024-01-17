@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/cfeee17d-ab0d-4650-bf09-0d72cf5ec2d2/'
 imageThumbnail: >-
   https://ucarecdn.com/3dee28c0-b581-49a6-aa7b-5a1ddfcc3b6f/-/crop/3673x4434/97,577/-/preview/
 firstName: Krystal
-collection: ''
+collection: Girls
 height: 156cm
 measurementType: bust
 bust: 73cm
