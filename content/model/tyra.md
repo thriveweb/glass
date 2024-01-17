@@ -10,7 +10,7 @@ collection: Women
 height: 168cm
 measurementType: bust
 bust: 83cm
-waist: 59cm
+waist: 60cm
 hips: 89cm
 size: 6-8
 shoeSize: '8'
