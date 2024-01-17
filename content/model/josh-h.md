@@ -4,7 +4,7 @@ title: Josh H
 featuredImage: >-
   https://ucarecdn.com/49827a14-b3ab-4796-b12c-15d7491ed19a/-/crop/1029x446/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/68266216-3b11-4be7-ac36-bbc863fa7e60/-/crop/590x805/556,348/-/preview/
+  https://ucarecdn.com/68266216-3b11-4be7-ac36-bbc863fa7e60/-/crop/589x793/550,348/-/preview/
 firstName: Josh H
 collection: Classic
 height: 167cm
