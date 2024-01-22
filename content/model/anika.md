@@ -5,11 +5,11 @@ featuredImage: 'https://ucarecdn.com/03f29937-c76a-4b48-87b7-5434c5925fd6/'
 imageThumbnail: 'https://ucarecdn.com/77681f2f-9612-49f2-8689-b44ff8e818dd/'
 firstName: Anika
 collection: Girls
-height: 85cm
+height: 87cm
 measurementType: bust
-bust: 51cm
-waist: 51cm
-hips: 52cm
+bust: 49cm
+waist: 49cm
+hips: 49cm
 size: 2-3
 shoeSize: 6/7
 imagePortfolio:
