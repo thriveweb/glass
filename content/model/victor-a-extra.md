@@ -4,7 +4,7 @@ title: Victor A EXTRA
 featuredImage: 'https://ucarecdn.com/535de302-3f6f-46a7-b38c-5dc50461b0ad/'
 imageThumbnail: 'https://ucarecdn.com/4f505adc-8aca-4d33-8b22-72874d19f772/'
 firstName: Victor A EXTRA
-collection: Extras
+collection: ''
 height: 5'11
 measurementType: chest
 bust: 99cm
