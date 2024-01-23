@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/ea4de728-8705-417c-b9f5-4c79b89d628f/-/crop/1368x1836/148,123/-/preview/
 firstName: Jak
 collection: Men
-height: 174cm
+height: 176cm
 measurementType: chest
-bust: 91cm
-waist: 76cm
-hips: 89cm
+bust: 93cm
+waist: 75cm
+hips: 91cm
 size: M shirt- 32 pant
-shoeSize: '8.5'
+shoeSize: '9'
 hair: Light Brown
 eyes: Blue/green
 imagePortfolio:
