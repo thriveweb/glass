@@ -3,7 +3,7 @@ template: ModelPage
 title: Jordyn
 featuredImage: >-
   https://ucarecdn.com/2e8b4ada-0d96-48cf-9a99-7478609749cb/-/crop/2435x1289/0,168/-/preview/
-imageThumbnail: 'https://ucarecdn.com/d3d425ef-3972-4a07-80e4-00883c6c4b6e/'
+imageThumbnail: 'https://ucarecdn.com/2ac8178a-3eff-4b31-ac21-f2be2c24e943/'
 firstName: Jordyn
 collection: Classic
 height: 163cm
@@ -16,12 +16,10 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/6d581dd4-3a25-4fac-b7b2-42ab26ecf461/'
-  - image: 'https://ucarecdn.com/ffb77714-b66a-4d91-b68d-b07aecef7144/'
-  - image: 'https://ucarecdn.com/65aa016f-bd55-4106-a2e2-ed70b34d8956/'
-  - image: 'https://ucarecdn.com/5387169f-9576-4eab-87af-e966d67ba159/'
+  - image: 'https://ucarecdn.com/b4eb6682-16a7-43b9-bed5-c3eea2899cdd/'
+  - image: 'https://ucarecdn.com/3a7c9c3f-f120-4c64-bee2-8fbfb31952ca/'
+  - image: 'https://ucarecdn.com/37791795-1669-4c0a-ad60-43c35a41f93f/'
   - image: 'https://ucarecdn.com/3b3de39a-1ef6-4d25-b618-78b1969ec91c/'
-  - image: 'https://ucarecdn.com/275df8c1-c901-46b0-8ac3-0711580d99d9/'
   - image: 'https://ucarecdn.com/0fbcd988-f208-4a3f-9fc6-e6fdc0e18489/'
   - image: 'https://ucarecdn.com/60c6f010-3b6d-435c-8806-cb4fdc02598f/'
   - image: 'https://ucarecdn.com/6bbc7117-9364-433b-8236-2056b36c8bac/'
@@ -52,5 +50,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/6f8566ef-36c7-43da-8735-52aa4cad4286/'
   - image: 'https://ucarecdn.com/8f7d72c5-e222-4a3c-a8b8-ab05f35df9e5/'
   - image: 'https://ucarecdn.com/56978df7-7550-4fa1-a84f-b541445e240d/'
+  - {}
+  - {}
 ---
 
