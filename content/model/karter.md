@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/1dcead9e-39b7-4258-b1bf-53b573c54022/'
 imageThumbnail: >-
   https://ucarecdn.com/af05fa84-c008-4b07-8d96-5b1f8f7c5dc2/-/crop/1413x1882/217,186/-/preview/
 firstName: Karter
-collection: Boys
+collection: ''
 height: 142cm
 measurementType: chest
 bust: 72cm
