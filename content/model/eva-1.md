@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Eva
+title: 'Eva  '
 featuredImage: 'https://ucarecdn.com/99ac15fb-c2c5-43ea-b882-0ea1f9253b3e/'
 imageThumbnail: >-
   https://ucarecdn.com/5338773d-2e97-4f64-831d-d0c2f32128aa/-/crop/406x576/286,423/-/preview/
-firstName: Eva
+firstName: 'Eva  '
 collection: Women
 height: 165cm
 measurementType: bust
