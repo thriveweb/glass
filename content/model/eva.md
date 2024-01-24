@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Eva
+title: Eva Go
 featuredImage: >-
   https://ucarecdn.com/ae275759-ffb5-493d-89b8-cc7a0a6e74ae/-/crop/2073x1158/0,0/-/preview/
 imageThumbnail: >-
