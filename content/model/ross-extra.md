@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/3fcfc04e-777e-4bb7-a476-1c46bf71aa67/-/crop/701x975/32,0/-/preview/
 thumbnailVideo: ''
 firstName: Ross EXTRA
-collection: Extras
+collection: ''
 height: 6'4
 measurementType: chest
 bust: 45'
