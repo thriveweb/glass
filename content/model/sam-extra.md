@@ -5,6 +5,7 @@ featuredImage: 'https://ucarecdn.com/79c82d85-d0a8-4337-9ebb-bbe1f6ce03c2/'
 imageThumbnail: >-
   https://ucarecdn.com/4a5fbd69-1cfd-4b6c-a811-56b5cadbbc53/-/crop/704x1047/29,0/-/preview/
 firstName: Sam EXTRA
+collection: Extras
 height: 5'7
 measurementType: chest
 bust: 35'
