@@ -4,6 +4,7 @@ title: Ella EXTRA
 featuredImage: 'https://ucarecdn.com/c9a48244-8f65-4c24-8e27-3bb8d8f4e19b/'
 imageThumbnail: 'https://ucarecdn.com/69d9de06-e361-463b-b89b-d8ec160a5714/'
 firstName: Ella EXTRA
+collection: Extras
 height: 5'10
 measurementType: bust
 bust: 39'
