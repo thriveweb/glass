@@ -5,6 +5,7 @@ featuredImage: 'https://ucarecdn.com/959f6be5-e4b7-445f-9a6e-f565a692070b/'
 imageThumbnail: >-
   https://ucarecdn.com/9c2a7a36-a71a-4ab5-8082-4433f9cb11e1/-/crop/704x1053/26,25/-/preview/
 firstName: Maadhav EXTRA
+collection: Extras
 height: 5'8
 measurementType: chest
 bust: 32'
