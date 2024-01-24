@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jac
 featuredImage: >-
-  https://ucarecdn.com/35ea99ce-7aee-42fe-907c-3de24bcb48d9/-/crop/1512x1467/0,235/-/preview/
+  https://ucarecdn.com/35ea99ce-7aee-42fe-907c-3de24bcb48d9/-/crop/1512x1154/0,187/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/6d5d039a-2f44-4667-ab45-b4185beb87c1/-/crop/438x521/217,33/-/preview/
 firstName: Jac
