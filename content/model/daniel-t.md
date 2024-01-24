@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/3652ea00-2103-4215-8d62-5ef2ae3c06a7/-/prev
 imageThumbnail: >-
   https://ucarecdn.com/50bb2cbf-3361-4054-aa92-e080d8668fd3/-/crop/1475x1920/82,15/-/preview/
 firstName: Daniel T
-collection: Men
+collection: Emerging
 height: 6'7
 measurementType: chest
 bust: 97cm
