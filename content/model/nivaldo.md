@@ -2,7 +2,7 @@
 template: ModelPage
 title: Nivaldo
 featuredImage: >-
-  https://ucarecdn.com/5af422ef-8a8e-478b-ac79-fd0ecb55a51b/-/crop/732x666/1,61/-/preview/
+  https://ucarecdn.com/5af422ef-8a8e-478b-ac79-fd0ecb55a51b/-/crop/733x548/0,22/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/940e039d-9f79-4ef1-bcdd-be7717c1a462/-/crop/506x724/156,75/-/preview/
 firstName: Nivaldo
