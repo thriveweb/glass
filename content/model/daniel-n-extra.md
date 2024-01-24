@@ -4,6 +4,7 @@ title: Daniel N EXTRA
 featuredImage: 'https://ucarecdn.com/ce96e766-6529-4d80-a58d-993de37d138f/'
 imageThumbnail: 'https://ucarecdn.com/d8c9efd5-e6ad-4d8c-8d5c-a776475f5cab/'
 firstName: Daniel N EXTRA
+collection: Extras
 height: 6'0
 measurementType: chest
 bust: 35'
