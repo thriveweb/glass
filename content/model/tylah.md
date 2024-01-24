@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/39206898-4983-4c5d-b2b3-e818903cdd8c/-/crop/1370x1715/127,260/-/preview/
 firstName: Tylah
-collection: Women
+collection: Emerging
 height: 183cm
 measurementType: bust
 bust: 89cm
