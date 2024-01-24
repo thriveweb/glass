@@ -5,6 +5,7 @@ featuredImage: 'https://ucarecdn.com/3bbc0cc6-d2ae-4f0d-941e-9d4eeb8b2a36/'
 imageThumbnail: >-
   https://ucarecdn.com/caf171d0-5a9c-4a57-87e9-a9bb507db79c/-/crop/648x1019/85,39/-/preview/
 firstName: Ken H EXTRA
+collection: Extras
 height: 5'7
 measurementType: chest
 bust: 36'
