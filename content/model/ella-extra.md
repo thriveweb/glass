@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Ella EXTRA
+title: Ella L EXTRA
 featuredImage: 'https://ucarecdn.com/0e96b513-0e7b-4d1f-baeb-99709817fdce/'
 imageThumbnail: 'https://ucarecdn.com/c583c911-d5ef-450c-98b2-78e40391d5cd/'
-firstName: Ella EXTRA
+firstName: Ella L EXTRA
 collection: Extras
 height: 5'7
 measurementType: bust
