@@ -4,6 +4,7 @@ title: Liam EXTRA
 featuredImage: 'https://ucarecdn.com/a87137bf-7870-4109-b043-c90c810afb15/'
 imageThumbnail: 'https://ucarecdn.com/169f8e27-5a11-4958-b264-dcc564d14bf7/'
 firstName: Liam EXTRA
+collection: Extras
 height: 6'5
 measurementType: chest
 bust: 48'
