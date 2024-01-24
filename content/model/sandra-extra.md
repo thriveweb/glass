@@ -4,6 +4,7 @@ title: Sandra EXTRA
 featuredImage: 'https://ucarecdn.com/20ba3972-0a9e-4bf3-a60f-0676dfc612a5/'
 imageThumbnail: 'https://ucarecdn.com/85ef5ae1-68f2-4043-a47a-f89f595b6dea/'
 firstName: Sandra EXTRA
+collection: Extras
 height: 5'5
 measurementType: bust
 bust: 33'
