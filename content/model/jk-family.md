@@ -2,7 +2,7 @@
 template: ModelPage
 title: JK Family
 featuredImage: >-
-  https://ucarecdn.com/e6900211-57a9-4969-8dbe-7186156ae27b/-/crop/1788x1427/0,528/-/preview/
+  https://ucarecdn.com/e6900211-57a9-4969-8dbe-7186156ae27b/-/crop/1788x1282/0,528/-/preview/
 imageThumbnail: 'https://ucarecdn.com/95d7b9b8-22cc-49b5-b322-b47b704bc32e/'
 firstName: JK Family
 collection: Family
