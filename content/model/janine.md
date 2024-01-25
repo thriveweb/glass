@@ -18,11 +18,10 @@ hair: Silverfox
 imagePortfolio:
   - image: 'https://ucarecdn.com/366f181d-8215-475a-baa4-26d7357f9af6/'
   - image: 'https://ucarecdn.com/342b0fa2-2e5b-48dd-bba9-fff43be46aac/'
-  - image: 'https://ucarecdn.com/3b7abf4e-3eef-4a5e-bdab-5228f14afd6a/'
+  - image: 'https://ucarecdn.com/d31e13f9-2fb2-4753-b367-e7fa059a2a98/'
   - image: 'https://ucarecdn.com/b83501e3-6872-400e-b33d-732671daa9e1/'
   - image: 'https://ucarecdn.com/2228198b-2fd8-4a03-9d37-d8fbe6ab7722/'
   - image: 'https://ucarecdn.com/4c02231f-fb7d-4d7c-915b-1ace5108c174/'
-  - image: 'https://ucarecdn.com/a0065f9c-95d3-475a-bee2-daad9c102df5/'
   - image: 'https://ucarecdn.com/2f5eac34-50e4-49ac-bb77-6845691b73b1/'
   - image: 'https://ucarecdn.com/b6a717f9-8b1f-4802-a43b-6a2c5c51c908/'
   - image: 'https://ucarecdn.com/3767635c-b809-448b-937d-af57027e49c0/'
