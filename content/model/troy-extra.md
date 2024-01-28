@@ -7,6 +7,7 @@ imageThumbnail: >-
 firstName: Troy EXTRA
 collection: Extras
 height: 6'0
+measurementType: chest
 bust: 34'
 waist: 28'
 hips: 36'
