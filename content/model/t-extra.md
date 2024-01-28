@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: T EXTRA
+title: Tee EXTRA
 featuredImage: 'https://ucarecdn.com/5b96e5f1-7928-40e1-b3dc-67d9572037c5/'
 imageThumbnail: 'https://ucarecdn.com/f9123250-dfaa-49bd-9989-0af791c1c661/'
-firstName: T EXTRA
+firstName: Tee EXTRA
 collection: Extras
 height: 182cm
 measurementType: chest
