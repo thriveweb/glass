@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/15116e44-2745-4680-8d28-b53315c23f63/'
 imageThumbnail: >-
   https://ucarecdn.com/d137ccbd-d222-4ab1-8d57-0d11333164a4/-/crop/695x1022/38,17/-/preview/
 firstName: Leanne EXTRA
-collection: ''
+collection: Extras
 height: 6'1
 measurementType: bust
 bust: 41'
