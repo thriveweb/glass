@@ -5,6 +5,7 @@ featuredImage: 'https://ucarecdn.com/27d79c2a-f317-43cb-a165-abf4fefe8116/'
 imageThumbnail: >-
   https://ucarecdn.com/ca89a50d-6215-4bc5-967d-a22a062744d2/-/crop/695x1022/38,28/-/preview/
 firstName: Troy EXTRA
+collection: Extras
 height: 6'0
 bust: 34'
 waist: 28'
