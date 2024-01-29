@@ -4,7 +4,7 @@ title: Koa C
 featuredImage: >-
   https://ucarecdn.com/559100ea-2964-4a22-ae15-3b59f613f12b/-/crop/1450x999/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/766f8231-c8db-4f55-b41b-2fbea2cee6a5/-/crop/904x1020/373,134/-/preview/
+  https://ucarecdn.com/dabcac4a-8602-48be-8a99-aeb37489017b/-/crop/600x787/42,7/-/preview/
 firstName: Koa C
 collection: Boys
 height: 110cm
@@ -17,22 +17,15 @@ shoeSize: '12'
 hair: Brown
 eyes: Green
 imagePortfolio:
-  - image: 'https://ucarecdn.com/1845ae8c-c4f3-4617-95a3-28915752598d/'
-  - image: 'https://ucarecdn.com/54c4c061-658a-43f5-a76f-66101fb2e902/'
-  - image: 'https://ucarecdn.com/0f8a8d82-5c3d-49da-8069-36b2c990f2a2/'
-  - image: 'https://ucarecdn.com/79702809-9db7-4cbc-bbb3-6043ac210cba/'
-  - image: 'https://ucarecdn.com/f587ca73-5f94-4994-b734-62d2c7ab6de2/'
-  - image: 'https://ucarecdn.com/c50140af-af78-428f-b4fe-26aa516d7af4/'
-  - image: 'https://ucarecdn.com/333d1a18-fe06-45eb-bf08-14f04a0c7cc7/'
-  - image: 'https://ucarecdn.com/2557a51d-a1c5-4b54-95f7-af388473d025/'
-  - image: 'https://ucarecdn.com/c7e72e43-a9af-4235-9b68-8f0fc7f25007/'
-  - image: 'https://ucarecdn.com/f984be98-2f31-4eed-946e-81de7847e05d/'
-  - image: 'https://ucarecdn.com/4ab90374-1fb0-41cf-bd31-bb6cc0ab7201/'
-  - image: 'https://ucarecdn.com/e304b760-5246-40e8-bb88-d37be61308fc/'
-  - image: 'https://ucarecdn.com/736b4ac7-16fe-4b1f-bc5d-81f0dc2ce0c0/'
-  - image: 'https://ucarecdn.com/aa10a3bd-d714-4a7c-8446-d11844b338c5/'
+  - image: 'https://ucarecdn.com/a2c59d9f-b7aa-4444-a85d-32e898aee1cf/'
+  - image: 'https://ucarecdn.com/b69c8223-5e8a-4311-88eb-a8bfd91e8916/'
+  - image: 'https://ucarecdn.com/89813878-d596-4a91-a002-fd7fa112baef/'
+  - image: 'https://ucarecdn.com/8e1ddd0f-33ae-4cdc-9db4-b4bb0513ab3d/'
+  - image: 'https://ucarecdn.com/3da422c5-bd7f-42c0-bc59-6823c85f15cd/'
+  - image: 'https://ucarecdn.com/3904cf98-5a44-4618-be65-d4996223f7a9/'
+  - image: 'https://ucarecdn.com/c8c9e9ec-b845-4263-96b9-d7d2d6d1d53f/'
+  - image: 'https://ucarecdn.com/39563332-e3cf-4e17-b868-743e7b870011/'
   - image: 'https://ucarecdn.com/b37e5176-ae8b-40ad-b5b5-1e48c23f4420/'
-  - image: 'https://ucarecdn.com/899a594d-d604-45d5-a1af-b192af52374b/'
-  - image: 'https://ucarecdn.com/f5074831-0a6a-45d9-aedc-c22975b082b8/'
+  - image: 'https://ucarecdn.com/47506571-de10-45e0-8f1e-cab6dcea72fd/'
 ---
 
