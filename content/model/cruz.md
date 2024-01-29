@@ -2,7 +2,8 @@
 template: ModelPage
 title: Cruz
 featuredImage: 'https://ucarecdn.com/673e1667-d6b1-4d8e-bc07-03b0b05aefb2/'
-imageThumbnail: 'https://ucarecdn.com/a8eb15a0-2c29-4e00-b2d3-5741aa3cba39/'
+imageThumbnail: >-
+  https://ucarecdn.com/d009d1d4-1a6a-4ec4-bc34-af6a40b03574/-/crop/1306x1731/56,0/-/preview/
 firstName: Cruz
 collection: Boys
 height: 120cm
@@ -15,16 +16,10 @@ shoeSize: US 1
 hair: Hazel
 eyes: Red/Auburn
 imagePortfolio:
-  - image: 'https://ucarecdn.com/7bdea486-af84-40ac-ba48-69b9bc8f98f2/'
-  - image: 'https://ucarecdn.com/cfa1f728-c3ad-41d3-8c6f-72ed7b8f335c/'
-  - image: 'https://ucarecdn.com/5609ce09-9e64-493c-855b-71b650165459/'
-  - image: 'https://ucarecdn.com/6639fc5b-0873-45b1-b214-cfdbc4931499/'
-  - image: 'https://ucarecdn.com/25140cd9-4fd5-4c4d-9e72-81bdb7a7a188/'
-  - image: 'https://ucarecdn.com/57335370-3a03-46f5-b5c5-9da3cd56b556/'
-  - image: 'https://ucarecdn.com/dc04617b-2535-42de-9470-709f44cf74af/'
-  - image: 'https://ucarecdn.com/8a1a2178-6244-4404-8687-043fc65951fc/'
-  - image: 'https://ucarecdn.com/ce95e56c-1cd9-4ac4-807d-5f8456e0561c/'
-  - image: 'https://ucarecdn.com/ed1a4a47-2a25-464b-96a7-8479f0975824/'
-  - image: 'https://ucarecdn.com/6579eef3-dec2-45aa-9e1d-4e8eda511867/'
+  - image: 'https://ucarecdn.com/ef1a38c6-f855-4c63-a845-046159efc18d/'
+  - image: 'https://ucarecdn.com/d02d016b-40c7-4f7c-9d1b-b30fc6a41e05/'
+  - image: 'https://ucarecdn.com/040d636e-7365-4e3f-a326-b2fc296d6eb0/'
+  - image: 'https://ucarecdn.com/1122ff30-ea50-487b-b626-42024348257b/'
+  - image: 'https://ucarecdn.com/4b4d40c7-ed26-4559-89bb-6aa7689f8917/'
 ---
 
