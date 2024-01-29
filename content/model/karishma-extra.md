@@ -5,6 +5,7 @@ featuredImage: 'https://ucarecdn.com/bf305101-a607-460c-ae72-d55c58bb5b85/'
 imageThumbnail: >-
   https://ucarecdn.com/d46f7e23-d91d-4d00-8f0f-cbf0fbd93e5b/-/crop/714x1006/6,36/-/preview/
 firstName: Karishma EXTRA
+collection: Extras
 height: 5'4
 measurementType: bust
 bust: 42'
