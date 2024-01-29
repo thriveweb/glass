@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Cruz
-featuredImage: 'https://ucarecdn.com/673e1667-d6b1-4d8e-bc07-03b0b05aefb2/'
+featuredImage: 'https://ucarecdn.com/6f012a56-7018-4b21-9af5-cc81baeddc49/'
 imageThumbnail: >-
   https://ucarecdn.com/d009d1d4-1a6a-4ec4-bc34-af6a40b03574/-/crop/1306x1731/56,0/-/preview/
 firstName: Cruz
