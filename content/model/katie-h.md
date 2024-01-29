@@ -2,7 +2,7 @@
 template: ModelPage
 title: Katie H
 featuredImage: >-
-  https://ucarecdn.com/478c95f1-64de-425c-89af-514021f514e9/-/crop/1024x694/0,0/-/preview/
+  https://ucarecdn.com/478c95f1-64de-425c-89af-514021f514e9/-/crop/1024x618/0,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/a2a81ec8-c0cd-4f1d-a8b1-56b3c389d9b1/'
 imageThumbnail: >-
   https://ucarecdn.com/9446b356-dc0a-405e-8f87-ba3c51857039/-/crop/852x1213/92,0/-/preview/
