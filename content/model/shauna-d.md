@@ -2,7 +2,7 @@
 template: ModelPage
 title: Shauna D
 featuredImage: >-
-  https://ucarecdn.com/c1300809-8c71-4369-87a8-5646e5cc8548/-/crop/2048x1191/0,0/-/preview/
+  https://ucarecdn.com/c7176013-cbcb-48b0-a485-c12fbcaa8e7a/-/crop/2048x1128/0,832/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/e874144c-1493-492c-9555-924aef91642a/-/crop/1673x2470/293,82/-/preview/
 firstName: Shauna D
