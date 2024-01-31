@@ -4,7 +4,7 @@ title: Crossman Family
 featuredImage: >-
   https://ucarecdn.com/acc4c995-24ed-487c-8681-c3c3aa2ad751/-/crop/1650x858/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/22aaa1a8-61b3-4534-a930-f6408e3e82f1/-/crop/910x1100/337,0/-/preview/
+  https://ucarecdn.com/22aaa1a8-61b3-4534-a930-f6408e3e82f1/-/crop/941x1100/306,0/-/preview/
 firstName: Crossman Family
 collection: Family
 imagePortfolio:
