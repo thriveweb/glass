@@ -4,6 +4,7 @@ title: Annie EXTRA
 featuredImage: 'https://ucarecdn.com/1d016337-fcb8-474c-817e-74c3d88bba7b/'
 imageThumbnail: 'https://ucarecdn.com/99491880-3bb8-4219-b61c-d6436d4dd6c8/'
 firstName: Annie EXTRA
+collection: Extras
 height: 5'5
 measurementType: bust
 bust: 31'
