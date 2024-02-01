@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jess K
 featuredImage: >-
-  https://ucarecdn.com/6c52e84b-d368-4d27-a644-c0c4340915fa/-/crop/1170x780/0,164/-/preview/
+  https://ucarecdn.com/6c52e84b-d368-4d27-a644-c0c4340915fa/-/crop/1170x580/0,164/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/37f04130-072f-4fcc-aecf-7c296dde20b6/-/crop/475x657/365,112/-/preview/
 firstName: 'Jess K '
