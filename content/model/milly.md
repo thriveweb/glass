@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/4c0cdaab-7344-47cc-a8b4-21aa4377afb5/-/crop/1043x1424/301,0/-/preview/
 firstName: Milly
 collection: Emerging
-height: 161cm
+height: 163cm
 measurementType: bust
-bust: 69cm
-waist: 65cm
-hips: 68cm
-size: '12'
-shoeSize: '4'
+bust: 75cm
+waist: 62cm
+hips: 81cm
+size: 12-14
+shoeSize: 6-7
 hair: Blonde
 eyes: Blue
 imagePortfolio:
