@@ -4,7 +4,7 @@ title: Arna EXTRA
 featuredImage: 'https://ucarecdn.com/eeb529f5-a1e8-43c7-bd6a-c82197edab31/'
 imageThumbnail: 'https://ucarecdn.com/2e23d2dc-91df-4ebf-9ad8-637a21b96318/'
 firstName: Arna EXTRA
-collection: ''
+collection: Extras
 height: 5'8
 measurementType: bust
 bust: 34'
