@@ -9,9 +9,9 @@ firstName: Willow B
 collection: Girls
 height: 124cm
 measurementType: bust
-bust: 56cm
-waist: 55cm
-hips: 59cm
+bust: 60cm
+waist: 59cm
+hips: 63cm
 size: 6-7
 shoeSize: '13'
 hair: Brown
