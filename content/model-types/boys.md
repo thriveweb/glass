@@ -1,8 +1,7 @@
 ---
 template: ModelsPage
 title: Boys
-featuredImage: >-
-  https://ucarecdn.com/c2f9949c-50f8-40df-a25a-5d8f68f4e1c5/-/crop/1541x937/166,79/-/preview/
+featuredImage: 'https://ucarecdn.com/e38972ad-f54c-47a0-9540-a70ecdc34c98/-/preview/'
 order: 4
 meta:
   noindex: true
