@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/900ab928-452a-4281-8343-257f74658987/-/crop/1175x1477/113,0/-/preview/
 firstName: Evie F
 collection: Emerging
-height: 160cm
+height: 162cm
 measurementType: bust
-bust: 69cm
+bust: 77cm
 waist: 61cm
-hips: 68cm
+hips: 86cm
 size: '12'
 shoeSize: '5'
 hair: Blonde
