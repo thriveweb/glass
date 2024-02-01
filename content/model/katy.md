@@ -9,9 +9,9 @@ firstName: Katy
 collection: Classic
 height: 170cm
 measurementType: bust
-bust: 89cm
-waist: 73cm
-hips: 89cm
+bust: 88cm
+waist: 72cm
+hips: 96cm
 size: '10'
 shoeSize: '8.5'
 hair: Blonde
