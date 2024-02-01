@@ -12,8 +12,8 @@ measurementType: bust
 bust: 77cm
 waist: 61cm
 hips: 86cm
-size: '12'
-shoeSize: '5'
+size: Women's 6-8
+shoeSize: '7'
 hair: Blonde
 eyes: Hazel
 imagePortfolio:
