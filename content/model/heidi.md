@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/86732f47-5639-4cdc-b7ec-08e743606316/-/crop/1449x1965/32,0/-/preview/
 firstName: Heidi
-collection: Girls
+collection: ''
 height: 119cm
 measurementType: bust
 bust: 55cm
