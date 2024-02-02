@@ -7,8 +7,8 @@ imageThumbnail: >-
   https://ucarecdn.com/b154f6ec-68dc-4bf9-b80f-0007c22e48f7/-/crop/360x489/960,154/-/preview/
 firstName: Isaiah M
 collection: Boys
-size: '2'
-shoeSize: US 7 Toddler
+size: 2-3
+shoeSize: US 9 Toddler
 hair: Brunette
 eyes: Brown
 imagePortfolio:
