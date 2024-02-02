@@ -13,7 +13,11 @@ hair: Brunette
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/f100a34a-9787-4f47-aa9a-abdee241416a/'
+  - image: >-
+      https://ucarecdn.com/fdea02a5-7882-4a9a-bfe8-1e8ec888eb90/-/preview/-/rotate/90/
   - image: 'https://ucarecdn.com/d71c781a-fa44-4174-a669-2fef03c3046e/'
+  - image: >-
+      https://ucarecdn.com/d78c1d19-b81e-4e53-a0bc-81d7e988131b/-/preview/-/rotate/90/
   - image: >-
       https://ucarecdn.com/2480ede6-41d2-4319-afca-66f01fe0f397/-/crop/672x1134/787,782/-/preview/
   - image: 'https://ucarecdn.com/f36f1a97-e8a8-443c-8544-6232ba5a04f5/'
