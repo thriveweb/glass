@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Stracenski EXTRA
+title: Ljubica EXTRA
 featuredImage: 'https://ucarecdn.com/1d26673c-cbe1-4ac0-b481-f87ba2c7c961/'
 imageThumbnail: 'https://ucarecdn.com/9f1f5627-e3bd-4b18-ac84-9997c15c30be/'
-firstName: Stracenski EXTRA
+firstName: Ljubica EXTRA
 collection: Extras
 height: 5'6
 measurementType: bust
