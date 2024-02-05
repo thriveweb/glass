@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/953fbcb4-3a92-417b-a323-8610c716d598/-/crop/1557x2053/75,0/-/preview/
 firstName: Tayah
-collection: Emerging
+collection: ''
 height: 154cm
 measurementType: bust
 bust: 80cm
