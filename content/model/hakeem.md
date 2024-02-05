@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/45c3563d-8055-4da9-9e89-3c80a45ed300/-/crop/600x834/16,28/-/preview/
 firstName: Hakeem
 collection: Boys
-height: 183cm
+height: 185cm
 measurementType: chest
 bust: 87cm
 waist: 75cm
