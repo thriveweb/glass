@@ -7,7 +7,7 @@ featuredVideoMobile: 'https://ucarecdn.com/a007b65e-b444-4a0c-900f-1600cdd11687/
 imageThumbnail: >-
   https://ucarecdn.com/c08cbef2-3b3d-4181-b4da-fb60e33db2b7/-/crop/1050x1236/0,164/-/preview/
 firstName: 'Imogen '
-collection: Emerging
+collection: ''
 height: 173cm
 measurementType: bust
 bust: 87cm
