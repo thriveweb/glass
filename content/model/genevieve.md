@@ -4,7 +4,7 @@ title: Genevieve
 featuredImage: >-
   https://ucarecdn.com/46b935a2-bed3-432e-8740-937c8f0e2401/-/crop/1280x574/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ca722981-1b50-41f1-b6b8-231863e1feff/-/crop/472x720/86,0/-/preview/
+  https://ucarecdn.com/ca722981-1b50-41f1-b6b8-231863e1feff/-/crop/423x660/106,0/-/preview/
 firstName: Genevieve
 collection: Emerging
 height: 176cm
