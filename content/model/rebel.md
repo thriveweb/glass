@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Rebel
-featuredImage: 'https://ucarecdn.com/d77c24e2-eeca-4b9b-b604-598ab058fa9f/'
+featuredImage: >-
+  https://ucarecdn.com/2599a4bf-90f0-450c-99cc-ee0398c75a5c/-/crop/511x334/0,144/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/ae52cf0b-040f-42c3-891f-ffd42f1fc8e1/-/crop/229x293/113,0/-/preview/
 firstName: Rebel
@@ -17,9 +18,9 @@ hair: Brown
 eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/c929e6c0-bc64-4c3e-bf15-8e5506ad949b/'
-  - image: 'https://ucarecdn.com/3be5e5bc-f7ee-4ca7-93b2-8bc0edb1bb6f/'
   - image: >-
       https://ucarecdn.com/a0b986cb-02dd-4fc3-b7d4-07148d7b618f/-/crop/5313x7054/0,916/-/preview/
+  - image: 'https://ucarecdn.com/3be5e5bc-f7ee-4ca7-93b2-8bc0edb1bb6f/'
   - image: >-
       https://ucarecdn.com/ead36a73-2916-4fc1-bce0-68b2e28376b1/-/crop/4789x6639/0,545/-/preview/
   - image: 'https://ucarecdn.com/f7b79e70-def3-454b-9d1f-5ca056592e76/'
