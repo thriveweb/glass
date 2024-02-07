@@ -2,9 +2,9 @@
 template: ModelPage
 title: Montana
 featuredImage: >-
-  https://ucarecdn.com/70617184-21e4-4e14-a5a2-ca8d8bc7ea6c/-/crop/640x327/0,21/-/preview/
+  https://ucarecdn.com/72d90495-0d34-4f27-8c7e-f36aade0f98e/-/crop/972x530/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/1650e775-d7a2-4b93-a71e-771cb318265b/-/crop/311x385/166,140/-/preview/
+  https://ucarecdn.com/1650e775-d7a2-4b93-a71e-771cb318265b/-/crop/253x344/196,140/-/preview/
 firstName: Montana
 collection: Girls
 height: 164cm
