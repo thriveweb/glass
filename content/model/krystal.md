@@ -1,11 +1,12 @@
 ---
 template: ModelPage
 title: Krystal
-featuredImage: 'https://ucarecdn.com/cfeee17d-ab0d-4650-bf09-0d72cf5ec2d2/'
+featuredImage: >-
+  https://ucarecdn.com/bb8df912-9c9c-470e-990b-a6471135d262/-/crop/2448x1266/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/3dee28c0-b581-49a6-aa7b-5a1ddfcc3b6f/-/crop/3673x4434/97,577/-/preview/
+  https://ucarecdn.com/14d1e444-18a0-4a60-8c32-2e202e94a1f5/-/crop/731x942/430,82/-/preview/
 firstName: Krystal
-collection: ''
+collection: Girls
 height: 156cm
 measurementType: bust
 bust: 73cm
@@ -16,20 +17,17 @@ shoeSize: Ladies 7
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/2b74ecea-851b-4ffa-b19a-e7cd4d0b8a0e/'
-  - image: 'https://ucarecdn.com/d57b06c4-2353-46b4-9459-eb27e828ff8a/'
-  - image: 'https://ucarecdn.com/30677529-a9b7-42cf-ba43-ec342edccaac/'
-  - image: 'https://ucarecdn.com/cdbce86b-988d-4581-93ec-563c656cc2d8/'
-  - image: 'https://ucarecdn.com/1557a181-3789-4ea9-99d5-d06fc110646c/'
-  - image: 'https://ucarecdn.com/db0d6c7c-0b6b-4985-9549-377178d49640/'
-  - image: 'https://ucarecdn.com/37142e53-de26-4caf-86f0-0ece8525ea1d/'
-  - image: 'https://ucarecdn.com/4e720a5e-a458-48ae-b758-5a1f80b8533f/'
-  - image: 'https://ucarecdn.com/501a046d-13f3-46fe-bbac-7edec1888c0f/'
-  - image: 'https://ucarecdn.com/d1e2a9de-63e5-4ec4-8bd0-4707bfd3a41d/'
-  - image: 'https://ucarecdn.com/d3aa7e73-1def-4be0-8ab5-103b3778f951/'
-  - image: 'https://ucarecdn.com/61ee724f-0433-40b8-9e3c-d8bc1fc7b0c7/'
-  - image: 'https://ucarecdn.com/7765d18d-0e05-4c60-8bae-ffe7a0d7541b/'
-  - image: 'https://ucarecdn.com/ae713e80-c3a6-45aa-898f-f81740deb5fd/'
+  - image: 'https://ucarecdn.com/8cc8833c-0429-4f2c-b347-9eabca68b8a5/'
+  - image: 'https://ucarecdn.com/114e7e1f-80f6-4061-9396-e9f4ed8f0055/'
+  - image: 'https://ucarecdn.com/9fbb860c-826c-44b5-8e06-54164c780134/'
+  - image: 'https://ucarecdn.com/3566824c-bacd-4f8b-9b19-685bffc8828f/'
+  - image: 'https://ucarecdn.com/42cc0c24-02b0-451a-a462-e417de4a2608/'
+  - image: >-
+      https://ucarecdn.com/d108f8df-9594-4ade-800c-fe39bf8ef9d0/-/crop/1633x2286/0,162/-/preview/
+  - image: 'https://ucarecdn.com/a8c5274c-a9d7-4879-8c30-5d75c948c35e/'
+  - image: 'https://ucarecdn.com/415dc42e-36fc-49e9-89dd-d02e064bb6f3/'
+  - image: 'https://ucarecdn.com/c4d5e162-bf94-4c06-bf32-a48ccc937cba/'
+  - image: 'https://ucarecdn.com/97f6eda1-9f2d-4b1f-aab0-6cf718fcae54/'
 meta:
   title: Krystal
 ---
