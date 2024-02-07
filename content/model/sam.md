@@ -7,6 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/edda5d00-e0e7-4bfb-9438-9cbdcbd9c6ce/-/crop/4524x6770/410,0/-/preview/
 firstName: Sam
 collection: Men
+height: 187cm
 size: 32/M
 hair: Brown
 eyes: Blue
