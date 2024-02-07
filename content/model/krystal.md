@@ -4,7 +4,7 @@ title: Krystal
 featuredImage: >-
   https://ucarecdn.com/bb8df912-9c9c-470e-990b-a6471135d262/-/crop/2448x1266/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/14d1e444-18a0-4a60-8c32-2e202e94a1f5/-/crop/731x942/430,82/-/preview/
+  https://ucarecdn.com/14d1e444-18a0-4a60-8c32-2e202e94a1f5/-/crop/831x1075/376,82/-/preview/
 firstName: Krystal
 collection: Girls
 height: 156cm
