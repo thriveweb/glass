@@ -15,6 +15,7 @@ hips: 63cm
 size: '8'
 shoeSize: '5'
 hair: Light Brown
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/e9eb7ce5-7706-4950-98af-679e19680227/'
   - image: 'https://ucarecdn.com/6c4fcf8f-b8e3-4524-8ad1-1bca44f7d175/'
