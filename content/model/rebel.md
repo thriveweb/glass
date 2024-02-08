@@ -4,7 +4,7 @@ title: Rebel
 featuredImage: >-
   https://ucarecdn.com/2599a4bf-90f0-450c-99cc-ee0398c75a5c/-/crop/511x334/0,144/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ae52cf0b-040f-42c3-891f-ffd42f1fc8e1/-/crop/229x293/113,0/-/preview/
+  https://ucarecdn.com/dea67c38-19eb-4e9a-a0a8-128fffa77d39/-/crop/381x421/59,15/-/preview/
 firstName: Rebel
 collection: Classic
 height: 175cm
