@@ -8,7 +8,7 @@ imageThumbnail: >-
   https://ucarecdn.com/9446b356-dc0a-405e-8f87-ba3c51857039/-/crop/852x1213/92,0/-/preview/
 firstName: Katie H
 collection: Emerging
-height: 167cm
+height: 169cm
 measurementType: bust
 bust: 83cm
 waist: 67cm
