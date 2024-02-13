@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/9f63fc97-d7f5-4273-b56c-1382a22c7db1/-/crop/1348x1697/223,0/-/preview/
 firstName: Matty
-collection: Men
+collection: ''
 height: 186cm
 measurementType: chest
 bust: 104cm
