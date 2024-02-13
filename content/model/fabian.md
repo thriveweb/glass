@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/2aaf6bd0-0d50-42e5-b6bc-8e108714862c/'
 imageThumbnail: >-
   https://ucarecdn.com/fb40a12c-cfb1-4bdc-8d5c-647441c2f801/-/crop/1120x1488/1021,0/-/preview/
 firstName: Fabian
-collection: Men
+collection: ''
 height: 181cm
 measurementType: chest
 bust: 97cm
