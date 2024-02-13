@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/6d13e8e6-a894-4a33-9fc1-65d5afe6258d/-/crop/557x740/900,127/-/preview/
 firstName: Jackson
-collection: Men
+collection: Classic
 height: 188cm
 measurementType: chest
 bust: 100cm
