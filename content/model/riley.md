@@ -2,8 +2,7 @@
 template: ModelPage
 title: Riley
 featuredImage: 'https://ucarecdn.com/cb5df83e-b6d8-424d-be33-e6f5d0c18ff4/'
-imageThumbnail: >-
-  https://ucarecdn.com/d0bbac8d-cd1d-4ffa-93c5-c5cd2917739f/-/crop/2952x3448/661,338/-/preview/
+imageThumbnail: 'https://ucarecdn.com/953d5a20-093b-4b46-bda3-89ac221e4b86/'
 firstName: Riley
 collection: Men
 height: 182cm
