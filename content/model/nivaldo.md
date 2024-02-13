@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/940e039d-9f79-4ef1-bcdd-be7717c1a462/-/crop/506x724/156,75/-/preview/
 firstName: Nivaldo
-collection: Men
+collection: Emerging
 height: 190cm
 measurementType: chest
 bust: 103cm
