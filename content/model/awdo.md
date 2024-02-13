@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Awdo
+title: C Awdo
 featuredImage: >-
   https://ucarecdn.com/f37a008c-8309-4f7e-a471-1de7f2fa4454/-/crop/4000x3087/0,139/-/preview/
 imageThumbnail: >-
