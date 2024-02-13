@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/034947f5-a05c-40ae-b84b-79e88efe3840/-/crop/1119x1587/195,338/-/preview/
 firstName: 'Akshay '
-collection: Emerging
+collection: ''
 height: 194cm
 measurementType: chest
 bust: 100cm
