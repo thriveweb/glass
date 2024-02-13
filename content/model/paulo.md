@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Paulo
+title: A Paulo
 featuredImage: 'https://ucarecdn.com/9659a7e2-68b7-45d2-8840-9086ef0f1da3/'
 imageThumbnail: >-
   https://ucarecdn.com/2770f6b9-94a3-4484-a8f8-928fb908d9d2/-/crop/854x1227/351,163/-/preview/
