@@ -4,7 +4,7 @@ title: Dredon
 featuredImage: >-
   https://ucarecdn.com/3e2b3229-9ce6-47fa-9c8f-d0b3163925cc/-/crop/2220x886/257,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b94deca9-6412-4aa2-953c-e21c90a9447b/-/crop/493x733/550,259/-/preview/
+  https://ucarecdn.com/d934a986-ef0c-4f7f-8795-6d4837722975/-/crop/481x658/399,192/-/preview/
 firstName: Dredon
 collection: Men
 height: 184cm
