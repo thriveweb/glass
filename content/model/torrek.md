@@ -3,7 +3,7 @@ template: ModelPage
 title: Torrek
 featuredImage: >-
   https://ucarecdn.com/ffa50071-e686-403f-8d9d-cc543d8da10b/-/crop/1632x601/0,174/-/preview/
-imageThumbnail: 'https://ucarecdn.com/59c6de67-6614-40e9-9e42-452803f96f7a/'
+imageThumbnail: 'https://ucarecdn.com/25f72c83-b326-4916-8509-653668fc5065/'
 firstName: Torrek
 collection: Emerging
 height: 185cm
@@ -16,18 +16,16 @@ shoeSize: 12 US
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/b9dd6d26-6a90-4874-a35e-36cbb810ae48/'
-  - image: 'https://ucarecdn.com/17ab104b-92a6-4cc7-aa5c-3f59623ce94f/'
   - image: 'https://ucarecdn.com/94e46508-2b31-47dc-944f-eda10f6a32e8/'
-  - image: 'https://ucarecdn.com/ca38f133-8cfa-4382-afdc-73762212b4cc/'
-  - image: 'https://ucarecdn.com/39b69b1e-082b-4991-8904-354ada90026a/'
-  - image: 'https://ucarecdn.com/1319ac0d-6b68-4f00-8d1d-28b2086339ce/'
-  - image: 'https://ucarecdn.com/e8c7f3b4-9fe3-4ba3-8d26-4231fa8a3059/'
-  - image: 'https://ucarecdn.com/d1d49c74-bbdf-4079-98a9-d7ed32c5b445/'
-  - image: 'https://ucarecdn.com/0c1b0009-722d-4ec4-9890-bde8ebf91067/'
-  - image: 'https://ucarecdn.com/95edafce-6f3f-42c2-b9fb-a5d6a4785e86/'
-  - image: ''
-  - image: ''
+  - image: 'https://ucarecdn.com/f1d6467f-80db-489e-af40-7694c61ccd58/'
+  - image: 'https://ucarecdn.com/da0f92ae-bb8f-4f2e-9477-c738bfcfbaf6/'
+  - image: 'https://ucarecdn.com/63d8f61e-8863-4f24-ace6-4e7ba8e8a743/'
+  - {}
+  - image: 'https://ucarecdn.com/8610ffb1-bd82-4f53-9f02-1dde251504f6/'
+  - image: 'https://ucarecdn.com/93314bab-e675-4a17-bc64-0d03c67eec56/'
+  - image: 'https://ucarecdn.com/a0d7d5a9-a977-4e90-a9fb-f0220b9c9365/'
+  - image: 'https://ucarecdn.com/11004a8d-454f-4c64-8da3-fdc14fd24dac/'
+  - image: 'https://ucarecdn.com/90d6c177-cf38-4972-a0c5-b9bab3af7555/'
   - {}
 meta:
   title: Torrek
