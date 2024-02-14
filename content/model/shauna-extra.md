@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/fdee7ef1-ec1e-4c82-902a-e2b1607413a1/-/crop/1639x2420/76,284/-/preview/
 firstName: Shauna EXTRA
 collection: Extras
-height: 152cm
+height: 163cm
 measurementType: bust
 bust: 36'
 waist: 33'
