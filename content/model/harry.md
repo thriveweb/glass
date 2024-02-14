@@ -6,13 +6,13 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/07dc962c-ec71-4d54-b255-37e9e470e226/'
 firstName: Harry
 collection: Boys
-height: 98cm
+height: 103cm
 measurementType: chest
 bust: 51cm
-waist: 50cm
-hips: 50cm
+waist: 51cm
+hips: 51cm
 size: '3'
-shoeSize: '9'
+shoeSize: '10'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
