@@ -2,7 +2,7 @@
 template: ModelPage
 title: Asha
 featuredImage: >-
-  https://ucarecdn.com/fc26c0e5-f897-43e8-bf0a-7a1783e31c7d/-/crop/1024x607/0,0/-/preview/
+  https://ucarecdn.com/28756213-19c2-4a06-92c5-51496972af05/-/crop/2445x911/0,447/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/6185e3bd-8be3-4c2d-a1a6-9f4f7f439c0d/-/crop/390x545/367,113/-/preview/
 firstName: Asha
@@ -30,8 +30,8 @@ imagePortfolio:
       https://ucarecdn.com/de35a67f-592b-49a4-99f5-b6bc523103c3/-/crop/682x889/0,135/-/preview/
   - image: 'https://ucarecdn.com/d7221033-e897-4145-bc21-3971fb671435/'
   - image: 'https://ucarecdn.com/15ad946a-77de-4816-ae1a-00e65d0a4e71/'
+  - image: 'https://ucarecdn.com/bde6199a-5502-4c6b-b705-6cbbc3ba4ab5/'
   - image: 'https://ucarecdn.com/a820ccdb-ae1a-4927-946a-d4ce9df7b211/'
-  - image: 'https://ucarecdn.com/5885a53a-8bf5-4f51-8b46-9f0886eb4f8c/'
   - image: >-
       https://ucarecdn.com/5346cd1f-81f4-46f5-8913-415dfcb92708/-/crop/1632x2066/0,383/-/preview/
   - image: 'https://ucarecdn.com/847e03b8-6e67-4e52-b6a5-cba92e665604/'
