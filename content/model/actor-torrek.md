@@ -2,10 +2,10 @@
 template: ModelPage
 title: ACTOR Torrek
 featuredImage: 'https://ucarecdn.com/62c29fea-5ac9-435c-976d-872084f3d275/'
-imageThumbnail: 'https://ucarecdn.com/edc893ac-6fff-4559-83ee-efd08efb8d8b/'
+imageThumbnail: 'https://ucarecdn.com/4ba9c1c9-2ede-4285-896f-d597f0447aff/'
 firstName: ACTOR Torrek
 collection: Actors
 imagePortfolio:
-  - image: 'https://ucarecdn.com/a8bc941d-2bf6-46da-b1f1-b283ffe87cbb/'
+  - image: 'https://ucarecdn.com/e1b7ce24-b3c0-4f49-85d5-34880905a687/'
 ---
 
