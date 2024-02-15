@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/d2c531c0-8ab6-42ea-8f48-baf4e3001f69/-/crop/372x518/27,2/-/preview/
 firstName: Ashley
 collection: Emerging
-height: 170cm
+height: 173cm
 measurementType: bust
-bust: 76cm
+bust: 77cm
 waist: 62cm
-hips: 76cm
-size: '8'
-shoeSize: '7'
+hips: 77cm
+size: '6'
+shoeSize: '8'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
