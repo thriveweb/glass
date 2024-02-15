@@ -4,7 +4,7 @@ title: Asha
 featuredImage: >-
   https://ucarecdn.com/28756213-19c2-4a06-92c5-51496972af05/-/crop/2445x911/0,447/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/869a0ad7-1540-470c-80c5-814c914f47d9/-/crop/2808x4259/1207,83/-/preview/
+  https://ucarecdn.com/869a0ad7-1540-470c-80c5-814c914f47d9/-/crop/3301x4732/908,0/-/preview/
 firstName: Asha
 collection: Women
 height: 177cm
@@ -17,7 +17,8 @@ shoeSize: '10'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/b17430bf-6a59-46ff-b5fd-2081c5b1bc37/'
+  - image: >-
+      https://ucarecdn.com/b17430bf-6a59-46ff-b5fd-2081c5b1bc37/-/crop/3738x4870/742,0/-/preview/
   - image: 'https://ucarecdn.com/45710ff6-4c91-42d9-b5dc-0f4b507446c1/'
   - image: 'https://ucarecdn.com/ebef7871-0433-4117-87be-5635259abae6/'
   - image: 'https://ucarecdn.com/15ad946a-77de-4816-ae1a-00e65d0a4e71/'
