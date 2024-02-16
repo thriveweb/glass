@@ -2,7 +2,7 @@
 template: ModelPage
 title: Tatjana EXTRA
 featuredImage: 'https://ucarecdn.com/e858bc95-cce0-4888-9b15-86ec03ef4b3e/'
-imageThumbnail: 'https://ucarecdn.com/201620ea-61ff-49f1-9e99-0adaca4ba5b7/'
+imageThumbnail: 'https://ucarecdn.com/b0e0f3a0-7de4-49b2-94d5-68957840d514/'
 firstName: Tatjana EXTRA
 collection: Extras
 height: 5'7
