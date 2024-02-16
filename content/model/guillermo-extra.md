@@ -2,7 +2,7 @@
 template: ModelPage
 title: Guillermo EXTRA
 featuredImage: 'https://ucarecdn.com/6ad3d869-2c1c-4f39-96c6-e653047ec3c9/'
-imageThumbnail: 'https://ucarecdn.com/c9eae9be-714c-40f4-a508-5cc32ef8ef09/'
+imageThumbnail: 'https://ucarecdn.com/dfacbbdc-d761-46ee-a389-5bf4bd0cad8d/'
 firstName: Guillermo EXTRA
 collection: Extras
 height: 5'8
