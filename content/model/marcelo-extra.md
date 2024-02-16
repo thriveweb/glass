@@ -2,7 +2,7 @@
 template: ModelPage
 title: Marcelo EXTRA
 featuredImage: 'https://ucarecdn.com/e6b76847-519a-47dd-9edf-8d10325df6fe/'
-imageThumbnail: 'https://ucarecdn.com/c1728fe5-e41f-4a4d-ae11-d814d86d5959/'
+imageThumbnail: 'https://ucarecdn.com/76eb808b-ae4f-424a-b1cb-76c4ffc4f696/'
 firstName: Marcelo EXTRA
 collection: Extras
 height: 182cm
