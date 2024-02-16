@@ -2,7 +2,7 @@
 template: ModelPage
 title: Aimee EXTRA
 featuredImage: 'https://ucarecdn.com/cb3b1f76-7c6c-42f9-9f48-16bf2595d3d6/'
-imageThumbnail: 'https://ucarecdn.com/6151fb14-fbfd-4e28-b63d-d14b96193493/'
+imageThumbnail: 'https://ucarecdn.com/935f6465-9308-454a-8787-bfbaa3d2ba5f/'
 firstName: Aimee EXTRA
 collection: Extras
 height: 5'7
