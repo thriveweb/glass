@@ -2,8 +2,7 @@
 template: ModelPage
 title: Skyla EXTRA
 featuredImage: 'https://ucarecdn.com/962cfbf4-bf1d-4205-9593-1a4e3d2c8845/'
-imageThumbnail: >-
-  https://ucarecdn.com/ff64649b-3fb0-47c8-847f-830781b3735b/-/crop/892x1059/100,166/-/preview/
+imageThumbnail: 'https://ucarecdn.com/4f7aacd7-a2dd-48fa-841a-a3b5c1a47b0e/'
 firstName: Skyla EXTRA
 collection: Extras
 height: 4'9
