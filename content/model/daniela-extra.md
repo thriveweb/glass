@@ -2,7 +2,7 @@
 template: ModelPage
 title: Daniela EXTRA
 featuredImage: 'https://ucarecdn.com/cfcdfdc4-247a-4585-8f61-337395c0af5c/'
-imageThumbnail: 'https://ucarecdn.com/498c0b9c-5b91-4eb6-942c-ebcb9b23492e/'
+imageThumbnail: 'https://ucarecdn.com/41851ae8-ddf5-4c00-a71f-a1f02211571f/'
 firstName: Daniela EXTRA
 collection: Extras
 height: 5'4
@@ -13,6 +13,6 @@ hips: 38 inches
 size: 8-10
 shoeSize: '8'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/371c9883-e5c4-46f7-a6c0-ccec96eaa8d2/'
+  - image: 'https://ucarecdn.com/d04538f3-fd1f-45a2-bb13-125334d3c931/'
 ---
 
