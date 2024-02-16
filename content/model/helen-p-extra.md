@@ -2,7 +2,7 @@
 template: ModelPage
 title: Helen P EXTRA
 featuredImage: 'https://ucarecdn.com/3e47e8af-9e43-4284-8fb6-6ba0a85ae97e/'
-imageThumbnail: 'https://ucarecdn.com/42d9ec0c-b9a4-4482-ad23-2c2fab8d45e2/'
+imageThumbnail: 'https://ucarecdn.com/8eabe12b-5489-46f7-89ee-14b60a11b5a3/'
 firstName: Helen P EXTRA
 collection: Extras
 height: 5'4
