@@ -8,6 +8,10 @@ imageThumbnail: >-
 firstName: Dash
 collection: Boys
 height: 101cm
+measurementType: chest
+bust: 56cm
+waist: 56cm
+hips: 62cm
 size: '4'
 shoeSize: '9'
 imagePortfolio:
