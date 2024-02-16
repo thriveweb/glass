@@ -2,8 +2,7 @@
 template: ModelPage
 title: Chantal EXTRA
 featuredImage: 'https://ucarecdn.com/2ed06da7-5a0c-4191-ad6c-b14199412b06/'
-imageThumbnail: >-
-  https://ucarecdn.com/b09c0f05-fe26-4ba3-960e-cffa06216313/-/crop/811x997/116,181/-/preview/
+imageThumbnail: 'https://ucarecdn.com/e2cbcb47-9753-4e4e-a1e1-43ce4039e859/'
 firstName: Chantal EXTRA
 collection: Extras
 height: 5'1
