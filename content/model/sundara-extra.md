@@ -2,7 +2,7 @@
 template: ModelPage
 title: Sundara EXTRA
 featuredImage: 'https://ucarecdn.com/496e0c7d-987f-4bb1-9ffa-cf0ad057573d/'
-imageThumbnail: 'https://ucarecdn.com/01e2d04d-8fbc-4d45-965a-e69aa2e6c8fe/'
+imageThumbnail: 'https://ucarecdn.com/76ecd7b1-ceeb-4600-8bfa-e434eaec4495/'
 firstName: Sundara EXTRA
 collection: Extras
 height: 5'5
