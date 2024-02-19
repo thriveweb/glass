@@ -11,7 +11,7 @@ height: 179cm
 bust: 104cm
 waist: 81cm
 hips: 81cm
-size: 'M/L '
+size: 32 Pant and M/L Shirt
 shoeSize: '10'
 hair: Brown
 eyes: Brown
