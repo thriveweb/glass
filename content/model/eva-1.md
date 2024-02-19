@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Eva  '
 featuredImage: >-
-  https://ucarecdn.com/aee5ec24-a37d-40e3-b025-cd129caf85c9/-/crop/5205x2709/0,0/-/preview/
+  https://ucarecdn.com/aee5ec24-a37d-40e3-b025-cd129caf85c9/-/crop/5205x2543/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/5338773d-2e97-4f64-831d-d0c2f32128aa/-/crop/406x576/286,423/-/preview/
 firstName: 'Eva  '
