@@ -3,8 +3,7 @@ template: ModelPage
 title: Samuel N
 featuredImage: >-
   https://ucarecdn.com/f187b42a-2462-4294-9bdc-01e0314e1020/-/crop/2424x1356/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/71167100-4898-4ab8-8bf1-442a66ba40b6/-/crop/1558x2353/75,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/9c25fce6-99d8-4893-ac86-f40af152e3dd/'
 firstName: Samuel N
 collection: Men
 height: 185cm
