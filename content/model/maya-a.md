@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: 'Maya '
-featuredImage: 'https://ucarecdn.com/3b368992-d34a-48dd-832f-ee5e5c4e7879/'
+featuredImage: >-
+  https://ucarecdn.com/cc2b93af-ab02-43de-b623-67835622649f/-/crop/2048x1124/0,242/-/preview/
 featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: >-
