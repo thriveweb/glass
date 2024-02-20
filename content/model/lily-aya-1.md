@@ -12,7 +12,7 @@ measurementType: bust
 bust: 63cm
 waist: 60.5cm
 hips: 69cm
-size: 8-9
+size: '10'
 shoeSize: US4
 hair: Brown
 eyes: Brown
