@@ -8,7 +8,7 @@ featuredVideoMobile: 'https://ucarecdn.com/23459c8d-1041-48f4-bf93-8124ff55eb78/
 imageThumbnail: >-
   https://ucarecdn.com/503fa725-6e0e-4f28-a339-81c8c833bb81/-/crop/3505x4428/0,67/-/preview/
 firstName: Samuel D
-collection: Men
+collection: Classic
 height: 180cm
 measurementType: chest
 bust: 105cm
