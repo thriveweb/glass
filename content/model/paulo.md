@@ -3,7 +3,7 @@ template: ModelPage
 title: A Paulo
 featuredImage: 'https://ucarecdn.com/9659a7e2-68b7-45d2-8840-9086ef0f1da3/'
 imageThumbnail: >-
-  https://ucarecdn.com/00342f5d-c86f-4d09-9a44-648af1414d8e/-/crop/414x550/120,0/-/preview/
+  https://ucarecdn.com/00342f5d-c86f-4d09-9a44-648af1414d8e/-/crop/455x622/109,0/-/preview/
 firstName: Paulo
 collection: Men
 height: 187cm
