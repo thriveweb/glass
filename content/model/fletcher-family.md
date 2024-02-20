@@ -4,7 +4,7 @@ title: Fletcher Family
 featuredImage: >-
   https://ucarecdn.com/d0ac381b-28c7-402e-96df-51cc122c82d1/-/crop/2446x972/0,306/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/3442a26a-65c2-4b7a-89dc-e3a3b39205a7/-/crop/1349x1631/675,0/-/preview/
+  https://ucarecdn.com/81faaec9-05a1-4d09-a3c2-0dc783c8e848/-/crop/1425x1617/542,0/-/preview/
 firstName: Fletcher Family
 collection: Family
 imagePortfolio:
