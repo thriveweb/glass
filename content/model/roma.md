@@ -2,7 +2,7 @@
 template: ModelPage
 title: Roma
 featuredImage: >-
-  https://ucarecdn.com/13a44f56-3e33-49da-9041-cd7e57270b35/-/crop/2449x1436/0,80/-/preview/
+  https://ucarecdn.com/13a44f56-3e33-49da-9041-cd7e57270b35/-/crop/2449x1440/0,76/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/9fe65518-edc7-43fa-80c2-e603f04d29d3/-/crop/1310x1844/188,0/-/preview/
 firstName: Roma
