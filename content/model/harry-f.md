@@ -2,7 +2,7 @@
 template: ModelPage
 title: Harry F
 featuredImage: >-
-  https://ucarecdn.com/3f8f74d4-d30b-4b53-abcc-4b7da0c6b23c/-/crop/3274x1890/0,0/-/preview/
+  https://ucarecdn.com/3f8f74d4-d30b-4b53-abcc-4b7da0c6b23c/-/crop/3274x1626/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/8ab9b184-e037-4b2e-88e3-ae4a9dc77ff4/-/crop/724x1024/662,249/-/preview/
 firstName: Harry
