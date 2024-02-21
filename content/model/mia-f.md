@@ -2,7 +2,7 @@
 template: ModelPage
 title: Mia F
 featuredImage: >-
-  https://ucarecdn.com/f54e69c5-f921-4053-80e1-14edb0a3575e/-/crop/3274x1953/0,0/-/preview/
+  https://ucarecdn.com/f54e69c5-f921-4053-80e1-14edb0a3575e/-/crop/3274x1610/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/3ed615d6-505a-4b21-bb7c-262413c88e85/-/crop/784x1170/465,156/-/preview/
 firstName: Mia
