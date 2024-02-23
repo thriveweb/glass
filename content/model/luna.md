@@ -13,7 +13,7 @@ bust: 60cm
 waist: 56cm
 hips: 66cm
 size: 9-10
-shoeSize: '11'
+shoeSize: '3'
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
