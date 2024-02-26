@@ -4,7 +4,7 @@ title: Harry
 featuredImage: >-
   https://ucarecdn.com/f86a4aab-e0d5-4691-bb1f-6c0fc76ff86d/-/crop/905x551/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/99eb0dd1-5015-4149-8a93-c58ddbe1fe7c/-/crop/842x1197/405,0/-/preview/
+  https://ucarecdn.com/99eb0dd1-5015-4149-8a93-c58ddbe1fe7c/-/crop/732x1063/453,0/-/preview/
 firstName: Harry
 collection: Men
 height: 186cm
