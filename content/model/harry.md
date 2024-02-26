@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Harry
+title: Harry K
 featuredImage: >-
   https://ucarecdn.com/e410b442-4468-4061-8660-1b85a29c5f63/-/crop/1536x1068/0,38/-/preview/
 imageThumbnail: 'https://ucarecdn.com/07dc962c-ec71-4d54-b255-37e9e470e226/'
-firstName: Harry
+firstName: Harry K
 collection: Boys
 height: 103cm
 measurementType: chest
