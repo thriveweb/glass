@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/88ca9c67-759a-4b88-8b15-91f637c5f6a9/-/crop/1654x2365/115,0/-/preview/
 firstName: Llena
-collection: Women
+collection: Emerging
 height: 175cm
 measurementType: bust
 bust: 91cm
