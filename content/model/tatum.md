@@ -4,7 +4,7 @@ title: Tatum
 featuredImage: >-
   https://ucarecdn.com/a86bab16-14fe-4981-9344-559e55d0a60b/-/crop/1365x988/0,59/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/21312533-7dc0-4ef9-80ba-34af3de50be6/-/crop/1202x1540/113,5/-/preview/
+  https://ucarecdn.com/21312533-7dc0-4ef9-80ba-34af3de50be6/-/crop/1184x1436/113,5/-/preview/
 firstName: Tatum
 collection: Women
 height: 173cm
