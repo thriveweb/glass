@@ -9,9 +9,9 @@ firstName: Millie
 collection: Girls
 height: 154cm
 measurementType: bust
-bust: 69cm
-waist: 54cm
-hips: 74cm
+bust: 68cm
+waist: 56cm
+hips: 76cm
 size: '10'
 shoeSize: '6'
 hair: Blonde
