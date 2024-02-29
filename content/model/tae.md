@@ -9,6 +9,9 @@ firstName: Tae
 collection: Boys
 height: 165cm
 measurementType: chest
+bust: 72cm
+waist: 71cm
+hips: 76cm
 size: 12-14
 shoeSize: Men's 10
 hair: Brown
