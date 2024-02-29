@@ -4,7 +4,7 @@ title: Tatum EXTRA
 featuredImage: 'https://ucarecdn.com/8bc44ac6-5910-403e-b2dd-a5fd419bdaac/'
 imageThumbnail: 'https://ucarecdn.com/48ea1cb2-2009-4f1c-ba8e-a4808342060c/'
 firstName: Tatum EXTRA
-collection: Extras
+collection: ''
 height: 5'8
 measurementType: bust
 bust: 33'
