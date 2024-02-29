@@ -2,7 +2,7 @@
 template: ModelPage
 title: Beth
 featuredImage: >-
-  https://ucarecdn.com/72fa53c2-d3c1-42dc-8f3f-0ef91b732b1b/-/crop/836x535/0,134/-/preview/
+  https://ucarecdn.com/72fa53c2-d3c1-42dc-8f3f-0ef91b732b1b/-/crop/836x509/0,115/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/e065fb4c-6b3c-49e3-880b-cfc359edbd02/-/crop/612x877/149,19/-/preview/
 firstName: Beth
