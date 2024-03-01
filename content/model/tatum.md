@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/21312533-7dc0-4ef9-80ba-34af3de50be6/-/crop/1184x1436/113,5/-/preview/
 firstName: Tatum
-collection: ''
+collection: Women
 height: 173cm
 measurementType: bust
 bust: 85cm
