@@ -2,8 +2,7 @@
 template: ModelPage
 title: Giselle EXTRA
 featuredImage: 'https://ucarecdn.com/98e47e7a-15a8-4fec-84fc-9d007c66b5a5/'
-imageThumbnail: >-
-  https://ucarecdn.com/fc521f85-f54b-4253-bd3a-85ddbc4628b1/-/crop/800x1058/90,156/-/preview/
+imageThumbnail: 'https://ucarecdn.com/aeaaa9e7-73ca-4635-a112-c05fe6ab03e7/'
 firstName: Giselle EXTRA
 collection: Extras
 height: 175cm
@@ -16,6 +15,6 @@ shoeSize: 10-11
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/681f7a5c-3766-4908-962f-70feff7d0194/'
+  - image: 'https://ucarecdn.com/d90963a7-2b23-4f03-bee2-b7d40e57767a/'
 ---
 
