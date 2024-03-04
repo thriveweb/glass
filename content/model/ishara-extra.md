@@ -2,7 +2,7 @@
 template: ModelPage
 title: Ishara EXTRA
 featuredImage: 'https://ucarecdn.com/40800543-f002-410a-8f11-bd24e95c7d84/'
-imageThumbnail: 'https://ucarecdn.com/8be0d5ee-83c1-41cf-ab96-6dcc234a2f04/'
+imageThumbnail: 'https://ucarecdn.com/1ffae09b-2cc0-4080-a2b7-673f057f754f/'
 firstName: Ishara EXTRA
 collection: Extras
 height: 5'7
@@ -15,7 +15,7 @@ shoeSize: '8'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/7133dc58-1767-4ae5-aced-10ec9853a77b/'
+  - image: 'https://ucarecdn.com/e93815ca-1131-4fec-aec2-22a4cb208d08/'
   - image: 'https://ucarecdn.com/32e40b44-11b8-4963-a2f9-04e95144798b/'
   - image: 'https://ucarecdn.com/ac454172-9543-49bd-a7f7-eaf4188b1a53/'
   - image: 'https://ucarecdn.com/3ef496d7-7ff9-442a-9b82-1b60bf4fffd5/'
