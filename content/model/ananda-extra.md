@@ -2,8 +2,7 @@
 template: ModelPage
 title: Ananda EXTRA
 featuredImage: 'https://ucarecdn.com/555caf50-2bdc-4273-9aed-06c63288142c/'
-imageThumbnail: >-
-  https://ucarecdn.com/cca2ed57-c05f-4cd6-85f5-29b536bb0edd/-/crop/940x1199/24,177/-/preview/
+imageThumbnail: 'https://ucarecdn.com/7af1344f-7013-48eb-ac12-5476ef52dfbc/'
 firstName: Ananda EXTRA
 collection: Extras
 height: 180cm
@@ -23,7 +22,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/afb6331f-efff-449e-a54b-099a25fc742d/'
   - image: 'https://ucarecdn.com/82ece2a3-f302-45b3-8407-0250ec7c8012/'
   - image: 'https://ucarecdn.com/df9019cb-dd20-4775-b301-cce2ac97b811/'
-  - image: 'https://ucarecdn.com/c3e61946-0d1d-447f-93d0-3fe3b0fe6791/'
-  - image: 'https://ucarecdn.com/7a9f972c-684c-4e4c-956d-001b9a4e602d/'
+  - image: 'https://ucarecdn.com/55ee3eaa-071d-4981-81a5-0ec8209f84b1/'
+  - image: 'https://ucarecdn.com/3e3c68d5-dfd8-4550-9fee-c8268f0bb504/'
 ---
 
