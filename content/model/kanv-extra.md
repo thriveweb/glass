@@ -2,7 +2,7 @@
 template: ModelPage
 title: Kanv EXTRA
 featuredImage: 'https://ucarecdn.com/64144f31-b049-44a3-9e30-18719e7eac1b/'
-imageThumbnail: 'https://ucarecdn.com/9eac0dbf-c8e6-4045-b13b-a3eed6272bb8/'
+imageThumbnail: 'https://ucarecdn.com/dddad06e-2d5e-47fe-a8e2-753ecf08a7a7/'
 firstName: Kanv EXTRA
 collection: Extras
 height: 5'8
@@ -13,6 +13,6 @@ hips: 104cm
 size: M/34
 shoeSize: '10.5'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/5627e73d-1b33-4662-aaf9-a04b1d111826/'
+  - image: 'https://ucarecdn.com/bb59f3e6-de6f-4919-bafb-356866d28e3d/'
 ---
 
