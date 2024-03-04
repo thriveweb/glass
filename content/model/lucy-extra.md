@@ -2,7 +2,7 @@
 template: ModelPage
 title: Lucy EXTRA
 featuredImage: 'https://ucarecdn.com/436fd280-0b1a-4bce-9f3d-45ffb0dbc743/'
-imageThumbnail: 'https://ucarecdn.com/cc86ee6f-71eb-498c-9514-615b4b608f54/'
+imageThumbnail: 'https://ucarecdn.com/3a67e998-49f5-4f3b-901c-28b74d9b9169/'
 firstName: Lucy EXTRA
 collection: Extras
 height: 167cm
@@ -13,6 +13,6 @@ hips: 93cm
 size: '8'
 shoeSize: '7'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/943ca079-d639-488d-b1e9-b706a21aec75/'
+  - image: 'https://ucarecdn.com/c7393e93-da32-4ffa-ba4d-7e65643de105/'
 ---
 
