@@ -4,7 +4,7 @@ title: Sleeter Family
 featuredImage: >-
   https://ucarecdn.com/887201dd-ed8d-4ef9-a824-37d7c98bf42b/-/crop/5138x3191/0,78/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/64ec41c8-8bf7-4678-8cd7-d12af9cca3df/-/crop/1294x1659/0,141/-/preview/
+  https://ucarecdn.com/dd296f04-cf56-46a3-a1ec-2e4639347e14/-/crop/473x516/100,43/-/preview/
 firstName: Sleeter Family
 collection: Family
 imagePortfolio:
