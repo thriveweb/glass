@@ -9,8 +9,10 @@ firstName: Jerreka
 collection: Classic
 height: 164cm
 measurementType: bust
-bust: 50cm
-size: 12-14
+bust: 107cm
+waist: 90cm
+hips: 114cm
+size: '14'
 shoeSize: '8'
 hair: Brown
 eyes: Brown
