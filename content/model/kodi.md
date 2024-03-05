@@ -4,7 +4,7 @@ title: Kodi
 featuredImage: 'https://ucarecdn.com/31606704-48f5-45ef-8b71-4b8c4a4ad897/'
 imageThumbnail: 'https://ucarecdn.com/2854422a-6c68-417e-bf4d-e9ac9cdd7520/'
 firstName: Kodi
-collection: Boys
+collection: ''
 height: 162cm
 measurementType: chest
 bust: 81cm
