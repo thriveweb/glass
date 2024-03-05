@@ -12,7 +12,7 @@ measurementType: bust
 bust: 70cm
 waist: 59cm
 hips: 73cm
-size: 10-12
+size: '12'
 shoeSize: '6'
 hair: Dark Brown
 eyes: Dark Brown
