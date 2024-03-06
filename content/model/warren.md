@@ -3,7 +3,8 @@ template: ModelPage
 title: Warren
 featuredImage: >-
   https://ucarecdn.com/15852575-3a3c-4774-a8eb-82e3aa52f669/-/crop/2297x1029/0,60/-/preview/
-imageThumbnail: 'https://ucarecdn.com/d3255b18-c036-47fb-a003-ad7e663d0d01/'
+imageThumbnail: >-
+  https://ucarecdn.com/d3255b18-c036-47fb-a003-ad7e663d0d01/-/crop/1480x2162/0,0/-/preview/
 firstName: Warren
 collection: Classic
 height: 183cm
