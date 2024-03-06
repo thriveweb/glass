@@ -3,7 +3,7 @@ template: ModelPage
 title: Kevin L
 featuredImage: 'https://ucarecdn.com/8c1fbac2-8416-4160-94e1-16992cb86ed7/'
 imageThumbnail: >-
-  https://ucarecdn.com/502f133d-673d-47c1-8daa-596865394414/-/crop/952x1448/415,202/-/preview/
+  https://ucarecdn.com/a027db03-33dd-4381-b074-8e7811319e70/-/crop/1470x2336/0,0/-/preview/
 firstName: Kevin
 collection: Men
 height: 170cm
@@ -29,5 +29,11 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/be12c495-15e9-467c-ac1d-f0bd41d18922/'
   - image: 'https://ucarecdn.com/06f5854d-3106-4105-9370-8cb9e155feb1/'
   - image: 'https://ucarecdn.com/a48d3ca1-c173-481b-afd4-79759f17fd23/'
+  - image: 'https://ucarecdn.com/baa72010-b0b4-497c-a1fa-6a125ed19d3e/'
+  - image: 'https://ucarecdn.com/1c903a4b-858b-482e-a515-75e4f7f9f5c8/'
+  - image: 'https://ucarecdn.com/4712976e-0a23-43c8-9497-d845fd018a9e/'
+  - image: 'https://ucarecdn.com/9c23f1b1-742f-4080-aad8-0d87a1cef9e6/'
+  - image: 'https://ucarecdn.com/a07ba3de-a9be-4317-bdcb-23334b1e3b3d/'
+  - image: 'https://ucarecdn.com/f67b9510-7712-429c-bac8-cf2ca8288097/'
 ---
 
