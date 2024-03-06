@@ -4,7 +4,7 @@ title: Jak
 featuredImage: >-
   https://ucarecdn.com/078db83a-e93a-4382-b001-4769e2ce7e1e/-/crop/1927x1127/0,30/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ea4de728-8705-417c-b9f5-4c79b89d628f/-/crop/1368x1836/148,123/-/preview/
+  https://ucarecdn.com/b88584e9-d66b-4639-98e6-e671f01b3d75/-/crop/1517x2236/116,0/-/preview/
 firstName: Jak
 collection: Men
 height: 176cm
@@ -17,12 +17,14 @@ shoeSize: '9'
 hair: Light Brown
 eyes: Blue/green
 imagePortfolio:
-  - image: 'https://ucarecdn.com/5b241d1d-b95b-4ec6-b7f4-8c3f22142025/'
-  - image: 'https://ucarecdn.com/7e8e2d36-c7fc-4a5b-b1c8-2095dd939de9/'
+  - image: 'https://ucarecdn.com/c3fb363b-05b0-4979-b89b-e59d9a28d661/'
   - image: 'https://ucarecdn.com/646557da-48f7-4c07-9ff2-e28121c2610f/'
-  - image: 'https://ucarecdn.com/64f3d512-53a2-4eb7-a2eb-cfce66994389/'
+  - image: 'https://ucarecdn.com/f462a4b4-3d83-400b-a923-13738ddca0dd/'
+  - image: 'https://ucarecdn.com/7e8e2d36-c7fc-4a5b-b1c8-2095dd939de9/'
+  - image: 'https://ucarecdn.com/427f4e96-8db9-4cc7-9f20-1954be10fe4a/'
+  - image: 'https://ucarecdn.com/46b412ea-47c2-450f-b770-7a3a3f6543d8/'
   - image: 'https://ucarecdn.com/0969d070-2ab6-454e-a486-63a07c6d5dd8/'
-  - image: 'https://ucarecdn.com/2a197eaf-5ec5-48d5-aa41-3fa09eff3553/'
+  - image: 'https://ucarecdn.com/34d16c00-7d11-4b4a-9020-45efec1f829d/'
   - image: 'https://ucarecdn.com/50efc676-0aeb-4bb7-abdd-5ad3949d7e06/'
   - image: 'https://ucarecdn.com/d4d3b4b9-6907-4a18-8fd6-8d2bbb20bdbe/'
   - image: 'https://ucarecdn.com/54b3a727-5b63-47cd-a772-57bf3a469c59/'
