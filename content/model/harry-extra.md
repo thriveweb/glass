@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Harry EXTRA
+title: Harry B EXTRA
 featuredImage: 'https://ucarecdn.com/7e06c667-8725-4231-9376-7742094a3a01/'
 imageThumbnail: >-
   https://ucarecdn.com/864f95d9-ede3-4bd4-92de-7832ced15cff/-/crop/752x982/109,72/-/preview/
-firstName: Harry EXTRA
+firstName: Harry B EXTRA
 collection: Extras
 height: 186cm
 measurementType: chest
