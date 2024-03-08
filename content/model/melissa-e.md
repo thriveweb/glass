@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/4fc95422-9105-4aad-a335-60475fab6330/-/crop/1407x1998/90,0/-/preview/
 firstName: Melissa E
-collection: Classic
+collection: ''
 height: 154cm
 measurementType: bust
 bust: 75cm
