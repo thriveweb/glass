@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/668afaf0-fbca-4bba-b6ca-cccec6b974fd/-/crop/2000x1076/0,683/-/preview/
 imageThumbnail: 'https://ucarecdn.com/97283bbe-2006-4c03-b466-7177e9a66003/'
 firstName: Josh
-collection: Boys
+collection: ''
 height: 99cm
 measurementType: chest
 bust: 51cm
