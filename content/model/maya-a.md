@@ -5,8 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/cc2b93af-ab02-43de-b623-67835622649f/-/crop/2048x1124/0,242/-/preview/
 featuredVideo: ''
 featuredVideoMobile: ''
-imageThumbnail: >-
-  https://ucarecdn.com/b52a5d38-3224-4949-a375-08ea82bbcab2/-/crop/3125x4179/1343,328/-/preview/
+imageThumbnail: 'https://ucarecdn.com/cd418d86-ac67-468d-8b21-222e07e39da2/'
 firstName: Maya A
 collection: Women
 height: 170cm
@@ -19,9 +18,9 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/f977dc13-4526-4085-9d4a-f8c9015c832c/'
   - image: >-
       https://ucarecdn.com/92d3c2e1-27c0-4234-92fe-6d80d61438e1/-/crop/1218x1917/236,0/-/preview/
+  - image: 'https://ucarecdn.com/f977dc13-4526-4085-9d4a-f8c9015c832c/'
   - image: 'https://ucarecdn.com/0b54989f-a90a-4b9b-93f0-149d6a061293/'
   - image: 'https://ucarecdn.com/e0b5e468-5797-464c-bca7-dee500c16d0a/'
   - image: 'https://ucarecdn.com/b1ff4bc9-a38b-44ac-9e77-6f1c9593135d/'
