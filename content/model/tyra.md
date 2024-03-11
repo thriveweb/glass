@@ -2,7 +2,7 @@
 template: ModelPage
 title: Me Tyra
 featuredImage: >-
-  https://ucarecdn.com/3302d592-f057-458b-9e7b-9fecd6acb841/-/crop/3648x2011/0,1214/-/preview/
+  https://ucarecdn.com/3302d592-f057-458b-9e7b-9fecd6acb841/-/crop/3648x2011/0,1060/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/8ca717bc-d0af-4b7c-aa5e-b62ea3d94aac/-/crop/1317x1837/113,62/-/preview/
 firstName: Tyra
