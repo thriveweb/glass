@@ -4,7 +4,7 @@ title: Me Tyra
 featuredImage: >-
   https://ucarecdn.com/1a7c90f1-98b8-4605-8dee-4d085e9a9340/-/crop/4394x2617/0,445/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c6a674ac-6787-46e1-961b-3378484f82a4/-/crop/525x744/219,144/-/preview/
+  https://ucarecdn.com/8ca717bc-d0af-4b7c-aa5e-b62ea3d94aac/-/crop/1317x1837/113,62/-/preview/
 firstName: Tyra
 collection: Women
 height: 168cm
@@ -17,24 +17,26 @@ shoeSize: '8'
 hair: Brown
 eyes: Hazel
 imagePortfolio:
-  - image: 'https://ucarecdn.com/9b004db4-2aad-4a73-9ca1-86b46163ecbc/'
-  - image: 'https://ucarecdn.com/b488ab22-f6c4-44af-bcd2-ed5013cfc3fe/'
+  - image: 'https://ucarecdn.com/b5e4cc95-8f5b-481c-97e5-9a896e580ef7/'
+  - image: 'https://ucarecdn.com/d3bed3bb-2bf3-47fa-afb4-9697f3ae0bf4/'
+  - image: 'https://ucarecdn.com/e1afa687-5535-4140-a710-46d7b52446a2/'
+  - image: 'https://ucarecdn.com/a18cf55b-adcc-497a-9fd2-a88513e733d0/'
+  - image: 'https://ucarecdn.com/32422e97-f818-4091-a514-cc7df0cf6cc2/'
+  - image: 'https://ucarecdn.com/f3733cfb-3325-43e5-8dfc-da89d35e7b5a/'
+  - image: 'https://ucarecdn.com/ad8fc5aa-2d03-47a1-8e3f-f9dd658204dc/'
+  - image: 'https://ucarecdn.com/4b3ad10f-a901-4d73-a793-264b855b64e1/'
+  - image: 'https://ucarecdn.com/77cbabab-c7c1-4f93-90aa-563088cceb79/'
   - image: 'https://ucarecdn.com/68e93374-049a-4dd8-99a3-fd87bb8cb309/'
-  - image: 'https://ucarecdn.com/361df837-4a7b-4e2b-b47a-4621f2e583a2/'
-  - image: 'https://ucarecdn.com/5cf7d218-7a5b-4288-a6b8-fb43491464fb/'
-  - image: 'https://ucarecdn.com/c294c6e3-1a53-47b8-b082-f92488a11bac/'
   - image: 'https://ucarecdn.com/64bf3fc4-87a5-4e3e-9bd7-5405fe14f89b/'
-  - image: 'https://ucarecdn.com/eafc66bf-3be9-4c6b-960f-7296aed95e36/'
   - image: 'https://ucarecdn.com/8e608e1c-3b9e-427a-b36a-c31f72cd4aa1/'
+  - image: 'https://ucarecdn.com/c294c6e3-1a53-47b8-b082-f92488a11bac/'
   - image: 'https://ucarecdn.com/82620187-52fb-430d-a58e-07458ffd6f80/'
   - image: 'https://ucarecdn.com/cbd9148e-d352-4a25-9b02-629a1b48bad8/'
   - image: 'https://ucarecdn.com/b3757fff-a2dc-44d3-a07a-f449cbf43b49/'
-  - image: 'https://ucarecdn.com/38e69135-b9cd-4b4c-a1f4-1cdb268e74ae/'
-  - image: 'https://ucarecdn.com/3272b979-5796-4ca5-832f-ed36d60be629/'
-  - image: 'https://ucarecdn.com/a0d00fe0-4317-4d98-9a8e-b6421ffd5619/'
+  - image: 'https://ucarecdn.com/5cf7d218-7a5b-4288-a6b8-fb43491464fb/'
   - image: >-
       https://ucarecdn.com/f446764f-f446-4292-8bde-044dbc0f8c82/-/preview/-/rotate/90/
-  - image: 'https://ucarecdn.com/3589ee94-fbb3-4579-aa42-fa19a3229f97/'
   - image: 'https://ucarecdn.com/76e13b56-2fe8-40c8-8cc6-21f7f4393951/'
+  - image: 'https://ucarecdn.com/9b004db4-2aad-4a73-9ca1-86b46163ecbc/'
 ---
 
