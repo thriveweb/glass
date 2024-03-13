@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/3b81f4b5-d824-4741-86bb-5d1484fb03f8/-/crop/685x810/220,0/-/preview/
 firstName: Sheriff
-collection: Extras
+collection: ''
 height: 184cm
 measurementType: chest
 bust: 96cm
