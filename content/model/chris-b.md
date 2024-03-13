@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b0302951-c035-44c2-a032-bcfbd95f21bd/-/crop/1059x1510/323,0/-/preview/
 firstName: Chris B
-collection: Extras
+collection: ''
 height: 177cm
 measurementType: chest
 bust: 106cm
