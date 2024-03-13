@@ -4,7 +4,7 @@ title: Juan EXTRA
 featuredImage: 'https://ucarecdn.com/a9984dcc-0765-4e84-919a-0bd6d12e0349/'
 imageThumbnail: 'https://ucarecdn.com/5c7a0dc5-7916-4b60-9b0e-f3ef921c97a4/'
 firstName: Juan EXTRA
-collection: Extras
+collection: ''
 height: 6'3
 measurementType: chest
 bust: 33 inches
