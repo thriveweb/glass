@@ -6,10 +6,10 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/03624e87-b5d9-489c-87b4-f9a08cd380c9/-/preview/'
 firstName: Bayli
 collection: Girls
-height: 147cm
+height: 149cm
 measurementType: bust
-bust: 67cm
-waist: 61cm
+bust: 70cm
+waist: 60cm
 hips: 74cm
 size: '10'
 shoeSize: '3'
