@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: John P EXTRA
-featuredImage: 'https://ucarecdn.com/00480906-b616-49a1-9561-42c0668128ab/'
+featuredImage: 'https://ucarecdn.com/cd068685-7e6c-4866-8a35-fd8cf9ec1c0b/'
 imageThumbnail: 'https://ucarecdn.com/8f9436a6-1acc-47d1-8ffd-0b0143b00ee3/'
 firstName: John P EXTRA
 collection: Extras
