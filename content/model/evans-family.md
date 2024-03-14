@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/324ef6b0-0dd3-412a-9949-60aa63f31070/-/crop/2000x1041/0,739/-/preview/
 imageThumbnail: 'https://ucarecdn.com/e36bdfc4-c816-48de-81f6-be641af02292/'
 firstName: Evans Family
-collection: Family
+collection: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/97fd5925-d242-4d4b-8164-3ce333128004/'
   - image: 'https://ucarecdn.com/1862e598-7d53-41f2-b61f-17c2ca5efbe3/'
