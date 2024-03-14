@@ -3,7 +3,7 @@ template: ModelPage
 title: Sonya EXTRA
 featuredImage: >-
   https://ucarecdn.com/ffdbf1cd-30ce-47c0-a5e6-995020122ff7/-/crop/478x411/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/37849e9f-f07d-492b-99e5-519ae17fec05/'
+imageThumbnail: 'https://ucarecdn.com/bee72b69-6bda-4db3-9459-9eab6ffd3d52/'
 firstName: Sonya EXTRA
 collection: Extras
 height: 178cm
@@ -22,7 +22,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/1b1d8bc3-f1e2-42d3-8628-710b6d333f18/'
   - image: 'https://ucarecdn.com/4de2e7ef-95e3-41c9-a777-7705c4366b63/'
   - image: 'https://ucarecdn.com/46e3b514-cbfe-4900-bafa-71f17758e07a/'
-  - image: 'https://ucarecdn.com/06e5fc68-7288-4c8a-acab-2f1b63f104ae/'
+  - image: 'https://ucarecdn.com/0484e036-64e8-411b-ac9c-d3d900885485/'
   - image: 'https://ucarecdn.com/6d177056-48eb-4532-9d43-3d4e031c527a/'
   - image: 'https://ucarecdn.com/2426bab5-c42c-4763-ba44-f7f4cdcaf7eb/'
 ---
