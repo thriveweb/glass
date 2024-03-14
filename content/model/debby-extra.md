@@ -2,8 +2,7 @@
 template: ModelPage
 title: Debby EXTRA
 featuredImage: 'https://ucarecdn.com/169e8d99-83ea-4af6-800e-6452ee83506b/'
-imageThumbnail: >-
-  https://ucarecdn.com/7f14be53-38e1-45ff-9c26-3ddc3696bc99/-/crop/464x613/79,31/-/preview/
+imageThumbnail: 'https://ucarecdn.com/dfdb82a1-3562-4e1b-97e8-0bb7d42d6095/'
 firstName: Debby EXTRA
 collection: Extras
 height: 157cm
@@ -14,6 +13,6 @@ hips: 78cm
 size: '6'
 shoeSize: '6'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/14c56224-980f-4e83-a4bc-7a1a57876d16/'
+  - image: 'https://ucarecdn.com/41858939-35ea-4aa4-9caf-15c987c7ade0/'
 ---
 
