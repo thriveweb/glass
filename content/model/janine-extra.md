@@ -2,7 +2,7 @@
 template: ModelPage
 title: Janine EXTRA
 featuredImage: 'https://ucarecdn.com/cdfedcbe-048a-409f-aded-688e3a2b102c/'
-imageThumbnail: 'https://ucarecdn.com/e8a90587-1517-4073-884c-2dff2838aced/'
+imageThumbnail: 'https://ucarecdn.com/d99c4f29-5290-4b13-a51b-c451d4fd381e/'
 firstName: Janine EXTRA
 collection: Extras
 height: 170cm
@@ -13,6 +13,6 @@ hips: 98cm
 size: '10'
 shoeSize: '8'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/f20d0aa0-12b1-4767-b9ae-696aee81ff6c/'
+  - image: 'https://ucarecdn.com/4e7c11b8-4ded-4d5f-9f2a-ba690771b24a/'
 ---
 
