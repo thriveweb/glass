@@ -2,7 +2,7 @@
 template: ModelPage
 title: Ella L EXTRA
 featuredImage: 'https://ucarecdn.com/0e96b513-0e7b-4d1f-baeb-99709817fdce/'
-imageThumbnail: 'https://ucarecdn.com/c583c911-d5ef-450c-98b2-78e40391d5cd/'
+imageThumbnail: 'https://ucarecdn.com/03f2aaf3-c2a2-47b7-a687-86b72cca984e/'
 firstName: Ella L EXTRA
 collection: Extras
 height: 5'7
@@ -15,7 +15,7 @@ shoeSize: 8/9
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/c793ce5d-7472-41f0-8504-f67f10cf81ab/'
+  - image: 'https://ucarecdn.com/94f73ea2-144b-43ad-8d3d-4bd71970551f/'
   - image: 'https://ucarecdn.com/9024700c-0afb-4bad-ac89-88df3df1a01d/'
   - image: 'https://ucarecdn.com/b4a82def-3589-4ef4-8e27-9b7cf94faba3/'
   - image: 'https://ucarecdn.com/c64a2c45-dcd4-4865-aa01-f9916fb3b8f4/'
