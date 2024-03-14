@@ -4,7 +4,7 @@ title: Nina
 featuredImage: >-
   https://ucarecdn.com/b37262e5-36f5-46e7-871f-30324319ed9a/-/crop/1164x565/84,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/78154806-637f-4e38-b0c1-29d0f628ab8e/-/crop/1491x2224/128,144/-/preview/
+  https://ucarecdn.com/16b665c7-90af-4346-b63d-77d6758b8be3/-/crop/429x574/33,0/-/preview/
 firstName: Nina
 collection: Women
 height: 159cm
