@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Keith
-featuredImage: >-
-  https://ucarecdn.com/3a6d6d22-af38-4a32-ab1d-a93a27cead72/-/crop/633x455/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/fe9f348e-5956-4959-bef7-607bbb85bd29/'
 imageThumbnail: >-
   https://ucarecdn.com/8453a211-3a4c-4562-bb21-378ad9a23c24/-/crop/525x799/54,0/-/preview/
 firstName: Keith
