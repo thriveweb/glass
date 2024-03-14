@@ -4,7 +4,7 @@ title: Keith EXTRA
 featuredImage: 'https://ucarecdn.com/fe9f348e-5956-4959-bef7-607bbb85bd29/'
 imageThumbnail: >-
   https://ucarecdn.com/8453a211-3a4c-4562-bb21-378ad9a23c24/-/crop/525x799/54,0/-/preview/
-firstName: Keith
+firstName: Keith EXTRA
 collection: Extras
 height: 188cm
 measurementType: chest
