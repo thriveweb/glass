@@ -8,7 +8,7 @@ firstName: Keith
 collection: Extras
 height: 188cm
 measurementType: chest
-bust: 11cm
+bust: 111cm
 waist: 110cm
 hair: White
 eyes: Blue
