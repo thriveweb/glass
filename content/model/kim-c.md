@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Kim C
+title: Kim B
 featuredImage: >-
   https://ucarecdn.com/a309d436-de0b-4e82-87dd-2d832eea10ce/-/crop/1200x576/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/1a29b185-0be3-4395-8a8f-b73a4fed1d36/-/crop/2462x3502/1005,537/-/preview/
-firstName: Kim C
+firstName: Kim B
 collection: Classic
 height: 175cm
 measurementType: bust
