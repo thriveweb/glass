@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/dc844bab-b74e-4567-b6c4-f1ff09ebd38e/-/crop/718x963/512,0/-/preview/
 firstName: Emily
-collection: Classic
+collection: Extras
 height: 168cm
 measurementType: bust
 bust: 81cm
