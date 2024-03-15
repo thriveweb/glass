@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f1b9f313-8504-40a2-8f9e-5f3ddaad7ce8/-/crop/1054x1483/755,0/-/preview/
 firstName: Tarun
-collection: Men
+collection: Classic
 height: 180cm
 measurementType: chest
 bust: 89cm
