@@ -4,7 +4,7 @@ title: Jak
 featuredImage: >-
   https://ucarecdn.com/078db83a-e93a-4382-b001-4769e2ce7e1e/-/crop/1927x1127/0,30/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b88584e9-d66b-4639-98e6-e671f01b3d75/-/crop/1517x2236/116,0/-/preview/
+  https://ucarecdn.com/27408958-32be-43c4-803c-d2f6ca3a9649/-/crop/432x618/0,0/-/preview/
 firstName: Jak
 collection: Men
 height: 176cm
