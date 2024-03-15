@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/e00bdcf3-0cf2-48ff-a2f1-29432a39fdfc/-/crop/1085x1552/336,0/-/preview/
 firstName: Gabby P
-collection: Emerging
+collection: ''
 height: 162cm
 measurementType: bust
 bust: 78cm
