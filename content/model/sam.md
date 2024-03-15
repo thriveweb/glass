@@ -4,7 +4,7 @@ title: Sam
 featuredImage: >-
   https://ucarecdn.com/0c96bbf0-25ed-4672-83ae-26913bde9b95/-/crop/1365x692/0,476/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/edda5d00-e0e7-4bfb-9438-9cbdcbd9c6ce/-/crop/4524x6770/410,0/-/preview/
+  https://ucarecdn.com/f373147b-4803-4ffc-845e-3d846c0d134e/-/crop/241x283/81,0/-/preview/
 firstName: Sam
 collection: Men
 height: 187cm
