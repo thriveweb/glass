@@ -2,7 +2,8 @@
 template: ModelPage
 title: B Shirlyn
 featuredImage: 'https://ucarecdn.com/9d21d0ae-989c-4256-a09f-3a314873af9e/'
-imageThumbnail: 'https://ucarecdn.com/07b6f0cf-cb6d-45ea-a8a2-bb463afe7ae5/'
+imageThumbnail: >-
+  https://ucarecdn.com/07b6f0cf-cb6d-45ea-a8a2-bb463afe7ae5/-/crop/4140x5709/167,762/-/preview/
 firstName: Shirlyn
 collection: Classic
 height: 166cm
