@@ -3,7 +3,8 @@ template: ModelPage
 title: Elisha S
 featuredImage: >-
   https://ucarecdn.com/d8222679-36cc-4931-b360-79f9d639c460/-/crop/1650x931/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/5a5d1b97-6766-491f-8a63-17b7a85e92ba/'
+imageThumbnail: >-
+  https://ucarecdn.com/7fcb1d58-5fdd-4f81-9734-ec54f324de92/-/crop/450x612/6,0/-/preview/
 firstName: Elisha
 collection: Classic
 height: 170cm
