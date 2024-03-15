@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/94c028ff-f1a4-4e0d-afd7-bb99a18b1ac7/-/crop/5454x3315/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/1b4f1ade-b8f5-43ce-be12-35561cc5de0d/'
 firstName: Christiaan
-collection: Men
+collection: Classic
 height: 179cm
 measurementType: chest
 bust: 93cm
