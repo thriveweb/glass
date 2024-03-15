@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/9a4a151e-8ec3-49f8-8730-4a738cef187b/-/crop/1672x2219/1383,449/-/preview/
 firstName: Awdo
-collection: Men
+collection: Actors
 height: 193cm
 measurementType: chest
 bust: 107cm
