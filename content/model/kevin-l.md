@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Kevin L
-featuredImage: 'https://ucarecdn.com/8c1fbac2-8416-4160-94e1-16992cb86ed7/'
+featuredImage: >-
+  https://ucarecdn.com/ce0025b2-9120-4af3-ba32-e0843d00a05b/-/crop/1632x1093/0,313/-/preview/
 imageThumbnail: 'https://ucarecdn.com/d97658cd-3cbd-41b5-8d72-336f03b3135c/'
 firstName: Kevin
 collection: Men
