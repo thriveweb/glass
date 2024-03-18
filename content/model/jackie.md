@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: A Jackie
+title: AA Jackie
 featuredImage: >-
   https://ucarecdn.com/86912007-d905-434c-92e8-2453645cab1c/-/crop/5445x2945/0,0/-/preview/
 imageThumbnail: >-
