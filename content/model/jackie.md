@@ -1,12 +1,12 @@
 ---
 template: ModelPage
-title: Jackie
+title: A Jackie
 featuredImage: >-
   https://ucarecdn.com/86912007-d905-434c-92e8-2453645cab1c/-/crop/5445x2945/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b9cff1c4-7d0c-4fa3-a19a-428d267cedb2/-/crop/4787x6740/496,84/-/preview/
 firstName: Jackie
-collection: Women
+collection: Classic
 height: 171cm
 measurementType: bust
 bust: 88cm
