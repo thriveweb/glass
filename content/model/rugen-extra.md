@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/a2697818-6339-4f49-81f6-fab5bb83c642/'
 imageThumbnail: >-
   https://ucarecdn.com/54933908-80c9-4d7c-a87b-98ce0f9b50c8/-/crop/1451x1984/156,325/-/preview/
 firstName: Rugen EXTRA
-collection: Extras
+collection: ''
 height: 170cm
 measurementType: bust
 bust: 35'
