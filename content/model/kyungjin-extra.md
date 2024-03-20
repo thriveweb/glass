@@ -4,7 +4,7 @@ title: Kyungjin EXTRA
 featuredImage: 'https://ucarecdn.com/4f1d0472-bce8-4dff-985f-2414b1b94406/'
 imageThumbnail: >-
   https://ucarecdn.com/3eb9d34c-a5d8-4747-bbad-67ffdec7d1a8/-/crop/672x1023/124,0/-/preview/
-firstName: Kyungjin
+firstName: Kyungjin EXTRA
 collection: Extras
 height: 160cm
 measurementType: bust
