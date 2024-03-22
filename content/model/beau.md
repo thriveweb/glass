@@ -9,9 +9,9 @@ firstName: Beau
 collection: Boys
 height: 172cm
 measurementType: chest
-bust: 84cm
-waist: 81cm
-hips: 71cm
+bust: 85cm
+waist: 68cm
+hips: 85cm
 size: '14'
 shoeSize: '9'
 hair: Blonde
