@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/fe530e5f-dc9b-4d6e-903e-cec62be1e4c5/-/crop/1526x2063/128,0/-/preview/
 firstName: Beau
 collection: Boys
-height: 155 cm
+height: 172cm
 measurementType: chest
 bust: 84cm
 waist: 81cm
