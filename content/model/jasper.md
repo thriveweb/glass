@@ -9,9 +9,9 @@ firstName: Jasper
 collection: Boys
 height: 150cm
 measurementType: chest
-bust: 74cm
-waist: 61cm
-hips: 72.5cm
+bust: 70cm
+waist: 62cm
+hips: 73cm
 size: '10'
 shoeSize: '6'
 hair: Brown
