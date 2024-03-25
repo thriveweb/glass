@@ -12,8 +12,8 @@ measurementType: chest
 bust: 70cm
 waist: 62cm
 hips: 73cm
-size: '10'
-shoeSize: '6'
+size: 12 shirt/ 10 pant
+shoeSize: '7'
 hair: Brown
 eyes: Blue/Green
 imagePortfolio:
