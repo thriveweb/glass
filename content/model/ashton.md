@@ -6,6 +6,12 @@ imageThumbnail: >-
   https://ucarecdn.com/374ca6c4-6fee-4c68-be87-3868f5b71b96/-/crop/416x527/617,527/-/preview/
 firstName: Ashton
 collection: Boys
+height: 78cm
+measurementType: chest
+bust: 49cm
+waist: 50cm
+size: 12-18 months / size 1
+shoeSize: Toddler 6
 hair: Blonde
 eyes: Brown
 imagePortfolio:
