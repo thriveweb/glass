@@ -5,10 +5,15 @@ featuredImage: 'https://ucarecdn.com/49e45cfc-ad96-49c2-bd7e-609eab420650/'
 imageThumbnail: 'https://ucarecdn.com/bd0287c3-1338-4b7a-a536-4f06d9f596be/'
 firstName: Sarah S
 collection: Classic
-size: '10'
-shoeSize: '8'
-hair: Blonde
-eyes: Blue
+height: 168cm
+measurementType: bust
+bust: 88cm
+waist: 74cm
+hips: 88cm
+size: 8 - 10
+shoeSize: '7.5'
+hair: Dark Blonde
+eyes: Green / Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/f1e3afff-adb1-411b-8e15-1e71390fa7f5/'
   - image: 'https://ucarecdn.com/27eb1077-bfe2-4505-a9ed-de3388d7a86e/'
