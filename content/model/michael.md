@@ -5,7 +5,13 @@ featuredImage: 'https://ucarecdn.com/3ce48c6c-d134-4f04-a19d-e7286e378f33/'
 imageThumbnail: 'https://ucarecdn.com/96898c56-63e2-4a29-95d0-0501b9712515/'
 firstName: Michael
 collection: Classic
-hair: Blonde
+height: 173cm
+measurementType: chest
+bust: 106cm
+waist: 94cm
+size: L / 33 pant
+shoeSize: '9.5'
+hair: Light Brown
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/0a52739d-5566-4cb6-8723-423046a18570/'
