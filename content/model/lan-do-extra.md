@@ -14,5 +14,7 @@ size: 8-10
 shoeSize: 6.5-7
 imagePortfolio:
   - image: 'https://ucarecdn.com/ca3c23a1-922e-4fbe-8538-37a0af0698f7/'
+  - image: 'https://ucarecdn.com/0c5dfd0f-a3fa-4cfd-adc8-ab8b2e194519/'
+  - image: 'https://ucarecdn.com/766be8d5-fa15-496a-b06c-edaedaebb55e/'
 ---
 
