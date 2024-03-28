@@ -1,10 +1,9 @@
 ---
 template: ModelPage
 title: Kim W
-featuredImage: >-
-  https://ucarecdn.com/c5d9084f-78ec-4236-b90c-a29255421d87/-/crop/2400x1259/0,112/-/preview/
+featuredImage: 'https://ucarecdn.com/745a0d03-5766-4977-9a13-a42a9093800f/'
 imageThumbnail: >-
-  https://ucarecdn.com/e5d475a2-755b-4910-84e2-24160c1f13e0/-/crop/879x1120/840,158/-/preview/
+  https://ucarecdn.com/aaa74cc4-9354-482f-9173-49ddcdd82a46/-/crop/1080x1463/279,164/-/preview/
 firstName: Kim W
 collection: Girls
 height: 151cm
@@ -17,6 +16,9 @@ shoeSize: '5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/9b6831f4-4a28-405e-8cc1-c20cec8bbf08/'
+  - image: 'https://ucarecdn.com/0bfa1340-1028-4976-88c8-fcb7ba031a58/'
+  - image: 'https://ucarecdn.com/b7dcd18a-5ddc-492b-8a84-83cf1a8e9028/'
   - image: 'https://ucarecdn.com/d86e6aa1-994c-4b78-8887-3bc9a163d1fe/'
   - image: 'https://ucarecdn.com/5da73b29-49dd-47ef-b012-e09c5344342c/'
   - image: 'https://ucarecdn.com/fd00bc43-a176-4936-ab32-dffded9024dd/'
@@ -27,5 +29,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/9ad0b35a-1670-4e07-bbcc-db2791a19330/'
   - image: 'https://ucarecdn.com/2bd115b4-fe13-4bf3-8686-c83202debeac/'
   - image: 'https://ucarecdn.com/35636435-93ee-4df7-a4b3-98707ea321a6/'
+  - image: 'https://ucarecdn.com/ed028e92-dd5f-47e8-ae7c-ff57f4ac69f3/'
 ---
 
