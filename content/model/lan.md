@@ -17,6 +17,8 @@ shoeSize: 6.5-7
 hair: Black
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/79f08cc6-c3bb-4f36-b6f6-2d1fd692d410/'
+  - image: 'https://ucarecdn.com/0486e6f6-b8f9-40d1-b1eb-1ad0b13ecbf0/'
   - image: 'https://ucarecdn.com/4195d3ed-821a-4632-9044-88eb45075dc1/'
   - image: 'https://ucarecdn.com/f86bec6c-3c28-46c5-98e2-131d66a6d37c/'
   - image: 'https://ucarecdn.com/36463750-d239-4b9f-825a-d30c88e4cf03/'
