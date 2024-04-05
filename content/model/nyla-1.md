@@ -7,7 +7,9 @@ imageThumbnail: >-
   https://ucarecdn.com/77ab370e-5717-4dcb-8e14-755a96932151/-/crop/522x614/294,142/-/preview/
 firstName: Nyla
 collection: Girls
-size: 18-24 months
+height: 97cm
+size: '3'
+shoeSize: 8-10
 hair: Brown
 eyes: Brown
 imagePortfolio:
