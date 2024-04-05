@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jason
 featuredImage: >-
-  https://ucarecdn.com/e03cb46e-dd5e-46a5-8804-7e0c6ac96722/-/crop/2449x1345/0,0/-/preview/
+  https://ucarecdn.com/e03cb46e-dd5e-46a5-8804-7e0c6ac96722/-/crop/2449x1217/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/c97925b4-1f5b-40e6-9375-c04d440683ba/'
 firstName: Jason
 collection: Classic
