@@ -2,7 +2,7 @@
 template: ModelPage
 title: TOOWOMBA Malachi
 featuredImage: 'https://ucarecdn.com/5123f8d7-8ac6-4d0b-921f-f4f7138522bb/'
-imageThumbnail: 'https://ucarecdn.com/6e90b0f8-e066-4e7f-86ad-e3581a0bb4d0/'
+imageThumbnail: 'https://ucarecdn.com/ea9dc439-27d9-4a4e-ba10-eb060acaaef3/'
 firstName: TOOWOMBA Malachi
 collection: Extras
 height: 190cm
@@ -15,6 +15,6 @@ shoeSize: '16'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/4c761aaf-3071-4767-b109-300ad251112b/'
+  - image: 'https://ucarecdn.com/95e9977a-d88d-4e7d-aa95-aa302bedf9f4/'
 ---
 
