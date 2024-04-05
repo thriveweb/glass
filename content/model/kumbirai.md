@@ -4,7 +4,7 @@ title: Kumbi
 featuredImage: 'https://ucarecdn.com/54fac794-a9da-4c4e-bc01-88f1c4485253/'
 imageThumbnail: >-
   https://ucarecdn.com/1e864d7d-27a2-4374-b9bd-c89d4706dd68/-/crop/1172x912/799,401/-/preview/-/rotate/90/
-firstName: Kumbirai
+firstName: Kumbi
 collection: Emerging
 height: 192cm
 measurementType: chest
