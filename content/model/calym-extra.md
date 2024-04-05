@@ -3,7 +3,7 @@ template: ModelPage
 title: Calym EXTRA
 featuredImage: 'https://ucarecdn.com/6e5a1a25-39de-4adb-9a9b-2958dc9b7e1b/'
 imageThumbnail: >-
-  https://ucarecdn.com/6d671bfa-f024-469b-8071-371421edea7f/-/crop/1491x1998/140,311/-/preview/
+  https://ucarecdn.com/c943d8f6-b759-4f7b-ab57-6a610a57c38e/-/crop/1333x1915/179,288/-/preview/
 firstName: Calym EXTRA
 collection: Extras
 height: 177cm
@@ -16,6 +16,6 @@ shoeSize: '11'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/126da7bf-d3cf-460c-a203-4ef6d31b0f5f/'
+  - image: 'https://ucarecdn.com/75e0c9a4-f9b9-4fe6-9c64-590b137e9fbd/'
 ---
 
