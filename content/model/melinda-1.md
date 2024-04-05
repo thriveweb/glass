@@ -2,8 +2,7 @@
 template: ModelPage
 title: Melinda
 featuredImage: 'https://ucarecdn.com/bee8a328-4e42-4799-aadf-1ed7dab5e98e/'
-imageThumbnail: >-
-  https://ucarecdn.com/ec175398-4486-498e-a4c8-bc0fe2b93de4/-/crop/694x1064/25,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/8ca65c49-bebc-4bee-a73e-c61a8f1c2a69/'
 firstName: Melinda
 collection: Extras
 height: 170cm
@@ -16,6 +15,6 @@ shoeSize: '9'
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/f6a48629-0157-4c6e-8869-a98062c0c3f6/'
+  - image: 'https://ucarecdn.com/072df5b0-91f6-46f8-8c9b-984942e58a86/'
 ---
 
