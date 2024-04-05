@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Melinda
+title: Melinda N
 featuredImage: 'https://ucarecdn.com/bee8a328-4e42-4799-aadf-1ed7dab5e98e/'
 imageThumbnail: 'https://ucarecdn.com/8ca65c49-bebc-4bee-a73e-c61a8f1c2a69/'
-firstName: Melinda
+firstName: Melinda N
 collection: Extras
 height: 170cm
 measurementType: bust
