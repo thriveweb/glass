@@ -2,8 +2,7 @@
 template: ModelPage
 title: TOOWOMBA Freddy
 featuredImage: 'https://ucarecdn.com/c75d6f3e-6fb8-461f-9de5-420c8015dd7d/'
-imageThumbnail: >-
-  https://ucarecdn.com/e6a2548d-15a1-497c-83ad-22c2a306ee15/-/crop/1333x2048/60,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/4120f9b2-576d-4b8d-8572-10832da91272/'
 firstName: TOOWOMBA Freddy
 collection: Extras
 height: 193cm
@@ -16,6 +15,6 @@ shoeSize: '13'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/56e47954-cf35-472c-8a63-5a10ab65c664/'
+  - image: 'https://ucarecdn.com/ed2054c4-24a9-4935-891f-f051ae6ca2e8/'
 ---
 
