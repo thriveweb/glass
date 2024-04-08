@@ -3,18 +3,18 @@ template: ModelPage
 title: Donna EXTRA
 featuredImage: 'https://ucarecdn.com/9d776525-5095-4e0e-9fc7-0582a97a1728/'
 imageThumbnail: >-
-  https://ucarecdn.com/5ae1f931-b49e-4f91-9e0b-a3116dc086bb/-/crop/813x1069/48,223/-/preview/
+  https://ucarecdn.com/cf87ea09-eff1-435e-b45e-df54a1eb21c7/-/crop/1413x1917/229,392/-/preview/
 firstName: Donna EXTRA
 collection: Extras
 height: 5'6
 measurementType: bust
-bust: 40'
-waist: 34'
-hips: 40'
-size: 12-14
+bust: 96cm
+waist: 86cm
+hips: 111cm
+size: '12'
 shoeSize: '9'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/51c2fc22-dd23-4b87-9497-7701d65a538e/'
-  - image: 'https://ucarecdn.com/00b741bd-75e0-4b62-ba35-cf28004492bd/'
+  - image: >-
+      https://ucarecdn.com/09cd7ff3-8825-44ae-8e17-eeb93c7567a0/-/crop/1503x2046/229,263/-/preview/
 ---
 
