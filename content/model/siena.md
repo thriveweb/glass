@@ -3,8 +3,7 @@ template: ModelPage
 title: Siena
 featuredImage: >-
   https://ucarecdn.com/b04190bb-56c5-433c-ab6f-65ef018ed25a/-/crop/2000x998/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/8c955c92-9a24-4eab-a18f-82ce70b9fe36/-/crop/2499x3492/459,142/-/preview/
+imageThumbnail: 'https://ucarecdn.com/8fecda78-8b38-4f46-9eb8-3b1b95665e6e/'
 firstName: Siena
 collection: Girls
 height: 153cm
@@ -17,6 +16,7 @@ shoeSize: US 6-7
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/13888a38-9e9e-4300-85e4-10ea3ac13e35/'
   - image: 'https://ucarecdn.com/7f4117a4-400d-45b5-a80c-682bfcb0bf15/'
   - image: 'https://ucarecdn.com/bfa44e14-ad0a-4aa8-978a-91b868494f21/'
   - image: 'https://ucarecdn.com/f6cccfb9-dd57-4ce6-933c-eca571243ac0/'
