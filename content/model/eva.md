@@ -4,7 +4,7 @@ title: Eva Go
 featuredImage: >-
   https://ucarecdn.com/ae275759-ffb5-493d-89b8-cc7a0a6e74ae/-/crop/2073x1158/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/94b59f60-0c85-432e-bd51-a7f6f4c2c20c/-/crop/3474x4278/82,205/-/preview/
+  https://ucarecdn.com/35caa9f4-6b4b-47ea-bc25-c27e229c0f2d/-/crop/824x1097/27,37/-/preview/
 firstName: Eva
 collection: Girls
 height: 132cm
