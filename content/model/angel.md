@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/8c28e2ff-31fc-48b4-b43b-c0b1e05e9435/-/crop/1458x1963/31,56/-/preview/
 firstName: Angel
-collection: Girls
+collection: Emerging
 height: 142cm
 measurementType: bust
 bust: 58cm
