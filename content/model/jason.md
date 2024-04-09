@@ -6,7 +6,14 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/c97925b4-1f5b-40e6-9375-c04d440683ba/'
 firstName: Jason
 collection: Classic
-hair: Silver
+height: 173cm
+measurementType: chest
+bust: 105 cm
+waist: 78cm
+hips: 105cm
+size: 'M shirt - 32 pant '
+shoeSize: '8.5'
+hair: Silver Fox
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/a7105a2f-8cef-473b-95d9-d62df0e2403b/'
@@ -21,5 +28,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/5ff8cc05-07c5-4e15-b387-0a4f9b8b7443/'
   - image: 'https://ucarecdn.com/694f2927-aee4-4900-9881-f772726500f9/'
   - image: 'https://ucarecdn.com/a55f9c0b-1d11-41cd-a154-b137649c85ff/'
+meta:
+  title: ''
 ---
 
