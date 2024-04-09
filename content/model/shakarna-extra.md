@@ -6,6 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/7460eeb9-e006-45f8-9129-259c4c6160be/-/crop/1292x1856/331,82/-/preview/
 firstName: Shakarna EXTRA
 collection: Extras
+height: 162cm
+measurementType: bust
+bust: 107cm
+waist: 106cm
+hips: 123cm
+size: '14'
+shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
