@@ -10,10 +10,10 @@ collection: Emerging
 height: 177cm
 measurementType: chest
 bust: 99cm
-waist: 76cm
-hips: 99cm
+waist: 77cm
+hips: 98cm
 size: M/32
-shoeSize: '11'
+shoeSize: 11 US
 hair: Brown
 eyes: Brown
 imagePortfolio:
