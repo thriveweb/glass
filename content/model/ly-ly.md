@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/f5265600-1200-4aab-abb1-dd2e71846fb5/'
 firstName: Ly-Ly
 collection: Girls
-height: 125cm
+height: 133cm
 measurementType: bust
 bust: 60cm
 waist: 56cm
