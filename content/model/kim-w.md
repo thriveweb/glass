@@ -11,8 +11,8 @@ measurementType: bust
 bust: 73cm
 waist: 62cm
 hips: 83cm
-size: '12'
-shoeSize: '5'
+size: Women's XS
+shoeSize: 7US
 hair: Brown
 eyes: Brown
 imagePortfolio:
