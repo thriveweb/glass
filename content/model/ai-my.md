@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/70831c69-6684-4a96-bc01-aebe6009ad39/-/crop/872x1217/640,82/-/preview/
 firstName: Ai-My
 collection: Girls
-height: 146cm
+height: 155cm
 measurementType: bust
-bust: 67cm
-waist: 60cm
-hips: 74cm
-size: 10-11
-shoeSize: US4
+bust: 72cm
+waist: 63cm
+hips: 80cm
+size: '12'
+shoeSize: 6.5US
 hair: 'Brown '
 eyes: Brown
 imagePortfolio:
