@@ -3,8 +3,7 @@ template: ModelPage
 title: Ly-Ly
 featuredImage: >-
   https://ucarecdn.com/3e3fb3e2-2ebf-4ee3-91fc-b0cf06715d5e/-/crop/2389x1130/11,134/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/570d08e4-4cc0-43ba-be5a-72e31419d4ac/-/crop/1146x1356/726,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/f5265600-1200-4aab-abb1-dd2e71846fb5/'
 firstName: Ly-Ly
 collection: Girls
 height: 125cm
