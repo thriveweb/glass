@@ -7,7 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/77ab370e-5717-4dcb-8e14-755a96932151/-/crop/522x614/294,142/-/preview/
 firstName: Nyla
 collection: Girls
-height: 97cm
+height: 100cm
+measurementType: bust
+bust: 52cm
+waist: 52cm
+hips: 55cm
 size: '3'
 shoeSize: 8-10
 hair: Brown
