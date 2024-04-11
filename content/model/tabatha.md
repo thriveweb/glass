@@ -9,9 +9,9 @@ firstName: Tabatha
 collection: Classic
 height: 175cm
 measurementType: bust
-bust: 98cm
-waist: 83cm
-hips: 102cm
+bust: 87cm
+waist: 73cm
+hips: 100cm
 size: '10'
 shoeSize: '9'
 hair: Brown
