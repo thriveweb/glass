@@ -6,12 +6,12 @@ imageThumbnail: >-
   https://ucarecdn.com/d4851c72-722b-49a8-b931-ff4149227ed2/-/crop/519x712/435,81/-/preview/
 firstName: Haelan
 collection: Boys
-height: 124cm
+height: 145cm
 measurementType: chest
-bust: 61cm
-waist: 56cm
-hips: 66cm
-size: '8'
+bust: 64cm
+waist: 55cm
+hips: 68cm
+size: 8-10
 shoeSize: 4-5
 hair: Brown
 eyes: Brown
