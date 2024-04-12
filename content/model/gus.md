@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/5fd990a5-9d64-449a-94f4-e825709732ee/-/crop/1213x1655/171,70/-/preview/
 firstName: Gus
 collection: Boys
-height: 130cm
+height: 137cm
 measurementType: chest
 bust: 65cm
 waist: 61cm
