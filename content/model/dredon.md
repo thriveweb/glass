@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/d934a986-ef0c-4f7f-8795-6d4837722975/-/crop/481x658/399,192/-/preview/
 firstName: Dredon
 collection: Men
-height: 184cm
+height: 185cm
 measurementType: chest
 bust: 98cm
 waist: 79cm
