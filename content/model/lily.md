@@ -2,8 +2,7 @@
 template: ModelPage
 title: Lily
 featuredImage: 'https://ucarecdn.com/03214e3e-c8ac-49c5-a708-52c29f2cbacd/'
-imageThumbnail: >-
-  https://ucarecdn.com/c5769a2e-90c1-45d7-b2c0-fceb70e6deff/-/crop/3021x4310/1196,101/-/preview/
+imageThumbnail: 'https://ucarecdn.com/2cc0da23-56a9-439c-a0a9-e5dce29e1740/'
 firstName: Lily
 collection: Women
 height: 178cm
@@ -16,7 +15,7 @@ shoeSize: '8'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/8ae5a6af-4d89-495a-822a-1ab30b90d594/'
+  - image: 'https://ucarecdn.com/c7bb6e31-5968-44a2-9c34-89d6d26f4e42/'
   - image: 'https://ucarecdn.com/0dd809bb-4bcd-4256-9357-54ae45b38ce5/'
   - image: 'https://ucarecdn.com/54c1dd63-21ef-43ce-bc8f-f0b77f6b4cdc/'
   - image: 'https://ucarecdn.com/6b6637b6-fd3a-4cfa-950d-00ee5c9ec378/'
