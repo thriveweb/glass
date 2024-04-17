@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Imogen H
-featuredImage: 'https://ucarecdn.com/c1f53fb6-ce0d-4efc-90af-f589f4156682/'
+featuredImage: >-
+  https://ucarecdn.com/9b9349a8-12e6-4490-8f34-53b8ec31324a/-/crop/2449x1387/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/3106e4c7-a39d-4dfb-8bfe-41fd8ffd9f9f/-/crop/1017x1283/1025,0/-/preview/
 firstName: Imogen
