@@ -5,27 +5,31 @@ featuredImage: >-
   https://ucarecdn.com/07ec50c6-5394-4a84-9aa2-159e500f6826/-/crop/6720x3249/0,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/b78c1335-6744-4c0a-afc9-63d86451b5a9/'
 imageThumbnail: >-
-  https://ucarecdn.com/8c7c6f5b-d16e-4fa5-aac3-d9a345ae19e4/-/crop/583x799/684,80/-/preview/
+  https://ucarecdn.com/e832284b-4673-46ca-b2f9-d706bd174c5b/-/crop/1084x1502/280,224/-/preview/
 firstName: Haawai
 collection: Boys
 height: 140cm
 measurementType: chest
 bust: 62cm
-waist: 58cm
-hips: 69cm
+waist: 59cm
+hips: 70cm
 size: 8-10
 shoeSize: '6'
 hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/537703d0-e856-49ee-be16-c07fa11895ac/'
+  - image: >-
+      https://ucarecdn.com/1c63df01-0f5f-4540-a37b-b9da34432a81/-/crop/1632x2239/0,210/-/preview/
   - image: 'https://ucarecdn.com/75358094-db6f-4cbc-8105-42f45fcc879c/'
-  - image: 'https://ucarecdn.com/8a96cd1b-cd1c-4454-87b1-542a41c05de5/'
-  - image: 'https://ucarecdn.com/ec75f663-8f22-42ca-8eac-ed2525271787/'
   - image: 'https://ucarecdn.com/a6b5b801-dff7-4570-ad72-0459e569926c/'
+  - image: >-
+      https://ucarecdn.com/8a96cd1b-cd1c-4454-87b1-542a41c05de5/-/crop/2031x1667/332,0/-/preview/
+  - image: 'https://ucarecdn.com/ec75f663-8f22-42ca-8eac-ed2525271787/'
   - image: 'https://ucarecdn.com/fe6eb4c3-5900-4ce9-8026-77551e738c89/'
   - image: 'https://ucarecdn.com/f175b193-05f3-4806-9420-558ccbfa687e/'
   - image: 'https://ucarecdn.com/4c91a129-3ced-4911-8fb0-4b3ceea3e8f5/'
+  - image: 'https://ucarecdn.com/8124d73f-b76c-4544-ab7d-fe87f4ed9dd8/'
   - image: 'https://ucarecdn.com/14cee4fb-f19c-433d-8b9a-5bc571b5415d/'
   - image: 'https://ucarecdn.com/1b09b3fa-c760-4b55-8e51-1156d4aab362/'
   - image: 'https://ucarecdn.com/de9fc836-4add-4105-863f-e8a1edc6b8e9/'
@@ -39,6 +43,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/171d07a9-32f7-4103-99a7-f3a9cf588297/'
   - image: 'https://ucarecdn.com/8e8c3578-ef0a-4a42-9e83-8e6fdc800727/'
   - image: 'https://ucarecdn.com/6b5d5200-92e0-411a-9eed-13afeb3f62bd/'
+  - image: 'https://ucarecdn.com/6b702562-2302-450d-ab1a-6b119f038961/'
   - image: 'https://ucarecdn.com/2596dd85-b2dc-4b0a-ae95-3282b14ee5c3/'
   - image: >-
       https://ucarecdn.com/b0566a0a-9ebf-4d27-9a84-840e1962cff1/-/crop/472x375/0,0/-/preview/
