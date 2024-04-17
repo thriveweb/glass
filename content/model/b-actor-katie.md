@@ -2,10 +2,10 @@
 template: ModelPage
 title: B ACTOR Katie
 featuredImage: 'https://ucarecdn.com/b1abd6b7-d366-48a0-869f-6496103c7a09/'
-imageThumbnail: 'https://ucarecdn.com/e00f1320-aed9-4476-9f70-66668a3ed614/'
+imageThumbnail: 'https://ucarecdn.com/79263655-e2ae-41c7-b5a3-86888b8697ab/'
 firstName: ACTOR Katie
 collection: Actors
 imagePortfolio:
-  - image: 'https://ucarecdn.com/288d01a0-6f53-4a26-bf92-817fc6f67f3c/'
+  - image: 'https://ucarecdn.com/3343dda6-c12f-4f98-a590-3cc66ca02b23/'
 ---
 
