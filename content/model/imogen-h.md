@@ -3,7 +3,7 @@ template: ModelPage
 title: Imogen H
 featuredImage: 'https://ucarecdn.com/c1f53fb6-ce0d-4efc-90af-f589f4156682/'
 imageThumbnail: >-
-  https://ucarecdn.com/e2e2bdfb-ec4d-4052-ba56-1f5c4463e66d/-/crop/947x1308/971,0/-/preview/
+  https://ucarecdn.com/3106e4c7-a39d-4dfb-8bfe-41fd8ffd9f9f/-/crop/1017x1283/1025,0/-/preview/
 firstName: Imogen
 collection: Girls
 height: 112cm
