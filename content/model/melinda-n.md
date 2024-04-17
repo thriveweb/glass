@@ -2,7 +2,7 @@
 template: ModelPage
 title: Melinda N
 featuredImage: >-
-  https://ucarecdn.com/85796cf3-6b97-4bf9-b2e2-2207a9ca1284/-/crop/1650x973/0,0/-/preview/
+  https://ucarecdn.com/85796cf3-6b97-4bf9-b2e2-2207a9ca1284/-/crop/1650x890/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/34c75c6c-7118-4670-aaf2-b7445455b291/-/crop/569x814/145,73/-/preview/
 firstName: Melinda
