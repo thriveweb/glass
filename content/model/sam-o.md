@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Sam O
-featuredImage: >-
-  https://ucarecdn.com/f192bd53-e95e-4484-8057-a803c21427fb/-/crop/1365x1079/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/c5af31ed-036e-45c7-8fb1-fbe738a47cb4/'
 imageThumbnail: >-
   https://ucarecdn.com/e31898c7-bfc7-46a2-940b-0a1dfb29fd66/-/crop/833x1173/349,0/-/preview/
 firstName: Sam
