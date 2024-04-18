@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/53c9b2a1-74f9-46a7-95cd-44a40d2fceec/-/crop/577x888/63,39/-/preview/
 firstName: Hugo G
 collection: Boys
-height: 135cm
+height: 137cm
 measurementType: chest
 bust: 61cm
 waist: 57cm
 hips: 67cm
-size: '8'
+size: 9-10
 shoeSize: '3'
 hair: Ginger
 eyes: Blue
