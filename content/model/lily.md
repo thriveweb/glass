@@ -2,7 +2,8 @@
 template: ModelPage
 title: Lily
 featuredImage: 'https://ucarecdn.com/03214e3e-c8ac-49c5-a708-52c29f2cbacd/'
-imageThumbnail: 'https://ucarecdn.com/2cc0da23-56a9-439c-a0a9-e5dce29e1740/'
+imageThumbnail: >-
+  https://ucarecdn.com/2cc0da23-56a9-439c-a0a9-e5dce29e1740/-/crop/686x815/170,0/-/preview/
 firstName: Lily
 collection: Women
 height: 178cm
