@@ -4,7 +4,7 @@ title: ACTOR Elijah
 featuredImage: >-
   https://ucarecdn.com/73a50b08-0426-4799-ab67-466cfee2d72b/-/crop/1632x1187/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b10a6dcc-0765-48b4-8b5d-ce0c076f4e13/-/crop/315x439/56,0/-/preview/
+  https://ucarecdn.com/6b4a389b-19c7-4a1e-9426-bff90ff07bd9/-/crop/1377x1832/106,0/-/preview/
 firstName: ACTOR Elijah
 collection: Actors
 height: 173cm
@@ -17,6 +17,11 @@ shoeSize: '9'
 hair: Brown
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/1f059717-c2ea-4720-9326-488bd5b3c1b3/'
+  - image: 'https://ucarecdn.com/f0213a88-7bee-4441-a162-f64bdbff1ed9/'
+  - image: 'https://ucarecdn.com/6069638d-56e9-4636-8a3e-8f598d780be5/'
+  - image: 'https://ucarecdn.com/30f5ad46-6920-47b0-90fb-b9665bcf6ead/'
+  - image: 'https://ucarecdn.com/c2e0460a-4fd5-434b-89ce-546e8eef91ca/'
   - image: 'https://ucarecdn.com/f75a7765-6cf4-4178-ba81-9fd58d70c96d/'
   - image: 'https://ucarecdn.com/23a15acb-da8d-471b-93c7-869c7ca4ff11/'
   - image: 'https://ucarecdn.com/8b794cd9-50c5-4a9e-93bd-97a638bbc991/'
