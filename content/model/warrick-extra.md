@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/a76cfa1d-8f82-48b1-9f19-237971dc2ca1/'
 imageThumbnail: >-
   https://ucarecdn.com/05cc22ab-5bf9-424f-b4b2-17512699b9fe/-/crop/1563x1872/80,437/-/preview/
 firstName: Warrick EXTRA
-collection: Extras
+collection: ''
 height: 178cm
 measurementType: chest
 bust: 114cm
