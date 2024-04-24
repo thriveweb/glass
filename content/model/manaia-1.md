@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Manaia
+title: Manaia H
 featuredImage: 'https://ucarecdn.com/a71940c6-0dc7-4021-9e04-683f0faec43c/'
 imageThumbnail: >-
   https://ucarecdn.com/3f8031ee-b33b-4703-8d74-464f8bdfe141/-/crop/1489x2405/143,0/-/preview/
