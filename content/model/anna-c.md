@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/ffadf495-4226-4106-9665-db7581d6c520/-/crop/671x1007/137,0/-/preview/
 firstName: Anna
-collection: ''
+collection: Classic
 height: 174cm
 measurementType: bust
 bust: 81cm
