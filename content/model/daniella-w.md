@@ -4,7 +4,7 @@ title: Daniella W
 featuredImage: >-
   https://ucarecdn.com/61d2e505-c211-4275-970b-cb47485bc16a/-/crop/2364x1203/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/9ff6a302-3bf1-45b8-ab47-4c144c0d971c/-/crop/993x1069/422,136/-/preview/
+  https://ucarecdn.com/85ad0bd9-a100-4e9e-b4c6-34720affd725/-/crop/1518x2323/0,0/-/preview/
 firstName: Daniella W
 collection: Classic
 height: 173cm
@@ -17,11 +17,11 @@ shoeSize: '7'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/6e820196-258c-47fc-a472-10eb5e4af370/'
   - image: 'https://ucarecdn.com/07b09471-b09d-4485-bb64-c630a6783c6a/'
   - image: 'https://ucarecdn.com/449e2f07-44ec-4350-9eb5-8e6355f6e43a/'
   - image: 'https://ucarecdn.com/6f10c316-1e84-45a0-9e0e-7d51bda887ba/'
   - image: 'https://ucarecdn.com/3ecba666-2e3b-4c55-a965-583070d57aa8/'
-  - image: 'https://ucarecdn.com/b02640a8-6d33-42db-8d80-807c3e119b0c/'
   - image: >-
       https://ucarecdn.com/b2096689-fd9a-406f-92e9-4c9a487ea577/-/crop/1067x1256/0,0/-/preview/
   - image: >-
@@ -46,5 +46,12 @@ imagePortfolio:
       https://ucarecdn.com/ed674e2f-1f16-4914-b20e-41d313143c7e/-/crop/1067x942/0,131/-/preview/
   - image: 'https://ucarecdn.com/0a36e6fb-9793-4985-b1f0-3c2de847a023/'
   - image: 'https://ucarecdn.com/b0515857-75f8-440d-86d8-5038e60bfbee/'
+  - image: 'https://ucarecdn.com/f220df52-b0a4-496c-9073-7f6fba2d7896/'
+  - image: 'https://ucarecdn.com/98a9ab2b-1b47-4230-bd15-9de630d59815/'
+  - image: 'https://ucarecdn.com/87bcb050-3826-49b3-80b9-36bcdf66ccf6/'
+  - image: 'https://ucarecdn.com/db23669c-1e98-41dc-a59d-cb4a3dfe057c/'
+  - image: 'https://ucarecdn.com/80628621-cf93-490f-aefa-639e717b8403/'
+  - image: 'https://ucarecdn.com/1091c9ba-2526-4a36-831f-a763fbc66a17/'
+  - image: 'https://ucarecdn.com/97fb7bea-f7c2-42dd-bbe5-c92d5ad2a1dd/'
 ---
 
