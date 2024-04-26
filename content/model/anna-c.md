@@ -4,9 +4,9 @@ title: Anna C
 featuredImage: >-
   https://ucarecdn.com/52a82b00-cf22-4f72-a3aa-c1005d4a48dc/-/crop/778x446/0,34/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ffadf495-4226-4106-9665-db7581d6c520/-/crop/671x1007/137,0/-/preview/
+  https://ucarecdn.com/fba64b3f-79ee-4fd6-a3d5-1771ee2c6e3c/-/crop/493x582/93,0/-/preview/
 firstName: Anna
-collection: Classic
+collection: Emerging
 height: 174cm
 measurementType: bust
 bust: 81cm
