@@ -5,15 +5,15 @@ featuredImage: >-
   https://ucarecdn.com/6b68e481-dc0e-49ec-ab41-7578d32c33ae/-/crop/2449x1352/0,56/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/8c28e2ff-31fc-48b4-b43b-c0b1e05e9435/-/crop/1458x1963/31,56/-/preview/
-firstName: Angel
+firstName: Angelique
 collection: Emerging
-height: 142cm
+height: 163cm
 measurementType: bust
-bust: 58cm
-waist: 58cm
-hips: 76cm
-size: '10'
-shoeSize: '5'
+bust: 72cm
+waist: 59cm
+hips: 78cm
+size: 8 ladies
+shoeSize: '9'
 hair: Dark Brown
 eyes: Hazel
 imagePortfolio:
