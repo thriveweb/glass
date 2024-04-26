@@ -12,7 +12,7 @@ measurementType: bust
 bust: 72cm
 waist: 59cm
 hips: 78cm
-size: 8 ladies
+size: 6-8 ladies
 shoeSize: '9'
 hair: Dark Brown
 eyes: Hazel
