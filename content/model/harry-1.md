@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'Harry '
+title: 'A Harry '
 featuredImage: 'https://ucarecdn.com/ea3ddb33-ac7f-4c4c-ad4e-584db5b0e09c/'
 imageThumbnail: >-
   https://ucarecdn.com/dd881ae0-cf04-4b00-a434-8d0997cb4692/-/crop/1291x1821/147,106/-/preview/
