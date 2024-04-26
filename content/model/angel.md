@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Angel
+title: Angelique
 featuredImage: >-
   https://ucarecdn.com/6b68e481-dc0e-49ec-ab41-7578d32c33ae/-/crop/2449x1352/0,56/-/preview/
 imageThumbnail: >-
