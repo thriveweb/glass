@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/7d4462fa-7899-4cbb-ae44-b7c41d853c6d/-/crop/687x916/365,54/-/preview/
 firstName: Jordan
 collection: Boys
-height: 129cm
+height: 135cm
 measurementType: chest
-bust: 56.5cm
-waist: 51cm
-hips: 59cm
-size: 6-7
-shoeSize: '3'
+bust: 66cmcm
+waist: 60cm
+hips: 73cm
+size: '10'
+shoeSize: '4'
 hair: Brown
 eyes: Brown
 imagePortfolio:
