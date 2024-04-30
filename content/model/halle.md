@@ -13,7 +13,7 @@ bust: 74cm
 waist: 65cm
 hips: 73cm
 size: 10-12
-shoeSize: 4/5
+shoeSize: Ladies 8
 hair: Brunette
 eyes: Brown
 imagePortfolio:
