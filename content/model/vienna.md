@@ -15,6 +15,7 @@ hips: 76cm
 size: '10'
 shoeSize: 7-8
 hair: Brown
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/ea1fabd0-1f88-4675-8b4b-b0b3eaf06bb4/'
   - image: >-
