@@ -2,7 +2,8 @@
 template: ModelPage
 title: Nestor EXTRA
 featuredImage: 'https://ucarecdn.com/53371734-4974-4962-89d2-903915935d63/'
-imageThumbnail: 'https://ucarecdn.com/093cdd6d-06c4-48ca-877e-d86a9b036dd1/'
+imageThumbnail: >-
+  https://ucarecdn.com/093cdd6d-06c4-48ca-877e-d86a9b036dd1/-/crop/424x495/0,0/-/preview/
 firstName: Nestor EXTRA
 collection: Extras
 height: 178cm
