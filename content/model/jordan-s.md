@@ -8,8 +8,9 @@ imageThumbnail: >-
 firstName: Jordan S
 collection: Boys
 height: 83.5cm
-size: '1'
-shoeSize: '6'
+measurementType: chest
+size: '3'
+shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
