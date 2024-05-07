@@ -4,7 +4,7 @@ title: Jordan S
 featuredImage: >-
   https://ucarecdn.com/aeb14fd1-cf05-44fc-bce7-a2aa50aaccbb/-/crop/2500x1260/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c7cebfaa-8412-4a9e-aa8a-748ad8c47001/-/crop/559x797/1471,84/-/preview/
+  https://ucarecdn.com/c48683d8-2849-41de-9dd0-2c56c8aaa08a/-/crop/1284x1689/233,0/-/preview/
 firstName: Jordan S
 collection: Boys
 height: 83.5cm
