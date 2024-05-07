@@ -4,7 +4,7 @@ title: Ben P EXTRA
 featuredImage: 'https://ucarecdn.com/c3d14bd2-0bce-4873-9a7c-e7c2c5d5eb3f/'
 imageThumbnail: 'https://ucarecdn.com/4bfdf9e9-c911-4284-ac19-ca2ac3dca155/'
 firstName: Ben P EXTRA
-collection: Extras
+collection: ''
 height: 6'1
 measurementType: chest
 bust: 94cm
