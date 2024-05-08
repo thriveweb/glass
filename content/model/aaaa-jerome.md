@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/7278a5b9-96c1-48c7-a05b-254f95744f46/-/crop/746x928/86,92/-/preview/
 firstName: Jerome
 collection: Boys
-height: 95cm
+height: 100cm
 measurementType: chest
-bust: 48cm
+bust: 50cm
 waist: 50cm
 hips: 52cm
-size: '2'
-shoeSize: '7'
+size: '3'
+shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
