@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Lawson
+title: Lawson L
 featuredImage: 'https://ucarecdn.com/ad08581b-776d-42c8-9185-0174f98acf70/'
 imageThumbnail: 'https://ucarecdn.com/233d454c-80e1-442e-aee2-d4c931ab77a8/-/preview/'
 firstName: Lawson
