@@ -4,7 +4,7 @@ title: Nathaniel
 featuredImage: >-
   https://ucarecdn.com/d2fbb877-f66f-4332-8b26-39fc1c881e3f/-/crop/800x501/0,46/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/be0a4cce-a297-4ddd-8062-88cbaad821cf/-/crop/449x593/590,513/-/preview/
+  https://ucarecdn.com/be0a4cce-a297-4ddd-8062-88cbaad821cf/-/crop/426x639/613,513/-/preview/
 firstName: Nathaniel
 collection: Boys
 height: 135cm
