@@ -4,7 +4,7 @@ title: Mina
 featuredImage: >-
   https://ucarecdn.com/a596919d-7b9a-44da-a422-b30ba6a334e0/-/crop/807x491/0,196/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/d0a865c7-7e5a-4900-b8a2-2128461ff0ce/-/crop/562x677/116,98/-/preview/
+  https://ucarecdn.com/eadfd4d8-eff0-4eda-acdf-5e8d3ec33594/-/crop/735x956/426,50/-/preview/
 firstName: Mina
 collection: Classic
 height: 168cm
