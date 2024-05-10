@@ -2,7 +2,7 @@
 template: ModelPage
 title: Sienna P EXTRA
 featuredImage: 'https://ucarecdn.com/0dd58558-7e7b-41af-969e-ee054d418ec6/'
-imageThumbnail: 'https://ucarecdn.com/559044fb-7650-4d50-93a4-0b2f71154083/'
+imageThumbnail: 'https://ucarecdn.com/53108dc2-b36b-4359-aa85-dc1595dd5ee0/'
 firstName: Sienna P EXTRA
 collection: Extras
 height: 165cm
