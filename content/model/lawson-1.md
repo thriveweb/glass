@@ -5,6 +5,9 @@ featuredImage: 'https://ucarecdn.com/ad08581b-776d-42c8-9185-0174f98acf70/'
 imageThumbnail: 'https://ucarecdn.com/233d454c-80e1-442e-aee2-d4c931ab77a8/-/preview/'
 firstName: Lawson
 collection: Emerging
+size: Small Men
+hair: Blonde
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/2dd27139-dbca-425f-a8c5-d3fe3d1d19cf/'
   - image: 'https://ucarecdn.com/25682f84-b66d-40c4-a75b-ab97a2289dda/'
