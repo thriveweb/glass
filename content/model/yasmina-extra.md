@@ -4,7 +4,7 @@ title: Yasmina EXTRA
 featuredImage: 'https://ucarecdn.com/468bf5d3-57a1-4ff0-8f23-06db6ca4d029/'
 imageThumbnail: 'https://ucarecdn.com/54c2b269-21df-4558-b31e-f58053010793/'
 firstName: Yasmina EXTRA
-collection: ''
+collection: Extras
 height: 167cm
 measurementType: bust
 bust: 93cm
