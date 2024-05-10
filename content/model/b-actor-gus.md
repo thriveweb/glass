@@ -2,7 +2,7 @@
 template: ModelPage
 title: B ACTOR Gus
 featuredImage: 'https://ucarecdn.com/f2578cb1-d314-498c-b6e2-2b8b94bdeb41/'
-imageThumbnail: 'https://ucarecdn.com/dd513b77-9f72-4135-ae6e-70bedbf7961f/'
+imageThumbnail: 'https://ucarecdn.com/a3719111-2f93-4368-86b4-d894622d7923/'
 firstName: ACTOR Gus
 collection: Actors
 imagePortfolio:
