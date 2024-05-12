@@ -11,8 +11,8 @@ measurementType: chest
 bust: 51cm
 waist: 51cm
 hips: 51cm
-size: '3'
-shoeSize: '10'
+size: '4'
+shoeSize: '11'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
