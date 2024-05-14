@@ -5,7 +5,13 @@ featuredImage: 'https://ucarecdn.com/ad08581b-776d-42c8-9185-0174f98acf70/'
 imageThumbnail: 'https://ucarecdn.com/233d454c-80e1-442e-aee2-d4c931ab77a8/-/preview/'
 firstName: Lawson
 collection: Emerging
-size: Small Men
+height: 188cm
+measurementType: chest
+bust: 91cm
+waist: 81cm
+hips: 96cm
+size: 'Large '
+shoeSize: '11'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
