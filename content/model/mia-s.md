@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Mia S
+title: Mia SE
 featuredImage: >-
   https://ucarecdn.com/ecd39c7e-9142-4c17-b828-64e4eaee761b/-/crop/1629x1134/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/73b48596-d608-4571-b646-975294837136/-/crop/1326x1666/0,0/-/preview/
-firstName: Mia S
+firstName: Mia SE
 collection: Global
 height: 171cm
 measurementType: bust
