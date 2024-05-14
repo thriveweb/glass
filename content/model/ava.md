@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Ava
+title: Ava S
 featuredImage: >-
   https://ucarecdn.com/87fed59e-daa2-4359-901a-32973f7bbc30/-/crop/2448x1225/0,214/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b6c9db9a-40a3-415f-8d70-5353590b3205/-/crop/567x888/533,296/-/preview/
-firstName: Ava
+firstName: Ava S
 collection: Emerging
 height: 170cm
 measurementType: bust
