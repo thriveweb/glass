@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Zeke
+title: Zeke S
 featuredImage: 'https://ucarecdn.com/ff7988cf-1da6-4ab9-8899-3db737057aee/'
 imageThumbnail: >-
   https://ucarecdn.com/4562e625-61f0-4cd6-a042-221440abc9c1/-/crop/473x644/676,283/-/preview/
-firstName: Zeke
+firstName: Zeke S
 collection: Emerging
 height: 179cm
 measurementType: chest
