@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/f8044519-2d8e-43dc-908f-8c58fe45ca04/'
 imageThumbnail: 'https://ucarecdn.com/9d122aef-f162-4554-b0d4-b7a6176fbfbf/'
 firstName: Eli
 collection: Emerging
-height: 159cm
+height: 162cm
 measurementType: chest
 bust: 88cm
 waist: 81cm
@@ -24,7 +24,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/018483d4-fa93-4bae-8f40-4ede0e0fed28/'
   - image: 'https://ucarecdn.com/8da59dfa-db61-4935-9f5f-a67a5c6c2bfc/'
   - image: 'https://ucarecdn.com/e8e92bb0-2751-4dfa-bb3b-fd540a2d14bc/'
-  - image: 'https://ucarecdn.com/a7fb49e9-d61f-4640-aaf1-79b5eef40ea6/'
+  - image: 'https://ucarecdn.com/2956fea2-acbc-4333-ac94-60a08ef533b2/'
   - image: 'https://ucarecdn.com/a978297a-9219-4fba-8297-91c46e660cc6/'
   - image: 'https://ucarecdn.com/93ccaed0-f286-40e9-aee6-68cb6ad9abc9/'
   - image: 'https://ucarecdn.com/4bb0c8f3-11de-4be6-853f-99404589c575/'
