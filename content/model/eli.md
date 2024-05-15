@@ -2,10 +2,9 @@
 template: ModelPage
 title: Eli
 featuredImage: 'https://ucarecdn.com/f8044519-2d8e-43dc-908f-8c58fe45ca04/'
-imageThumbnail: >-
-  https://ucarecdn.com/3339674f-bc9d-47c3-af88-51fef0f5319c/-/crop/501x716/666,185/-/preview/
+imageThumbnail: 'https://ucarecdn.com/9d122aef-f162-4554-b0d4-b7a6176fbfbf/'
 firstName: Eli
-collection: Boys
+collection: Emerging
 height: 159cm
 measurementType: chest
 bust: 88cm
@@ -18,7 +17,7 @@ eyes: brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/ca7648c6-172b-41fe-8b25-f04293d5dbc1/'
   - image: 'https://ucarecdn.com/ea478031-9521-4ad9-82de-be94b9eb5830/'
-  - image: 'https://ucarecdn.com/e23f589e-a29d-486b-a0d6-117f5156b9fe/'
+  - image: 'https://ucarecdn.com/ac4280e9-8e1d-4879-becf-0a515d06f026/'
   - image: 'https://ucarecdn.com/2386d373-ce4b-4ea9-8617-71f037dc9109/'
   - image: 'https://ucarecdn.com/e413a446-0261-4feb-a69f-87cc1e3ef75e/'
   - image: 'https://ucarecdn.com/ff610010-313f-41fc-bbf0-37236832c143/'
