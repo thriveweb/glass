@@ -4,7 +4,7 @@ title: Karen
 featuredImage: >-
   https://ucarecdn.com/4fadaa60-d09e-40b5-830d-92922728cab3/-/crop/1070x752/0,235/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/00ae1bcd-e9ea-40a2-acbc-e4e29a77d580/-/crop/1504x2312/128,0/-/preview/
+  https://ucarecdn.com/00ae1bcd-e9ea-40a2-acbc-e4e29a77d580/-/crop/1261x1994/254,84/-/preview/
 firstName: Karen
 collection: Classic
 height: 166cm
