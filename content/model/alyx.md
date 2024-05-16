@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Sv Alyx
+title: SvB Alyx
 featuredImage: >-
   https://ucarecdn.com/e825bd41-7ba2-4e0e-b5cc-04dd98cd9581/-/crop/733x413/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/cbae93ec-985d-4a70-8b8d-a9b9263131bd/'
