@@ -4,7 +4,7 @@ title: Mia S
 featuredImage: >-
   https://ucarecdn.com/99b05fb8-ba51-46f1-8eff-fc5455b5abb5/-/crop/2448x1325/0,164/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/0fa13db0-b442-44ad-b863-4b08c5f4b377/-/crop/587x856/621,315/-/preview/
+  https://ucarecdn.com/194f3731-b09d-4b0e-8bee-bc1984a6b3c7/-/crop/589x905/0,0/-/preview/
 firstName: Mia S
 collection: Girls
 height: 154cm
