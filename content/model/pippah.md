@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/4d7d7e6a-9775-4546-8e4b-ade8dafd0517/-/crop/429x587/267,17/-/preview/
 firstName: Pippah
 collection: Girls
-height: 131cm
+height: 134cm
 measurementType: bust
-bust: 61cm
-waist: 61cm
-hips: 63cm
+bust: 63cm
+waist: 63cm
+hips: 65cm
 size: 7-8
-shoeSize: '1'
+shoeSize: '2'
 hair: Blonde
 eyes: Hazel
 imagePortfolio:
