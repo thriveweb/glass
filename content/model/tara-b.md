@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Tara B
+title: EXTRA Tara B
 featuredImage: 'https://ucarecdn.com/7159b3ec-70ef-490b-9e63-b020c7583361/'
 imageThumbnail: 'https://ucarecdn.com/dcecbc79-8b2c-4260-a7b8-9c9ca97ca2a1/'
-firstName: Tara B
+firstName: EXTRA Tara B
 height: 165cm
 measurementType: bust
 bust: 86cm
