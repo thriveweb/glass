@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'Phoenix '
+title: Phoenix V
 featuredImage: >-
   https://ucarecdn.com/1f8908bb-0b6c-4891-b235-b1f330784ffe/-/crop/808x719/156,90/-/preview/
 imageThumbnail: >-
