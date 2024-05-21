@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/eeca3fe3-8370-469a-9e72-0caf5a04ee45/-/crop/548x678/137,35/-/preview/
 firstName: Isla-Rose
 collection: Girls
-height: 116cm
+height: 119cm
 measurementType: bust
 bust: 57cm
 waist: 53cm
 hips: 62cm
-size: 5-6
-shoeSize: '13'
+size: 6-7
+shoeSize: 13-1
 hair: Brown
 eyes: Brown
 imagePortfolio:
