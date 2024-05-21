@@ -6,6 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/df4aae84-c9ea-4828-838a-fa610d8a5ece/-/crop/1042x1500/332,267/-/preview/
 firstName: Kaeo
 collection: Boys
+height: 99cm
+measurementType: chest
+bust: 54cm
+waist: 50cm
+hips: 54cm
+size: 2-3
+shoeSize: 9 US
 hair: Brown
 eyes: Brown
 imagePortfolio:
