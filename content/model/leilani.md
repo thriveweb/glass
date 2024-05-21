@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/bb00b072-da48-4f87-b31d-f399ae999a41/-/crop/1271x1996/232,0/-/preview/
 firstName: Leilani
 collection: Girls
-height: 130cm
+height: 133cm
 measurementType: bust
-bust: 66cm
+bust: 64cm
 waist: 54cm
-hips: 64cm
-size: '8'
-shoeSize: '2'
+hips: 62cm
+size: '9'
+shoeSize: '3'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
