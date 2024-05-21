@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/f78c53c3-fe42-46d7-92f9-66478b62deca/-/crop/948x1199/387,106/-/preview/
 firstName: Isla
 collection: Girls
-height: 124cm
+height: 133cm
 measurementType: bust
-bust: 58cm
-waist: 60cm
-hips: 50cm
-size: '6'
+bust: 59cm
+waist: 56cm
+hips: 66cm
+size: 7-8
 shoeSize: Kids 11
 hair: Blonde
 eyes: Blue
