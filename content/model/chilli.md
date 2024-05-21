@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/da3ad73a-6e08-49f8-8ec0-fefb54a80cf1/-/crop/1276x1829/190,123/-/preview/
 firstName: Chilli
 collection: Girls
-height: 118cm
+height: 127cm
 measurementType: bust
-bust: 59cm
+bust: 61cm
 waist: 55cm
-hips: 62cm
-size: '5'
-shoeSize: 13-1
+hips: 61cm
+size: '7'
+shoeSize: '1'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
