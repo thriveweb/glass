@@ -6,12 +6,12 @@ imageThumbnail: >-
   https://ucarecdn.com/d0dabee0-ce0d-42d0-88cc-d2b00b1c3bcf/-/crop/970x1113/210,0/-/preview/
 firstName: Zivah
 collection: Girls
-height: 123cm
+height: 125cm
 measurementType: bust
 bust: 57cm
 waist: 55cm
 hips: 62cm
-size: 5-6
+size: 6-8
 shoeSize: '13'
 hair: Brown
 eyes: Brown
