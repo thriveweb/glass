@@ -6,12 +6,12 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/025035a6-f9ad-4d78-88cb-84383b9c7496/'
 firstName: Jesse
 collection: Girls
-height: 126cm
+height: 131cm
 measurementType: bust
-bust: 58cm
-waist: 46cm
-hips: 60cm
-size: '4'
+bust: 61cm
+waist: 51cm
+hips: 61cm
+size: 7-8
 shoeSize: 10 kids
 hair: Blonde
 eyes: Blue
