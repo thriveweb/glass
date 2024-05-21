@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/eecf6536-3828-465a-82fa-26b66277de40/-/crop/400x518/271,121/-/preview/
 firstName: Edison
 collection: Boys
-height: 124cm
+height: 123cm
 measurementType: chest
 bust: 61cm
 waist: 55cm
 hips: 62cm
-size: '6'
+size: 7-8
 shoeSize: '1'
 hair: Brown
 eyes: Brown
