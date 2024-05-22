@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/b6cd9b25-85c9-461f-933d-d52115c19329/-/crop/471x623/151,72/-/preview/
 firstName: Halle
 collection: Girls
-height: 147cm
+height: 157cm
 measurementType: bust
 bust: 74cm
 waist: 65cm
 hips: 73cm
-size: 10-12
-shoeSize: Ladies 8
+size: 14-16
+shoeSize: 7-8 Ladies
 hair: Brunette
 eyes: Brown
 imagePortfolio:
