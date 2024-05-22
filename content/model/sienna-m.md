@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/d8f61d5c-d4d9-4778-9672-620c4fdb5e47/-/crop/990x1390/276,66/-/preview/
 firstName: Sienna M
 collection: Girls
-height: 113cm
+height: 126cm
 measurementType: bust
-bust: 58cm
-waist: 60cm
-hips: 50cm
-size: '4'
-shoeSize: Kids 10
+bust: 61cm
+waist: 64cm
+hips: 57cm
+size: '6'
+shoeSize: 11/12
 hair: Blonde
 eyes: Blue
 imagePortfolio:
