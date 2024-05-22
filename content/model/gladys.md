@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Gladys
+title: Gladys EXTRA
 featuredImage: 'https://ucarecdn.com/dc8ba7e5-e25a-410c-88c1-0648555e02a8/'
 imageThumbnail: >-
   https://ucarecdn.com/a9eef4a2-2057-41c8-98eb-edfc444da246/-/crop/514x742/15,173/-/preview/
-firstName: Gladys
+firstName: Gladys EXTRA
 collection: Extras
 height: 170cm
 measurementType: bust
