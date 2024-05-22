@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/1eacbec2-ed71-40f8-bd9c-861f6f0205fb/-/crop/555x738/394,271/-/preview/
 firstName: Miller
 collection: Boys
-height: 119cm
+height: 126cm
 measurementType: chest
-bust: 57cm
-waist: 57cm
-hips: 58cm
-size: '5'
-shoeSize: '13'
+bust: 61cm
+waist: 54cm
+hips: 57cm
+size: 5-6
+shoeSize: '1'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
