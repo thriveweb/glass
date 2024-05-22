@@ -3,7 +3,7 @@ template: ModelPage
 title: Zivah
 featuredImage: 'https://ucarecdn.com/3569654f-7f74-4dc6-9a53-2e8e5d9e0c2d/'
 imageThumbnail: >-
-  https://ucarecdn.com/d0dabee0-ce0d-42d0-88cc-d2b00b1c3bcf/-/crop/970x1113/210,0/-/preview/
+  https://ucarecdn.com/8d2fc339-bcbc-47a4-9119-faa6eee977d0/-/crop/211x311/80,111/-/preview/
 firstName: Zivah
 collection: Girls
 height: 125cm
