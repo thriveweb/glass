@@ -9,8 +9,8 @@ firstName: Ayla
 collection: Girls
 height: 124cm
 measurementType: bust
-bust: 60cm
-waist: 57cm
+bust: 62cm
+waist: 56cm
 hips: 65cm
 size: 6-7
 shoeSize: '1'
