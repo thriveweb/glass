@@ -9,11 +9,11 @@ firstName: Bryella
 collection: Girls
 height: ' 117cm'
 measurementType: bust
-bust: 57cm
-waist: 50cm
-hips: 57cm
+bust: 58cm
+waist: 53cm
+hips: 59cm
 size: '6'
-shoeSize: '10'
+shoeSize: '12'
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
