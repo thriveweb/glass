@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/cf0d3870-8007-4f7c-988a-5e0c00ffe9f1/-/crop/469x649/169,27/-/preview/
 firstName: Brooklyn
 collection: Boys
-height: 126cm
+height: 133cm
 measurementType: chest
-bust: 61cm
-waist: 59cm
-hips: 57cm
-size: '6'
-shoeSize: 1Y
+bust: 63cm
+waist: 57cm
+hips: 66cm
+size: 6-8
+shoeSize: '3'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
