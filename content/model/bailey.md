@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/70d8cdca-bc16-493f-8be2-9d864a75655d/-/crop/1218x1933/193,156/-/preview/
 firstName: Bailey M
 collection: Boys
-height: 147cm
+height: 154cm
 measurementType: chest
-bust: 70cm
-waist: 62cm
-hips: 70cm
-size: '10'
-shoeSize: '6'
+bust: 78cm
+waist: 84cm
+hips: 73cm
+size: '12'
+shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
