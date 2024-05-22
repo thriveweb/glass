@@ -10,10 +10,10 @@ collection: Girls
 height: 133cm
 measurementType: bust
 bust: 59cm
-waist: 56cm
-hips: 66cm
+waist: 66cm
+hips: 56cm
 size: 7-8
-shoeSize: Kids 11
+shoeSize: 12-1
 hair: Blonde
 eyes: Blue
 imagePortfolio:
