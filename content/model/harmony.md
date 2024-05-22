@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/f0980aa2-6a6b-4780-acd6-7e08c5d5c942/-/crop/666x887/91,0/-/preview/
 firstName: Harmony
 collection: Girls
-height: 132cm
+height: 137cm
 measurementType: bust
 bust: 61cm
-waist: 53cm
-hips: 63cm
-size: '8'
+waist: 56cm
+hips: 68cm
+size: 8-10
 shoeSize: '1'
 hair: Blonde
 imagePortfolio:
