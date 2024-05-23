@@ -10,7 +10,7 @@ collection: Classic
 height: 172cm
 measurementType: chest
 bust: 96cm
-waist: 34cm
+waist: 73cm
 hips: 86cm
 size: Small/30
 shoeSize: '9.5'
