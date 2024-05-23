@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: Aa Wynston
-featuredImage: 'https://ucarecdn.com/e238c25b-8fea-4593-a0cb-2a01a1c9ecb8/'
+featuredImage: 'https://ucarecdn.com/998eade7-4be3-44a6-8b50-926d5511acc0/'
 imageThumbnail: >-
   https://ucarecdn.com/7c570082-547c-4d85-a6f5-b48667856620/-/crop/425x597/453,76/-/preview/
 firstName: Wynston
@@ -16,19 +16,11 @@ shoeSize: 10/11
 hair: Black
 eyes: Black
 imagePortfolio:
-  - image: 'https://ucarecdn.com/07d57e7f-a872-4e86-b7f4-fc4b6828d235/'
-  - image: 'https://ucarecdn.com/d15ea4d2-fc2d-4a64-8166-bea7caa7d559/'
-  - image: 'https://ucarecdn.com/246e29ee-1a9b-4c57-be90-5bc384dc1f49/'
+  - image: 'https://ucarecdn.com/e9d8a277-571f-463f-8a0e-45771707a801/'
+  - image: 'https://ucarecdn.com/bb82e91d-c791-4f2b-bd6b-a02d0ecc7d68/'
+  - image: 'https://ucarecdn.com/359b9438-eb52-44c4-8db7-f0cac31333ab/'
+  - image: 'https://ucarecdn.com/d063928a-86a2-4ead-8722-802df55397f3/'
   - image: 'https://ucarecdn.com/daf1b75d-60df-4a3d-bad8-2cffe5427d1a/'
-  - image: 'https://ucarecdn.com/07e29bd9-4b3f-4911-8db2-7fe04ff4ace4/'
-  - image: 'https://ucarecdn.com/f540daec-ec07-4672-a657-1840eb9eb5fe/'
-  - image: 'https://ucarecdn.com/4c3e0332-4650-46c6-8a14-7f11739fafcb/'
-  - image: 'https://ucarecdn.com/37c6e983-063c-4fe1-b30c-6492cd88f611/'
-  - image: 'https://ucarecdn.com/07a8bfe3-d870-424c-94d5-f2793f4a9d40/'
-  - image: 'https://ucarecdn.com/531d7e7a-2c69-4c25-b178-b8e868cfc3b7/'
-  - image: 'https://ucarecdn.com/830c883b-7abb-487a-bd2c-b1b113c5f64a/'
-  - image: 'https://ucarecdn.com/59bd9dd3-fc4b-4b9e-8afa-41f6d6f78b7f/'
-  - image: 'https://ucarecdn.com/a743fa3a-3c48-4ba0-8fcf-270135e883c8/'
   - image: 'https://ucarecdn.com/60506925-e4cc-4ef0-9df8-49a8bdb84a84/'
 meta: {}
 ---
