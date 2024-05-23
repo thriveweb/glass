@@ -6,12 +6,12 @@ imageThumbnail: >-
   https://ucarecdn.com/7c570082-547c-4d85-a6f5-b48667856620/-/crop/425x597/453,76/-/preview/
 firstName: Wynston
 collection: Boys
-height: 110cm
+height: 116cm
 measurementType: chest
 bust: 57cm
 waist: 55cm
 hips: 59cm
-size: 5-6
+size: '6'
 shoeSize: 10/11
 hair: Black
 eyes: Black
