@@ -13,5 +13,8 @@ waist: 66cm
 hips: 78cm
 size: '12'
 shoeSize: '8'
+imagePortfolio:
+  - image: >-
+      https://ucarecdn.com/6c7e2d2f-6fbb-488f-9ccb-61cc73f100e0/-/crop/1436x2260/296,0/-/preview/
 ---
 
