@@ -13,12 +13,12 @@ waist: 74cm
 hips: 86cm
 size: S/30
 shoeSize: '9.5'
+eyes: Blue
 imagePortfolio:
   - image: >-
       https://ucarecdn.com/8baf6b5c-a025-4960-99a7-904e059bae2d/-/crop/1381x2123/271,119/-/preview/
-  - image: >-
-      https://ucarecdn.com/ceee951b-cda9-461e-8565-cfb34cc2a478/-/preview/-/rotate/90/
-  - image: >-
-      https://ucarecdn.com/e05b5fec-004f-4a6d-9b06-45c0fc2eaaa6/-/preview/-/rotate/90/
+  - image: 'https://ucarecdn.com/500ccb29-89c5-4182-925d-c970482bf4ef/'
+  - image: 'https://ucarecdn.com/9592bdf2-4592-4a63-aad6-7be709983835/'
+  - image: 'https://ucarecdn.com/4ac4dc47-289d-4a7f-bcf2-6129fcbad20a/'
 ---
 
