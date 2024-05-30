@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/74b863af-7c0a-4754-b287-4b8c982b61f3/-/crop/683x1051/839,421/-/preview/
 firstName: Serafina
 collection: Girls
-height: 131cm
+height: 140cm
 measurementType: bust
-bust: 61cm
-waist: 58cm
-hips: 63cm
-size: 6-7
-shoeSize: '1'
+bust: 65cm
+waist: 60cm
+hips: 72cm
+size: 8-10
+shoeSize: 4-5
 hair: Brown
 eyes: Hazel
 imagePortfolio:
