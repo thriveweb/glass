@@ -13,7 +13,7 @@ bust: 61cm
 waist: 56cm
 hips: 68cm
 size: 8-10
-shoeSize: '1'
+shoeSize: 1-2
 hair: Blonde
 imagePortfolio:
   - image: 'https://ucarecdn.com/79ef44a5-31b7-41ca-a41e-14a2db915d47/'
