@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Janine M EXTRA
+title: Janice M EXTRA
 featuredImage: 'https://ucarecdn.com/e585e6f8-3331-451a-b918-4bd6aacb9cdb/'
 imageThumbnail: >-
   https://ucarecdn.com/e70899c8-e016-44ac-a629-0162d97b7b7f/-/crop/573x852/44,63/-/preview/
-firstName: Janine M EXTRA
+firstName: Janice M EXTRA
 collection: Extras
 height: 170cm
 measurementType: bust
