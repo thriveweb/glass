@@ -43,8 +43,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/3012ba99-c624-4124-9ac4-beb364f5faa9/'
   - image: 'https://ucarecdn.com/bb02a4b3-b18a-4fd0-af22-3b4e062f8d0c/'
   - image: 'https://ucarecdn.com/da07b299-6e28-4b29-a700-5436fc30bc7c/'
-  - image: >-
-      https://ucarecdn.com/363fbfb3-bed0-4cab-92e8-2045f36e2723/-/preview/-/rotate/90/
   - image: 'https://ucarecdn.com/28756d66-7fe3-42eb-b5c0-177e334d5fb2/'
 meta:
   title: Womens
