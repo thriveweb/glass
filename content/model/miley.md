@@ -3,8 +3,7 @@ template: ModelPage
 title: Miley
 featuredImage: >-
   https://ucarecdn.com/f017f00b-2d6e-4fb1-bb24-ca421f849bc9/-/crop/2449x1486/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/8d8f6110-f411-425a-93e8-5bb64aff99d0/-/crop/832x1065/361,26/-/preview/
+imageThumbnail: 'https://ucarecdn.com/72e88a85-bb9a-458b-ad69-1380391f9a19/'
 firstName: Miley
 collection: Emerging
 height: 163cm
@@ -17,8 +16,7 @@ shoeSize: '8'
 hair: Brown
 eyes: Green
 imagePortfolio:
-  - image: >-
-      https://ucarecdn.com/c709ce39-7f22-4621-9c93-a0c2bcd48f99/-/crop/2112x1632/337,0/-/preview/
+  - image: 'https://ucarecdn.com/fde49637-433c-4fd3-a7c8-c9373f535ebf/'
   - image: 'https://ucarecdn.com/d1743b9f-47d7-4c50-9b3f-318bb70cba3f/'
   - image: 'https://ucarecdn.com/e0c8c9bc-2a4c-4d96-b05e-4f4688d47a92/'
   - image: 'https://ucarecdn.com/78f6313f-f99d-42e7-8e34-076317dbfb39/'
