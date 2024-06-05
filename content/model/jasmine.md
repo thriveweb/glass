@@ -3,7 +3,8 @@ template: ModelPage
 title: Jasmine
 featuredImage: >-
   https://ucarecdn.com/e945a817-3dd1-4303-9f94-497f7283ae18/-/crop/1632x996/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/f7291630-b9ca-4c5d-bd14-6bfe214beed1/'
+imageThumbnail: >-
+  https://ucarecdn.com/10a11662-37a4-4609-84e6-7ffd4e58fd9e/-/crop/1040x1586/302,118/-/preview/
 firstName: Jasmine
 collection: Classic
 height: 166cm
@@ -16,25 +17,25 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/0f81cedf-065e-414a-844d-6df56c640338/'
-  - image: 'https://ucarecdn.com/df9b976e-dbdd-41a5-b98b-55234296c95c/'
-  - image: 'https://ucarecdn.com/858d2a16-47d2-4216-ab46-826827eb1470/'
+  - image: >-
+      https://ucarecdn.com/a4b4ac4d-5fa8-45b3-870c-76bd0381105b/-/crop/1632x2317/0,132/-/preview/
+  - image: 'https://ucarecdn.com/b6cd6f25-0455-4e5f-a63c-61f37923367d/'
   - image: 'https://ucarecdn.com/6e0ca0d1-4e43-441c-b476-de1bb3b8b03f/'
   - image: >-
-      https://ucarecdn.com/fcbf72b4-8786-4e93-8c08-471f2778b321/-/crop/1632x2050/0,399/-/preview/
-  - image: 'https://ucarecdn.com/3303fafe-5ab7-4a5b-9233-3998e890f21e/'
-  - image: 'https://ucarecdn.com/89033d22-abbb-40ad-a31d-6b88918ad7dc/'
-  - image: 'https://ucarecdn.com/18eb72f3-3bce-4af3-92cc-d66a899672c3/'
+      https://ucarecdn.com/d738082f-2a41-4d25-ba35-500d8150e947/-/crop/1558x2438/0,129/-/preview/
+  - image: >-
+      https://ucarecdn.com/5564b1cb-423c-4cc6-931e-74523316479c/-/crop/662x1084/71,0/-/preview/
+  - image: >-
+      https://ucarecdn.com/18eb72f3-3bce-4af3-92cc-d66a899672c3/-/crop/1538x1927/83,377/-/preview/
+  - image: 'https://ucarecdn.com/732d7285-837f-45c1-a0d0-4556d7aa3785/'
   - image: 'https://ucarecdn.com/f1486c82-14cd-4d6e-92ce-a09533a7cc25/'
+  - image: >-
+      https://ucarecdn.com/bd96bbcf-fa53-41da-a5ef-3bdb8daa07e1/-/crop/697x1095/36,0/-/preview/
+  - image: >-
+      https://ucarecdn.com/7807b6ec-4f77-4f51-a203-80f967b72b69/-/crop/1632x2323/0,126/-/preview/
   - image: 'https://ucarecdn.com/b0435325-1ffd-4983-92ea-0e4fd7770db2/'
-  - image: 'https://ucarecdn.com/7f939c58-3ccb-43a5-b9b1-2be06c38e291/'
-  - image: 'https://ucarecdn.com/1cb89dbb-38d1-4149-85f7-6e4c8f7543d7/'
-  - image: 'https://ucarecdn.com/a19d4ba8-65d4-4c34-b123-40375157c033/'
-  - image: 'https://ucarecdn.com/eea8489c-1d62-46e2-9b2b-671f55a1f0bf/'
-  - image: 'https://ucarecdn.com/8b52f59a-a556-4e3a-a697-dec47912923a/'
-  - image: 'https://ucarecdn.com/b85eaea8-0df5-46ce-a2b6-f1a038b2b000/'
+  - image: 'https://ucarecdn.com/2949c39b-c79f-4e8b-bba8-58dc29c4649b/'
+  - image: 'https://ucarecdn.com/4071de00-f584-4223-b2a8-995341eecf5a/'
   - image: 'https://ucarecdn.com/4edae8cc-2a56-42ac-b55b-8d5359c0c4a7/'
-  - image: 'https://ucarecdn.com/925c22ed-0608-4cfd-99cc-b4b48a30b7c6/'
-  - image: 'https://ucarecdn.com/22f5c915-0191-4d37-b80d-7619c611ea10/'
 ---
 
