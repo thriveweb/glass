@@ -1,27 +1,29 @@
 ---
-template: ModelPage
-title: 'Takali '
+title: Isla K
 featuredImage: >-
-  https://ucarecdn.com/ea798221-741d-422b-bb36-c11718626e20/-/crop/1650x810/0,77/-/preview/
+  https://ucarecdn.com/e0417dfc-5ddb-429e-9384-bb2b573acd66/-/crop/1650x821/0,74/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b70b5308-18c6-45fa-9eb8-b29b02e63ea0/-/crop/1407x2064/101,0/-/preview/
-firstName: Takali
-collection: Emerging
-height: 160cm
+  https://ucarecdn.com/df778d2c-d3f4-42e3-a96e-8b8ec00f88b2/-/crop/1455x2195/178,0/-/preview/
+firstName: Isla K
+collection: Girls
+height: 125cm
 measurementType: bust
-bust: 75cm
-waist: 65cm
-hips: 83cm
+bust: 60cm
+waist: 56cm
+hips: 64cm
 size: '6'
-shoeSize: '7'
+shoeSize: 13/1
 hair: Brown
-eyes: Brown
+eyes: Light Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/40b26fbe-12c5-43dc-87fc-b117b4b4c120/'
-  - image: 'https://ucarecdn.com/e4dcc8f7-537a-4382-a067-93206d9a705f/'
-  - image: 'https://ucarecdn.com/d248498b-85d7-4f6d-b297-08ec4af7265c/'
-  - image: 'https://ucarecdn.com/2d68bde5-47ad-47c1-bab7-b2f77f87d649/'
-  - image: 'https://ucarecdn.com/49efea24-1dee-43e6-9d33-7bfaa93402bb/'
-  - image: 'https://ucarecdn.com/5d3c649a-796a-486c-973b-b5e5de19a80c/'
+  - image: >-
+      https://ucarecdn.com/13f829e9-8b5d-4768-91f9-5882d55187bc/-/crop/1633x2347/0,102/-/preview/
+  - image: 'https://ucarecdn.com/006a8c0a-2e5a-45aa-8b53-32aebd64483d/'
+  - image: >-
+      https://ucarecdn.com/5f32e47d-3069-4e31-800e-95bdfbcb8262/-/crop/598x943/98,85/-/preview/
+  - image: >-
+      https://ucarecdn.com/d4653a1c-1930-451c-a6cd-6d2baac6c0b1/-/crop/1455x1100/195,0/-/preview/
+  - image: 'https://ucarecdn.com/69d06f2c-c2dc-4b5a-9d16-3bc3c38f57b4/'
+  - image: 'https://ucarecdn.com/8a710fd3-c032-48f5-b2b3-f9dabfb174dd/'
 ---
 
