@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Bray Jo F
+title: Brayz Jo F
 featuredImage: 'https://ucarecdn.com/da648ae6-a9ae-4721-96e7-bb7ab3350dff/'
 imageThumbnail: >-
   https://ucarecdn.com/185277c2-7a26-422d-a12e-121be5c116f1/-/crop/938x1209/82,49/-/preview/
