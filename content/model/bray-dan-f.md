@@ -4,7 +4,7 @@ title: Brayz Dan F
 featuredImage: >-
   https://ucarecdn.com/0bffd096-436a-4caa-9c23-5eb1dc49eb16/-/crop/1436x738/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/58311591-5803-4a60-89fd-21133cacf78a/-/crop/1041x1267/51,0/-/preview/
+  https://ucarecdn.com/58311591-5803-4a60-89fd-21133cacf78a/-/crop/926x1174/112,0/-/preview/
 firstName: Dan F
 collection: Men
 height: 172cm
