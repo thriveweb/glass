@@ -2,7 +2,7 @@
 template: ModelPage
 title: Tara B
 featuredImage: >-
-  https://ucarecdn.com/ab496c29-9668-42d2-ae33-fb25855c3a37/-/crop/733x521/0,69/-/preview/
+  https://ucarecdn.com/ab496c29-9668-42d2-ae33-fb25855c3a37/-/crop/733x425/0,102/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/3228fe56-1dd8-4018-ad10-c338e5366f06/-/crop/923x1290/419,30/-/preview/
 firstName: Tara B
