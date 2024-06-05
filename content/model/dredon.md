@@ -4,7 +4,7 @@ title: Dredon
 featuredImage: >-
   https://ucarecdn.com/e2a941c1-412a-4f27-b806-0ddd48f4cf3e/-/crop/896x374/266,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/d934a986-ef0c-4f7f-8795-6d4837722975/-/crop/481x658/399,192/-/preview/
+  https://ucarecdn.com/4c9b7e26-1020-4046-bfd7-dca0dbca083a/-/crop/1497x2023/0,0/-/preview/
 firstName: Dredon
 collection: Men
 height: 185cm
@@ -17,6 +17,7 @@ shoeSize: 12US
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/354136ff-a906-4a76-94cd-2668c56fa15b/'
   - image: 'https://ucarecdn.com/d34858a0-985b-4c2d-9437-1c13d870b0b8/'
   - image: 'https://ucarecdn.com/7793c30c-66ab-4963-89d8-189929a3290d/'
   - image: 'https://ucarecdn.com/84eba735-6c6f-469c-be29-225e7e4ddf12/'
@@ -36,5 +37,9 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/efdd5107-89ca-4813-bf2f-2ed42ca5fa0d/'
   - image: 'https://ucarecdn.com/3b965bfd-d0c6-4e00-acca-a188cc7584ce/'
   - image: 'https://ucarecdn.com/d331d4e6-caf0-4383-877f-6c8423e9672f/'
+  - image: 'https://ucarecdn.com/13468238-5d4a-453e-b74d-dbb6bb9a4931/'
+  - {}
+  - {}
+  - {}
 ---
 
