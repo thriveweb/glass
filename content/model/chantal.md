@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/aafbc649-247a-481a-880b-bf7528af1303/-/crop/1094x1508/325,0/-/preview/
 firstName: Chantal
-collection: Emerging
+collection: Classic
 height: 155cm
 measurementType: bust
 bust: 84cm
