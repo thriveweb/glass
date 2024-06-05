@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Bray Dan F
+title: Brayz Dan F
 featuredImage: >-
   https://ucarecdn.com/0bffd096-436a-4caa-9c23-5eb1dc49eb16/-/crop/1440x824/0,0/-/preview/
 imageThumbnail: >-
