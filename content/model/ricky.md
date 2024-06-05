@@ -16,6 +16,7 @@ shoeSize: '9.5'
 hair: Silverfox
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/3326d6fa-7590-42a7-9157-f6fc7d37cfca/'
   - image: 'https://ucarecdn.com/6bb5d2a0-377c-45a7-9662-087f34985d34/'
   - image: 'https://ucarecdn.com/fd59a6c0-7ca0-4c34-86cb-18eea62a3895/'
   - image: 'https://ucarecdn.com/ff931b8c-b393-4caf-9738-0f002f9f4e96/'
