@@ -12,7 +12,7 @@ measurementType: bust
 bust: 60cm
 waist: 52cm
 hips: 60cm
-size: '6'
+size: '5'
 shoeSize: '13'
 hair: Brown
 eyes: Blue
