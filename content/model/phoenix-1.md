@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/18ef9178-aea3-4d32-9a2d-e67f0b47b7cf/-/crop/267x322/341,267/-/preview/
 firstName: Phoenix
 collection: Boys
-height: 113cm
+height: 114cm
 measurementType: bust
 bust: 60cm
 waist: 52cm
