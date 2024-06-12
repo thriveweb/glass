@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Everast
+title: Everest
 featuredImage: >-
   https://ucarecdn.com/56969057-5cdd-4a3f-956f-2dbd2e8cc31c/-/crop/2048x938/0,247/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/82fa7ace-2d23-457c-9ed0-b27dc0ca3e05/-/crop/331x437/75,8/-/preview/
-firstName: Everast
+firstName: Everest
 collection: Boys
 height: 99cm
 measurementType: chest
