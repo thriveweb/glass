@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/e3768fa7-4c90-4bf1-baf4-6977385252b4/-/crop/554x813/36,18/-/preview/
 firstName: 'Virginia '
-collection: ''
+collection: Mature
 height: 163cm
 measurementType: bust
 bust: 93cm
