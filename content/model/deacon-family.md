@@ -9,6 +9,7 @@ firstName: Deacon Family
 collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/a69bd6b8-1433-48e0-b0ab-cbb6bea5fc4f/'
+  - image: 'https://ucarecdn.com/b3cac8a6-4f6b-48ab-95e7-41b1c3ff2e32/'
   - image: 'https://ucarecdn.com/2cf66197-d195-44f5-afee-f44b10bdc280/'
   - image: 'https://ucarecdn.com/8200636e-231a-4089-88ad-59c07b422b65/'
   - image: 'https://ucarecdn.com/a97dd156-1824-4b1a-802b-8928a04f0caa/'
