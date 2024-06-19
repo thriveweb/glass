@@ -11,8 +11,8 @@ measurementType: chest
 bust: 68cm
 waist: 62cm
 hips: 74cm
-size: 10-12
-shoeSize: '6'
+size: 12-14
+shoeSize: '8'
 hair: Auburn
 eyes: Brown
 imagePortfolio:
