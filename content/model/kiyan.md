@@ -6,7 +6,7 @@ featuredImage: >-
 featuredVideo: 'https://ucarecdn.com/83ba95d9-3387-4934-ade3-06c127c6790d/'
 featuredVideoMobile: 'https://ucarecdn.com/9d4ad5f4-848f-4754-8534-a0aff3276759/'
 imageThumbnail: >-
-  https://ucarecdn.com/587f9d55-9713-4827-99a9-50ece8571a20/-/crop/324x334/96,5/-/preview/
+  https://ucarecdn.com/fcc93c6a-b2ef-448e-b4c5-2ffeec6595c6/-/crop/564x630/287,0/-/preview/
 firstName: Kiyan
 collection: Boys
 height: 135cm
@@ -19,30 +19,22 @@ shoeSize: 4-5
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/8a48d3e8-19dc-4c7e-97af-c6085bfc190f/'
   - image: 'https://ucarecdn.com/361c230a-817c-4e6c-ad1c-81c931450b3c/'
+  - image: 'https://ucarecdn.com/e0b71c53-5f1e-4c43-81e7-51ae868cb0c8/'
   - image: 'https://ucarecdn.com/dcdaa4e4-7a42-4587-9a01-0e534bb3cf71/'
   - image: 'https://ucarecdn.com/de3553b7-a323-4645-8df5-4e534cb21306/'
+  - image: 'https://ucarecdn.com/5c795acd-da68-48dc-a6bf-0f492f5eb633/'
   - image: 'https://ucarecdn.com/7993f3ca-ee8e-4935-9690-885a301ce5fd/'
   - image: 'https://ucarecdn.com/20b07ce2-2985-4fbd-a6c5-996213aef827/'
+  - image: 'https://ucarecdn.com/f520829f-73b5-4156-9e5e-0ac0197629a1/'
   - image: 'https://ucarecdn.com/c974dee6-1afa-43e7-934a-6b1b6a2d6f24/'
-  - image: 'https://ucarecdn.com/2cd97380-60ac-4dea-abb8-4aaa6414dc3c/'
-  - image: 'https://ucarecdn.com/9d64bba9-1667-4528-a8ed-d38751175722/'
-  - image: 'https://ucarecdn.com/fbc323e8-cdce-4f02-a9ff-2d8e151fe925/'
-  - image: 'https://ucarecdn.com/14b86bb4-2a09-4310-a15b-141f1ee1c4d6/'
   - image: 'https://ucarecdn.com/a5fc41fb-43fa-4492-b715-131ce90317c2/'
   - image: 'https://ucarecdn.com/8ba351cc-6700-4440-a09d-5f36c9da3dfa/'
   - image: 'https://ucarecdn.com/47f626fe-63f0-411f-b87a-89fbdfd03729/'
-  - image: 'https://ucarecdn.com/f5e5e1a5-7e61-4920-8959-858470f68415/'
   - image: 'https://ucarecdn.com/4fcbc8d1-4baf-411c-8df7-0874148c1e99/'
-  - image: 'https://ucarecdn.com/669f28bf-4b91-41a6-b40e-5d924d58212e/'
-  - image: 'https://ucarecdn.com/c576d253-50a0-4e78-908a-422963560409/'
-  - image: 'https://ucarecdn.com/9cde527c-427b-4ce1-80be-24699c266608/'
   - image: 'https://ucarecdn.com/0ed15f5a-26f4-4dfa-9d4a-2e7b38a32d62/'
-  - image: 'https://ucarecdn.com/7f1b31d9-c0ab-48de-b507-6f26c76f5b52/'
-  - image: 'https://ucarecdn.com/6ef457b7-c408-45b2-b1c1-ad2f0269d906/'
-  - image: 'https://ucarecdn.com/2556a805-7230-4a9c-9133-22ce671556a4/'
   - image: 'https://ucarecdn.com/dee8d067-73ab-466d-8912-6fdd8e4b17c2/'
-  - image: 'https://ucarecdn.com/5c1e21ef-e56e-41fc-87fa-ca43b05edeb8/'
   - image: 'https://ucarecdn.com/5bf2a907-da95-4af0-81b3-8a40f1e499fc/'
 ---
 
