@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Sally EXTRA
+title: Sally H EXTRA
 featuredImage: 'https://ucarecdn.com/49f44c0b-5df1-4741-8279-ac2650b03fa3/'
 imageThumbnail: 'https://ucarecdn.com/e9445b09-3411-4a65-bd37-285c54e1e0a8/'
-firstName: Sally EXTRA
+firstName: Sally H EXTRA
 collection: Extras
 height: 165cm
 measurementType: bust
