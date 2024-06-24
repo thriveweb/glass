@@ -6,12 +6,12 @@ imageThumbnail: >-
   https://ucarecdn.com/3f8031ee-b33b-4703-8d74-464f8bdfe141/-/crop/1489x2405/143,0/-/preview/
 firstName: Manaia
 collection: Girls
-height: 125cm
+height: 128cm
 measurementType: bust
 bust: 62cm
 waist: 55.5cm
 hips: 64.5cm
-size: '6'
+size: 6-7
 shoeSize: '2'
 hair: 'Blonde '
 eyes: Hazel
