@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Daniel
-featuredImage: >-
-  https://ucarecdn.com/3c1a92c3-c116-42ea-9832-b6371f785126/-/crop/2449x1339/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/d124f669-033f-409a-9cf6-70884fad07cc/'
 imageThumbnail: >-
   https://ucarecdn.com/dc3b10f8-3a98-47d1-9da0-6e0448036154/-/crop/1153x1632/629,0/-/preview/
 firstName: Daniel
