@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/d009d1d4-1a6a-4ec4-bc34-af6a40b03574/-/crop/1306x1731/56,0/-/preview/
 firstName: Cruz
 collection: Boys
-height: 120cm
+height: 132cm
 measurementType: chest
 bust: 56cm
 waist: 53cm
 hips: 57cm
-size: 6 boys
-shoeSize: US 1
+size: 7-8
+shoeSize: US 3
 hair: Hazel
 eyes: Red/Auburn
 imagePortfolio:
