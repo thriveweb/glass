@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/8272cd71-8aad-4083-8565-8098b035a1b5/-/crop/529x667/958,129/-/preview/
 firstName: Luna
 collection: Girls
-height: 122cm
+height: 136cm
 measurementType: bust
 bust: 60cm
 waist: 56cm
 hips: 66cm
-size: 9-10
+size: '10'
 shoeSize: '3'
 hair: Light Brown
 eyes: Brown
