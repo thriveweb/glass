@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/dabcac4a-8602-48be-8a99-aeb37489017b/-/crop/600x787/42,7/-/preview/
 firstName: Koa C
 collection: Boys
-height: 110cm
+height: 112cm
 measurementType: chest
-bust: 58cm
-waist: 55cm
-hips: 60cm
+bust: 60cm
+waist: 56cm
+hips: 62cm
 size: 4-5
-shoeSize: '12'
+shoeSize: 13-1
 hair: Brown
 eyes: Green
 imagePortfolio:
