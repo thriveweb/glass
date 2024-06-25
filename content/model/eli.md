@@ -2,7 +2,8 @@
 template: ModelPage
 title: Eli
 featuredImage: 'https://ucarecdn.com/f8044519-2d8e-43dc-908f-8c58fe45ca04/'
-imageThumbnail: 'https://ucarecdn.com/9d122aef-f162-4554-b0d4-b7a6176fbfbf/'
+imageThumbnail: >-
+  https://ucarecdn.com/28964be9-74b2-4e35-a492-f159a4fde57a/-/crop/411x526/51,0/-/preview/
 firstName: Eli
 collection: Emerging
 height: 162cm
