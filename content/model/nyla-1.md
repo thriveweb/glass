@@ -9,8 +9,8 @@ firstName: Nyla
 collection: Girls
 height: 100cm
 measurementType: bust
-bust: 52cm
-waist: 52cm
+bust: 55cm
+waist: 60cm
 hips: 55cm
 size: '3'
 shoeSize: 8-10
