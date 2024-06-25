@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/73bbe37a-0357-43ab-84f3-b412de9758e1/-/crop/2504x3327/858,515/-/preview/
 firstName: Aurelien
-collection: Boys
+collection: ''
 height: 157cm
 measurementType: chest
 bust: 78cm
