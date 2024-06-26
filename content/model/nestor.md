@@ -6,8 +6,10 @@ imageThumbnail: >-
   https://ucarecdn.com/093cdd6d-06c4-48ca-877e-d86a9b036dd1/-/crop/424x495/0,0/-/preview/
 firstName: Nestor EXTRA
 collection: Extras
-height: 178cm
+height: 174cm
 measurementType: chest
+bust: 45"
+waist: 44"
 size: L
 shoeSize: '11'
 hair: Brown
