@@ -10,9 +10,9 @@ collection: Girls
 height: 108cm
 measurementType: bust
 bust: 56cm
-waist: 55cm
+waist: 54cm
 hips: 57cm
-size: 4-5
+size: '5'
 shoeSize: '10'
 hair: Blonde/Brown
 eyes: Blue
