@@ -6,8 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/18d66dbb-47fb-4e06-8977-c7b125d14b6b/-/crop/557x679/889,111/-/preview/
 firstName: 'Eva '
 collection: Girls
-size: '2'
-shoeSize: '6'
+height: 100.5cm
+measurementType: bust
+bust: 57cm
+waist: 56cm
+hips: 58cm
+size: '4'
+shoeSize: '8'
 hair: 'Dark Brown '
 eyes: Dark Brown
 imagePortfolio:
