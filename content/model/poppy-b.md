@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Poppy B
+title: Poppy T
 featuredImage: >-
   https://ucarecdn.com/3aa8d0f8-d27a-418e-a13b-b35bc149d4fe/-/crop/608x367/0,264/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/525a90ec-c35f-42b9-8168-6de3e7984fae/-/crop/484x701/79,20/-/preview/
-firstName: Poppy B
+firstName: Poppy T
 collection: Girls
 height: 122cm
 measurementType: bust
