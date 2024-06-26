@@ -8,11 +8,11 @@ firstName: Patrick
 collection: Boys
 height: 125cm
 measurementType: chest
-bust: 56cm
-waist: 54cm
-hips: 61cm
-size: 5-6
-shoeSize: '13'
+bust: 60cm
+waist: 56cm
+hips: 64cm
+size: '6'
+shoeSize: '2'
 hair: Brown
 eyes: Green
 imagePortfolio:
