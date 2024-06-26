@@ -10,10 +10,10 @@ collection: Girls
 height: 128cm
 measurementType: bust
 bust: 63cm
-waist: 57cm
-hips: 66cm
-size: '8'
-shoeSize: '1'
+waist: 60cm
+hips: 70cm
+size: '9'
+shoeSize: '2'
 hair: Brown
 eyes: Blue
 imagePortfolio:
