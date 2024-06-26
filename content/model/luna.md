@@ -9,11 +9,11 @@ firstName: Luna
 collection: Girls
 height: 136cm
 measurementType: bust
-bust: 60cm
-waist: 56cm
-hips: 66cm
-size: '10'
-shoeSize: '3'
+bust: 75cm
+waist: 65cm
+hips: 80cm
+size: 10/12
+shoeSize: '4'
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
