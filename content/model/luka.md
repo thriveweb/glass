@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/7d740d68-44e0-4372-b531-51e25499f891/-/crop/557x755/721,551/-/preview/
 firstName: Luka
 collection: Boys
-height: 102cm
+height: 105cm
 measurementType: chest
-bust: 54cm
-waist: 53cm
-hips: 55cm
+bust: 59cm
+waist: 61cm
+hips: 56cm
 size: 3-4
 shoeSize: '10'
 hair: Aurburn
