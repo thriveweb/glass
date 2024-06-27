@@ -8,7 +8,8 @@ firstName: ACTOR Eli
 collection: Actors
 imagePortfolio:
   - image: 'https://ucarecdn.com/1f02684c-d725-4c1c-83b2-48fb23bb0ee9/'
-  - image: 'https://ucarecdn.com/0f79fc19-303d-4d43-8cca-d9618c062d49/'
+  - image: 'https://ucarecdn.com/b24a6b4e-61aa-4fd4-af22-f3a40dc29480/'
   - image: 'https://ucarecdn.com/bf2d0860-2f8c-4171-8516-63d2b61e56a0/'
+  - image: 'https://ucarecdn.com/29a19bbc-0eed-4343-871b-b8709718f21d/'
 ---
 
