@@ -16,6 +16,7 @@ size: 8-10
 shoeSize: 1-2
 hair: Blonde
 imagePortfolio:
+  - image: 'https://ucarecdn.com/c1470e26-3121-41c5-9f13-8ad3b68368bd/'
   - image: 'https://ucarecdn.com/79ef44a5-31b7-41ca-a41e-14a2db915d47/'
   - image: 'https://ucarecdn.com/ea1cf10e-f9ed-45da-a848-014b61c5f357/'
   - image: 'https://ucarecdn.com/175e92af-3ecc-45ad-8867-9785609d421b/'
