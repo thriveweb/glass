@@ -2,7 +2,8 @@
 template: ModelPage
 title: ACTOR Eli
 featuredImage: 'https://ucarecdn.com/4c832c97-689a-4114-b38b-f16234cff432/'
-imageThumbnail: 'https://ucarecdn.com/4e940bec-6ae6-474c-8b7a-ce31714272b2/'
+imageThumbnail: >-
+  https://ucarecdn.com/d77c8fae-e96b-4a07-9100-9406629f0bc9/-/crop/976x1253/598,0/-/preview/
 firstName: ACTOR Eli
 collection: Actors
 imagePortfolio:
