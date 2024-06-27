@@ -1,9 +1,9 @@
 ---
 template: ModelPage
 title: Eli
-featuredImage: 'https://ucarecdn.com/f8044519-2d8e-43dc-908f-8c58fe45ca04/'
+featuredImage: 'https://ucarecdn.com/69e99576-f0c8-4791-9a35-bf81e1080b27/-/preview/'
 imageThumbnail: >-
-  https://ucarecdn.com/28964be9-74b2-4e35-a492-f159a4fde57a/-/crop/411x526/51,0/-/preview/
+  https://ucarecdn.com/13e2e350-862d-4bf0-8483-2d789c79109b/-/crop/1036x1262/568,0/-/preview/
 firstName: Eli
 collection: Emerging
 height: 162cm
@@ -16,21 +16,17 @@ shoeSize: '8'
 hair: brown
 eyes: brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/ca7648c6-172b-41fe-8b25-f04293d5dbc1/'
-  - image: 'https://ucarecdn.com/ea478031-9521-4ad9-82de-be94b9eb5830/'
-  - image: 'https://ucarecdn.com/ac4280e9-8e1d-4879-becf-0a515d06f026/'
-  - image: 'https://ucarecdn.com/2386d373-ce4b-4ea9-8617-71f037dc9109/'
-  - image: 'https://ucarecdn.com/e413a446-0261-4feb-a69f-87cc1e3ef75e/'
+  - image: 'https://ucarecdn.com/d57f67d0-2f30-45b6-90f5-1da133a515e9/'
+  - image: 'https://ucarecdn.com/1a71f51d-cc86-4be7-a2d4-e900fdb083db/'
   - image: 'https://ucarecdn.com/ff610010-313f-41fc-bbf0-37236832c143/'
-  - image: 'https://ucarecdn.com/018483d4-fa93-4bae-8f40-4ede0e0fed28/'
+  - image: 'https://ucarecdn.com/7b975ebd-53f0-4cb7-9997-64391cc81e42/'
+  - image: 'https://ucarecdn.com/a1b91d6f-b095-4368-8cbd-2ffa0b09aadf/'
+  - image: 'https://ucarecdn.com/98f8ed94-2f07-47fd-87f7-7a910ba64296/'
+  - image: 'https://ucarecdn.com/ca7648c6-172b-41fe-8b25-f04293d5dbc1/'
+  - image: 'https://ucarecdn.com/d3fdb3bc-a7d9-4cf8-b94c-0501d1cd6ce5/'
+  - image: 'https://ucarecdn.com/7b1036b6-d5a0-4de3-b40d-dcb6eed83d9a/'
+  - image: 'https://ucarecdn.com/2386d373-ce4b-4ea9-8617-71f037dc9109/'
   - image: 'https://ucarecdn.com/8da59dfa-db61-4935-9f5f-a67a5c6c2bfc/'
   - image: 'https://ucarecdn.com/e8e92bb0-2751-4dfa-bb3b-fd540a2d14bc/'
-  - image: 'https://ucarecdn.com/2956fea2-acbc-4333-ac94-60a08ef533b2/'
-  - image: 'https://ucarecdn.com/a978297a-9219-4fba-8297-91c46e660cc6/'
-  - image: 'https://ucarecdn.com/93ccaed0-f286-40e9-aee6-68cb6ad9abc9/'
-  - image: 'https://ucarecdn.com/4bb0c8f3-11de-4be6-853f-99404589c575/'
-  - image: 'https://ucarecdn.com/a1b91d6f-b095-4368-8cbd-2ffa0b09aadf/'
-  - image: 'https://ucarecdn.com/57db1900-e77a-4490-9f6c-86f82c514ed8/'
-  - image: 'https://ucarecdn.com/0cc4a62f-e3cb-4150-bcaf-922b2c6cac27/'
 ---
 
