@@ -4,7 +4,7 @@ title: Gaines Family
 featuredImage: >-
   https://ucarecdn.com/6abb2629-ff8e-471f-9116-a7691292a486/-/crop/2449x998/0,306/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/afb08c05-153c-4098-b4bc-6e7f2f849ede/-/crop/642x1090/606,978/-/preview/
+  https://ucarecdn.com/afb08c05-153c-4098-b4bc-6e7f2f849ede/-/crop/602x1123/646,945/-/preview/
 firstName: Gaines Family
 collection: Family
 imagePortfolio:
