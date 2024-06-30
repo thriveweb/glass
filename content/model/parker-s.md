@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/41c48766-0262-4507-a8dd-abdeb6321f8f/-/crop/711x1001/156,0/-/preview/
 firstName: Parker S
 collection: Boys
-height: 101cm
+height: 113cm
 measurementType: chest
-bust: 56cm
-waist: 52cm
-hips: 54cm
-size: 3-4
-shoeSize: '10'
+bust: 61cm
+waist: 54cm
+hips: 62cm
+size: '5'
+shoeSize: '13'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
