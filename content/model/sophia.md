@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/7bf9950f-c3a5-4a68-b2e0-040925b95710/-/crop/809x1043/205,207/-/preview/
 firstName: Sophia
 collection: Girls
-height: 141cm
+height: 153cm
 measurementType: bust
 bust: 70cm
 waist: 59cm
