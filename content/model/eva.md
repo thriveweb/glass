@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/35caa9f4-6b4b-47ea-bc25-c27e229c0f2d/-/crop/824x1097/27,37/-/preview/
 firstName: Eva
 collection: Girls
-height: 132cm
+height: 133cm
 measurementType: bust
 bust: 60cm
 waist: 52cm
 hips: 65cm
-size: 8-10
+size: '10'
 shoeSize: '3'
 hair: Brown
 eyes: Brown
