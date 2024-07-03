@@ -4,7 +4,7 @@ title: 'Phoenix '
 featuredImage: >-
   https://ucarecdn.com/5fdc5c96-ec52-40ea-a456-f7602955c869/-/crop/854x586/0,329/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/18ef9178-aea3-4d32-9a2d-e67f0b47b7cf/-/crop/267x322/341,267/-/preview/
+  https://ucarecdn.com/b555704f-2201-4381-bf9f-37e74dfbfd91/-/crop/762x1092/321,379/-/preview/
 firstName: Phoenix
 collection: Boys
 height: 114cm
@@ -17,6 +17,7 @@ shoeSize: '13'
 hair: Brown
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/cf22f593-8763-4e6a-9fc2-1ec1445bb5c6/'
   - image: 'https://ucarecdn.com/9ae457cc-d4d8-4e75-b68e-f62e926c1d75/'
   - image: 'https://ucarecdn.com/70299910-c317-459c-b108-ff7ec24a44e8/'
   - image: 'https://ucarecdn.com/57f0d41a-e088-48e5-b6a3-e56b666d06ca/'
