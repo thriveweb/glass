@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/91cb164c-4f74-4b3a-a8cb-974c9a99ede9/-/crop/365x458/139,0/-/preview/
 firstName: Ellie
-collection: Women
+collection: ''
 height: ' 167cm'
 measurementType: bust
 bust: 87cm
