@@ -1,10 +1,9 @@
 ---
 template: ModelPage
 title: Isaiah M
-featuredImage: >-
-  https://ucarecdn.com/2358d5ad-5a91-47b3-8a29-c5186f201247/-/crop/1365x893/0,314/-/preview/
+featuredImage: 'https://ucarecdn.com/09e1ac02-ee84-4490-b513-ec5a46bab42a/'
 imageThumbnail: >-
-  https://ucarecdn.com/b154f6ec-68dc-4bf9-b80f-0007c22e48f7/-/crop/360x489/960,154/-/preview/
+  https://ucarecdn.com/e8d3c7df-d6d8-4401-8b5f-5d35fc3a3ba3/-/crop/753x1082/484,191/-/preview/
 firstName: Isaiah M
 collection: Boys
 size: 2-3
@@ -13,14 +12,15 @@ hair: Brunette
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/f100a34a-9787-4f47-aa9a-abdee241416a/'
+  - image: 'https://ucarecdn.com/f99574ce-28d7-4220-86b5-f79fb2d2ff12/'
   - image: >-
       https://ucarecdn.com/fdea02a5-7882-4a9a-bfe8-1e8ec888eb90/-/preview/-/rotate/90/
+  - image: 'https://ucarecdn.com/be9461c4-21c8-45a2-a646-f5c6c0b8caf4/'
   - image: 'https://ucarecdn.com/d71c781a-fa44-4174-a669-2fef03c3046e/'
   - image: >-
       https://ucarecdn.com/d78c1d19-b81e-4e53-a0bc-81d7e988131b/-/preview/-/rotate/90/
   - image: >-
       https://ucarecdn.com/2480ede6-41d2-4319-afca-66f01fe0f397/-/crop/672x1134/787,782/-/preview/
-  - image: 'https://ucarecdn.com/f36f1a97-e8a8-443c-8544-6232ba5a04f5/'
   - image: 'https://ucarecdn.com/686c0c69-f7b8-41db-8ad1-7f068d113a85/'
   - image: 'https://ucarecdn.com/747ee715-3395-43de-ba8c-143ee03e5130/'
   - image: 'https://ucarecdn.com/eb447485-e96e-4985-9078-c5e9b38efa8c/'
