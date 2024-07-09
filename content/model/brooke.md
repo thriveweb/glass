@@ -12,7 +12,7 @@ measurementType: bust
 bust: 101cm
 waist: 81cm
 hips: 97cm
-size: 10-12
+size: '12'
 shoeSize: '8'
 imagePortfolio:
   - image: 'https://ucarecdn.com/e66b0dd8-7a14-42bd-a0d5-92fe9a1eca37/'
