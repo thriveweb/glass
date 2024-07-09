@@ -3,7 +3,8 @@ template: ModelPage
 title: Jesse
 featuredImage: >-
   https://ucarecdn.com/9477f788-0012-4540-9b34-ef39540f41ff/-/crop/960x534/0,163/-/preview/
-imageThumbnail: 'https://ucarecdn.com/025035a6-f9ad-4d78-88cb-84383b9c7496/'
+imageThumbnail: >-
+  https://ucarecdn.com/60ad90d5-9b0d-4db7-828e-758cf1520e96/-/crop/1045x1441/325,114/-/preview/
 firstName: Jesse
 collection: Girls
 height: 131cm
@@ -12,23 +13,20 @@ bust: 61cm
 waist: 51cm
 hips: 61cm
 size: 7-8
-shoeSize: 10 kids
+shoeSize: '1-2 '
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/4406e931-9922-4715-868e-8cfe27eebacb/'
-  - image: 'https://ucarecdn.com/c6b1ff2f-eb4f-437e-bf81-aa7545331365/'
-  - image: 'https://ucarecdn.com/ff171ed8-460b-49d5-b853-89fce51d5f44/'
+  - image: 'https://ucarecdn.com/06209dc5-84f9-4de4-9591-e8a1d46302d8/'
+  - image: 'https://ucarecdn.com/3abff07b-46c3-487e-8ff3-7a0811a45957/'
+  - image: 'https://ucarecdn.com/c7b1c00e-e39c-45cf-aae0-91a198aa9f3b/'
+  - image: 'https://ucarecdn.com/c4882444-28db-4837-907e-cfad402df790/'
   - image: 'https://ucarecdn.com/02ae2596-cf18-4729-bb3e-1ed7479430bd/'
-  - image: 'https://ucarecdn.com/52f9cc57-92c2-449e-9819-a907bfec560b/'
-  - image: 'https://ucarecdn.com/f8bc6005-5038-40f7-b430-24adb8620de0/'
-  - image: 'https://ucarecdn.com/16e22738-5ff6-4368-9a3c-d6219107d91f/'
-  - image: 'https://ucarecdn.com/47758fe6-2959-4bfe-967f-8f43d3db06a1/'
-  - image: 'https://ucarecdn.com/4d730121-4e53-41dc-ad91-c8a475024b79/'
+  - image: 'https://ucarecdn.com/c94f68fb-a5c5-44e8-82aa-1928d64ed458/'
   - image: 'https://ucarecdn.com/86b715be-9287-4f64-aad0-616c9d958799/'
-  - image: 'https://ucarecdn.com/ad7d0e53-ef56-4875-bebe-bd1c000a1428/'
-  - image: 'https://ucarecdn.com/ba66cc64-e6b6-43ee-a299-c942ede468b4/'
-  - image: 'https://ucarecdn.com/3018b518-9f43-4093-a716-53415783acff/'
-  - image: 'https://ucarecdn.com/314b007b-8dcd-4243-8689-8e39c6b41f4d/'
+  - image: 'https://ucarecdn.com/e0f09eb2-e204-4bbc-860b-04e714191489/'
+  - image: 'https://ucarecdn.com/d6b98816-1288-44a5-99af-7b3d228325d0/'
+  - image: 'https://ucarecdn.com/1a47ab2f-039b-4bb2-803f-d88e1745f666/'
+  - image: 'https://ucarecdn.com/4d730121-4e53-41dc-ad91-c8a475024b79/'
 ---
 
