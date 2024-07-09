@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/64d01492-17f4-4d11-85b4-8f8dee1e0b1a/-/crop/1208x1757/156,26/-/preview/
 firstName: Monty
 collection: Girls
-height: 157cm
+height: 164cm
 measurementType: bust
-bust: 74cm
-waist: 58cm
-hips: 82cm
-size: '12'
-shoeSize: Women's 7/8
+bust: 80cm
+waist: 66cm
+hips: 80cm
+size: 12-14
+shoeSize: Ladies 8-9
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
