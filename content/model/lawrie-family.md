@@ -2,7 +2,7 @@
 template: ModelPage
 title: Lawrie Family
 featuredImage: >-
-  https://ucarecdn.com/14473389-35e0-49dd-a49f-5165f02b0ad6/-/crop/2446x1525/0,0/-/preview/
+  https://ucarecdn.com/14473389-35e0-49dd-a49f-5165f02b0ad6/-/crop/2449x1334/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/7487687f-1981-4e1c-8484-affefc3b16a1/-/crop/1562x2096/39,31/-/preview/
 firstName: Lawrie
