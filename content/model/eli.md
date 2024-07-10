@@ -2,8 +2,7 @@
 template: ModelPage
 title: Eli
 featuredImage: 'https://ucarecdn.com/69e99576-f0c8-4791-9a35-bf81e1080b27/-/preview/'
-imageThumbnail: >-
-  https://ucarecdn.com/13e2e350-862d-4bf0-8483-2d789c79109b/-/crop/1036x1262/568,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/0b4159ee-255a-43ce-999e-96d658603ad2/'
 firstName: Eli
 collection: Emerging
 height: 162cm
@@ -16,9 +15,10 @@ shoeSize: '8'
 hair: brown
 eyes: brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/d57f67d0-2f30-45b6-90f5-1da133a515e9/'
-  - image: 'https://ucarecdn.com/1a71f51d-cc86-4be7-a2d4-e900fdb083db/'
+  - image: 'https://ucarecdn.com/8a904bbe-f46a-4549-b3f8-98e11f9ac5c0/'
   - image: 'https://ucarecdn.com/ff610010-313f-41fc-bbf0-37236832c143/'
+  - image: 'https://ucarecdn.com/2b419049-f696-42ce-b971-d4fb074e7989/'
+  - image: 'https://ucarecdn.com/1a71f51d-cc86-4be7-a2d4-e900fdb083db/'
   - image: 'https://ucarecdn.com/7b975ebd-53f0-4cb7-9997-64391cc81e42/'
   - image: 'https://ucarecdn.com/a1b91d6f-b095-4368-8cbd-2ffa0b09aadf/'
   - image: 'https://ucarecdn.com/98f8ed94-2f07-47fd-87f7-7a910ba64296/'
