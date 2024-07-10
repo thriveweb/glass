@@ -2,9 +2,9 @@
 template: ModelPage
 title: Mila D
 featuredImage: >-
-  https://ucarecdn.com/bd545b73-3cca-4a87-b2af-ef6e922ce33a/-/crop/715x482/0,78/-/preview/
+  https://ucarecdn.com/bd545b73-3cca-4a87-b2af-ef6e922ce33a/-/crop/715x390/0,78/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/3118a5ed-efa1-449f-ac21-6601a348e883/-/crop/166x225/285,46/-/preview/
+  https://ucarecdn.com/3d706a55-d2e7-4d18-9c83-791e12b8600a/-/crop/99x135/112,73/-/preview/
 firstName: Mila D
 collection: Girls
 height: 160cm
