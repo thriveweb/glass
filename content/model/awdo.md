@@ -3,7 +3,8 @@ template: ModelPage
 title: C Awdo
 featuredImage: >-
   https://ucarecdn.com/f37a008c-8309-4f7e-a471-1de7f2fa4454/-/crop/4000x3087/0,139/-/preview/
-imageThumbnail: 'https://ucarecdn.com/8fc26df8-a984-44f8-af3d-13e20d6496f0/'
+imageThumbnail: >-
+  https://ucarecdn.com/8fc26df8-a984-44f8-af3d-13e20d6496f0/-/crop/1613x2192/0,0/-/preview/
 firstName: Awdo
 collection: Men
 height: 193cm
