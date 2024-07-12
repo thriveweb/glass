@@ -17,7 +17,7 @@ gallery:
     - image: >-
         https://ucarecdn.com/dd765b2b-cd6a-4a29-8068-cea8e6d04bc5/-/crop/356x547/57,0/-/preview/
       title: Girls
-    - image: 'https://ucarecdn.com/cbcb1296-fa06-43f9-b053-41bacff6eca0/'
+    - image: 'https://ucarecdn.com/86d9cd0f-1af3-4bba-9232-256f2da05ecc/'
       title: Emerging
     - image: 'https://ucarecdn.com/c981bd03-1d94-4e3e-baca-024f3758b51e/'
       title: Family
