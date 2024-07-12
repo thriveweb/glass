@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/a32a6e1d-ec12-4f1a-873c-fb8f806d0abe/'
 imageThumbnail: >-
   https://ucarecdn.com/be9f1cf0-96d6-4642-bbc0-abb1ab2b90b0/-/crop/948x1171/19,105/-/preview/
 firstName: Jak EXTRA
-collection: Extras
+collection: ''
 height: 5'7
 measurementType: chest
 bust: 36'
