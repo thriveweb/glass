@@ -2,8 +2,7 @@
 template: ModelPage
 title: Karri
 featuredImage: 'https://ucarecdn.com/d207900e-11e6-490f-b5ce-9cf2b1e75550/'
-imageThumbnail: >-
-  https://ucarecdn.com/2c2a20b2-f25f-4174-a296-fd5efd2337af/-/crop/3568x4462/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/c6b9b995-64a4-43e2-a051-0ca5ab0e8c47/'
 firstName: Karri
 collection: Women
 height: 173cm
