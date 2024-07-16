@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/70e99780-37c4-4907-9cca-1ba544102146/-/crop/320x450/533,450/-/preview/
 firstName: Mallu
 collection: Girls
-height: 85cm
+height: 97cm
 measurementType: bust
-bust: 52cm
+bust: 53cm
 waist: 50cm
-hips: 52cm
-size: 18 months
-shoeSize: 5/6
+hips: 55cm
+size: 3/4
+shoeSize: '7'
 hair: Dark Brown
 eyes: Brown
 imagePortfolio:
