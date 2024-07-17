@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/a5ddeab3-92c5-43b0-aabc-df11ebaa3ce4/-/crop/940x1198/329,0/-/preview/
 firstName: Bailey R
 collection: Girls
-height: 103cm
+height: 109cm
 measurementType: bust
-bust: 53cm
+bust: 54cm
 waist: 51cm
-hips: 52cm
-size: '5'
-shoeSize: '10'
+hips: 57cm
+size: 4-5
+shoeSize: 9-10
 hair: Blonde
 eyes: Blue
 imagePortfolio:
