@@ -2,7 +2,7 @@
 template: ModelPage
 title: Gary
 featuredImage: >-
-  https://ucarecdn.com/fa7c6dc4-7fe8-4bbd-b1b3-c786e06c1e5e/-/crop/733x552/0,79/-/preview/
+  https://ucarecdn.com/fa7c6dc4-7fe8-4bbd-b1b3-c786e06c1e5e/-/crop/733x429/0,79/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/bef3090b-3af1-4964-8a99-7719b7535d0d/-/crop/627x945/53,23/-/preview/
 firstName: Gary
