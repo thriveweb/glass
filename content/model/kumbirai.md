@@ -1,11 +1,12 @@
 ---
 template: ModelPage
 title: Kumbi
-featuredImage: 'https://ucarecdn.com/54fac794-a9da-4c4e-bc01-88f1c4485253/'
+featuredImage: >-
+  https://ucarecdn.com/0d18e593-16df-454d-96b0-c23afc3175a2/-/crop/1428x901/0,15/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/1e864d7d-27a2-4374-b9bd-c89d4706dd68/-/crop/1172x912/799,401/-/preview/-/rotate/90/
+  https://ucarecdn.com/052aa13e-c13f-49bd-bf3a-4acd82979755/-/crop/673x860/783,76/-/preview/
 firstName: Kumbi
-collection: Emerging
+collection: Men
 height: 192cm
 measurementType: chest
 bust: 90cm
@@ -16,13 +17,16 @@ shoeSize: '11'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/52d11d65-5896-43ad-90d9-d1bdad72e3bd/'
+  - image: 'https://ucarecdn.com/7852f33c-1384-4c47-a196-fe693edd07b0/'
+  - image: 'https://ucarecdn.com/88530905-72d5-4aed-bbc9-3b8c71fbcb91/'
+  - image: 'https://ucarecdn.com/5534bf88-d266-40b6-8202-ad3611877764/'
+  - image: 'https://ucarecdn.com/a7b2ac93-167e-4eb0-a909-9929da903935/'
+  - image: 'https://ucarecdn.com/92980979-20e4-4d16-946a-7267267aba42/'
+  - image: 'https://ucarecdn.com/b9c339fc-3194-4e59-beb0-999f3f6bfbc8/'
+  - image: 'https://ucarecdn.com/edbc3f8a-a5ba-4742-9112-433b0718314c/'
+  - image: 'https://ucarecdn.com/18a4834b-fdf0-4f61-ba4a-b10549ed9b45/'
   - image: >-
-      https://ucarecdn.com/4d08d781-91bc-45cc-a2af-bf1c02543f38/-/preview/-/rotate/90/
-  - image: >-
-      https://ucarecdn.com/1967175b-c196-4204-8160-acabe5ee5278/-/crop/1824x881/231,485/-/preview/-/rotate/90/
-  - image: >-
-      https://ucarecdn.com/d59186f9-6a6b-459b-9fb2-13a7c9dfd47d/-/crop/1883x1419/0,150/-/preview/-/rotate/90/
-  - image: >-
-      https://ucarecdn.com/72b42ecd-de3b-4c56-933b-0bd17cc99ef6/-/crop/1971x934/0,432/-/preview/-/rotate/90/
+      https://ucarecdn.com/4d08d781-91bc-45cc-a2af-bf1c02543f38/-/crop/1452x1350/612,180/-/preview/-/rotate/90/
 ---
 
