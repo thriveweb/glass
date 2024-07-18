@@ -2,7 +2,7 @@
 template: ModelPage
 title: Kumbi
 featuredImage: >-
-  https://ucarecdn.com/0d18e593-16df-454d-96b0-c23afc3175a2/-/crop/1428x901/0,15/-/preview/
+  https://ucarecdn.com/0d18e593-16df-454d-96b0-c23afc3175a2/-/crop/1428x825/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/052aa13e-c13f-49bd-bf3a-4acd82979755/-/crop/607x799/821,109/-/preview/
 firstName: Kumbi
