@@ -4,7 +4,7 @@ title: Serafina
 featuredImage: >-
   https://ucarecdn.com/b580bb73-40f6-4b71-a3a1-627142512b01/-/crop/2448x1260/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/74b863af-7c0a-4754-b287-4b8c982b61f3/-/crop/683x1051/839,421/-/preview/
+  https://ucarecdn.com/0daffd9e-62ea-49c2-b7ce-e3a580adec33/-/crop/310x387/107,15/-/preview/
 firstName: Serafina
 collection: Girls
 height: 140cm
