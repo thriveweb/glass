@@ -3,7 +3,7 @@ template: ModelPage
 title: Anika
 featuredImage: 'https://ucarecdn.com/03f29937-c76a-4b48-87b7-5434c5925fd6/'
 imageThumbnail: >-
-  https://ucarecdn.com/a1fe83dd-fb01-467e-a29e-2454608b7edd/-/crop/710x887/561,129/-/preview/
+  https://ucarecdn.com/90055fdf-324c-4e5b-be4b-e1e749f42e79/-/crop/1302x1722/189,35/-/preview/
 firstName: Anika
 collection: Girls
 height: 87cm
@@ -14,6 +14,7 @@ hips: 49cm
 size: 2-3
 shoeSize: 6/7
 imagePortfolio:
+  - image: 'https://ucarecdn.com/2927bb17-f565-49a3-9355-0c5960c18c08/'
   - image: >-
       https://ucarecdn.com/1ccdd4f4-fffe-45b5-82f4-213263176968/-/crop/1104x1352/396,76/-/preview/
   - image: 'https://ucarecdn.com/a415fd81-582d-42a8-8a6e-c04d35367fd4/'
