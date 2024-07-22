@@ -2,7 +2,7 @@
 template: ModelPage
 title: Akito
 featuredImage: >-
-  https://ucarecdn.com/dc0d0bc6-4ee2-40da-991a-4971b324f873/-/crop/952x570/0,0/-/preview/
+  https://ucarecdn.com/dc0d0bc6-4ee2-40da-991a-4971b324f873/-/crop/952x484/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/ff0eb037-8b83-46e7-972d-e36c80f0d757/-/crop/1009x1225/326,143/-/preview/
 firstName: Akito
