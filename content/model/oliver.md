@@ -2,7 +2,7 @@
 template: ModelPage
 title: Oliver
 featuredImage: >-
-  https://ucarecdn.com/7d009965-67f9-403c-bb24-eea689592b95/-/crop/693x384/0,83/-/preview/
+  https://ucarecdn.com/3ce2f275-6021-4a53-9ac5-c38baa5c4041/-/crop/2459x1231/0,191/-/preview/
 featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: >-
