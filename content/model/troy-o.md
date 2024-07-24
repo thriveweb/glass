@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Troy O
+title: C Troy O
 featuredImage: >-
   https://ucarecdn.com/2cada940-2cf9-4bf2-b51c-9889358d00c1/-/crop/1650x881/0,128/-/preview/
 imageThumbnail: 'https://ucarecdn.com/1f8314a1-a2f9-4e16-bcfc-be7bedc37dd3/'
