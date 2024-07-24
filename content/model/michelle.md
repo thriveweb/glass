@@ -8,7 +8,7 @@ featuredVideoMobile: 'https://ucarecdn.com/382ff7a9-4813-4c71-bb81-6ae9dcedd2ea/
 imageThumbnail: >-
   https://ucarecdn.com/e06ad242-1727-4a1d-b60f-76acaf49d374/-/crop/2839x4060/766,0/-/preview/
 firstName: Michelle
-collection: Classic
+collection: Mature
 height: 168cm
 measurementType: bust
 bust: 88cm
