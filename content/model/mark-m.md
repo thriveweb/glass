@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/f9e10606-40f9-4af7-97ea-bd903942f408/-/crop/709x408/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/8ee5c6ce-a51a-4f61-abed-eaf6d944eae0/'
 firstName: Mark M
-collection: Classic
+collection: Mature
 height: 189cm
 measurementType: chest
 bust: 104cm
