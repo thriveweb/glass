@@ -4,7 +4,7 @@ title: Marissa
 featuredImage: 'https://ucarecdn.com/482a6cb9-b155-4c64-a60f-80d806d3e39c/'
 imageThumbnail: 'https://ucarecdn.com/93c48abc-281c-44c2-ac1a-124e6c91d07d/'
 firstName: Marissa
-collection: Classic
+collection: Mature
 height: 171cm
 measurementType: bust
 bust: 85cm
