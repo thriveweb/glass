@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Andy
+title: O Andy
 featuredImage: >-
   https://ucarecdn.com/4ab2ec78-f3b9-4373-8a5f-f79736f7fee3/-/crop/2449x1479/0,0/-/preview/
 featuredVideo: 'https://ucarecdn.com/617dffd0-86d5-4b0a-bf84-dd432fa6d6bb/'
