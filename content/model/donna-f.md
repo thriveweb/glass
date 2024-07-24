@@ -4,7 +4,7 @@ title: Donna F
 featuredImage: 'https://ucarecdn.com/38ebe4b9-1e36-4ce7-9037-23a72fe379a9/'
 imageThumbnail: 'https://ucarecdn.com/67657e58-177e-42b9-9029-9148e8542d8a/'
 firstName: Donna F
-collection: Classic
+collection: Mature
 height: 165cm
 measurementType: bust
 bust: 94cm
