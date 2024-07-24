@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/ddfc3665-3404-4fc9-b9ef-0db081453b9a/'
 imageThumbnail: >-
   https://ucarecdn.com/6816f035-9a9d-4989-9362-7d234dd2d309/-/crop/373x489/153,8/-/preview/
 firstName: Sandy
-collection: Classic
+collection: ''
 height: 163cm
 measurementType: bust
 bust: 80cm
