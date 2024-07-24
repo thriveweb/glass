@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Thembani
+title: C Thembani
 featuredImage: >-
   https://ucarecdn.com/f03bab53-8b8f-4cdf-8ed9-c9d3bb250825/-/crop/2449x973/0,0/-/preview/
 imageThumbnail: >-
