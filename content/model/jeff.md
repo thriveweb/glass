@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/6767d872-7998-48eb-a34e-6cc1bd06f222/-/crop/711x976/22,0/-/preview/
 firstName: Jeff
-collection: Classic
+collection: Mature
 height: 177cm
 measurementType: chest
 bust: 104cm
