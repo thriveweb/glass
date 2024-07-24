@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Jasmine
+title: A Jasmine
 featuredImage: >-
   https://ucarecdn.com/e945a817-3dd1-4303-9f94-497f7283ae18/-/crop/1632x996/0,0/-/preview/
 imageThumbnail: >-
