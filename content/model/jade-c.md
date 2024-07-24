@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: A Jade J
+title: AB Jade J
 featuredImage: 'https://ucarecdn.com/955b310a-50eb-4d22-b73b-66e16c7b743e/'
 imageThumbnail: 'https://ucarecdn.com/47f5813f-fb12-4b0f-8940-8cec652b2605/'
 firstName: Jade J
