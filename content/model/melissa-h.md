@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/a8ff875c-b573-4cb6-a9df-8dccbe5eb264/-/crop/1514x2449/0,0/-/preview/
 firstName: Melissa
-collection: Classic
+collection: Mature
 height: 5'6
 measurementType: bust
 bust: 109cm
