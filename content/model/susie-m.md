@@ -1,8 +1,10 @@
 ---
 template: ModelPage
 title: Susie M
-featuredImage: 'https://ucarecdn.com/85ea703a-2b64-4594-a9ab-98ac68e3a2b2/'
-imageThumbnail: 'https://ucarecdn.com/3ca070e9-f4d2-42da-9264-3d9b598edbbf/-/preview/'
+featuredImage: >-
+  https://ucarecdn.com/4f7a9516-ea43-4334-84b8-e351c41aae3e/-/crop/600x260/0,106/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/c02529ad-f524-4234-ab01-ab3230ab19cd/-/crop/1182x1646/268,0/-/preview/
 firstName: Susie
 collection: Classic
 height: 167cm
@@ -15,20 +17,17 @@ shoeSize: '6'
 hair: Strawberry Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/cf67d8d8-faee-4947-89a2-a5740e071425/'
-  - image: 'https://ucarecdn.com/09255f59-d657-4624-ae70-7b2a3b43fdcc/'
-  - image: 'https://ucarecdn.com/35ffb2d4-eddb-4703-b7aa-fd082a33446e/'
-  - image: 'https://ucarecdn.com/7cff60c0-fc25-4471-99af-8ebd4090ecb6/'
-  - image: 'https://ucarecdn.com/27f23829-dd6d-4569-9f23-81c724095afc/'
-  - image: 'https://ucarecdn.com/86285ab4-540a-41f6-be47-18ba676788f0/'
+  - image: 'https://ucarecdn.com/7f7ec572-9442-408c-a972-cc6074f95606/'
   - image: >-
-      https://ucarecdn.com/d4637cef-19c9-45c9-a720-d1082e8c9868/-/crop/1632x1528/0,0/-/preview/
-  - image: 'https://ucarecdn.com/53245074-9449-48ae-906c-f97668d2b266/'
+      https://ucarecdn.com/28ec1f6e-4192-4e1d-b5ee-5f0bb472cf97/-/crop/1633x2287/0,162/-/preview/
   - image: 'https://ucarecdn.com/f0cfae71-9311-4bdb-bffa-beffb51c05a6/'
-  - image: 'https://ucarecdn.com/2d0167fb-ee74-4076-9449-7f2eba867c7d/'
+  - image: >-
+      https://ucarecdn.com/8006875f-2e11-4ddf-8c6d-d09dfb9db71b/-/crop/1632x2359/0,90/-/preview/
+  - image: 'https://ucarecdn.com/53245074-9449-48ae-906c-f97668d2b266/'
+  - image: 'https://ucarecdn.com/b91b2d92-423a-4434-9396-c5838a190fae/'
   - image: 'https://ucarecdn.com/ec26f4ca-89c8-4e69-ab72-6b5400d83846/'
-  - image: 'https://ucarecdn.com/1a3b71a9-37af-4168-bf3e-8d20d301cbbc/'
-  - image: 'https://ucarecdn.com/223c6da5-6724-46e4-853e-b96dbb81f9a7/'
+  - image: >-
+      https://ucarecdn.com/46b32587-fb17-49ac-a8af-f328983eadd0/-/crop/1632x2353/0,96/-/preview/
   - image: 'https://ucarecdn.com/831231f2-63e3-4625-bc69-2c037bf5e5cf/'
 meta:
   title: Susie M
