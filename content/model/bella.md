@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/a1b000fe-3ca8-4376-8366-f35e23b6797e/'
 imageThumbnail: >-
   https://ucarecdn.com/48356369-7270-4eff-8692-db2860f8e9b3/-/crop/1046x1513/296,0/-/preview/
 firstName: Bella
-collection: Classic
+collection: ''
 height: 173cm
 measurementType: bust
 bust: 90cm
