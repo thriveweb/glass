@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/50816a1e-a8c5-49ca-873c-66fd563afe3d/-/crop/733x443/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/52c50350-a685-44bd-83b1-56d3e0083937/'
 firstName: Sandi
-collection: Classic
+collection: Mature
 height: 170cm
 measurementType: bust
 bust: '36'
