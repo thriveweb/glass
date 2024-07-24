@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/5167c705-5ba8-484f-aeb3-ae71a6ca393a/-/crop/1518x2379/112,0/-/preview/
 firstName: Janine
-collection: Classic
+collection: Mature
 height: 170cm
 measurementType: bust
 bust: 94cm
