@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/2ce0f0aa-8c05-47d1-a052-d20f0cefbdae/-/crop/407x547/597,445/-/preview/
 firstName: Sarah
-collection: Classic
+collection: ''
 height: 166cm
 measurementType: bust
 bust: 82.5cm
