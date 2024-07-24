@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/d9ba7465-5e09-4624-9879-042652481ef1/-/crop/435x639/334,57/-/preview/
 firstName: Sabine
-collection: Classic
+collection: ''
 height: 176cm
 measurementType: bust
 bust: 103cm
