@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: A Dean
+title: AA Dean
 featuredImage: >-
   https://ucarecdn.com/bf5ce196-a8fd-4dc5-9010-fdc8053035d0/-/crop/2048x996/0,77/-/preview/
 imageThumbnail: 'https://ucarecdn.com/96113791-e047-474b-a2b8-d189820c3213/'
