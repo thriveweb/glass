@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Ysabella
+title: A Ysabella
 featuredImage: >-
   https://ucarecdn.com/ddcc3f48-b3c2-4ca4-aaee-84b6addc8072/-/crop/533x495/0,139/-/preview/
 imageThumbnail: >-
