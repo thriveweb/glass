@@ -2,7 +2,7 @@
 template: ModelPage
 title: Em Teneal
 featuredImage: >-
-  https://ucarecdn.com/f4bbbf7c-32b3-42b5-9f64-eb4b972af5c5/-/crop/1170x886/0,197/-/preview/
+  https://ucarecdn.com/f4bbbf7c-32b3-42b5-9f64-eb4b972af5c5/-/crop/1170x979/0,141/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/efcd51fa-3e6c-4296-a7d5-0e48200cc65a/-/crop/453x640/300,295/-/preview/
 firstName: Teneal
