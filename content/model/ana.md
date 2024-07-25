@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Ana
+title: Y Ana
 featuredImage: >-
   https://ucarecdn.com/0930300b-400a-42d5-8d05-9df3e85a3643/-/crop/1741x861/307,349/-/preview/
 imageThumbnail: >-
