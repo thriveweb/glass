@@ -4,7 +4,7 @@ title: Siobhan
 featuredImage: >-
   https://ucarecdn.com/43b35b92-17e1-49d5-b87f-7582235c9c6f/-/crop/1086x690/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/f96c908e-f502-4b39-8f0c-7b0b45f6c143/-/crop/687x824/318,0/-/preview/
+  https://ucarecdn.com/f96c908e-f502-4b39-8f0c-7b0b45f6c143/-/crop/768x909/285,0/-/preview/
 firstName: Siobhan
 collection: Classic
 height: 173cm
