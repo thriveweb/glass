@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Teneal
+title: C Teneal
 featuredImage: >-
   https://ucarecdn.com/8b30ab67-9311-4472-97d9-354812dec19e/-/crop/944x587/0,381/-/preview/
 imageThumbnail: >-
