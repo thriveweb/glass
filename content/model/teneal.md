@@ -4,7 +4,7 @@ title: E Teneal
 featuredImage: >-
   https://ucarecdn.com/8b30ab67-9311-4472-97d9-354812dec19e/-/crop/944x587/0,381/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/34aff57f-97d3-41d0-9c85-03cf1416c6b2/-/crop/1025x1467/108,178/-/preview/
+  https://ucarecdn.com/34aff57f-97d3-41d0-9c85-03cf1416c6b2/-/crop/946x1362/183,223/-/preview/
 firstName: Teneal
 collection: Women
 height: 166cm
