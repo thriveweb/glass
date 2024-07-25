@@ -4,7 +4,7 @@ title: Hakeem
 featuredImage: >-
   https://ucarecdn.com/89d6d4d9-e687-4395-9925-2b52cfd79dd3/-/crop/1650x827/0,78/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/45c3563d-8055-4da9-9e89-3c80a45ed300/-/crop/600x834/16,28/-/preview/
+  https://ucarecdn.com/bd4fe844-2c90-4760-b0da-2dbb4ad46499/-/crop/462x594/0,0/-/preview/
 firstName: Hakeem
 collection: Boys
 height: 185cm
@@ -18,10 +18,7 @@ hair: Black
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/5c23fcf6-66a1-43e6-b2e7-d13a0fea3921/'
-  - image: 'https://ucarecdn.com/834cf749-1e55-4666-a878-3c2d34807004/'
   - image: 'https://ucarecdn.com/d9536501-a387-4b3b-8519-f0fac46c35f6/'
-  - image: >-
-      https://ucarecdn.com/b26675b3-9625-478a-bf53-6af3842ec951/-/crop/624x1068/0,24/-/preview/
   - image: 'https://ucarecdn.com/f4df6cf3-d938-4ab3-8480-a9e6b5c6a5b1/'
   - image: >-
       https://ucarecdn.com/e4503a16-7f99-40bf-a4ec-6f7c01bd4c65/-/crop/733x1003/0,97/-/preview/
