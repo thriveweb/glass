@@ -17,7 +17,6 @@ shoeSize: US 8.5
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/644a9657-53ba-4ead-a12e-4108be32a3b6/'
   - image: 'https://ucarecdn.com/6299c320-103e-4005-ac21-e3f93e4e8623/'
   - image: 'https://ucarecdn.com/737959fa-5afc-4789-81ad-1d62b27a5f31/'
   - image: 'https://ucarecdn.com/fc16fcf6-aee9-4955-9eb1-c1810a53c2ef/'
@@ -29,8 +28,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c3be8cad-772f-4a76-81fb-4722a68a47ab/'
   - image: 'https://ucarecdn.com/24590073-cd35-41f3-a50c-c7aed25a8bfb/'
   - image: 'https://ucarecdn.com/b83bfd53-604d-4daf-a077-d925d5bce171/'
-  - image: >-
-      https://ucarecdn.com/74c700c7-76d4-43f7-8468-21933594c55c/-/crop/733x839/0,261/-/preview/
   - image: 'https://ucarecdn.com/ab20c1b8-5d27-4921-af91-eb444bbe13d7/'
   - image: 'https://ucarecdn.com/0f63427e-92c1-47e0-bbd4-ff8307ea8d86/'
 ---
