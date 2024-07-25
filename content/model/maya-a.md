@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'Maya '
+title: 'C Maya '
 featuredImage: 'https://ucarecdn.com/8636022f-0d01-4715-82be-8be9f3c33042/'
 featuredVideo: ''
 featuredVideoMobile: ''
