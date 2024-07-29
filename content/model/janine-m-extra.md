@@ -3,7 +3,7 @@ template: ModelPage
 title: Janice M EXTRA
 featuredImage: 'https://ucarecdn.com/e585e6f8-3331-451a-b918-4bd6aacb9cdb/'
 imageThumbnail: >-
-  https://ucarecdn.com/e70899c8-e016-44ac-a629-0162d97b7b7f/-/crop/573x852/44,63/-/preview/
+  https://ucarecdn.com/408e0edb-a940-4f61-92fc-32676c4facdc/-/crop/645x1007/180,177/-/preview/
 firstName: Janice M EXTRA
 collection: Extras
 height: 170cm
@@ -17,6 +17,6 @@ hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: >-
-      https://ucarecdn.com/65d15248-d618-4f6e-aca9-b0eb4d3e3233/-/crop/559x847/44,61/-/preview/
+      https://ucarecdn.com/9ce356ec-3d85-45f2-ac7d-ecd14ef43b57/-/crop/609x1019/222,228/-/preview/
 ---
 
