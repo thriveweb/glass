@@ -9,9 +9,9 @@ firstName: Lucy
 collection: Women
 height: 167cm
 measurementType: bust
-bust: 85cm
-waist: 62cm
-hips: 93cm
+bust: 82cm
+waist: 61cm
+hips: 90cm
 size: '8'
 shoeSize: '7'
 hair: Brown
