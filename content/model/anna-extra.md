@@ -4,7 +4,7 @@ title: Anna EXTRA
 featuredImage: 'https://ucarecdn.com/0d4954e9-f5c3-484b-88b2-e7b229411474/'
 imageThumbnail: 'https://ucarecdn.com/e5b1b565-30ec-40df-8ba8-2ad51481649b/'
 firstName: Anna EXTRA
-collection: Extras
+collection: ''
 height: 5'6
 measurementType: bust
 bust: 86cm
