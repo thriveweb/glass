@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/ff4e90b3-efc5-43d1-aa33-49fc84e32a35/'
 imageThumbnail: >-
   https://ucarecdn.com/57c9b022-5184-4f80-9fea-1d78477eb7b1/-/crop/1669x2494/1108,624/-/preview/
 firstName: Kanv
-collection: Classic
+collection: ''
 height: 178cm
 measurementType: chest
 bust: 86cm
