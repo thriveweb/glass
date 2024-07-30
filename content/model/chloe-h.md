@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/898b67e3-b118-4c59-acd1-fcddce36012e/-/crop/3467x5155/480,196/-/preview/
 firstName: Chloe H
 collection: Girls
-height: 139cm
+height: 141cm
 measurementType: bust
-bust: 61cm
-waist: 51cm
-hips: 66cm
+bust: 62cm
+waist: 59cm
+hips: 67cm
 size: '8'
 shoeSize: '3'
 hair: Blonde
