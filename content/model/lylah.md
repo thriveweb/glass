@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: 'Lylah '
-featuredImage: 'https://ucarecdn.com/cbaf2d5a-a15d-43f9-b752-40ead6d63c9a/'
+featuredImage: >-
+  https://ucarecdn.com/6a9c82b3-aad2-4589-8c67-ac264b3fb730/-/crop/462x394/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/da72c55d-1b81-44ef-b391-9e8a40379ad2/'
 firstName: Lylah
 collection: Girls
