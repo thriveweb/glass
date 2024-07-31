@@ -7,6 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/f32e7b0d-c881-4b9d-aa0d-0710eb93730c/-/crop/657x890/76,0/-/preview/
 firstName: Carter
 collection: Emerging
+height: 195cm
+measurementType: chest
+bust: 96cm
+waist: 86cm
+hips: 111cm
+size: L
+shoeSize: '14'
 imagePortfolio:
   - image: 'https://ucarecdn.com/a5083698-de1e-4e62-ae37-adec4b37b65f/'
   - image: 'https://ucarecdn.com/1c140c0a-73c1-463f-8f1a-df6cc29cb592/'
