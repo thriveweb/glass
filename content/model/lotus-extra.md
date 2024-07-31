@@ -4,7 +4,7 @@ title: Lotus EXTRA
 featuredImage: 'https://ucarecdn.com/3bb4e1ed-8dfc-4e3e-b8ea-cf3695d1770d/'
 imageThumbnail: 'https://ucarecdn.com/9e9e75a0-ae64-43e1-b700-5b30047cb0b9/'
 firstName: Lotus EXTRA
-collection: Extras
+collection: ''
 height: 5'
 measurementType: bust
 bust: 30'
