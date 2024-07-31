@@ -16,23 +16,24 @@ shoeSize: '9'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/ed0e338f-c4a0-4574-bf73-08e251cb5708/'
+  - image: >-
+      https://ucarecdn.com/ed0e338f-c4a0-4574-bf73-08e251cb5708/-/crop/856x1109/27,131/-/preview/
+  - image: 'https://ucarecdn.com/f2c733f1-ba24-4768-b80e-d017efa3ff75/-/preview/'
   - image: 'https://ucarecdn.com/963e17ea-f3e0-4dd0-99e1-44817dcdad78/'
   - image: 'https://ucarecdn.com/b8d3922c-ad20-4a7a-8761-273154368f8d/'
-  - image: 'https://ucarecdn.com/bc9a635a-219e-464f-b67b-6940c29c85c6/'
-  - image: 'https://ucarecdn.com/111e437f-f838-411b-b75d-fbbf3aaa4f80/'
-  - image: 'https://ucarecdn.com/6a4d9e20-1d37-4582-8df0-f25bb8aa6c28/'
+  - image: 'https://ucarecdn.com/23244a87-fe05-4d47-9d1e-a0d6e351298f/'
+  - image: >-
+      https://ucarecdn.com/111e437f-f838-411b-b75d-fbbf3aaa4f80/-/crop/804x1002/0,208/-/preview/
+  - image: >-
+      https://ucarecdn.com/9ef73810-49d0-419c-af55-c23e43a46bd9/-/crop/741x998/144,118/-/preview/
   - image: 'https://ucarecdn.com/a7627d07-42b8-4a00-a5de-9e25bcf3b662/'
-  - image: 'https://ucarecdn.com/9ef73810-49d0-419c-af55-c23e43a46bd9/'
-  - image: 'https://ucarecdn.com/e3939082-84ef-42c1-aa23-f45410de9f88/'
-  - image: 'https://ucarecdn.com/27ccbf7a-c969-4098-a6b3-9d2903702d66/'
-  - image: 'https://ucarecdn.com/8abbf9d2-f7a8-4615-a3c7-a2814f0e1fd2/'
-  - image: 'https://ucarecdn.com/a8354845-2e6d-4180-a154-084ab496fec8/'
-  - image: 'https://ucarecdn.com/848912fe-1a59-4bd4-8eac-683bcff70435/'
+  - image: >-
+      https://ucarecdn.com/8abbf9d2-f7a8-4615-a3c7-a2814f0e1fd2/-/crop/942x1188/0,222/-/preview/
+  - image: >-
+      https://ucarecdn.com/2819b0e0-1b08-4582-866a-e68764e2983a/-/crop/806x1077/0,147/-/preview/
+  - image: 'https://ucarecdn.com/8ee7cd08-2317-4ede-9566-f05374c4fea5/'
   - image: 'https://ucarecdn.com/115ad7a1-1d0b-4285-bb12-fcb5aa333225/'
-  - image: 'https://ucarecdn.com/55a47abb-54f0-46dd-8409-04b1b1595063/'
-  - image: 'https://ucarecdn.com/2819b0e0-1b08-4582-866a-e68764e2983a/'
-  - image: 'https://ucarecdn.com/41bedaf6-194b-4074-ba7b-5fb7a5da0e69/'
   - image: 'https://ucarecdn.com/0be74441-83ff-4796-a945-e4987630355e/'
+  - image: 'https://ucarecdn.com/b7c449c2-873e-45c9-932c-1a7d0756e79b/'
 ---
 
