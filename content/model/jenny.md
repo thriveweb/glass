@@ -7,6 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/4e4902fa-a7e4-4a56-b9c8-cc904aa5dc33/-/crop/1082x1528/305,87/-/preview/
 firstName: Jenny
 collection: Mature
+height: 162cm
+measurementType: bust
+bust: 86cm
+waist: 77cm
+hips: 97cm
+size: 8-10
+shoeSize: 71/2
 hair: Blonde
 eyes: Brown
 imagePortfolio:
