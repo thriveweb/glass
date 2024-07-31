@@ -9,14 +9,13 @@ firstName: Mclean Family
 collection: Family
 imagePortfolio:
   - image: >-
-      https://ucarecdn.com/e08e96a6-645b-402e-8f45-a64963cea506/-/crop/764x642/100,0/-/preview/
+      https://ucarecdn.com/e08e96a6-645b-402e-8f45-a64963cea506/-/crop/441x498/250,144/-/preview/
   - image: >-
       https://ucarecdn.com/d9f632ec-1203-427f-8f9f-152896974eed/-/crop/491x676/76,235/-/preview/
   - image: >-
       https://ucarecdn.com/390296d8-5883-419d-8dd7-060acc073891/-/crop/563x677/40,232/-/preview/
   - image: >-
       https://ucarecdn.com/39d15129-47bb-4789-9324-0ae3ec97a9cd/-/crop/569x674/49,253/-/preview/
-  - image: 'https://ucarecdn.com/ba17502b-3f30-4891-b3f8-e5df392f4871/'
   - image: 'https://ucarecdn.com/f4a47d09-8d97-4ced-ae5c-249de04b6987/'
   - image: >-
       https://ucarecdn.com/6ffed61b-c5be-474b-976a-4d875a92513c/-/crop/800x524/102,118/-/preview/
