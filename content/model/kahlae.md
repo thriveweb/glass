@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/5f033acc-41d1-4cbd-91dd-1059dfecaff8/-/crop/1629x2156/80,37/-/preview/
 firstName: Kahlae
-collection: Girls
+collection: ''
 height: 162cm
 measurementType: bust
 bust: 68cm
