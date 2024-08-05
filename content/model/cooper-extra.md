@@ -4,7 +4,7 @@ title: Cooper EXTRA
 featuredImage: 'https://ucarecdn.com/d9fe37f8-fff7-489c-9c99-95bf30b859e3/'
 imageThumbnail: 'https://ucarecdn.com/2eb514ec-e766-4481-a8e8-e427a43ed47c/'
 firstName: Cooper EXTRA
-collection: Extras
+collection: ''
 height: 170cm
 measurementType: chest
 bust: 80cm
