@@ -4,7 +4,7 @@ title: Koen EXTRA
 featuredImage: 'https://ucarecdn.com/e6346fa9-4efe-4f9b-b8da-c6b47fcd8972/'
 imageThumbnail: 'https://ucarecdn.com/72335e7f-8b9f-4a7a-a45a-02aa2582474a/'
 firstName: Koen EXTRA
-collection: Extras
+collection: ''
 height: 180cm
 measurementType: chest
 bust: 88cm
