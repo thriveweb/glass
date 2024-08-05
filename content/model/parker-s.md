@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/fecd13e8-4cc1-4d2c-ad7a-5ba49b7c858e/'
 imageThumbnail: >-
   https://ucarecdn.com/41c48766-0262-4507-a8dd-abdeb6321f8f/-/crop/711x1001/156,0/-/preview/
 firstName: Parker S
-collection: Boys
+collection: ''
 height: 113cm
 measurementType: chest
 bust: 61cm
