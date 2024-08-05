@@ -12,7 +12,7 @@ measurementType: bust
 bust: 68cm
 waist: 56cm
 hips: 76cm
-size: '10'
+size: '12'
 shoeSize: '6'
 hair: Blonde
 eyes: Blue
