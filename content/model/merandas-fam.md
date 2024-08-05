@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/69c7f5a6-c157-41f6-8c70-cc12c5384e4a/-/crop/2419x1214/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/c31e9bf1-7767-411d-a568-5a8b421b727f/'
 firstName: Meranda's Fam
-collection: Family
+collection: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/681e54ee-c8f8-4ffa-abeb-a91651d28ba5/'
   - image: 'https://ucarecdn.com/5574a1d2-d225-4c95-b4c0-7e8b595d214f/'
