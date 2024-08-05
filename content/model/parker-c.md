@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/2fa934f2-f6c6-4888-a5f6-f013d138d902/'
 imageThumbnail: >-
   https://ucarecdn.com/d4cd603b-9fdd-4313-9e43-592736d740c8/-/crop/1195x1575/352,0/-/preview/
 firstName: 'Parker '
-collection: Boys
+collection: ''
 height: 110cm
 measurementType: chest
 bust: 58cm
