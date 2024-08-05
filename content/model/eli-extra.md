@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/096c0acf-4a15-4e39-b2f1-1729f98dda06/'
 imageThumbnail: >-
   https://ucarecdn.com/dbc5b88a-259f-4638-9b65-ea25e5d7d1c1/-/crop/930x1364/28,64/-/preview/
 firstName: Eli EXTRA
-collection: Extras
+collection: ''
 height: 157cm
 measurementType: chest
 bust: 35'
