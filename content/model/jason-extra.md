@@ -3,7 +3,7 @@ template: ModelPage
 title: Jason EXTRA
 featuredImage: 'https://ucarecdn.com/aec964aa-cae3-4b2a-bc88-dc9df2705ab4/'
 imageThumbnail: >-
-  https://ucarecdn.com/6c5840fa-c737-499a-b6ec-02d54df7580e/-/crop/1268x2061/145,0/-/preview/
+  https://ucarecdn.com/6c5840fa-c737-499a-b6ec-02d54df7580e/-/crop/1265x1646/146,34/-/preview/
 firstName: Jason EXTRA
 collection: Extras
 height: 167cm
