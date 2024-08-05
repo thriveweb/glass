@@ -4,7 +4,7 @@ title: Adam EXTRA
 featuredImage: 'https://ucarecdn.com/bb672c65-d1ea-4962-b704-4d2ddda9c9a2/'
 imageThumbnail: 'https://ucarecdn.com/07b41906-8202-4d04-bcb2-d2882b832800/'
 firstName: Adam EXTRA
-collection: Extras
+collection: ''
 height: 185cm
 measurementType: chest
 bust: 91cm
