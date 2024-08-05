@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: C Allanah EXTRA
+title: Allanah EXTRA
 featuredImage: 'https://ucarecdn.com/e6ab8428-7638-4e33-becb-d4a83308d3d8/'
 imageThumbnail: >-
   https://ucarecdn.com/eb2d6448-0c73-4741-9ca6-41293c85d59a/-/crop/901x1232/0,99/-/preview/
