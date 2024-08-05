@@ -4,7 +4,7 @@ title: Dannielle EXTRA
 featuredImage: 'https://ucarecdn.com/1ae69a5a-44e5-43b3-b1d7-d17589f17a52/'
 imageThumbnail: 'https://ucarecdn.com/07554210-99af-4b74-82b8-d5c52b07ab6e/'
 firstName: Dannielle EXTRA
-collection: Extras
+collection: ''
 height: 134cm
 measurementType: bust
 bust: 67cm
