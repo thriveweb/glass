@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f71a9e16-0581-40f8-92fd-9e5342af4043/-/crop/1110x1689/272,56/-/preview/
 firstName: Lochie
-collection: Boys
+collection: ''
 height: 160cm
 measurementType: chest
 bust: 76cm
