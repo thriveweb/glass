@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/a7934e14-0a4d-4107-b7f2-811fe5d9303f/-/crop/2616x3332/1195,34/-/preview/
 firstName: Izaac S
-collection: Boys
+collection: ''
 height: 146cm
 measurementType: chest
 bust: 66cm
