@@ -4,8 +4,8 @@ title: Dikeni Siblings
 featuredImage: >-
   https://ucarecdn.com/7a15d3dd-3585-42fd-a969-6ad39cfc30c7/-/crop/733x508/0,13/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/86ade658-870d-49ed-b3f9-d4a1e113122e/-/crop/713x513/240,0/-/preview/
-firstName: Dikeni Fam
+  https://ucarecdn.com/86ade658-870d-49ed-b3f9-d4a1e113122e/-/crop/567x503/312,0/-/preview/
+firstName: Dikeni Family
 collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/300aebb4-0dd0-45c7-864c-457391a0124c/'
