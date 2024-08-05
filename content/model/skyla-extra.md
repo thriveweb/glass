@@ -4,7 +4,7 @@ title: Skyla EXTRA
 featuredImage: 'https://ucarecdn.com/962cfbf4-bf1d-4205-9593-1a4e3d2c8845/'
 imageThumbnail: 'https://ucarecdn.com/4f7aacd7-a2dd-48fa-841a-a3b5c1a47b0e/'
 firstName: Skyla EXTRA
-collection: Extras
+collection: ''
 height: 4'9
 measurementType: bust
 bust: 73cm
