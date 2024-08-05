@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c48683d8-2849-41de-9dd0-2c56c8aaa08a/-/crop/1284x1689/233,0/-/preview/
 firstName: Jordan S
-collection: Boys
+collection: ''
 height: 100cm
 measurementType: chest
 bust: 56cm
