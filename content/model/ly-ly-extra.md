@@ -4,7 +4,7 @@ title: Ly-Ly EXTRA
 featuredImage: 'https://ucarecdn.com/529a48ca-55f6-45bd-b30f-3c4d51abca5b/'
 imageThumbnail: 'https://ucarecdn.com/d38d4328-90b2-46d2-9068-6e494a67d6cb/'
 firstName: Ly-Ly EXTRA
-collection: Extras
+collection: ''
 height: 125cm
 measurementType: bust
 bust: 60cm
