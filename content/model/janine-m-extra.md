@@ -3,7 +3,7 @@ template: ModelPage
 title: Janice M EXTRA
 featuredImage: 'https://ucarecdn.com/e585e6f8-3331-451a-b918-4bd6aacb9cdb/'
 imageThumbnail: >-
-  https://ucarecdn.com/408e0edb-a940-4f61-92fc-32676c4facdc/-/crop/645x1007/180,177/-/preview/
+  https://ucarecdn.com/408e0edb-a940-4f61-92fc-32676c4facdc/-/crop/604x898/218,263/-/preview/
 firstName: Janice M EXTRA
 collection: Extras
 height: 170cm
