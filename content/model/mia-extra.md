@@ -4,7 +4,7 @@ title: Mia EXTRA
 featuredImage: 'https://ucarecdn.com/265bccf6-fb1e-448c-883f-1cb08cf8042f/'
 imageThumbnail: 'https://ucarecdn.com/ade0c738-8642-4db6-8f30-a9a8bb7d4275/'
 firstName: Mia EXTRA
-collection: Extras
+collection: ''
 height: 4'3
 measurementType: bust
 bust: 22'
