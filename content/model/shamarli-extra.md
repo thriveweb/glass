@@ -2,7 +2,8 @@
 template: ModelPage
 title: Shamarli EXTRA
 featuredImage: 'https://ucarecdn.com/392aba39-85a6-4ae4-ab45-91b5e511ad50/'
-imageThumbnail: 'https://ucarecdn.com/51c475cf-beae-47db-9513-6dfccd7c5470/'
+imageThumbnail: >-
+  https://ucarecdn.com/51c475cf-beae-47db-9513-6dfccd7c5470/-/crop/583x774/220,109/-/preview/
 firstName: Shamarli EXTRA
 collection: Extras
 height: 170cm
