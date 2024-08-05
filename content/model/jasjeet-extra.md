@@ -4,7 +4,7 @@ title: Jasjeet EXTRA
 featuredImage: 'https://ucarecdn.com/bd038714-a3a0-448c-adbb-79edd1af6729/'
 imageThumbnail: 'https://ucarecdn.com/3c2ee4e5-843a-4df7-b4ed-be06c4efb791/'
 firstName: Jasjeet EXTRA
-collection: Extras
+collection: ''
 height: 175cm
 measurementType: chest
 bust: 111cm
