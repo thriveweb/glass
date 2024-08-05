@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/a62c9781-2719-41c4-9d8b-8653e709890b/'
 imageThumbnail: >-
   https://ucarecdn.com/bd4fe844-2c90-4760-b0da-2dbb4ad46499/-/crop/462x594/0,0/-/preview/
 firstName: Hakeem
-collection: Boys
+collection: Emerging
 height: 185cm
 measurementType: chest
 bust: 87cm
