@@ -2,7 +2,8 @@
 template: ModelPage
 title: Chris EXTRA
 featuredImage: 'https://ucarecdn.com/9c64a6a5-6a0b-4ce8-b32b-e5f72c46e459/'
-imageThumbnail: 'https://ucarecdn.com/46c7f4dc-57c3-4818-94fd-989801f1b332/'
+imageThumbnail: >-
+  https://ucarecdn.com/46c7f4dc-57c3-4818-94fd-989801f1b332/-/crop/936x1217/138,0/-/preview/
 firstName: Chris EXTRA
 collection: Extras
 height: 170cm
