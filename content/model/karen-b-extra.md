@@ -3,7 +3,7 @@ template: ModelPage
 title: Karen B EXTRA
 featuredImage: 'https://ucarecdn.com/5d167d1d-a583-4469-8a0c-f61a94419d0b/'
 imageThumbnail: >-
-  https://ucarecdn.com/1ce27b85-c518-4ce7-bbcd-6e392bd4655b/-/crop/1714x2206/0,0/-/preview/
+  https://ucarecdn.com/1ce27b85-c518-4ce7-bbcd-6e392bd4655b/-/crop/1575x2122/124,144/-/preview/
 firstName: Karen B EXTRA
 collection: Extras
 height: 165cm
