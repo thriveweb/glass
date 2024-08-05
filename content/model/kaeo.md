@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/45e1f251-a590-4e80-9be9-5273883b2e10/'
 imageThumbnail: >-
   https://ucarecdn.com/df4aae84-c9ea-4828-838a-fa610d8a5ece/-/crop/1042x1500/332,267/-/preview/
 firstName: Kaeo
-collection: Boys
+collection: ''
 height: 99cm
 measurementType: chest
 bust: 54cm
