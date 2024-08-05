@@ -4,7 +4,7 @@ title: Millie EXTRA
 featuredImage: 'https://ucarecdn.com/d1020e51-ca02-40a1-ba08-b6fb0e75a1a1/'
 imageThumbnail: 'https://ucarecdn.com/ae4f0d15-4edc-499d-bf9e-8a88b7c7ec46/'
 firstName: Millie EXTRA
-collection: Extras
+collection: ''
 height: 151cm
 measurementType: bust
 bust: 28'
