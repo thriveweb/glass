@@ -4,7 +4,7 @@ title: Lisa H EXTRA
 featuredImage: 'https://ucarecdn.com/cbaa39e9-ed07-45c8-8504-b037bba3cd64/'
 imageThumbnail: 'https://ucarecdn.com/b21afd9d-9dd7-4afa-935a-b21dc60bd14f/'
 firstName: Lisa H EXTRA
-collection: Extras
+collection: ''
 height: 5'7
 measurementType: bust
 bust: 77cm
