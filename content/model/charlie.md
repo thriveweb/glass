@@ -3,9 +3,9 @@ template: ModelPage
 title: Charlie
 featuredImage: 'https://ucarecdn.com/8b154a1e-1157-4a22-9206-4e99612b580c/'
 imageThumbnail: >-
-  https://ucarecdn.com/7ed2a8b1-c438-4c54-b4d7-b7b9d935adef/-/crop/1112x1462/590,21/-/preview/
+  https://ucarecdn.com/74b395b0-a3fd-46bf-b741-c457e1b08f4d/-/crop/244x279/153,0/-/preview/
 firstName: Charlie
-collection: Boys
+collection: Emerging
 height: 151cm
 measurementType: chest
 bust: 73cm
