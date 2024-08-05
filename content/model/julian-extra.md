@@ -2,7 +2,8 @@
 template: ModelPage
 title: Julian EXTRA
 featuredImage: 'https://ucarecdn.com/5e156138-33ed-4562-8e7f-738f0d2b0043/'
-imageThumbnail: 'https://ucarecdn.com/bd8c7bcc-84dd-4ea6-a1ac-54757fbd4345/'
+imageThumbnail: >-
+  https://ucarecdn.com/bd8c7bcc-84dd-4ea6-a1ac-54757fbd4345/-/crop/885x1101/92,176/-/preview/
 firstName: Julian EXTRA
 collection: Extras
 height: 5'5
