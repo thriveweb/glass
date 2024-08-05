@@ -4,7 +4,7 @@ title: Ai-My EXTRA
 featuredImage: 'https://ucarecdn.com/10540071-0cc5-454a-b6f3-0e6584da4803/'
 imageThumbnail: 'https://ucarecdn.com/8da28523-b52a-47ab-bbdd-8aa445c0a637/'
 firstName: Ai-My EXTRA
-collection: Extras
+collection: ''
 height: 146cm
 measurementType: bust
 bust: 67cm
