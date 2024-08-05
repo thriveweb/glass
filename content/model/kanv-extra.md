@@ -2,7 +2,8 @@
 template: ModelPage
 title: Kanv EXTRA
 featuredImage: 'https://ucarecdn.com/64144f31-b049-44a3-9e30-18719e7eac1b/'
-imageThumbnail: 'https://ucarecdn.com/dddad06e-2d5e-47fe-a8e2-753ecf08a7a7/'
+imageThumbnail: >-
+  https://ucarecdn.com/dddad06e-2d5e-47fe-a8e2-753ecf08a7a7/-/crop/449x595/41,94/-/preview/
 firstName: Kanv EXTRA
 collection: Extras
 height: 5'8
