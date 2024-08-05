@@ -4,7 +4,7 @@ title: Kellie EXTRA
 featuredImage: 'https://ucarecdn.com/75f304ba-5ae8-49f9-870f-62d171b9273e/'
 imageThumbnail: 'https://ucarecdn.com/f2b19bd7-8cf1-4844-bc93-18f9b8fd6f50/'
 firstName: Kellie EXTRA
-collection: Extras
+collection: ''
 height: 163cm
 measurementType: bust
 bust: 74cm
