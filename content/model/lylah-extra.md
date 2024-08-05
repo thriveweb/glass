@@ -4,7 +4,7 @@ title: Lylah EXTRA
 featuredImage: 'https://ucarecdn.com/30963cff-79c9-46c4-a34a-a7c706c31869/'
 imageThumbnail: 'https://ucarecdn.com/71e7a4aa-8809-42bf-90dc-91842ed0bd11/'
 firstName: Lylah EXTRA
-collection: Extras
+collection: ''
 height: 142cm
 measurementType: bust
 bust: 74cm
