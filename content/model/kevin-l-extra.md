@@ -2,7 +2,8 @@
 template: ModelPage
 title: Kevin L EXTRA
 featuredImage: 'https://ucarecdn.com/9e7f7510-235e-45dc-bf91-46e4698c931d/'
-imageThumbnail: 'https://ucarecdn.com/042537f2-080e-4d17-81fd-447201474e95/'
+imageThumbnail: >-
+  https://ucarecdn.com/042537f2-080e-4d17-81fd-447201474e95/-/crop/411x528/47,0/-/preview/
 firstName: Kevin L EXTRA
 collection: Extras
 height: 5'7
