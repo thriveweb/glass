@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/6ade2fc8-f537-44a2-984e-9c3fdf1bb28e/'
 imageThumbnail: >-
   https://ucarecdn.com/50506280-37e4-469b-a9e5-b9bfc8db1b68/-/crop/937x1369/242,0/-/preview/
 firstName: Bailey Cruz
-collection: Boys
+collection: ''
 height: 164cm
 measurementType: chest
 bust: 78cm
