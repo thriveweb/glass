@@ -4,7 +4,7 @@ title: Kim EXTRA
 featuredImage: 'https://ucarecdn.com/d819d0a8-ec2b-4b4b-851b-a379e71ffc6e/'
 imageThumbnail: 'https://ucarecdn.com/12e473cb-8a2b-459b-9fe0-91f891601964/'
 firstName: Kim EXTRA
-collection: Extras
+collection: ''
 height: 151cm
 measurementType: bust
 bust: 71cm
