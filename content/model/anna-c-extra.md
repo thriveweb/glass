@@ -2,7 +2,8 @@
 template: ModelPage
 title: Anna C EXTRA
 featuredImage: 'https://ucarecdn.com/cb3fdc82-2918-488c-99ec-2b652cb65834/'
-imageThumbnail: 'https://ucarecdn.com/e34e058c-d086-44e7-bdb9-5f72d154a5af/'
+imageThumbnail: >-
+  https://ucarecdn.com/e34e058c-d086-44e7-bdb9-5f72d154a5af/-/crop/765x1014/54,112/-/preview/
 firstName: Anna C EXTRA
 collection: Extras
 height: 174cm
