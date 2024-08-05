@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/a9ebcbf8-3ae9-4dee-a8fa-b9a45d5e286e/'
 imageThumbnail: >-
   https://ucarecdn.com/a0a69ce3-24a9-4190-9c7d-51e6f51f1efc/-/crop/1485x2035/247,235/-/preview/
 firstName: Zane EXTRA
-collection: Extras
+collection: ''
 height: 161cm
 measurementType: chest
 bust: 71cm
