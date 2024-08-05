@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/0c3b4fc5-213c-406a-b485-21abeb0fe1c6/-/crop/563x726/523,319/-/preview/
 firstName: Leo F
-collection: Boys
+collection: ''
 size: '3'
 imagePortfolio:
   - image: 'https://ucarecdn.com/075eb61c-728a-48b2-8cd1-50b0cf8aa85f/'
