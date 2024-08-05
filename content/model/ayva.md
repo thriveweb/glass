@@ -12,8 +12,8 @@ measurementType: bust
 bust: 76cm
 waist: 60cm
 hips: 88cm
-size: '14 Youth '
-shoeSize: 7/8
+size: Kids 16 / Women's 6
+shoeSize: Women's 8
 hair: Brown
 eyes: Brown
 imagePortfolio:
