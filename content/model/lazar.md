@@ -7,7 +7,7 @@ featuredVideoMobile: ''
 imageThumbnail: >-
   https://ucarecdn.com/7c74d46f-c176-44c3-a516-5422e96b6935/-/crop/612x878/338,0/-/preview/
 firstName: Lazar
-collection: Boys
+collection: ''
 height: 97cm
 measurementType: chest
 bust: 53cm
