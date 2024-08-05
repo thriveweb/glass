@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/77e2fb82-10c5-46b8-a1e7-2682b3850c3d/'
 imageThumbnail: >-
   https://ucarecdn.com/5ffbac01-76c9-4f65-a919-90b1c4836405/-/crop/1340x1763/258,447/-/preview/
 firstName: Levi EXTRA
-collection: Extras
+collection: ''
 height: 130cm
 measurementType: chest
 bust: 66cm
