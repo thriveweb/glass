@@ -3,7 +3,7 @@ template: ModelPage
 title: Marcus D EXTRA
 featuredImage: 'https://ucarecdn.com/216145c8-86ac-495a-8738-d209f6bf7e87/'
 imageThumbnail: >-
-  https://ucarecdn.com/38a667d5-d452-4364-aa6b-dd7a13a92c8b/-/crop/929x1368/97,0/-/preview/
+  https://ucarecdn.com/38a667d5-d452-4364-aa6b-dd7a13a92c8b/-/crop/646x797/218,12/-/preview/
 firstName: Marcus D EXTRA
 collection: Extras
 height: 180cm
