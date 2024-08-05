@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/2a33513d-79f9-4a8e-9dec-cef788501c60/-/crop/484x639/1121,240/-/preview/
 firstName: Sheree
-collection: Extras
+collection: ''
 height: 178cm
 measurementType: bust
 bust: 94cm
