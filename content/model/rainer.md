@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/d5d59e5d-d571-4bc2-b19f-d02ff7a74301/-/crop/930x1151/406,499/-/preview/
 firstName: Rainer
-collection: Boys
+collection: ''
 height: 107cm
 measurementType: chest
 bust: 55cm
