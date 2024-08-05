@@ -2,7 +2,8 @@
 template: ModelPage
 title: Kumbi EXTRA
 featuredImage: 'https://ucarecdn.com/e5df6751-82f7-4506-8c23-f6265671bc7c/'
-imageThumbnail: 'https://ucarecdn.com/ad5ca520-6a74-4b84-8df6-5149f5dfcd7f/'
+imageThumbnail: >-
+  https://ucarecdn.com/ad5ca520-6a74-4b84-8df6-5149f5dfcd7f/-/crop/1643x2180/89,129/-/preview/
 firstName: Kumbi EXTRA
 collection: Extras
 height: 192cm
