@@ -2,7 +2,8 @@
 template: ModelPage
 title: Dredon EXTRA
 featuredImage: 'https://ucarecdn.com/e4cc8666-9dca-4b3b-ade8-4f219fcfef96/'
-imageThumbnail: 'https://ucarecdn.com/ecdcdbd7-7bf1-43da-9e65-e541a364ea2a/'
+imageThumbnail: >-
+  https://ucarecdn.com/ecdcdbd7-7bf1-43da-9e65-e541a364ea2a/-/crop/1330x1825/13,191/-/preview/
 firstName: Dredon EXTRA
 collection: Extras
 height: 6'0
