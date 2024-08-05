@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/4a5bc618-6807-4a5a-9ac9-2699a68044b2/-/crop/1520x2256/0,0/-/preview/
 firstName: Amaia
-collection: Girls
+collection: ''
 height: 128cm
 measurementType: bust
 bust: 62cm
