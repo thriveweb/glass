@@ -2,7 +2,8 @@
 template: ModelPage
 title: Beni EXTRA
 featuredImage: 'https://ucarecdn.com/9b0b28a7-ee54-4e98-bf57-5352e46884cd/'
-imageThumbnail: 'https://ucarecdn.com/407bcae3-13a3-4aa9-a7c3-760a6d72a0a1/'
+imageThumbnail: >-
+  https://ucarecdn.com/407bcae3-13a3-4aa9-a7c3-760a6d72a0a1/-/crop/1464x1867/114,318/-/preview/
 firstName: Beni EXTRA
 collection: Extras
 height: 177cm
