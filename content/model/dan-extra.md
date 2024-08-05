@@ -3,7 +3,7 @@ template: ModelPage
 title: Dan EXTRA
 featuredImage: 'https://ucarecdn.com/659d2371-0cef-4229-bf00-68766bc0d09a/'
 imageThumbnail: >-
-  https://ucarecdn.com/72fd2d34-09fd-4a98-b867-b418fbb28e38/-/crop/1856x1298/4,183/-/preview/-/rotate/90/
+  https://ucarecdn.com/72fd2d34-09fd-4a98-b867-b418fbb28e38/-/crop/1214x976/501,335/-/preview/-/rotate/90/
 firstName: Dan EXTRA
 collection: Extras
 height: 185cm
