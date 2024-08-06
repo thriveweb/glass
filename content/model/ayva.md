@@ -9,9 +9,9 @@ firstName: Ayva
 collection: Emerging
 height: 160cm
 measurementType: bust
-bust: 76cm
-waist: 60cm
-hips: 88cm
+bust: 80cm
+waist: 67cm
+hips: 90cm
 size: Kids 16 / Women's 6
 shoeSize: Women's 8
 hair: Brown
