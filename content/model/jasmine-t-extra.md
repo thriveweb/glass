@@ -2,7 +2,8 @@
 template: ModelPage
 title: Jasmine M EXTRA
 featuredImage: 'https://ucarecdn.com/be1179db-e5de-44d2-abc3-5ad7374dac5f/'
-imageThumbnail: 'https://ucarecdn.com/1e8fd4ec-754f-4e78-b4b7-27bf1d377940/'
+imageThumbnail: >-
+  https://ucarecdn.com/9ae799f0-4681-4b4d-8f53-35da11670ea9/-/crop/1264x1896/279,403/-/preview/
 firstName: 'Jasmine M EXTRA '
 collection: Extras
 height: 5'5
@@ -13,6 +14,9 @@ hips: 33 inches
 size: '8'
 shoeSize: '8'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/9d6413b4-4bf7-491f-ac45-a7f0991a5006/'
+  - image: 'https://ucarecdn.com/addd0995-5f6d-421d-a76e-5712209f5dff/'
+  - {}
+  - {}
+  - {}
 ---
 
