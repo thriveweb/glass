@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/9dfa8247-df35-435e-99e3-ae7e5ef8f94e/-/crop/256x390/907,749/-/preview/
 firstName: Ziah
 collection: Boys
-height: 97cm
+height: 121cm
 measurementType: chest
 bust: 52cm
 waist: 51cm
 hips: 58cm
-size: '3'
-shoeSize: '10'
+size: 5-6
+shoeSize: '1'
 hair: Brown
 eyes: Brown
 imagePortfolio:
