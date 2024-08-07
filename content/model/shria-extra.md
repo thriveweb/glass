@@ -2,7 +2,7 @@
 template: ModelPage
 title: Shria EXTRA
 featuredImage: 'https://ucarecdn.com/e5b8d40b-3cbf-47be-8498-5eefe6ab9c94/'
-imageThumbnail: 'https://ucarecdn.com/5c3e3572-89ab-4316-9912-03fe00b9f6ae/'
+imageThumbnail: 'https://ucarecdn.com/2e51c856-86ce-40fe-a1d3-742a96744333/'
 firstName: Shria EXTRA
 collection: Extras
 height: 164cm
@@ -15,7 +15,6 @@ shoeSize: '7.5'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: >-
-      https://ucarecdn.com/5c236859-4720-4751-b407-84145d999050/-/crop/2048x1706/0,26/-/preview/-/rotate/90/
+  - image: 'https://ucarecdn.com/dcc9d296-44e1-40bb-b563-acd5a361ab26/'
 ---
 
