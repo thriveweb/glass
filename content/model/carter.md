@@ -3,8 +3,7 @@ template: ModelPage
 title: Carter
 featuredImage: >-
   https://ucarecdn.com/5d226703-0f05-4e81-8b3c-1677bf19a6c5/-/crop/1650x954/0,0/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/f32e7b0d-c881-4b9d-aa0d-0710eb93730c/-/crop/657x890/76,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/4855933e-6471-4c12-a9f0-ddb5cf111182/'
 firstName: Carter
 collection: Emerging
 height: 195cm
