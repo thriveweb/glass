@@ -7,8 +7,8 @@ firstName: Melissa G
 collection: Classic
 height: 173cm
 measurementType: bust
-bust: 91cm
-waist: 67cm
+bust: 88cm
+waist: 63cm
 hips: 94cm
 size: 8-10
 shoeSize: '8'
