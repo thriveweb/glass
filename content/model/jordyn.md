@@ -10,7 +10,7 @@ height: 163cm
 measurementType: bust
 bust: 92cm
 waist: 78cm
-hips: 107cm
+hips: 104cm
 size: '12'
 shoeSize: '8'
 hair: Brown
