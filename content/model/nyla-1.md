@@ -2,7 +2,7 @@
 template: ModelPage
 title: Nyla
 featuredImage: >-
-  https://ucarecdn.com/c40f561f-bfc2-486c-b44b-a343e15b3040/-/crop/1179x771/0,235/-/preview/
+  https://ucarecdn.com/8b417ca2-7ba2-4756-b6cf-dcd50ab5de37/-/crop/1178x705/1,79/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/77ab370e-5717-4dcb-8e14-755a96932151/-/crop/522x614/294,142/-/preview/
 firstName: Nyla
