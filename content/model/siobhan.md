@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Siobhan
+title: Siobhain
 featuredImage: >-
   https://ucarecdn.com/43b35b92-17e1-49d5-b87f-7582235c9c6f/-/crop/1086x690/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2b3daa1a-cef6-41ae-9f5c-4781c69f15e0/-/crop/823x1182/438,168/-/preview/
-firstName: Siobhan
+firstName: Siobhain
 collection: Classic
 height: 173cm
 measurementType: bust
