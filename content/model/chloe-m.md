@@ -2,7 +2,7 @@
 template: ModelPage
 title: Chloe M
 featuredImage: >-
-  https://ucarecdn.com/c4ee6231-52ba-4902-8fc0-9afa837a6c98/-/crop/1732x1538/0,336/-/preview/
+  https://ucarecdn.com/d4d39e60-56af-4e2a-878d-f756424484f4/-/crop/589x315/0,88/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/cb177441-da31-4540-a7e5-f08ea0a029be/-/crop/251x375/175,63/-/preview/
 firstName: Chloe M
