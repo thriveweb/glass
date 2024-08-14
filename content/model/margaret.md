@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: 'Margaret '
+title: 'ACTOR Margaret '
 featuredImage: 'https://ucarecdn.com/16d2e027-def5-4f5b-969e-bc28a66c30fc/'
 imageThumbnail: 'https://ucarecdn.com/4ff9a77e-143a-417f-a46b-896937b0199a/'
-firstName: Margaret
+firstName: ACTOR Margaret
 collection: Actors
 height: 160cm
 measurementType: bust
