@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Johns Family
-featuredImage: 'https://ucarecdn.com/ff83c604-fbd6-490b-b7cb-5feb3d1029c7/'
+featuredImage: >-
+  https://ucarecdn.com/ff83c604-fbd6-490b-b7cb-5feb3d1029c7/-/crop/2449x1386/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/dec96210-bb11-4f38-936f-0fa757e6a284/-/crop/1550x1632/474,0/-/preview/
 firstName: Johns Family
