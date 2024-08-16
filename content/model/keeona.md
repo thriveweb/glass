@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Keeona
-featuredImage: 'https://ucarecdn.com/a4f9db3f-2fbb-4989-b14e-882d4d8ca929/'
+featuredImage: >-
+  https://ucarecdn.com/a4f9db3f-2fbb-4989-b14e-882d4d8ca929/-/crop/2449x1327/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2173acd0-85e1-4297-99e3-804fba3110ca/-/crop/1627x2212/0,0/-/preview/
 firstName: Keeona
