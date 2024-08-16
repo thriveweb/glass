@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Kiah
-featuredImage: 'https://ucarecdn.com/fa51649a-9c41-4b09-98b9-8deab0483a24/'
+featuredImage: >-
+  https://ucarecdn.com/fa51649a-9c41-4b09-98b9-8deab0483a24/-/crop/2449x1341/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/cb3a379b-ad71-42e3-9c24-52ab78969f22/-/crop/889x1080/290,147/-/preview/
 firstName: Kiah
