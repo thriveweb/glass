@@ -3,7 +3,7 @@ template: ModelPage
 title: Rocco
 featuredImage: 'https://ucarecdn.com/eb8326c3-a6c4-4c0e-8d79-10ea8a7e00d8/'
 imageThumbnail: >-
-  https://ucarecdn.com/057fbb0d-f661-45b2-a8de-17fef5d1b10c/-/crop/567x735/118,0/-/preview/
+  https://ucarecdn.com/057fbb0d-f661-45b2-a8de-17fef5d1b10c/-/crop/539x660/132,0/-/preview/
 firstName: Rocco
 collection: Men
 height: 186cm
