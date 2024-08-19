@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Dan S
-featuredImage: 'https://ucarecdn.com/1ea97034-19f6-4811-a28b-cda9437aa08b/'
+featuredImage: >-
+  https://ucarecdn.com/1ea97034-19f6-4811-a28b-cda9437aa08b/-/crop/1650x906/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/df2c4618-a8f0-4298-a038-fc02d704a3b7/-/crop/592x822/43,48/-/preview/
 firstName: Dan S
