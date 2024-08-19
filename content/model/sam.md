@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f373147b-4803-4ffc-845e-3d846c0d134e/-/crop/241x283/81,0/-/preview/
 firstName: Sam
-collection: Men
+collection: ''
 height: 187cm
 size: 32/M
 hair: Brown
