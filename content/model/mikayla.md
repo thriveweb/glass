@@ -3,7 +3,7 @@ template: ModelPage
 title: Mikayla
 featuredImage: 'https://ucarecdn.com/c3b57c95-2d3c-4064-8285-1ee63471a8ab/'
 imageThumbnail: >-
-  https://ucarecdn.com/094a2e8f-a02a-4967-b6fa-a8505465533a/-/crop/1066x1560/280,130/-/preview/
+  https://ucarecdn.com/0780bf2d-d928-4e30-b417-24ee3ab2a1cf/-/crop/359x488/78,23/-/preview/
 firstName: Mikayla
 collection: Emerging
 height: 162cm
@@ -16,13 +16,15 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/eef39f6c-50f0-4656-a34d-463e682dfa39/'
-  - image: 'https://ucarecdn.com/ecbc17a0-783e-4452-ab80-6acbb794648f/'
-  - image: 'https://ucarecdn.com/28078cf2-d70a-48a7-b35d-809c637ca5cb/'
-  - image: 'https://ucarecdn.com/579b82cb-112f-4fd9-94a8-ab2d8e9ceaf4/'
-  - image: 'https://ucarecdn.com/71c69b59-d6c3-4da0-8fa8-5b8ef95de1a5/'
+  - image: 'https://ucarecdn.com/34508365-aad6-4ebd-ab25-57279f9dd202/'
+  - image: 'https://ucarecdn.com/20d500b0-0102-4de5-86e4-28d38cf37dd7/'
+  - image: 'https://ucarecdn.com/c960a2d5-2332-44cc-8abe-6b4e776a50cd/'
+  - image: 'https://ucarecdn.com/1705f65f-d2c0-4ac2-bbcb-002140679df5/'
+  - image: 'https://ucarecdn.com/4c7a64e9-bf20-48f6-934a-70fd445ca3fb/'
+  - image: 'https://ucarecdn.com/9bc057b4-62ec-4220-aa17-c69a76a4f93f/'
+  - image: 'https://ucarecdn.com/8d62161a-cdda-442a-a4a1-409c69b18de2/'
+  - image: 'https://ucarecdn.com/6800cfe5-d18d-45b6-b662-d1e75ada7977/'
   - image: 'https://ucarecdn.com/dd61a118-c651-40bb-a504-f1353f3d50ea/'
-  - image: 'https://ucarecdn.com/1d448d54-f939-405e-aea9-945cf0c71811/'
 meta:
   title: 'Mikayla '
 ---
