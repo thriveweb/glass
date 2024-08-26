@@ -16,6 +16,7 @@ size: '10'
 shoeSize: '8'
 hair: Silverfox
 imagePortfolio:
+  - image: 'https://ucarecdn.com/2326973c-9c5c-47d3-a3c1-9b1a97e74bc9/'
   - image: 'https://ucarecdn.com/366f181d-8215-475a-baa4-26d7357f9af6/'
   - image: 'https://ucarecdn.com/584e0efc-bf89-4515-8389-bc511718ee4a/'
   - image: 'https://ucarecdn.com/342b0fa2-2e5b-48dd-bba9-fff43be46aac/'
