@@ -15,5 +15,6 @@ shoeSize: '10'
 hair: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/38767929-f82a-4c6f-bf51-bf84c32c45ff/'
+  - image: 'https://ucarecdn.com/cf0062ac-f73f-41a4-9145-69604c854a55/'
 ---
 
