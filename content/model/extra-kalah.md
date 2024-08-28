@@ -3,7 +3,7 @@ template: ModelPage
 title: EXTRA Kalah
 featuredImage: 'https://ucarecdn.com/247a706b-65e0-4e97-b571-4d89d010bb21/'
 imageThumbnail: 'https://ucarecdn.com/e1fccb6a-5e48-414b-8086-7bc66cc5b5f8/'
-firstName: EXTRA
+firstName: EXTRA Kalah
 collection: Extras
 height: 178cm
 measurementType: bust
