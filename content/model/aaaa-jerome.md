@@ -12,7 +12,7 @@ bust: 50cm
 waist: 50cm
 hips: 52cm
 size: '4'
-shoeSize: '9'
+shoeSize: '10'
 hair: Brown
 eyes: Brown
 imagePortfolio:
