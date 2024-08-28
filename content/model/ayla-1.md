@@ -13,7 +13,7 @@ bust: 62cm
 waist: 56cm
 hips: 65cm
 size: 6-7
-shoeSize: '1'
+shoeSize: '2'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
