@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/b04139e6-0f8a-49c1-81a0-2a6f6ce7fdca/-/crop/505x671/404,8/-/preview/
 firstName: Halo-Bee
 collection: Girls
-height: 98cm
+height: 101cm
 measurementType: bust
-bust: 55cm
-waist: 54cm
-hips: 55cm
+bust: 51cm
+waist: 53cm
+hips: 56cm
 size: 3-4
 shoeSize: '8'
 hair: Black
