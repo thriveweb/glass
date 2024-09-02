@@ -12,8 +12,8 @@ measurementType: bust
 bust: 57cm
 waist: 54cm
 hips: 63cm
-size: 6-7
-shoeSize: US 11
+size: '7'
+shoeSize: US 3
 hair: Blonde
 eyes: Blue
 imagePortfolio:
