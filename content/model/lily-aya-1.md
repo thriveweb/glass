@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/e967c7d4-4f44-4f15-ae70-8bdb68095903/-/crop/545x714/510,306/-/preview/
 firstName: Lily-Aya
 collection: Girls
-height: 135cm
+height: 146cm
 measurementType: bust
-bust: 63cm
-waist: 60.5cm
-hips: 69cm
+bust: 72cm
+waist: 65cm
+hips: 78cm
 size: '10'
-shoeSize: US4
+shoeSize: Junior 6
 hair: Brown
 eyes: Brown
 imagePortfolio:
