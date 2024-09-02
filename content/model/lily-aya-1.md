@@ -13,7 +13,7 @@ bust: 72cm
 waist: 65cm
 hips: 78cm
 size: '10'
-shoeSize: Junior 6
+shoeSize: 6 Junior
 hair: Brown
 eyes: Brown
 imagePortfolio:
