@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/8378b9d0-1569-4b1f-aec6-431e37345831/-/crop/1239x1670/123,6/-/preview/
 firstName: Lisa H
-collection: Classic
+collection: ''
 height: 173cm
 measurementType: bust
 bust: 77cm
