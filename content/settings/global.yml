@@ -32,7 +32,7 @@ footer:
     - buttonText: Terms & Conditions
       buttonUrl: terms-conditions
     - buttonText: Hire Our Studio
-      buttonUrl: 'https://glassstudios.com.au/'
+      buttonUrl: 'https://glassstudios.com.au'
   title: Information
 partners:
   - image: 'https://glassmanagement.imgix.net/images/uploads/download-7.jpg'
