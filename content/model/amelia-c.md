@@ -10,7 +10,7 @@ measurementType: bust
 bust: 82cm
 waist: 69cm
 hips: 85cm
-size: 6-8 L
+size: 8 L
 shoeSize: '7'
 hair: Brown
 eyes: Brown
