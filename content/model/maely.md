@@ -4,7 +4,7 @@ title: Maely
 featuredImage: >-
   https://ucarecdn.com/9737bc28-8767-41bc-bf55-b2cf1106bc6b/-/crop/3346x2051/14,189/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/e7981238-00bc-4646-b3cc-40991d3aff4f/-/crop/1216x1619/349,133/-/preview/
+  https://ucarecdn.com/873c1111-d816-411d-8665-e500990b5b0a/-/crop/1495x2173/138,0/-/preview/
 firstName: Maely
 collection: Women
 height: 167cm
