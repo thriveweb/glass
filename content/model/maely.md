@@ -2,7 +2,7 @@
 template: ModelPage
 title: Maely
 featuredImage: >-
-  https://ucarecdn.com/9737bc28-8767-41bc-bf55-b2cf1106bc6b/-/crop/3346x2051/14,189/-/preview/
+  https://ucarecdn.com/9737bc28-8767-41bc-bf55-b2cf1106bc6b/-/crop/3346x2051/8,48/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/873c1111-d816-411d-8665-e500990b5b0a/-/crop/1470x2039/163,0/-/preview/
 firstName: Maely
