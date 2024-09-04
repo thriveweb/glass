@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Ayumi
+title: Ayumi EXTRA
 featuredImage: 'https://ucarecdn.com/97b3a337-5879-4870-a848-380659f6d56a/'
 imageThumbnail: >-
   https://ucarecdn.com/59d6c869-7720-4cbb-abc1-0f0a107716b4/-/crop/1512x1864/169,445/-/preview/
-firstName: Ayumi
+firstName: Ayumi EXTRA
 collection: Extras
 height: 165cm
 measurementType: bust
