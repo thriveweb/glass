@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/3ca4193b-8b94-41f8-8ed9-a29da077413a/-/crop/404x562/358,26/-/preview/
 firstName: Maioha
 collection: Girls
-height: 138cm
+height: 153cm
 measurementType: bust
-bust: 68cm
-waist: 66cm
-hips: 73cm
-size: '10'
-shoeSize: '2'
+bust: 71cm
+waist: 63cm
+hips: 74cm
+size: 10 -12
+shoeSize: '7'
 hair: Brown
 eyes: Green/Blue
 imagePortfolio:
