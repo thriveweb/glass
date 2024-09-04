@@ -6,10 +6,10 @@ imageThumbnail: >-
   https://ucarecdn.com/71dedb95-0aa9-455c-bc3e-34815c678738/-/crop/1523x2354/110,0/-/preview/
 firstName: Lily A
 collection: Girls
-height: 147cm
+height: 149cm
 measurementType: bust
-bust: 64cm
-waist: 55cm
+bust: 67cm
+waist: 56cm
 hips: 68cm
 size: '10'
 shoeSize: '6'
