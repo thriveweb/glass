@@ -11,7 +11,7 @@ bust: 75cm
 waist: 63cm
 hips: 80cm
 size: '12'
-shoeSize: '4'
+shoeSize: '5'
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
