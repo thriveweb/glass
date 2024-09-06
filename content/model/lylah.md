@@ -5,11 +5,11 @@ featuredImage: 'https://ucarecdn.com/5fc862b9-a950-4b1c-8b5f-7f68123dc2f5/'
 imageThumbnail: 'https://ucarecdn.com/da72c55d-1b81-44ef-b391-9e8a40379ad2/'
 firstName: Lylah
 collection: Girls
-height: 142cm
+height: 155cm
 measurementType: bust
-bust: 74cm
-waist: 61cm
-hips: 79cm
+bust: 75cm
+waist: 63cm
+hips: 80cm
 size: '12'
 shoeSize: '4'
 hair: Light Brown
