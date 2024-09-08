@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/14473389-35e0-49dd-a49f-5165f02b0ad6/-/crop/2449x1334/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/7487687f-1981-4e1c-8484-affefc3b16a1/-/crop/1562x2096/39,31/-/preview/
-firstName: Lawrie
+firstName: Lawrie Family
 collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/1d5b5ccf-ea4c-4f64-b4ca-9f4dbbb07dcd/'
