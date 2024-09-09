@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Mia T
-featuredImage: 'https://ucarecdn.com/27010dda-4d61-46e0-aee7-90d77cfad05f/'
+featuredImage: >-
+  https://ucarecdn.com/27010dda-4d61-46e0-aee7-90d77cfad05f/-/crop/1690x987/0,592/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/3adaa20b-37e1-4631-8503-55e834c52490/-/crop/800x1078/119,0/-/preview/
 firstName: Mia T
