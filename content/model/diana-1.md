@@ -9,9 +9,9 @@ collection: Classic
 height: 169cm
 measurementType: bust
 bust: 90cm
-waist: 76cm
-hips: 90cm
-size: 8-10
+waist: 75cm
+hips: 93cm
+size: 10-12
 shoeSize: '9'
 hair: Brown
 eyes: Brown
