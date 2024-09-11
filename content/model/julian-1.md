@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/66e977e9-fbf5-410c-b9b8-6d7839658200/-/crop/1514x1968/118,0/-/preview/
 firstName: 'Julian '
-collection: Global
+collection: Emerging
 height: '166cm '
 measurementType: chest
 bust: '86cm '
