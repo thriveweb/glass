@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/07dc962c-ec71-4d54-b255-37e9e470e226/'
 firstName: Harry K
 collection: Boys
-height: 103cm
+height: 106cm
 measurementType: chest
 bust: 51cm
 waist: 51cm
