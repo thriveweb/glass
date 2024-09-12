@@ -7,7 +7,7 @@ featuredVideoMobile: >-
 imageThumbnail: >-
   https://ucarecdn.com/475eebea-430d-4614-8c5f-4797eaa65de8/-/crop/1896x1450/0,149/-/preview/-/rotate/90/
 firstName: Yuri EXTRA
-collection: Men
+collection: Extras
 height: 168cm
 measurementType: chest
 bust: 96cm
