@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/4ba3389a-7940-4205-ac62-e1845141a63e/-/crop/1409x1847/132,60/-/preview/
 firstName: Ayla
 collection: Girls
-height: 124cm
+height: 126cm
 measurementType: bust
 bust: 62cm
-waist: 56cm
-hips: 65cm
+waist: 57cm
+hips: 64cm
 size: 6-7
 shoeSize: '2'
 hair: Blonde
