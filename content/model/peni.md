@@ -3,7 +3,8 @@ template: ModelPage
 title: Peni
 featuredImage: >-
   https://ucarecdn.com/daddd2ae-2b6f-4323-a63f-9a4f8a725654/-/crop/1024x565/0,240/-/preview/
-imageThumbnail: 'https://ucarecdn.com/36b5ff7e-a492-4e28-b652-8cd6714786b2/'
+imageThumbnail: >-
+  https://ucarecdn.com/36b5ff7e-a492-4e28-b652-8cd6714786b2/-/crop/836x1284/109,166/-/preview/
 firstName: Peni
 collection: Men
 height: 201cm
