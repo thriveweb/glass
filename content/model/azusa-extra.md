@@ -4,7 +4,7 @@ title: Azusa EXTRA
 featuredImage: 'https://ucarecdn.com/e9d8327e-894e-4756-bbf1-5afee0d371ff/'
 imageThumbnail: >-
   https://ucarecdn.com/252ad506-2bd0-428e-b25a-896045548700/-/crop/1880x1363/0,164/-/preview/-/rotate/90/
-firstName: Azusa
+firstName: Azusa EXTRA
 collection: Extras
 height: 160cm
 measurementType: bust
