@@ -9,10 +9,10 @@ firstName: Angelique
 collection: Emerging
 height: 163cm
 measurementType: bust
-bust: 72cm
-waist: 59cm
-hips: 78cm
-size: 6-8 ladies
+bust: 75cm
+waist: 64cm
+hips: 86cm
+size: 8 ladies
 shoeSize: '9'
 hair: Dark Brown
 eyes: Hazel
