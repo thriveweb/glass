@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/da648ae6-a9ae-4721-96e7-bb7ab3350dff/'
 imageThumbnail: >-
   https://ucarecdn.com/6cb52a1e-297b-4d4c-99b1-eb4050f7ee0f/-/crop/828x1117/396,113/-/preview/
 firstName: Jo F
-collection: Men
+collection: ''
 height: 172cm
 measurementType: chest
 bust: 98cm
