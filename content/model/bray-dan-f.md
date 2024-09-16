@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/58311591-5803-4a60-89fd-21133cacf78a/-/crop/926x1174/112,0/-/preview/
 firstName: Dan F
-collection: Men
+collection: ''
 height: 172cm
 measurementType: chest
 bust: 98cm
