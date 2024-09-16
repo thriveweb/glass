@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: K Alivia
+title: Ke Alivia
 featuredImage: >-
   https://ucarecdn.com/98b2f572-70d0-4f97-b17b-973e4da3e8c6/-/crop/933x648/0,418/-/preview/
 imageThumbnail: >-
