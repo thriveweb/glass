@@ -4,7 +4,7 @@ title: Ke Alivia
 featuredImage: >-
   https://ucarecdn.com/98b2f572-70d0-4f97-b17b-973e4da3e8c6/-/crop/933x648/0,418/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/f228f4d9-c0c1-4f49-8898-fffb6d83c721/-/crop/711x922/33,16/-/preview/
+  https://ucarecdn.com/f228f4d9-c0c1-4f49-8898-fffb6d83c721/-/crop/624x821/71,28/-/preview/
 firstName: Alivia
 collection: Classic
 height: 173cm
