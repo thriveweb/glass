@@ -2,7 +2,7 @@
 template: ModelPage
 title: Kelly
 featuredImage: >-
-  https://ucarecdn.com/dd8a19ce-d611-4bf0-9b02-5eb4e7fca1ea/-/crop/1134x1044/0,0/-/preview/
+  https://ucarecdn.com/31089d3e-3214-49f1-aeff-c5e6936d8d0c/-/crop/1150x782/6,160/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/0b9be909-726e-4e36-9c29-3841163c2650/-/crop/581x816/107,20/-/preview/
 firstName: Kelly
