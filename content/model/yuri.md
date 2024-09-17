@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Yuri
+title: A Yuri
 featuredImage: >-
   https://ucarecdn.com/ef4e2db3-eecb-4cdb-92e0-2b582adaa3af/-/crop/2447x1207/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/29d95495-f240-4229-ac3f-f08b0dfe29c1/'
