@@ -23,9 +23,10 @@ gallery:
     - image: 'https://ucarecdn.com/e7f3818f-a1fb-4893-a4d3-985bdd0257be/'
       title: Extras
     - image: >-
-        https://ucarecdn.com/f4edf994-bfe0-4fb6-aed1-2d9c88a1677f/-/crop/1403x1355/137,210/-/preview/
+        https://ucarecdn.com/aee53728-d6a0-4682-b977-a29b5e30fe4b/-/crop/509x599/29,0/-/preview/
       title: Men
-    - image: 'https://ucarecdn.com/21884ff9-c341-4af1-baec-93bda0a16940/'
+    - image: >-
+        https://ucarecdn.com/21884ff9-c341-4af1-baec-93bda0a16940/-/crop/954x777/0,0/-/preview/
       title: Boys
     - image: 'https://ucarecdn.com/410b3a9c-f706-4b5d-a320-105225b71bd3/'
       title: Classic
