@@ -4,7 +4,7 @@ title: Patrick
 featuredImage: 'https://glassmanagement.imgix.net/images/uploads/pat-21-land-1-1-.jpg'
 imageThumbnail: 'https://glassmanagement.imgix.net/images/uploads/pat-head-shot.jpg'
 firstName: Patrick
-collection: Men
+collection: ''
 height: 181cm
 measurementType: chest
 bust: 99cm
