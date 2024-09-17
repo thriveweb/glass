@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/eb8326c3-a6c4-4c0e-8d79-10ea8a7e00d8/'
 imageThumbnail: >-
   https://ucarecdn.com/057fbb0d-f661-45b2-a8de-17fef5d1b10c/-/crop/539x660/132,0/-/preview/
 firstName: Rocco
-collection: Men
+collection: Emerging
 height: 186cm
 measurementType: chest
 bust: 99cm
