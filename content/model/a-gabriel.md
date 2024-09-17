@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c457eea5-8df6-46d6-8bbb-000423e66237/-/crop/764x994/319,176/-/preview/
 firstName: Gabriel C
-collection: Men
+collection: ''
 height: 186cm
 measurementType: chest
 bust: 101cm
