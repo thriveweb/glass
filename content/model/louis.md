@@ -4,7 +4,7 @@ title: Louie G
 featuredImage: >-
   https://ucarecdn.com/732f6627-ea91-49ff-9b27-0fc39af8339a/-/crop/2353x1292/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/bcc90835-f5b3-44d2-89ce-fa84ddb88063/-/crop/925x1353/361,162/-/preview/
+  https://ucarecdn.com/3d50b89e-5e24-46be-85e3-dd96e53e0fdb/-/crop/878x1340/146,0/-/preview/
 firstName: Louie G
 collection: Men
 height: 184cm
@@ -17,7 +17,10 @@ shoeSize: 11-12
 hair: Brown
 eyes: Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/0a85a3d4-6e94-43b6-a85d-7e39faf71fc9/'
+  - image: 'https://ucarecdn.com/6a7f4978-95e4-40bc-9d30-e5f60a463032/'
   - image: 'https://ucarecdn.com/d889ed91-035f-4c00-869e-e6ef012de7b6/'
+  - image: 'https://ucarecdn.com/29780ec2-383a-4211-a82e-660c248ed1e3/'
   - image: 'https://ucarecdn.com/ae1d89e8-0923-4ccf-bd79-b1a3b21e82dc/'
   - image: 'https://ucarecdn.com/8b3330e5-03ed-4c82-b0ec-f47eb23e34ba/'
   - image: 'https://ucarecdn.com/6b8cc492-a57e-4e9a-acd3-43ffae101829/'
