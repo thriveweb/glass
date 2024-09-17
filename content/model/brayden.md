@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Brayden
+title: BG Brayden
 featuredImage: >-
   https://ucarecdn.com/c19b9bd9-926c-4372-a0f7-4c582c9d9c6a/-/crop/814x493/61,0/-/preview/
 imageThumbnail: >-
