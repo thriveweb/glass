@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Louie G
+title: BR Louie G
 featuredImage: >-
   https://ucarecdn.com/ba161a49-da21-445b-b198-dadcb3884c07/-/preview/-/rotate/270/
 imageThumbnail: >-
