@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/272be450-740b-4abf-ad4b-2fb3e4dd580b/-/crop/986x1386/323,0/-/preview/
 firstName: Jamie
-collection: Men
+collection: Emerging
 height: 194cm
 measurementType: chest
 bust: 104cm
