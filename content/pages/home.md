@@ -25,8 +25,7 @@ gallery:
     - image: >-
         https://ucarecdn.com/f4edf994-bfe0-4fb6-aed1-2d9c88a1677f/-/crop/1403x1355/137,210/-/preview/
       title: Men
-    - image: >-
-        https://ucarecdn.com/2bdf034c-edd9-4a1a-8cb2-2ffbe929df34/-/crop/1629x1107/0,127/-/preview/
+    - image: 'https://ucarecdn.com/21884ff9-c341-4af1-baec-93bda0a16940/'
       title: Boys
     - image: 'https://ucarecdn.com/410b3a9c-f706-4b5d-a320-105225b71bd3/'
       title: Classic
