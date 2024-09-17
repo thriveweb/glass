@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/ec17e018-921b-4127-943f-31bcf38386ca/-/crop/971x1378/478,406/-/preview/
 firstName: Juan D
-collection: Men
+collection: ''
 height: 190cm
 measurementType: chest
 bust: 86cm
