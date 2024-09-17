@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Louie
+title: BR Louie
 featuredImage: >-
   https://ucarecdn.com/0b841a1b-fbe3-425f-8273-695557931e47/-/crop/847x612/0,120/-/preview/
 imageThumbnail: >-
