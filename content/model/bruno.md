@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Bruno
+title: L Bruno
 featuredImage: >-
   https://ucarecdn.com/1edf820b-e10d-4f37-9aef-bcdf9675108a/-/crop/2768x1540/0,0/-/preview/
 imageThumbnail: >-
