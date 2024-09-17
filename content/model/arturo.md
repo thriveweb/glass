@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Y Arturo
+title: C Arturo
 featuredImage: >-
   https://ucarecdn.com/2dcb5107-3603-44d3-8aed-a18124e8a47d/-/crop/1755x1016/0,0/-/preview/
 imageThumbnail: >-
