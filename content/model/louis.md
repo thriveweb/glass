@@ -2,7 +2,7 @@
 template: ModelPage
 title: Louie G
 featuredImage: >-
-  https://ucarecdn.com/732f6627-ea91-49ff-9b27-0fc39af8339a/-/crop/2353x1292/0,0/-/preview/
+  https://ucarecdn.com/ba161a49-da21-445b-b198-dadcb3884c07/-/preview/-/rotate/270/
 imageThumbnail: >-
   https://ucarecdn.com/3d50b89e-5e24-46be-85e3-dd96e53e0fdb/-/crop/878x1340/146,0/-/preview/
 firstName: Louie G
