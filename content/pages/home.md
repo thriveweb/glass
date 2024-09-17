@@ -14,8 +14,7 @@ gallery:
     - image: >-
         https://ucarecdn.com/a0440d29-f645-4d67-b0cb-d5a418b39ad4/-/crop/3533x4629/0,0/-/preview/
       title: Women
-    - image: >-
-        https://ucarecdn.com/dd765b2b-cd6a-4a29-8068-cea8e6d04bc5/-/crop/356x547/57,0/-/preview/
+    - image: 'https://ucarecdn.com/76bdd1ef-28d0-4003-b34e-1555ad61ce04/'
       title: Girls
     - image: 'https://ucarecdn.com/86d9cd0f-1af3-4bba-9232-256f2da05ecc/'
       title: Emerging
