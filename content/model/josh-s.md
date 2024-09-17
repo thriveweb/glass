@@ -3,7 +3,7 @@ template: ModelPage
 title: Josh S
 featuredImage: 'https://ucarecdn.com/47a43bbd-b503-4cbb-8c7d-2a897a49684d/'
 imageThumbnail: >-
-  https://ucarecdn.com/260b4a5e-ae95-4b72-b77a-1f9e0a4ca24f/-/crop/686x875/0,0/-/preview/
+  https://ucarecdn.com/9c564c63-bfac-4bb8-a727-88b916b72392/-/crop/1144x1632/1054,0/-/preview/
 firstName: Josh S
 collection: Men
 height: 186cm
