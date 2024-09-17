@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/fba64b3f-79ee-4fd6-a3d5-1771ee2c6e3c/-/crop/493x582/93,0/-/preview/
 firstName: Anna
-collection: Emerging
+collection: ''
 height: 174cm
 measurementType: bust
 bust: 81cm
