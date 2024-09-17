@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: B Guy
+title: BF Guy
 featuredImage: 'https://ucarecdn.com/2b71d444-d045-46fc-8390-eaa8d0efa7d1/'
 imageThumbnail: >-
   https://ucarecdn.com/67d5bf68-3fbe-428b-a860-f234d3a3d489/-/crop/350x447/91,16/-/preview/
