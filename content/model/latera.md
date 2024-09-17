@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Latera
+title: D Latera
 featuredImage: >-
   https://ucarecdn.com/ba0c370b-9ba4-4841-93a6-6625e0f26b18/-/crop/1632x1072/0,615/-/preview/
 imageThumbnail: >-
