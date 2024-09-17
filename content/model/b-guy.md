@@ -3,7 +3,7 @@ template: ModelPage
 title: B Guy
 featuredImage: 'https://ucarecdn.com/2b71d444-d045-46fc-8390-eaa8d0efa7d1/'
 imageThumbnail: >-
-  https://ucarecdn.com/03eaa432-68a3-40a6-bc59-22d7b3df008d/-/crop/1275x1601/236,0/-/preview/
+  https://ucarecdn.com/67d5bf68-3fbe-428b-a860-f234d3a3d489/-/crop/350x447/91,16/-/preview/
 firstName: Guy
 collection: Men
 height: 188cm
