@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/0280bdf7-5b05-4081-9d66-7c94f94f0cf6/-/crop/1093x1500/1048,0/-/preview/
 firstName: Nishan
-collection: Classic
+collection: ''
 height: 182cm
 measurementType: chest
 bust: 92cm
