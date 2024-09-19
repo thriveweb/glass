@@ -12,8 +12,8 @@ measurementType: bust
 bust: 54cm
 waist: 48cm
 hips: 57cm
-size: '8'
-shoeSize: 33 Euro
+size: 8-9
+shoeSize: '1'
 hair: Black
 eyes: Brown
 imagePortfolio:
