@@ -13,7 +13,7 @@ bust: 66cm
 waist: 56cm
 hips: 71cm
 size: '8'
-shoeSize: '3'
+shoeSize: '4'
 hair: Blonde/Brown
 eyes: Brown
 imagePortfolio:
