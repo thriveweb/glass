@@ -12,8 +12,8 @@ measurementType: chest
 bust: 61cm
 waist: 55cm
 hips: 62cm
-size: 7-8
-shoeSize: '1'
+size: '8'
+shoeSize: '2'
 hair: Brown
 eyes: Brown
 imagePortfolio:
