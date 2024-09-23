@@ -7,7 +7,7 @@ featuredVideoMobile: ''
 imageThumbnail: >-
   https://ucarecdn.com/0a8e693c-b5e4-4a17-bf5a-1aff743fb91a/-/crop/1506x2129/37,45/-/preview/
 firstName: Marian
-collection: Classic
+collection: Commercial Faces
 height: 165cm
 measurementType: bust
 bust: 88cm
