@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/4af0e670-4e9c-47aa-a40a-54b8aad359d4/-/crop/965x1250/280,0/-/preview/
 firstName: Terry
-collection: Classic
+collection: Commercial Faces
 height: 187cm
 measurementType: chest
 bust: 106cm
