@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/b760495b-36e5-4769-a455-c27cf9b3a527/'
 imageThumbnail: >-
   https://ucarecdn.com/8b7555ab-3285-4827-a883-b4e4828536f3/-/crop/844x1212/486,0/-/preview/
 firstName: Lance
-collection: Classic
+collection: ''
 height: 170cm
 measurementType: chest
 bust: 87cm
