@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/27a5f076-d4a3-4dfe-945f-9739e3160edf/-/crop/1213x1632/634,0/-/preview/
 firstName: Brittany R
-collection: Classic
+collection: Commercial Faces
 height: 169cm
 measurementType: bust
 bust: 89cm
