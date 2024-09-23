@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Aimee EXTRA
+title: 'Aimee '
 featuredImage: 'https://ucarecdn.com/cb3b1f76-7c6c-42f9-9f48-16bf2595d3d6/'
-imageThumbnail: 'https://ucarecdn.com/935f6465-9308-454a-8787-bfbaa3d2ba5f/'
-firstName: Aimee EXTRA
+imageThumbnail: 'https://ucarecdn.com/b48b5f50-bd06-4d3a-baa4-4335409efb22/'
+firstName: 'Aimee '
 collection: Extras
 height: 5'7
 measurementType: bust
@@ -15,9 +15,9 @@ shoeSize: '8.5'
 hair: Blonde
 eyes: Brown/Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/143db9cb-56e5-48bc-89f1-065027843d95/'
   - image: 'https://ucarecdn.com/680d1b6a-1494-4aca-ad6a-e32446142299/'
   - image: 'https://ucarecdn.com/b76f0f67-a49c-4421-bcd9-c8a3962caf8c/'
   - image: 'https://ucarecdn.com/014a95fd-9959-4af2-a666-e388f449d392/'
+  - image: 'https://ucarecdn.com/dfb8f81e-346b-442e-b7dd-982efceadeec/'
 ---
 
