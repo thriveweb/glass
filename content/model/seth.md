@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/f258a55c-5076-4c02-9a9d-350b213fed70/'
 imageThumbnail: >-
   https://ucarecdn.com/7f5ebfee-039f-4448-a2c3-c963ab57b87b/-/crop/1355x1636/123,69/-/preview/
 firstName: Seth
-collection: Classic
+collection: Commercial Faces
 height: 193cm
 measurementType: chest
 bust: 104cm
