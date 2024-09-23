@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/5be16b4c-e0cb-489a-a735-049a0c5732d6/'
 imageThumbnail: >-
   https://ucarecdn.com/5ec1b307-be46-4373-a817-f2690f92c41d/-/crop/1468x1838/0,0/-/preview/
 firstName: Veronica
-collection: Classic
+collection: Commercial Faces
 height: 162cm
 measurementType: bust
 bust: 85cm
