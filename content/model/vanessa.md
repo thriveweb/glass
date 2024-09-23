@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/d6478b91-76f5-46f5-9264-1fa7316000b3/-/crop/427x600/226,256/-/preview/
 firstName: Vanessa
-collection: Classic
+collection: Commercial Faces
 height: 170cm
 measurementType: bust
 bust: 88cm
