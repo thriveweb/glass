@@ -4,7 +4,7 @@ title: Michael
 featuredImage: 'https://ucarecdn.com/3ce48c6c-d134-4f04-a19d-e7286e378f33/'
 imageThumbnail: 'https://ucarecdn.com/96898c56-63e2-4a29-95d0-0501b9712515/'
 firstName: Michael
-collection: Classic
+collection: Commercial Faces
 height: 173cm
 measurementType: chest
 bust: 106cm
