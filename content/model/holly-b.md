@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/31e7ba9d-bd4b-47ab-a60a-6d8ebeaefea6/-/crop/2623x3617/1249,0/-/preview/
 firstName: Holly B
-collection: Classic
+collection: Commercial Faces
 height: 179cm
 measurementType: bust
 bust: 80cm
