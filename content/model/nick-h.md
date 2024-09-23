@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/e9259731-48dc-4271-b6a5-c3cfc550f786/-/crop/2811x3648/1313,0/-/preview/
 firstName: Nick H
-collection: Classic
+collection: Commercial Faces
 height: 180cm
 measurementType: chest
 bust: 110cm
