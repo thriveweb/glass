@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/15d30df5-2629-4a5b-9bf0-a96148982044/-/crop/853x1178/0,102/-/preview/
 firstName: Cassie P
-collection: Classic
+collection: Commercial Faces
 height: 158cm
 measurementType: bust
 bust: 86cm
