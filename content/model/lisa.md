@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/9e63e6e4-53ba-4d64-8964-be0ff27b64da/-/crop/1191x1632/696,0/-/preview/
 firstName: Lisa
-collection: Classic
+collection: Commercial Faces
 height: 150cm
 measurementType: chest
 size: '12'
