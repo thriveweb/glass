@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Susie M
+title: ACTOR Susie M
 featuredImage: >-
   https://ucarecdn.com/4f7a9516-ea43-4334-84b8-e351c41aae3e/-/crop/600x260/0,106/-/preview/
 imageThumbnail: >-
