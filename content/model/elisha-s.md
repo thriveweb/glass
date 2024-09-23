@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/7fcb1d58-5fdd-4f81-9734-ec54f324de92/-/crop/450x612/6,0/-/preview/
 firstName: Elisha
-collection: Classic
+collection: Commercial Faces
 height: 170cm
 measurementType: bust
 bust: 104cm
