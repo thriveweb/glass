@@ -6,7 +6,7 @@ imageThumbnail: >-
   https://ucarecdn.com/02db253c-1582-4794-880c-cfe21a556646/-/crop/1504x2241/128,0/-/preview/
 thumbnailVideo: ''
 firstName: Jodi
-collection: Classic
+collection: Commercial Faces
 height: 160cm
 measurementType: bust
 bust: 90cm
