@@ -4,7 +4,7 @@ title: Sarah S
 featuredImage: 'https://ucarecdn.com/49e45cfc-ad96-49c2-bd7e-609eab420650/'
 imageThumbnail: 'https://ucarecdn.com/bd0287c3-1338-4b7a-a536-4f06d9f596be/'
 firstName: Sarah S
-collection: Classic
+collection: Commercial Faces
 height: 168cm
 measurementType: bust
 bust: 88cm
