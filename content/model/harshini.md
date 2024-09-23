@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/71be5e90-4aca-430d-af7f-f44dd945f7ae/-/crop/4247x4824/149,0/-/preview/
 firstName: Harshini
-collection: Classic
+collection: Commercial Faces
 height: 157cm
 measurementType: bust
 bust: 82cm
