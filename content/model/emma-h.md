@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/2828dd9d-046e-4f25-bc4b-8ea0fbfa7c97/'
 imageThumbnail: >-
   https://ucarecdn.com/ba22d1e5-6e70-49fd-9f76-a5032d31eb11/-/crop/648x790/213,14/-/preview/
 firstName: Emma H
-collection: Classic
+collection: Commercial Faces
 height: 167cm
 measurementType: bust
 bust: 82cm
