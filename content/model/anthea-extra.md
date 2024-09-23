@@ -4,7 +4,7 @@ title: Anthea EXTRA
 featuredImage: 'https://ucarecdn.com/735bd8b1-1700-40e4-92e4-9d379cdd7aba/'
 imageThumbnail: 'https://ucarecdn.com/3d02a981-5af6-443c-b568-a9a214bfa452/'
 firstName: Anthea EXTRA
-collection: Extras
+collection: ''
 height: 5'7
 measurementType: bust
 bust: 93cm
