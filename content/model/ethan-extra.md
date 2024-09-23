@@ -2,8 +2,7 @@
 template: ModelPage
 title: Ethan
 featuredImage: 'https://ucarecdn.com/69c00a98-ad90-449b-be67-da3ecf594186/'
-imageThumbnail: >-
-  https://ucarecdn.com/9a819683-132e-4d45-bc5a-26b506a0e3d6/-/crop/670x947/46,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/f553dc0c-c4df-4b62-98c5-fe98ca6968c1/'
 firstName: Ethan
 collection: Commercial Faces
 height: 183cm
