@@ -1,10 +1,11 @@
 ---
 template: ModelPage
-title: Nicolette EXTRA
+title: Nicolette
 featuredImage: 'https://ucarecdn.com/87b8181e-adb1-48f8-af8a-5c229bb4b12e/'
-imageThumbnail: 'https://ucarecdn.com/787243cd-0534-403c-b4a7-caebf8505ecc/'
-firstName: Nicolette EXTRA
-collection: Extras
+imageThumbnail: >-
+  https://ucarecdn.com/45a1e48c-9b71-45b4-91c6-684048ba03e8/-/crop/443x586/0,0/-/preview/
+firstName: Nicolette
+collection: Commercial Faces
 height: 5'5
 measurementType: bust
 bust: 86cm
