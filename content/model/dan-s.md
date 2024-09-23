@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/df2c4618-a8f0-4298-a038-fc02d704a3b7/-/crop/592x822/43,48/-/preview/
 firstName: Dan S
-collection: Classic
+collection: Commercial Faces
 height: 185cm
 measurementType: chest
 bust: 118cm
