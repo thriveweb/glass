@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/ef1cd00a-2d45-4c4e-95be-abcb9af11379/-/crop/1243x1636/238,71/-/preview/
 firstName: Amanda G
-collection: Classic
+collection: Commercial Faces
 height: 171cm
 measurementType: bust
 bust: 89cm
