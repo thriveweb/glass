@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/73fc5e88-387a-44f0-bb28-b8477e276e72/-/crop/437x705/127,74/-/preview/
 firstName: Sally
-collection: Classic
+collection: Commercial Faces
 height: 165cm
 measurementType: bust
 bust: 88cm
