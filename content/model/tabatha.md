@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/9c615ccb-3321-45de-bb16-deff0a2e5866/-/crop/1145x1358/236,37/-/preview/
 firstName: Tabatha
-collection: Classic
+collection: Commercial Faces
 height: 175cm
 measurementType: bust
 bust: 85cm
