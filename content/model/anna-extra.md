@@ -4,7 +4,7 @@ title: 'Anna '
 featuredImage: 'https://ucarecdn.com/0d4954e9-f5c3-484b-88b2-e7b229411474/'
 imageThumbnail: 'https://ucarecdn.com/51776d97-6e63-44a2-a7f1-0b4fe576e13c/'
 firstName: 'Anna '
-collection: Extras
+collection: Commercial Faces
 height: 5'6
 measurementType: bust
 bust: 86cm
