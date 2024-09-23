@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/e065fb4c-6b3c-49e3-880b-cfc359edbd02/-/crop/612x877/149,19/-/preview/
 firstName: Beth
-collection: Classic
+collection: Commercial Faces
 height: 169cm
 measurementType: bust
 bust: 88cm
