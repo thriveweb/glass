@@ -1,10 +1,11 @@
 ---
 template: ModelPage
-title: Annie EXTRA
+title: Annie
 featuredImage: >-
   https://ucarecdn.com/f73e0b67-4155-4f99-bfbc-0a9dc389d6a3/-/crop/2235x1471/0,236/-/preview/
-imageThumbnail: 'https://ucarecdn.com/99491880-3bb8-4219-b61c-d6436d4dd6c8/'
-firstName: Annie EXTRA
+imageThumbnail: >-
+  https://ucarecdn.com/e499609f-9b5d-4c64-9918-501310bd154a/-/crop/455x656/6,37/-/preview/
+firstName: Annie
 collection: Extras
 height: 5'5
 measurementType: bust
@@ -14,7 +15,6 @@ hips: 35'
 size: '6'
 shoeSize: '7'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/6a4b14fb-5ee2-439e-a0b1-b2d1abf093e0/'
   - image: 'https://ucarecdn.com/98cbf14e-afed-4fe0-b1b4-80c7005f183e/'
   - image: 'https://ucarecdn.com/5cd6fccb-bcbb-451f-af74-35911718b3e2/'
   - image: 'https://ucarecdn.com/926e1b40-e413-4ce7-a6f0-b9115b431138/'
