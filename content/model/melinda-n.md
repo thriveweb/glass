@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/34c75c6c-7118-4670-aaf2-b7445455b291/-/crop/569x814/145,73/-/preview/
 firstName: Melinda
-collection: Classic
+collection: Commercial Faces
 height: 170cm
 measurementType: bust
 bust: 88cm
