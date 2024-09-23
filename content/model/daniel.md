@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/d124f669-033f-409a-9cf6-70884fad07cc/'
 imageThumbnail: >-
   https://ucarecdn.com/dc3b10f8-3a98-47d1-9da0-6e0448036154/-/crop/1153x1632/629,0/-/preview/
 firstName: Daniel
-collection: Classic
+collection: Commercial Faces
 height: 168cm
 measurementType: chest
 bust: 101cm
