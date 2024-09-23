@@ -4,7 +4,7 @@ title: Bellashae EXTRA
 featuredImage: 'https://ucarecdn.com/d040ca16-8b20-4355-a5a6-dbff80aa166c/'
 imageThumbnail: 'https://ucarecdn.com/34cf93f9-06a5-4c3d-bfd7-dc0147cff676/'
 firstName: Bellashae EXTRA
-collection: Extras
+collection: ''
 height: 5'7
 measurementType: bust
 bust: 81cm
