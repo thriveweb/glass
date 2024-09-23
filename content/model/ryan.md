@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/5ed89e4f-fbe6-4334-9f01-f1bab75301d0/-/crop/406x565/180,0/-/preview/
 firstName: Ryan
-collection: Emerging
+collection: Commercial Faces
 height: 178cm
 measurementType: chest
 bust: 105cm
