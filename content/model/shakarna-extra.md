@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Shakarna EXTRA
+title: Shakarna
 featuredImage: 'https://ucarecdn.com/fe85ca30-e9e0-46e1-95b3-027acd8abae1/'
 imageThumbnail: >-
   https://ucarecdn.com/7460eeb9-e006-45f8-9129-259c4c6160be/-/crop/1292x1856/331,82/-/preview/
-firstName: Shakarna EXTRA
-collection: Extras
+firstName: 'Shakarna '
+collection: Commercial Faces
 height: 162cm
 measurementType: bust
 bust: 107cm
