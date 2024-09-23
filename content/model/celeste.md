@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/cc82abd4-2976-46ce-8ebc-b840233bdd33/'
 imageThumbnail: >-
   https://ucarecdn.com/404602c4-c7a6-45f0-a6b5-a544ecebb7b1/-/crop/600x832/0,0/-/preview/
 firstName: Celeste
-collection: Classic
+collection: Commercial Faces
 height: 170cm
 measurementType: bust
 bust: 82cm
