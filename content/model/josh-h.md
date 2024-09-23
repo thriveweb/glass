@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/68266216-3b11-4be7-ac36-bbc863fa7e60/-/crop/589x793/550,348/-/preview/
 firstName: Josh H
-collection: Classic
+collection: Commercial Faces
 height: 167cm
 measurementType: chest
 bust: 114cm
