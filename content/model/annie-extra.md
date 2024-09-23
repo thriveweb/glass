@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/e499609f-9b5d-4c64-9918-501310bd154a/-/crop/455x656/6,37/-/preview/
 firstName: Annie
-collection: Extras
+collection: Emerging
 height: 5'5
 measurementType: bust
 bust: 31'
