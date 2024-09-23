@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/14f8e6b9-5251-4e58-8792-e86e2bc90a8a/-/crop/3638x3648/877,0/-/preview/
 firstName: Dale R
-collection: Classic
+collection: Commercial Faces
 height: 168cm
 measurementType: chest
 bust: 98cm
