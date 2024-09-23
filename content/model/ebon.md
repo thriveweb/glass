@@ -4,7 +4,7 @@ title: Ebon
 featuredImage: 'https://ucarecdn.com/34d5cbaf-9856-4f84-8976-6c55fe63c780/'
 imageThumbnail: 'https://ucarecdn.com/34580aa6-93ec-492e-bfc7-4b2aa45bb46d/'
 firstName: Ebon
-collection: Classic
+collection: Commercial Faces
 height: 167cm
 measurementType: chest
 bust: 88cm
