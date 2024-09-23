@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/c5af31ed-036e-45c7-8fb1-fbe738a47cb4/'
 imageThumbnail: >-
   https://ucarecdn.com/e31898c7-bfc7-46a2-940b-0a1dfb29fd66/-/crop/833x1173/349,0/-/preview/
 firstName: Sam
-collection: Classic
+collection: Commercial Faces
 height: 180cm
 measurementType: chest
 bust: 95cm
