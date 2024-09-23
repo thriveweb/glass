@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/82bb9ba4-9c73-4829-958b-3ca20aff56f8/-/crop/683x503/0,156/-/preview/
 imageThumbnail: 'https://ucarecdn.com/0f56e2f9-7ae8-47dd-82fd-926be8be3991/'
 firstName: Fomiyaaz
-collection: Classic
+collection: Commercial Faces
 height: 172cm
 measurementType: chest
 bust: 101cm
