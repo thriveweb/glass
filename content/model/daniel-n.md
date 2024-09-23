@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/5ff16b90-558a-4bda-b269-0f56ba2339e5/-/crop/264x370/175,38/-/preview/
 firstName: Daniel N
-collection: Classic
+collection: Commercial Faces
 height: 175cm
 measurementType: chest
 bust: 106cm
