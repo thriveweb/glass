@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/78898aeb-fb18-4dc9-b28c-473b849b6c6b/-/crop/4333x5846/416,0/-/preview/
 firstName: 'Lisa '
-collection: Classic
+collection: Commercial Faces
 size: '12'
 hair: Brown
 eyes: Brown
