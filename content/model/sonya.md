@@ -1,11 +1,12 @@
 ---
 template: ModelPage
-title: Sonya EXTRA
+title: Sonya
 featuredImage: >-
   https://ucarecdn.com/ffdbf1cd-30ce-47c0-a5e6-995020122ff7/-/crop/478x411/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/bee72b69-6bda-4db3-9459-9eab6ffd3d52/'
-firstName: Sonya EXTRA
-collection: Extras
+imageThumbnail: >-
+  https://ucarecdn.com/fd9d7718-529c-4f7a-a5ea-58f8360d060b/-/crop/518x631/18,0/-/preview/
+firstName: Sonya
+collection: Commercial Faces
 height: 178cm
 measurementType: bust
 bust: 98cm
