@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Ella EXTRA
+title: Ella
 featuredImage: 'https://ucarecdn.com/c9a48244-8f65-4c24-8e27-3bb8d8f4e19b/'
-imageThumbnail: 'https://ucarecdn.com/69d9de06-e361-463b-b89b-d8ec160a5714/'
-firstName: Ella EXTRA
-collection: Extras
+imageThumbnail: 'https://ucarecdn.com/d0868ac3-c4f0-4ea0-b7cc-1c746e274a47/'
+firstName: Ella
+collection: Commercial Faces
 height: 5'10
 measurementType: bust
 bust: 39'
