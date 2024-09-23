@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/c37d7b1b-7a6f-424e-9ffd-30c518618116/'
 imageThumbnail: >-
   https://ucarecdn.com/d9c784ea-8257-4bb4-aec0-22597194d2fa/-/crop/362x552/98,0/-/preview/
 firstName: Leah
-collection: Classic
+collection: Commercial Faces
 height: 168cm
 size: '8'
 shoeSize: '8'
