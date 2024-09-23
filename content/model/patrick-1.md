@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/d2bb3011-516a-4d1d-9455-4bb980af5e02/-/crop/615x866/558,120/-/preview/
 firstName: Patrick T
-collection: Classic
+collection: Commercial Faces
 size: XL/36
 hair: Black
 eyes: Brown
