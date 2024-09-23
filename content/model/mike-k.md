@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/9fe31adf-e754-4477-88f6-9717a6c3abf4/-/crop/1307x1905/224,0/-/preview/
 firstName: Mike K
-collection: Classic
+collection: Commercial Faces
 height: 179cm
 measurementType: chest
 bust: 104cm
