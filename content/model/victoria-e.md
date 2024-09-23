@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/437b87c7-4368-4549-b258-96594109097e/-/crop/1073x1300/329,46/-/preview/
 firstName: Victoria
-collection: Classic
+collection: Commercial Faces
 height: 178cm
 measurementType: bust
 bust: 105cm
