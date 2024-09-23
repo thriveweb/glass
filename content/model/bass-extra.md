@@ -4,7 +4,7 @@ title: Bass
 featuredImage: 'https://ucarecdn.com/e5cf65f9-52df-4d0e-9ee2-c3a9e4357880/'
 imageThumbnail: 'https://ucarecdn.com/0195e9e6-47e6-41f5-8c69-252ccdaaee9a/'
 firstName: Bass
-collection: Extras
+collection: Commercial Faces
 height: 5'11
 measurementType: chest
 bust: 101cm
