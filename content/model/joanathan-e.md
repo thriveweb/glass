@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/10cfd48b-9349-4eb9-aa7f-96982e7a6615/'
 imageThumbnail: >-
   https://ucarecdn.com/0b43a699-3761-462a-9ce2-88c4c7533eb6/-/crop/1082x1499/370,0/-/preview/
 firstName: Jonathan E
-collection: Classic
+collection: Commercial Faces
 height: 178cm
 measurementType: chest
 bust: 102cm
