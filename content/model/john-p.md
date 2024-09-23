@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/9a8e0af1-622b-46db-94dc-f017ca42e26c/-/crop/3380x4722/773,0/-/preview/
 firstName: John P
-collection: Classic
+collection: Commercial Faces
 height: 188cm
 measurementType: chest
 bust: 117cm
