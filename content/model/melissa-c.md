@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/31576e4b-16e2-41e1-a410-aa6d463cfd51/-/crop/1425x2147/194,0/-/preview/
 firstName: Melissa C
-collection: Classic
+collection: Commercial Faces
 height: 176cm
 measurementType: bust
 bust: 91cm
