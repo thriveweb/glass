@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f26b7284-a036-4a37-a97f-cd23fc1cc38c/-/crop/799x1116/437,164/-/preview/
 firstName: Lan
-collection: Classic
+collection: Commercial Faces
 height: 160cm
 measurementType: bust
 bust: 87cm
