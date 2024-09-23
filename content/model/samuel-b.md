@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/27a62e35-f0f6-4370-a8b2-0882e5cc2c14/-/crop/1531x2054/0,0/-/preview/
 firstName: Samuel B
-collection: Emerging
+collection: Commercial Faces
 height: 183cm
 measurementType: chest
 bust: 90cm
