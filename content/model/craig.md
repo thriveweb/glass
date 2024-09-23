@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/639887a5-c331-4f27-94db-ad9832054dac/-/crop/893x1224/307,95/-/preview/
 firstName: Craig
-collection: Classic
+collection: Commercial Faces
 height: 172cm
 measurementType: chest
 bust: 96cm
