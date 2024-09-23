@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/ddae7a63-7c7c-4ca6-942e-335696f6d857/-/crop/170x261/227,266/-/preview/
 firstName: Lisa S
-collection: Classic
+collection: Commercial Faces
 height: 185cm
 measurementType: bust
 bust: 99cm
