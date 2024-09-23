@@ -4,7 +4,7 @@ title: Carlo
 featuredImage: 'https://ucarecdn.com/68018785-1f77-4330-87de-da2a2100c816/'
 imageThumbnail: 'https://ucarecdn.com/31dcf0a3-8aa2-4ca8-8308-52c1bedfe387/'
 firstName: Carlo
-collection: Classic
+collection: Commercial Faces
 height: 169cm
 measurementType: chest
 bust: 112cm
