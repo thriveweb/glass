@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/afd4c6d6-cdbe-4fd8-97c3-1461d191c86d/'
 imageThumbnail: >-
   https://ucarecdn.com/cbe1c34a-d7c0-4152-a3ec-0bd36d66284e/-/crop/422x547/30,0/-/preview/
 firstName: Andy
-collection: Extras
+collection: Commercial Faces
 height: 183cm
 measurementType: chest
 bust: 101cm
