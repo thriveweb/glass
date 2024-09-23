@@ -21,7 +21,7 @@ gallery:
     - image: 'https://ucarecdn.com/23c4a88d-4ed5-4626-a613-664a7ee71a19/'
       title: Family
     - image: 'https://ucarecdn.com/e7f3818f-a1fb-4893-a4d3-985bdd0257be/'
-      title: Extras
+      title: Commercial Faces
     - image: >-
         https://ucarecdn.com/aee53728-d6a0-4682-b977-a29b5e30fe4b/-/crop/509x599/29,0/-/preview/
       title: Men
