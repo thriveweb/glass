@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/8636022f-0d01-4715-82be-8be9f3c33042/'
 featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: >-
-  https://ucarecdn.com/d7290d89-acc2-4bea-9935-e90bbe8f03cb/-/crop/1067x1558/104,33/-/preview/
+  https://ucarecdn.com/d7290d89-acc2-4bea-9935-e90bbe8f03cb/-/crop/1130x1606/104,33/-/preview/
 firstName: Maya A
 collection: Women
 height: 170cm
