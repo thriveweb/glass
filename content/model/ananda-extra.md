@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Ananda EXTRA
+title: Ananda
 featuredImage: 'https://ucarecdn.com/555caf50-2bdc-4273-9aed-06c63288142c/'
-imageThumbnail: 'https://ucarecdn.com/7af1344f-7013-48eb-ac12-5476ef52dfbc/'
-firstName: Ananda EXTRA
-collection: Extras
+imageThumbnail: 'https://ucarecdn.com/ec20f251-709c-445f-bace-13dfdd8bdd6c/'
+firstName: Ananda
+collection: Commercial Faces
 height: 180cm
 measurementType: chest
 bust: 100cm
