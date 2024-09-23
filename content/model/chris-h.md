@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/197d463e-65cd-4d2f-bff2-268873e2e31d/-/crop/3209x4159/1981,12/-/preview/
 firstName: Chris H
-collection: Classic
+collection: Commercial Faces
 height: 178cm
 measurementType: chest
 bust: 107cm
