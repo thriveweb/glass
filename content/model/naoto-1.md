@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/eaeab15c-a525-473e-bdd4-0c42b39caddb/-/crop/835x1088/60,0/-/preview/
 firstName: Naoto
-collection: Classic
+collection: Commercial Faces
 height: 183cm
 measurementType: chest
 bust: 37"
