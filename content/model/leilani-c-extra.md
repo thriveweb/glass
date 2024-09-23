@@ -1,10 +1,10 @@
 ---
 template: ModelPage
-title: Leilani C EXTRA
+title: 'Leilani C '
 featuredImage: 'https://ucarecdn.com/14ea4592-2af0-47a1-bbaf-b5010e8aea93/'
 imageThumbnail: 'https://ucarecdn.com/b043cbe1-25a9-464e-a699-46f93b937d18/'
-firstName: Leilani C EXTRA
-collection: Extras
+firstName: Leilani C
+collection: Commercial Faces
 height: 5'7
 measurementType: bust
 bust: 86cm
