@@ -4,7 +4,7 @@ title: 'Aimee '
 featuredImage: 'https://ucarecdn.com/cb3b1f76-7c6c-42f9-9f48-16bf2595d3d6/'
 imageThumbnail: 'https://ucarecdn.com/b48b5f50-bd06-4d3a-baa4-4335409efb22/'
 firstName: 'Aimee '
-collection: Extras
+collection: Commercial Faces
 height: 5'7
 measurementType: bust
 bust: 81cm
