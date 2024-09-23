@@ -2,9 +2,10 @@
 template: ModelPage
 title: Todd
 featuredImage: 'https://ucarecdn.com/826614c2-fcd2-4124-a91a-64a4b1b28a80/'
-imageThumbnail: 'https://ucarecdn.com/ae427789-7879-4649-a363-56e39973f7fc/'
+imageThumbnail: >-
+  https://ucarecdn.com/8b324704-773e-4bdd-8b0a-d69e6c97c12e/-/crop/607x826/85,0/-/preview/
 firstName: Todd
-collection: Extras
+collection: Commercial Faces
 height: 178cm
 measurementType: chest
 bust: 120cm
