@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b1c0eb33-9771-4ea1-8bfc-d9c17ddbe5bf/-/crop/796x1202/256,0/-/preview/
 firstName: Brittany M
-collection: Classic
+collection: Commercial Faces
 height: 165cm
 measurementType: bust
 bust: 87cm
