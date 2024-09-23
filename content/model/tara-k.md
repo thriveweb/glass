@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/986fde6c-46e9-401c-951b-811df9574142/-/crop/1490x2177/65,0/-/preview/
 firstName: Tara K
-collection: Classic
+collection: Commercial Faces
 height: 155cm
 measurementType: bust
 bust: 83cm
