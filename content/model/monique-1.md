@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/8ee2bda4-314f-4a50-8043-8a961c7fac22/'
 imageThumbnail: >-
   https://ucarecdn.com/ec37d94f-14ce-4935-89f9-1213efdbee2e/-/crop/1618x2076/0,0/-/preview/
 firstName: Monique
-collection: Classic
+collection: Commercial Faces
 height: 175cm
 measurementType: bust
 bust: 86cm
