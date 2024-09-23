@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/92935553-631e-473c-a276-921b6530f647/'
 imageThumbnail: >-
   https://ucarecdn.com/a36e296e-bf29-426b-bcd5-4b757ed0baa5/-/crop/1996x1441/97,149/-/preview/-/rotate/90/
 firstName: Angelina EXTRA
-collection: Extras
+collection: ''
 height: 166cm
 measurementType: bust
 bust: 80cm
