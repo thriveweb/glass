@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/e4929383-aca0-40b9-9dc8-26bde7f3751b/'
 imageThumbnail: >-
   https://ucarecdn.com/b1869a1a-b8b1-4911-b036-a6efecf22219/-/crop/846x1144/372,0/-/preview/
 firstName: Marcus
-collection: Classic
+collection: Commercial Faces
 height: 175cm
 measurementType: chest
 bust: 92cm
