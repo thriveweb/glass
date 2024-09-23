@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/eacf6016-65da-49c3-a176-87d021eb836b/-/crop/118x156/74,78/-/preview/
 firstName: Nathan S
-collection: Classic
+collection: Commercial Faces
 size: M/L - 34
 shoeSize: '9'
 hair: Silverfox
