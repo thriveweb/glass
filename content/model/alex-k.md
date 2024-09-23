@@ -4,7 +4,7 @@ title: 'Alex K '
 featuredImage: 'https://ucarecdn.com/db5eff49-3aa0-490e-9efb-8380b6c74514/'
 imageThumbnail: 'https://ucarecdn.com/601d629f-2c29-4238-ae56-c4884d17420c/'
 firstName: 'Alex K '
-collection: Extras
+collection: Commercial Faces
 height: 175cm
 measurementType: chest
 bust: 106cm
