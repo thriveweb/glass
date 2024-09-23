@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c02529ad-f524-4234-ab01-ab3230ab19cd/-/crop/1182x1646/268,0/-/preview/
 firstName: Susie
-collection: Classic
+collection: Actors
 height: 167cm
 measurementType: bust
 bust: 88cm
