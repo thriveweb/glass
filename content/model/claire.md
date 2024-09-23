@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/189f63c9-cd40-4e39-80cf-665115cb65bf/'
 imageThumbnail: >-
   https://ucarecdn.com/085a124d-fd37-4db2-b879-3e5b1723489a/-/crop/349x454/33,0/-/preview/
 firstName: 'Claire '
-collection: Classic
+collection: Commercial Faces
 height: 171cm
 measurementType: bust
 bust: 93cm
