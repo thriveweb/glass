@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/8b3fd3cc-b841-43ab-834c-1f2ba5a4c66c/-/crop/316x438/373,529/-/preview/
 firstName: Amanda J
-collection: Extras
+collection: Commercial Faces
 height: 165cm
 measurementType: bust
 bust: 100cm
