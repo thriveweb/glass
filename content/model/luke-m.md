@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/15b78478-1228-4178-bcb8-dac69361a694/-/crop/1100x1570/293,189/-/preview/
 firstName: Luke M
-collection: Classic
+collection: Commercial Faces
 height: 186cm
 measurementType: chest
 bust: '103cm '
