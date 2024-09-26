@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Valentina T
+title: AU Valentina T
 featuredImage: >-
   https://ucarecdn.com/4a4b6508-736b-457e-b9e0-5aa3d57bb2cd/-/crop/1650x776/0,51/-/preview/
 imageThumbnail: >-
