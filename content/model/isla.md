@@ -1,10 +1,9 @@
 ---
 template: ModelPage
 title: Isla
-featuredImage: >-
-  https://ucarecdn.com/6e196fb0-ffab-4e36-8e70-b9f844742879/-/crop/2448x1140/0,276/-/preview/
+featuredImage: 'https://ucarecdn.com/bbb093b1-89ad-434e-8097-2819b6652625/-/preview/'
 imageThumbnail: >-
-  https://ucarecdn.com/f78c53c3-fe42-46d7-92f9-66478b62deca/-/crop/948x1199/387,106/-/preview/
+  https://ucarecdn.com/199542d5-e1b9-4700-a841-efc7792f9ece/-/crop/625x956/73,26/-/preview/
 firstName: Isla
 collection: Girls
 height: 133cm
@@ -17,13 +16,13 @@ shoeSize: 12-1
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/ba8bd79c-c764-4bab-88cc-7ffff37e6caa/'
-  - image: 'https://ucarecdn.com/2a89a084-b7b4-4e29-8ba1-df8e5603136e/'
-  - image: 'https://ucarecdn.com/7a9436e6-ce23-448e-aa66-2c2b2c161752/'
-  - image: 'https://ucarecdn.com/5aee8c4b-cd26-471e-a1ef-de97402209e7/'
-  - image: 'https://ucarecdn.com/1a92e1e1-fe50-4497-81e7-992ff9bed1c9/'
-  - image: 'https://ucarecdn.com/15f931e8-4e15-4225-8e15-a6b10ea8fc9b/'
-  - image: 'https://ucarecdn.com/7ca643d7-061d-48e7-8a8f-c1693edc5ba4/'
-  - image: 'https://ucarecdn.com/6404b7b7-fe69-46bf-b56a-24f65281eae0/'
+  - image: 'https://ucarecdn.com/a134dcff-c1d0-47d0-b82f-046fe3a13037/'
+  - image: 'https://ucarecdn.com/fb80fd09-be6b-4536-95e0-3c54cbe77f19/'
+  - image: 'https://ucarecdn.com/8e78ca10-85ee-49ef-806a-51c4d2f2ddaa/'
+  - image: 'https://ucarecdn.com/26ae3ccd-dacc-43c5-92f4-b23702590bae/'
+  - image: 'https://ucarecdn.com/a91c5208-5e80-424f-9541-e88f022d6240/'
+  - image: 'https://ucarecdn.com/8cf72f21-61a5-4253-b845-c82961c92fda/'
+  - image: 'https://ucarecdn.com/86fb5319-cc24-4964-bc7d-e7f6289f39cc/'
+  - image: 'https://ucarecdn.com/a4d7269c-1f35-4300-9f4f-50b141a563ae/'
 ---
 
