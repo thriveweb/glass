@@ -11,7 +11,10 @@ height: 177cm
 measurementType: chest
 bust: 114cm
 waist: 97cm
+size: XL
 shoeSize: '8'
+hair: Silver Fox
+eyes: Hazel
 imagePortfolio:
   - image: 'https://ucarecdn.com/bf690414-0679-44b8-b21b-d4a253360808/'
   - image: 'https://ucarecdn.com/c2fda222-34af-4c2d-a23a-c8ed58301cb6/'
