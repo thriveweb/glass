@@ -1,10 +1,9 @@
 ---
 template: ModelPage
 title: Bailey M
-featuredImage: >-
-  https://ucarecdn.com/edafbcfd-7ebc-4ddc-b61f-2bedd2f19bb2/-/crop/2448x1188/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/b84120db-ce04-4990-b987-a52edccf51c3/'
 imageThumbnail: >-
-  https://ucarecdn.com/70d8cdca-bc16-493f-8be2-9d864a75655d/-/crop/1218x1933/193,156/-/preview/
+  https://ucarecdn.com/6ebe902b-8b4b-4f09-8800-58226cfd295c/-/crop/532x804/35,0/-/preview/
 firstName: Bailey M
 collection: Boys
 height: 154cm
@@ -17,11 +16,13 @@ shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/25f8ce7b-7cfa-4068-a161-095f4e123283/'
-  - image: 'https://ucarecdn.com/1ecf7305-f18c-41aa-ba4c-5f8dc6292b09/'
-  - image: 'https://ucarecdn.com/ecc5b737-950d-472d-ab97-848e661ca640/'
-  - image: 'https://ucarecdn.com/62defb8f-0c45-4b9b-b0de-1ab25787e73d/'
-  - image: 'https://ucarecdn.com/09adc2fb-41cf-411c-8612-aa9f436c9327/'
-  - image: 'https://ucarecdn.com/d7195f5f-9c6c-4cbc-a13c-a7dda96b8583/'
+  - image: 'https://ucarecdn.com/73c159b0-330b-4260-812f-93d3963bd780/'
+  - image: 'https://ucarecdn.com/e001b2cb-8cae-4b26-b397-44d8cbc1c33f/'
+  - image: 'https://ucarecdn.com/20cc6491-5ee3-40a2-8cda-cb37b9ff1a7b/'
+  - image: 'https://ucarecdn.com/ce18e80a-3571-4f32-943e-bc4b7994ac21/'
+  - image: 'https://ucarecdn.com/ee4a776c-e060-48fb-8675-d333742b93d6/'
+  - image: 'https://ucarecdn.com/26e8910f-5146-4a94-a204-a62b626d8c7a/'
+  - image: 'https://ucarecdn.com/baff3920-002a-43b7-a5d5-7e4370b09fbd/'
+  - image: 'https://ucarecdn.com/e4f0aedf-a70a-4cb2-9329-7c0a17f8186d/'
 ---
 
