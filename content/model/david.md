@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: David
-featuredImage: 'https://ucarecdn.com/01a7e0d5-dd87-49fb-a5ba-e9b3095bd1d1/'
+featuredImage: >-
+  https://ucarecdn.com/01a7e0d5-dd87-49fb-a5ba-e9b3095bd1d1/-/crop/1650x930/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/60f289b0-9d82-4ed0-b6ca-12e37ff60976/-/crop/617x866/50,28/-/preview/
 firstName: David
