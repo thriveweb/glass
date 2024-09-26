@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Tyler
-featuredImage: 'https://ucarecdn.com/d95e1b3b-26aa-4ef5-aea1-3ebdc4f3f609/'
+featuredImage: >-
+  https://ucarecdn.com/d95e1b3b-26aa-4ef5-aea1-3ebdc4f3f609/-/crop/1650x885/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/ed1544c5-79dc-49d8-bb46-c68886eb6fbf/-/crop/572x755/85,0/-/preview/
 firstName: Tyler
