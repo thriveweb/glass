@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Akito
+title: AaX Akito
 featuredImage: >-
   https://ucarecdn.com/dbe2fcc3-3f87-4552-8127-f4149aaedc5c/-/crop/1650x792/0,191/-/preview/
 imageThumbnail: >-
