@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Elisha
+title: AL Elisha
 featuredImage: >-
   https://ucarecdn.com/475ab333-be84-4792-a934-6c5fe834bee5/-/crop/1650x1008/0,0/-/preview/
 imageThumbnail: >-
