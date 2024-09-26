@@ -2,9 +2,9 @@
 template: ModelPage
 title: Valentina T
 featuredImage: >-
-  https://ucarecdn.com/2c2714c8-1a9f-4854-b45d-d7550d0b2167/-/crop/2005x1130/16,116/-/preview/
+  https://ucarecdn.com/4a4b6508-736b-457e-b9e0-5aa3d57bb2cd/-/crop/1650x776/0,51/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/5242a48f-f20c-4344-80c1-485192c51cc7/-/crop/286x377/454,38/-/preview/
+  https://ucarecdn.com/125c3e5a-5a3a-498d-a6e4-b7e65a850552/-/crop/733x981/0,0/-/preview/
 firstName: Valentina T
 collection: Girls
 height: 116cm
@@ -15,14 +15,19 @@ hips: 58cm
 size: '6'
 shoeSize: '8'
 imagePortfolio:
-  - image: 'https://ucarecdn.com/1470e1dc-b8a4-4acf-b8f5-2700eab5bd3d/'
-  - image: 'https://ucarecdn.com/9a27312a-af05-4f10-b5c5-6b1c3a1b4f46/'
-  - image: 'https://ucarecdn.com/1d6d344f-77a8-4453-b088-cf38e623ef6c/'
-  - image: 'https://ucarecdn.com/e562d987-2dca-4203-9419-b8b534020238/'
-  - image: 'https://ucarecdn.com/a36356de-0b26-4c64-9325-857ddc154564/'
+  - image: 'https://ucarecdn.com/064d922d-d170-4353-a0dc-e64f4c6c92b0/'
+  - image: >-
+      https://ucarecdn.com/9aaf05b4-25f4-4608-bfe8-3ec7e31c9336/-/crop/733x1008/0,92/-/preview/
   - image: 'https://ucarecdn.com/d3098d3c-3017-4dee-85d9-e258691fc59d/'
-  - image: 'https://ucarecdn.com/7854a1f6-086f-482b-b52c-171d1220c02f/'
-  - image: 'https://ucarecdn.com/83ad5eb7-726f-4002-91ea-7dc0de65fc3b/'
-  - image: 'https://ucarecdn.com/8e9d9dc2-9669-4cfb-b242-1bcdaf5ec32c/'
+  - image: 'https://ucarecdn.com/360e29c3-d82d-42fd-a823-8bd5f19b0678/'
+  - image: 'https://ucarecdn.com/bc393c11-f377-49fb-83a1-9253a376f636/'
+  - image: 'https://ucarecdn.com/1470e1dc-b8a4-4acf-b8f5-2700eab5bd3d/'
+  - image: 'https://ucarecdn.com/bb7b9ad6-4cae-4dc1-bb07-6794ff180e6b/'
+  - image: 'https://ucarecdn.com/58af4c24-9023-41db-8b3a-384e98c85ff3/'
+  - image: >-
+      https://ucarecdn.com/018b07ea-b7c5-43dd-a8f3-d8fb9540ebc6/-/crop/733x1059/0,41/-/preview/
+  - image: 'https://ucarecdn.com/253a044a-e54f-4a25-b9d4-7d6c79b15477/'
+  - image: 'https://ucarecdn.com/1d6d344f-77a8-4453-b088-cf38e623ef6c/'
+  - image: 'https://ucarecdn.com/d984c6c7-4532-4b0d-be91-ab400c3dcfde/'
 ---
 
