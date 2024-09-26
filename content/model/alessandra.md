@@ -2,9 +2,9 @@
 template: ModelPage
 title: Alessandra
 featuredImage: >-
-  https://ucarecdn.com/c065943c-b756-4366-a56f-619a0a11a767/-/crop/2059x1148/0,116/-/preview/
+  https://ucarecdn.com/f2800b3e-b96f-413b-940c-f2aea955bc6d/-/crop/1650x773/0,48/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/cbda32c6-a751-469c-a6ab-5137ed57ab9d/-/crop/1560x1934/33,0/-/preview/
+  https://ucarecdn.com/384e7206-2769-461e-9f47-7eb41cc601d8/-/crop/650x885/32,0/-/preview/
 firstName: Alessandra
 collection: Girls
 height: 135cm
@@ -17,17 +17,16 @@ shoeSize: US 3
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/420321d1-f211-41a5-a245-f7478ec5933a/'
-  - image: 'https://ucarecdn.com/1e5e2b6e-3826-48c2-a105-a3d0bee9b5d0/'
+  - image: >-
+      https://ucarecdn.com/77ae94cd-7c55-416e-bb31-dbd26ccdaba7/-/crop/1522x1100/128,0/-/preview/
+  - image: 'https://ucarecdn.com/a662d63c-0d78-47dc-826e-81c26b8fe541/'
+  - image: 'https://ucarecdn.com/a62ab3b5-7ff1-4769-9f96-4dec3310a27a/'
+  - image: 'https://ucarecdn.com/4777ed3c-53e9-4a66-a82e-30da28ab216d/'
+  - image: 'https://ucarecdn.com/09b6d8cc-5f52-4d9f-b65d-ef1a4d86b870/'
+  - image: 'https://ucarecdn.com/a90eb0f6-4cbd-4370-acbf-1b12e666b207/'
   - image: 'https://ucarecdn.com/8763d5a0-ccdd-4cb2-b5f8-74a5e181ef4f/'
-  - image: 'https://ucarecdn.com/5ffb8694-e5b6-4107-ae39-f7fd6ea5af31/'
-  - image: 'https://ucarecdn.com/c5260371-2e6d-46a9-baff-8b5821631e34/'
-  - image: 'https://ucarecdn.com/a9658bee-ce56-4f08-ae83-16bc3d40a713/'
-  - image: 'https://ucarecdn.com/06b48c3a-2a83-478c-afd4-494e684c04b8/'
-  - image: 'https://ucarecdn.com/940a3a16-f014-4646-aaf3-1dabfe76824b/'
-  - image: 'https://ucarecdn.com/36dc0224-b8ea-4412-b406-0157ff504459/'
-  - image: 'https://ucarecdn.com/07874038-f0cb-4db1-a11b-39ddd905aa71/'
-  - image: 'https://ucarecdn.com/46334ce9-0ffe-4f09-b442-00a97fc042a0/'
-  - image: 'https://ucarecdn.com/80fc780d-105b-403a-8eef-678aae0c939f/'
+  - image: 'https://ucarecdn.com/f5b95a74-464e-44d0-8bab-ed320227a24e/'
+  - image: 'https://ucarecdn.com/9a5c3f85-aa4c-4671-8437-b390886b7d9d/'
+  - image: 'https://ucarecdn.com/420321d1-f211-41a5-a245-f7478ec5933a/'
 ---
 
