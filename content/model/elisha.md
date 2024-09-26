@@ -2,7 +2,7 @@
 template: ModelPage
 title: AL Elisha
 featuredImage: >-
-  https://ucarecdn.com/475ab333-be84-4792-a934-6c5fe834bee5/-/crop/1650x1008/0,0/-/preview/
+  https://ucarecdn.com/475ab333-be84-4792-a934-6c5fe834bee5/-/crop/1650x849/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/0b16ce2d-f2b4-4f5e-9586-8a1698c501fe/-/crop/617x915/45,5/-/preview/
 firstName: Elisha
