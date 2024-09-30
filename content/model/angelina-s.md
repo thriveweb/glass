@@ -4,7 +4,7 @@ title: Angelina S
 featuredImage: >-
   https://ucarecdn.com/74dffdf8-6649-469d-88d9-f52cef30fead/-/crop/1650x824/0,67/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/2cb91b1a-11bf-43b4-9faf-4d25c984b173/-/crop/287x398/188,73/-/preview/
+  https://ucarecdn.com/8ce714b9-c20b-4361-8d61-a1b9ac5c3135/-/crop/584x813/76,0/-/preview/
 firstName: Angelina S
 collection: Emerging
 height: 166cm
