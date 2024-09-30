@@ -9,10 +9,10 @@ firstName: Llena
 collection: Emerging
 height: 175cm
 measurementType: bust
-bust: 91cm
-waist: 75cm
-hips: 102cm
-size: '10'
+bust: 102cm
+waist: 90cm
+hips: 109cm
+size: 12-14
 shoeSize: '10'
 hair: Black
 eyes: Brown
