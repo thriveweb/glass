@@ -4,7 +4,7 @@ title: BR Louie G
 featuredImage: >-
   https://ucarecdn.com/ba161a49-da21-445b-b198-dadcb3884c07/-/preview/-/rotate/270/
 imageThumbnail: >-
-  https://ucarecdn.com/3d50b89e-5e24-46be-85e3-dd96e53e0fdb/-/crop/878x1340/146,0/-/preview/
+  https://ucarecdn.com/2f8072ba-1f54-4af1-975f-24098692842a/-/crop/1467x2192/255,0/-/preview/
 firstName: Louie G
 collection: Men
 height: 184cm
@@ -17,12 +17,13 @@ shoeSize: 11-12
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/0a85a3d4-6e94-43b6-a85d-7e39faf71fc9/'
+  - image: 'https://ucarecdn.com/17e7bd0e-3c81-4e5b-a3f3-7f290503e741/'
   - image: 'https://ucarecdn.com/6a7f4978-95e4-40bc-9d30-e5f60a463032/'
   - image: 'https://ucarecdn.com/d889ed91-035f-4c00-869e-e6ef012de7b6/'
-  - image: 'https://ucarecdn.com/29780ec2-383a-4211-a82e-660c248ed1e3/'
+  - image: 'https://ucarecdn.com/21c4b1d7-e026-4c3f-b70f-ecfe332c4459/'
   - image: 'https://ucarecdn.com/ae1d89e8-0923-4ccf-bd79-b1a3b21e82dc/'
   - image: 'https://ucarecdn.com/8b3330e5-03ed-4c82-b0ec-f47eb23e34ba/'
+  - image: 'https://ucarecdn.com/50e970fa-c462-4577-846d-e84609ea7fa8/'
   - image: 'https://ucarecdn.com/6b8cc492-a57e-4e9a-acd3-43ffae101829/'
   - image: 'https://ucarecdn.com/32c89b67-01c2-4d0f-a5f2-e5e56311d3fe/'
   - image: 'https://ucarecdn.com/d4563748-c4ab-4498-b98e-2deba762f25c/'
@@ -32,7 +33,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/5feacfe9-275b-4e94-9f57-a5f39d94a124/'
   - image: 'https://ucarecdn.com/040715a3-5fb0-4dbb-be5f-84c845828298/'
   - image: 'https://ucarecdn.com/06a0b8c6-33fe-469a-bab7-b0041c3a5c26/'
-  - image: 'https://ucarecdn.com/0167e0fb-d669-4294-ba9f-7478cfabecf3/'
   - image: 'https://ucarecdn.com/2296b27e-764d-4e87-9d99-f185d6ed6118/'
   - image: 'https://ucarecdn.com/0f1c1346-c902-4e6d-9e98-6248f3ffd04c/'
   - image: 'https://ucarecdn.com/c97cb8a7-1b1d-4755-bb34-06ecbffb3c52/'
@@ -42,6 +42,5 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/6209857f-0634-4597-b8b5-52fea221bf2c/'
   - image: >-
       https://ucarecdn.com/ef328028-264d-4c7d-9680-7216cfe105b1/-/crop/927x328/57,0/-/preview/
-  - image: 'https://ucarecdn.com/eb50466b-593c-4cd6-a2c8-934d98aaf129/'
 ---
 
