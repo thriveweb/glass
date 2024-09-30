@@ -2,7 +2,7 @@
 template: ModelPage
 title: Reid
 featuredImage: >-
-  https://ucarecdn.com/331594ee-2ecd-44e1-9728-d08e46b93f12/-/crop/1650x918/0,0/-/preview/
+  https://ucarecdn.com/331594ee-2ecd-44e1-9728-d08e46b93f12/-/crop/1650x872/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/9523fd64-1d8c-4e07-8de0-69865b987fa5/-/crop/682x955/0,12/-/preview/
 firstName: Reid
