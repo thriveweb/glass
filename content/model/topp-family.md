@@ -10,9 +10,7 @@ collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/8fdf5ba5-19b9-4161-aaf4-a1d2092f39a5/'
   - image: 'https://ucarecdn.com/25a4aecc-aedb-4acf-8248-63f0af022ee4/'
-  - image: 'https://ucarecdn.com/32f9cc99-e766-4e29-ada3-ea741c31478d/'
   - image: 'https://ucarecdn.com/e387b73c-e93d-4fc9-b49e-8a2f5c7c5925/'
-  - image: 'https://ucarecdn.com/9a8c55e2-f4d7-42c2-87e5-0524ef60369f/'
   - image: 'https://ucarecdn.com/641fb2ae-8caf-4975-89bb-488b7f434599/'
   - image: 'https://ucarecdn.com/139eca46-35de-4d0e-9597-4ac329659874/'
 ---
