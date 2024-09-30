@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Nicholson Family
-featuredImage: 'https://ucarecdn.com/f0b98517-d7fe-4e14-9181-fb37b29c6b77/'
+featuredImage: >-
+  https://ucarecdn.com/f0b98517-d7fe-4e14-9181-fb37b29c6b77/-/crop/1650x999/0,3/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/575df24b-670d-4677-bf5a-935bcd3c3db6/-/crop/692x990/619,84/-/preview/
 firstName: Nicholson Family
