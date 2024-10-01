@@ -8,9 +8,9 @@ firstName: Christiaan
 collection: Classic
 height: 179cm
 measurementType: chest
-bust: 93cm
-waist: 76cm
-hips: 95cm
+bust: 98cm
+waist: 85cm
+hips: 100cm
 size: 'Pant: 34 / Shirt: M'
 shoeSize: '10'
 hair: Brown
