@@ -1,9 +1,10 @@
 ---
 template: ModelPage
-title: Annabelle
+title: AB Annabelle
 featuredImage: >-
   https://ucarecdn.com/08f55eeb-bb2c-41de-adfb-9321c345f07a/-/crop/2449x1204/0,274/-/preview/
-imageThumbnail: 'https://ucarecdn.com/776c7974-67fc-487e-9e36-a738263e1fff/'
+imageThumbnail: >-
+  https://ucarecdn.com/776c7974-67fc-487e-9e36-a738263e1fff/-/crop/1280x1610/0,0/-/preview/
 firstName: Annabelle
 collection: Classic
 height: 165cm
