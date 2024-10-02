@@ -9,7 +9,7 @@ height: 175cm
 measurementType: chest
 bust: 116cm
 waist: 97cm
-size: 'Shirt: 42(L) Pants: 36-37 Suit: 44'
+size: 'Shirt: (L) Pants: 38 Suit: 44'
 shoeSize: '8.5'
 hair: Light Brown
 eyes: Blue/Grey
