@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: AN Abigail
+title: ALN Abigail
 featuredImage: >-
   https://ucarecdn.com/18634698-0398-4823-bad8-b6590cca3c56/-/crop/766x521/29,0/-/preview/
 imageThumbnail: >-
