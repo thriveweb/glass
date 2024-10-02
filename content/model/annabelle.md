@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: AB Annabelle
+title: AM Annabelle
 featuredImage: >-
   https://ucarecdn.com/08f55eeb-bb2c-41de-adfb-9321c345f07a/-/crop/2449x1204/0,274/-/preview/
 imageThumbnail: >-
