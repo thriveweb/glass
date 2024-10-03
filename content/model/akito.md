@@ -4,7 +4,7 @@ title: AaX Akito
 featuredImage: >-
   https://ucarecdn.com/dbe2fcc3-3f87-4552-8127-f4149aaedc5c/-/crop/1650x792/0,191/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/02a407e5-0430-4f21-9a3c-78237b067c7b/-/crop/593x911/73,19/-/preview/
+  https://ucarecdn.com/02a407e5-0430-4f21-9a3c-78237b067c7b/-/crop/545x789/109,28/-/preview/
 firstName: Akito
 collection: Boys
 height: 129cm
