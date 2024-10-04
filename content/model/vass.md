@@ -12,7 +12,7 @@ measurementType: chest
 bust: 105cm
 waist: 90cm
 hips: 105cm
-size: '42'
+size: 'XL/36 '
 shoeSize: 10.5 US
 hair: Brown
 eyes: Brown
