@@ -13,6 +13,7 @@ bust: 114cm
 waist: 91cm
 hips: 104cm
 size: '42'
+shoeSize: 10.5 US
 hair: Brown
 eyes: Brown
 imagePortfolio:
