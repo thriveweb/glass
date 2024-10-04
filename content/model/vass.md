@@ -9,9 +9,9 @@ firstName: Vass
 collection: Commercial Faces
 height: 178cm
 measurementType: chest
-bust: 114cm
-waist: 91cm
-hips: 104cm
+bust: 105cm
+waist: 90cm
+hips: 105cm
 size: '42'
 shoeSize: 10.5 US
 hair: Brown
