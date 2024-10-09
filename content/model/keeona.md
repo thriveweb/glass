@@ -7,6 +7,10 @@ imageThumbnail: >-
   https://ucarecdn.com/2173acd0-85e1-4297-99e3-804fba3110ca/-/crop/1627x2212/0,0/-/preview/
 firstName: Keeona
 collection: Girls
+height: 135cm
+measurementType: bust
+waist: 59cm
+hips: 70cm
 size: '8'
 shoeSize: '2'
 hair: Brown
