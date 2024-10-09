@@ -9,6 +9,7 @@ firstName: Keeona
 collection: Girls
 height: 135cm
 measurementType: bust
+bust: 63cm
 waist: 59cm
 hips: 70cm
 size: '8'
