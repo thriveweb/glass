@@ -2,9 +2,9 @@
 template: ModelPage
 title: 'BB Willow '
 featuredImage: >-
-  https://ucarecdn.com/0ba53b71-8901-475b-9eb8-0b42b84555e9/-/crop/640x330/0,68/-/preview/
+  https://ucarecdn.com/55660285-9f24-4e82-9a31-fef201f6a6b5/-/crop/7957x4092/0,559/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/cfc3d74a-ca48-4bb7-9815-b3c8d7b57855/-/crop/299x390/144,0/-/preview/
+  https://ucarecdn.com/282d28ca-c7b7-4502-9a08-4a6bf4ffd84b/-/crop/1010x1495/649,0/-/preview/
 firstName: Willow
 collection: Emerging
 height: 167cm
@@ -17,16 +17,15 @@ shoeSize: '7'
 hair: Blonde
 eyes: 'Hazel '
 imagePortfolio:
-  - image: 'https://ucarecdn.com/b500aa67-58c2-41d9-ba46-2cad8f7d9dd3/'
-  - image: >-
-      https://ucarecdn.com/6b61c447-873d-4231-8a59-010ab90a4294/-/crop/354x604/24,0/-/preview/
+  - image: 'https://ucarecdn.com/a1b8db75-f2c8-41a0-b4e3-4a826626fdb1/'
+  - image: 'https://ucarecdn.com/c76e47bb-ea25-4229-93f6-cb9f0925e992/'
   - image: 'https://ucarecdn.com/6f7e2430-ad26-4c34-aeaa-ea184efda1f0/'
-  - image: 'https://ucarecdn.com/6a48b2c3-dac7-4644-81ca-4fe449690f00/'
-  - image: 'https://ucarecdn.com/c3d32bb2-cc77-4de5-9440-c5ef0ba9e8a2/'
+  - image: 'https://ucarecdn.com/872c18b5-c2d7-4b81-98a1-a8a145d5ed65/'
+  - image: 'https://ucarecdn.com/3d44db23-35d3-4621-9f3b-1e295895eaad/'
   - image: 'https://ucarecdn.com/b1954129-fefd-490a-8a71-08ac55a0ff22/'
-  - image: 'https://ucarecdn.com/94bec6e3-d9dd-40db-b9f1-0587f4005980/'
+  - image: 'https://ucarecdn.com/be17a9df-a7e6-489e-96b0-3f10f462dfc9/'
   - image: 'https://ucarecdn.com/72652b05-62a4-4872-a427-da9d3e83c5bd/'
-  - image: 'https://ucarecdn.com/2af0b840-15fc-40ce-8971-62d79f1091f3/'
+  - image: 'https://ucarecdn.com/8f7eb133-1b76-44f1-a9ca-9bf417700bc8/'
 meta:
   canonicalLink: '   Image (optional)  Choose different image Remove image   Image (optional)  Choose different image Remove image   Image (optional)  Choose different image Remove image   Image (optional)  Choose different image Remove image'
 ---
