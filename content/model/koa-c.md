@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/dabcac4a-8602-48be-8a99-aeb37489017b/-/crop/600x787/42,7/-/preview/
 firstName: Koa C
 collection: Boys
-height: 112cm
+height: 118cm
 measurementType: chest
 bust: 60cm
 waist: 56cm
