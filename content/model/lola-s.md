@@ -9,11 +9,11 @@ firstName: Lola S
 collection: Girls
 height: 144cm
 measurementType: bust
-bust: 70cm
-waist: 55cm
-hips: 69cm
+bust: 74cm
+waist: 57cm
+hips: 68cm
 size: '10'
-shoeSize: 4 woman
+shoeSize: 5 Women's
 hair: Blonde
 eyes: Blue
 imagePortfolio:
