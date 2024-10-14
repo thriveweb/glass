@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Genevieve
-featuredImage: 'https://ucarecdn.com/8002907a-3796-47fa-b9b4-903144b105fa/'
+featuredImage: >-
+  https://ucarecdn.com/8002907a-3796-47fa-b9b4-903144b105fa/-/crop/800x370/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/f02bb28d-2468-4ccf-b8ea-c66ed46a944f/-/crop/1593x2228/78,81/-/preview/
 firstName: Genevieve
