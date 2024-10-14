@@ -4,7 +4,7 @@ title: Lola S
 featuredImage: >-
   https://ucarecdn.com/4d5d4583-3612-4012-84f9-bc9dd60ec9bd/-/crop/1200x568/0,129/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/83c9a03a-eb8c-4897-9199-6f4918963349/-/crop/554x798/592,259/-/preview/
+  https://ucarecdn.com/061f82b3-0b73-474f-979c-3fb86e0ccc57/-/crop/746x936/471,341/-/preview/
 firstName: Lola S
 collection: Girls
 height: 144cm
