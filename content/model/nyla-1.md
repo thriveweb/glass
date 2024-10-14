@@ -12,8 +12,8 @@ measurementType: bust
 bust: 55cm
 waist: 60cm
 hips: 55cm
-size: '3'
-shoeSize: 8-10
+size: '4'
+shoeSize: '10'
 hair: Brown
 eyes: Brown
 imagePortfolio:
