@@ -2,7 +2,7 @@
 template: ModelPage
 title: Kelly B
 featuredImage: >-
-  https://ucarecdn.com/a171a47b-d09e-4215-b9f5-c87ea5bea502/-/crop/2426x1292/6,314/-/preview/
+  https://ucarecdn.com/a171a47b-d09e-4215-b9f5-c87ea5bea502/-/crop/2426x1280/6,230/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2fae6ae1-e156-4026-8df0-8846e3e6c337/-/crop/869x1248/636,228/-/preview/
 firstName: Kelly B
