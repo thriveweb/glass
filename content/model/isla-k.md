@@ -5,12 +5,12 @@ featuredImage: 'https://ucarecdn.com/7ae710f6-040d-439c-be8f-ec9e4369a4b4/'
 imageThumbnail: 'https://ucarecdn.com/3ad77095-d1e8-4f2f-938b-b4ba3a0e8efa/'
 firstName: Isla K
 collection: Girls
-height: 125cm
+height: 130cm
 measurementType: bust
-bust: 60cm
-waist: 56cm
-hips: 64cm
-size: '6'
+bust: 61cm
+waist: 51cm
+hips: 65cm
+size: '8'
 shoeSize: 13-1
 hair: Brown
 eyes: Light Brown
