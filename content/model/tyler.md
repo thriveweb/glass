@@ -14,6 +14,8 @@ waist: 57cm
 hips: 60cm
 size: '6'
 shoeSize: '12'
+hair: Ginger
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/8a1c7d9c-25bd-49f0-8385-7958bd1f73d6/'
   - image: 'https://ucarecdn.com/efc2dd08-afdd-4ad3-87c1-91eb5a061818/'
