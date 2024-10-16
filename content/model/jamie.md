@@ -4,7 +4,7 @@ title: 'Jamie '
 featuredImage: >-
   https://ucarecdn.com/90cd3ab8-9dc1-4a03-93b7-8b9b90ad5644/-/crop/1793x952/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/272be450-740b-4abf-ad4b-2fb3e4dd580b/-/crop/986x1386/323,0/-/preview/
+  https://ucarecdn.com/55f82073-0811-4a46-bd07-4b56704427e1/-/crop/1013x1494/310,49/-/preview/
 firstName: Jamie
 collection: Emerging
 height: 194cm
