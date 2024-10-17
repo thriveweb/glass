@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/9a73c0bc-aac3-43f9-98d7-991fb7d07ab0/-/crop/1486x1365/321,0/-/preview/
 firstName: Viv
-collection: Boys
+collection: Emerging
 height: 168cm
 measurementType: chest
 bust: 78cm
