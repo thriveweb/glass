@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/9a73c0bc-aac3-43f9-98d7-991fb7d07ab0/-/crop/1486x1365/321,0/-/preview/
 firstName: Viv
 collection: Boys
-height: 160cm
+height: 168cm
 measurementType: chest
 bust: 75cm
 waist: 65cm
