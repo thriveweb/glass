@@ -13,7 +13,7 @@ bust: 78cm
 waist: 66cm
 hips: 86cm
 size: 10-12
-shoeSize: Mens 8
+shoeSize: '11'
 hair: Brown
 eyes: Blue
 imagePortfolio:
