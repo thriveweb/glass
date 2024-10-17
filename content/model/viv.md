@@ -12,7 +12,7 @@ measurementType: chest
 bust: 78cm
 waist: 66cm
 hips: 86cm
-size: 10-12
+size: Small
 shoeSize: '11'
 hair: Brown
 eyes: Blue
