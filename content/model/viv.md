@@ -9,9 +9,9 @@ firstName: Viv
 collection: Boys
 height: 168cm
 measurementType: chest
-bust: 75cm
-waist: 65cm
-hips: 82cm
+bust: 78cm
+waist: 66cm
+hips: 86cm
 size: 10-12
 shoeSize: Mens 8
 hair: Brown
