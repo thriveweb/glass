@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Hammerich Family
-featuredImage: 'https://ucarecdn.com/8a30367f-e585-4749-8c6b-7e0d156db2a6/'
+featuredImage: >-
+  https://ucarecdn.com/5b7d426c-a5fb-441b-abde-3d88d6415c3f/-/crop/1079x550/0,6/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/4d3abcbe-9f85-463c-813e-dc5e10c0ff69/-/crop/1392x1806/71,271/-/preview/
 firstName: Hammerich Family
