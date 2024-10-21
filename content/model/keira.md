@@ -2,7 +2,7 @@
 template: ModelPage
 title: Keira
 featuredImage: >-
-  https://ucarecdn.com/b879a01a-fc78-4a0e-917f-fd73c32dd5fd/-/crop/1633x1464/0,0/-/preview/
+  https://ucarecdn.com/085234ba-73bb-4d53-882f-e7ce8f76ec37/-/crop/1632x1106/0,109/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/4f69552c-adac-4361-a3b1-418928b4f883/-/crop/1411x2188/130,73/-/preview/
 firstName: Keira
