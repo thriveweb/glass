@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f7427964-1311-442d-ab3c-234677c3377a/-/crop/807x1100/508,0/-/preview/
 firstName: Koa
-collection: Boys
+collection: ''
 height: 112cm
 measurementType: chest
 bust: 55cm
