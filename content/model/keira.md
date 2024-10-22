@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/4f69552c-adac-4361-a3b1-418928b4f883/-/crop/1411x2188/130,73/-/preview/
 firstName: Keira
-collection: Girls
+collection: Emerging
 height: 150cm
 measurementType: bust
 bust: 73cm
