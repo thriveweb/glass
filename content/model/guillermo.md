@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/112ca11f-2216-4a73-b7e0-504a01e1684c/-/crop/581x769/221,209/-/preview/
 firstName: Guillermo
 collection: Classic
-height: 179cm
+height: 180cm
 measurementType: chest
 bust: 102cm
 waist: 96cm
