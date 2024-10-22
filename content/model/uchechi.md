@@ -13,7 +13,7 @@ bust: 107cm
 waist: 87cm
 hips: 113cm
 size: '14'
-shoeSize: '41'
+shoeSize: '10'
 hair: Black
 eyes: Brown
 imagePortfolio:
