@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/bc7fd9f1-db42-4138-acc7-44a3f2a848fc/-/crop/388x554/61,0/-/preview/
 firstName: Sienna N
 collection: Emerging
-height: 173cm
+height: 175cm
 measurementType: bust
-bust: 84cm
-waist: 65cm
-hips: 92cm
+bust: 83cm
+waist: 67cm
+hips: 96cm
 size: 6-8
 shoeSize: '8'
 hair: Brown
