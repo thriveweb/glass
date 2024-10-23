@@ -3,7 +3,8 @@ template: ModelPage
 title: Jo Blessed
 featuredImage: >-
   https://ucarecdn.com/9e7db059-560d-4d4a-95cc-e54561ee0ef0/-/crop/1030x602/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/dcd85641-0050-46b2-994c-a9ddef5b257f/'
+imageThumbnail: >-
+  https://ucarecdn.com/ce3fb1ec-7a8d-44ca-b28e-17d4b9e05072/-/crop/122x163/177,26/-/preview/
 firstName: Blessed
 collection: Women
 height: 178cm
