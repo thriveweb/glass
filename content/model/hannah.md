@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: 'Hannah '
+title: Hannah Z
 featuredImage: >-
   https://ucarecdn.com/1f4ffdea-b810-4f3c-a9b9-9dbecb9dbe26/-/crop/1179x859/0,202/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/68c168b8-614a-4d96-850f-29f69382c046/-/crop/1572x2034/138,0/-/preview/
-firstName: Hannah
+firstName: Hannah Z
 collection: Girls
 height: 122cm
 measurementType: bust
