@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/2f3b67eb-9dc1-4e78-b60c-7fcebdbc75a7/-/crop/1054x1480/292,235/-/preview/
 firstName: Rodrigo
-collection: Commercial Faces
+collection: Classic
 height: 183cm
 measurementType: bust
 bust: 98cm
