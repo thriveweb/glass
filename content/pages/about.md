@@ -2,7 +2,7 @@
 template: AboutPage
 slug: about
 featuredImage: >-
-  https://ucarecdn.com/bc93cd07-ee93-4f55-83bc-8bbf900fa89a/-/crop/1650x905/0,14/-/preview/
+  https://ucarecdn.com/f50e50c2-98c6-4e26-a5ee-da95934364cd/-/crop/733x508/0,35/-/preview/
 subTitle: ''
 title: About Us
 teamMembers:
@@ -36,7 +36,7 @@ teamMembers:
       energetic personality means it's always exciting times ahead for Glass
       Management and always a new idea around the corner!
     image: >-
-      https://ucarecdn.com/09a4b9c6-655f-4c24-b9aa-a81d04c4eff4/-/crop/1445x1800/0,0/-/preview/
+      https://ucarecdn.com/9c627cc6-cb1e-4076-b385-e588dc682ae6/-/crop/614x669/0,0/-/preview/
     leftAlign: true
     subTitle: Director
     title: Tegan Glass
@@ -51,17 +51,13 @@ teamMembers:
       Emily also handles all of Glass Management's payment for talent and
       payroll queries.
     image: >-
-      https://ucarecdn.com/c0cab0ee-c711-43c0-8f1a-c0f53791cd38/-/crop/628x741/0,17/-/preview/
+      https://ucarecdn.com/ce647df9-0486-44c3-afcf-48c5210ffd1d/-/crop/733x786/0,0/-/preview/
     subTitle: OFFICE MANAGER
     title: Emily
-  - image: >-
-      https://ucarecdn.com/50bc2f9d-6a21-45c2-8df5-fa3a19931aaa/-/crop/578x770/79,15/-/preview/
-    leftAlign: true
-    subTitle: ''
   - leftAlign: false
     title: Maya
     image: >-
-      https://ucarecdn.com/47422926-2243-4521-a17c-857226d11302/-/crop/487x574/62,9/-/preview/
+      https://ucarecdn.com/2e8ab272-e17d-47e5-9822-fdf1837a0366/-/crop/733x871/0,0/-/preview/
     subTitle: Model Mentor and Coach
     content: >-
       Meet Maya
@@ -77,7 +73,7 @@ teamMembers:
       films and assists Talent with their Media Requests.
   - leftAlign: true
     image: >-
-      https://ucarecdn.com/0920ec8f-36bb-44d4-b55e-8950265c5bc2/-/crop/619x682/62,0/-/preview/
+      https://ucarecdn.com/a2f5a639-7f87-4ae5-a3d2-12161e7ce89c/-/crop/733x819/0,0/-/preview/
     title: ''
   - leftAlign: false
     title: Tyra
