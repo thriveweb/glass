@@ -4,7 +4,7 @@ title: Sienna N
 featuredImage: >-
   https://ucarecdn.com/d19415e5-52fb-4961-8204-91020b783444/-/crop/1650x922/0,132/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/bc7fd9f1-db42-4138-acc7-44a3f2a848fc/-/crop/388x554/61,0/-/preview/
+  https://ucarecdn.com/958012a6-9683-427a-8f06-1f6b1d96cb99/-/crop/607x920/63,13/-/preview/
 firstName: Sienna N
 collection: Emerging
 height: 175cm
