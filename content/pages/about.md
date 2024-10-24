@@ -94,8 +94,7 @@ teamMembers:
     content: "Meet Sienna\n\nS\uFEFFienna focuses on updating our systems and talents details and profiles.  \n\nA\uFEFFs well as this, she assists in our Kid's Acting and Modelling classes."
     subTitle: Trainee
   - leftAlign: true
-    image: >-
-      https://ucarecdn.com/a2f5a639-7f87-4ae5-a3d2-12161e7ce89c/-/crop/733x819/0,0/-/preview/
+    image: 'https://ucarecdn.com/a2f5a639-7f87-4ae5-a3d2-12161e7ce89c/-/preview/'
     title: ''
 services:
   content: >-
