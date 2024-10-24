@@ -89,7 +89,8 @@ teamMembers:
       website is uploaded daily.
   - leftAlign: false
     title: Sienna
-    image: 'https://ucarecdn.com/7bfcf09c-2949-4597-871a-6b12d21ba479/'
+    image: >-
+      https://ucarecdn.com/7bfcf09c-2949-4597-871a-6b12d21ba479/-/crop/709x949/20,0/-/preview/
     content: "Meet Sienna\n\nS\uFEFFienna focuses on updating our systems and talents details and profiles.  \n\nA\uFEFFs well as this, she assists in our Kid's Acting and Modelling classes."
     subTitle: Trainee
   - leftAlign: true
