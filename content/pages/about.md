@@ -2,7 +2,7 @@
 template: AboutPage
 slug: about
 featuredImage: >-
-  https://ucarecdn.com/f50e50c2-98c6-4e26-a5ee-da95934364cd/-/crop/733x508/0,35/-/preview/
+  https://ucarecdn.com/f50e50c2-98c6-4e26-a5ee-da95934364cd/-/crop/733x404/0,35/-/preview/
 subTitle: ''
 title: About Us
 teamMembers:
@@ -71,10 +71,6 @@ teamMembers:
 
       Apart from this, Maya also offers a Self Taping Service where she coaches,
       films and assists Talent with their Media Requests.
-  - leftAlign: true
-    image: >-
-      https://ucarecdn.com/a2f5a639-7f87-4ae5-a3d2-12161e7ce89c/-/crop/733x819/0,0/-/preview/
-    title: ''
   - leftAlign: false
     title: Tyra
     image: >-
@@ -91,12 +87,16 @@ teamMembers:
 
       As well as this, Tyra ensures all of our systems are up to date, and our
       website is uploaded daily.
-  - leftAlign: true
+  - leftAlign: false
     title: Sienna
     image: >-
       https://ucarecdn.com/1a005fbd-4d4d-441d-bfaf-e8e97149a730/-/crop/414x538/6,0/-/preview/
     content: "Meet Sienna\n\nS\uFEFFienna focuses on updating our systems and talents details and profiles.  \n\nA\uFEFFs well as this, she assists in our Kid's Acting and Modelling classes."
     subTitle: Trainee
+  - leftAlign: true
+    image: >-
+      https://ucarecdn.com/a2f5a639-7f87-4ae5-a3d2-12161e7ce89c/-/crop/733x819/0,0/-/preview/
+    title: ''
 services:
   content: >-
     Glass Management supplies professional talent for Feature Films, TV
