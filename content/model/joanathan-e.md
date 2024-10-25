@@ -3,7 +3,7 @@ template: ModelPage
 title: Jonathan E
 featuredImage: 'https://ucarecdn.com/10cfd48b-9349-4eb9-aa7f-96982e7a6615/'
 imageThumbnail: >-
-  https://ucarecdn.com/0b43a699-3761-462a-9ce2-88c4c7533eb6/-/crop/1082x1499/370,0/-/preview/
+  https://ucarecdn.com/0e5fcdf9-932c-49ab-979e-5a16111da19f/-/crop/537x745/98,7/-/preview/
 firstName: Jonathan E
 collection: Commercial Faces
 height: 178cm
@@ -16,10 +16,11 @@ shoeSize: '42'
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/e3223f84-4fee-43fc-ab23-003914f754d0/'
-  - image: 'https://ucarecdn.com/ba14c46f-f35b-4067-9be7-90b81cd9a44e/'
-  - image: 'https://ucarecdn.com/ccd41fbd-7ee6-4ec2-804c-8491d5cc6aad/'
-  - image: 'https://ucarecdn.com/ab69270d-bf52-44f3-ad28-1509e705fe4d/'
-  - image: 'https://ucarecdn.com/e72cf8f3-fbb5-4aa7-992c-28996ae1a1ca/'
+  - image: 'https://ucarecdn.com/f941bbad-4f63-4d0e-850a-8f58fee1c9e1/'
+  - image: 'https://ucarecdn.com/52e800f3-124b-4385-9f90-ea866efda4f3/'
+  - image: 'https://ucarecdn.com/bb0a0882-1d46-4f6f-9667-2f8b1accc509/'
+  - image: 'https://ucarecdn.com/d0900b05-bf84-4007-b86c-4d6c0a107c25/'
+  - image: 'https://ucarecdn.com/03fafad0-1b11-4cc4-b12e-06efa6f5b36a/'
+  - image: 'https://ucarecdn.com/7adf95a9-e7a4-49c6-89ee-375bc9082314/'
 ---
 
