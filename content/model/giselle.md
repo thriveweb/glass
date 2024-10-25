@@ -2,11 +2,11 @@
 template: ModelPage
 title: Giselle
 featuredImage: >-
-  https://ucarecdn.com/ed5cc050-7266-4064-9f87-6edec89312b2/-/crop/1242x1140/0,0/-/preview/
+  https://ucarecdn.com/40115c2c-ce25-4fc2-b574-81a32e70d706/-/crop/1650x907/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c9545272-f234-4513-8f6a-221bfe4baa70/-/crop/631x876/323,0/-/preview/
+  https://ucarecdn.com/9a722cba-20f9-4abd-8f1f-a40857426ed9/-/crop/644x910/53,14/-/preview/
 firstName: Giselle
-collection: Emerging
+collection: Women
 height: 176cm
 measurementType: bust
 bust: 87cm
@@ -17,15 +17,16 @@ shoeSize: 10-11
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/c369a0cf-72ce-4a09-aa29-8075be8dad92/'
-  - image: 'https://ucarecdn.com/e38ff0d3-3cdd-4f39-be65-7647442f6177/'
-  - image: 'https://ucarecdn.com/0bd8be50-0246-4c64-9f95-6902800fc0c5/'
-  - image: 'https://ucarecdn.com/a0234aac-e389-4511-8d81-34a1b08da5ab/'
-  - image: 'https://ucarecdn.com/04779141-4db6-480d-8f7d-7b1c65a9568a/'
-  - image: 'https://ucarecdn.com/45f32217-8134-4618-8c04-8e96c5c648d4/'
-  - image: 'https://ucarecdn.com/79d03d15-8c1b-472a-a1ae-a620d291bfaf/'
-  - image: 'https://ucarecdn.com/b44d221c-878d-40e9-9809-16356c275045/'
-  - image: 'https://ucarecdn.com/3e842cb6-3514-4869-8ef0-eb40bcf7e5a5/'
-  - image: 'https://ucarecdn.com/65e6bb4c-635a-4453-b8d3-613767fcc673/'
+  - image: 'https://ucarecdn.com/0ed52ef5-4700-43cb-9d9c-57b4392c8b8a/'
+  - image: 'https://ucarecdn.com/319c3de5-01d0-4dd4-9fe0-7fa05a8598f8/'
+  - image: 'https://ucarecdn.com/07a68f6d-9b4f-4b45-ad16-57a2fdcc2a55/'
+  - image: 'https://ucarecdn.com/a0af1205-10aa-41aa-983e-00479eeb1bae/'
+  - image: 'https://ucarecdn.com/b5667032-36f2-4c98-8b57-6a3efa6bb4e2/'
+  - image: 'https://ucarecdn.com/10cf44a8-3b79-47cd-a9bf-89bccc73867a/'
+  - image: 'https://ucarecdn.com/ab8d6c37-256c-45a6-a6c2-9ccf4333830c/'
+  - image: 'https://ucarecdn.com/9acecaee-8582-47bf-b93b-819a139b4e6c/'
+  - image: 'https://ucarecdn.com/e6e22f54-ac5c-49e2-b467-29b860f02d4b/'
+  - image: 'https://ucarecdn.com/160dc80e-5ec6-443d-bf06-17723298be43/'
+  - image: 'https://ucarecdn.com/159c3c39-789d-4e1f-9fa8-bf39928f8800/'
 ---
 
