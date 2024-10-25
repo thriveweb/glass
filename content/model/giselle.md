@@ -4,7 +4,7 @@ title: Giselle
 featuredImage: >-
   https://ucarecdn.com/40115c2c-ce25-4fc2-b574-81a32e70d706/-/crop/1650x907/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/9a722cba-20f9-4abd-8f1f-a40857426ed9/-/crop/644x910/53,14/-/preview/
+  https://ucarecdn.com/9a722cba-20f9-4abd-8f1f-a40857426ed9/-/crop/557x761/101,21/-/preview/
 firstName: Giselle
 collection: Women
 height: 176cm
