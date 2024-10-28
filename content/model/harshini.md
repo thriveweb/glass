@@ -2,9 +2,9 @@
 template: ModelPage
 title: Harshini
 featuredImage: >-
-  https://ucarecdn.com/37a36908-484d-4e10-befe-4a3f0d42e94b/-/crop/1208x686/0,33/-/preview/
+  https://ucarecdn.com/3443e5f1-074d-4fc2-a094-5ee617a23856/-/crop/1650x957/0,44/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/71be5e90-4aca-430d-af7f-f44dd945f7ae/-/crop/4247x4824/149,0/-/preview/
+  https://ucarecdn.com/09b730ce-699b-491a-897c-0353fb69efc4/-/crop/697x1035/36,0/-/preview/
 firstName: Harshini
 collection: Commercial Faces
 height: 157cm
@@ -17,12 +17,12 @@ shoeSize: 5/6
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/01b0e3a7-f824-4e72-8273-c7460c2c8ab2/'
+  - image: 'https://ucarecdn.com/c3186fa0-595a-4814-a30e-a3be03fe36e7/'
   - image: 'https://ucarecdn.com/134001d1-8a35-4dad-8de9-93ddbf44649b/'
-  - image: 'https://ucarecdn.com/a98f23cc-4d85-4e98-9abb-927103edc12c/'
+  - image: 'https://ucarecdn.com/c1b57225-5d40-4529-8466-b88abb670b8f/'
+  - image: 'https://ucarecdn.com/5faefbfd-e013-4f78-b410-621ae13b593f/'
   - image: 'https://ucarecdn.com/0e554146-693e-40ea-a696-90614a511b94/'
-  - image: 'https://ucarecdn.com/91156329-5f95-489d-9349-0b7aaedc9b96/'
-  - image: 'https://ucarecdn.com/ca9882c7-2250-46d3-b834-36ad107d1748/'
+  - image: 'https://ucarecdn.com/30640743-17f1-4d2e-acdd-2d9fa441b19e/'
   - image: 'https://ucarecdn.com/f8944c4f-964a-401a-9da8-6b7e224df37a/'
 ---
 
