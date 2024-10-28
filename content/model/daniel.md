@@ -3,7 +3,7 @@ template: ModelPage
 title: Daniel
 featuredImage: 'https://ucarecdn.com/d124f669-033f-409a-9cf6-70884fad07cc/'
 imageThumbnail: >-
-  https://ucarecdn.com/dc3b10f8-3a98-47d1-9da0-6e0448036154/-/crop/1153x1632/629,0/-/preview/
+  https://ucarecdn.com/30358282-bb30-4d7b-87dd-ea856d88fe86/-/crop/559x819/0,0/-/preview/
 firstName: Daniel
 collection: Commercial Faces
 height: 168cm
@@ -16,18 +16,12 @@ shoeSize: US10
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/c897429d-a8a5-4154-a8b7-e17cbdc55d1c/'
-  - image: 'https://ucarecdn.com/002dde25-2c8d-48b0-9d17-0e5b14b946b4/'
-  - image: 'https://ucarecdn.com/2fbadb3e-f849-4f62-815a-38467344de29/'
-  - image: 'https://ucarecdn.com/dee702d5-5e14-43c5-93cb-0e9c75c5ca8c/'
-  - image: 'https://ucarecdn.com/377eb7d5-2049-476a-85be-8b894fa52979/'
-  - image: 'https://ucarecdn.com/68a4afce-ad93-4ba5-9d47-f2d09ea72799/'
-  - image: 'https://ucarecdn.com/725b576c-5f34-4608-ae4a-32544efb1bb3/'
-  - image: 'https://ucarecdn.com/602870f3-b76b-4f4a-8eb7-d11ad794bec5/'
-  - image: 'https://ucarecdn.com/d2594062-842f-4351-bbc1-10b485839421/'
-  - image: 'https://ucarecdn.com/a52eb976-3b55-409a-8fe8-e7cda36c33eb/'
+  - image: 'https://ucarecdn.com/5c4eda44-c53b-4484-ad91-d902ce04caa9/'
+  - image: 'https://ucarecdn.com/bfd5fe83-4c41-43c8-bbdb-410e17bf407a/'
+  - image: 'https://ucarecdn.com/75fdb413-a287-405e-89f1-5968f426f0be/'
+  - image: 'https://ucarecdn.com/299542c8-3bbc-4b10-8e64-90696ecf8767/'
   - image: 'https://ucarecdn.com/0c2f0cfb-62ef-4b91-add0-1e1eac7d42d7/'
-  - image: 'https://ucarecdn.com/8f4c6e49-6f98-463e-8d72-ccf59532ac9a/'
-  - image: 'https://ucarecdn.com/5bbb0729-406e-4067-8520-40de92d5c85e/'
+  - image: 'https://ucarecdn.com/bc0de649-4918-4f5d-9c71-9d5927b4546f/'
+  - image: 'https://ucarecdn.com/d5e7a1f3-e1cc-4017-b2b7-022d460063f6/'
 ---
 
