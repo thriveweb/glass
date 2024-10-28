@@ -3,7 +3,8 @@ template: ModelPage
 title: Reece
 featuredImage: >-
   https://ucarecdn.com/699cfce3-0cfe-416e-9769-fda52b4c7792/-/crop/926x789/0,86/-/preview/
-imageThumbnail: 'https://ucarecdn.com/4103cb8b-4fcf-4d6a-9bad-63ce5f566789/'
+imageThumbnail: >-
+  https://ucarecdn.com/4103cb8b-4fcf-4d6a-9bad-63ce5f566789/-/crop/702x931/0,0/-/preview/
 firstName: Reece
 collection: Men
 height: 180cm
