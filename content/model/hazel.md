@@ -1,10 +1,9 @@
 ---
 template: ModelPage
 title: Hazel
-featuredImage: >-
-  https://ucarecdn.com/adb4a7d4-07fd-4513-af59-41d53251b84a/-/crop/1910x990/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/10f53685-cce3-4b8c-a88b-e7bbac15cb30/'
 imageThumbnail: >-
-  https://ucarecdn.com/0c7a03cc-7643-4aef-9ac4-cca25f0cf910/-/crop/2890x3990/1105,387/-/preview/
+  https://ucarecdn.com/a0b55f8f-f477-4aa6-83d4-dabeb5c2522f/-/crop/662x954/56,5/-/preview/
 firstName: Hazel
 collection: Girls
 height: 135cm
@@ -17,24 +16,16 @@ shoeSize: '3'
 hair: Black
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/d205a52f-6b57-477e-95d8-0c4ae69b5a43/'
+  - image: 'https://ucarecdn.com/d1b12ece-5126-4227-baff-bf924aa47a28/'
   - image: 'https://ucarecdn.com/b746d9df-a9cb-4560-a12b-9ae5746ee3b8/'
-  - image: 'https://ucarecdn.com/843f4d24-f92b-41f8-8dd5-178bf150d9cf/'
-  - image: 'https://ucarecdn.com/7935d47a-3b2b-4513-a060-c9a8cf42788f/'
-  - image: 'https://ucarecdn.com/50a7bd6c-0531-4bed-822b-e667f50c3d88/'
+  - image: 'https://ucarecdn.com/6a6e39ed-d8bd-4158-bb37-2a746d3bb24f/'
+  - image: 'https://ucarecdn.com/3b7c6d1c-8dc9-4675-9a16-afe1fcbf4fdf/'
+  - image: 'https://ucarecdn.com/d48d6cfd-f226-493d-adfa-8ab594e5a28c/'
   - image: 'https://ucarecdn.com/39d7b63b-bf56-433f-9476-e05f503a4646/'
-  - image: 'https://ucarecdn.com/c414a9fd-924d-405c-9b3d-acd6751044fc/'
-  - image: 'https://ucarecdn.com/8fc7a83a-3a32-4503-b395-4b0160d0c39f/'
-  - image: 'https://ucarecdn.com/2a177de4-3299-4ccb-8657-6e9bdfc4e73a/'
-  - image: 'https://ucarecdn.com/8e8e093a-25fb-46a1-aa01-98fd184818fc/'
-  - image: 'https://ucarecdn.com/3b6a6f9f-45aa-4a40-a5fe-a6323266dd37/'
-  - image: 'https://ucarecdn.com/8b74320b-a2ec-4f79-9fe3-4dcdc0152413/'
-  - image: 'https://ucarecdn.com/dd639621-77c3-43fc-9911-56c830d3318d/'
-  - image: 'https://ucarecdn.com/c22e69dc-a82e-4b5a-89a8-31fb9f88b4b0/'
-  - image: 'https://ucarecdn.com/266231fd-43c5-405c-bcec-2ab818329264/'
-  - image: 'https://ucarecdn.com/56f48e5a-da60-4d9f-afe2-4dc63174957a/'
-  - image: 'https://ucarecdn.com/1a535517-9f1e-44c6-940b-b562ec4f3e07/'
-  - image: 'https://ucarecdn.com/8021ff82-386f-4570-acba-0827b75d761a/'
+  - image: 'https://ucarecdn.com/bc58148f-16e8-4b1f-b34a-642f28e967d7/'
   - image: 'https://ucarecdn.com/e4c22211-1d12-4fa6-8f49-0b4b6028d299/'
+  - image: 'https://ucarecdn.com/f0243fcd-4e64-4717-8163-02fd08b83398/'
+  - image: 'https://ucarecdn.com/1a535517-9f1e-44c6-940b-b562ec4f3e07/'
+  - image: 'https://ucarecdn.com/dd639621-77c3-43fc-9911-56c830d3318d/'
 ---
 
