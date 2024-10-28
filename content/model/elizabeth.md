@@ -3,7 +3,7 @@ template: ModelPage
 title: Elizabeth
 featuredImage: 'https://ucarecdn.com/4428fcb7-0cf6-4782-85f9-56bc842c458b/'
 imageThumbnail: >-
-  https://ucarecdn.com/8fd8a43a-d12e-43ce-a54c-cd5b658ce4c4/-/crop/1151x1411/134,0/-/preview/
+  https://ucarecdn.com/8fd8a43a-d12e-43ce-a54c-cd5b658ce4c4/-/crop/956x1242/245,27/-/preview/
 firstName: Elizabeth
 collection: Mature
 height: 175cm
