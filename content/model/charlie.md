@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Charlie
-featuredImage: 'https://ucarecdn.com/a7bbab5d-8980-423c-a5f8-0cbb29073e9b/'
+featuredImage: >-
+  https://ucarecdn.com/a7bbab5d-8980-423c-a5f8-0cbb29073e9b/-/crop/1650x899/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/dd4ba6d3-c2c1-4cd9-95af-b3e21769c9ae/-/crop/622x892/111,0/-/preview/
 firstName: Charlie
