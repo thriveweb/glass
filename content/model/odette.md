@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c6475659-6ac4-413a-8e2f-61622151c787/-/crop/501x682/12,0/-/preview/
 firstName: Odette
-collection: Classic
+collection: Commercial Faces
 height: 167cm
 measurementType: bust
 bust: 89cm
