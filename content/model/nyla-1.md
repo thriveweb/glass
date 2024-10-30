@@ -4,7 +4,7 @@ title: Nyla
 featuredImage: >-
   https://ucarecdn.com/8b417ca2-7ba2-4756-b6cf-dcd50ab5de37/-/crop/1178x705/1,79/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/77ab370e-5717-4dcb-8e14-755a96932151/-/crop/522x614/294,142/-/preview/
+  https://ucarecdn.com/44c4ef91-910f-4396-ab84-38ab626b1651/-/crop/571x698/254,0/-/preview/
 firstName: Nyla
 collection: Girls
 height: 100cm
@@ -17,12 +17,19 @@ shoeSize: '10'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/c3b08ada-ce29-4bb3-8df1-620e8afe8c75/'
   - image: 'https://ucarecdn.com/524a54ae-69d1-49d7-8f59-4398ff686940/'
+  - image: 'https://ucarecdn.com/85b9301e-1c68-4f1a-b04d-fed56fba14cf/'
+  - image: 'https://ucarecdn.com/b6ce17ba-e98d-476d-8ac4-a37ab37ae2dd/'
+  - image: 'https://ucarecdn.com/34be02c3-6c3f-4e04-b45f-5f64446fe38c/'
   - image: 'https://ucarecdn.com/c047e95f-0fb3-445a-8148-251886784623/'
-  - image: 'https://ucarecdn.com/1299b4db-e623-41fe-9fcc-a78532be3d3d/'
+  - image: 'https://ucarecdn.com/9163479a-148b-426b-b22e-bfb01b964a70/'
+  - image: 'https://ucarecdn.com/1c43a686-7a9b-442b-9a02-4df0171c35b3/'
+  - image: 'https://ucarecdn.com/3ce054dd-2557-4b10-ab09-bb8ab615aec2/'
   - image: 'https://ucarecdn.com/cfb28b86-0f20-4048-8e73-0542f4636598/'
   - image: 'https://ucarecdn.com/4af033d8-9478-468a-96c6-a5a5cb67f8ce/'
-  - image: 'https://ucarecdn.com/b2b347a8-879b-42dc-ac97-58979fd44df4/'
+  - image: 'https://ucarecdn.com/694190a4-91f0-4d82-90d3-45b5e3ca24b4/'
+  - image: 'https://ucarecdn.com/f83be0c9-9ce1-48d2-851f-8e0309135234/'
   - image: 'https://ucarecdn.com/caa7afc1-fb9d-40fb-aa78-c56f53ebdb4f/'
   - image: 'https://ucarecdn.com/14fdd76d-bb86-4528-a5a2-902defd2fcfd/'
   - image: 'https://ucarecdn.com/f572c1d0-9829-468e-87dc-de40d120e00a/'
