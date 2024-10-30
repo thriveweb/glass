@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/60f289b0-9d82-4ed0-b6ca-12e37ff60976/-/crop/617x866/50,28/-/preview/
 firstName: David
-collection: ''
+collection: Mature
 height: 177cm
 measurementType: chest
 bust: 114cm
