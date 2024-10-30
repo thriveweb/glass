@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Ross B
-featuredImage: 'https://ucarecdn.com/cac34d14-00a7-456b-b712-f2eb9e3e9387/'
+featuredImage: >-
+  https://ucarecdn.com/cac34d14-00a7-456b-b712-f2eb9e3e9387/-/crop/961x523/893,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/da93e6a0-4967-4249-a4cb-0bfbcc1d347f/-/crop/722x963/196,0/-/preview/
 firstName: Ross B
