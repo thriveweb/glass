@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/79ee9fde-cb78-4e6d-a760-fe27a8dd00b0/-/crop/667x972/19,0/-/preview/
 firstName: Max E
 collection: Boys
-height: 123cm
+height: 140cm
 measurementType: chest
-bust: 62cm
-waist: 60cm
-hips: 64cm
-size: 6-8
-shoeSize: '32'
+bust: 70cm
+waist: 78cm
+hips: 82cm
+size: 10-12
+shoeSize: '36'
 hair: Brown
 eyes: Hazel
 imagePortfolio:
