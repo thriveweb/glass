@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Kelsey P
-featuredImage: 'https://ucarecdn.com/e075b3b9-81cd-42ab-8346-acd2cb08ed90/'
+featuredImage: >-
+  https://ucarecdn.com/e075b3b9-81cd-42ab-8346-acd2cb08ed90/-/crop/3471x1952/0,533/-/preview/
 imageThumbnail: 'https://ucarecdn.com/4a8c306b-c72c-4cd1-8a5a-907b876a18f8/'
 firstName: Kelsey
 collection: Women
