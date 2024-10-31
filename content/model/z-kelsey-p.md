@@ -1,10 +1,8 @@
 ---
 template: ModelPage
-title: Z Kelsey P
-featuredImage: >-
-  https://ucarecdn.com/bcb0995c-7a03-45ae-936f-688495cca111/-/crop/2448x1237/0,396/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/a8349e2f-d4b8-4880-83af-1fad1b534393/-/crop/975x1379/467,16/-/preview/
+title: Kelsey P
+featuredImage: 'https://ucarecdn.com/e075b3b9-81cd-42ab-8346-acd2cb08ed90/'
+imageThumbnail: 'https://ucarecdn.com/4a8c306b-c72c-4cd1-8a5a-907b876a18f8/'
 firstName: Kelsey
 collection: Women
 height: 167cm
@@ -17,11 +15,18 @@ shoeSize: '6.5'
 hair: Red
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/8c070fff-1601-4fa1-9775-47695d862f80/'
-  - image: 'https://ucarecdn.com/dce5ada5-1a3f-4ffe-b8f7-e4fd585c8527/'
+  - image: 'https://ucarecdn.com/762eede7-8cfa-4e5d-9d02-21424b38e8da/'
+  - image: 'https://ucarecdn.com/0f920acc-61e4-4c78-af4f-e0c75ac56247/'
+  - image: 'https://ucarecdn.com/ae9c4e17-3381-497b-a13f-640323bb0268/'
+  - image: 'https://ucarecdn.com/a5930cdd-6476-4cdd-b466-d9705eed7e6b/'
+  - image: 'https://ucarecdn.com/04cd843e-9973-4e69-b911-0ee5a6ac079a/'
+  - image: 'https://ucarecdn.com/5904f413-9e83-4013-aa4c-acb4d50e6d9b/'
+  - image: 'https://ucarecdn.com/d69dd8cd-14aa-41ef-91db-cc768d92e42b/'
   - image: 'https://ucarecdn.com/c778589c-16bd-4747-a489-ca56cc6335dd/'
-  - image: 'https://ucarecdn.com/a76a4855-ae1e-4001-8a85-ab954df9f755/'
-  - image: 'https://ucarecdn.com/615e6aee-62d5-4b40-9ef0-aa016881f757/'
-  - image: 'https://ucarecdn.com/ccd176fe-6830-4cce-b8eb-432246c61853/'
+  - image: 'https://ucarecdn.com/7ecba6bb-c36d-4410-88a9-8e5c4aa46c91/'
+  - image: 'https://ucarecdn.com/09e49995-ecbe-41bc-adfd-20a45cfff45e/'
+  - image: 'https://ucarecdn.com/dce5ada5-1a3f-4ffe-b8f7-e4fd585c8527/'
+  - image: 'https://ucarecdn.com/3b68f0d4-24df-4c65-9843-82d1ee2ebe34/'
+  - image: 'https://ucarecdn.com/250e0367-c998-4087-84cd-fc3203db7a3e/'
 ---
 
