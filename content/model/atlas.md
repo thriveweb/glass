@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: 'Atlas '
-featuredImage: >-
-  https://ucarecdn.com/d4630c22-aeb6-453c-be50-b39e4fb4ce6a/-/crop/1632x1201/0,486/-/preview/
+featuredImage: 'https://ucarecdn.com/2b82dd5a-bc96-47a7-ae56-2e2f1fff2bd7/'
 imageThumbnail: >-
   https://ucarecdn.com/c6de0f8c-af39-47a6-8880-cb190bdd17f3/-/crop/921x1265/179,122/-/preview/
 firstName: Atlas
