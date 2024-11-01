@@ -2,12 +2,13 @@
 template: ModelPage
 title: Howe Family
 featuredImage: >-
-  https://ucarecdn.com/be105b5c-7e4a-4486-814d-a49a002c976c/-/crop/1650x815/0,0/-/preview/
+  https://ucarecdn.com/d2daa847-ee6b-44b5-826e-e2dc5499a510/-/crop/1693x460/694,3/-/preview/
 imageThumbnail: 'https://ucarecdn.com/4f273173-9d8b-4dd7-9fb6-d82a1f9a8494/'
 firstName: Howe Family
 collection: Family
 imagePortfolio:
   - image: 'https://ucarecdn.com/e6882d62-9696-4ad2-828f-6586141b8f45/'
+  - image: 'https://ucarecdn.com/f112b557-48bc-4dde-a4e2-8a6261129a28/'
   - image: >-
       https://ucarecdn.com/ecd997e0-0d94-441a-837c-3631c27744d5/-/crop/932x618/4,0/-/preview/
   - image: 'https://ucarecdn.com/30744e3f-5100-495b-8638-afcff8de5a7c/'
