@@ -12,8 +12,8 @@ measurementType: bust
 bust: 73cm
 waist: 62cm
 hips: 73cm
-size: 10/12
-shoeSize: Ladies 7
+size: '12'
+shoeSize: Ladies 8
 hair: Brown
 eyes: Brown
 imagePortfolio:
