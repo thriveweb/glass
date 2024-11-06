@@ -4,7 +4,7 @@ title: Ramani
 featuredImage: >-
   https://ucarecdn.com/e6bf108e-14f3-4d29-9462-3c17a3527142/-/crop/1170x751/0,49/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/283a72be-eaf4-45c0-8251-8e59b444df48/-/crop/479x690/143,80/-/preview/
+  https://ucarecdn.com/283a72be-eaf4-45c0-8251-8e59b444df48/-/crop/429x644/153,80/-/preview/
 firstName: Ramani
 collection: Emerging
 height: 174cm
