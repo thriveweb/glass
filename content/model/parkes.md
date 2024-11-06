@@ -2,21 +2,19 @@
 template: ModelPage
 title: Parkes Family
 featuredImage: >-
-  https://ucarecdn.com/bb71c413-2aba-4082-8216-992df189d61a/-/crop/2793x1284/0,284/-/preview/
+  https://ucarecdn.com/83e4b854-5aab-46eb-b441-755ef90367dc/-/crop/942x367/0,159/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/8e5ddb43-7242-4a55-87e1-07cb7c5faa95/-/crop/761x782/20,15/-/preview/
+  https://ucarecdn.com/06a4878e-2176-4111-b0ed-4f2c375116fa/-/crop/413x521/266,108/-/preview/
 firstName: Parkes Family
 collection: Family
 imagePortfolio:
-  - image: 'https://ucarecdn.com/55075f32-83c4-47cf-bde4-9118afa9810f/'
-  - image: 'https://ucarecdn.com/2c0bd11e-484c-4e93-b6f0-69b55b4ba458/'
-  - image: 'https://ucarecdn.com/0ec106d5-567e-49b5-af82-019a85515daf/'
-  - image: 'https://ucarecdn.com/eb6aad02-0ce3-409d-92c1-870db920aa56/'
-  - image: 'https://ucarecdn.com/b26778c3-03a3-4899-956e-d23ceb4c1b7c/'
-  - image: 'https://ucarecdn.com/a1f6adc4-831f-493c-a385-93177c377e6a/'
-  - image: 'https://ucarecdn.com/c5c03940-09fb-45d1-b2d0-abd7b9a00902/'
-  - image: 'https://ucarecdn.com/58548eb7-6d0b-4546-b6b6-9d18b35aa97b/'
-  - image: 'https://ucarecdn.com/b7c41d96-448b-4c7b-813f-c1ce71f5a2f7/'
-  - image: 'https://ucarecdn.com/7dc4e09c-9814-4843-8e85-20264a9eb0be/'
+  - image: 'https://ucarecdn.com/f8c7e494-7e2a-4ba9-a9f2-d55cd6b2282b/'
+  - image: >-
+      https://ucarecdn.com/6d86d0a1-88af-4183-b016-afc2c8bd86ee/-/crop/635x755/0,196/-/preview/
+  - image: 'https://ucarecdn.com/c1a0aefb-d4b2-44c7-a0ef-e8d7db3c5f97/'
+  - image: 'https://ucarecdn.com/18f5efa2-2520-4042-bfa3-f04162433389/'
+  - image: 'https://ucarecdn.com/c3d7d96f-b271-4614-935f-d0506260abed/'
+  - image: 'https://ucarecdn.com/f532ba14-1ee0-4479-bc5a-f70b21f36f95/'
+  - image: 'https://ucarecdn.com/e89c7b0c-ef4a-482f-82bc-78cc9a32d612/'
 ---
 
