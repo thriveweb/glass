@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Zilic Family
-featuredImage: 'https://ucarecdn.com/54fe8bea-633d-4270-b56b-89a171e26290/'
+featuredImage: >-
+  https://ucarecdn.com/54fe8bea-633d-4270-b56b-89a171e26290/-/crop/1650x716/0,68/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/1eac8d1f-2776-4742-bf93-38e7eacdd088/-/crop/751x1100/642,0/-/preview/
 firstName: Zilic Family
