@@ -12,7 +12,7 @@ measurementType: bust
 bust: 62cm
 waist: 55cm
 hips: 58cm
-size: 6/4
+size: '6'
 shoeSize: '1'
 hair: Dark Blonde
 eyes: Green
