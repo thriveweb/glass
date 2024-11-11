@@ -9,9 +9,9 @@ firstName: Samuel N
 collection: Men
 height: 185cm
 measurementType: chest
-bust: 106cm
+bust: 107cm
 waist: 89cm
-hips: 110cm
+hips: 97cm
 size: L/34
 shoeSize: '9.5'
 hair: Brown
