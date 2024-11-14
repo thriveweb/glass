@@ -8,8 +8,8 @@ firstName: 'Sierra '
 collection: Girls
 height: 91cm
 size: 2-3 years
-hair: Brown
-eyes: Blue
+hair: Blonde/Light Brown
+eyes: Brown
 imagePortfolio:
   - image: >-
       https://ucarecdn.com/f81cfedc-41f1-41a6-bd8e-5692d6070f28/-/crop/1079x1337/486,42/-/preview/
