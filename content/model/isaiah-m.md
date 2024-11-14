@@ -6,8 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/e8d3c7df-d6d8-4401-8b5f-5d35fc3a3ba3/-/crop/753x1082/484,191/-/preview/
 firstName: Isaiah M
 collection: Boys
-size: 2-3
-shoeSize: US 9 Toddler
+height: 103cm
+measurementType: chest
+bust: 56cm
+waist: 50cm
+hips: 58cm
+size: 3-4
+shoeSize: 10 Toddler
 hair: Brunette
 eyes: Brown
 imagePortfolio:
