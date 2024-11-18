@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/898b67e3-b118-4c59-acd1-fcddce36012e/-/crop/3467x5155/480,196/-/preview/
 firstName: Chloe H
-collection: Girls
+collection: ''
 height: 141cm
 measurementType: bust
 bust: 62cm
