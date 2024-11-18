@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/66efecec-213d-4bdb-a216-fffc3bc85691/-/crop/1399x1983/104,258/-/preview/
 firstName: Gracie
-collection: Girls
+collection: ''
 height: 100cm
 measurementType: bust
 bust: 50cm
