@@ -6,13 +6,15 @@ imageThumbnail: >-
   https://ucarecdn.com/439c8b47-97a7-4459-88cb-fe0b23b03b37/-/crop/1000x1377/0,0/-/preview/
 firstName: Cooper
 collection: Emerging
-height: 170cm
+height: 178cm
 measurementType: chest
 bust: 80cm
 waist: 65cm
 hips: 82cm
-size: 14-16
-shoeSize: 9.5-10
+size: Mens S
+shoeSize: '11'
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/74e3b554-ac67-4f24-b582-dc618272ddd8/'
   - image: 'https://ucarecdn.com/edcb0346-de38-40b1-807f-d405f334a46d/'
