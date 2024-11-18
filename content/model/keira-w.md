@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/c28520f3-7731-426b-8eac-dba99ee6cb35/-/prev
 imageThumbnail: >-
   https://ucarecdn.com/be1bae25-d3bf-4dd7-bf7b-b1ffe6075bea/-/crop/512x645/174,412/-/preview/
 firstName: Keira W
-collection: Girls
+collection: ''
 height: 112cm
 measurementType: bust
 bust: 56cm
