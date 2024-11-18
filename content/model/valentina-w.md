@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/d41043b2-a536-4986-8018-daf84bc45ea8/-/crop/1658x2543/237,34/-/preview/
 firstName: Valentina W
-collection: Girls
+collection: ''
 height: 123cm
 measurementType: bust
 bust: 57cm
