@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/9c594426-ac58-41a8-a18b-0d056abb9b42/-/crop/219x279/338,0/-/preview/
 firstName: Priya
-collection: Girls
+collection: ''
 height: 133cm
 measurementType: bust
 bust: 60cm
