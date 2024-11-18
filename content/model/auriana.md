@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/fc945035-db81-4786-a03e-3196dc7af135/-/crop/1185x1518/889,18/-/preview/
 firstName: Auriana
-collection: Girls
+collection: ''
 height: 132cm
 measurementType: bust
 bust: 60cm
