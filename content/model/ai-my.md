@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'k Ai-My '
+title: 'Ai-My '
 featuredImage: 'https://ucarecdn.com/a483c5c4-c94b-4c10-be72-d8a168b05cad/'
 imageThumbnail: >-
   https://ucarecdn.com/70831c69-6684-4a96-bc01-aebe6009ad39/-/crop/872x1217/640,82/-/preview/
