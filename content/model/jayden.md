@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/541aa4e0-8856-4996-998b-3b97028aae60/-/crop/965x1289/291,0/-/preview/
 firstName: Jayden
-collection: Emerging
+collection: ''
 height: 153cm
 measurementType: chest
 bust: 71cm
