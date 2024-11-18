@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/ecbaefec-cc9f-402a-b9c0-0bf7c6b21b19/'
 imageThumbnail: >-
   https://ucarecdn.com/430aa589-bc5b-4897-bc33-8fdd89ce0214/-/crop/849x1169/559,112/-/preview/
 firstName: Mia G
-collection: Girls
+collection: ''
 height: 85cm
 measurementType: bust
 bust: 51cm
