@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/51c44c40-920a-4873-a196-a69412e14bb0/-/crop/1370x1739/743,0/-/preview/
 firstName: Holly
-collection: Girls
+collection: ''
 height: 147cm
 measurementType: bust
 bust: 73cm
