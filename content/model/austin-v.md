@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/d5f6b036-ace8-4031-a8c4-7efc2959f917/-/crop/818x1103/447,38/-/preview/
 firstName: Austin V
-collection: Boys
+collection: ''
 height: 133cm
 measurementType: chest
 bust: 55cm
