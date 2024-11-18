@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b6cd9b25-85c9-461f-933d-d52115c19329/-/crop/471x623/151,72/-/preview/
 firstName: Halle
-collection: Girls
+collection: Emerging
 height: 157cm
 measurementType: bust
 bust: 74cm
