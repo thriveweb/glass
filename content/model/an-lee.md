@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: an Lee
+title: AN Lee
 featuredImage: 'https://ucarecdn.com/5b9b677c-4783-494d-a63a-cfb269eba5ba/'
 imageThumbnail: >-
   https://ucarecdn.com/91737a7d-5a13-4c56-813a-c994e1ff33bd/-/crop/840x1125/438,32/-/preview/
