@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Ruben
+title: Ruben W
 featuredImage: >-
   https://ucarecdn.com/7ff38084-1ffd-4c20-a21a-e2bbe9a39bda/-/crop/1732x1063/0,47/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/e9b87b77-9fe6-463a-b81e-4982dd5c7aa7/-/crop/1519x2049/182,0/-/preview/
-firstName: Ruben
+firstName: Ruben W
 collection: Boys
 height: 157cm
 measurementType: chest
