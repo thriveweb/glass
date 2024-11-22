@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/5e976c15-0c32-45ab-ba2c-cab604e189a1/-/crop/2449x1082/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/ce15c3b6-3635-4a17-bbe7-2bc7db68ae87/'
 firstName: Fllow Twins
-collection: Family
+collection: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/6ae5d606-5164-400b-a13d-b1300b2bda2d/'
   - image: 'https://ucarecdn.com/2f0bfe8e-7dac-4691-8c05-a61e1d6ee9d5/'
