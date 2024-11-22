@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c288c744-9313-4e0a-9fb0-59349a8116c8/-/crop/831x1015/9,367/-/preview/
 firstName: Alivia and Kelly
-collection: Family
+collection: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/f776da47-43b2-49bb-8bbb-a63652a35b69/'
   - image: 'https://ucarecdn.com/f80b548d-141e-4dbe-9ff5-9a812f8096cd/'
