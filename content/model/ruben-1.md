@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Ruben
+title: Ruben O
 featuredImage: >-
   https://ucarecdn.com/930d2c18-3c99-4e0a-8115-9ee62bb0d6d7/-/crop/1800x1053/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/28ed8814-ea25-405c-a496-7d6ccf488a5f/-/crop/755x909/510,0/-/preview/
-firstName: Ruben
+firstName: Ruben O
 collection: Men
 height: 186cm
 measurementType: chest
