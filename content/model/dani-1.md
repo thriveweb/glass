@@ -19,6 +19,7 @@ eyes: Brown
 imagePortfolio:
   - image: >-
       https://ucarecdn.com/83ab4f55-ced8-4f64-a3f5-9a1e83c81044/-/crop/614x775/78,0/-/preview/
+  - image: 'https://ucarecdn.com/49ba8ff0-8ef6-403f-9c94-200a4acbfcbd/'
   - image: >-
       https://ucarecdn.com/22174b8e-aa39-4861-9277-dbaa38ef1136/-/crop/1667x2936/333,0/-/preview/
   - image: 'https://ucarecdn.com/eb4b72da-8014-49c0-b430-0521c3c93bb3/'
@@ -29,11 +30,12 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/dd2f08af-41a5-4934-9cf2-fbbec4f99b4a/'
   - image: 'https://ucarecdn.com/124f88b0-cf14-47ba-b142-db26c7104700/'
   - image: 'https://ucarecdn.com/5d819b27-5929-45c7-8b65-208305ccea97/'
-  - image: 'https://ucarecdn.com/bd5b97f9-c982-406f-ba61-59b710f3ffff/'
   - image: 'https://ucarecdn.com/60e4ee54-6dc8-4b3e-9dfe-e685387e4858/'
   - image: 'https://ucarecdn.com/a63a2a6f-2f5c-4239-bf98-9de7efc2619f/'
-  - image: 'https://ucarecdn.com/087b42d4-344c-4239-8a04-fa6edf7a82a0/'
+  - image: >-
+      https://ucarecdn.com/087b42d4-344c-4239-8a04-fa6edf7a82a0/-/crop/920x1041/0,339/-/preview/
   - image: 'https://ucarecdn.com/b9ca1fab-aaef-4e7a-b647-4d02d66598c2/'
   - image: 'https://ucarecdn.com/b9a21b4b-bfec-43a3-8b87-50504f476c9d/'
+  - image: 'https://ucarecdn.com/bd5b97f9-c982-406f-ba61-59b710f3ffff/'
 ---
 
