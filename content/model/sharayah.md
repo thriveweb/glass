@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/2047e332-4942-4f43-a30b-ebea1dc83a17/-/crop/804x1160/438,47/-/preview/
 firstName: Sharayah
-collection: Emerging
+collection: ''
 height: 171cm
 measurementType: bust
 bust: 81cm
