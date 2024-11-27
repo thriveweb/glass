@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/e86c927e-b457-488e-ba3f-b227ba0f1f74/-/crop/520x652/2,0/-/preview/
 firstName: Bruno
-collection: Men
+collection: Classic
 height: 182cm
 measurementType: chest
 bust: 97cm
