@@ -2,7 +2,7 @@
 template: ModelPage
 title: Kalani
 featuredImage: >-
-  https://ucarecdn.com/ef282a4d-83c9-4abb-bf2c-d8c337754624/-/crop/1450x1014/0,0/-/preview/
+  https://ucarecdn.com/31be03b5-e827-4fa9-a6b7-042159c9e780/-/crop/2449x1154/0,404/-/preview/
 imageThumbnail: 'https://ucarecdn.com/c0501034-5f2f-4c56-b257-a4ab1e66bc4a/'
 firstName: Kalani
 collection: Girls
@@ -17,9 +17,11 @@ hair: Brown
 eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/f7adab1d-8c88-4842-93f1-f4e6481437e9/'
+  - image: 'https://ucarecdn.com/0274852c-05d2-41ea-b7de-094358666c35/'
   - image: 'https://ucarecdn.com/08485fcb-78c2-4f9d-99fa-e46a35d726ae/'
   - image: 'https://ucarecdn.com/e8f9dadc-0d8f-4df6-857c-475c99f12670/'
   - image: 'https://ucarecdn.com/8a122076-85fc-457b-bc8d-dab9cc55a2cc/'
+  - image: 'https://ucarecdn.com/9c472ab7-e324-4e9b-91e2-6beb6fb3542b/'
   - image: 'https://ucarecdn.com/5ce86c38-2794-4c4a-ba78-422628ead831/'
   - image: 'https://ucarecdn.com/ae264c01-b891-457f-b589-12e3b059978f/'
   - image: 'https://ucarecdn.com/328b8d0f-3065-4646-8a9f-5dd984d1b914/'
