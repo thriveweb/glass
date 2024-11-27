@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Charli
+title: B Charli
 featuredImage: >-
   https://ucarecdn.com/43c646fd-ca71-47a4-ad4a-0b5d87619853/-/crop/1366x846/0,388/-/preview/
 imageThumbnail: >-
