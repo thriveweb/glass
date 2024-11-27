@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/d09aaf9b-71b1-49d3-933f-c88bcd039b11/-/crop/774x1115/196,31/-/preview/
 firstName: Andi
 collection: Emerging
-height: 173cm
+height: 174cm
 measurementType: bust
 bust: 83cm
 waist: 66cm
