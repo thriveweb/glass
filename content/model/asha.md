@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Asha
+title: C Asha
 featuredImage: >-
   https://ucarecdn.com/28756213-19c2-4a06-92c5-51496972af05/-/crop/2445x911/0,447/-/preview/
 imageThumbnail: >-
