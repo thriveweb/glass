@@ -4,7 +4,7 @@ title: Lisa S
 featuredImage: >-
   https://ucarecdn.com/209fe114-e164-42bc-9425-4ed048ca8075/-/crop/800x385/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ddae7a63-7c7c-4ca6-942e-335696f6d857/-/crop/170x261/227,266/-/preview/
+  https://ucarecdn.com/ddae7a63-7c7c-4ca6-942e-335696f6d857/-/crop/164x242/233,285/-/preview/
 firstName: Lisa S
 collection: Commercial Faces
 height: 185cm
