@@ -12,7 +12,7 @@ bust: 63.5cm
 waist: 59cm
 hips: 65cm
 size: '8'
-shoeSize: US11
+shoeSize: US2
 hair: Brown
 eyes: Brown
 imagePortfolio:
