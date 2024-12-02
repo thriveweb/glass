@@ -11,7 +11,7 @@ measurementType: bust
 bust: 63.5cm
 waist: 59cm
 hips: 65cm
-size: 6-7
+size: '8'
 shoeSize: US11
 hair: Brown
 eyes: Brown
@@ -19,8 +19,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/4fb89144-c9d8-40b2-b3ce-d2de9ee8d3a0/'
   - image: 'https://ucarecdn.com/87db6277-5529-4458-9384-7f82a8e4b9f8/'
   - image: 'https://ucarecdn.com/4c1c28ff-dfbd-4756-930e-81300f5f742f/'
-  - image: >-
-      https://ucarecdn.com/fe695e4d-85db-4b42-96da-53c6df9cb79d/-/crop/529x505/0,47/-/preview/
   - image: 'https://ucarecdn.com/8f7c35e6-ddc1-45c8-b71e-012d32f32ae9/'
   - image: 'https://ucarecdn.com/b2456768-f009-498b-ac80-7ff2b8875a05/'
   - image: >-
