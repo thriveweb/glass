@@ -2,7 +2,7 @@
 template: ModelPage
 title: Alessandra
 featuredImage: >-
-  https://ucarecdn.com/f2800b3e-b96f-413b-940c-f2aea955bc6d/-/crop/1650x773/0,48/-/preview/
+  https://ucarecdn.com/e3b8778d-564d-4c5b-8ed0-a464cbe6a728/-/crop/942x471/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/384e7206-2769-461e-9f47-7eb41cc601d8/-/crop/650x885/32,0/-/preview/
 firstName: Alessandra
