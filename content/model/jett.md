@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/b12caeef-33f9-4b65-bfd9-3732ca8fd7fe/-/crop/624x809/85,29/-/preview/
 firstName: Jett
 collection: Boys
-height: 144cm
+height: 145cm
 measurementType: chest
 bust: 69cm
 waist: 59cm
