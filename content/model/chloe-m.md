@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/cb177441-da31-4540-a7e5-f08ea0a029be/-/crop/251x375/175,63/-/preview/
 firstName: Chloe M
-collection: Emerging
+collection: ''
 height: 170cm
 measurementType: bust
 bust: 79cm
