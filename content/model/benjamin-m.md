@@ -2,11 +2,11 @@
 template: ModelPage
 title: Benjamin M
 featuredImage: >-
-  https://ucarecdn.com/86d2042b-6926-43e5-9baa-918955af667e/-/crop/2448x1266/0,0/-/preview/
+  https://ucarecdn.com/02c48a63-740e-41b5-90c9-af2543dbc734/-/crop/1101x683/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/67a84dfb-53f0-4021-8c72-f8203aa46857/-/crop/757x924/602,58/-/preview/
+  https://ucarecdn.com/306830e3-cdb2-497b-8e17-6aca31948098/-/crop/376x510/352,3/-/preview/
 firstName: Benjamin M
-collection: ''
+collection: Men
 height: 176cm
 measurementType: chest
 bust: 85cm
@@ -17,22 +17,16 @@ shoeSize: '11'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/a50a3ff8-00e8-4410-9526-b6bc316a4e80/'
-  - image: 'https://ucarecdn.com/2925c6a7-d04d-4b30-985f-e7774917ef28/'
-  - image: 'https://ucarecdn.com/43e76a76-f5de-441c-8e9d-70290092c60d/'
-  - image: 'https://ucarecdn.com/2c44b06d-460f-4536-b608-894f675197d5/'
-  - image: 'https://ucarecdn.com/53e3438d-04a9-420e-a3c2-9632474bc086/'
-  - image: 'https://ucarecdn.com/629817ca-0584-4b1e-9a90-30ea96d4200b/'
-  - image: 'https://ucarecdn.com/e43c4746-d8b8-4b7d-9eb8-2cb751f9700a/'
-  - image: 'https://ucarecdn.com/32d6a7e1-9159-4839-9226-eafbd0be241b/'
-  - image: 'https://ucarecdn.com/46dc67b2-76ec-4fc4-be04-51fa274e548b/'
-  - image: >-
-      https://ucarecdn.com/2877a579-1699-48fe-97ff-c169abf4b41a/-/crop/1604x2338/0,110/-/preview/
-  - image: 'https://ucarecdn.com/07d1a5f9-9b90-4cbf-8944-9167ac72deba/'
-  - image: 'https://ucarecdn.com/a4991096-4ebe-48cd-a058-463bdfa650a5/'
-  - image: 'https://ucarecdn.com/f8f742b1-e9a2-4bad-ab7e-04ab13f5f026/'
-  - image: 'https://ucarecdn.com/9cd450b7-6313-4667-ab3c-7758e7ba771b/'
-  - image: 'https://ucarecdn.com/0e2af675-0a07-413c-9745-3dd11258365c/'
-  - image: 'https://ucarecdn.com/8f9d25c2-e97e-4673-9aef-147296043e4c/'
+  - image: 'https://ucarecdn.com/915e5d5b-6894-4d70-944f-a0086179c544/'
+  - image: 'https://ucarecdn.com/020b4dff-56e0-47ba-956b-bbefde970ff0/'
+  - image: 'https://ucarecdn.com/461989fb-b7f7-420d-b516-6b2a2b25fd3b/'
+  - image: 'https://ucarecdn.com/65a77bef-4a97-4172-a8ec-65e115fc1e16/'
+  - image: 'https://ucarecdn.com/be66b410-3d95-4bae-b924-37606e1b1918/'
+  - image: 'https://ucarecdn.com/0a611a9a-b756-4bf7-b0b7-ecb8c2cdc314/'
+  - image: 'https://ucarecdn.com/1480ef62-0336-4679-b997-75a8bc3aeec7/'
+  - image: 'https://ucarecdn.com/1507e8b0-fc20-4523-9761-f32a792a50c8/'
+  - image: 'https://ucarecdn.com/d36545c9-633d-4757-a8e6-da6d00d06be0/'
+  - image: 'https://ucarecdn.com/263228fc-22be-4bab-aeea-899558b15d1d/'
+  - image: 'https://ucarecdn.com/95171977-e484-449c-b697-c9321d447cfd/'
 ---
 
