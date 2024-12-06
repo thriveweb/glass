@@ -4,7 +4,7 @@ title: Zen
 featuredImage: >-
   https://ucarecdn.com/6a64f43f-d709-4e42-90fd-96f29fdaabb9/-/crop/7705x4429/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/a6075d74-630b-4f43-a4d1-174caefee0c0/-/crop/1417x2157/215,0/-/preview/
+  https://ucarecdn.com/bf87f715-91bb-41e2-a46c-100024de173b/-/crop/362x521/237,0/-/preview/
 firstName: Zen
 collection: Men
 height: 176cm
