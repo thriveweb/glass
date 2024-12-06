@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/306830e3-cdb2-497b-8e17-6aca31948098/-/crop/376x510/352,3/-/preview/
 firstName: Benjamin M
 collection: Men
-height: 176cm
+height: 185cm
 measurementType: chest
-bust: 85cm
-waist: 71cm
-hips: 75cm
+bust: 90cm
+waist: 76cm
+hips: 85cm
 size: M/30
-shoeSize: '11'
+shoeSize: '11.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
