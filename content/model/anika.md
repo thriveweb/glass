@@ -11,7 +11,7 @@ measurementType: bust
 bust: 49cm
 waist: 49cm
 hips: 49cm
-size: 2-3
+size: '3'
 shoeSize: 6/7
 imagePortfolio:
   - image: 'https://ucarecdn.com/2927bb17-f565-49a3-9355-0c5960c18c08/'
