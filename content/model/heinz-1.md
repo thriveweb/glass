@@ -3,7 +3,8 @@ template: ModelPage
 title: Heinz
 featuredImage: >-
   https://ucarecdn.com/5952438b-7cd4-4eff-a834-11018fbaa39f/-/crop/2366x1235/0,58/-/preview/
-imageThumbnail: 'https://ucarecdn.com/d4c8434a-7589-42fe-9563-7b56bc2e7f37/'
+imageThumbnail: >-
+  https://ucarecdn.com/d4c8434a-7589-42fe-9563-7b56bc2e7f37/-/crop/1347x1994/125,0/-/preview/
 firstName: Heinz
 collection: Classic
 height: 186cm
