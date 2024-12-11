@@ -1,10 +1,9 @@
 ---
 template: ModelPage
 title: Kiah
-featuredImage: >-
-  https://ucarecdn.com/fa51649a-9c41-4b09-98b9-8deab0483a24/-/crop/2449x1341/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/90572a61-cbc2-467e-8556-163570c078dd/'
 imageThumbnail: >-
-  https://ucarecdn.com/cb3a379b-ad71-42e3-9c24-52ab78969f22/-/crop/889x1080/290,147/-/preview/
+  https://ucarecdn.com/a0135814-53c7-481a-a4e9-7992aca9c727/-/crop/634x932/9,9/-/preview/
 firstName: Kiah
 collection: Girls
 height: 115cm
@@ -17,17 +16,17 @@ shoeSize: '11'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/17ed6085-80e5-4f23-a57e-f5600756a4c0/'
-  - image: 'https://ucarecdn.com/86f22e8e-0092-445a-9784-11dc193c0af3/'
+  - image: 'https://ucarecdn.com/4197f2ad-126b-454a-947d-dd60e78c9589/'
+  - image: 'https://ucarecdn.com/3a7c8ef5-9f37-48fa-bccb-98f4df91b717/'
   - image: 'https://ucarecdn.com/b2e7fbdb-bd58-48f3-bb4f-2820efff96f9/'
+  - image: 'https://ucarecdn.com/86f22e8e-0092-445a-9784-11dc193c0af3/'
   - image: 'https://ucarecdn.com/dd582b9f-2214-45f3-88c9-ebb5aa49b2d7/'
-  - image: 'https://ucarecdn.com/f25578cf-4369-474f-b57b-faf29391f2b2/'
-  - image: 'https://ucarecdn.com/5d52501d-3d7e-4ccd-a4b5-087e5a80dc6d/'
-  - image: 'https://ucarecdn.com/b60072ed-eec7-4fc7-a927-203969b4a009/'
-  - image: 'https://ucarecdn.com/2557168e-f001-4d16-a95c-024cb153a47e/'
+  - image: 'https://ucarecdn.com/8ba774ec-a935-4756-b0ff-7e2d29febd5f/'
+  - image: 'https://ucarecdn.com/5bcce8bc-a2bd-4312-906c-2e47e97a8be0/'
   - image: 'https://ucarecdn.com/9dfadc01-cb22-48ca-9a5d-671a4a0534b8/'
   - image: 'https://ucarecdn.com/7a890f62-e40c-4982-9e59-221b8eac871a/'
   - image: 'https://ucarecdn.com/ea56e967-954d-41c0-b657-222773815127/'
-  - image: 'https://ucarecdn.com/1124ae46-93c7-4052-96b9-51f19ea627ed/'
+  - image: 'https://ucarecdn.com/56ec15bb-2848-4c1c-ab7f-eeb1d4574d92/'
+  - image: 'https://ucarecdn.com/5780b2ce-576e-4bbb-a80a-857574e9dcb2/'
 ---
 
