@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Ashton
+title: Q Ashton
 featuredImage: 'https://ucarecdn.com/6a92e895-8cff-4025-8dc6-471ab800cf12/'
 imageThumbnail: >-
   https://ucarecdn.com/374ca6c4-6fee-4c68-be87-3868f5b71b96/-/crop/416x527/617,527/-/preview/
