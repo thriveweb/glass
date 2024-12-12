@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/3cb3690e-cdd8-4ea6-9452-614bae0464f8/'
 imageThumbnail: >-
   https://ucarecdn.com/b74e6df6-dcd2-419d-aceb-2504cce6fca3/-/crop/967x1246/709,0/-/preview/
 firstName: Dai-Shaun
-collection: Boys
+collection: Emerging
 height: 165cm
 measurementType: chest
 bust: 95cm
