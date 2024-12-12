@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/b84120db-ce04-4990-b987-a52edccf51c3/'
 imageThumbnail: >-
   https://ucarecdn.com/6ebe902b-8b4b-4f09-8800-58226cfd295c/-/crop/532x804/35,0/-/preview/
 firstName: Bailey M
-collection: Boys
+collection: Emerging
 height: 154cm
 measurementType: chest
 bust: 78cm
