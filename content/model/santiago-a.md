@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/e2d0cdb1-78f9-4b75-8429-2c613fdcb880/-/crop/522x692/92,0/-/preview/
 firstName: Santiago A
-collection: Boys
+collection: ''
 height: 109cm
 measurementType: chest
 bust: 61cm
