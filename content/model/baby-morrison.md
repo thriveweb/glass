@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/1b362e73-40a1-45ca-88d2-e8fe37344c34/-/crop/866x1117/597,923/-/preview/
 firstName: Morrison
-collection: Boys
+collection: ''
 height: 104cm
 measurementType: chest
 bust: 53cm
