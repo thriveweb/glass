@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/5d226703-0f05-4e81-8b3c-1677bf19a6c5/-/crop/1650x954/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/4855933e-6471-4c12-a9f0-ddb5cf111182/'
 firstName: Carter
-collection: Emerging
+collection: Commercial Faces
 height: 195cm
 measurementType: chest
 bust: 96cm
