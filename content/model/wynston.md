@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Aa Wynston
+title: Wynston
 featuredImage: 'https://ucarecdn.com/998eade7-4be3-44a6-8b50-926d5511acc0/'
 imageThumbnail: >-
   https://ucarecdn.com/7c570082-547c-4d85-a6f5-b48667856620/-/crop/425x597/453,76/-/preview/
