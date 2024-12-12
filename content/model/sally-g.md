@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/9ea1b115-7bad-4b29-957c-a68f64688bb5/'
 imageThumbnail: 'https://ucarecdn.com/197ddafa-c456-4d07-b076-0b38f2bac005/'
 firstName: Sally G
 collection: Commercial Faces
-height: 173cm
+height: 171cm
 measurementType: bust
 bust: 102cm
-waist: 89cm
-hips: 104cm
-size: 10-12
-shoeSize: '9'
+waist: 85cm
+hips: 106cm
+size: 12-14
+shoeSize: '9.5'
 hair: 'Blonde '
 imagePortfolio:
   - image: >-
