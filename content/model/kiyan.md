@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: c Kiyan
+title: C Kiyan
 featuredImage: >-
   https://ucarecdn.com/02c46eb7-e7f6-41df-b98f-596b53e5a9c0/-/crop/2560x1297/0,239/-/preview/
 featuredVideo: 'https://ucarecdn.com/83ba95d9-3387-4934-ade3-06c127c6790d/'
