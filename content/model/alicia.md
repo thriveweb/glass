@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/8ec5e5c5-f11a-4f29-9e23-320336d31b2a/-/crop/1149x1637/302,139/-/preview/
 firstName: Alicia
-collection: Girls
+collection: ''
 height: 148cm
 measurementType: bust
 bust: 70cm
