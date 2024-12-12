@@ -3,8 +3,7 @@ template: ModelPage
 title: 'C Phoenix '
 featuredImage: >-
   https://ucarecdn.com/5fdc5c96-ec52-40ea-a456-f7602955c869/-/crop/854x586/0,329/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/5edabe46-94a6-499b-b0e0-3d8d57b93355/-/crop/303x371/320,99/-/preview/
+imageThumbnail: 'https://ucarecdn.com/aa4fa3f0-07fc-473b-9e26-be2ccb34e853/'
 firstName: Phoenix
 collection: Boys
 height: 114cm
