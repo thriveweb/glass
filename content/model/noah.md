@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/41bc7eb5-97e3-49cf-b619-39d4e18a6e32/-/crop/1518x1800/45,0/-/preview/
 firstName: Noah
-collection: Boys
+collection: ''
 height: 107cm
 measurementType: chest
 bust: 57cm
