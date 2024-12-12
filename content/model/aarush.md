@@ -4,7 +4,7 @@ title: 'Aarush '
 featuredImage: >-
   https://ucarecdn.com/450870d3-4225-4ba1-ad9b-0066d5d7d297/-/crop/1368x701/0,42/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b284e7a7-f126-4860-a405-7d96df42fcb7/-/crop/488x727/45,185/-/preview/
+  https://ucarecdn.com/b284e7a7-f126-4860-a405-7d96df42fcb7/-/crop/407x514/90,168/-/preview/
 firstName: Aarush
 collection: Boys
 height: 139cm
