@@ -4,7 +4,7 @@ title: Josh G
 featuredImage: 'https://ucarecdn.com/823718a2-1855-4d95-8d95-d13ab8b83a49/'
 imageThumbnail: 'https://ucarecdn.com/8430326c-841e-4b4f-8377-58b01b5ec9e4/'
 firstName: Josh G
-collection: Men
+collection: ''
 height: 181cm
 measurementType: chest
 bust: 101cm
