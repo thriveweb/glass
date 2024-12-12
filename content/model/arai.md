@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/801c268d-20b2-4c1f-98ca-a3569f54ba98/-/crop/519x756/650,599/-/preview/
 firstName: Arai
-collection: Boys
+collection: ''
 height: 124cm
 measurementType: chest
 bust: 61cm
