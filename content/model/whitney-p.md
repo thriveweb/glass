@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/cb7ec707-0ac9-4ad1-b90a-161cb2718243/-/crop/480x689/92,210/-/preview/
 firstName: Whitney P
-collection: Girls
+collection: ''
 size: ''
 hair: Brown
 eyes: Brown
