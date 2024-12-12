@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b79a52ba-9386-40ab-968b-bd71081b6ba5/-/crop/1451x1834/770,804/-/preview/
 firstName: Baby Valerie
-collection: Girls
+collection: ''
 height: 70cm
 size: 12-18 months
 shoeSize: '3'
