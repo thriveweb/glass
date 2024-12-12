@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/95ca07f2-60b2-4806-8e76-24ebb8c81f7e/-/crop/674x968/672,193/-/preview/
 firstName: Varekai
-collection: Boys
+collection: ''
 height: 93cm
 measurementType: chest
 bust: 53cm
