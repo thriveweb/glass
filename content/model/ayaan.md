@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'Ayaan '
+title: 'n Ayaan '
 featuredImage: >-
   https://ucarecdn.com/4ac77142-2687-4071-b188-cf97bec90a2e/-/crop/608x428/0,68/-/preview/
 imageThumbnail: >-
