@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/5f5e663d-6568-4fe8-b378-0467e74a9b90/-/crop/1037x1523/395,0/-/preview/
 firstName: Jemima
-collection: Girls
+collection: Emerging
 height: 158cm
 measurementType: bust
 bust: 74cm
