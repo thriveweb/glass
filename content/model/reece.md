@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/4103cb8b-4fcf-4d6a-9bad-63ce5f566789/-/crop/702x931/0,0/-/preview/
 firstName: Reece
-collection: Men
+collection: Classic
 height: 180cm
 measurementType: chest
 bust: 94cm
