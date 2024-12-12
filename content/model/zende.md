@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'A Zende '
+title: 'AA Zende '
 featuredImage: >-
   https://ucarecdn.com/0cd9aff7-a863-4bc8-9079-4b720df4e4d5/-/crop/1067x733/0,58/-/preview/
 imageThumbnail: >-
