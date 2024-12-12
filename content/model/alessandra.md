@@ -13,7 +13,7 @@ bust: 60cm
 waist: 52cm
 hips: 66cm
 size: '8'
-shoeSize: US 5
+shoeSize: US 5 womens
 hair: Blonde
 eyes: Blue
 imagePortfolio:
