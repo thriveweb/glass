@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/70ca3139-b765-4106-8e0c-2f34e9b3b641/-/crop/427x400/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/30e05e6d-c5ef-4863-b3cc-9f2611b29b38/'
 firstName: Iverson
-collection: Boys
+collection: ''
 height: 110cm
 measurementType: chest
 bust: 59cm
