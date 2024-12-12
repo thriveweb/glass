@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/70c1f45e-66fb-465f-bba2-fb798d2205ca/'
 imageThumbnail: >-
   https://ucarecdn.com/0ef68ce4-dde0-4ec0-8935-3cfd668bdaa3/-/crop/1695x2163/1070,344/-/preview/
 firstName: Raj
-collection: Emerging
+collection: Commercial Faces
 height: 170cm
 measurementType: bust
 bust: 79cm
