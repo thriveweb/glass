@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/8309ffde-b599-4a36-8a23-d3fabca0e6bf/-/crop/686x993/47,0/-/preview/
 firstName: Uchechi
-collection: Women
+collection: Classic
 height: 172cm
 measurementType: bust
 bust: 107cm
