@@ -4,7 +4,7 @@ title: Airlie
 featuredImage: >-
   https://ucarecdn.com/2af9ba47-787a-405b-be49-fe79ff3461cc/-/crop/1800x944/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/9b9e3065-6057-4b2a-a682-e226d84ebfdb/-/crop/413x529/774,58/-/preview/
+  https://ucarecdn.com/9b9e3065-6057-4b2a-a682-e226d84ebfdb/-/crop/413x529/751,58/-/preview/
 firstName: Airlie
 collection: Girls
 height: 150cm
