@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Brooklyn
+title: P Brooklyn
 featuredImage: >-
   https://ucarecdn.com/50efff2c-0549-466a-8eec-25ad06062798/-/crop/1650x945/0,0/-/preview/
 imageThumbnail: >-
