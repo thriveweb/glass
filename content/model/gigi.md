@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/b6a2954e-cd04-4f0f-a7c1-97b3dc7890d9/-/crop/543x753/265,0/-/preview/
 firstName: Gigi
-collection: Girls
+collection: ''
 height: 147cm
 measurementType: bust
 bust: 76cm
