@@ -4,7 +4,7 @@ title: Kairo
 featuredImage: 'https://ucarecdn.com/2a21a12d-84e5-44d4-aa3a-d67d8b73ce8a/'
 imageThumbnail: 'https://ucarecdn.com/355405c5-f1be-4d78-8613-00f266d68f03/'
 firstName: Kairo
-collection: Boys
+collection: ''
 height: ''
 size: 2-3
 shoeSize: '9'
