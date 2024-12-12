@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/36b5ff7e-a492-4e28-b652-8cd6714786b2/-/crop/836x1284/109,166/-/preview/
 firstName: Peni
-collection: Men
+collection: Commercial Faces
 height: 201cm
 measurementType: chest
 bust: 97cm
