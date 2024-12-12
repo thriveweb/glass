@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/9f61bb0e-b7ef-4fb4-9712-54730163a568/-/crop/409x580/296,34/-/preview/
 firstName: Nevada
-collection: Girls
+collection: ''
 height: 146cm
 measurementType: bust
 bust: 57cm
