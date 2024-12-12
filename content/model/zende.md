@@ -4,7 +4,7 @@ title: 'A Zende '
 featuredImage: >-
   https://ucarecdn.com/0cd9aff7-a863-4bc8-9079-4b720df4e4d5/-/crop/1067x733/0,58/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/d9d3d31b-b842-49eb-8011-d4b178debae4/-/crop/293x372/102,0/-/preview/
+  https://ucarecdn.com/1e9d2411-28da-4b6b-a711-dbb0c0571c1d/-/crop/421x528/32,0/-/preview/
 firstName: Zende
 collection: Boys
 height: 115cm
