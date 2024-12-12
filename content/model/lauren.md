@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f2cfba22-f609-4a23-9014-8f05228e3bae/-/crop/335x471/100,0/-/preview/
 firstName: 'Lauren '
-collection: Women
+collection: ''
 height: 165cm
 measurementType: bust
 bust: 89cm
