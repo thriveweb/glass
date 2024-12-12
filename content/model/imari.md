@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/911f76d2-9666-4e7f-9c7f-248506192b24/-/crop/452x607/151,36/-/preview/
 firstName: Imari
-collection: Girls
+collection: ''
 height: 126cm
 measurementType: bust
 bust: 61cm
