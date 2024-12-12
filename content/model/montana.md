@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/1650e775-d7a2-4b93-a71e-771cb318265b/-/crop/253x344/196,140/-/preview/
 firstName: Montana
-collection: Emerging
+collection: ''
 height: 164cm
 measurementType: bust
 bust: 71cm
