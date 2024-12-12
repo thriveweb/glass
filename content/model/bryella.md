@@ -4,7 +4,7 @@ title: Bryella
 featuredImage: >-
   https://ucarecdn.com/77b01fbf-3a97-4a88-aae6-76a865cbb9da/-/crop/1014x494/0,118/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/71daa5d3-296f-4193-8996-79d8a11c474a/-/crop/404x607/79,99/-/preview/
+  https://ucarecdn.com/a8d15c78-7903-4d64-9e41-9f94aeff0954/-/crop/617x827/738,0/-/preview/
 firstName: Bryella
 collection: Girls
 height: ' 117cm'
