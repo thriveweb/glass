@@ -4,7 +4,7 @@ title: Gus
 featuredImage: >-
   https://ucarecdn.com/22f6e85c-ed75-40ae-8acf-83470f8ba505/-/crop/948x374/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/5fd990a5-9d64-449a-94f4-e825709732ee/-/crop/1213x1655/171,70/-/preview/
+  https://ucarecdn.com/5fd990a5-9d64-449a-94f4-e825709732ee/-/crop/916x1228/331,110/-/preview/
 firstName: Gus
 collection: Boys
 height: 137cm
