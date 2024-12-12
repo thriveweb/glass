@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/384e7206-2769-461e-9f47-7eb41cc601d8/-/crop/650x885/32,0/-/preview/
 firstName: Alessandra
 collection: Girls
-height: 135cm
+height: 136cm
 measurementType: bust
-bust: 57cm
-waist: 54cm
-hips: 63cm
-size: '7'
-shoeSize: US 3
+bust: 60cm
+waist: 52cm
+hips: 66cm
+size: '8'
+shoeSize: US 5
 hair: Blonde
 eyes: Blue
 imagePortfolio:
