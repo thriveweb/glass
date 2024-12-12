@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Isaiah M
+title: b Isaiah M
 featuredImage: 'https://ucarecdn.com/09e1ac02-ee84-4490-b513-ec5a46bab42a/'
 imageThumbnail: >-
   https://ucarecdn.com/e8d3c7df-d6d8-4401-8b5f-5d35fc3a3ba3/-/crop/753x1082/484,191/-/preview/
