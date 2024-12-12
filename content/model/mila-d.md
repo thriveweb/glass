@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/3a49555e-ada0-448e-ad34-8df6cf14ec34/-/crop/190x249/153,0/-/preview/
 firstName: Mila D
-collection: Girls
+collection: Emerging
 height: 160cm
 measurementType: bust
 bust: 72cm
