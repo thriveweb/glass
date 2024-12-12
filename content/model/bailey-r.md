@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/a5ddeab3-92c5-43b0-aabc-df11ebaa3ce4/-/crop/940x1198/329,0/-/preview/
 firstName: Bailey R
-collection: Girls
+collection: ''
 height: 109cm
 measurementType: bust
 bust: 54cm
