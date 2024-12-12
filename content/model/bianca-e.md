@@ -4,7 +4,7 @@ title: Bianca E
 featuredImage: 'https://ucarecdn.com/322390b7-ad75-432d-9337-fc954d61f1bd/'
 imageThumbnail: 'https://ucarecdn.com/3f1160c8-2ad0-428d-9145-d580578e17bf/'
 firstName: Bianca E
-collection: Emerging
+collection: Commercial Faces
 height: 163cm
 measurementType: bust
 bust: 90cm
