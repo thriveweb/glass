@@ -2,8 +2,7 @@
 template: ModelPage
 title: 'Atlas '
 featuredImage: 'https://ucarecdn.com/2b82dd5a-bc96-47a7-ae56-2e2f1fff2bd7/'
-imageThumbnail: >-
-  https://ucarecdn.com/c6de0f8c-af39-47a6-8880-cb190bdd17f3/-/crop/921x1265/179,122/-/preview/
+imageThumbnail: 'https://ucarecdn.com/032d739a-d91b-4e66-8c2c-bbdcaeb60f49/'
 firstName: Atlas
 collection: Boys
 height: 79cm
