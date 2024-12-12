@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/745a0d03-5766-4977-9a13-a42a9093800f/'
 imageThumbnail: >-
   https://ucarecdn.com/aaa74cc4-9354-482f-9173-49ddcdd82a46/-/crop/1080x1463/279,164/-/preview/
 firstName: Kim W
-collection: Girls
+collection: Emerging
 height: 157cm
 measurementType: bust
 bust: 73cm
