@@ -3,9 +3,9 @@ template: ModelPage
 title: Rico
 featuredImage: 'https://ucarecdn.com/ab79caeb-d152-4018-bec4-5e7825ee5b9f/'
 imageThumbnail: >-
-  https://ucarecdn.com/0aade3e4-981c-4dcc-85bb-9bef47689b50/-/crop/681x937/153,343/-/preview/
+  https://ucarecdn.com/0aade3e4-981c-4dcc-85bb-9bef47689b50/-/crop/488x650/259,375/-/preview/
 firstName: Rico
-collection: Boys
+collection: Emerging
 height: 144cm
 measurementType: chest
 bust: 68cm
