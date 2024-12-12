@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/ed7bb696-dc8d-40ef-8620-07b463e44bc5/-/crop/1050x737/0,94/-/preview/
 imageThumbnail: 'https://ucarecdn.com/3a25c651-7170-4353-afa3-690799116fb5/'
 firstName: Cleo
-collection: Girls
+collection: ''
 height: 120cm
 measurementType: bust
 bust: 63.5cm
