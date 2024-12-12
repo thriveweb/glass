@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Nathaniel
+title: A Nathaniel
 featuredImage: >-
   https://ucarecdn.com/d2fbb877-f66f-4332-8b26-39fc1c881e3f/-/crop/800x501/0,46/-/preview/
 imageThumbnail: >-
