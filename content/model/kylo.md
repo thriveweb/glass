@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/bb0cad0c-f28b-4a66-b3f1-cb1d363dbddf/-/crop/1632x1114/0,105/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/2e06b683-56c1-444a-a7a0-da20fa3f8fe0/-/crop/621x816/484,105/-/preview/
-firstName: Kylo
+firstName: c Kylo
 collection: Boys
 height: 81cm
 measurementType: chest
