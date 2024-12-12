@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Kingsley
+title: W Kingsley
 featuredImage: 'https://ucarecdn.com/5724566a-ace7-45cc-8824-12221a9779ed/'
 imageThumbnail: >-
   https://ucarecdn.com/5d1d8f4b-57b0-4521-9ce1-226906058ad7/-/crop/957x1372/709,101/-/preview/
