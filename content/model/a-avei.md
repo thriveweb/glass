@@ -12,7 +12,7 @@ measurementType: bust
 bust: 68cm
 waist: 57cm
 hips: 77cm
-size: 10-12
+size: '12'
 shoeSize: 7 Women's
 hair: Brown
 eyes: Brown
