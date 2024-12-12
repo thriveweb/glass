@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'Aarush '
+title: 'm Aarush '
 featuredImage: >-
   https://ucarecdn.com/450870d3-4225-4ba1-ad9b-0066d5d7d297/-/crop/1368x701/0,42/-/preview/
 imageThumbnail: >-
