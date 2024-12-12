@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/3530e549-d80c-423e-86d5-98d6b894365f/'
 imageThumbnail: >-
   https://ucarecdn.com/18d66dbb-47fb-4e06-8977-c7b125d14b6b/-/crop/557x679/889,111/-/preview/
 firstName: 'Eva '
-collection: Girls
+collection: ''
 height: 100.5cm
 measurementType: bust
 bust: 57cm
