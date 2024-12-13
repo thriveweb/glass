@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: d Tahiwai
+title: ' D Tahiwai'
 featuredImage: >-
   https://ucarecdn.com/c9ca96fa-079c-4dfe-9a74-c0d0fcc51d86/-/crop/1650x917/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/b4f41547-8bf6-4048-91dd-30e8a3ca1a01/'
