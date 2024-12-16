@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/306830e3-cdb2-497b-8e17-6aca31948098/-/crop/376x510/352,3/-/preview/
 firstName: Benjamin M
 collection: Men
-height: 185cm
+height: 188cm
 measurementType: chest
 bust: 90cm
 waist: 76cm
