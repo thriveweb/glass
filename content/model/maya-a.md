@@ -7,7 +7,7 @@ featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: >-
   https://ucarecdn.com/e6bba237-2d21-4ff2-8251-86504e8324fb/-/crop/1374x2020/89,81/-/preview/
-firstName: Maya A
+firstName: 'Maya '
 collection: Women
 height: 170cm
 measurementType: bust
