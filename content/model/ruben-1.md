@@ -4,7 +4,7 @@ title: Ruben O
 featuredImage: >-
   https://ucarecdn.com/da97ef9b-dd54-4fe7-a545-f7451a13dcc2/-/crop/1650x819/0,32/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/83e9e1de-5666-4019-bca0-7b52b202040c/-/crop/613x861/41,19/-/preview/
+  https://ucarecdn.com/38c7cf43-2253-4b9b-9890-d57f7d207648/-/crop/353x499/352,0/-/preview/
 firstName: Ruben O
 collection: Men
 height: 186cm
