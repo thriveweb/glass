@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/8bd59c8b-268a-4f3b-8922-3138f0af6e44/-/crop/364x437/141,185/-/preview/
 firstName: Blessed
-collection: Women
+collection: Commercial Faces
 height: 178cm
 measurementType: bust
 bust: 109cm
