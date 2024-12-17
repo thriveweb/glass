@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Benjamin M
+title: Ben M
 featuredImage: >-
   https://ucarecdn.com/02c48a63-740e-41b5-90c9-af2543dbc734/-/crop/1101x683/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/306830e3-cdb2-497b-8e17-6aca31948098/-/crop/376x510/352,3/-/preview/
-firstName: Benjamin M
+firstName: Ben M
 collection: Men
 height: 188cm
 measurementType: chest
