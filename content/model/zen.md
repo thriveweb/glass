@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/01835577-e660-449c-aa91-49f831f531d5/-/crop/276x458/153,0/-/preview/
 firstName: Zen
-collection: Men
+collection: Commercial Faces
 height: 176cm
 measurementType: chest
 bust: 93cm
