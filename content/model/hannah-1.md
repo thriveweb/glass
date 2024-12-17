@@ -4,7 +4,7 @@ title: Hannah
 featuredImage: >-
   https://ucarecdn.com/b0a1d9c3-fe3f-48c3-8f5f-a866a8a1d167/-/crop/2414x1261/0,371/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/74bc4222-3ae9-4d56-b49c-a04c39badb65/-/crop/697x973/635,0/-/preview/
+  https://ucarecdn.com/74bc4222-3ae9-4d56-b49c-a04c39badb65/-/crop/682x973/640,56/-/preview/
 firstName: Hannah
 collection: Women
 height: 173cm
