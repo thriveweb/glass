@@ -9,10 +9,10 @@ firstName: Benjamin M
 collection: Men
 height: 188cm
 measurementType: chest
-bust: 90cm
-waist: 76cm
-hips: 85cm
-size: M/30
+bust: 88cm
+waist: 70cm
+hips: 90cm
+size: M/32
 shoeSize: '11.5'
 hair: Brown
 eyes: Brown
