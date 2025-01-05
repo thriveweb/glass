@@ -5,13 +5,13 @@ featuredImage: 'https://ucarecdn.com/69e99576-f0c8-4791-9a35-bf81e1080b27/-/prev
 imageThumbnail: 'https://ucarecdn.com/0b4159ee-255a-43ce-999e-96d658603ad2/'
 firstName: Eli
 collection: Emerging
-height: 162cm
+height: 173cm
 measurementType: chest
-bust: 88cm
-waist: 81cm
-hips: 89cm
-size: '14'
-shoeSize: '8'
+bust: 85cm
+waist: 73cm
+hips: 86cm
+size: Mens S / 30
+shoeSize: '11'
 hair: brown
 eyes: brown
 imagePortfolio:
