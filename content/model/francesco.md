@@ -6,6 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/da513e57-3a44-4afd-99cc-ea0798dc2993/-/crop/502x728/77,144/-/preview/
 firstName: Francesco
+collection: Men
 height: 180cm
 measurementType: chest
 bust: 105cm
