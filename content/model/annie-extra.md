@@ -7,13 +7,15 @@ imageThumbnail: >-
   https://ucarecdn.com/eea97870-7173-4bba-8bb7-9359411a1dd9/-/crop/1041x1503/243,65/-/preview/
 firstName: Annie
 collection: Women
-height: 5'5
+height: 166cm
 measurementType: bust
-bust: 31'
-waist: 23'
-hips: 35'
+bust: 78cm
+waist: 58cm
+hips: 88cm
 size: '6'
 shoeSize: '7'
+hair: Blonde
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/405e34f6-1968-4754-be6c-c04f6c2a747e/'
   - image: >-
