@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: 'A Harry '
-featuredImage: 'https://ucarecdn.com/9a1e6d88-dbf0-408b-83be-d6bfae3c6296/'
+featuredImage: >-
+  https://ucarecdn.com/9a1e6d88-dbf0-408b-83be-d6bfae3c6296/-/crop/2212x1126/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/dd881ae0-cf04-4b00-a434-8d0997cb4692/-/crop/1291x1821/147,106/-/preview/
 firstName: Harry
