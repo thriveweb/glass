@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/cbae93ec-985d-4a70-8b8d-a9b9263131bd/'
 firstName: Alyx
 collection: Girls
-height: 155c=cm
+height: 155cm
 measurementType: bust
 bust: 69cm
 waist: 56cm
