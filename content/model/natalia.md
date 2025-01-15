@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/ddf5c418-1636-456b-be9e-c0bbb2cdaf72/-/crop/606x897/85,31/-/preview/
 firstName: Natalia  A
 collection: Girls
-height: 145cm
+height: 147cm
 measurementType: bust
-bust: 73cm
-waist: 62cm
-hips: 73cm
-size: 10-12
-shoeSize: '6'
+bust: 83cm
+waist: 69cm
+hips: 83cm
+size: '12'
+shoeSize: 8 Women's
 hair: Brown
 eyes: Brown
 imagePortfolio:
