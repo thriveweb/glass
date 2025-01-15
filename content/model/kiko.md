@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/6e18ea6d-9cd1-44b2-bbae-e8fe8055fa7e/-/crop/712x957/671,29/-/preview/
 firstName: Kiko
 collection: Girls
-height: 116cm
+height: 117cm
 measurementType: bust
 bust: 54cm
 waist: 49cm
-hips: 57cm
-size: 5-6
+hips: 59cm
+size: '6'
 shoeSize: '13'
 hair: Brown
 eyes: Brown
