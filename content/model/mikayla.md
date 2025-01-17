@@ -9,9 +9,9 @@ firstName: Mikayla
 collection: Emerging
 height: 162cm
 measurementType: bust
-bust: 84cm
-waist: 71cm
-hips: 99cm
+bust: 82cm
+waist: 67cm
+hips: 95cm
 size: '8'
 shoeSize: '8'
 hair: Brown
