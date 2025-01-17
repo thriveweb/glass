@@ -12,7 +12,7 @@ measurementType: chest
 bust: 112cm
 waist: 106cm
 hips: 104cm
-size: 36-38
+size: 36 Pant -XL Shirt
 shoeSize: '8'
 hair: Grey
 eyes: Blue
