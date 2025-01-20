@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/5852b377-34a9-449b-acfb-efcea276818d/-/crop/1077x1282/288,66/-/preview/
 firstName: Ava Rosemary
 collection: Girls
-height: 110cm
+height: 123cm
 measurementType: bust
 bust: 56cm
 waist: 51cm
 hips: 60cm
-size: '4'
-shoeSize: EU 25
+size: '5'
+shoeSize: '12'
 hair: Black
 eyes: Brown
 imagePortfolio:
