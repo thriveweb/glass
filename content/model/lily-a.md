@@ -8,9 +8,9 @@ firstName: Lily A
 collection: Girls
 height: 150cm
 measurementType: bust
-bust: 67cm
-waist: 56cm
-hips: 68cm
+bust: 71cm
+waist: 61cm
+hips: 72cmcm
 size: '10'
 shoeSize: '6'
 hair: Brown
