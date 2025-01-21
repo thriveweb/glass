@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/f19eb7e8-d3e0-4eca-973c-571875d56669/-/crop/1490x2248/95,6/-/preview/
 firstName: Isabelle J
 collection: Girls
-height: 141cm
+height: 145cm
 measurementType: bust
-bust: 64cm
-waist: 54cm
-hips: 66cm
-size: 8-10
+bust: 66cm
+waist: 57cm
+hips: 64cm
+size: '10'
 shoeSize: '5'
 hair: Red
 eyes: Blue
