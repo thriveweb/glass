@@ -9,11 +9,11 @@ firstName: Eva
 collection: Girls
 height: 139cm
 measurementType: bust
-bust: 60cm
-waist: 52cm
-hips: 65cm
+bust: 64cm
+waist: 57cm
+hips: 72cm
 size: '10'
-shoeSize: '3'
+shoeSize: 3-4
 hair: Brown
 eyes: Brown
 imagePortfolio:
