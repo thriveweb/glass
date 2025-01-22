@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/4e33a274-900b-497e-9078-b1ec06e019a5/-/crop/1691x1629/401,0/-/preview/
 firstName: Ayo
 collection: Girls
-height: 139cm
+height: 146cm
 measurementType: bust
 bust: 64cm
 waist: 60cm
