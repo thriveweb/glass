@@ -6,12 +6,12 @@ featuredImage: >-
 imageThumbnail: 'https://ucarecdn.com/f87010f6-8e3e-49bf-b1f8-e4d3ebb0bd9d/'
 firstName: Cheryl
 collection: Classic
-height: 171cm
+height: 172cm
 measurementType: bust
-bust: 84cm
-waist: 68cm
-hips: 104cm
-size: 10-12
+bust: 95cm
+waist: 84cm
+hips: 119cmm
+size: '14'
 shoeSize: '10'
 hair: Brown
 eyes: Brown
