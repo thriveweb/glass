@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Maely
+title: Maely ✈︎
 featuredImage: >-
   https://ucarecdn.com/9737bc28-8767-41bc-bf55-b2cf1106bc6b/-/crop/3346x2051/8,48/-/preview/
 imageThumbnail: >-
