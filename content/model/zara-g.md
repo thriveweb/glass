@@ -7,7 +7,15 @@ imageThumbnail: >-
   https://ucarecdn.com/386c2552-0e99-4171-ad3f-2e250193aec9/-/crop/568x806/41,0/-/preview/
 firstName: Zara G
 collection: Commercial Faces
+height: 163cm
+measurementType: bust
+bust: 85cm
+waist: 74cm
+hips: 93cm
+size: 8-10
+shoeSize: '7.5'
 hair: Blonde
+eyes: Green
 imagePortfolio:
   - image: 'https://ucarecdn.com/317ea26e-0959-4439-8016-4d857182e6bc/'
   - image: >-
