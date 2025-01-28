@@ -24,16 +24,16 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/c383b987-3fc1-4539-8fbd-91b1c25f0544/'
   - image: 'https://ucarecdn.com/626b68f5-ff7b-4114-bf06-0d2dba055286/'
   - image: 'https://ucarecdn.com/3572d32a-b9f1-4d26-af79-7495d6815165/'
-  - image: >-
-      https://ucarecdn.com/b39a1e42-efe4-4997-a9c8-9b78b546a711/-/crop/1547x2196/39,26/-/preview/
+  - image: 'https://ucarecdn.com/09868994-002b-4ca2-8c64-04011027d7e2/'
   - image: 'https://ucarecdn.com/8f40749a-7b85-47af-ae31-6063b4f299b5/'
   - image: 'https://ucarecdn.com/0c268c2b-baf2-4e12-bd79-fb0575fa9c84/'
   - image: 'https://ucarecdn.com/7a8d3418-346c-47aa-a153-0a07fca57c6d/'
   - image: 'https://ucarecdn.com/eecf68e1-bd91-4003-8ab2-f339eff9af33/'
   - image: 'https://ucarecdn.com/83b36d1b-d590-4590-bddf-9e4f579edde5/'
   - image: 'https://ucarecdn.com/84480b08-f350-44bc-9272-858201c83bdf/'
-  - image: 'https://ucarecdn.com/09868994-002b-4ca2-8c64-04011027d7e2/'
   - image: 'https://ucarecdn.com/1834f003-8fdb-4a94-9bfb-39754d208ca6/'
+  - image: >-
+      https://ucarecdn.com/b39a1e42-efe4-4997-a9c8-9b78b546a711/-/crop/1547x2196/39,26/-/preview/
   - image: 'https://ucarecdn.com/4cda1b68-2801-4d26-9c9f-613533f5e66d/'
   - image: >-
       https://ucarecdn.com/6c317352-9aab-45f7-85fc-1b64d4afc273/-/crop/1002x1214/81,0/-/preview/
