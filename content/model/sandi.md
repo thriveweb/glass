@@ -4,7 +4,7 @@ title: Sandi
 featuredImage: >-
   https://ucarecdn.com/50816a1e-a8c5-49ca-873c-66fd563afe3d/-/crop/733x443/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/af461a16-418b-491a-bcad-c3ae309ba3f2/-/crop/681x999/52,0/-/preview/
+  https://ucarecdn.com/75701c1b-0354-4b3d-a9b9-b36d3d09fe99/-/crop/603x834/0,0/-/preview/
 firstName: Sandi
 collection: Mature
 height: 170cm
@@ -17,7 +17,7 @@ shoeSize: '7.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/8d129d1a-01e3-4df0-8155-ef0e3ad942ce/'
+  - image: 'https://ucarecdn.com/0425a479-471b-4b37-bb9d-d76b51a1cc28/'
   - image: 'https://ucarecdn.com/19edd629-186b-4418-8b8c-fce635cf5106/'
   - image: 'https://ucarecdn.com/c9c236f0-787a-4b70-923c-9ed749a25db4/'
   - image: 'https://ucarecdn.com/603cf8e8-955a-403f-ab5f-3a51128ca452/'
