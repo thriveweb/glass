@@ -4,7 +4,7 @@ title: Oliver Family
 featuredImage: >-
   https://ucarecdn.com/6c13d3bb-9f82-4e39-bf10-7c3c07ace7f6/-/crop/1650x748/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/e5f34928-df64-42a9-acec-957afe03a6a6/-/crop/621x978/68,69/-/preview/
+  https://ucarecdn.com/e5f34928-df64-42a9-acec-957afe03a6a6/-/crop/621x978/70,0/-/preview/
 firstName: Oliver Family
 collection: Family
 imagePortfolio:
