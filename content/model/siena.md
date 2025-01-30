@@ -18,24 +18,22 @@ eyes: Brown
 imagePortfolio:
   - image: >-
       https://ucarecdn.com/13888a38-9e9e-4300-85e4-10ea3ac13e35/-/crop/912x1302/0,64/-/preview/
-  - image: 'https://ucarecdn.com/0496e80f-fec9-4be7-b500-4a28dd14ef3b/'
-  - image: >-
-      https://ucarecdn.com/bfa44e14-ad0a-4aa8-978a-91b868494f21/-/crop/3449x4995/0,178/-/preview/
+  - image: 'https://ucarecdn.com/b0fab924-c056-4767-95b2-683d317f914f/'
   - image: >-
       https://ucarecdn.com/e98b7e1b-44be-4b76-a12a-1ed6b098c0b9/-/crop/629x859/0,83/-/preview/
-  - image: 'https://ucarecdn.com/b6268f1d-028d-49b5-b4e9-9a4c23fa789a/'
+  - image: 'https://ucarecdn.com/0496e80f-fec9-4be7-b500-4a28dd14ef3b/'
+  - image: 'https://ucarecdn.com/2d48dda3-1e9a-47b2-a81e-37b36859349d/'
+  - image: >-
+      https://ucarecdn.com/bfa44e14-ad0a-4aa8-978a-91b868494f21/-/crop/3449x4995/0,178/-/preview/
+  - image: 'https://ucarecdn.com/0c5980d7-a2fc-4da1-84cd-33b99b2214ef/'
   - image: 'https://ucarecdn.com/e22e47e3-4bcb-43da-8b01-9a912bf8181c/'
-  - image: >-
-      https://ucarecdn.com/61b96274-cdd9-452c-9b4d-30bab12a0efc/-/crop/629x889/0,53/-/preview/
-  - image: >-
-      https://ucarecdn.com/f6cccfb9-dd57-4ce6-933c-eca571243ac0/-/crop/921x1243/0,139/-/preview/
+  - image: 'https://ucarecdn.com/b6268f1d-028d-49b5-b4e9-9a4c23fa789a/'
   - image: 'https://ucarecdn.com/6bc27232-477d-4aee-bd2f-ce9bbcdf3679/'
-  - image: 'https://ucarecdn.com/63e21dde-6268-4e9d-a8dc-56b755851ae4/'
-  - image: >-
-      https://ucarecdn.com/bf2dff10-8ef0-4b69-92cf-c72db923855b/-/crop/4000x5425/0,575/-/preview/
-  - image: 'https://ucarecdn.com/44b8aef5-bb40-47a2-8043-471ba9b236de/'
   - image: 'https://ucarecdn.com/79801b1b-d211-45ee-8226-570538e23772/'
+  - image: 'https://ucarecdn.com/63e21dde-6268-4e9d-a8dc-56b755851ae4/'
+  - image: 'https://ucarecdn.com/43f234a5-7033-40a9-897b-5d8ab5a444a3/'
+  - image: 'https://ucarecdn.com/44b8aef5-bb40-47a2-8043-471ba9b236de/'
   - image: 'https://ucarecdn.com/54f4fca2-a6e5-4b91-ae04-a7cedca7591b/'
-  - image: 'https://ucarecdn.com/af91c0cf-155a-49dd-87e5-e518fa930919/'
+  - image: 'https://ucarecdn.com/d5088e98-cbc2-40aa-9080-20f5512aaa73/'
 ---
 
