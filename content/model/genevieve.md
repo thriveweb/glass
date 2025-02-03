@@ -4,9 +4,9 @@ title: Genevieve
 featuredImage: >-
   https://ucarecdn.com/8002907a-3796-47fa-b9b4-903144b105fa/-/crop/800x370/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c9cdb537-449e-42df-8ae8-e88eed1c0a88/-/crop/386x552/227,0/-/preview/
+  https://ucarecdn.com/8b8c2f89-d656-4a07-8d6a-a1b3f22066f1/-/crop/337x448/245,26/-/preview/
 firstName: Genevieve
-collection: Emerging
+collection: Women
 height: 176cm
 measurementType: bust
 bust: 82cm
