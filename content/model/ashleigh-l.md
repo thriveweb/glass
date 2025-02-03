@@ -12,7 +12,7 @@ measurementType: bust
 bust: 89cm
 waist: 69cm
 hips: 90cm
-size: '8'
+size: '10'
 shoeSize: '9.5'
 hair: Brown
 eyes: Brown
