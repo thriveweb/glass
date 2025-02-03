@@ -3,7 +3,7 @@ template: ModelPage
 title: 'Priscilla '
 featuredImage: 'https://ucarecdn.com/07b66831-3065-4a66-bc10-0ff9e12617fa/'
 imageThumbnail: >-
-  https://ucarecdn.com/dc09da8b-c18b-4140-b0e7-d39121c083d8/-/crop/1359x1944/98,0/-/preview/
+  https://ucarecdn.com/7bfa7f0c-8d80-4ece-adb6-d4dd371e86c7/-/crop/702x1053/75,0/-/preview/
 firstName: Priscilla
 collection: Classic
 height: 170cm
@@ -16,11 +16,10 @@ shoeSize: '9'
 hair: Dark Brown
 eyes: Dark Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/0b5b65da-f9a5-430b-8376-23a4bbce5257/'
-  - image: 'https://ucarecdn.com/8f8176ac-bf54-4c76-ac3b-45c9df226a5d/'
-  - image: 'https://ucarecdn.com/a6ea6d78-4a00-43fb-8409-6a33ac8d360d/'
-  - image: 'https://ucarecdn.com/0ac50a3b-4ebc-4e2a-bb53-51c2c6ab1b7c/'
+  - image: 'https://ucarecdn.com/a0a7bc19-c383-4cfb-90d7-2932542ebdcc/'
+  - image: 'https://ucarecdn.com/9015bcd2-f04e-4246-a3b8-c8ec7e0d488a/'
+  - image: 'https://ucarecdn.com/26956f4c-e089-4a98-97c2-ca4c3c74d06b/'
+  - image: 'https://ucarecdn.com/0c0605b2-93d6-4b3f-9a43-abb8f7d015a9/'
   - image: 'https://ucarecdn.com/d7799e63-2120-4ca5-b2a0-8a8f572f9e30/'
-  - image: 'https://ucarecdn.com/35fc6b70-2579-4367-9880-48c6a3cea718/'
 ---
 
