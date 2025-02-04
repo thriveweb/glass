@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/7eeaab3c-7f6d-4ca7-b8c4-e04a2133067c/-/crop/1320x1971/245,52/-/preview/
 firstName: Gigi G
 collection: Girls
-height: 122cm
+height: 125cm
 measurementType: bust
 bust: 57cm
 waist: 51cm
