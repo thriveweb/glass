@@ -12,8 +12,8 @@ measurementType: bust
 bust: 71cm
 waist: 58cm
 hips: 76cm
-size: XS - 4
-shoeSize: 6-7
+size: XS Women's
+shoeSize: '7'
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
