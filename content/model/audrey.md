@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/83ae5212-5500-4ea0-ba3f-3626483afea2/-/crop/2634x3630/824,0/-/preview/
 firstName: Audrey
-collection: Women
+collection: ''
 height: 171cm
 measurementType: bust
 bust: 81cm
