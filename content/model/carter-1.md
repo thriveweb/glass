@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Carter
+title: Carter L
 featuredImage: >-
   https://ucarecdn.com/a16672e2-68da-4c2d-a5c5-8f8dc54b3e04/-/crop/2449x1113/0,91/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d85c916b-1b20-45b8-a19c-98e428680532/-/crop/992x1332/389,95/-/preview/
-firstName: Carter
+firstName: Carter L
 collection: Boys
 height: 115cm
 measurementType: chest
