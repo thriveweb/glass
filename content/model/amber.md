@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/0fedb7f0-609f-4426-8f03-c338bb447a4b/-/crop/1180x1620/812,88/-/preview/
 firstName: Amber
 collection: Classic
-height: '173'
+height: 173cm
 measurementType: bust
-bust: '100'
-waist: '86'
-hips: '102'
+bust: 100cm
+waist: 86cm
+hips: 102cm
 size: '12'
 shoeSize: '8.5'
 hair: Black
