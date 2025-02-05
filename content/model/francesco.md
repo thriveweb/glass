@@ -11,7 +11,7 @@ height: 180cm
 measurementType: chest
 bust: 105cm
 waist: 85cm
-size: 40R
+size: 'Shirt: M / Pant: 32'
 shoeSize: '10'
 hair: Brown
 eyes: Brown
