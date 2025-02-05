@@ -11,7 +11,7 @@ height: 160.5cm
 measurementType: bust
 bust: 88cm
 waist: 70cm
-hips: 85cm
+hips: 95cm
 size: '8'
 shoeSize: '7'
 hair: Black
