@@ -7,7 +7,7 @@ featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: 'https://ucarecdn.com/f9746ccf-a1fb-4071-8738-19e809846324/'
 firstName: Oliver
-collection: Men
+collection: ''
 height: 193cm
 measurementType: chest
 bust: 109cm
