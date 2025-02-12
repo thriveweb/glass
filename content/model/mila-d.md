@@ -4,7 +4,7 @@ title: Mila D
 featuredImage: >-
   https://ucarecdn.com/c3ca73da-9b2f-42db-b60a-c5e400ebb8d0/-/crop/715x405/0,64/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/3a49555e-ada0-448e-ad34-8df6cf14ec34/-/crop/190x249/153,0/-/preview/
+  https://ucarecdn.com/4620df35-779d-4fc3-b501-7420deabfced/-/crop/542x906/176,0/-/preview/
 firstName: Mila D
 collection: Emerging
 height: 160cm
@@ -17,8 +17,9 @@ shoeSize: '8.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/4f312ce5-fb78-4866-b51d-9ecb4c8f8447/'
   - image: 'https://ucarecdn.com/fab674d9-66e6-4977-91c5-9e734ec3955c/'
-  - image: 'https://ucarecdn.com/c41506ef-5a8e-46bd-94ba-eb5f8cc861fd/'
+  - image: 'https://ucarecdn.com/6e206d4f-4dc1-4f60-ba1e-a6d921a653a2/'
   - image: 'https://ucarecdn.com/0cd7a1f1-f391-4501-b92d-827dc8226464/'
   - image: >-
       https://ucarecdn.com/370b70a9-e80c-4a00-a183-2a86573c1783/-/crop/715x775/0,66/-/preview/
