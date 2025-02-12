@@ -17,10 +17,12 @@ shoeSize: '10'
 imagePortfolio:
   - image: 'https://ucarecdn.com/3199326a-7b1b-448a-a4f0-1b9910e08b38/'
   - image: 'https://ucarecdn.com/1b4eb7b6-f6a6-4acf-8043-c7f5be933f74/'
+  - image: 'https://ucarecdn.com/a0f10b09-6e95-4d74-97d7-0740de8c838b/'
   - image: 'https://ucarecdn.com/29bf1316-7f62-47ae-9654-ff27a69f544f/'
   - image: 'https://ucarecdn.com/024e4f5f-7547-41f3-a36d-efc38391779a/'
   - image: 'https://ucarecdn.com/e77cdc2d-a29e-4d9a-9cfb-8d110656e355/'
   - image: 'https://ucarecdn.com/f096e7aa-87ba-4af0-9aa9-8f8a8d3c3ac2/'
   - image: 'https://ucarecdn.com/a635b3e2-1dc4-4a90-8593-9736967abfbf/'
+  - image: 'https://ucarecdn.com/8c4b1ce5-a610-48f2-a8d1-0b3f81317a09/'
 ---
 
