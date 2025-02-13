@@ -4,7 +4,7 @@ title: 'm Aarush '
 featuredImage: >-
   https://ucarecdn.com/450870d3-4225-4ba1-ad9b-0066d5d7d297/-/crop/1368x701/0,42/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b284e7a7-f126-4860-a405-7d96df42fcb7/-/crop/407x514/90,168/-/preview/
+  https://ucarecdn.com/1e7441ba-d4aa-4ba1-83b8-a2d6020f126e/-/crop/476x610/158,9/-/preview/
 firstName: Aarush
 collection: Boys
 height: 139cm
@@ -17,20 +17,10 @@ shoeSize: '3'
 hair: Brown/Black
 eyes: Brown
 imagePortfolio:
-  - image: >-
-      https://ucarecdn.com/923bf724-4289-4963-a019-ae29232ef642/-/crop/608x741/0,171/-/preview/
   - image: 'https://ucarecdn.com/1ebcc075-a4e2-4437-944c-00316ae97996/'
   - image: >-
       https://ucarecdn.com/ea1d8ab3-b535-4385-894b-4988837aef80/-/crop/608x787/0,125/-/preview/
-  - image: >-
-      https://ucarecdn.com/33c74c70-2af3-4431-a04a-fc6611b96def/-/crop/558x824/50,88/-/preview/
   - image: 'https://ucarecdn.com/6c93c7ff-5d95-4c8f-9654-41aa52c18af8/'
-  - image: >-
-      https://ucarecdn.com/4f37a2c4-cf58-42ec-b589-44e2818be684/-/crop/608x822/0,90/-/preview/
-  - image: 'https://ucarecdn.com/9c5c0963-4c19-4d32-b2d1-6afdc314405a/'
-  - image: >-
-      https://ucarecdn.com/14ddfdb3-2e70-49fb-8871-eacfaf1c600d/-/crop/608x770/0,142/-/preview/
-  - image: 'https://ucarecdn.com/b81acb6d-b337-4ad1-91bc-dd41ad5ff9a3/'
-  - image: 'https://ucarecdn.com/0b42c0fb-e8a2-4dcc-bf94-f3ea25852e6f/'
+  - image: 'https://ucarecdn.com/da202036-493c-4e9c-abd8-58d8bb7138c7/'
 ---
 
