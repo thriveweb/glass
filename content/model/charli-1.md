@@ -3,8 +3,7 @@ template: ModelPage
 title: B Charli
 featuredImage: >-
   https://ucarecdn.com/43c646fd-ca71-47a4-ad4a-0b5d87619853/-/crop/1366x846/0,388/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/994ca0b6-6001-47dd-aca5-a950e0ee41fd/-/crop/1123x1590/65,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/9a24d046-053a-4ab3-b651-b8793a9b59a2/'
 firstName: Charli
 collection: Women
 height: 170cm
@@ -21,8 +20,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/bdcec629-9c72-4a32-b274-036ef7cfbc30/'
   - image: 'https://ucarecdn.com/60b5a3f2-ddef-4d7f-a21b-30bebe4ee76e/'
   - image: 'https://ucarecdn.com/1cb9c03c-ccd6-466a-b819-5d441563a762/'
+  - image: 'https://ucarecdn.com/3eeef851-cdec-48d0-93ae-ea62f237074b/'
   - image: 'https://ucarecdn.com/fd03b3fa-bd96-4154-bbc7-80b1e6a2774c/'
-  - image: 'https://ucarecdn.com/88488c33-bfe1-4e0d-bf26-2a202f2cd6a1/'
   - image: 'https://ucarecdn.com/4eaa23d2-24e6-447c-9723-a192d89f291d/'
   - image: 'https://ucarecdn.com/1c5915b2-47db-4373-a90f-0838c25b25b2/'
   - image: 'https://ucarecdn.com/7b46816a-92c4-4940-95a0-58f950534d74/'
