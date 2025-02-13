@@ -3,7 +3,7 @@ template: ModelPage
 title: B Charli
 featuredImage: >-
   https://ucarecdn.com/43c646fd-ca71-47a4-ad4a-0b5d87619853/-/crop/1366x846/0,388/-/preview/
-imageThumbnail: 'https://ucarecdn.com/9a24d046-053a-4ab3-b651-b8793a9b59a2/'
+imageThumbnail: 'https://ucarecdn.com/c78e6f64-16cf-4ab0-aa78-0392e6392726/'
 firstName: Charli
 collection: Women
 height: 170cm
@@ -16,8 +16,7 @@ shoeSize: '7'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
-  - image: >-
-      https://ucarecdn.com/80df1338-7cb9-4708-8898-bcdc67ebba43/-/crop/481x712/260,0/-/preview/
+  - image: 'https://ucarecdn.com/21b896c5-d2ac-407d-ab6e-e1e8ecc3629f/'
   - image: 'https://ucarecdn.com/bdcec629-9c72-4a32-b274-036ef7cfbc30/'
   - image: 'https://ucarecdn.com/60b5a3f2-ddef-4d7f-a21b-30bebe4ee76e/'
   - image: 'https://ucarecdn.com/1cb9c03c-ccd6-466a-b819-5d441563a762/'
