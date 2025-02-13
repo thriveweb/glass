@@ -16,7 +16,8 @@ shoeSize: '7'
 hair: Blonde
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/8212339f-fe6d-4583-a120-80821060c5f1/'
+  - image: >-
+      https://ucarecdn.com/80df1338-7cb9-4708-8898-bcdc67ebba43/-/crop/481x712/260,0/-/preview/
   - image: 'https://ucarecdn.com/bdcec629-9c72-4a32-b274-036ef7cfbc30/'
   - image: 'https://ucarecdn.com/60b5a3f2-ddef-4d7f-a21b-30bebe4ee76e/'
   - image: 'https://ucarecdn.com/1cb9c03c-ccd6-466a-b819-5d441563a762/'
@@ -25,7 +26,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/4eaa23d2-24e6-447c-9723-a192d89f291d/'
   - image: 'https://ucarecdn.com/1c5915b2-47db-4373-a90f-0838c25b25b2/'
   - image: 'https://ucarecdn.com/7b46816a-92c4-4940-95a0-58f950534d74/'
-  - image: 'https://ucarecdn.com/51156715-fb9e-45fb-a130-dae86026247e/'
+  - image: 'https://ucarecdn.com/850e17e8-aec2-4d58-8a18-653a0000cf01/'
   - image: 'https://ucarecdn.com/a2f49ce0-47d6-4b0b-895b-8900c2367e97/'
   - image: 'https://ucarecdn.com/ecc2c639-e256-49e6-a258-d36518c8939c/'
   - image: >-
