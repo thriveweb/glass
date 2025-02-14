@@ -14,6 +14,8 @@ waist: 85cm
 hips: 90cm
 size: Medium Shirt / 30-32 Pant
 shoeSize: '10'
+hair: Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/3199326a-7b1b-448a-a4f0-1b9910e08b38/'
   - image: 'https://ucarecdn.com/1b4eb7b6-f6a6-4acf-8043-c7f5be933f74/'
