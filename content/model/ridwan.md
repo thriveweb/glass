@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/bcf0e51d-71be-4882-acc1-8253381602e8/-/crop/685x967/0,0/-/preview/
 firstName: Ridwan
 collection: Boys
-height: 151cm
+height: 157cm
 measurementType: chest
-bust: 70cm
-waist: 62cm
-hips: 83cm
-size: 10-12
-shoeSize: US 8.5
+bust: 80cm
+waist: 70cm
+hips: 84cm
+size: 12-14
+shoeSize: US 9.5
 hair: Brown
 eyes: Brown
 imagePortfolio:
