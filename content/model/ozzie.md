@@ -13,6 +13,7 @@ hips: 38"
 size: L/34
 shoeSize: '11'
 imagePortfolio:
+  - image: 'https://ucarecdn.com/f66b4d73-e376-447e-a39a-a412c2371228/'
   - image: >-
       https://ucarecdn.com/4be8d20f-3265-4707-9487-a24dd4e6132b/-/preview/-/rotate/90/
 ---
