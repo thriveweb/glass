@@ -4,7 +4,7 @@ title: Jono
 featuredImage: >-
   https://ucarecdn.com/6deb24b9-876a-4b0e-b5e8-175d76eb3d54/-/crop/904x523/0,389/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/a62fe833-531d-4702-92e0-56a74cb90285/-/crop/576x796/155,107/-/preview/
+  https://ucarecdn.com/a62fe833-531d-4702-92e0-56a74cb90285/-/crop/607x775/155,214/-/preview/
 firstName: Jono
 collection: Commercial Faces
 height: 5'9
