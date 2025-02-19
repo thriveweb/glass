@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/cd50d83e-e00d-4829-96a1-b14cffc1f140/-/crop/213x306/245,60/-/preview/
 firstName: Ayaan
 collection: Boys
-height: 113cm
+height: 114cm
 measurementType: chest
 bust: 52cm
 waist: 48cm
