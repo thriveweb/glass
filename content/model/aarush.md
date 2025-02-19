@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/1e7441ba-d4aa-4ba1-83b8-a2d6020f126e/-/crop/476x610/158,9/-/preview/
 firstName: Aarush
 collection: Boys
-height: 139cm
+height: 140cm
 measurementType: chest
 bust: 62cm
 waist: 53cm
