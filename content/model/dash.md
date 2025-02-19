@@ -12,7 +12,7 @@ measurementType: chest
 bust: 56cm
 waist: 56cm
 hips: 62cm
-size: '4'
+size: '5'
 shoeSize: '9'
 imagePortfolio:
   - image: >-
