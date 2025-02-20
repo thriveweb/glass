@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/c9fdf388-59f2-4f18-919b-21d45fc97c9d/-/crop/472x649/618,123/-/preview/
 firstName: Kymarni
 collection: Girls
-height: 115cm
+height: 117cm
 measurementType: bust
 bust: 58cm
 waist: 54cm
