@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/d4c8434a-7589-42fe-9563-7b56bc2e7f37/-/crop/1347x1994/125,0/-/preview/
 firstName: Heinz
 collection: Classic
-height: 186cm
+height: 1186cm
 measurementType: chest
 bust: 99cm
 waist: 84cm
 hips: 99cm
-size: L - XL / 34
+size: L-XL / 34
 shoeSize: US 11
 hair: Grey
 eyes: Blue
