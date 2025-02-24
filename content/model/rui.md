@@ -2,7 +2,7 @@
 template: ModelPage
 title: Rui
 featuredImage: >-
-  https://ucarecdn.com/76dde6d3-5b92-486c-83e0-572a149f2f5e/-/crop/733x722/0,89/-/preview/
+  https://ucarecdn.com/76dde6d3-5b92-486c-83e0-572a149f2f5e/-/crop/733x512/0,155/-/preview/
 imageThumbnail: 'https://ucarecdn.com/a81e6fc6-8ef6-4266-978e-b077ca201366/'
 firstName: Rui
 collection: Commercial Faces
