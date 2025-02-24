@@ -5,11 +5,11 @@ featuredImage: 'https://ucarecdn.com/5fca96b7-33a4-4bb0-97b6-8e7f2fe92caa/'
 imageThumbnail: 'https://ucarecdn.com/8350ca44-15b2-44fc-8fb9-72e4d2d7f6ce/'
 firstName: Sibi
 collection: Classic
-height: '180'
+height: 180cm
 measurementType: chest
-bust: '103'
-waist: '96'
-hips: '108'
+bust: 103cm
+waist: 96cm
+hips: 108cm
 size: L /34
 shoeSize: '10'
 hair: Dark brown
