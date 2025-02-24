@@ -1,10 +1,8 @@
 ---
 template: ModelPage
 title: Adriana
-featuredImage: >-
-  https://ucarecdn.com/b55554f6-9730-4bb5-8c91-234881d1b994/-/crop/2449x1101/0,10/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/2eede2cc-aa5e-443e-8849-ce9dbdf4d5da/-/crop/930x1317/370,76/-/preview/
+featuredImage: 'https://ucarecdn.com/c5892fdf-b8ad-4dc1-9762-a87a1113ef56/'
+imageThumbnail: 'https://ucarecdn.com/8b7a9373-e6a0-4e31-8f72-141716d65329/'
 firstName: Adriana
 collection: Classic
 height: 164cm
@@ -17,14 +15,11 @@ shoeSize: '8'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/45ce82d6-e5ef-4a31-91bc-23199d6fbe30/'
-  - image: 'https://ucarecdn.com/54fa1883-a293-42eb-b5ee-77b00a5686c8/'
-  - image: 'https://ucarecdn.com/6dc5e21f-6758-4ec7-a590-7dc92e325a73/'
-  - image: 'https://ucarecdn.com/24fcc95d-33d6-4a0e-8583-ade3dae5d2f3/'
-  - image: 'https://ucarecdn.com/d0d7fc72-dc06-4160-82c5-064e993e655e/'
-  - image: 'https://ucarecdn.com/13176217-c66e-4e85-80a5-aaadfed23d20/'
+  - image: 'https://ucarecdn.com/928760b7-2c04-4822-b2ec-0999dfa278df/'
+  - image: 'https://ucarecdn.com/53c18841-dd2c-4812-8a8e-5caf41c37887/'
   - image: 'https://ucarecdn.com/711731be-145d-4c70-9ce7-4b30724fe72c/'
-  - image: 'https://ucarecdn.com/feed6c7e-5818-4af3-b999-221a4410573b/'
+  - image: 'https://ucarecdn.com/7d43a6ec-2bcf-4c63-a4ab-e40cc5ee8421/'
+  - image: 'https://ucarecdn.com/cca902ea-fffc-423d-a799-28aaa152286f/'
   - image: 'https://ucarecdn.com/dbf96f31-e3ad-4157-a236-77f8ae9f578a/'
 ---
 
