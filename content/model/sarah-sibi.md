@@ -8,9 +8,9 @@ firstName: Sarah
 collection: Classic
 height: 168cm
 measurementType: bust
-bust: '81'
-waist: '70'
-hips: '82'
+bust: 81cm
+waist: 70cm
+hips: 82cm
 size: 6 - 8
 shoeSize: '7'
 hair: Blonde
