@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Kona Family
-featuredImage: 'https://ucarecdn.com/dce41841-c521-4240-851d-ce30800c78c0/'
+featuredImage: >-
+  https://ucarecdn.com/dce41841-c521-4240-851d-ce30800c78c0/-/crop/1650x921/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/75a61ab8-f093-49d2-ad05-b13a1f9e34b3/'
 firstName: Kona Family
 collection: Family
