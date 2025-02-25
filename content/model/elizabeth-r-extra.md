@@ -4,7 +4,7 @@ title: 'Elizabeth R '
 featuredImage: 'https://ucarecdn.com/38274945-c9fd-47ca-a2ff-a34c13aee5f9/'
 imageThumbnail: 'https://ucarecdn.com/682836dd-72c2-4920-99a1-273af2ebf750/'
 firstName: 'Elizabeth R '
-collection: Extras
+collection: Emerging
 height: 5'11
 measurementType: bust
 bust: 96cm
