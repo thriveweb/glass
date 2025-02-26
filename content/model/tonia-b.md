@@ -2,7 +2,8 @@
 template: ModelPage
 title: Tonia B
 featuredImage: 'https://ucarecdn.com/25ebca34-6847-4036-940a-48528dd7234e/'
-imageThumbnail: 'https://ucarecdn.com/9079fe95-d39e-46d8-85e5-1dc6c9ed1556/'
+imageThumbnail: >-
+  https://ucarecdn.com/1e2a67e2-db78-4c1b-b68c-f3363107b90e/-/crop/527x800/74,0/-/preview/
 firstName: Tonia B
 collection: Mature
 height: 165cm
@@ -28,5 +29,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/93069bd3-96b5-42a9-946f-b8f1af0d55fb/'
   - image: 'https://ucarecdn.com/c22cf2a5-0f23-45c7-8391-35c1b01ce20c/'
   - image: 'https://ucarecdn.com/12d20786-766c-48fb-aa74-6143e0dba0a1/'
+  - image: 'https://ucarecdn.com/d0e4f8e4-a914-4c17-8869-1eeb2292110f/'
 ---
 
