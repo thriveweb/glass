@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/96bfd3e3-1440-49b5-a5f3-f648f456aec7/-/crop/939x1373/337,175/-/preview/
 firstName: Jasper
 collection: Boys
-height: 150cm
+height: 158cm
 measurementType: chest
 bust: 70cm
 waist: 62cm
 hips: 73cm
-size: 12 shirt/ 10 pant
-shoeSize: '7'
+size: 14 KIDS
+shoeSize: '9'
 hair: Brown
 eyes: Blue/Green
 imagePortfolio:
