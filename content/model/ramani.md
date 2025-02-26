@@ -4,9 +4,9 @@ title: Ramani
 featuredImage: >-
   https://ucarecdn.com/e6bf108e-14f3-4d29-9462-3c17a3527142/-/crop/1170x751/0,49/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/0786e85a-e138-483e-9008-04b4d1bbc7ef/-/crop/1400x2128/104,178/-/preview/
+  https://ucarecdn.com/8206a9b6-ddb2-4c0e-b502-26ff3e1f5fdd/-/crop/307x441/104,67/-/preview/
 firstName: Ramani
-collection: Emerging
+collection: Women
 height: 174cm
 measurementType: bust
 bust: 93cm
@@ -17,8 +17,8 @@ shoeSize: 8-9
 hair: Brown
 eyes: Hazel
 imagePortfolio:
-  - image: 'https://ucarecdn.com/8310c568-141e-4a20-ac8b-9530e6030ab6/'
   - image: 'https://ucarecdn.com/926f9896-a235-4cf5-98ec-205818b840c8/'
+  - image: 'https://ucarecdn.com/8310c568-141e-4a20-ac8b-9530e6030ab6/'
   - image: >-
       https://ucarecdn.com/b4f1fc2f-effd-41e0-8145-68bc75caa958/-/crop/533x738/0,166/-/preview/
   - image: >-
