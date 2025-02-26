@@ -16,10 +16,12 @@ hair: Strawberry Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/2e68f3f3-0d1b-4575-9951-197c371cc68b/'
-  - image: 'https://ucarecdn.com/7dceca5c-c476-4c5a-89c7-70189543d006/'
-  - image: 'https://ucarecdn.com/c5126452-0a28-452c-87b6-8df3d2cd4c73/'
+  - image: >-
+      https://ucarecdn.com/c5126452-0a28-452c-87b6-8df3d2cd4c73/-/crop/733x1070/0,30/-/preview/
+  - image: 'https://ucarecdn.com/dd26ab6b-e3b8-47e1-8456-3989005482d9/'
+  - image: 'https://ucarecdn.com/7dceca5c-c476-4c5a-89c7-70189543d006/-/preview/'
   - image: 'https://ucarecdn.com/30512ced-c156-411b-abab-166380c5a5e7/'
-  - image: 'https://ucarecdn.com/bb523a30-c75c-4116-a7c5-291fd7277eec/'
   - image: 'https://ucarecdn.com/d7bfc78d-6942-436d-a9a9-0b916c6398cd/'
+  - image: 'https://ucarecdn.com/bb523a30-c75c-4116-a7c5-291fd7277eec/'
 ---
 
