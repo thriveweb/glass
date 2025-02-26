@@ -2,7 +2,8 @@
 template: ModelPage
 title: Adriana
 featuredImage: 'https://ucarecdn.com/c5892fdf-b8ad-4dc1-9762-a87a1113ef56/'
-imageThumbnail: 'https://ucarecdn.com/8a06203f-d5fa-44d6-b96c-a287273cfdc5/'
+imageThumbnail: >-
+  https://ucarecdn.com/8a06203f-d5fa-44d6-b96c-a287273cfdc5/-/crop/670x989/49,0/-/preview/
 firstName: Adriana
 collection: Classic
 height: 164cm
