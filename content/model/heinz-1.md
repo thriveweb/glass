@@ -1,7 +1,8 @@
 ---
 template: ModelPage
 title: Heinz
-featuredImage: 'https://ucarecdn.com/3fe842dc-6318-41ab-8f62-77d473241bd4/'
+featuredImage: >-
+  https://ucarecdn.com/3fe842dc-6318-41ab-8f62-77d473241bd4/-/crop/1167x561/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/d4c8434a-7589-42fe-9563-7b56bc2e7f37/-/crop/1347x1994/125,0/-/preview/
 firstName: Heinz
