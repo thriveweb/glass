@@ -1,8 +1,7 @@
 ---
 template: ModelPage
 title: Heinz
-featuredImage: >-
-  https://ucarecdn.com/5952438b-7cd4-4eff-a834-11018fbaa39f/-/crop/2366x1235/0,58/-/preview/
+featuredImage: 'https://ucarecdn.com/3fe842dc-6318-41ab-8f62-77d473241bd4/'
 imageThumbnail: >-
   https://ucarecdn.com/d4c8434a-7589-42fe-9563-7b56bc2e7f37/-/crop/1347x1994/125,0/-/preview/
 firstName: Heinz
@@ -23,5 +22,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/0a6da288-de61-429d-8c6e-892f60916263/'
   - image: 'https://ucarecdn.com/eee0b81c-a409-4101-983d-0174d6e86ebf/'
   - image: 'https://ucarecdn.com/c57c334e-9730-4175-8d50-d860c210f5ff/'
+  - image: 'https://ucarecdn.com/581ceaef-3533-48fe-bdee-d4634a8a0747/'
+  - image: 'https://ucarecdn.com/6951faa9-175e-46f6-a6d7-9c6e0b5cc05a/'
 ---
 
