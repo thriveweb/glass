@@ -9,9 +9,9 @@ firstName: 'Courtney '
 collection: Women
 height: 171cm
 measurementType: bust
-bust: 84cm
-waist: 65cm
-hips: 86cm
+bust: 79cm
+waist: 60cm
+hips: 91cm
 size: '8'
 shoeSize: '7'
 hair: Dark brown
