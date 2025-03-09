@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Beau '
 featuredImage: >-
-  https://ucarecdn.com/8522f484-0335-46b3-8478-dbeba1c00ec4/-/crop/2447x1345/0,129/-/preview/
+  https://ucarecdn.com/d3f88df5-d2db-41dd-ac9c-95289366b159/-/crop/320x148/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/5cee8a2b-ebed-439d-9bea-3cad7579793d/-/crop/1402x1949/193,0/-/preview/
 firstName: Beau
