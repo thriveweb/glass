@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/d4c8434a-7589-42fe-9563-7b56bc2e7f37/-/crop/1347x1994/125,0/-/preview/
 firstName: Heinz
 collection: Classic
-height: 1186cm
+height: 186cm
 measurementType: chest
 bust: 99cm
 waist: 84cm
