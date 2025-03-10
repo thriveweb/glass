@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Beau '
 featuredImage: >-
-  https://ucarecdn.com/d3f88df5-d2db-41dd-ac9c-95289366b159/-/crop/320x148/0,0/-/preview/
+  https://ucarecdn.com/0ccf342e-ad19-45ce-adbc-b7d7da726f69/-/crop/1158x491/0,28/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/5cee8a2b-ebed-439d-9bea-3cad7579793d/-/crop/1402x1949/193,0/-/preview/
 firstName: Beau
@@ -27,6 +27,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/131d31a1-d2e7-4616-bc93-2068f71e89c9/'
   - image: >-
       https://ucarecdn.com/2b55b934-50cd-4f72-8677-2f0a7e02ddbb/-/crop/1634x2237/0,210/-/preview/
+  - image: 'https://ucarecdn.com/cb777f47-4cfe-4510-b715-d0e4acfbc6ac/'
   - image: 'https://ucarecdn.com/6831ce18-d3eb-44eb-afd7-ef1df61b37b6/'
   - image: 'https://ucarecdn.com/9c109dc4-97e7-4ec4-8230-a2a9fdfd5337/'
   - image: 'https://ucarecdn.com/f1de7c23-5036-4bd2-aa12-0cee5cb16906/'
