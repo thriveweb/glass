@@ -2,7 +2,7 @@
 template: ModelPage
 title: Jeff
 featuredImage: >-
-  https://ucarecdn.com/110002a7-0ef0-4f67-9567-5342359c31ae/-/crop/1650x981/0,0/-/preview/
+  https://ucarecdn.com/79320893-e995-4019-aef5-8913cbb623c7/-/crop/955x507/0,30/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/6767d872-7998-48eb-a34e-6cc1bd06f222/-/crop/711x976/22,0/-/preview/
 firstName: Jeff
@@ -17,8 +17,10 @@ shoeSize: '9'
 hair: Brown
 eyes: Hazel
 imagePortfolio:
+  - image: 'https://ucarecdn.com/797d7c56-ad17-4ca5-879e-c067f8713d9f/'
   - image: 'https://ucarecdn.com/51ee5463-bd3b-492b-95e7-5d389a3bcba2/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/img_3180.jpg'
+  - image: 'https://ucarecdn.com/68b40e6b-49d0-4c86-b206-6aa269715322/'
   - image: 'https://ucarecdn.com/8901522c-478d-4978-979f-1e9896a3d0c7/'
   - image: 'https://ucarecdn.com/d3b02ea5-f2c7-4afe-b6f2-5f08274fdc02/'
   - image: 'https://ucarecdn.com/6c582c90-4915-4c35-8a5d-4204bae5da7f/'
