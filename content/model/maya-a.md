@@ -15,7 +15,7 @@ bust: 84cm
 waist: 67cm
 hips: '93cm '
 size: Size 8
-shoeSize: '9'
+shoeSize: 8-9
 hair: Brown
 eyes: Brown
 imagePortfolio:
