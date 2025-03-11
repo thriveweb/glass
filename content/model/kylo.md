@@ -11,7 +11,7 @@ height: 81cm
 measurementType: chest
 bust: 48cm
 waist: 46cm
-size: 12-18 months
+size: '2'
 shoeSize: Size 22
 hair: Brown
 eyes: Hazel
