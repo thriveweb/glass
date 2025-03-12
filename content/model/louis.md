@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/ba161a49-da21-445b-b198-dadcb3884c07/-/preview/-/rotate/270/
 imageThumbnail: >-
   https://ucarecdn.com/2f8072ba-1f54-4af1-975f-24098692842a/-/crop/1467x2192/255,0/-/preview/
-firstName: Louie G ✈
+firstName: 'Louie G '
 collection: Men
 height: 184cm
 measurementType: chest
