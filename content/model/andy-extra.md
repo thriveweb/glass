@@ -2,11 +2,11 @@
 template: ModelPage
 title: Andy
 featuredImage: >-
-  https://ucarecdn.com/265c15e9-714b-4397-b641-9d8c10f7a25c/-/crop/1050x557/0,33/-/preview/
+  https://ucarecdn.com/5d6bf742-455a-45d3-9be2-c6bd53aadd8c/-/crop/2380x1363/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/cbe1c34a-d7c0-4152-a3ec-0bd36d66284e/-/crop/422x547/30,0/-/preview/
+  https://ucarecdn.com/8a62844a-28e1-4bec-8b5e-dd03137cfe83/-/crop/1612x1776/73,21/-/preview/
 firstName: Andy
-collection: Commercial Faces
+collection: Classic
 height: 183cm
 measurementType: chest
 bust: 101cm
@@ -17,17 +17,16 @@ shoeSize: '10'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/8dde9874-face-47c3-a780-fb9a1eaa0b62/'
+  - image: >-
+      https://ucarecdn.com/ea54c3a0-86f2-47c5-a221-97f62ec96b3f/-/crop/1462x1797/141,0/-/preview/
+  - image: 'https://ucarecdn.com/1e42aaad-a72c-4da2-8ae6-3473edc8d7ca/'
+  - image: 'https://ucarecdn.com/ed657250-3d07-4221-8b6e-c753668a8fd5/'
   - image: 'https://ucarecdn.com/cdcd0614-2ad4-4ef0-80f3-fe84f1ada68b/'
-  - image: >-
-      https://ucarecdn.com/8d33cff5-fa2e-4c83-b045-4cb53e822a18/-/crop/961x1607/0,0/-/preview/
-  - image: 'https://ucarecdn.com/c799799d-c54f-4908-a6ab-5ff27906eccf/'
-  - image: 'https://ucarecdn.com/37cc4c49-b55e-487b-b90f-4af3061ab5d7/'
-  - image: 'https://ucarecdn.com/855bf862-5c8b-4403-af9d-e20cefafa570/'
-  - image: 'https://ucarecdn.com/62916463-96e8-4448-b7e6-cf237b70022f/'
-  - image: >-
-      https://ucarecdn.com/f310b410-c276-461b-9ec8-772283d90647/-/crop/1493x1944/165,365/-/preview/
-  - image: 'https://ucarecdn.com/c77b1c52-db3a-456c-bfe6-4a1e8f19f42c/'
-  - image: 'https://ucarecdn.com/825a21fc-3c1d-4490-8ab4-62ef17d056cb/'
+  - image: 'https://ucarecdn.com/90e80ec4-b2f8-4fcb-9a2f-5ee650a7a962/'
+  - image: 'https://ucarecdn.com/d5f6f2b2-40fa-4d48-9bf9-8fed1d6e05d1/'
+  - image: 'https://ucarecdn.com/692c8371-22a8-45d6-ac2a-f030adeef239/'
+  - image: 'https://ucarecdn.com/6f075b08-5431-4f5f-9916-4abb65709380/'
+  - image: 'https://ucarecdn.com/bc4354c2-e036-46f4-92b2-bb21c3a6cc3c/'
+  - image: 'https://ucarecdn.com/dac5486f-ca45-49bd-90e0-caad89e1b39e/'
 ---
 
