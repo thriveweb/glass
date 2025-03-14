@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Nathan
+title: Nathan C
 featuredImage: >-
   https://ucarecdn.com/52fe7fa4-8cea-4bdf-b179-29eb6e62b45a/-/crop/2448x1313/0,0/-/preview/
 imageThumbnail: >-
