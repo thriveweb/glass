@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/82fa7ace-2d23-457c-9ed0-b27dc0ca3e05/-/crop/331x437/75,8/-/preview/
 firstName: Everest
 collection: Boys
-height: 99cm
+height: 105cm
 measurementType: chest
 bust: 54cm
-waist: 52cm
-hips: 57cm
-size: '3'
-shoeSize: '26'
+waist: 51cm
+hips: 56cm
+size: '4'
+shoeSize: '10.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
