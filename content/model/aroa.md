@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/9501e670-de40-4b16-9828-802bb0fd0216/-/crop/400x603/27,8/-/preview/
 firstName: Aro'a
 collection: Girls
-height: 134cm
+height: 138cm
 measurementType: bust
-bust: 62cm
+bust: 65cm
 waist: 60cm
-hips: 66cm
-size: '8'
-shoeSize: '2'
+hips: 69cm
+size: '9'
+shoeSize: '3.5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
