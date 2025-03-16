@@ -8,11 +8,11 @@ firstName: Alyx
 collection: Girls
 height: 155cm
 measurementType: bust
-bust: 69cm
-waist: 56cm
-hips: 79cm
-size: 10-12
-shoeSize: 5-6
+bust: 73cm
+waist: 61cm
+hips: 82cm
+size: '12'
+shoeSize: '6'
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
