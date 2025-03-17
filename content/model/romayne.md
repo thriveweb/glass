@@ -3,7 +3,7 @@ template: ModelPage
 title: Romayne
 featuredImage: >-
   https://ucarecdn.com/5e3cbea8-e61a-4592-9192-00b0a2a3a26e/-/crop/2048x1176/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/7b20da6d-b65f-418b-b2e1-d36707de34f4/'
+imageThumbnail: 'https://ucarecdn.com/b8788ae3-5c59-4ae9-80de-3fd333f2a354/'
 firstName: Romayne
 collection: Emerging
 height: 182cm
@@ -18,6 +18,7 @@ eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/e56c2f62-cd04-4cfb-b4d3-497194e06729/'
   - image: 'https://ucarecdn.com/c0bf3a6c-db5a-4e0e-82af-f833b1b8c5d8/'
+  - image: 'https://ucarecdn.com/ea09893b-558f-4e64-8617-2d122e5cd710/'
   - image: 'https://ucarecdn.com/db99739f-9b6a-4e14-aeae-a9ba077df29b/'
   - image: 'https://ucarecdn.com/6df0876a-c424-4624-a3a3-5bcc83928a38/'
   - image: 'https://ucarecdn.com/d72a5a2f-f51e-4714-b0c6-1f93fa3f9fc4/'
