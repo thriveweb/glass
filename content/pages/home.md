@@ -6,7 +6,7 @@ template: HomePage
 slug: ''
 subTitle: Welcome To
 title: ' Commercial Modelling, Talent & Acting Agency'
-content: ' GOLD COAST, BRISBANE, BYRON BAY, SUNSHINE COAST & MELBOURNE'
+content: ' GOLD COAST, BRISBANE, BYRON BAY & SUNSHINE COAST '
 buttonText: See Our Talent
 buttonUrl: models/women
 gallery:
