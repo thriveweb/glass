@@ -7,11 +7,11 @@ imageThumbnail: >-
   https://ucarecdn.com/2ffca578-dabc-44f7-8f72-99f9566480c9/-/crop/1422x1853/99,0/-/preview/
 firstName: Mason
 collection: Boys
-height: 156 cm
+height: 155cm
 measurementType: chest
-bust: 75cm
+bust: 79cm
 waist: 69cm
-size: '12'
+size: '14'
 shoeSize: '6'
 hair: Dark Blonde
 eyes: Green
