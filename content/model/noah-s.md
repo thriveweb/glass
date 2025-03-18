@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/7c2c9146-22b4-45e2-a789-c2d197486a5b/-/crop/445x512/30,1/-/preview/
 firstName: Noah S
 collection: Boys
-height: 147cm
+height: 157cm
 measurementType: chest
 bust: 65cm
-waist: 63cm
+waist: 72cm
 hips: 70cm
-size: 10-12
-shoeSize: '4.5'
+size: '14'
+shoeSize: '5'
 hair: Light Brown
 eyes: Blue
 imagePortfolio:
