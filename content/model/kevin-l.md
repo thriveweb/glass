@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/ce0025b2-9120-4af3-ba32-e0843d00a05b/-/crop/1632x1093/0,313/-/preview/
 imageThumbnail: 'https://ucarecdn.com/d97658cd-3cbd-41b5-8d72-336f03b3135c/'
 firstName: Kevin
-collection: Classic
+collection: ''
 height: 170cm
 measurementType: chest
 bust: 100cm
