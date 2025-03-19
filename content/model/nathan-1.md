@@ -4,7 +4,7 @@ title: AL Nathan C
 featuredImage: >-
   https://ucarecdn.com/52fe7fa4-8cea-4bdf-b179-29eb6e62b45a/-/crop/2448x1313/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/fe58d027-608e-4b93-ba16-18c04b823400/-/crop/1334x1777/128,0/-/preview/
+  https://ucarecdn.com/fe58d027-608e-4b93-ba16-18c04b823400/-/crop/894x1385/351,60/-/preview/
 firstName: Nathan
 collection: Classic
 height: 187cm
