@@ -4,7 +4,7 @@ title: Makaio
 featuredImage: >-
   https://ucarecdn.com/74d03d1d-e820-404e-b5cf-62c2d66a4a88/-/crop/1365x973/0,117/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/edce5733-6626-4003-9728-e35347fbfedf/-/crop/1167x1564/115,64/-/preview/
+  https://ucarecdn.com/edce5733-6626-4003-9728-e35347fbfedf/-/crop/1059x1339/173,97/-/preview/
 firstName: Makaio
 collection: Boys
 height: 162cm
