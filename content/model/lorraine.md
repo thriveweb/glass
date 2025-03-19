@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/a91fb3ae-f12f-4980-8041-3ebf545fbbcf/-/crop/1350x2015/123,16/-/preview/
 firstName: Lorraine
-collection: Mature
+collection: ''
 height: '170cm '
 measurementType: bust
 bust: 101cm
