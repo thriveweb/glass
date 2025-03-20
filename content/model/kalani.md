@@ -8,10 +8,10 @@ firstName: Kalani
 collection: Girls
 height: 140cm
 measurementType: bust
-bust: 63cm
-waist: 58cm
-hips: 64cm
-size: '8'
+bust: 71cm
+waist: 62cm
+hips: 75cm
+size: '10'
 shoeSize: '4'
 hair: Brown
 eyes: Green
