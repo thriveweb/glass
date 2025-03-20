@@ -9,9 +9,9 @@ firstName: Koa C
 collection: Boys
 height: 120cm
 measurementType: chest
-bust: 60cm
+bust: 64cm
 waist: 56cm
-hips: 62cm
+hips: 64cm
 size: '6'
 shoeSize: '2'
 hair: Brown
