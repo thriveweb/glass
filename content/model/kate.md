@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/d91e64e2-5673-45c1-8120-4f588b9baa59/-/crop/1526x1963/107,75/-/preview/
 firstName: Kate
-collection: Commercial Faces
+collection: Mature
 height: 172cm
 measurementType: bust
 bust: 79cm
