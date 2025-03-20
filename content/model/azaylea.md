@@ -2,7 +2,7 @@
 template: ModelPage
 title: Azaylea
 featuredImage: >-
-  https://ucarecdn.com/438b4518-fef1-4209-ab81-588d7804732b/-/crop/474x266/0,67/-/preview/
+  https://ucarecdn.com/438b4518-fef1-4209-ab81-588d7804732b/-/crop/474x226/0,82/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/8f490136-5558-4107-925f-cd5edcb5ba58/-/crop/1236x1902/129,98/-/preview/
 firstName: Azaylea
