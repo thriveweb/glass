@@ -4,7 +4,7 @@ title: Jonah
 featuredImage: >-
   https://ucarecdn.com/a324cbaa-9d33-4c81-9827-952a791d6be3/-/crop/1632x953/0,219/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/d434ae1e-04fb-40fc-b373-efcbe6880a38/-/crop/1027x1362/339,92/-/preview/
+  https://ucarecdn.com/9a6ec0dd-de0c-43a7-b575-9fe8b48560d0/-/crop/401x537/46,80/-/preview/
 firstName: Jonah
 collection: Emerging
 height: 173cm
@@ -15,10 +15,12 @@ hips: 90cm
 size: Mens S/30
 shoeSize: US11
 imagePortfolio:
+  - image: 'https://ucarecdn.com/7847417f-a7d6-4562-b162-e737fb62ce49/'
   - image: 'https://ucarecdn.com/b22e615d-d5d7-48c0-b609-2c9fd785389d/'
   - image: 'https://ucarecdn.com/8c917b8c-14c0-413a-b666-9fb044684c4a/'
   - image: 'https://ucarecdn.com/0569022a-c542-4e71-9ae0-c9cf4670ec56/'
   - image: 'https://ucarecdn.com/baa2d3a5-a5b5-45a0-8cf8-f5241c598ff4/'
+  - image: 'https://ucarecdn.com/1d5d33be-b70a-4c06-922b-d6ca8b215d68/'
   - image: 'https://ucarecdn.com/1c854459-eff3-41dd-aba3-c8a50b0d3290/'
   - image: 'https://ucarecdn.com/8469c322-468d-4491-a8d9-3f77047b39a4/'
   - image: 'https://ucarecdn.com/c284771b-c650-4c76-9400-fcc667d9884e/'
@@ -32,5 +34,8 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/17b8566f-c683-4773-a05c-6cd0b715a0f4/'
   - image: 'https://ucarecdn.com/ef716356-9e15-4401-8d90-6eed33f0a28a/'
   - image: 'https://ucarecdn.com/7a5ef077-ee3b-4b93-89c2-0593a6d58ed2/'
+  - image: 'https://ucarecdn.com/cffc9f1a-9a8c-49be-aab4-bbed62c82e28/'
+  - {}
+  - {}
 ---
 
