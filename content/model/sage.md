@@ -3,7 +3,7 @@ template: ModelPage
 title: Sage
 featuredImage: >-
   https://ucarecdn.com/d6bb6e54-6073-441f-b3a6-9c53e9463add/-/crop/2449x1163/0,228/-/preview/
-imageThumbnail: 'https://ucarecdn.com/db567f7b-25eb-4e52-9d9e-771dc643edac/-/preview/'
+imageThumbnail: 'https://ucarecdn.com/c85620ac-bf39-4e5a-99a3-255055fc2c39/'
 firstName: Sage
 collection: Girls
 height: 95cm
@@ -16,7 +16,9 @@ shoeSize: '8'
 hair: Light Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/d60e4b65-4c59-4dce-96dc-064d24ede71b/'
   - image: 'https://ucarecdn.com/7dcf3d57-39e8-4444-b3fd-ebf071d7c104/'
+  - image: 'https://ucarecdn.com/f0f9a3d4-a7d2-4143-897b-3d1f13931650/'
   - image: 'https://ucarecdn.com/198ee69f-4df3-4cfc-958b-3316459faa2f/'
   - image: >-
       https://ucarecdn.com/c8e11c57-1276-4f3d-8ddd-7b2ce99f8a6e/-/crop/642x804/0,159/-/preview/
