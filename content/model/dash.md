@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f36d8988-9548-4b3d-8f47-6ef4c6d07aaf/-/crop/1288x1519/111,66/-/preview/
 firstName: Dash
-collection: ''
+collection: Boys
 height: 101cm
 measurementType: chest
 bust: 56cm
