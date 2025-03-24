@@ -4,7 +4,7 @@ title: Dash
 featuredImage: >-
   https://ucarecdn.com/13828ee2-c297-4d16-a2ca-472b3c12f409/-/crop/1431x907/3,673/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/0c3f9fab-b75c-4ea7-93ac-0d00e9333294/-/crop/680x920/110,0/-/preview/
+  https://ucarecdn.com/f36d8988-9548-4b3d-8f47-6ef4c6d07aaf/-/crop/1288x1519/111,66/-/preview/
 firstName: Dash
 collection: ''
 height: 101cm
@@ -15,11 +15,9 @@ hips: 62cm
 size: '5'
 shoeSize: '9'
 imagePortfolio:
-  - image: >-
-      https://ucarecdn.com/32ad9f6b-b52c-473a-8e2e-c86878e4f37a/-/crop/1187x1607/75,146/-/preview/
-  - image: 'https://ucarecdn.com/ba38bebb-00ec-4603-a970-d65ff02b27c6/'
+  - image: 'https://ucarecdn.com/4ffde830-51c8-443d-8e98-0816e7c13877/'
   - image: 'https://ucarecdn.com/2ae375eb-31d7-439b-afb3-83014a32cf1e/'
-  - image: 'https://ucarecdn.com/6448700b-bd21-44c6-9b1a-10c2278ab6bc/'
+  - image: 'https://ucarecdn.com/5ec9b949-9d4f-4896-9f0a-24924b9ca56a/'
   - image: 'https://ucarecdn.com/3f5332a3-8806-4514-ab3f-88f17fe7c73a/'
   - image: 'https://ucarecdn.com/e9c306a8-3a2a-44c7-b392-4834dd324aa3/'
   - image: 'https://ucarecdn.com/9c82235e-ed5a-4bef-845a-0d70d021a8ab/'
