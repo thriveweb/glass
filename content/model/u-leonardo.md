@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: ' U Leonardo '
+title: 'Leonardo '
 featuredImage: >-
   https://ucarecdn.com/66504c4c-d4fc-4466-96f1-d6cb59d532ed/-/crop/1650x919/0,18/-/preview/
 imageThumbnail: >-
