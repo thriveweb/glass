@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/f8a63b8f-6ba5-44a8-80bb-3d47fc1dccee/-/crop/955x1408/235,0/-/preview/
 firstName: Annika D
 collection: Girls
-height: 152cm
+height: 155cm
 measurementType: bust
-bust: 73cm
-waist: 67cm
-hips: 74cm
-size: 10/12
-shoeSize: Ladies 7
+bust: 81cm
+waist: 68cm
+hips: 81cm
+size: '14'
+shoeSize: Ladies 8
 hair: Brown
 eyes: Green
 imagePortfolio:
