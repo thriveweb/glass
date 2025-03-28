@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Debbie
+title: Debby
 featuredImage: >-
   https://ucarecdn.com/f93d4a54-17d3-4b15-88f7-2467ddcad219/-/crop/1650x977/0,0/-/preview/
 imageThumbnail: >-
