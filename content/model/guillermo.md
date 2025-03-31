@@ -2,9 +2,9 @@
 template: ModelPage
 title: Guillermo
 featuredImage: >-
-  https://ucarecdn.com/0ce84fda-d85d-48ae-a8e3-15af46af5e86/-/crop/907x551/0,178/-/preview/
+  https://ucarecdn.com/413f7807-cf7b-4316-a158-4712e46ee878/-/crop/1633x1108/0,299/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/112ca11f-2216-4a73-b7e0-504a01e1684c/-/crop/581x769/221,209/-/preview/
+  https://ucarecdn.com/a4837701-80f5-43ae-8d34-8318f152ad72/-/crop/1632x1928/0,137/-/preview/
 firstName: Guillermo
 collection: Classic
 height: 180cm
@@ -17,12 +17,12 @@ shoeSize: '10'
 hair: Brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/72ae7007-cfd5-4e05-a8cd-de6d9ccb2905/'
-  - image: 'https://ucarecdn.com/65875c7b-ef95-4e19-a6e4-e664cbf389b7/'
-  - image: 'https://ucarecdn.com/d11f934c-21d2-43cc-84f6-889892dc2ab9/'
-  - image: 'https://ucarecdn.com/f7de4332-e2e1-4ecf-92d9-909c0052e94b/'
-  - image: 'https://ucarecdn.com/6c5668bc-73fa-4801-9df0-b501b1ac4c4b/'
-  - image: 'https://ucarecdn.com/6e7cc69c-4319-43e3-bb65-010762ebefb4/'
-  - image: 'https://ucarecdn.com/bfede6ec-1545-4fea-8216-bbe4cf06eab0/'
+  - image: 'https://ucarecdn.com/ae5980d4-9c91-41fb-b622-4fee4eea99fe/-/preview/'
+  - image: 'https://ucarecdn.com/a285e619-112c-4156-a718-3443fe678469/'
+  - image: 'https://ucarecdn.com/627be778-fa95-4737-a3a2-cec36fc86b98/'
+  - image: 'https://ucarecdn.com/05c2daea-7ecf-41d6-b179-e2be83c7d154/'
+  - image: 'https://ucarecdn.com/cc5ae3da-3cdf-4e9d-b4b8-07918c35e25b/'
+  - image: 'https://ucarecdn.com/d19ea6bd-e86e-49f3-b462-d394fa212204/'
+  - image: 'https://ucarecdn.com/4aafc6e2-0444-4b2d-83d4-8a7854b235d0/'
 ---
 
