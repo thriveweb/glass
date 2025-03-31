@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/185611ca-bd1c-4671-81d5-f9229d95dc41/'
 imageThumbnail: >-
   https://ucarecdn.com/10a96d4c-15f2-4298-9c8e-f805bbdb6c05/-/crop/689x966/44,0/-/preview/
 firstName: Pam
-collection: Commercial Faces
+collection: Classic
 height: 160cm
 measurementType: bust
 bust: 83cm
