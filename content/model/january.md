@@ -4,7 +4,7 @@ title: January
 featuredImage: >-
   https://ucarecdn.com/42e853b5-0902-4ca6-8f92-3d4702b6e20c/-/crop/478x317/0,16/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/e6bb4142-1e73-4aa3-81b8-f5fb1dca6d2c/-/crop/352x438/37,94/-/preview/
+  https://ucarecdn.com/54bcebd6-8a04-4569-a1d2-e9418a0578d5/-/crop/1234x1851/131,0/-/preview/
 firstName: Januray
 collection: Classic
 height: 167cm
