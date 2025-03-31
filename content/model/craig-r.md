@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/656a4e75-3902-4011-975b-2c4831fee4a6/'
 imageThumbnail: >-
   https://ucarecdn.com/00b43e04-b867-454c-9d57-507bc061c8e9/-/crop/674x1026/59,0/-/preview/
 firstName: Craig R
-collection: Commercial Faces
+collection: Classic
 height: 175cm
 measurementType: chest
 bust: 95cm
