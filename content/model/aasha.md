@@ -3,8 +3,7 @@ template: ModelPage
 title: Aasha
 featuredImage: >-
   https://ucarecdn.com/cfa80e3d-544e-4460-9b5d-0541d633802a/-/crop/1650x974/0,24/-/preview/
-imageThumbnail: >-
-  https://ucarecdn.com/cfd94c10-7e28-4ee2-96bc-00dc4fbf2880/-/crop/557x751/106,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/e31b96e2-94ad-4dce-81ec-f6f3425df831/'
 firstName: Aasha
 collection: Boys
 height: 153cm
@@ -28,5 +27,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/df932160-7d3d-43dc-b209-4071633baefd/'
   - image: 'https://ucarecdn.com/3e25ef0a-5a6f-4153-a70b-b05f92331bea/'
   - image: 'https://ucarecdn.com/40c91226-9975-4672-9db0-a02471a97675/'
+  - image: 'https://ucarecdn.com/1c5e6cbd-af4c-4bd4-b01b-67d9e156571d/'
 ---
 
