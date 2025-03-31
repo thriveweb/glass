@@ -4,7 +4,7 @@ title: Craig R
 featuredImage: >-
   https://ucarecdn.com/81ff12e3-f20a-4b45-bf70-8293c2cce774/-/crop/2048x881/0,333/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ff9a2dac-7537-4bd3-bb8c-6fbdbe205791/-/crop/529x742/489,425/-/preview/
+  https://ucarecdn.com/00b43e04-b867-454c-9d57-507bc061c8e9/-/crop/674x1026/59,0/-/preview/
 firstName: Craig R
 collection: Commercial Faces
 height: 175cm
@@ -17,8 +17,15 @@ shoeSize: '9'
 hair: Dark Blonde
 eyes: Green/Blue
 imagePortfolio:
+  - image: 'https://ucarecdn.com/98d431e4-7749-465c-9360-688ee11fae2f/'
+  - image: 'https://ucarecdn.com/7a114f55-3429-466d-8fa4-b3d11a9197e3/'
+  - image: 'https://ucarecdn.com/899fb526-daa1-47e8-8f79-ddc1f33d976b/'
   - image: >-
       https://ucarecdn.com/d03be6a9-c50c-4687-ad38-24526b7a7a74/-/crop/900x1377/128,606/-/preview/
+  - image: 'https://ucarecdn.com/d9bdc518-cd03-4fc1-94d7-cec54f6cc60e/'
+  - image: 'https://ucarecdn.com/b1e2c578-d9cb-4294-8023-9fd3649fa47d/'
+  - image: 'https://ucarecdn.com/07a37ce2-c010-456f-9ed3-4ac751b46b37/'
+  - image: 'https://ucarecdn.com/cca75aa2-c594-49a0-acfc-826357548cf4/'
   - image: 'https://ucarecdn.com/ebe2b9b0-176e-4277-a817-2305fd2e76c4/'
   - image: 'https://ucarecdn.com/dfcca004-0615-41ee-9bff-146d7b9310fa/'
   - image: >-
