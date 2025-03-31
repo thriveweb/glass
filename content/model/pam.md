@@ -1,10 +1,9 @@
 ---
 template: ModelPage
 title: 'Pam '
-featuredImage: >-
-  https://ucarecdn.com/a850df2b-e397-413b-811d-214449e4164a/-/crop/2048x927/0,251/-/preview/
+featuredImage: 'https://ucarecdn.com/185611ca-bd1c-4671-81d5-f9229d95dc41/'
 imageThumbnail: >-
-  https://ucarecdn.com/075a8a36-d0aa-4c54-aed2-5c946702cc2d/-/crop/302x426/485,722/-/preview/
+  https://ucarecdn.com/10a96d4c-15f2-4298-9c8e-f805bbdb6c05/-/crop/689x966/44,0/-/preview/
 firstName: Pam
 collection: Commercial Faces
 height: 160cm
@@ -18,34 +17,21 @@ hair: Black
 eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/2b1c8b38-8a98-4973-a5ed-b9e335c1b04a/'
+  - image: 'https://ucarecdn.com/1e4da62f-00df-4767-825c-76c644b5d218/'
+  - image: 'https://ucarecdn.com/c1dffb5b-1343-4a11-b7f8-72c66f2c6df0/'
   - image: >-
       https://ucarecdn.com/35759425-6854-4104-bfac-d432511bb731/-/crop/956x1313/138,666/-/preview/
-  - image: 'https://ucarecdn.com/c1dffb5b-1343-4a11-b7f8-72c66f2c6df0/'
-  - image: 'https://ucarecdn.com/980f8b71-9eba-4f14-a25f-4d244d5db71c/'
-  - image: 'https://ucarecdn.com/1ccfce9b-b4f6-46d6-bda9-a2cd0cc7966b/'
-  - image: 'https://ucarecdn.com/d554a1c2-d91a-4c95-a4fc-bd368766c265/'
   - image: 'https://ucarecdn.com/5b73a9ab-c849-425b-b468-0dc66c939b46/'
   - image: 'https://ucarecdn.com/51e1b7db-2ab6-4d9b-9094-c4c0d4d732f1/'
   - image: 'https://ucarecdn.com/2dec9d0c-e277-4f49-8f29-313f903477d8/'
-  - image: 'https://ucarecdn.com/ff620c3c-de4f-4c35-9712-a64ac1604b31/'
-  - image: 'https://ucarecdn.com/07ef359b-fd56-4357-9bdf-7efa44a3766b/'
-  - image: 'https://ucarecdn.com/673a62da-0c45-4541-b205-14de6ce13015/'
-  - image: 'https://ucarecdn.com/0c5fe589-9881-4e06-911b-27ab1c9c5628/'
-  - image: 'https://ucarecdn.com/321a86fc-43f4-476d-af4b-288775fc94d2/'
-  - image: >-
-      https://ucarecdn.com/d864b0e7-722d-439f-9d79-cb661b3360e1/-/crop/635x702/0,249/-/preview/
   - image: 'https://ucarecdn.com/4ede2608-89c7-4867-be7f-f4d69d15e29f/'
-  - image: >-
-      https://ucarecdn.com/814e27f3-9698-4d99-a2fc-2c76fa460de8/-/crop/1366x1788/0,260/-/preview/
+  - image: 'https://ucarecdn.com/0c5fe589-9881-4e06-911b-27ab1c9c5628/'
   - image: 'https://ucarecdn.com/8c67c7b9-3354-4bc3-b5be-2f5c1f43c21d/'
-  - image: >-
-      https://ucarecdn.com/7645ae0e-86bd-48b7-9e53-f8944a3e8380/-/crop/1366x1738/0,310/-/preview/
+  - image: 'https://ucarecdn.com/d554a1c2-d91a-4c95-a4fc-bd368766c265/'
+  - image: 'https://ucarecdn.com/89da00b5-112f-435f-8116-9bf77e39aaa0/'
+  - image: 'https://ucarecdn.com/321a86fc-43f4-476d-af4b-288775fc94d2/'
+  - image: 'https://ucarecdn.com/673a62da-0c45-4541-b205-14de6ce13015/'
   - image: 'https://ucarecdn.com/58b60c82-bed9-4127-acdd-b5c6b034ed6d/'
-  - image: 'https://ucarecdn.com/92cb4bf0-4449-4034-80cb-f75307f5bd5d/'
   - image: 'https://ucarecdn.com/8987fe2d-d6b7-47d1-9ff1-c4ab48c033e2/'
-  - image: >-
-      https://ucarecdn.com/68dfee4a-75d1-414e-83d9-37c21b609cd6/-/crop/462x659/0,34/-/preview/
-  - image: >-
-      https://ucarecdn.com/ea364f48-c2e2-4737-9cbd-ce44835ec39b/-/crop/1089x1529/84,519/-/preview/
 ---
 
