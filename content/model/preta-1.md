@@ -4,7 +4,7 @@ title: Preta
 featuredImage: >-
   https://ucarecdn.com/ef2969bb-0c94-4fc5-9841-4cabd589cb8f/-/crop/1091x592/0,49/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/494e84dd-1247-4037-962f-4ce8ac04f6a0/-/crop/305x382/70,76/-/preview/
+  https://ucarecdn.com/58db1ace-7695-4beb-b9cf-62825a8825aa/-/crop/293x359/57,68/-/preview/
 firstName: Preta
 collection: Girls
 height: 86cm
@@ -17,10 +17,10 @@ shoeSize: '6'
 hair: Dark brown
 eyes: Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/3b5ea1ca-1195-49fe-8e83-21e7a552fade/'
-  - image: 'https://ucarecdn.com/a8a56250-6878-4b57-93e7-cd71760cab04/'
-  - image: 'https://ucarecdn.com/46ec385b-7374-4ecb-ab5b-2defe438f173/'
   - image: 'https://ucarecdn.com/7665da99-2970-4a5d-861a-a611ed4a0888/'
+  - image: 'https://ucarecdn.com/a8a56250-6878-4b57-93e7-cd71760cab04/'
+  - image: 'https://ucarecdn.com/3b5ea1ca-1195-49fe-8e83-21e7a552fade/'
+  - image: 'https://ucarecdn.com/46ec385b-7374-4ecb-ab5b-2defe438f173/'
   - image: 'https://ucarecdn.com/90517e5b-5a73-41a5-9ccf-abecada21ec7/'
   - image: 'https://ucarecdn.com/90be4186-c765-457e-b790-83ecad3c866a/'
   - image: 'https://ucarecdn.com/4cca077b-39b5-436c-94ab-914c7aa25621/'
