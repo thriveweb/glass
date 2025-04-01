@@ -14,7 +14,7 @@ waist: 59cm
 hips: 63cm
 size: '10 '
 shoeSize: '7'
-hair: Brrown
+hair: Brown
 eyes: Brown
 imagePortfolio:
   - image: >-
