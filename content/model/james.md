@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/e2112535-ffdd-4a7e-963b-339b477dd335/-/crop/1609x1865/307,387/-/preview/
 firstName: James
 collection: Men
-height: 18cm
+height: 180cm
 measurementType: chest
 bust: 94cm
 waist: 73cm
