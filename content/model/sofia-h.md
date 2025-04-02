@@ -7,6 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/17cc3047-43e6-46a6-94fc-0e7531dcd6cb/-/crop/629x980/63,0/-/preview/
 firstName: Sofia H
 collection: Commercial Faces
+height: 169cm
+measurementType: bust
+bust: 90cm
+waist: 74cm
+hips: 89cm
+size: '8'
+shoeSize: '7.5'
 hair: 'Black '
 eyes: Brown
 imagePortfolio:
