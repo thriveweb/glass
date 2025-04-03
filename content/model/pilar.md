@@ -4,7 +4,7 @@ title: Pilar
 featuredImage: >-
   https://ucarecdn.com/5776dc95-0f4a-4004-8e5f-1ce36d8fc86e/-/crop/1138x602/0,59/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/9fa7723c-bff7-4048-b45c-444703fe6e55/-/crop/232x250/92,89/-/preview/
+  https://ucarecdn.com/f82ab432-a9a9-4ef0-a9eb-c0976b09a1f0/-/crop/410x412/244,76/-/preview/
 firstName: Pilar
 collection: Girls
 height: 100cm
