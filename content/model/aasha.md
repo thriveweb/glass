@@ -11,7 +11,7 @@ measurementType: chest
 bust: 72cm
 waist: 61cm
 hips: 78cm
-size: 12-14
+size: '12'
 hair: Blone
 eyes: Blue
 imagePortfolio:
