@@ -10,8 +10,8 @@ collection: Classic
 height: 173cm
 measurementType: bust
 bust: 100cm
-waist: 86cm
-hips: 102cm
+waist: 79cm
+hips: 99cm
 size: '12'
 shoeSize: '8.5'
 hair: Black
