@@ -12,7 +12,7 @@ measurementType: bust
 bust: 77cm
 waist: 64cm
 hips: 81cm
-size: '12'
+size: 10-12
 shoeSize: '6'
 hair: Light Brown
 eyes: Brown
