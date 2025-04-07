@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Inka '
 featuredImage: >-
-  https://ucarecdn.com/6bb56a56-5f3c-4751-aab5-380c7a6a29b3/-/crop/1650x1014/0,15/-/preview/
+  https://ucarecdn.com/6bb56a56-5f3c-4751-aab5-380c7a6a29b3/-/crop/1650x963/0,24/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/258135f5-8b1f-4edf-ab16-95e103bdba79/-/crop/665x971/34,0/-/preview/
 firstName: Inka
