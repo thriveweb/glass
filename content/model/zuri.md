@@ -14,6 +14,8 @@ waist: 55cm
 hips: 60cm
 size: '5'
 shoeSize: '1'
+hair: Blonde
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/5b40b31a-c562-439b-a8a1-4802f070ac59/'
   - image: 'https://ucarecdn.com/8e4d9c2f-3a4d-472c-8722-92bbe9e31b21/'
