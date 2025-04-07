@@ -2,7 +2,7 @@
 template: ModelPage
 title: Aaron
 featuredImage: >-
-  https://ucarecdn.com/f285ee9a-f73e-4e1e-97e1-60c8d8600215/-/crop/1650x888/0,52/-/preview/
+  https://ucarecdn.com/f285ee9a-f73e-4e1e-97e1-60c8d8600215/-/crop/1650x776/0,52/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/1be0b8e6-7385-4203-bfe8-66b9be33eb01/-/crop/628x903/34,0/-/preview/
 firstName: Aaron
