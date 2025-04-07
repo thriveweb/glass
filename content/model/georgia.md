@@ -5,6 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/0e16fc83-b43f-40bf-974b-10f9c2f2b945/-/crop/1650x968/0,6/-/preview/
 imageThumbnail: 'https://ucarecdn.com/ddc6855f-53b1-4ef1-bb38-4b78bddc2fbf/'
 firstName: Georgia
+collection: Emerging
 height: 182cm
 measurementType: bust
 bust: 88cm
@@ -26,7 +27,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/e1ea0a88-dab3-4412-b531-8ac6d48da965/'
   - image: 'https://ucarecdn.com/c388735e-60cd-4edf-93c9-76b939a9f799/'
   - image: 'https://ucarecdn.com/cecdfab5-5a4c-49be-8691-dc37da4fdf55/'
-  - image: 'https://ucarecdn.com/334bcd4d-bcc6-47b8-9cc0-98ade264b651/'
   - image: 'https://ucarecdn.com/131c6bf1-324c-4528-898f-024a88c82cb0/'
+  - image: 'https://ucarecdn.com/334bcd4d-bcc6-47b8-9cc0-98ade264b651/'
 ---
 
