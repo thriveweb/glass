@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Asta '
 featuredImage: >-
-  https://ucarecdn.com/e126c7ac-31e5-4ddf-908b-25e94b43507e/-/crop/1650x1014/0,43/-/preview/
+  https://ucarecdn.com/e126c7ac-31e5-4ddf-908b-25e94b43507e/-/crop/1650x946/0,43/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/47c48ee8-e88c-4d11-8d24-c39254c9c69a/-/crop/554x823/145,15/-/preview/
 firstName: Asta
