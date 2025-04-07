@@ -4,7 +4,7 @@ title: Z Mike P
 featuredImage: >-
   https://ucarecdn.com/2c811aa3-f3b0-47eb-a584-4609cfd6d1dd/-/crop/1650x880/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/4f4c28cc-7f02-4d34-b243-4155f4c0a295/-/crop/666x958/5,0/-/preview/
+  https://ucarecdn.com/fdddd7b5-ab3e-458f-acff-cf0856b44e3e/-/crop/564x778/86,17/-/preview/
 firstName: Mike P
 collection: Men
 height: 181cm
