@@ -2,7 +2,7 @@
 template: ModelPage
 title: Mike P
 featuredImage: >-
-  https://ucarecdn.com/a004cdcc-02f6-4050-846d-ebee476e7103/-/crop/436x186/0,114/-/preview/
+  https://ucarecdn.com/2c811aa3-f3b0-47eb-a584-4609cfd6d1dd/-/crop/1650x880/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/4f4c28cc-7f02-4d34-b243-4155f4c0a295/-/crop/666x958/5,0/-/preview/
 firstName: Mike P
