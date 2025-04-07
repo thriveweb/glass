@@ -3,7 +3,8 @@ template: ModelPage
 title: Charlie J
 featuredImage: >-
   https://ucarecdn.com/d5711175-3752-4f90-a196-fe4213947ece/-/crop/733x474/0,62/-/preview/
-imageThumbnail: 'https://ucarecdn.com/f8ccb9ea-02db-42aa-a51e-d81f0739561f/'
+imageThumbnail: >-
+  https://ucarecdn.com/f8ccb9ea-02db-42aa-a51e-d81f0739561f/-/crop/579x909/101,17/-/preview/
 firstName: Charlie J
 collection: Men
 height: 182cm
