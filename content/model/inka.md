@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/258135f5-8b1f-4edf-ab16-95e103bdba79/-/crop/665x971/34,0/-/preview/
 firstName: Inka
-collection: Girls
+collection: Emerging
 height: 171cm
 measurementType: bust
 bust: 85cm
