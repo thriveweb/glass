@@ -2,8 +2,9 @@
 template: ModelPage
 title: 'Georgia '
 featuredImage: >-
-  https://ucarecdn.com/0e16fc83-b43f-40bf-974b-10f9c2f2b945/-/crop/1650x968/0,6/-/preview/
-imageThumbnail: 'https://ucarecdn.com/ddc6855f-53b1-4ef1-bb38-4b78bddc2fbf/'
+  https://ucarecdn.com/0e16fc83-b43f-40bf-974b-10f9c2f2b945/-/crop/1650x812/0,41/-/preview/
+imageThumbnail: >-
+  https://ucarecdn.com/ddc6855f-53b1-4ef1-bb38-4b78bddc2fbf/-/crop/663x954/35,0/-/preview/
 firstName: Georgia
 collection: Emerging
 height: 182cm
