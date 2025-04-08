@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Hazel
+title: Hazel V
 featuredImage: >-
   https://ucarecdn.com/886c5ef1-1cfa-4fe8-9c13-abcf1c17b9ac/-/crop/1732x1022/0,835/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/4fb5b8ac-0f3a-404b-8a21-6c0bcc2a3307/-/crop/797x902/412,158/-/preview/
-firstName: Hazel
+firstName: Hazel V
 collection: Emerging
 height: 173cm
 measurementType: bust
