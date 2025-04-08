@@ -8,9 +8,9 @@ firstName: Ava Rosemary
 collection: Girls
 height: 123cm
 measurementType: bust
-bust: 56cm
-waist: 51cm
-hips: 60cm
+bust: 57cm
+waist: 55cm
+hips: 65cm
 size: '5'
 shoeSize: '12'
 hair: Black
