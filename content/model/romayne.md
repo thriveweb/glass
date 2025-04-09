@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/5e3cbea8-e61a-4592-9192-00b0a2a3a26e/-/crop/2048x1176/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/b8788ae3-5c59-4ae9-80de-3fd333f2a354/'
 firstName: Romayne
-collection: Emerging
+collection: Men
 height: 182cm
 measurementType: chest
 bust: 88cm
