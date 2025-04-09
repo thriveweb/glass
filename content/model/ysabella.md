@@ -9,9 +9,9 @@ firstName: Ysabella
 collection: Women
 height: 167cm
 measurementType: bust
-bust: 71cm
-waist: 68cm
-hips: 91cm
+bust: 76cm
+waist: 65cm
+hips: 89cm
 size: 6-8
 shoeSize: '8'
 hair: Brown
