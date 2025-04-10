@@ -8,9 +8,9 @@ firstName: Dani B
 collection: Classic
 height: 170cm
 measurementType: bust
-bust: 85cm
-waist: 68cm
-hips: 85cm
+bust: 82cm
+waist: 64cm
+hips: 83cm
 size: '8'
 shoeSize: '8.5'
 hair: Blonde
