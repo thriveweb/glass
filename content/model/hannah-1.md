@@ -2,7 +2,7 @@
 template: ModelPage
 title: Hannah
 featuredImage: >-
-  https://ucarecdn.com/a1af8e17-319d-42aa-bd28-38c72265789d/-/crop/2449x1356/0,0/-/preview/
+  https://ucarecdn.com/a1af8e17-319d-42aa-bd28-38c72265789d/-/crop/2449x1205/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/79e1764a-fc0d-4149-af56-1924e2cc9375/-/crop/742x925/407,45/-/preview/
 firstName: Hannah
