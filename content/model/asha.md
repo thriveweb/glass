@@ -4,7 +4,7 @@ title: C Asha
 featuredImage: >-
   https://ucarecdn.com/28756213-19c2-4a06-92c5-51496972af05/-/crop/2445x911/0,447/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/869a0ad7-1540-470c-80c5-814c914f47d9/-/crop/3301x4732/908,0/-/preview/
+  https://ucarecdn.com/f574afac-9b3c-44d6-ad33-0fc6512b8003/-/crop/251x297/96,0/-/preview/
 firstName: Asha
 collection: Women
 height: 177cm
