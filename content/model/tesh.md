@@ -4,7 +4,7 @@ title: Tesh
 featuredImage: >-
   https://ucarecdn.com/297f1879-ee60-4135-86c8-30eb2887b9ad/-/crop/1800x1049/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/713b9b4a-92b4-484f-a53f-c9a7a9fe07d8/-/crop/516x699/252,218/-/preview/
+  https://ucarecdn.com/1593140a-2876-4af5-a037-e10b7064260a/-/crop/423x545/65,81/-/preview/
 firstName: Tesh
 collection: Women
 height: 178cm
@@ -17,19 +17,19 @@ shoeSize: '9'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
+  - image: >-
+      https://ucarecdn.com/d2dc61ca-f217-40e9-8174-8f3a1faa14a9/-/crop/1632x2078/0,371/-/preview/
   - image: 'https://ucarecdn.com/98823c96-3c75-466e-9a5f-efb5c8a257ca/'
-  - image: 'https://ucarecdn.com/6af50669-c5a9-45f1-b60d-bc62bf30ec7c/'
   - image: >-
       https://ucarecdn.com/3f8faa54-72aa-4255-a1d4-ad9dfd9766f5/-/crop/608x832/0,80/-/preview/
   - image: 'https://ucarecdn.com/ffa4cf15-ddac-4314-b109-733a6f61252f/'
   - image: 'https://ucarecdn.com/6c92a2e4-9666-435a-87da-b57993ceaabb/'
   - image: 'https://ucarecdn.com/0f93ba4f-bf43-4aa5-bea7-caae12227fd4/'
+  - image: 'https://ucarecdn.com/6af50669-c5a9-45f1-b60d-bc62bf30ec7c/'
   - image: 'https://ucarecdn.com/f835b1b9-6e16-439f-8e44-1a4a45029f8e/'
   - image: 'https://ucarecdn.com/d758ef09-7731-4235-9a46-6d82dabc6550/'
   - image: 'https://ucarecdn.com/e6901e21-b0cb-4d64-8f7f-d54e5e7404cd/'
   - image: 'https://ucarecdn.com/2e120973-3e6b-4d6f-895a-43acf76b52b5/'
-  - image: >-
-      https://ucarecdn.com/d2dc61ca-f217-40e9-8174-8f3a1faa14a9/-/crop/1632x2078/0,371/-/preview/
   - image: 'https://ucarecdn.com/364dc2a2-ac87-40a0-aa43-3e49fb05551b/'
   - image: >-
       https://ucarecdn.com/2b27bcf7-4020-4ca3-aa4c-46b316992d1a/-/crop/2126x1385/323,211/-/preview/-/rotate/270/
