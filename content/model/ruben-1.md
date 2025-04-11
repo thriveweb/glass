@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/38c7cf43-2253-4b9b-9890-d57f7d207648/-/crop/353x499/352,0/-/preview/
 firstName: Ruben O
-collection: Men
+collection: Emerging
 height: 186cm
 measurementType: chest
 bust: 97cm
