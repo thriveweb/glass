@@ -127,7 +127,6 @@ partners:
   - image: 'https://glassmanagement.imgix.net/images/uploads/download-4.png'
   - image: 'https://ucarecdn.com/8ec046e1-b7b8-4b9d-b03c-8f7c16b5dc3f/'
   - image: 'https://glassmanagement.imgix.net/images/uploads/download-4.jpg'
-  - image: 'https://ucarecdn.com/7e6699dc-dc11-4d6e-ab8a-c2f77957a06a/'
 columns:
   - buttonTitle: Book Models
     buttonUrl: contact
