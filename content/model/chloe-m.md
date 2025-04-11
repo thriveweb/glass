@@ -4,7 +4,7 @@ title: Chloe M
 featuredImage: >-
   https://ucarecdn.com/6bf4a867-f760-4ed1-80e7-6dea239d48a2/-/crop/1632x1185/0,456/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/9d484139-bfd4-4c8f-a792-0abfec89d71a/-/crop/281x376/60,4/-/preview/
+  https://ucarecdn.com/9d484139-bfd4-4c8f-a792-0abfec89d71a/-/crop/292x369/56,6/-/preview/
 firstName: Chloe M
 collection: Women
 height: 170cm
