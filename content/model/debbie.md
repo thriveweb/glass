@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/153b9a48-092e-4672-95f4-3c1acd00c3ce/-/crop/644x874/4,0/-/preview/
 firstName: Debbie
-collection: Classic
+collection: Commercial Faces
 height: 158cm
 measurementType: bust
 bust: 71cm
