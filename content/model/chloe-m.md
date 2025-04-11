@@ -4,7 +4,7 @@ title: Chloe M
 featuredImage: >-
   https://ucarecdn.com/6bf4a867-f760-4ed1-80e7-6dea239d48a2/-/crop/1632x1185/0,456/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/08d4befd-8dd8-47ab-b625-9b9762b3037f/-/crop/948x1496/166,88/-/preview/
+  https://ucarecdn.com/9d484139-bfd4-4c8f-a792-0abfec89d71a/-/crop/281x376/60,4/-/preview/
 firstName: Chloe M
 collection: Women
 height: 170cm
@@ -17,10 +17,10 @@ shoeSize: '8'
 hair: Light Brown
 eyes: Green
 imagePortfolio:
-  - image: 'https://ucarecdn.com/7d4739c7-9532-44e2-a48d-37a82d71b41a/'
-  - image: 'https://ucarecdn.com/1338d9ab-176e-426a-b049-e59f6846d5ac/'
   - image: 'https://ucarecdn.com/4ceb2251-35b8-42fb-b90f-46281d6b6f59/'
+  - image: 'https://ucarecdn.com/1338d9ab-176e-426a-b049-e59f6846d5ac/'
   - image: 'https://ucarecdn.com/5b5d0c75-be23-4c5f-9e4d-cce26c9f649c/'
+  - image: 'https://ucarecdn.com/7d4739c7-9532-44e2-a48d-37a82d71b41a/'
   - image: 'https://ucarecdn.com/31e2b533-8749-45e6-abe6-9305f717ff00/'
   - image: 'https://ucarecdn.com/f4bb9b2e-0d9f-4d8c-ad29-873e5cb8bd16/'
   - image: 'https://ucarecdn.com/6bf98889-82fb-437d-9021-58d582a41d07/'
