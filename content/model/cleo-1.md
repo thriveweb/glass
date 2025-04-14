@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Cleo
+title: Cleo H
 featuredImage: >-
   https://ucarecdn.com/57ae7245-5a10-46f6-a2a5-f3ef12c1a975/-/crop/733x412/0,121/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/b34a385b-4f61-4907-a611-a9b725056c15/-/crop/404x546/155,102/-/preview/
-firstName: Cleo
+firstName: Cleo H
 collection: Emerging
 height: 160cm
 measurementType: bust
