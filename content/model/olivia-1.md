@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/afeba14f-e0c2-415a-b7ca-aef2cf8dddac/-/crop/386x539/10,0/-/preview/
 firstName: Olivia A
-collection: Emerging
+collection: Commercial Faces
 height: 172cm
 measurementType: bust
 bust: 88cm
