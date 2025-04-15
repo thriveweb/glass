@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Olivia
+title: Olivia A
 featuredImage: >-
   https://ucarecdn.com/8b077000-7a20-4b82-8bc5-809a2f0e490b/-/crop/1650x1016/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/afeba14f-e0c2-415a-b7ca-aef2cf8dddac/-/crop/386x539/10,0/-/preview/
-firstName: Olivia
+firstName: Olivia A
 collection: Emerging
 height: 172cm
 measurementType: bust
