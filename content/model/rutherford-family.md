@@ -3,7 +3,8 @@ template: ModelPage
 title: Rutherford Family
 featuredImage: >-
   https://ucarecdn.com/2433cb8d-28a1-4c57-ac38-c4abc25ec8ba/-/crop/1650x786/0,40/-/preview/
-imageThumbnail: 'https://ucarecdn.com/4c12a8b3-1be3-432f-a1ed-dfd79fd6f85d/'
+imageThumbnail: >-
+  https://ucarecdn.com/4c12a8b3-1be3-432f-a1ed-dfd79fd6f85d/-/crop/1139x1100/269,0/-/preview/
 firstName: Rutherford Family
 collection: Family
 imagePortfolio:
