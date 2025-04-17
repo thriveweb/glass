@@ -3,7 +3,8 @@ template: ModelPage
 title: Miley
 featuredImage: >-
   https://ucarecdn.com/000a06ea-f672-41ca-97d0-e06fb1ed6877/-/crop/555x342/0,78/-/preview/
-imageThumbnail: 'https://ucarecdn.com/72e88a85-bb9a-458b-ad69-1380391f9a19/'
+imageThumbnail: >-
+  https://ucarecdn.com/96ed539c-b058-4c0f-9fef-58c911013a6f/-/crop/1453x2032/85,6/-/preview/
 firstName: Miley
 collection: Women
 height: 163cm
