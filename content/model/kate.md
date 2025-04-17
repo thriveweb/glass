@@ -2,7 +2,7 @@
 template: ModelPage
 title: Kate
 featuredImage: >-
-  https://ucarecdn.com/642fef8a-c87e-45ec-800d-c4f2cdfad082/-/crop/1641x887/0,0/-/preview/
+  https://ucarecdn.com/642fef8a-c87e-45ec-800d-c4f2cdfad082/-/crop/1650x799/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/6dbb0f4e-98e3-4eb0-886e-22d9cdee3e0c/-/crop/678x935/55,0/-/preview/
 firstName: Kate
