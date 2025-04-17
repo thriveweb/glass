@@ -4,7 +4,7 @@ title: Dani B
 featuredImage: >-
   https://ucarecdn.com/ed50f7e4-6c4e-4d4c-a6df-0f04a90c7a7f/-/crop/1906x926/0,70/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/a3da6bf8-9ed4-4403-aece-c9c1db2a9531/-/crop/579x809/88,32/-/preview/
+  https://ucarecdn.com/749d37ca-dd9e-4f98-a449-8b914b1bb5c6/-/crop/260x384/135,34/-/preview/
 firstName: Dani B
 collection: Classic
 height: 170cm
