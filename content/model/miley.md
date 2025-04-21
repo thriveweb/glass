@@ -9,11 +9,11 @@ firstName: Miley
 collection: Women
 height: 163cm
 measurementType: bust
-bust: 86cm
-waist: 63cm
-hips: 98cm
-size: 8-10
-shoeSize: '8'
+bust: 87cm
+waist: 61cm
+hips: 94cm
+size: '8'
+shoeSize: '7'
 hair: Brown
 eyes: Green
 imagePortfolio:
