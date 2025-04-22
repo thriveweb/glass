@@ -2,9 +2,9 @@
 template: ModelPage
 title: 'Amber '
 featuredImage: >-
-  https://ucarecdn.com/031019f8-3728-4b91-acdc-36d7c216e620/-/crop/2016x1339/433,0/-/preview/
+  https://ucarecdn.com/7c229ad8-3008-46c7-ab01-aac47c8d129e/-/crop/462x244/0,69/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/0fedb7f0-609f-4426-8f03-c338bb447a4b/-/crop/1180x1620/812,88/-/preview/
+  https://ucarecdn.com/04de327e-cf7c-42ae-85be-7a229485ef8b/-/crop/372x503/79,0/-/preview/
 firstName: Amber
 collection: Classic
 height: 173cm
