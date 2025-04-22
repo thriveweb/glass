@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Amber '
 featuredImage: >-
-  https://ucarecdn.com/7c229ad8-3008-46c7-ab01-aac47c8d129e/-/crop/462x244/0,69/-/preview/
+  https://ucarecdn.com/7c229ad8-3008-46c7-ab01-aac47c8d129e/-/crop/462x223/0,53/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/04de327e-cf7c-42ae-85be-7a229485ef8b/-/crop/372x503/79,0/-/preview/
 firstName: Amber
