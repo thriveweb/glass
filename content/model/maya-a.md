@@ -27,16 +27,18 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/eecf68e1-bd91-4003-8ab2-f339eff9af33/'
   - image: 'https://ucarecdn.com/cbc102a4-c0dd-4e9f-b53b-8b7f7c0e34df/'
   - image: 'https://ucarecdn.com/948aade6-ebd3-4993-894d-cde059701db1/'
-  - image: 'https://ucarecdn.com/a546ea1b-75c3-4839-9d02-e2a05d13f995/'
+  - image: >-
+      https://ucarecdn.com/a546ea1b-75c3-4839-9d02-e2a05d13f995/-/crop/756x1209/108,232/-/preview/
   - image: 'https://ucarecdn.com/0c268c2b-baf2-4e12-bd79-fb0575fa9c84/'
-  - image: 'https://ucarecdn.com/2aff8920-5a85-4736-ae1c-47dcf7260e72/'
+  - image: 'https://ucarecdn.com/23c47339-26c3-4384-bae2-496bc5239e22/'
   - image: 'https://ucarecdn.com/83b36d1b-d590-4590-bddf-9e4f579edde5/'
   - image: 'https://ucarecdn.com/320a93d9-fbb3-4886-b752-249bbcc5ae65/'
   - image: 'https://ucarecdn.com/5a94d0e4-3c3c-4c21-a899-7a92f375544c/'
   - image: 'https://ucarecdn.com/aa26b603-d3f8-46c2-ae4e-ec0ad85fa135/'
   - image: 'https://ucarecdn.com/84480b08-f350-44bc-9272-858201c83bdf/'
-  - image: 'https://ucarecdn.com/57b90973-b6a6-4f2f-9e0d-42297bce0aaa/'
+  - image: 'https://ucarecdn.com/2aff8920-5a85-4736-ae1c-47dcf7260e72/'
   - image: 'https://ucarecdn.com/3572d32a-b9f1-4d26-af79-7495d6815165/'
+  - image: 'https://ucarecdn.com/57b90973-b6a6-4f2f-9e0d-42297bce0aaa/'
   - image: 'https://ucarecdn.com/09868994-002b-4ca2-8c64-04011027d7e2/'
   - image: 'https://ucarecdn.com/7a8d3418-346c-47aa-a153-0a07fca57c6d/'
   - image: >-
@@ -57,7 +59,6 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/b0a65190-4c07-4be5-88ee-9d84e7d9a4be/'
   - image: 'https://ucarecdn.com/fbdd54c2-4399-4559-bae7-5bf3e341801a/'
   - image: 'https://ucarecdn.com/d1b5d58c-605c-4a19-a48b-8c3ca9c0529d/'
-  - image: 'https://ucarecdn.com/d79ebe6f-e139-4e42-9b1b-6048aaf64046/'
 meta:
   title: 'Maya '
 ---
