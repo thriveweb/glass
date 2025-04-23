@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: 'Mark '
+title: Mark L
 featuredImage: >-
   https://ucarecdn.com/13f97d2e-a91b-421c-9086-3764e5cfda70/-/crop/1650x922/0,56/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/16d414b1-336b-4a90-ae0d-f5cafd34862e/-/crop/569x755/82,0/-/preview/
-firstName: Mark
+firstName: Mark L
 collection: Commercial Faces
 height: 176cm
 measurementType: chest
