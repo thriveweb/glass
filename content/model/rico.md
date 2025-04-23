@@ -6,13 +6,13 @@ imageThumbnail: >-
   https://ucarecdn.com/0aade3e4-981c-4dcc-85bb-9bef47689b50/-/crop/488x650/259,375/-/preview/
 firstName: Rico
 collection: Emerging
-height: 144cm
+height: 160cm
 measurementType: chest
-bust: 68cm
-waist: 62cm
-hips: 74cm
-size: 12-14
-shoeSize: '8'
+bust: 81cm
+waist: 66 cm
+hips: 78cm
+size: '14'
+shoeSize: '9'
 hair: Auburn
 eyes: Brown
 imagePortfolio:
