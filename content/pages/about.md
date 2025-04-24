@@ -81,7 +81,7 @@ teamMembers:
     image: >-
       https://ucarecdn.com/d9e6ed2d-1025-4355-9ca7-3e9ce00a939e/-/crop/733x906/0,0/-/preview/
     subTitle: ''
-    content: "M\uFEFFeet Indy\n\nI\uFEFFndy ensures all of our systems are up to date, and our website is uploaded daily. \n\nShe deals with new talent and making sure you are set up in our systems efficiently."
+    content: "M\uFEFFeet Indy\n\nI\uFEFFndy ensures all of our systems are up to date, and our website is uploaded daily. She deals with new talent and making sure you are set up in our systems efficiently.\n\nA\uFEFFpart from this, Indy t\uFEFFakes care of all of our film and television Extras Productions."
   - leftAlign: false
     title: Sienna
     image: >-
