@@ -51,16 +51,21 @@ teamMembers:
       Emily also handles all of Glass Management's payment for talent and
       payroll queries.
     image: >-
-      https://ucarecdn.com/ce647df9-0486-44c3-afcf-48c5210ffd1d/-/crop/733x786/0,0/-/preview/
-    subTitle: OFFICE MANAGER
+      https://ucarecdn.com/a636f85c-fc92-4802-99f0-791d0afbdf07/-/crop/684x859/44,0/-/preview/
+    subTitle: ''
     title: Emily
   - leftAlign: false
     title: Maya
     image: >-
       https://ucarecdn.com/2e8ab272-e17d-47e5-9822-fdf1837a0366/-/crop/733x871/0,0/-/preview/
-    subTitle: Model Mentor and Coach
+    subTitle: ''
     content: >-
       Meet Maya
+
+
+      Maya also focuses on submitting Talent to Modelling and Lifestyle
+      Campaigns and coordinates with Clients to ensure the shoot is booked with
+      ease. 
 
 
       Maya's passion is to educate and mentor our Glass kids with Acting and
@@ -72,27 +77,17 @@ teamMembers:
       Apart from this, Maya also offers a Self Taping Service where she coaches,
       films and assists Talent with their Media Requests.
   - leftAlign: false
-    title: Tyra
+    title: Indy
     image: >-
-      https://ucarecdn.com/2053eaca-64c1-41c8-9f07-58250fce5aed/-/crop/1132x1404/42,0/-/preview/
-    subTitle: Extras Coordinator
-    content: >-
-      Meet Tyra
-
-
-      Tyra focuses on submitting, coordinating and booking talent for Feature
-      Films and Television Productions. She works closely alongside Casting
-      Directors ensuring our Extras and Actors are never overlooked.
-
-
-      As well as this, Tyra ensures all of our systems are up to date, and our
-      website is uploaded daily.
+      https://ucarecdn.com/d9e6ed2d-1025-4355-9ca7-3e9ce00a939e/-/crop/733x906/0,0/-/preview/
+    subTitle: ''
+    content: "M\uFEFFeet Indy\n\nI\uFEFFndy ensures all of our systems are up to date, and our website is uploaded daily. \n\nShe deals with new talent and making sure you are set up in our systems efficiently."
   - leftAlign: false
     title: Sienna
     image: >-
       https://ucarecdn.com/7bfcf09c-2949-4597-871a-6b12d21ba479/-/crop/713x949/20,0/-/preview/
     content: "Meet Sienna\n\nS\uFEFFienna focuses on updating our systems and talents details and profiles.  \n\nA\uFEFFs well as this, she assists in our Kid's Acting and Modelling classes."
-    subTitle: Trainee
+    subTitle: ''
   - leftAlign: true
     image: >-
       https://ucarecdn.com/a2f5a639-7f87-4ae5-a3d2-12161e7ce89c/-/crop/733x818/0,3/-/preview/
