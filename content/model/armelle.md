@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: K Armelle
+title: S Armelle
 featuredImage: >-
   https://ucarecdn.com/6db4a5d6-53a3-44bc-8686-dc84024a8686/-/crop/1650x987/0,0/-/preview/
 imageThumbnail: >-
