@@ -1,12 +1,12 @@
 ---
 template: ModelPage
-title: Armelle
+title: K Armelle
 featuredImage: >-
   https://ucarecdn.com/6db4a5d6-53a3-44bc-8686-dc84024a8686/-/crop/1650x987/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/14981e83-693b-49c7-b43e-26847ee7efa6/-/crop/580x798/0,0/-/preview/
 firstName: 'Armelle '
-collection: Actors
+collection: Girls
 height: 146cm
 measurementType: bust
 bust: 66cm
