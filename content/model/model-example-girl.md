@@ -7,7 +7,7 @@ featuredVideoMobile: 'https://ucarecdn.com/130b8ce4-5592-481b-a123-40d3b0f31d66/
 imageThumbnail: >-
   https://ucarecdn.com/262d8eba-fdbe-434b-b35c-8aa52fafcab9/-/crop/450x641/29,21/-/preview/
 firstName: Emily
-collection: Women
+collection: ''
 height: 171cm
 measurementType: bust
 bust: 85cm
