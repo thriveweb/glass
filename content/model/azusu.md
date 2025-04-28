@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Azusu
+title: Azusa
 featuredImage: >-
   https://ucarecdn.com/9a3a78f9-3485-4235-9836-04d376a82125/-/crop/1650x838/0,0/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/020cb5ce-acb8-40ec-82e1-6690e1a8635e/-/crop/733x1027/0,0/-/preview/
-firstName: Azusu
+firstName: Azusa
 collection: Commercial Faces
 height: 160cm
 measurementType: bust
