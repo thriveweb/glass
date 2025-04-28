@@ -4,7 +4,7 @@ title: 'Chloe '
 featuredImage: >-
   https://ucarecdn.com/baf7ec2a-daea-4215-9bc4-10413e2be734/-/crop/507x277/0,106/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b8b6c554-c112-4b2e-a4e2-2935f351f846/-/crop/243x304/145,2/-/preview/
+  https://ucarecdn.com/b8b6c554-c112-4b2e-a4e2-2935f351f846/-/crop/276x337/124,0/-/preview/
 firstName: Chloe
 collection: Emerging
 height: 134 cm
