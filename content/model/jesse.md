@@ -4,7 +4,7 @@ title: Jesse
 featuredImage: >-
   https://ucarecdn.com/f2f3b207-9d3c-4387-b822-8e83cd69c6f8/-/crop/2449x1403/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/60ad90d5-9b0d-4db7-828e-758cf1520e96/-/crop/1045x1441/325,114/-/preview/
+  https://ucarecdn.com/60ad90d5-9b0d-4db7-828e-758cf1520e96/-/crop/986x1253/371,151/-/preview/
 firstName: Jesse
 collection: Girls
 height: 131cm
