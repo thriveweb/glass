@@ -4,7 +4,7 @@ title: Harmony
 featuredImage: >-
   https://ucarecdn.com/39e74f09-a012-43ba-b2bc-0102bedadea1/-/crop/1080x730/0,21/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/f0980aa2-6a6b-4780-acd6-7e08c5d5c942/-/crop/666x887/91,0/-/preview/
+  https://ucarecdn.com/f0980aa2-6a6b-4780-acd6-7e08c5d5c942/-/crop/566x768/118,13/-/preview/
 firstName: Harmony
 collection: Girls
 height: 137cm
