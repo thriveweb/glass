@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/041b8dfb-4ec9-4994-907e-4f43a89c7647/'
 imageThumbnail: >-
   https://ucarecdn.com/f7408b7a-34c9-46ae-bd03-f4f5ec4b06d8/-/crop/1128x796/0,0/-/preview/
 firstName: Atticus and Seraphina
-collection: Family
+collection: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/3b0850c2-3223-4566-9736-4edf85d68d2c/'
   - image: 'https://ucarecdn.com/734d8e7f-4084-4a34-811b-591254d164ce/'
