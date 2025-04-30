@@ -3,7 +3,8 @@ template: ModelPage
 title: Cleo
 featuredImage: >-
   https://ucarecdn.com/ed7bb696-dc8d-40ef-8620-07b463e44bc5/-/crop/1050x737/0,94/-/preview/
-imageThumbnail: 'https://ucarecdn.com/3a25c651-7170-4353-afa3-690799116fb5/'
+imageThumbnail: >-
+  https://ucarecdn.com/3a25c651-7170-4353-afa3-690799116fb5/-/crop/3624x5189/560,329/-/preview/
 firstName: Cleo
 collection: Girls
 height: 128cm
