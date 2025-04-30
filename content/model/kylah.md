@@ -4,7 +4,7 @@ title: Kylah
 featuredImage: >-
   https://ucarecdn.com/dd117e96-0fd0-4ca1-ac6c-aed2e0eac20b/-/crop/4000x2437/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/0f890bb1-49d4-4cc9-8796-df0eda28dcc6/-/crop/1318x2021/333,31/-/preview/
+  https://ucarecdn.com/0f890bb1-49d4-4cc9-8796-df0eda28dcc6/-/crop/1207x1701/387,0/-/preview/
 firstName: Kylah
 collection: Girls
 height: 141cm
