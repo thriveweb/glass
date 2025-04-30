@@ -4,7 +4,7 @@ title: Lulu
 featuredImage: >-
   https://ucarecdn.com/0afe2ec2-8801-45ab-8e63-0e6b7564ba42/-/crop/2449x1371/0,35/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c1620a13-4c26-4c94-ba7c-79088e270c0d/-/crop/1041x1567/389,292/-/preview/
+  https://ucarecdn.com/c1620a13-4c26-4c94-ba7c-79088e270c0d/-/crop/970x1298/417,348/-/preview/
 firstName: Lulu
 collection: Girls
 height: 110cm
