@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/a43dd7ca-948c-4445-adb3-7a49c69f9407/'
 imageThumbnail: >-
   https://ucarecdn.com/71512de2-a729-4712-a438-dcd6e5d175e8/-/crop/1234x1621/601,0/-/preview/
 firstName: Goss Family
-collection: Family
+collection: ''
 imagePortfolio:
   - image: 'https://ucarecdn.com/8f1a924b-f172-4e35-bf50-fadf90c2bc7e/'
   - image: 'https://ucarecdn.com/479936cf-4d76-45fb-968e-9644716c4fd7/'
