@@ -4,7 +4,7 @@ title: Allegra
 featuredImage: >-
   https://ucarecdn.com/6dddd08d-f920-47ad-8a63-1a6cca710e08/-/crop/1650x954/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/cc2fde5b-4394-4422-a1c1-7edc84d40487/-/crop/581x869/55,0/-/preview/
+  https://ucarecdn.com/66ee9de6-700d-4581-ae29-d993a7da8f20/-/crop/292x377/122,0/-/preview/
 firstName: Allegra
 collection: Girls
 height: 135cm
@@ -17,9 +17,9 @@ shoeSize: '2'
 hair: Brown
 eyes: Blue
 imagePortfolio:
-  - image: 'https://ucarecdn.com/720273c1-8070-4937-bffe-e4cfccf2785a/'
-  - image: 'https://ucarecdn.com/6b5eb7e9-ac63-4798-a765-5acefc8c0b71/'
   - image: 'https://ucarecdn.com/61aefb82-4717-4959-ba88-d173b7dabbed/'
+  - image: 'https://ucarecdn.com/6b5eb7e9-ac63-4798-a765-5acefc8c0b71/'
+  - image: 'https://ucarecdn.com/720273c1-8070-4937-bffe-e4cfccf2785a/'
   - image: 'https://ucarecdn.com/26b6d213-7c58-48a4-a8d5-35156d72d4b3/'
   - image: 'https://ucarecdn.com/8629a20c-a863-479c-9268-3208e487f672/'
   - image: 'https://ucarecdn.com/34ba2293-577d-4a45-8adb-07d3d5974bac/'
