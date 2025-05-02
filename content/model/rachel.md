@@ -19,10 +19,10 @@ eyes: Brwon
 imagePortfolio:
   - image: 'https://ucarecdn.com/65d76ca3-2fdf-4b4a-a0ae-869e1479549a/'
   - image: 'https://ucarecdn.com/710f6cb3-62fa-433b-abbf-43eea6b9292b/'
-  - image: 'https://ucarecdn.com/c770dbdd-0b95-4fd1-9a2f-7ae9fe1703ac/'
-  - image: 'https://ucarecdn.com/38c76183-aefa-42ab-ab52-fc8cecb30f46/'
-  - image: 'https://ucarecdn.com/0f0fb54d-1f05-4f9a-b128-d52e582761e8/'
   - image: 'https://ucarecdn.com/379f52be-2c05-46fd-bcb0-34a77c8f2cde/'
+  - image: 'https://ucarecdn.com/38c76183-aefa-42ab-ab52-fc8cecb30f46/'
+  - image: 'https://ucarecdn.com/c770dbdd-0b95-4fd1-9a2f-7ae9fe1703ac/'
+  - image: 'https://ucarecdn.com/0f0fb54d-1f05-4f9a-b128-d52e582761e8/'
   - image: 'https://ucarecdn.com/9cbd4180-166e-4119-a6e5-5b3734650c12/'
 ---
 
