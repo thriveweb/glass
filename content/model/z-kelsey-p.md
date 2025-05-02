@@ -11,7 +11,7 @@ measurementType: bust
 bust: 83cm
 waist: 64cm
 hips: 92cm
-size: 6-8
+size: '8'
 shoeSize: '6.5'
 hair: Red
 eyes: Blue
