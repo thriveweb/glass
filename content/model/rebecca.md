@@ -1,9 +1,9 @@
 ---
 template: ModelPage
-title: Rebecca
+title: Rebecca B
 featuredImage: 'https://ucarecdn.com/60065daa-1837-4c2c-93df-21e51d619226/'
 imageThumbnail: 'https://ucarecdn.com/d40938d0-4eb9-493c-9bf9-68e109e23d3c/'
-firstName: Rebecca
+firstName: Rebecca B
 imagePortfolio:
   - image: 'https://ucarecdn.com/5c526e2a-3868-45ac-bbfe-f2b5c7637296/'
   - image: 'https://ucarecdn.com/94ec0b8a-aa34-45b5-a9f3-bbfc3e805285/'
