@@ -4,7 +4,7 @@ title: Olivia
 featuredImage: >-
   https://ucarecdn.com/cd947083-c5ae-47d8-a1ee-bb8d9a6a5f71/-/crop/1632x813/0,151/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/54e7f12d-ddbc-48d6-bace-6f26a59b5410/-/crop/1127x1555/154,177/-/preview/
+  https://ucarecdn.com/a750c310-7058-4c31-866c-4815220e54ae/-/crop/1124x775/945,468/-/preview/-/rotate/90/
 firstName: 'Olivia '
 collection: Women
 height: 176cm
