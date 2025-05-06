@@ -4,7 +4,7 @@ title: Ayla K
 featuredImage: >-
   https://ucarecdn.com/6223a0e5-ceb8-4d10-bc60-304bc7c6cdfc/-/crop/1732x1155/0,245/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/4ba3389a-7940-4205-ac62-e1845141a63e/-/crop/1409x1847/132,60/-/preview/
+  https://ucarecdn.com/4ba3389a-7940-4205-ac62-e1845141a63e/-/crop/1114x1466/247,176/-/preview/
 firstName: Ayla
 collection: Girls
 height: 131cm
