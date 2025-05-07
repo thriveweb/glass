@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/dbd1d53f-b51c-47a1-817b-763c154a9519/-/crop/298x407/53,10/-/preview/
 firstName: 'Ashley N '
-collection: Women
+collection: ''
 height: 163cm
 measurementType: bust
 bust: 83cm
