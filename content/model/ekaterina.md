@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/347ad3a8-a405-40c3-8ef8-e13f24849ee8/'
 imageThumbnail: >-
   https://ucarecdn.com/4d430970-bc59-44ed-a3ce-fa9fedbc839b/-/crop/484x640/18,15/-/preview/
 firstName: Ekaterina
-collection: Classic
+collection: ''
 height: 173cm
 measurementType: bust
 bust: 79cm
