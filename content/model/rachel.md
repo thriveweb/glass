@@ -15,7 +15,7 @@ hips: 95cm
 size: '10'
 shoeSize: '9'
 hair: Brown
-eyes: Brwon
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/65d76ca3-2fdf-4b4a-a0ae-869e1479549a/'
   - image: 'https://ucarecdn.com/710f6cb3-62fa-433b-abbf-43eea6b9292b/'
