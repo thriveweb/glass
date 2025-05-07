@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/db8ad342-becc-4698-82df-3e1c3edc58ec/-/crop/885x1202/371,313/-/preview/
 firstName: Zephirah
-collection: Emerging
+collection: Girls
 height: 152cm
 measurementType: bust
 bust: 66cm
