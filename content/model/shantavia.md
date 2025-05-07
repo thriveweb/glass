@@ -3,7 +3,8 @@ template: ModelPage
 title: Shantavia
 featuredImage: >-
   https://ucarecdn.com/f9f65ec6-6511-4560-91e7-f2602e6a0991/-/crop/1632x965/0,742/-/preview/
-imageThumbnail: 'https://ucarecdn.com/573aba6c-a643-4d21-93a1-55a2825b75f6/'
+imageThumbnail: >-
+  https://ucarecdn.com/f9b3ca68-991e-48ef-88f2-b5990e5417c5/-/crop/349x506/53,20/-/preview/
 firstName: Shantavia
 collection: Women
 height: 178cm
