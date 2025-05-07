@@ -18,11 +18,14 @@ hair: Ginger
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/8a1c7d9c-25bd-49f0-8385-7958bd1f73d6/'
-  - image: 'https://ucarecdn.com/efc2dd08-afdd-4ad3-87c1-91eb5a061818/'
+  - image: 'https://ucarecdn.com/4885a0bc-8f8e-4c61-a71b-937c82823c02/'
+  - image: >-
+      https://ucarecdn.com/efc2dd08-afdd-4ad3-87c1-91eb5a061818/-/crop/733x1012/0,88/-/preview/
   - image: 'https://ucarecdn.com/2b1e1d12-70cc-49fc-9bd4-1e1aed982e2c/'
   - image: 'https://ucarecdn.com/bdf93fc0-b853-4629-b38c-a24d362aec6a/'
-  - image: 'https://ucarecdn.com/f464aaaa-c80d-413e-9870-8429a12a092b/'
   - image: 'https://ucarecdn.com/c4a19ac2-6b1d-4fb0-be9d-33a30fd58198/'
+  - image: >-
+      https://ucarecdn.com/f464aaaa-c80d-413e-9870-8429a12a092b/-/crop/1057x1100/354,0/-/preview/
   - image: 'https://ucarecdn.com/36685567-f28f-4fc9-8221-ceb5567944b9/'
   - image: 'https://ucarecdn.com/509dd0fe-4419-4219-a458-675fb8e5920f/'
   - image: 'https://ucarecdn.com/e2789d69-d828-4ce2-9ff6-ddf25e321a55/'
