@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/afc70dac-14f9-48bc-b171-1d3dee6ae283/-/crop/2449x1282/0,0/-/preview/
 imageThumbnail: 'https://ucarecdn.com/95584db0-4cd9-4cdd-9e59-eb17a0b70d27/'
 firstName: Jessica E
-collection: Women
+collection: Classic
 height: 179cm
 measurementType: bust
 bust: 86cm
