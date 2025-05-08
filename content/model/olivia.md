@@ -4,7 +4,7 @@ title: Olivia
 featuredImage: >-
   https://ucarecdn.com/cd947083-c5ae-47d8-a1ee-bb8d9a6a5f71/-/crop/1632x813/0,151/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c40ae773-9e95-43fa-a3bc-e5e2b39455a9/-/crop/1215x858/947,237/-/preview/-/rotate/90/
+  https://ucarecdn.com/c865fee2-fafe-4823-9a06-ef7ec5dbb96c/-/crop/727x945/422,338/-/preview/
 firstName: 'Olivia '
 collection: Women
 height: 176cm
@@ -18,9 +18,9 @@ hair: Light Brown
 eyes: Hazel
 imagePortfolio:
   - image: >-
-      https://ucarecdn.com/fcf60e4c-bc4c-41e3-9808-c0b2ddd168f0/-/crop/1275x1703/76,157/-/preview/
-  - image: >-
       https://ucarecdn.com/1b3e0667-80af-4936-ba31-1468c2865fdf/-/crop/1632x2255/0,194/-/preview/
+  - image: >-
+      https://ucarecdn.com/fcf60e4c-bc4c-41e3-9808-c0b2ddd168f0/-/crop/1275x1703/76,157/-/preview/
   - image: >-
       https://ucarecdn.com/5c86e9aa-daeb-4267-83ea-cf039684a019/-/crop/1583x2314/49,135/-/preview/
   - image: >-
