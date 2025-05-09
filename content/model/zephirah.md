@@ -4,7 +4,7 @@ title: Zephirah
 featuredImage: >-
   https://ucarecdn.com/c3c6e96c-ff65-4d25-b6d5-d65835c3cb80/-/crop/800x492/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/db8ad342-becc-4698-82df-3e1c3edc58ec/-/crop/885x1202/371,313/-/preview/
+  https://ucarecdn.com/db8ad342-becc-4698-82df-3e1c3edc58ec/-/crop/813x1025/407,333/-/preview/
 firstName: Zephirah
 collection: Girls
 height: 152cm
