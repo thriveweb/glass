@@ -3,7 +3,7 @@ template: ModelPage
 title: Naomi
 featuredImage: 'https://ucarecdn.com/2c911e14-ba20-4765-b6b0-cf0296168096/-/preview/'
 imageThumbnail: >-
-  https://ucarecdn.com/4b38ae5e-eae7-416a-b748-e4514cd2193d/-/crop/593x786/127,18/-/preview/
+  https://ucarecdn.com/4b38ae5e-eae7-416a-b748-e4514cd2193d/-/crop/497x661/183,39/-/preview/
 firstName: Naomi
 collection: Classic
 height: 172cm
