@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/27586e1d-a11a-4a69-accb-a61657f16e8e/-/crop/1277x1933/161,109/-/preview/
 firstName: Mikayla
-collection: Emerging
+collection: ''
 height: 162cm
 measurementType: bust
 bust: 82cm
