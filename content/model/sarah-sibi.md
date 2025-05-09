@@ -3,7 +3,8 @@ template: ModelPage
 title: Sarah Sibi
 featuredImage: >-
   https://ucarecdn.com/c3e7f517-c9d7-4e30-b990-68245e7d904b/-/crop/1638x836/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/069b0cdb-7a97-478d-8325-838337f85e3e/'
+imageThumbnail: >-
+  https://ucarecdn.com/069b0cdb-7a97-478d-8325-838337f85e3e/-/crop/686x889/47,2/-/preview/
 firstName: Sarah
 collection: Classic
 height: 168cm
