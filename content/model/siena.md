@@ -3,7 +3,8 @@ template: ModelPage
 title: Siena
 featuredImage: >-
   https://ucarecdn.com/b04190bb-56c5-433c-ab6f-65ef018ed25a/-/crop/2000x998/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/8fecda78-8b38-4f46-9eb8-3b1b95665e6e/'
+imageThumbnail: >-
+  https://ucarecdn.com/8fecda78-8b38-4f46-9eb8-3b1b95665e6e/-/crop/746x1124/76,84/-/preview/
 firstName: Siena
 collection: Girls
 height: 153cm
