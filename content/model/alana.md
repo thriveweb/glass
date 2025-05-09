@@ -4,7 +4,7 @@ title: Alana M
 featuredImage: >-
   https://ucarecdn.com/d5eae2ad-32c5-4002-92a4-0cd282b2b83f/-/crop/3788x1990/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/bcbc10b4-77c9-46a2-8343-d15f51669d64/-/crop/456x640/26,0/-/preview/
+  https://ucarecdn.com/bcbc10b4-77c9-46a2-8343-d15f51669d64/-/crop/413x563/50,39/-/preview/
 firstName: Alana M
 collection: Classic
 height: 175cm
