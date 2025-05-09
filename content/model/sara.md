@@ -4,7 +4,7 @@ title: Sara
 featuredImage: >-
   https://ucarecdn.com/04d79b24-9147-435b-890d-89515e833615/-/crop/6240x3148/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/730d37ea-083a-4785-98ef-a9db890c1cde/-/crop/743x950/862,4/-/preview/
+  https://ucarecdn.com/730d37ea-083a-4785-98ef-a9db890c1cde/-/crop/743x950/835,0/-/preview/
 firstName: Sara
 collection: Classic
 height: 165cm
