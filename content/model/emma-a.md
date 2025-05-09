@@ -4,7 +4,7 @@ title: 'Emma '
 featuredImage: >-
   https://ucarecdn.com/0850f633-7408-489c-8c0f-a0aee3b40606/-/crop/2048x1029/0,88/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/df441e8e-8b19-49b2-98c7-ec6bd8776c3f/-/crop/263x341/0,29/-/preview/
+  https://ucarecdn.com/df441e8e-8b19-49b2-98c7-ec6bd8776c3f/-/crop/230x293/16,28/-/preview/
 firstName: 'Emma '
 collection: Classic
 height: 175cm
