@@ -4,7 +4,7 @@ title: Nathaniel B
 featuredImage: >-
   https://ucarecdn.com/7ba48a4b-1549-462b-ad54-e59040653a61/-/crop/2106x1264/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/b922554f-c2c5-4721-ab8c-7f6a4a30a74d/-/crop/747x1012/447,103/-/preview/
+  https://ucarecdn.com/b922554f-c2c5-4721-ab8c-7f6a4a30a74d/-/crop/736x894/458,146/-/preview/
 firstName: Nathaniel B
 collection: Classic
 height: 187cm
