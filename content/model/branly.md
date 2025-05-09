@@ -4,7 +4,7 @@ title: Branly
 featuredImage: >-
   https://ucarecdn.com/cb9de94a-cb1e-41a1-bfd2-126a074151e3/-/crop/1690x1142/0,144/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/e5293b40-a661-4fe7-9b40-f070251daa90/-/crop/732x939/562,0/-/preview/
+  https://ucarecdn.com/e5293b40-a661-4fe7-9b40-f070251daa90/-/crop/684x897/591,0/-/preview/
 firstName: Branly
 collection: Men
 height: 188cm
