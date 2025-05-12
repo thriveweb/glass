@@ -4,7 +4,7 @@ title: Kat-Taylah
 featuredImage: >-
   https://ucarecdn.com/bc3295d9-6cef-44eb-b54a-b32338caa075/-/crop/5295x3526/0,866/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/530389ce-a601-4265-b018-b4360c233771/-/crop/516x734/294,20/-/preview/
+  https://ucarecdn.com/530389ce-a601-4265-b018-b4360c233771/-/crop/445x613/331,44/-/preview/
 firstName: Taylah
 collection: Women
 height: 173cm
