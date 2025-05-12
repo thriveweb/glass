@@ -2,9 +2,9 @@
 template: ModelPage
 title: Ly-Ly
 featuredImage: >-
-  https://ucarecdn.com/3e3fb3e2-2ebf-4ee3-91fc-b0cf06715d5e/-/crop/2389x1130/11,134/-/preview/
+  https://ucarecdn.com/7cdb3ae3-67e3-4cbe-88d5-8451c814ae04/-/crop/1620x942/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/452a7ef1-01d1-4ac1-8a39-38c0e9713fc1/-/crop/384x600/134,45/-/preview/
+  https://ucarecdn.com/0b6d52ca-316d-41b8-ab68-4645c60cb9d9/-/crop/1020x1404/27,77/-/preview/
 firstName: Ly-Ly
 collection: Girls
 height: 133cm
@@ -17,17 +17,12 @@ shoeSize: US1
 hair: 'Light brown '
 eyes: 'Hazel/Green '
 imagePortfolio:
+  - image: 'https://ucarecdn.com/2b71fd5b-665b-45df-9874-8c59fd00ead4/'
+  - image: 'https://ucarecdn.com/d2af6aab-da00-49ce-a4bf-f77411c3c4e8/'
   - image: 'https://ucarecdn.com/48609a7c-af20-4811-aa39-a6a1b7993ff8/'
-  - image: 'https://ucarecdn.com/817c8fad-ce6a-4537-a7fb-cbfbb239177f/'
-  - image: 'https://ucarecdn.com/5e8b4783-f8e2-481d-bc92-188cb35fd0d7/'
-  - image: 'https://ucarecdn.com/3e124f2f-7f0d-4ef8-b09d-9f538ac8859e/'
-  - image: 'https://ucarecdn.com/643ac959-097b-4613-a304-ee2fbb931252/'
-  - image: 'https://ucarecdn.com/b5516cff-0cdb-4f4b-afba-c6d6ed110407/'
-  - image: 'https://ucarecdn.com/78dc804a-29eb-426f-b071-bdbb60aaa4e8/'
-  - image: 'https://ucarecdn.com/0172f423-0a2e-430b-b48f-062289d95154/'
-  - image: 'https://ucarecdn.com/17185595-7613-440f-b7e6-2786d741ea33/'
-  - image: 'https://ucarecdn.com/291e739e-9997-4abc-a5d2-7bb206f9e38a/'
-  - image: 'https://ucarecdn.com/9eec1dfd-efe0-45e6-9064-4c9e4148e659/'
-  - image: 'https://ucarecdn.com/a2c27876-280d-4e7c-9bac-476aac18f60a/'
+  - image: 'https://ucarecdn.com/67366aaf-0ea5-4b18-a3f4-0324c9aaba84/'
+  - image: 'https://ucarecdn.com/6c2d9f35-2180-4d15-a3dc-a3eab017d514/'
+  - image: 'https://ucarecdn.com/1becab1c-d4bf-446c-a629-800b47feac42/'
+  - image: 'https://ucarecdn.com/9aecb05e-7653-4a8f-b594-e945d4186fc5/'
 ---
 
