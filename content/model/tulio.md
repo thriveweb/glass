@@ -12,7 +12,7 @@ measurementType: chest
 bust: 111cm
 waist: 91cm
 hips: 102cm
-size: '40'
+size: M/32
 shoeSize: '8.5'
 hair: Brown
 eyes: Green
