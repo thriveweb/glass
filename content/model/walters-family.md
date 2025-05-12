@@ -2,15 +2,13 @@
 template: ModelPage
 title: Walters Family
 featuredImage: >-
-  https://ucarecdn.com/900cf50f-3c70-41c0-a5dd-f05f24f16bae/-/crop/1204x590/0,26/-/preview/
-imageThumbnail: 'https://ucarecdn.com/5aa995f1-8d90-4414-9260-e768ce9603ed/'
+  https://ucarecdn.com/78008f3a-5f9b-4b49-a948-21d7175c108b/-/crop/1606x940/0,0/-/preview/
+imageThumbnail: 'https://ucarecdn.com/be0bf304-9317-429c-8824-6e7635948aa9/'
 firstName: Walters Family
 collection: Family
 imagePortfolio:
-  - image: 'https://ucarecdn.com/da408437-86c9-437f-acdb-6c322a9761de/'
-  - image: 'https://ucarecdn.com/11265a82-6f1e-4acf-b4b7-805556c6d4d4/'
-  - image: 'https://ucarecdn.com/d46829ed-c0f1-46c5-9a9e-af9979a3a240/'
-  - image: 'https://ucarecdn.com/74d675b4-cb91-4efa-9559-dbfaa5b5e548/'
-  - image: 'https://ucarecdn.com/f428a1c8-73ad-4800-8e3c-e9738f2b328d/'
+  - image: 'https://ucarecdn.com/89448f0e-42ab-4af2-bda2-06b866987def/'
+  - image: 'https://ucarecdn.com/9d8c0262-1182-48fd-ac87-7e9e50c3aed3/'
+  - image: 'https://ucarecdn.com/32b132dc-a312-45e3-b417-2f3a686094c0/'
 ---
 
