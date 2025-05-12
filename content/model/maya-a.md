@@ -52,7 +52,7 @@ imagePortfolio:
       https://ucarecdn.com/92d3c2e1-27c0-4234-92fe-6d80d61438e1/-/crop/1218x1917/236,0/-/preview/
   - image: 'https://ucarecdn.com/4cda1b68-2801-4d26-9c9f-613533f5e66d/'
   - image: 'https://ucarecdn.com/bf10d3a5-09da-49d0-8cc2-033615f9a446/'
-  - image: 'https://ucarecdn.com/d6d3f585-770a-44c9-b411-87b132a16707/'
+  - image: 'https://ucarecdn.com/bdacd0f3-aa24-40fb-9f12-5b2dfef3c860/'
   - image: 'https://ucarecdn.com/d1b5d58c-605c-4a19-a48b-8c3ca9c0529d/'
 meta:
   title: 'Maya '
