@@ -5,7 +5,7 @@ featuredImage: >-
   https://ucarecdn.com/0ae71c96-0150-4c6a-af23-1624517d9024/-/crop/2449x1266/0,50/-/preview/
 imageThumbnail: 'https://ucarecdn.com/cf86ed62-b225-4010-bcef-5b4cea26eefa/'
 firstName: Solei
-collection: Emerging
+collection: Commercial Faces
 height: 165cm
 measurementType: bust
 bust: 87cm
