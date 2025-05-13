@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/f26e08fc-01ed-42a5-89b0-ca5f2e527816/-/crop/1632x2230/0,0/-/preview/
 firstName: Aria
-collection: Emerging
+collection: Commercial Faces
 height: 165cm
 measurementType: bust
 bust: 87cm
