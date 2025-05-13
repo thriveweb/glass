@@ -4,7 +4,7 @@ title: Tulio
 featuredImage: >-
   https://ucarecdn.com/0185bb22-e2ec-4ead-8888-c723673a32cc/-/crop/900x409/0,0/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/f291978e-b57e-4472-8cac-e94961c4bcd6/-/crop/425x584/257,0/-/preview/
+  https://ucarecdn.com/f291978e-b57e-4472-8cac-e94961c4bcd6/-/crop/332x456/299,15/-/preview/
 firstName: 'Tulio '
 collection: Classic
 height: 175cm
