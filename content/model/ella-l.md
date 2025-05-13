@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/2a78267b-7151-49d4-8d51-48040bfa7e43/-/crop/1000x1451/272,0/-/preview/
 firstName: Ella L
-collection: Emerging
+collection: Commercial Faces
 height: 156cm
 measurementType: bust
 bust: 84cm
