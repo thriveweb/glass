@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/92568a29-5717-4d62-82a4-ed1e188afe70/'
 imageThumbnail: >-
   https://ucarecdn.com/8a4e5604-aca5-444b-a9f8-5d01e4251b0b/-/crop/1039x1465/705,18/-/preview/
 firstName: Estella
-collection: Emerging
+collection: ''
 height: 151cm
 measurementType: bust
 bust: 77cm
