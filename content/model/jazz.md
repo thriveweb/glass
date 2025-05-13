@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/cadd0497-1a7d-4701-a199-9722902dd97e/-/crop/1052x1521/220,128/-/preview/
 firstName: Jazz
-collection: Emerging
+collection: ''
 height: 167cm
 measurementType: bust
 bust: 74cm
