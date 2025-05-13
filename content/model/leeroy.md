@@ -4,7 +4,7 @@ title: Leeroy
 featuredImage: 'https://ucarecdn.com/0229e82b-79c4-4d79-9ee7-cf1a31f2c415/'
 imageThumbnail: 'https://ucarecdn.com/e393ad2d-3f29-4e42-8f98-4f3a80e8fbc9/'
 firstName: Leeroy
-collection: Emerging
+collection: ''
 height: 174cm
 measurementType: chest
 bust: 91cm
