@@ -5,7 +5,7 @@ featuredImage: 'https://ucarecdn.com/69c5dd48-f48b-4f71-ada9-2cde5d206956/'
 imageThumbnail: >-
   https://ucarecdn.com/439c8b47-97a7-4459-88cb-fe0b23b03b37/-/crop/1000x1377/0,0/-/preview/
 firstName: Cooper
-collection: Emerging
+collection: ''
 height: 178cm
 measurementType: chest
 bust: 80cm
