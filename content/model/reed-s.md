@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Reed S
+title: 'Reed '
 featuredImage: >-
   https://ucarecdn.com/72428c62-299b-4bff-9ba1-2fe308b30d06/-/crop/1732x1102/0,241/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/0a195d8b-bc66-44e9-9069-40ef9e5b9212/-/crop/544x786/551,136/-/preview/
-firstName: Reed S
+firstName: 'Reed '
 collection: Boys
 height: 95cm
 measurementType: chest
