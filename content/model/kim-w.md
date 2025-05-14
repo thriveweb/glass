@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/7e3597c4-1873-4273-918e-74a30c4b40bf/-/crop/1077x1227/0,0/-/preview/
 firstName: Kim W
 collection: Emerging
-height: 157cm
+height: 162cm
 measurementType: bust
-bust: 73cm
-waist: 62cm
-hips: 83cm
-size: Women's XS
-shoeSize: 7US
+bust: 80cm
+waist: 66cm
+hips: 91cm
+size: Small
+shoeSize: '7'
 hair: Brown
 eyes: Brown
 imagePortfolio:
