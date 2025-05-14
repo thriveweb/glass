@@ -4,16 +4,16 @@ title: 'Ai-My '
 featuredImage: >-
   https://ucarecdn.com/5a7d8eeb-6441-4dd9-8080-397f25a70cd2/-/crop/1080x842/0,12/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/a7a3533b-596a-4469-8f53-ec2c9c09f951/-/crop/996x1311/57,23/-/preview/
+  https://ucarecdn.com/04e598d1-a391-4544-918b-979c4d529a45/-/crop/345x487/48,7/-/preview/
 firstName: Ai-My
 collection: Girls
-height: 155cm
+height: 157cm
 measurementType: bust
-bust: 72cm
-waist: 63cm
-hips: 80cm
+bust: 81cm
+waist: 66cm
+hips: 87cm
 size: '12'
-shoeSize: 6.5US
+shoeSize: '6.5'
 hair: 'Brown '
 eyes: Brown
 imagePortfolio:
