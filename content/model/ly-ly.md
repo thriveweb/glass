@@ -7,13 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/0b6d52ca-316d-41b8-ab68-4645c60cb9d9/-/crop/1020x1404/27,77/-/preview/
 firstName: Ly-Ly
 collection: Girls
-height: 133cm
+height: 138cm
 measurementType: bust
 bust: 60cm
 waist: 56cm
 hips: 68cm
-size: 7-8
-shoeSize: US1
+size: 8-10
+shoeSize: '2'
 hair: 'Light brown '
 eyes: 'Hazel/Green '
 imagePortfolio:
