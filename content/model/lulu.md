@@ -7,8 +7,8 @@ imageThumbnail: >-
   https://ucarecdn.com/c1620a13-4c26-4c94-ba7c-79088e270c0d/-/crop/970x1298/417,348/-/preview/
 firstName: Lulu
 collection: Girls
-height: 110cm
-size: 3-4
+height: 114cm
+size: 4-5
 shoeSize: '8'
 hair: Blonde
 eyes: Brown
