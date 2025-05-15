@@ -4,7 +4,7 @@ title: 'Ai-My '
 featuredImage: >-
   https://ucarecdn.com/5a7d8eeb-6441-4dd9-8080-397f25a70cd2/-/crop/1080x842/0,12/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/04e598d1-a391-4544-918b-979c4d529a45/-/crop/345x487/48,7/-/preview/
+  https://ucarecdn.com/04e598d1-a391-4544-918b-979c4d529a45/-/crop/363x503/39,0/-/preview/
 firstName: Ai-My
 collection: Girls
 height: 157cm
