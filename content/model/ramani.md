@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Ramani
+title: LI Ramani
 featuredImage: >-
   https://ucarecdn.com/b6719d3f-2293-4a8a-adc6-582bf4662c1c/-/crop/3130x1405/0,409/-/preview/
 imageThumbnail: >-
