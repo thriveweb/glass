@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: 'TE Chloe '
+title: 'TA Chloe '
 featuredImage: >-
   https://ucarecdn.com/f2516f89-117e-4bed-8d33-13824e7035b5/-/crop/485x271/0,121/-/preview/
 imageThumbnail: >-
