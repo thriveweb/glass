@@ -1,11 +1,21 @@
 ---
 template: ModelPage
-title: Michelle
+title: Michelle A
 featuredImage: >-
   https://ucarecdn.com/b75c9e2b-3e32-4a97-b904-260da51029a4/-/crop/2449x1043/0,135/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/3f6cf59b-3932-4297-a22c-ba45670abac1/-/crop/793x1238/692,142/-/preview/
-firstName: Michelle
+firstName: Michelle A
+collection: Classic
+height: 161cm
+measurementType: bust
+bust: 86cm
+waist: 66cm
+hips: 86cm
+size: '8'
+shoeSize: '6'
+hair: Dark Brown
+eyes: Brown
 imagePortfolio:
   - image: 'https://ucarecdn.com/39e7fc04-8cd1-4103-abd0-1d71a60337c1/'
   - image: 'https://ucarecdn.com/b68b95c5-0952-4adb-b355-ad049ad7727b/'
