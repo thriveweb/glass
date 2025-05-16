@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/8baa5e57-75f3-40f4-aa92-e26ebd765e01/-/crop/715x824/498,470/-/preview/
 firstName: Chloe
-collection: Emerging
+collection: Women
 height: 174cm
 measurementType: bust
 bust: 62cm
