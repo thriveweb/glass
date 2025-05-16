@@ -4,7 +4,7 @@ title: LI Ramani
 featuredImage: >-
   https://ucarecdn.com/b6719d3f-2293-4a8a-adc6-582bf4662c1c/-/crop/3130x1405/0,409/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/085c542b-18d3-4795-83be-35ca55a11cd5/-/crop/368x557/59,0/-/preview/
+  https://ucarecdn.com/085c542b-18d3-4795-83be-35ca55a11cd5/-/crop/432x606/30,0/-/preview/
 firstName: Ramani
 collection: Women
 height: 174cm
