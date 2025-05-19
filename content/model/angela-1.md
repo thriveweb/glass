@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Angela
+title: Angela C
 featuredImage: >-
   https://ucarecdn.com/d43c7075-bd58-424c-842e-98c7d968e739/-/crop/733x417/0,71/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/63d0bf27-c275-406d-b74e-f09f62612906/-/crop/432x610/17,0/-/preview/
-firstName: Angela
+firstName: Angela C
 collection: Classic
 height: 164cm
 measurementType: chest
