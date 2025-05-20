@@ -4,7 +4,7 @@ title: Caitlynn
 featuredImage: >-
   https://ucarecdn.com/1737eec6-16ef-45d9-aa09-e17d3d4a86d1/-/crop/554x393/0,197/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ea131ded-b2dc-4d17-b558-722c76aba44f/-/crop/980x1217/419,64/-/preview/
+  https://ucarecdn.com/68993b43-ad58-4cee-b856-fdbdbe3b87d8/-/crop/341x480/92,17/-/preview/
 firstName: Caitlynn
 collection: Women
 height: 166cm
