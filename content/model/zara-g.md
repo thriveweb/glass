@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/386c2552-0e99-4171-ad3f-2e250193aec9/-/crop/568x806/41,0/-/preview/
 firstName: Zara G
-collection: Commercial Faces
+collection: ''
 height: 163cm
 measurementType: bust
 bust: 85cm
