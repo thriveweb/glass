@@ -10,8 +10,8 @@ collection: Commercial Faces
 height: 170cm
 measurementType: bust
 bust: 104cm
-waist: 111cm
-hips: 101cm
+waist: 101cm
+hips: 111cm
 size: '14'
 shoeSize: '10'
 hair: 'Black '
