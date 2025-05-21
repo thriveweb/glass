@@ -8,6 +8,5 @@ firstName: ACTOR Sienna
 collection: Actors
 imagePortfolio:
   - image: 'https://ucarecdn.com/65f9a9a7-f804-49c4-80bf-28d01158415a/'
-  - image: 'https://ucarecdn.com/4bef9070-ee75-48a3-99b6-0067bd133c83/'
 ---
 
