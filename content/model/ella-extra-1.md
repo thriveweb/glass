@@ -10,7 +10,7 @@ measurementType: bust
 bust: 39'
 waist: 32'
 hips: 41'
-size: '14'
+size: '16'
 shoeSize: 10-11
 imagePortfolio:
   - image: 'https://ucarecdn.com/ee670ad4-a9be-41b9-9242-04180d918d17/'
