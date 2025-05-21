@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/2fae6ae1-e156-4026-8df0-8846e3e6c337/-/crop/869x1248/636,228/-/preview/
 firstName: Kelly B
-collection: Classic
+collection: ''
 height: 181cm
 measurementType: bust
 bust: 86cm
