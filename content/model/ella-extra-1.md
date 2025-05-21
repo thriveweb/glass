@@ -7,9 +7,9 @@ firstName: Ella J
 collection: Commercial Faces
 height: 5'10
 measurementType: bust
-bust: 39'
-waist: 32'
-hips: 41'
+bust: 109cm
+waist: 92cm
+hips: 110cm
 size: '16'
 shoeSize: 10-11
 imagePortfolio:
