@@ -2,7 +2,8 @@
 template: ModelPage
 title: A PRESENTER Daniella
 featuredImage: 'https://ucarecdn.com/03f0104e-e442-4479-8703-34446d4b48c5/'
-imageThumbnail: 'https://ucarecdn.com/4cadf989-6d59-4d4b-8332-1caaf8bfb894/'
+imageThumbnail: >-
+  https://ucarecdn.com/4cadf989-6d59-4d4b-8332-1caaf8bfb894/-/crop/687x884/164,37/-/preview/
 firstName: PRESENTER Daniella
 collection: Actors
 imagePortfolio:
