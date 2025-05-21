@@ -7,13 +7,15 @@ imageThumbnail: >-
   https://ucarecdn.com/f36d8988-9548-4b3d-8f47-6ef4c6d07aaf/-/crop/1288x1519/111,66/-/preview/
 firstName: Dash
 collection: Boys
-height: 111cm
+height: 110cm
 measurementType: chest
-bust: 56cm
-waist: 56cm
-hips: 62cm
-size: 5 - 6
+bust: 58cm
+waist: 53cm
+hips: 61cm
+size: 4-5
 shoeSize: '11'
+hair: Light Brown
+eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/4ffde830-51c8-443d-8e98-0816e7c13877/'
   - image: 'https://ucarecdn.com/5bfdc962-4a4e-42b9-a94f-30c98120c53b/'
