@@ -1,7 +1,7 @@
 ---
 template: ModelPage
 title: A PRESENTER Daniella
-featuredImage: 'https://ucarecdn.com/03f0104e-e442-4479-8703-34446d4b48c5/'
+featuredImage: 'https://ucarecdn.com/39b8ccec-0376-4e63-96b9-26ff6b69e69b/'
 imageThumbnail: >-
   https://ucarecdn.com/e793df09-98b9-43d6-a25a-1105534117e5/-/crop/339x456/47,11/-/preview/
 firstName: PRESENTER Daniella
