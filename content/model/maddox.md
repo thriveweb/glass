@@ -4,7 +4,7 @@ title: ACTOR Maddox
 featuredImage: 'https://ucarecdn.com/664d73c2-3c02-4d45-a1e8-a8d019912ce6/'
 imageThumbnail: >-
   https://ucarecdn.com/548fe81e-f1ed-4600-acc9-b20e1c494bcd/-/crop/1308x1802/153,24/-/preview/
-firstName: Maddox
+firstName: ACTOR Maddox
 collection: Actors
 height: 183cm
 measurementType: chest
