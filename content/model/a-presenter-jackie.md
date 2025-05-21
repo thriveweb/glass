@@ -2,10 +2,11 @@
 template: ModelPage
 title: A PRESENTER Jackie
 featuredImage: 'https://ucarecdn.com/f76e58aa-530c-43be-96ea-458c840b87d4/'
-imageThumbnail: 'https://ucarecdn.com/84cf0d5b-097c-41e9-9eb0-d20fbc3f2f2e/'
+imageThumbnail: >-
+  https://ucarecdn.com/f2577542-ac2f-4fbb-bcfe-5b2d633594f5/-/crop/392x590/56,11/-/preview/
 firstName: PRESENTER Jackie
 collection: Actors
 imagePortfolio:
-  - image: 'https://ucarecdn.com/e94339f8-f0ce-491b-bb19-d98425a6ec74/'
+  - image: 'https://ucarecdn.com/fce9e2d2-028d-45e2-b42b-a294db181f5e/'
 ---
 
