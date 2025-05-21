@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/ac2eb273-046b-4131-b379-f93c045c8bf8/-/crop/372x499/15,0/-/preview/
 firstName: Willow B
 collection: Girls
-height: 130cm
+height: 133cm
 measurementType: bust
-bust: 60cm
-waist: 59cm
-hips: 63cm
-size: '8'
+bust: 57cm
+waist: 50cm
+hips: 60cm
+size: 6-7
 shoeSize: '1'
 hair: Brown
 eyes: Blue
