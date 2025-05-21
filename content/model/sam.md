@@ -1,11 +1,11 @@
 ---
 template: ModelPage
-title: Sam
+title: Sam R
 featuredImage: >-
   https://ucarecdn.com/7b2cf17e-a9ec-45ac-8f12-a8e3389a1e9f/-/crop/1632x999/0,333/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/04373100-37b1-4a0d-bdcd-c180ed3bafee/-/crop/1254x1888/150,39/-/preview/
-firstName: Sam
+firstName: Sam R
 collection: Boys
 height: 130cm
 measurementType: chest
