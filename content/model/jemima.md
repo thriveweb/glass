@@ -7,21 +7,22 @@ imageThumbnail: >-
   https://ucarecdn.com/5f5e663d-6568-4fe8-b378-0467e74a9b90/-/crop/1037x1523/395,0/-/preview/
 firstName: Jemima
 collection: Emerging
-height: 158cm
+height: 1565cm
 measurementType: bust
-bust: 74cm
-waist: 61cm
-hips: 74cm
+bust: 77cm
+waist: 62cm
+hips: 73cm
 size: '12'
-shoeSize: '7.5'
+shoeSize: '7'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
   - image: 'https://ucarecdn.com/19af97c6-3c59-4fab-b243-e22cd91a0a4b/'
   - image: 'https://ucarecdn.com/22aaaff4-c72c-426c-b4fc-cce3a5cf1d77/'
   - image: 'https://ucarecdn.com/5e70cce0-eb73-4052-9379-f895c0441999/'
-  - image: 'https://ucarecdn.com/a30886fc-4b65-43af-a303-58b4d19e0b66/'
   - image: 'https://ucarecdn.com/c238f165-a2c6-4750-9f65-91e2e50648fb/'
+  - image: 'https://ucarecdn.com/a30886fc-4b65-43af-a303-58b4d19e0b66/'
+  - image: 'https://ucarecdn.com/093655f8-8fd2-48cf-a3b5-2c802f67472c/'
   - image: 'https://ucarecdn.com/3c0a3d6c-990e-446a-9e8f-ae2fe6663685/'
   - image: 'https://ucarecdn.com/90ad12f8-1bd0-4905-84a7-0b29e498a509/'
   - image: 'https://ucarecdn.com/b796a401-3745-4292-8013-f41a7da7a540/'
@@ -37,6 +38,7 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/bb2f7f4c-31fe-4d32-a1c8-8b4ab1dcb515/'
   - image: 'https://ucarecdn.com/44eef356-66a1-4551-b13c-6bb7e96d3602/'
   - image: 'https://ucarecdn.com/a8a6f006-d951-4d25-8354-682449ded3ea/'
+  - image: 'https://ucarecdn.com/4c18afb4-d90c-4a3a-8826-162d57710279/'
   - image: 'https://ucarecdn.com/d8f715a9-cbd0-435a-b50f-eac8d0504062/'
 meta:
   title: Jemima
