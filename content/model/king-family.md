@@ -4,7 +4,7 @@ title: King Family
 featuredImage: >-
   https://ucarecdn.com/4c5aa94c-8fe8-4171-983c-f1c9a807f1d8/-/crop/556x283/0,78/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/bb3d29e8-a91e-4206-b42c-c90305a784f5/-/crop/457x629/52,42/-/preview/
+  https://ucarecdn.com/ee7a1503-5f36-4333-898f-4cbe580f678f/-/crop/642x900/398,0/-/preview/
 firstName: King Family
 collection: Family
 imagePortfolio:
