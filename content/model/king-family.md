@@ -2,7 +2,7 @@
 template: ModelPage
 title: King Family
 featuredImage: >-
-  https://ucarecdn.com/4c5aa94c-8fe8-4171-983c-f1c9a807f1d8/-/crop/556x283/0,78/-/preview/
+  https://ucarecdn.com/aa49fb5a-ea07-44f8-91a2-aea180a7d0cb/-/crop/640x300/402,96/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/ee7a1503-5f36-4333-898f-4cbe580f678f/-/crop/642x900/398,0/-/preview/
 firstName: King Family
