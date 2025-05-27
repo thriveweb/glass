@@ -4,7 +4,7 @@ title: Annie
 featuredImage: >-
   https://ucarecdn.com/07a4e8f0-911f-4556-9428-a906c3939b67/-/crop/934x731/0,521/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/eea97870-7173-4bba-8bb7-9359411a1dd9/-/crop/1041x1503/243,65/-/preview/
+  https://ucarecdn.com/1e50e7e5-2a39-4e06-9626-15375ab7c242/-/crop/490x682/649,722/-/preview/
 firstName: Annie
 collection: Women
 height: 166cm
@@ -61,5 +61,11 @@ imagePortfolio:
   - image: 'https://ucarecdn.com/feab030c-2810-455f-8deb-fba56d67cde0/'
   - image: 'https://ucarecdn.com/edc40394-bf1c-44df-97ae-f7fb7f34d738/'
   - image: 'https://ucarecdn.com/8ae7ecae-9a39-4026-ab92-f19bb0af168d/'
+  - image: 'https://ucarecdn.com/65faadc1-80a7-4e82-a2ea-3133a73b5e69/'
+  - image: 'https://ucarecdn.com/98eba460-8e5c-4641-be8b-d48a4b047b33/'
+  - image: >-
+      https://ucarecdn.com/b5233c6c-60f0-4f24-a9ae-47b8c43fbd14/-/crop/1417x2056/175,302/-/preview/
+  - image: 'https://ucarecdn.com/c1b19e54-26d6-48dc-b3cd-bc401fb751ca/'
+  - image: 'https://ucarecdn.com/086895db-a411-45ce-a154-db9ec25c85dc/'
 ---
 
