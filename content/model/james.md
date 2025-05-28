@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: James
+title: KU James
 featuredImage: >-
   https://ucarecdn.com/0cd93a01-92e4-4a29-b35c-3eb5057a0a35/-/crop/2400x1319/0,891/-/preview/
 imageThumbnail: >-
