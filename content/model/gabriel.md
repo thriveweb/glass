@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/6ea84e40-822f-4cc6-9e31-a2cc55baebe9/-/crop/462x590/432,251/-/preview/
 firstName: Gabriel
-collection: ''
+collection: Men
 height: 184cm
 measurementType: chest
 bust: 90cm
