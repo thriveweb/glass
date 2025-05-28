@@ -1,6 +1,6 @@
 ---
 template: ModelPage
-title: Kumbi
+title: JA Kumbi
 featuredImage: >-
   https://ucarecdn.com/0d18e593-16df-454d-96b0-c23afc3175a2/-/crop/1428x825/0,0/-/preview/
 imageThumbnail: >-
