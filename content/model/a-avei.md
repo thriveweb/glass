@@ -3,7 +3,8 @@ template: ModelPage
 title: A Avei
 featuredImage: >-
   https://ucarecdn.com/ba1d1b99-7ace-4cca-a907-7a8a71f54279/-/crop/2449x1305/0,0/-/preview/
-imageThumbnail: 'https://ucarecdn.com/02a2db80-fab7-4b94-ba72-5317eb3bc08c/'
+imageThumbnail: >-
+  https://ucarecdn.com/02a2db80-fab7-4b94-ba72-5317eb3bc08c/-/crop/728x877/73,0/-/preview/
 firstName: Avei
 collection: Girls
 height: 159cm
