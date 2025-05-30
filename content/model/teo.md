@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/13bc4fb8-3e0b-4cc9-ab4c-3ce31485e281/-/crop/751x1011/438,0/-/preview/
 firstName: Teo
-collection: Boys
+collection: ''
 size: size 3
 shoeSize: '9'
 imagePortfolio:
