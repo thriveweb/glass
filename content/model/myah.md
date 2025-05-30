@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/29e04f97-7bac-4f7d-8802-89290205c0c0/-/crop/1066x1339/450,54/-/preview/
 firstName: Myah
-collection: Girls
+collection: ''
 height: 104cm
 size: size 4
 shoeSize: '10'
