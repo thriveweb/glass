@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/8ab9b184-e037-4b2e-88e3-ae4a9dc77ff4/-/crop/724x1024/662,249/-/preview/
 firstName: Harry
-collection: Boys
+collection: ''
 height: 127cm
 measurementType: chest
 bust: 58cm
