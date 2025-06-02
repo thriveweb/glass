@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/3ed615d6-505a-4b21-bb7c-262413c88e85/-/crop/784x1170/465,156/-/preview/
 firstName: Mia
-collection: Girls
+collection: ''
 height: 130cm
 measurementType: bust
 bust: 56cm
