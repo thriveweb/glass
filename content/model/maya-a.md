@@ -10,7 +10,7 @@ firstName: 'Maya '
 collection: Women
 height: 170cm
 measurementType: bust
-bust: 84cm
+bust: 83cm
 waist: 67cm
 hips: '93cm '
 size: Size 8
