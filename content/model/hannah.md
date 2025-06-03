@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/68c168b8-614a-4d96-850f-29f69382c046/-/crop/1572x2034/138,0/-/preview/
 firstName: Hannah Z
 collection: Girls
-height: 122cm
+height: 125cm
 measurementType: bust
 bust: 55cm
 waist: 48cm
 hips: 58cm
-size: '6'
+size: '7'
 shoeSize: US1
 hair: Black
 eyes: Brown
