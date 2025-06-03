@@ -7,7 +7,13 @@ imageThumbnail: >-
   https://ucarecdn.com/8ae2dc65-06c5-4dfc-9c5b-931facaf0407/-/crop/393x463/318,27/-/preview/
 firstName: Emerson
 collection: Boys
-size: '10'
+height: 144cm
+measurementType: chest
+bust: 66cm
+waist: 63cm
+hips: 66cm
+size: 8-10
+shoeSize: '5'
 hair: Brown
 eyes: Brown
 imagePortfolio:
