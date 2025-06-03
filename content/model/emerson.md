@@ -2,21 +2,23 @@
 template: ModelPage
 title: Emerson
 featuredImage: >-
-  https://ucarecdn.com/5a3efa9d-68bf-43dc-b3f0-7c742ac918bc/-/crop/1650x700/0,66/-/preview/
+  https://ucarecdn.com/8be5e5c1-4f89-4055-92e6-1a8bd67bc386/-/crop/928x388/0,376/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ffe34fd4-f35c-4cda-b243-b286a1c2092c/-/crop/594x861/44,28/-/preview/
+  https://ucarecdn.com/8ae2dc65-06c5-4dfc-9c5b-931facaf0407/-/crop/393x463/318,27/-/preview/
 firstName: Emerson
 collection: Boys
 size: '10'
 hair: Brown
 eyes: Brown
 imagePortfolio:
+  - image: 'https://ucarecdn.com/cae19c06-eecc-4955-8922-f25fc99a37e3/'
   - image: >-
       https://ucarecdn.com/629a97cb-6af7-469d-8a3a-f43ed98f26c5/-/crop/733x1059/0,41/-/preview/
-  - image: 'https://ucarecdn.com/21164801-6bf8-447c-a0fe-697aa7fbbbe5/'
   - image: 'https://ucarecdn.com/6e1c2f6b-fa0f-4de6-9bc3-4ee3d50b7c28/'
+  - image: 'https://ucarecdn.com/92c97b9b-5522-46f5-a400-5330b85a9fa3/'
   - image: >-
       https://ucarecdn.com/e271f796-dce2-41d3-b2e1-53c5d134f1eb/-/crop/1292x1100/358,0/-/preview/
+  - image: 'https://ucarecdn.com/102bc6ac-639b-4171-ace2-6cb28572743f/'
   - image: >-
       https://ucarecdn.com/25cbe6e1-7c1b-44bd-8b2b-8f0afee825b1/-/crop/1327x1100/323,0/-/preview/
   - image: >-
