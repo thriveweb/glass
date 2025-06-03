@@ -7,12 +7,12 @@ imageThumbnail: >-
   https://ucarecdn.com/f9d9291f-1388-4968-baa0-0af010f2fe70/-/crop/544x807/73,6/-/preview/
 firstName: Isla H
 collection: Girls
-height: 121cm
+height: 128cm
 measurementType: bust
-bust: 62cm
-waist: 55cm
-hips: 58cm
-size: '6'
+bust: 63cm
+waist: 58cm
+hips: 62cm
+size: 6-7
 shoeSize: '1'
 hair: Dark Blonde
 eyes: Green
