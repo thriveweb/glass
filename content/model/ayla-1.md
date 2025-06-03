@@ -7,7 +7,7 @@ imageThumbnail: >-
   https://ucarecdn.com/4ba3389a-7940-4205-ac62-e1845141a63e/-/crop/1114x1466/247,176/-/preview/
 firstName: Ayla
 collection: Girls
-height: 131cm
+height: 134cm
 measurementType: bust
 bust: 62cm
 waist: 58cm
