@@ -6,6 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/c99cbec1-253e-4d53-9d71-0f204adf5fcb/-/crop/425x621/164,207/-/preview/
 firstName: Kundai
+collection: Men
 height: 179cm
 measurementType: chest
 bust: 98cm
