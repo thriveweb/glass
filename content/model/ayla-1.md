@@ -9,9 +9,9 @@ firstName: Ayla
 collection: Girls
 height: 134cm
 measurementType: bust
-bust: 62cm
+bust: 64cm
 waist: 58cm
-hips: 65cm
+hips: 66cm
 size: '8'
 shoeSize: '2'
 hair: Blonde
