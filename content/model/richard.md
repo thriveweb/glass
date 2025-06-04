@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'Richard '
 featuredImage: >-
-  https://ucarecdn.com/c1158212-2b77-4b2e-bb9c-5577afc33759/-/crop/427x253/0,132/-/preview/
+  https://ucarecdn.com/071b1719-9c57-4b45-85b0-080652c5cf1c/-/crop/1633x854/0,527/-/preview/
 imageThumbnail: >-
   https://ucarecdn.com/803d5a65-3943-4bd2-89a9-f45a3d35abf2/-/crop/668x873/427,81/-/preview/
 firstName: Richard
