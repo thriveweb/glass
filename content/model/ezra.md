@@ -4,7 +4,7 @@ title: Ezra
 featuredImage: >-
   https://ucarecdn.com/b23cc881-3a6a-49cd-ae78-8d413797e92d/-/crop/533x277/0,258/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/ba87bc51-b05b-49a8-840c-f63b4245e4e1/-/crop/223x298/178,143/-/preview/
+  https://ucarecdn.com/863bbada-db89-4b6a-a6c3-65c7ee8f2fda/-/crop/411x546/732,476/-/preview/
 firstName: Ezra
 collection: Boys
 height: 93cm
