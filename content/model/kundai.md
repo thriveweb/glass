@@ -4,7 +4,7 @@ title: Kundai
 featuredImage: >-
   https://ucarecdn.com/4f3364f1-cb3d-4d05-86fe-2f150e16a90a/-/crop/1619x746/13,900/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/c99cbec1-253e-4d53-9d71-0f204adf5fcb/-/crop/425x621/164,207/-/preview/
+  https://ucarecdn.com/c99cbec1-253e-4d53-9d71-0f204adf5fcb/-/crop/496x653/121,207/-/preview/
 firstName: Kundai
 collection: Men
 height: 179cm
