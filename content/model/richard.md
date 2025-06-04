@@ -17,11 +17,11 @@ shoeSize: '10.5'
 hair: Black
 eyes: Dark Brown
 imagePortfolio:
-  - image: 'https://ucarecdn.com/2a43d1dc-9533-4fc9-9ccd-4050adaaaa59/'
-  - image: 'https://ucarecdn.com/9110a94f-bf15-4b45-a812-7ddb72eb579c/'
-  - image: 'https://ucarecdn.com/ba4c4c8e-c997-4ba3-a781-c72207f906ae/'
-  - image: 'https://ucarecdn.com/da592a2c-9800-4e85-bd44-4735c72cffbf/'
-  - image: 'https://ucarecdn.com/5315d352-452f-4968-aae0-cf65d8909f01/'
-  - image: 'https://ucarecdn.com/83373bf1-fbf4-4446-a586-f059a7ec8e76/'
+  - image: 'https://ucarecdn.com/c9498493-af44-439a-987d-51cbebefd86f/'
+  - image: 'https://ucarecdn.com/6094297e-b305-4d33-8b7e-48ec1458e4c8/'
+  - image: >-
+      https://ucarecdn.com/b30d5fc4-0820-4395-bb83-09f590e0114c/-/crop/1475x2200/73,127/-/preview/
+  - image: 'https://ucarecdn.com/44498e98-878c-40bb-aa44-82b0af03b158/'
+  - image: 'https://ucarecdn.com/b597ef39-40b2-4928-ba8a-a40bfb29cc79/'
 ---
 
