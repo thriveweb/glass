@@ -6,7 +6,7 @@ featuredImage: >-
 imageThumbnail: >-
   https://ucarecdn.com/803d5a65-3943-4bd2-89a9-f45a3d35abf2/-/crop/668x873/427,81/-/preview/
 firstName: Richard
-collection: Classic
+collection: ''
 height: 182cm
 measurementType: chest
 bust: 97cm
