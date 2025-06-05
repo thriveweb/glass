@@ -12,8 +12,8 @@ measurementType: chest
 bust: 85cm
 waist: 68cm
 hips: 85cm
-size: '14'
-shoeSize: '9'
+size: '16'
+shoeSize: '10.5'
 hair: Blonde
 eyes: Blue
 imagePortfolio:
