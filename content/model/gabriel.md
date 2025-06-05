@@ -4,7 +4,7 @@ title: Gabriel
 featuredImage: >-
   https://ucarecdn.com/ba2b17d5-88b1-4cde-bbf1-d272836d5917/-/crop/426x228/0,44/-/preview/
 imageThumbnail: >-
-  https://ucarecdn.com/3c3a0269-b616-4122-983d-25051ae3cc2e/-/crop/427x279/0,5/-/preview/
+  https://ucarecdn.com/18c76b6e-b5f7-4002-9f62-bb9cc8c88965/-/crop/219x284/171,94/-/preview/
 firstName: Gabriel
 collection: Men
 height: 184cm
