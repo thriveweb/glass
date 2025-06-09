@@ -3,7 +3,7 @@ template: ModelPage
 title: 'Priscilla '
 featuredImage: 'https://ucarecdn.com/07b66831-3065-4a66-bc10-0ff9e12617fa/'
 imageThumbnail: >-
-  https://ucarecdn.com/7bfa7f0c-8d80-4ece-adb6-d4dd371e86c7/-/crop/702x1053/75,0/-/preview/
+  https://ucarecdn.com/3bf35476-5b9f-4b9b-a122-49cf01c5d196/-/crop/402x585/23,10/-/preview/
 firstName: Priscilla
 collection: Classic
 height: 170cm
