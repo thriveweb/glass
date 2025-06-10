@@ -11,8 +11,8 @@ measurementType: chest
 bust: 95cm
 waist: 85cm
 hips: 105cm
-size: UK 9
-shoeSize: L/34
+size: L/34
+shoeSize: UK 9
 hair: Black
 eyes: Brown
 imagePortfolio:
