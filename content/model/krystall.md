@@ -14,7 +14,7 @@ bust: 95cm
 waist: 78cm
 hips: 101cm
 size: '12'
-shoeSize: 8.5cm
+shoeSize: '8.5'
 hair: Black
 eyes: Brown
 imagePortfolio:
