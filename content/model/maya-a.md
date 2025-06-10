@@ -2,7 +2,7 @@
 template: ModelPage
 title: 'C Maya '
 featuredImage: >-
-  https://ucarecdn.com/0b0cc5bb-88df-4aa5-a4ad-e82ed27fa5f0/-/crop/6000x3092/0,256/-/preview/
+  https://ucarecdn.com/0b0cc5bb-88df-4aa5-a4ad-e82ed27fa5f0/-/crop/6000x2614/0,734/-/preview/
 featuredVideo: ''
 featuredVideoMobile: ''
 imageThumbnail: >-
