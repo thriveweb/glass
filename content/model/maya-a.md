@@ -12,7 +12,7 @@ collection: Women
 height: 170cm
 measurementType: bust
 bust: 83cm
-waist: 67cm
+waist: 66cm
 hips: '93cm '
 size: Size 8
 shoeSize: 8-9
